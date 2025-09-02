@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Daily Compilation</title>
+    <link rel="icon" href="src/res/logo.ico" type="image/x-icon">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'heading': ['Merriweather', 'serif'],
+                        'body': ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        // Modern mint color palette
+                        primary: {
+                            50: '#f0fdf4',
+                            100: '#dcfce7',
+                            200: '#bbf7d0',
+                            300: '#86efac',
+                            400: '#4ade80',
+                            500: '#22c55e', /* Main mint color */
+                            600: '#16a34a',
+                            700: '#15803d',
+                            800: '#166534',
+                            900: '#14532d',
+                        },
+                        accent: {
+                            500: '#2dd4bf', // Teal
+                            600: '#0d9488',
+                            700: '#0f766e',
+                        },
+                        neutral: {
+                            50: '#fafafa',
+                            100: '#f5f5f5',
+                            200: '#e5e5e5',
+                            300: '#d4d4d4',
+                            400: '#a3a3a3',
+                            500: '#737373',
+                            600: '#525252',
+                            700: '#404040',
+                            800: '#262626',
+                            900: '#171717',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .article-card {
+                @apply transition-all duration-300 ease-in-out hover:-translate-y-1 hover:shadow-xl;
+            }
+            .article-card a {
+                @apply text-inherit no-underline;
+            }
+            .btn-primary {
+                @apply bg-gradient-to-r from-accent-500 to-accent-600 hover:from-accent-600 hover:to-accent-700 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 ease-in-out transform hover:-translate-y-0.5 focus:ring-2 focus:ring-accent-500 focus:ring-opacity-50 shadow-md hover:shadow-lg;
+            }
+            .btn-outline {
+                @apply border border-neutral-300 hover:border-neutral-400 text-neutral-700 font-medium py-2 px-4 rounded-lg transition-all duration-200 ease-in-out hover:bg-neutral-50 shadow-sm hover:shadow-md;
+            }
+            .btn-filter {
+                @apply px-4 py-2 rounded-lg border border-neutral-300 text-black font-medium transition-all duration-200 ease-in-out hover:bg-neutral-50 shadow-sm hover:shadow;
+            }
+            .btn-filter.active {
+                @apply bg-gradient-to-r from-accent-500 to-accent-600 text-white border-transparent hover:from-accent-600 hover:to-accent-700;
+            }
+            /* Toggle button styles */
+            .theme-toggle {
+                @apply flex items-center justify-center w-10 h-10 rounded-full bg-white/20 backdrop-blur-sm shadow-lg transition-all duration-300 ease-in-out;
+            }
+            .theme-toggle:hover {
+                @apply bg-white/30;
+            }
+            .theme-toggle .icon {
+                @apply text-white text-lg;
+            }
+            
+            /* Loading spinner */
+            .spinner {
+                border-top-color: #2dd4bf;
+                animation: spin 1s linear infinite;
+            }
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+            
+            /* Source icon styles */
+            .source-icon-header {
+                width: 20px;
+                height: 20px;
+                display: inline-block;
+                margin-right: 8px;
+                vertical-align: middle;
+            }
+            
+            /* Clean card design */
+            .clean-card {
+                @apply bg-white/90 backdrop-blur-sm rounded-xl shadow-md hover:shadow-xl transition-all duration-300 ease-in-out overflow-hidden border border-white/30;
+            }
+            
+            /* Title letter spacing */
+            .title-spacing {
+                @apply tracking-wide;
+            }
+            
+            /* Article image placeholder */
+            .image-placeholder {
+                @apply bg-gradient-to-br from-neutral-100 to-neutral-200;
+            }
+            
+            /* Particles background */
+            #particles-js {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index: -1;
+                transition: opacity 0.3s ease;
+            }
+            
+            /* Glassmorphism effect */
+            .glass {
+                @apply bg-white/20 backdrop-blur-md border border-white/30;
+            }
+            
+            /* Animated gradient text */
+            .gradient-text {
+                @apply bg-clip-text text-transparent bg-gradient-to-r from-white via-teal-100 to-teal-300;
+            }
+            
+            /* Header background */
+            .header-bg {
+                @apply bg-gradient-to-r from-black/20 to-black/10 backdrop-blur-sm rounded-2xl p-6;
+            }
+            
+            /* Light mode overrides */
+            .light .clean-card {
+                @apply bg-white/80 border-neutral-200/50;
+            }
+            
+            .light .glass {
+                @apply bg-white/30 border-neutral-200/50;
+            }
+            
+            .light .btn-outline {
+                @apply border-neutral-300 hover:border-neutral-400 text-neutral-700;
+            }
+            
+            .light .btn-filter {
+                @apply border-neutral-300 text-black;
+            }
+            
+            .light .btn-filter.active {
+                @apply text-white;
+            }
+            
+            .light .image-placeholder {
+                @apply bg-gradient-to-br from-neutral-100 to-neutral-200;
+            }
+            
+            .light .pagination {
+                @apply text-neutral-600;
+            }
+            
+            .light .theme-toggle .icon {
+                @apply text-neutral-800;
+            }
+            
+            .light .gradient-text {
+                @apply text-neutral-800;
+                background: none !important;
+                -webkit-background-clip: unset !important;
+                background-clip: unset !important;
+            }
+            
+            .light .header-bg {
+                @apply bg-gradient-to-r from-black/5 to-black/5 backdrop-blur-sm rounded-2xl p-6;
+            }
+            
+            .light .gradient-text {
+                @apply text-black bg-none;
+                background: none !important;
+                -webkit-background-clip: unset !important;
+                background-clip: unset !important;
+            }
+            
+            /* Dark mode */
+            .dark body {
+                @apply bg-gradient-to-br from-neutral-900 to-neutral-800 text-white;
+            }
+            
+            .dark .clean-card {
+                @apply bg-neutral-800/90 border-neutral-700/50 text-white;
+            }
+            
+            .dark .header-bg {
+                @apply bg-gradient-to-r from-black/30 to-black/20;
+            }
+            
+            .dark .text-neutral-600 {
+                @apply text-neutral-300;
+            }
+            
+            .dark .text-neutral-700 {
+                @apply text-neutral-300;
+            }
+            
+            .dark .btn-filter {
+                @apply text-white;
+            }
+            
+            .dark .border-t {
+                @apply border-white/10;
+            }
+            
+            .dark .pagination-text {
+                @apply text-neutral-300;
+            }
+            
+            .dark .pagination-text .font-bold {
+                @apply text-white;
+            }
+            
+            /* Light mode */
+            .light body {
+                @apply bg-gradient-to-br from-neutral-50 to-neutral-100 text-black;
+            }
+            
+            .light .pagination-text {
+                @apply text-neutral-600;
+            }
+            
+            .light .pagination-text .font-bold {
+                @apply text-black;
+            }
+            
+            /* Additional dark mode text color fixes */
+            .dark .article-card h2 {
+                @apply text-white;
+            }
+            
+            .dark .article-card p {
+                @apply text-neutral-200;
+            }
+            
+            .dark #articles-container .clean-card {
+                @apply text-white;
+            }
+            
+            .dark #articles-container .text-neutral-600 {
+                @apply text-neutral-300;
+            }
+            
+            /* Ensure consistent font sizes across all sources */
+            .article-card h2,
+            .article-card p {
+                font-size: inherit;
+            }
+            
+            /* Normalize article summary styling */
+            .article-card p.text-neutral-600 {
+                font-size: 0.875rem; /* text-sm equivalent */
+                line-height: 1.25rem; /* consistent line height */
+            }
+            
+            /* Override any source-specific styling that might affect font size */
+            .article-card p[class*="text-"] {
+                font-size: 0.875rem !important;
+            }
+            
+            /* Article title and summary spacing */
+            .article-card h2 {
+                margin-bottom: 0.25rem; /* Reduced spacing */
+            }
+            
+            .article-card p {
+                margin-top: 0.25rem; /* Reduced spacing */
+            }
+            
+            /* Prevent article content from stretching */
+            .article-card .flex-col {
+                justify-content: flex-start;
+            }
+        }
+    </style>
+</head>
+<body class="font-body relative overflow-x-hidden">
+    <!-- Particles Background -->
+    <div id="particles-js"></div>
+    
+    <!-- Top Controls: Sort Order and Dark Mode Toggle -->
+    <div class="fixed top-4 right-4 z-50 flex gap-2">
+        <!-- Sort Order Toggle -->
+        <button id="sort-toggle" class="theme-toggle" aria-label="Toggle sort order">
+            <i class="icon fas fa-clock text-lg"></i>
+        </button>
+        
+        <!-- Dark Mode Toggle -->
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+            <i class="icon fas fa-moon text-lg"></i>
+        </button>
+    </div>
+    
+    <div class="container mx-auto px-4 py-8 max-w-6xl relative z-10">
+        <header class="mb-12">
+            <div class="mb-10 header-bg">
+                <!-- Logo and Title -->
+                <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-6 mb-8">
+                    <div class="flex items-start pt-2">
+                        <!-- Logo placeholder -->
+                        <div class="w-16 h-16 rounded-xl flex items-center justify-center text-white text-2xl font-bold">
+                            <img id="logo-img" src="src/res/logo.svg" alt="The Daily Compile Logo" class="w-full h-full">
+                        </div>
+                        <h1 class="text-5xl md:text-7xl font-bold ml-4 title-spacing font-heading leading-snug overflow-visible pb-4 mb-2 -mt-1">
+                            <span class="gradient-text inline-block">
+                                The Daily Compilation
+                            </span>
+                        </h1>
+                    </div>
+                </div>
+
+                <!-- Filter Buttons -->
+                <div class="flex flex-wrap gap-3 mb-6">
+                    <button class="btn-filter active" data-filter="all">All News</button>
+                    <button class="btn-filter" data-filter="ai">AI</button>
+                    <button class="btn-filter" data-filter="consumer">Consumer</button>
+                    <button class="btn-filter" data-filter="security">Security</button>
+                    <button class="btn-filter" data-filter="cloud">Cloud</button>
+                    <button class="btn-filter" data-filter="fintech">Fintech</button>
+                </div>
+                
+                <!-- Source Links with Icons -->
+                <div class="flex flex-wrap gap-5 pt-6 border-t border-white/10">
+                    <a href="https://www.theverge.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="The Verge">
+                        <img src="src/res/verge.ico" alt="The Verge" class="source-icon-header">
+                        <span class="text-sm font-medium">The Verge</span>
+                    </a>
+                    <a href="https://www.theregister.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="The Register">
+                        <img src="src/res/register.ico" alt="The Register" class="source-icon-header">
+                        <span class="text-sm font-medium">The Register</span>
+                    </a>
+                    <a href="https://techcrunch.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="TechCrunch">
+                        <img src="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32" alt="TechCrunch" class="source-icon-header">
+                        <span class="text-sm font-medium">TechCrunch</span>
+                    </a>
+                    <a href="https://arstechnica.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="Ars Technica">
+                        <img src="https://cdn.arstechnica.net/favicon.ico" alt="Ars Technica" class="source-icon-header">
+                        <span class="text-sm font-medium">Ars Technica</span>
+                    </a>
+                    <a href="https://futurism.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="Futurism">
+                        <img src="src/res/futurism.ico" alt="Futurism" class="source-icon-header">
+                        <span class="text-sm font-medium">Futurism</span>
+                    </a>
+                </div>
+            </div>
+        </header>
+
+        <!-- Loading indicator -->
+        <div id="loading" class="flex justify-center my-16 hidden">
+            <div class="spinner rounded-full h-12 w-12 border-4 border-neutral-300 border-t-4"></div>
+        </div>
+
+        <!-- Error message -->
+        <div id="error-message" class="bg-red-500/20 border border-red-500/30 text-red-200 px-4 py-3 rounded-xl mb-8 hidden">
+            <p>Error loading news articles. Please try again later.</p>
+        </div>
+
+        <main>
+            <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+                <!-- Articles will be loaded here -->
+            </div>
+        </main>
+
+        <nav id="pagination" class="flex flex-col sm:flex-row justify-between items-center gap-4 pagination glass rounded-xl p-6 hidden pagination-text">
+            <div class="font-medium">
+                Page <span id="current-page" class="font-bold">1</span> of <span id="total-pages" class="font-bold">1</span>
+            </div>
+            
+            <div class="flex gap-2" id="pagination-buttons">
+                <!-- Pagination buttons will be added here -->
+            </div>
+        </nav>
+    </div>
+    
+    <footer class="py-10 text-center text-neutral-400 text-sm border-t border-white/10 mt-12 relative z-10">
+        <div class="container mx-auto px-4 max-w-6xl">
+            <p>Last updated: <span id="last-updated">Loading...</span></p>
+            <p class="mt-2">&copy; <span id="current-year"></span> Dan Knight. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Particles.js library -->
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script>
+        // Initialize particles.js
+        document.addEventListener('DOMContentLoaded', function() {
+            // Function to set particles based on theme
+            function setParticlesConfig() {
+                const isDarkMode = document.documentElement.classList.contains('dark');
+                const particleColor = isDarkMode ? "#5eead4" : "#9ca3af"; // Mint for dark, grey for light
+                
+                particlesJS('particles-js', {
+                    "particles": {
+                        "number": {
+                            "value": 80,
+                            "density": {
+                                "enable": true,
+                                "value_area": 800
+                            }
+                        },
+                        "color": {
+                            "value": particleColor
+                        },
+                        "shape": {
+                            "type": "circle",
+                            "stroke": {
+                                "width": 0,
+                                "color": "#000000"
+                            }
+                        },
+                        "opacity": {
+                            "value": 0.9,
+                            "random": true,
+                            "anim": {
+                                "enable": true,
+                                "speed": 0.5,
+                                "opacity_min": 0.3,
+                                "sync": false
+                            }
+                        },
+                        "size": {
+                            "value": 6,
+                            "random": true,
+                            "anim": {
+                                "enable": true,
+                                "speed": 1,
+                                "size_min": 0.5,
+                                "sync": false
+                            }
+                        },
+                        "line_linked": {
+                            "enable": true,
+                            "distance": 180,
+                            "color": particleColor,
+                            "opacity": 0.6,
+                            "width": 2
+                        },
+                        "move": {
+                            "enable": true,
+                            "speed": 1,
+                            "direction": "none",
+                            "random": true,
+                            "straight": false,
+                            "out_mode": "out",
+                            "bounce": false,
+                            "attract": {
+                                "enable": false,
+                                "rotateX": 600,
+                                "rotateY": 1200
+                            }
+                        }
+                    },
+                    "interactivity": {
+                        "detect_on": "canvas",
+                        "events": {
+                            "onhover": {
+                                "enable": true,
+                                "mode": "grab"
+                            },
+                            "onclick": {
+                                "enable": true,
+                                "mode": "push"
+                            },
+                            "resize": true
+                        },
+                        "modes": {
+                            "grab": {
+                                "distance": 180,
+                                "line_linked": {
+                                    "opacity": 0.9
+                                }
+                            },
+                            "push": {
+                                "particles_nb": 4
+                            }
+                        }
+                    },
+                    "retina_detect": true
+                });
+            }
+            
+            // Initialize with correct theme
+            setParticlesConfig();
+            
+            // Adjust particles container style based on theme
+            function adjustParticlesStyle() {
+                // Remove existing particles
+                const particlesContainer = document.getElementById('particles-js');
+                if (particlesContainer) {
+                    particlesContainer.innerHTML = '';
+                }
+                
+                // Reinitialize particles with new theme colors
+                setParticlesConfig();
+                
+                // Adjust opacity based on theme
+                const isDarkMode = document.documentElement.classList.contains('dark');
+                if (particlesContainer) {
+                    particlesContainer.style.opacity = isDarkMode ? '0.4' : '0.3';
+                }
+            }
+            
+            // Initial adjustment
+            adjustParticlesStyle();
+            
+            // Watch for theme changes
+            const observer = new MutationObserver(function(mutations) {
+                mutations.forEach(function(mutation) {
+                    if (mutation.attributeName === 'class') {
+                        adjustParticlesStyle();
+                    }
+                });
+            });
+            
+            observer.observe(document.documentElement, {
+                attributes: true,
+                attributeFilter: ['class']
+            });
+        });
+
+        // Theme toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const themeIcon = themeToggle.querySelector('.icon');
+        const htmlElement = document.documentElement;
+        
+        // Check for saved theme preference or respect OS setting
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const initialTheme = savedTheme || (prefersDark ? 'dark' : 'light');
+        
+        // Apply initial theme
+        htmlElement.classList.remove('light', 'dark');
+        htmlElement.classList.add(initialTheme);
+        document.body.classList.remove('light', 'dark');
+        document.body.classList.add(initialTheme);
+        updateThemeIcon(initialTheme);
+        
+        // Set initial logo based on theme
+        document.addEventListener('DOMContentLoaded', function() {
+            const logoImg = document.getElementById('logo-img');
+            if (logoImg) {
+                logoImg.src = initialTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
+            }
+        });
+        
+        // Update theme icon based on current theme
+        function updateThemeIcon(theme) {
+            if (theme === 'dark') {
+                themeIcon.classList.remove('fa-moon');
+                themeIcon.classList.add('fa-sun');
+            } else {
+                themeIcon.classList.remove('fa-sun');
+                themeIcon.classList.add('fa-moon');
+            }
+        }
+        
+        // Toggle theme function
+        function toggleTheme() {
+            const currentTheme = htmlElement.classList.contains('dark') ? 'dark' : 'light';
+            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+
+            // Apply new theme
+            htmlElement.classList.remove('light', 'dark');
+            htmlElement.classList.add(newTheme);
+            document.body.classList.remove('light', 'dark');
+            document.body.classList.add(newTheme);
+            
+            // Update logo based on theme
+            const logoImg = document.getElementById('logo-img');
+            if (logoImg) {
+                logoImg.src = newTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
+            }
+            
+            // Update icon
+            updateThemeIcon(newTheme);
+
+            // Save preference
+            localStorage.setItem('theme', newTheme);
+        }
+        
+        // Add event listener to toggle button
+        themeToggle.addEventListener('click', toggleTheme);
+        
+        // Sort toggle functionality
+        const sortToggle = document.getElementById('sort-toggle');
+        sortToggle.addEventListener('click', toggleSortOrder);
+
+        // News loading functionality
+        let allArticles = [];
+        let currentPage = 1;
+        const articlesPerPage = 18;
+        let currentFilter = 'all';
+        let isShuffled = false; // Track sort order state
+
+        // Filter definitions
+        const filters = {
+            'ai': ['AI', 'Artificial Intelligence', 'Machine Learning', 'Deep Learning', 'Neural Network', 'ChatGPT', 'GPT', 'LLM'],
+            'consumer': ['Apple', 'Samsung', 'Google', 'Amazon', 'Microsoft', 'iPhone', 'iPad', 'Mac', 'Android', 'Pixel', 'Galaxy', 'Surface', 'Echo', 'Alexa', 'Home', 'Smartphone', 'Tablet', 'Laptop', 'Spotify'],
+            'security': ['Security', 'Cybersecurity', 'Hack', 'Vulnerability', 'Encryption', 'Malware', 'Ransomware', 'Firewall', 'Threat', 'Attack', 'Breach', 'Privacy', 'Data Protection', 'Zero Day', 'Exploit', 'Phishing'],
+            'cloud': ['Cloud', 'AWS', 'Azure', 'Amazon Web Services', 'Microsoft Azure', 'Google Cloud', 'Cloud Computing', 'Serverless', 'Kubernetes', 'Docker', 'Container', 'Infrastructure', 'DevOps', 'SaaS', 'PaaS', 'IaaS'],
+            'fintech': ['Fintech', 'Cryptocurrency', 'Crypto', 'Bitcoin', 'Ethereum', 'Blockchain', 'DeFi', 'NFT', 'Digital Currency', 'Payment', 'Banking', 'Finance', 'Trading', 'Investment', 'Stablecoin', 'Smart Contract']
+        };
+
+        // Format date for display
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            }) + ' at ' + date.toLocaleTimeString('en-US', {
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        // Shuffle array using Fisher-Yates algorithm
+        function shuffleArray(array) {
+            const shuffled = [...array];
+            for (let i = shuffled.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+            }
+            return shuffled;
+        }
+
+        // Toggle sort order between chronological and shuffled
+        function toggleSortOrder() {
+            isShuffled = !isShuffled;
+            currentPage = 1; // Reset to first page
+            
+            // Update icon
+            const sortIcon = document.querySelector('#sort-toggle .icon');
+            if (isShuffled) {
+                sortIcon.classList.remove('fa-clock');
+                sortIcon.classList.add('fa-dice');
+            } else {
+                sortIcon.classList.remove('fa-dice');
+                sortIcon.classList.add('fa-clock');
+            }
+            
+            // Re-render articles
+            renderArticles();
+        }
+
+        // Check if an article matches the current filter
+        function articleMatchesFilter(article, filter) {
+            if (filter === 'all') return true;
+            
+            const filterKeywords = filters[filter] || [];
+            const title = article.title.toLowerCase();
+            const summary = article.summary.toLowerCase();
+            
+            return filterKeywords.some(keyword => 
+                title.includes(keyword.toLowerCase()) || 
+                summary.includes(keyword.toLowerCase())
+            );
+        }
+
+        // Filter articles based on current filter
+        function filterArticles(articles, filter) {
+            if (filter === 'all') return articles;
+            return articles.filter(article => articleMatchesFilter(article, filter));
+        }
+
+        // Load news from JSON file
+        async function loadNews() {
+            const loadingElement = document.getElementById('loading');
+            const errorMessage = document.getElementById('error-message');
+            const articlesContainer = document.getElementById('articles-container');
+            
+            // Show loading indicator
+            loadingElement.classList.remove('hidden');
+            errorMessage.classList.add('hidden');
+            articlesContainer.innerHTML = '';
+            
+            try {
+                const response = await fetch('news.json');
+                if (!response.ok) {
+                    throw new Error(`Failed to load news: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                allArticles = data.articles;
+                
+                // Update last updated time
+                document.getElementById('last-updated').textContent = formatDate(data.lastUpdated);
+                
+                // Render articles
+                renderArticles();
+                
+                // Hide loading indicator
+                loadingElement.classList.add('hidden');
+            } catch (error) {
+                console.error('Error loading news:', error);
+                loadingElement.classList.add('hidden');
+                errorMessage.classList.remove('hidden');
+            }
+        }
+
+        // Extract first sentence from HTML content
+        function extractFirstSentence(htmlContent) {
+            // Remove HTML tags
+            const textContent = htmlContent.replace(/<[^>]*>/g, '');
+            
+            // Find the first sentence (ending with . ! or ? followed by a space or end of string)
+            const sentenceMatch = textContent.match(/^[^.!?]*[.!?]/);
+            
+            if (sentenceMatch) {
+                return sentenceMatch[0].trim();
+            }
+            
+            // If no sentence found, return first 100 characters
+            return textContent.substring(0, 100) + (textContent.length > 100 ? '...' : '');
+        }
+        
+        // Process article summary for consistent display
+        function processArticleSummary(article) {
+            // For all articles, extract just the first sentence to keep summaries concise
+            return extractFirstSentence(article.summary);
+        }
+
+        // Render articles for current page
+        function renderArticles() {
+            const articlesContainer = document.getElementById('articles-container');
+            let filteredArticles = filterArticles(allArticles, currentFilter);
+            
+            // Apply sorting based on current sort order
+            if (isShuffled) {
+                filteredArticles = shuffleArray(filteredArticles);
+            }
+            
+            const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
+            const startIndex = (currentPage - 1) * articlesPerPage;
+            const endIndex = Math.min(startIndex + articlesPerPage, filteredArticles.length);
+            const pageArticles = filteredArticles.slice(startIndex, endIndex);
+            
+            // Clear container
+            articlesContainer.innerHTML = '';
+            
+            if (pageArticles.length === 0) {
+                articlesContainer.innerHTML = `
+                <div class="col-span-full text-center py-16 clean-card">
+                    <i class="fas fa-newspaper text-4xl text-neutral-400 mb-4"></i>
+                    <h3 class="text-xl font-semibold text-neutral-700 mb-2">No Articles Found Right Now</h3>
+                    <p class="text-neutral-500">Try selecting a different filter</p>
+                </div>
+                `;
+                return;
+            }
+            
+            // Render articles
+            pageArticles.forEach(article => {
+                // Process article summary for consistent display
+                const displaySummary = processArticleSummary(article);
+                
+                const articleElement = document.createElement('article');
+                articleElement.className = 'article-card clean-card';
+                articleElement.innerHTML = `
+                    <a href="${article.link}" target="_blank" rel="noopener" class="flex flex-col h-full">
+                        ${article.image_url ? 
+                            `<div class="relative overflow-hidden h-48">
+                                <img 
+                                    src="${article.image_url}" 
+                                    alt="${article.title}" 
+                                    class="w-full h-full object-cover transition-transform duration-700 ease-in-out hover:scale-105"
+                                    loading="lazy"
+                                    onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\\'image-placeholder w-full h-full flex items-center justify-center\\'><i class=\\'fas fa-image text-neutral-400 text-2xl\\'></i></div>';"
+                                >
+                            </div>` : 
+                            `<div class="image-placeholder w-full h-48 flex items-center justify-center">
+                                <i class="fas fa-image text-neutral-400 text-2xl"></i>
+                            </div>`
+                        }
+                        
+                        <div class="p-6 flex-1 flex flex-col">
+                            <div class="flex items-center mb-3">
+                                <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-accent-500/10 text-accent-700 border border-accent-500/20">
+                                    ${article.source}
+                                </span>
+                                <span class="mx-2 text-neutral-400">•</span>
+                                <span class="text-xs text-neutral-500">
+                                    ${formatDate(article.published)}
+                                </span>
+                            </div>
+                            
+                            <h2 class="text-3xl font-semibold text-neutral-900 mb-1 line-clamp-3 leading-tight">
+                                ${article.title}
+                            </h2>
+                            
+                            <p class="text-neutral-600 text-sm line-clamp-3 mt-1">
+                                ${displaySummary}
+                            </p>
+                        </div>
+                    </a>
+                `;
+                articlesContainer.appendChild(articleElement);
+            });
+            
+            // Update pagination
+            updatePagination(totalPages);
+        }
+
+        // Update pagination controls
+        function updatePagination(totalPages) {
+            const paginationElement = document.getElementById('pagination');
+            const currentPageElement = document.getElementById('current-page');
+            const totalPagesElement = document.getElementById('total-pages');
+            const paginationButtons = document.getElementById('pagination-buttons');
+            
+            if (totalPages <= 1) {
+                paginationElement.classList.add('hidden');
+                return;
+            }
+            
+            paginationElement.classList.remove('hidden');
+            currentPageElement.textContent = currentPage;
+            totalPagesElement.textContent = totalPages;
+            
+            // Clear existing buttons
+            paginationButtons.innerHTML = '';
+            
+            // Previous button
+            if (currentPage > 1) {
+                const prevButton = document.createElement('button');
+                prevButton.className = 'px-4 py-2 rounded-lg border border-neutral-300/30 hover:bg-white/20 transition-colors duration-200 flex items-center shadow-sm text-neutral-300 text-sm';
+                prevButton.innerHTML = '<i class="fas fa-chevron-left mr-2"></i> Previous';
+                prevButton.addEventListener('click', () => {
+                    currentPage--;
+                    renderArticles();
+                });
+                paginationButtons.appendChild(prevButton);
+            }
+            
+            // Next button
+            if (currentPage < totalPages) {
+                const nextButton = document.createElement('button');
+                nextButton.className = 'px-4 py-2 rounded-lg bg-gradient-to-r from-accent-500 to-accent-600 text-white hover:from-accent-600 hover:to-accent-700 transition-all duration-200 flex items-center shadow-md hover:shadow-lg text-sm';
+                nextButton.innerHTML = 'Next <i class="fas fa-chevron-right ml-2"></i>';
+                nextButton.addEventListener('click', () => {
+                    currentPage++;
+                    renderArticles();
+                });
+                paginationButtons.appendChild(nextButton);
+            }
+        }
+
+        // Filter button functionality
+        document.querySelectorAll('.btn-filter').forEach(button => {
+            button.addEventListener('click', function() {
+                // Update active button
+                document.querySelectorAll('.btn-filter').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                this.classList.add('active');
+                
+                // Set current filter
+                currentFilter = this.getAttribute('data-filter');
+                currentPage = 1; // Reset to first page
+                
+                // Render articles with new filter
+                renderArticles();
+            });
+        });
+
+        
+
+        // Set current year in copyright
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+        
+        // Load news when page loads
+        document.addEventListener('DOMContentLoaded', loadNews);
+    </script>
+</body>
+</html>"<!-- Force rebuild -->" 

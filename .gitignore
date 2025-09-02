@@ -1,0 +1,7 @@
+# Add virtual environment to gitignore
+venv/
+__pycache__/
+*.pyc
+.env"QWEN.md"  
+"README.md.rej"  
+"news.json.rej" 

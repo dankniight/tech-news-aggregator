@@ -1,0 +1,14 @@
+[Unit]
+Description=News Aggregator Service
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/path/to/your/project
+ExecStart=/usr/bin/python3 src/news_aggregator.py
+Restart=always
+RestartSec=1800
+
+[Install]
+WantedBy=multi-user.target

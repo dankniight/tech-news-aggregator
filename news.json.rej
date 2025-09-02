@@ -1,0 +1,547 @@
+diff a/news.json b/news.json	(rejected hunks)
+@@ -1,325 +1,325 @@
+ {
+-  "lastUpdated": "2025-08-23T23:57:45.760542",
++  "lastUpdated": "2025-08-26T12:24:04.834319",
+   "articles": [
+     {
+-      "title": "OpenAI warns against SPVs and other ‘unauthorized’ investments",
+-      "link": "https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/",
+-      "summary": "OpenAI isn't the only AI company looking to crack down on SPVs.",
+-      "published": "Sat, 23 Aug 2025 20:26:46 +0000",
++      "title": "Spotify launches a messaging feature in a bid to become more social",
++      "link": "https://techcrunch.com/2025/08/26/spotify-launches-a-messages-feature-in-a-bid-to-become-more-social/",
++      "summary": "Spotify will now allow users to send messages to each other through a new chat feature to share content.",
++      "published": "Tue, 26 Aug 2025 11:00:00 +0000",
+       "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801"
++      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Spotify-messages.jpg?resize=1200,683"
+     },
+     {
+-      "title": "Amazon AGI Labs chief defends his reverse acquihire",
+-      "link": "https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/",
+-      "summary": "The former Adept CEO said he hopes to be \"remembered more as \"an AI research innovator\" than a \"a deal structure innovator.\"",
+-      "published": "Sat, 23 Aug 2025 20:01:04 +0000",
++      "title": "Tesla could have avoided that $242.5M Autopilot verdict, filings show",
++      "link": "https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/",
++      "summary": "Instead, a jury awarded plaintiffs $242.5 million in compensatory and punitive damages.",
++      "published": "Mon, 25 Aug 2025 23:32:47 +0000",
+       "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024"
++      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-12.40.05-pm.png?resize=1200,664"
+     },
+     {
+-      "title": "The Trump administration’s big Intel investment comes from already awarded grants",
+-      "link": "https://techcrunch.com/2025/08/23/the-trump-administrations-big-intel-investment-comes-from-already-awarded-grants/",
+-      "summary": "While Intel says the government is making an “$8.9 billion investment in Intel common stock,” the administration does not appear to be committing new funds.",
+-      "published": "Sat, 23 Aug 2025 16:07:30 +0000",
++      "title": "a16z spends $1.49M in Washington lobbying, while rivals mostly sit out",
++      "link": "https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/",
++      "summary": "Venture giant Andreessen Horowitz is burning cash to shape policy on the Hill.",
++      "published": "Mon, 25 Aug 2025 23:17:27 +0000",
+       "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/newsroom-robert-noyce-bldg-2.jpg.rendition.intel_.web_.1920.1080.jpg?resize=1200,675"
++      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675"
+     },
+     {
+-      "title": "Why wind farms attract so much misinformation and conspiracy theory",
+-      "link": "https://arstechnica.com/science/2025/08/why-wind-farms-attract-so-much-misinformation-and-conspiracy-theory/",
+-      "summary": "If you think climate change is a hoax, you might believe wind turbines poison groundwater.",
+-      "published": "Sat, 23 Aug 2025 11:07:40 +0000",
+-      "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-520301232-1152x648.jpg"
++      "title": "Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield",
++      "link": "https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/",
++      "summary": "The startup ecosystem in Central Eurasia is having its moment. What started as 485 applications from across 27 countries has culminated in the largest startup pitch competition in Central Eurasia's history.",
++      "published": "Mon, 25 Aug 2025 22:27:59 +0000",
++      "source": "TechCrunch",
++      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Road2Battlefield_FINAL_August15.png?resize=1200,750"
+     },
+     {
+-      "title": "An inner-speech decoder reveals some mental privacy issues",
+-      "link": "https://arstechnica.com/science/2025/08/an-inner-speech-decoder-reveals-some-mental-privacy-issues/",
+-      "summary": "Words you'll never speak still cause activity in the brain's speech centers.",
+-      "published": "Sat, 23 Aug 2025 11:00:57 +0000",
+-      "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20250814_Brain_Computer_Interface_JG_02-1152x648.jpg"
++      "title": "Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025",
++      "link": "https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/",
++      "summary": "The Startup Battlefield 2025 judging panel is getting even stronger. Our first wave of VCs brought serious firepower, and now we’re adding more top investors who will grill founders, unpack the big questions, and help crown this year’s $100,000 champion at TechCrunch Disrupt, October 27–29 in San Francisco’s Moscone West.",
++      "published": "Mon, 25 Aug 2025 21:18:48 +0000",
++      "source": "TechCrunch",
++      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/TC25_Krane-Hudson-Sauvage-Stanton-Subotovsky_5-Speaker-16x9-Dark.png?resize=1200,675"
+     },
+     {
+-      "title": "Two men fell gravely ill last year; their infections link to deaths in the ’80s",
+-      "link": "https://arstechnica.com/health/2025/08/two-men-fell-gravely-ill-last-year-their-infections-link-to-deaths-in-the-80s/",
+-      "summary": "The bacterium is known to live in Mississippi, but the new cases may expand its range.",
+-      "published": "Fri, 22 Aug 2025 22:28:42 +0000",
++      "title": "Google will block sideloading of unverified Android apps starting next year",
++      "link": "https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/",
++      "summary": "Google says it's no different than checking IDs at the airport.",
++      "published": "Mon, 25 Aug 2025 20:52:55 +0000",
+       "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages_Burkholderia_CROPPED-1152x648.jpeg"
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg"
+     },
+     {
+-      "title": "College student’s “time travel” AI experiment accidentally outputs real 1834 history",
+-      "link": "https://arstechnica.com/information-technology/2025/08/ai-built-from-1800s-texts-surprises-creator-by-mentioning-real-1834-london-protests/",
+-      "summary": "Hobbyist training AI on Victorian texts gets an unexpected history lesson from his own creation.",
+-      "published": "Fri, 22 Aug 2025 22:13:56 +0000",
+-      "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/1800s_protests-1152x648.jpg"
++      "title": "AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit",
++      "link": "https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/",
++      "summary": "Experts say that many of the AI industry’s design decisions are likely to fuel episodes of AI psychosis. Many raised concerns about several tendencies that are unrelated to underlying capability.",
++      "published": "Mon, 25 Aug 2025 20:50:31 +0000",
++      "source": "TechCrunch",
++      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Meta-bot-self-portrait-4.jpeg?w=753"
+     },
+     {
+-      "title": "Meta partners with Midjourney on AI image and video models",
+-      "link": "https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/",
+-      "summary": "Meta's chief AI officer said that the company is partnering with Midjourney to license its AI image and video model technology.",
+-      "published": "Fri, 22 Aug 2025 21:41:31 +0000",
+-      "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799"
++      "title": "Senator castigates federal judiciary for ignoring “basic cybersecurity”",
++      "link": "https://arstechnica.com/security/2025/08/senator-to-supreme-court-justice-federal-court-hacks-threaten-us-security/",
++      "summary": "Breaches in 2020 and 2025, reportedly by foreign adversaries, exposed confidential files.",
++      "published": "Mon, 25 Aug 2025 19:58:07 +0000",
++      "source": "Ars Technica",
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+     },
+     {
+-      "title": "Coinbase CEO explains why he fired engineers who didn’t try AI immediately",
+-      "link": "https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/",
+-      "summary": "After getting licenses to cover every engineer, some at the cryptocurrency exchange warned Armstrong that adoption would be slow, predicting it would take months to get even half the engineers using AI.",
+-      "published": "Fri, 22 Aug 2025 21:07:21 +0000",
+-      "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-22-at-11.08.48AM.png?resize=1200,738"
++      "title": "Blade Runner makes its live-action return next year",
++      "link": "https://arstechnica.com/culture/2025/08/sequel-series-blade-runner-2099-set-to-premiere-in-2026/",
++      "summary": "New series will star Michelle Yeoh and take place 50 years after the 2017 film.",
++      "published": "Mon, 25 Aug 2025 19:48:00 +0000",
++      "source": "Ars Technica",
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/blade-runner-2049-trailer3-700x293.jpg"
+     },
+     {
+-      "title": "Bluesky blocks service in Mississippi over age assurance law",
+-      "link": "https://techcrunch.com/2025/08/22/bluesky-blocks-service-in-mississippi-over-age-assurance-law/",
+-      "summary": "In a blog post published on Friday, the company explains that, as a small team, it doesn't have the resources to make the substantial technical changes this type of law would require, and it raised concerns about the law's broad scope and privacy implications.",
+-      "published": "Fri, 22 Aug 2025 20:30:49 +0000",
+-      "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/bluesky_media_kit_banner_4.jpg?resize=1200,900"
++      "title": "Horrifying screwworm infection confirmed in US traveler after overseas trip",
++      "link": "https://arstechnica.com/health/2025/08/screwworm-larvae-eat-their-way-into-us-via-overseas-travelers-flesh/",
++      "summary": "It's not a first—there was a case last year—but it's still disturbing.",
++      "published": "Mon, 25 Aug 2025 19:38:14 +0000",
++      "source": "Ars Technica",
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
+     },
+     {
+-      "title": "Trump says US will take 10% stake in Intel because CEO wants to “keep his job”",
+-      "link": "https://arstechnica.com/tech-policy/2025/08/intel-agrees-to-sell-the-us-a-10-stake-trump-says-hyping-great-deal/",
+-      "summary": "Intel deal could pave the way for the US to profit off CHIPS Act funding.",
+-      "published": "Fri, 22 Aug 2025 20:14:14 +0000",
++      "title": "Elon Musk sues Apple and OpenAI, revealing his panic over OpenAI dominance",
++      "link": "https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/",
++      "summary": "OpenAI slams Musk’s lawsuit as part of his \"ongoing pattern of harassment.\"",
++      "published": "Mon, 25 Aug 2025 19:28:53 +0000",
+       "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230318424-1024x648.jpg"
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2198394113-1152x648-1756145899.jpg"
+     },
+     {
+-      "title": "Apple gets ready for AI in the enterprise with new ChatGPT configuration options",
+-      "link": "https://techcrunch.com/2025/08/22/apple-gets-ready-for-ai-in-the-enterprise-with-new-chatgpt-configuration-options/",
+-      "summary": "Apple will let businesses configure ChatGPT enterprise access in the fall.",
+-      "published": "Fri, 22 Aug 2025 20:00:34 +0000",
++      "title": "Bounce launches a service for moving accounts between Bluesky and Mastodon",
++      "link": "https://techcrunch.com/2025/08/25/bounce-launches-a-service-for-moving-accounts-between-bluesky-and-mastodon/",
++      "summary": "Bounce publicly debuts a tool that will let you move your account between open social networks like Bluesky and Mastodon.",
++      "published": "Mon, 25 Aug 2025 19:00:00 +0000",
+       "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"
++      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/fediverse-logos-general.jpg?resize=1200,675"
+     },
+     {
+-      "title": "Developer gets 4 years for activating network “kill switch” to avenge his firing",
+-      "link": "https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/",
+-      "summary": "Disgruntled developer was caught after naming the \"kill switch\" after himself.",
+-      "published": "Fri, 22 Aug 2025 19:21:32 +0000",
++      "title": "CBS caved to Trump—now he’s seeking punishments for ABC and NBC",
++      "link": "https://arstechnica.com/tech-policy/2025/08/cbs-caved-to-trump-now-hes-seeking-punishments-for-abc-and-nbc/",
++      "summary": "Trump says ABC and NBC \"give me 97% BAD STORIES,\" urges FCC to revoke licenses.",
++      "published": "Mon, 25 Aug 2025 18:47:29 +0000",
+       "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1152x648.jpg"
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg"
+     },
+     {
+-      "title": "US government plans to take a 10% stake in Intel",
+-      "link": "https://techcrunch.com/2025/08/22/u-s-government-plans-to-take-a-10-stake-in-intel/",
+-      "summary": "Such federal government ownership of a major corporation would mark a dramatic departure from long-standing U.S. policy.",
+-      "published": "Fri, 22 Aug 2025 19:14:36 +0000",
+-      "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024"
++      "title": "Like Intel before it, AMD blames motherboard makers for burnt-out CPUs",
++      "link": "https://arstechnica.com/gadgets/2025/08/like-intel-before-it-amd-blames-motherboard-makers-for-burnt-out-cpus/",
++      "summary": "Users of X3D CPUs in ASRock motherboards seem to be at particularly high risk.",
++      "published": "Mon, 25 Aug 2025 18:37:50 +0000",
++      "source": "Ars Technica",
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_2759-1152x648.jpeg"
+     },
+     {
+-      "title": "4chan refuses to pay UK Online Safety Act fines, asks Trump admin to intervene",
+-      "link": "https://arstechnica.com/tech-policy/2025/08/4chan-refuses-to-pay-uk-online-safety-act-fines-asks-trump-admin-to-intervene/",
+-      "summary": "4chan asks US to \"invoke all legal levers\" in fight against Online Safety Act.",
+-      "published": "Fri, 22 Aug 2025 19:04:06 +0000",
+-      "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg"
++      "title": "Google will require developer verification for Android apps outside the Play Store",
++      "link": "https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/",
++      "summary": "Google will ask all Android developers to verify their identity starting next year.",
++      "published": "Mon, 25 Aug 2025 18:23:12 +0000",
++      "source": "TechCrunch",
++      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/google-android-logo.jpg?resize=1200,800"
+     },
+     {
+-      "title": "TikTok denies India comeback after reports of website going live",
+-      "link": "https://techcrunch.com/2025/08/22/tiktok-denies-india-comeback-after-reports-of-website-going-live/",
+-      "summary": "TikTok isn’t making a comeback in India.",
+-      "published": "Fri, 22 Aug 2025 18:59:43 +0000",
++      "title": "NotebookLM’s Video Overviews feature now supports 80 languages",
++      "link": "https://techcrunch.com/2025/08/25/notebooklms-video-overview-feature-now-supports-80-languages/",
++      "summary": "NotebookLM’s Video Overviews now supports 80 languages, including French and Spanish.",
++      "published": "Mon, 25 Aug 2025 18:17:57 +0000",
+       "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/tiktok-india.jpg?resize=1200,800"
++      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/notebooklm-video-overviews.png?resize=1200,574"
+     },
+     {
+-      "title": "Google says it dropped the energy cost of AI queries by 33x in one year",
+-      "link": "https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/",
+-      "summary": "The company claims that a text query now burns the equivalent of 9 seconds of TV.",
+-      "published": "Fri, 22 Aug 2025 18:53:12 +0000",
++      "title": "YouTube secretly tested AI video enhancement without notifying creators",
++      "link": "https://arstechnica.com/google/2025/08/youtube-secretly-tested-ai-video-enhancement-without-notifying-creators/",
++      "summary": "Google says this isn't technically \"GenAI,\" but it is altering videos without warning.",
++      "published": "Mon, 25 Aug 2025 18:16:43 +0000",
+       "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-1024x648.jpg"
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-1152x648-1740156964.jpg"
+     },
+     {
+-      "title": "Apple is in talks to use Google’s Gemini for Siri revamp, report says",
+-      "link": "https://techcrunch.com/2025/08/22/apple-is-in-talks-to-use-googles-gemini-for-siri-revamp-report-says/",
+-      "summary": "Apple promised a major revamp to Siri, but the company's AI capabilities have lagged behind competitors.",
+-      "published": "Fri, 22 Aug 2025 18:15:08 +0000",
+-      "source": "TechCrunch",
+-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?resize=1200,800"
++      "title": "Peter Dinklage as The Toxic Avenger is finally coming to theaters",
++      "link": "https://arstechnica.com/culture/2025/08/toxic-avenger-gets-grindhouse-style-trailer/",
++      "summary": "It's not for the squeamish, but if a campy blood-splattered B-movie is your jam, the film opens Aug. 29.",
++      "published": "Mon, 25 Aug 2025 17:49:49 +0000",
++      "source": "Ars Technica",
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/avenger1-1152x648-1756139334.jpg"
+     },
+     {
+-      "title": "US military’s X-37B spaceplane stays relevant with launch of another mission",
+-      "link": "https://arstechnica.com/space/2025/08/spacex-boeing-team-up-for-another-flight-of-the-militarys-x-37b-spaceplane/",
+-      "summary": "The X-37B spaceplane is flying missions few would have foreseen when the program began.",
+-      "published": "Fri, 22 Aug 2025 17:54:35 +0000",
+-      "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/f9_otv8_launch1-1152x648.jpg"
++      "title": "Elon Musk’s xAI sues Apple and OpenAI, alleging anticompetitive collusion",
++      "link": "https://techcrunch.com/2025/08/25/elon-musks-xai-sues-apple-and-openai-alleging-anticompetitive-collusion/",
++      "summary": "According to Musk, Apple and OpenAI are colluding to stifle competition from other AI companies.",
++      "published": "Mon, 25 Aug 2025 17:30:38 +0000",
++      "source": "TechCrunch",
++      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-491588398.jpg?resize=1200,797"
+     },
+     {
+-      "title": "For some people, music doesn’t connect with any of the brain’s reward circuits",
+-      "link": "https://arstechnica.com/science/2025/08/for-some-people-music-doesnt-connect-with-any-of-the-brains-reward-circuits/",
+-      "summary": "Neuroscientists find people who don't enjoy music, study their brain activity.",
+-      "published": "Fri, 22 Aug 2025 17:44:44 +0000",
++      "title": "With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency",
++      "link": "https://arstechnica.com/space/2025/08/with-a-new-soyuz-rocket-russia-seeks-to-break-its-ukrainian-dependency/",
++      "summary": "Now you Zenit, now you don't.",
++      "published": "Mon, 25 Aug 2025 17:17:20 +0000",
+       "source": "Ars Technica",
+-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-599813440-1024x648.jpg"
++      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202741417-1024x648.jpg"
+     },
+     {
+-      "title": "Search-capable AI agents may cheat on benchmark tests",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/23/searchcapable_ai_agents_may_cheat/",
+-      "summary": "<h4>Data contamination can make models seem more capable than they really are</h4> <p>Researchers with Scale AI have found that search-based AI models may cheat on benchmark tests by fetching the answers directly from online sources rather than deriving those answers through a \"reasoning\" process.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+-      "published": "2025-08-23T14:32:06.00Z",
++      "title": "Silver State goes dark as cyberattack knocks Nevada websites offline",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/26/nevada_cyberattack/",
++      "summary": "<h4>Phone lines also down as officials rely on social media to issue updates</h4> <p>The state of Nevada is now two days into a cyberattack that has brought down many of its digital services.…</p>",
++      "published": "2025-08-26T09:50:12.00Z",
+       "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2021/01/28/test.jpg"
++      "image_url": "https://regmedia.co.uk/2015/07/31/grand_canyon_a.jpg"
+     },
+     {
+-      "title": "Bose’s compact TV Speaker is more than $100 off right now",
+-      "link": "https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale",
+-      "summary": "If you’re looking to upgrade your movie night, a soundbar is an easy way to beef up the audio. While there are some high-priced options out there, you don’t have to spend a lot to actually hear a movie’s dialog. Right now, the Bose TV Speaker is down to $163.45 (about $115 off) at Amazon, [&#8230;]",
+-      "published": "2025-08-23T12:41:24-04:00",
+-      "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Bose-TV-Speaker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "title": "One long sentence is all it takes to make LLMs misbehave",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/26/breaking_llms_for_fun/",
++      "summary": "<h4>Chatbots ignore their guardrails when your grammar sucks, researchers find</h4> <p>Security researchers from Palo Alto Networks' Unit 42 have discovered the key to getting large language model (LLM) chatbots to ignore their guardrails, and it's quite simple.…</p>",
++      "published": "2025-08-26T08:34:07.00Z",
++      "source": "The Register",
++      "image_url": "https://regmedia.co.uk/2017/11/27/spouting.jpg"
+     },
+     {
+-      "title": "VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/23/virtualbox_72_fixes_3d_guests/",
+-      "summary": "<h4>Oracle-backed FOSS hypervisor a worthy rival to Hyper-V and VMware</h4> <p><strong>hands on</strong>  VirtualBox 7.2 is here, bringing improved Arm-on-Arm virtualization features and better 3D acceleration support.…</p>",
+-      "published": "2025-08-23T11:01:14.00Z",
++      "title": "Malware-ridden apps made it into Google's Play Store, scored 19 million downloads",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/26/apps_android_malware/",
++      "summary": "<h4>Everything's fine, the ad slinger assures us</h4> <p>Cloud security vendor Zscaler says customers of Google’s Play Store have downloaded more than 19 million instances of malware-laden apps that evaded the web giant’s security scans.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
++      "published": "2025-08-26T07:31:12.00Z",
+       "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2025/08/21/shutterstock_arm.jpg"
++      "image_url": "https://regmedia.co.uk/2021/09/29/shutterstock_phone_virus.jpg"
+     },
+     {
+-      "title": "What&#8217;s on your desk, Dominic Preston?",
+-      "link": "https://www.theverge.com/tech/762930/home-office-logitech-standing-desk",
+-      "summary": "Not all of The Verge’s staff live in the US. For example, news editor Dominic Preston is based in London and is, as he says, “responsible for keeping our news coverage ticking over in UK mornings before the US team comes online.” He also curates our new Verge Daily newsletter and covers Android phones, especially [&#8230;]",
+-      "published": "2025-08-23T11:00:00-04:00",
++      "title": "Spotify is adding DMs",
++      "link": "https://www.theverge.com/news/765771/spotify-messages-dms-audio-sharing-feature",
++      "summary": "Spotify is introducing a direct messaging feature that allows users to share music, podcast, and audiobook recommendations with each other without leaving the app. Messages is rolling out in “select markets” this week, according to Spotify’s press release, and will be available on mobile devices for Free and Premium users aged 16 years and older. [&#8230;]",
++      "published": "2025-08-26T07:00:00-04:00",
+       "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/whats-on-your-desk-dominic-preston-16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Messages-on-Spotify-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "The Fairphone 6 no longer feels like a compromise (except in the US)",
+-      "link": "https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise",
+-      "summary": "The Fairphone 6 arrives almost two years after the 5, a testament to the company's approach to the upgrade cycle. If anything, I suspect the company would be frustrated if Fairphone 5 owners were considering a new model already - these are phones to keep, to repair, and to hold on to until the bitter [&#8230;]",
+-      "published": "2025-08-23T09:30:00-04:00",
+-      "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fairphone-6-15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "title": "Two wrongs don’t make a copyright",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/26/opinion_column_copyright_ads/",
++      "summary": "<h4>What the Dickens is going on in Germany?</h4> <p><strong>Opinion</strong>  Let’s talk law and let’s talk donkey. Or. in the British vernacular, ass. In particular, let’s go back to Charles Dickens, a pungent critic of the law, who had one of his characters in Oliver Twist say of a legal assumption that “If the law supposes that, the law is a ass - a idiot.”…</p>",
++      "published": "2025-08-26T06:23:08.00Z",
++      "source": "The Register",
++      "image_url": "https://regmedia.co.uk/2021/09/23/shutterstock_ads.jpg"
+     },
+     {
+-      "title": "Ninja Gaiden: Ragebound is a perfect reimagining of the classic series",
+-      "link": "https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc",
+-      "summary": "Ninja Gaiden is having a renaissance. The last mainline entry was originally released more than a decade ago, but by the end of 2025, there will be three new Ninja Gaiden titles. Two are 3D: Ninja Gaiden 2 Black, a modern-day remaster of Ninja Gaiden II released earlier this year, and Ninja Gaiden 4, co-developed [&#8230;]",
+-      "published": "2025-08-23T09:00:00-04:00",
+-      "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_8aff638775921a8dc1dec6916ea29cb2bc6f9f4a.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "title": "Trump threatens extra tariffs, tech export bans, for any nation that dares to regulate Big Tech",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/26/trump_tech_tax_threat/",
++      "summary": "<h4>Poor defenseless tech companies need help despite massive profits, low tax bills, and monopoly positions</h4> <p><strong>+COMMENT</strong>  US president Donald Trump has threatened to impose extra tariffs on imports from any nation that dares to regulate American technology companies.…</p>",
++      "published": "2025-08-26T04:29:10.00Z",
++      "source": "The Register",
++      "image_url": "https://regmedia.co.uk/2024/10/03/shutterstock_maga.jpg"
+     },
+     {
+-      "title": "The Unix Epochalypse might be sooner than you think",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/23/the_unix_epochalypse_might_be/",
+-      "summary": "<h4>Museum boffins find code that crashes in 2037</h4> <p>A stark warning about the upcoming Epochalypse, also known as the \"Year 2038 problem,\" has come from the past, as National Museum Of Computing system restorers have discovered an unsetting issue while working on ancient systems.…</p>",
+-      "published": "2025-08-23T08:23:07.00Z",
++      "title": "VMware finally porting Cloud Foundation to Arm – in baby steps",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/26/vmware_cloud_foundation_arm_port/",
++      "summary": "<h4>Because AI, like everything else this year</h4> <p><strong>EXCLUSIVE</strong>  VMware will port its flagship hypervisor and Cloud Foundation suite to the Arm processor architecture.…</p>",
++      "published": "2025-08-26T00:46:15.00Z",
+       "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2025/08/19/pdp_y2038.jpg"
++      "image_url": "https://regmedia.co.uk/2025/08/26/shutterstock_what_took_you_so_long.jpg"
+     },
+     {
+-      "title": "Will Trump help 4Chan escape the UK’s internet police?",
+-      "link": "https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump",
+-      "summary": "After the United Kingdom began enforcing its sweeping Online Safety Act in April, British regulator Ofcom served violation notices to three notorious sites: 4chan, Gab, and Kiwi Farms, each of which risked multimillion-dollar fines. Late last week, Preston Byrne, a First Amendment lawyer representing them, struck back. Byrne announced he would sue Ofcom in US [&#8230;]",
+-      "published": "2025-08-23T08:00:00-04:00",
+-      "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257906_4chan_UK_online_safety_law_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "title": "Nvidia touts Jetson Thor kit for real-time robot reasoning",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/25/nvidia_touts_jetson_thor_kit/",
++      "summary": "<h4>GPU modules for AI and robotics take aim at latency</h4> <p>Nvidia has released a new brain for humanoid robots called Jetson Thor that promises more compute power and more memory than its predecessor.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
++      "published": "2025-08-25T22:47:07.00Z",
++      "source": "The Register",
++      "image_url": "https://regmedia.co.uk/2025/08/25/jetson_thor_screenshot.jpg"
+     },
+     {
+-      "title": "US government snaps up 10% of Intel for $8.9B",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/23/us_government_snaps_up_10/",
+-      "summary": "<h4>The funds were already allocated under the CHIPS Act and Secure Enclave program</h4> <p>Congratulations America, your government now owns 10 percent of troubled domestic chipmaker Intel.…</p>",
+-      "published": "2025-08-23T00:04:42.00Z",
++      "title": "Trump made Intel an offer it couldn't refuse",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/25/intel_gets_trumped/",
++      "summary": "<h4>10 percent equity and maybe that $8.9 billion in CHIPS funds you're waiting on doesn't get lost in red tape</h4> <p><strong>Comment</strong>  We know US President Donald Trump isn't a fan of the US Chips Act. But, turn a government handout into a tit-for-tat transaction and the self described \"master dealmaker\" is singing a different tune.…</p>",
++      "published": "2025-08-25T22:28:48.00Z",
+       "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2024/11/07/shutterstock_trump2024.jpg"
++      "image_url": "https://regmedia.co.uk/2025/03/25/shutterstock_trump.jpg"
+     },
+     {
+-      "title": "Google games numbers to make AI look less thirsty",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/22/googles_gemini_water/",
+-      "summary": "<h4>Datacenters' drinking habit exaggerated, claims report comparing apples to oranges</h4> <p>AI's drinking habit has been grossly overstated, according to a newly published report from Google, which claims that software advancements have cut Gemini's water consumption per prompt to roughly five drops of water — substantially less than prior estimates.…</p>",
+-      "published": "2025-08-22T21:56:57.00Z",
++      "title": "VMware before Broadcom was ‘A unicorn in fluffy cloudland’",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/25/yves_sandfort_comdivision_vmware_interview/",
++      "summary": "<h4>The CEO of VMware’s most ardent partner – Yves Sandfort of comdivision – on what’s gone well, and where Broadcom needs to do better</h4> <p>In the 20 months since Broadcom took over VMware, Yves Sandfort has become the most ardent and prolific commentator on the acquisition. The CEO of Germany-headquartered VMware partner Comdivision Consulting has created almost 300 videos and still has plenty to say about where VMware went wrong, and where Broadcom needs to improve.…</p>",
++      "published": "2025-08-25T22:05:24.00Z",
+       "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2022/04/21/shutterstock_google_datacenter.jpg"
++      "image_url": "https://regmedia.co.uk/2021/03/16/rainbow_bridge_to_the_cloud.jpg"
+     },
+     {
+-      "title": "Short circuit: Electronics supplier to tech giants suffers ransomware shutdown",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/22/data_io_ransomware_attack_temporarily/",
+-      "summary": "<h4>Amazon, Apple, Google, and Microsoft among major customers</h4> <p>Data I/O, a major electronics manufacturer whose customers include Amazon, Apple, Google, and Microsoft, notified federal regulators that it fell victim to a ransomware infection on August 16 that continues to disrupt its business operations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+-      "published": "2025-08-22T21:07:02.00Z",
+-      "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2022/10/21/auto_tech.jpg"
++      "title": "YouTube TV could lose Fox channels this week",
++      "link": "https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute",
++      "summary": "With the start of the NFL season looming, it’s also a window where many TV contracts are up for renewal, and on Monday evening, YouTube TV and Fox sent out alerts indicating that their contract could come to an end as soon as August 27th, at 5PM ET. Google-owned YouTube TV says that “Fox is [&#8230;]",
++      "published": "2025-08-25T20:26:22-04:00",
++      "source": "The Verge",
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "AI giants call for energy grid kumbaya",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/22/microsoft_nvidia_openai_power_grid/",
+-      "summary": "<h4>Microsoft, Nvidia, and OpenAI researchers warn of uneven power usage associated with AI training, and propose possible fixes</h4> <p>Researchers at Microsoft, Nvidia, and OpenAI have issued a call to designers of software, hardware, infrastructure, and utilities for help finding ways to normalize power demand during AI training.…</p>",
+-      "published": "2025-08-22T20:08:11.00Z",
++      "title": "Linux Foundation says yes to NoSQL via DocumentDB",
++      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/25/linux_foundation_says_yes_to/",
++      "summary": "<h4>PostgreSQL implementation of document-oriented NoSQL datastore adopted under permissive MIT license</h4> <p>The Linux Foundation on Monday welcomed Microsoft's DocumentDB into its stable of open source projects, waving the document database's permissive MIT license as if it were an \"Open for Business\" sign.…</p>",
++      "published": "2025-08-25T20:20:55.00Z",
+       "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2022/03/09/microsoft_data_center_quincy.jpg"
++      "image_url": "https://regmedia.co.uk/2016/10/12/licenseplates.jpg"
+     },
+     {
+-      "title": "Thunderbird 142 lands with modest upgrades – plus talk of Pro service ahead",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/22/thunderbird_142/",
+-      "summary": "<h4>Bug fixes, message links, and hints of Exchange support in the pipeline</h4> <p>Mozilla-owned subsidiary MZLA has released a new version of the Thunderbird messaging client and shared details on the forthcoming paid Thunderbird Pro service.…</p>",
+-      "published": "2025-08-22T19:46:11.00Z",
+-      "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2024/07/22/thunderbird_shutterstock.jpg"
++      "title": "The new entry-level Kindle Colorsoft is $30 off for a limited time",
++      "link": "https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale",
++      "summary": "Amazon’s 16GB Kindle Colorsoft is less than a month old, but it’s already on sale for $219.99 ($30 off) at Amazon, Best Buy, and Target. Meanwhile, the new Colorsoft Kids — which includes a 12-month subscription to Amazon Kids Plus, a two-year extended warranty, and a cover-style case — has been discounted to $239.99 ($30 [&#8230;]",
++      "published": "2025-08-25T18:00:00-04:00",
++      "source": "The Verge",
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Colorsoft-Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "New Yorkers will soon be able to yell 'I'm walkin here!' to Waymo robotaxis",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/22/new_york_waymo_ratso_rizzo/",
+-      "summary": "<h4>But it's just a test, as NYC still doesn't allow driverless for-hire cars</h4> <p>Waymo robotaxis are set to return to the streets of New York City after a four-year absence. But with a list of caveats longer than a Midtown bagel shop brunch line, Waymo's return isn't something for pedestrians to get nervous about yet. …</p>",
+-      "published": "2025-08-22T19:06:55.00Z",
+-      "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2025/08/22/nyc_street_crowd.jpg"
++      "title": "The 58 best Labor Day deals we’ve found so far",
++      "link": "https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025",
++      "summary": "Labor Day marks the unofficial end of summer, and while the prospect of cooler weather and shorter days can be a tough adjustment, at least there is always a great selection of deals to combat the post-summer blues. You’ll have to wait until September 1st to celebrate the actual holiday, sure, but in the meantime, [&#8230;]",
++      "published": "2025-08-25T16:16:01-04:00",
++      "source": "The Verge",
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623453/DSCF0042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "Kidney dialysis giant DaVita tells 2.4M people they were snared in ransomware data theft nightmare",
+-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/22/davita_ransomware_infection/",
+-      "summary": "<h4>Health details, tax ID numbers, even images of checks were stolen, reportedly by the Interlock gang</h4> <p>Ransomware scum breached kidney dialysis firm Davita's labs database in April and stole about 2.4 million people's personal and health-related information.…</p>",
+-      "published": "2025-08-22T19:05:06.00Z",
+-      "source": "The Register",
+-      "image_url": "https://regmedia.co.uk/2018/01/22/patienthospitalbed.jpg"
++      "title": "Google Nest Camera and Doorbell leak shows off new colors and 2K video recording",
++      "link": "https://www.theverge.com/news/765373/google-home-nest-cam-doorbell-2k-video-leak-gemini",
++      "summary": "According to a new report from Android Headlines, Google’s next-generation Nest Cams might get an upgrade from 1080p to 2K. Along with a series of leaked images that it says show off new colors for Google’s next set of devices, the report indicates the upcoming battery-powered Nest Cam and its indoor-only counterpart may feature new [&#8230;]",
++      "published": "2025-08-25T14:54:18-04:00",
++      "source": "The Verge",
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/nest-leak.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo",
+-      "link": "https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit",
+-      "summary": "Apple is suing a former employee on the Apple Watch team who left to join Oppo, alleging that he “conspired to steal Apple’s trade secrets relating to Apple Watch and to disclose them to his new employers.” Ahead of starting his new job at Oppo, the employee, Dr. Chen Shi, attended “dozens” of meetings with [&#8230;]",
+-      "published": "2025-08-22T18:20:31-04:00",
++      "title": "Our favorite smart lock is on sale for the first time today",
++      "link": "https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale",
++      "summary": "Setting up a smart home security system is important, even if you never want to think about having to use it. Thankfully, Kwikset’s Halo Select — the best smart lock we’ve ever tested — is currently down to $259 ($20 off) at Amazon, Lowe’s, and The Home Depot, marking the first time the lock has [&#8230;]",
++      "published": "2025-08-25T12:38:42-04:00",
+       "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Verge-Deals-Kwikset-Halo-Select-Smart-Lock.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "US government takes 10 percent stake in Intel in exchange for money it was already on the hook for",
+-      "link": "https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal",
+-      "summary": "The US is investing $8.9 billion into Intel, but most of the funds come from money that the government was supposed to pay the embattled chipmaker anyway. In an announcement on Friday, Intel said the federal government will fund its investment using the remaining $5.7 billion in grants it hasn’t yet received under the Biden [&#8230;]",
+-      "published": "2025-08-22T17:45:38-04:00",
++      "title": "Elon Musk&#8217;s xAI is suing OpenAI and Apple",
++      "link": "https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit",
++      "summary": "Elon Musk is suing Apple and OpenAI over claims that their deal to build ChatGPT into the iPhone is stifling competition in the AI industry. In a lawsuit filed on Monday, the Musk-owned X Corp. and xAI also accuse Apple’s Apple Store of “deprioritizing” rival chatbots and “super” apps, including Grok and X. Musk’s companies [&#8230;]",
++      "published": "2025-08-25T12:15:50-04:00",
+       "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2230632606.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "Netflix wants its partners to follow these rules when using gen AI",
+-      "link": "https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines",
+-      "summary": "Netflix has already faced backlash over the use of AI in  What Jennifer Did, director Jenny Popplewell&#8217;s 2024 true crime documentary that seemingly used AI-generated images in place of real archival photos. That documentary stood out as a shining example of gen AI&#8217;s ability to distort reality in situations where people are specifically looking to [&#8230;]",
+-      "published": "2025-08-22T17:22:47-04:00",
++      "title": "This new delivery robot will bring the entire grocery store to you",
++      "link": "https://www.theverge.com/news/765167/robomart-autonomous-food-delivery-locker-rm5",
++      "summary": "A new company aims to take the idea of sidewalk delivery robots and supersize it. Los Angeles-based Robomart unveiled its new delivery robot Monday, with the goal of making “on‑demand delivery work economically.” The level-four autonomous vehicle is the size of a shuttle bus and can carry up to 500 lbs of payload. With no [&#8230;]",
++      "published": "2025-08-25T12:04:25-04:00",
+       "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/RM5_Branding_Side.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "Bluesky blocks Mississippi under new age verification law",
+-      "link": "https://www.theverge.com/internet-censorship/764697/bluesky-blocks-mississippi-age-verification-law",
+-      "summary": "Bluesky will block access from Mississippi IP addresses in response to a new state law requiring age verification and parental consent for underage users. The decision, outlined in a blog post, will stand until courts decide the fate of the law. “Mississippi&#8217;s approach would fundamentally change how users access Bluesky,” says the post, in ways [&#8230;]",
+-      "published": "2025-08-22T17:09:14-04:00",
++      "title": "Trump told a major offshore wind project to stop construction just before it reached the finish line",
++      "link": "https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt",
++      "summary": "The Revolution Wind farm was already 80 percent complete before the US Bureau of Ocean Energy Management sent it a letter Friday to “halt all ongoing activities” to address purported national security concerns and “interference” with other potential uses for the area.&#160;&#160; The move comes as data centers, domestic manufacturing, and electric vehicles are raising [&#8230;]",
++      "published": "2025-08-25T11:45:45-04:00",
+       "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK133_BLUESKY__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2156801514.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     },
+     {
+-      "title": "Meta is going to stuff Midjourney AI images into your feed",
+-      "link": "https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership",
+-      "summary": "Meta is partnering with Midjourney to “license their aesthetic technology” for use in its own models and products, Meta’s new chief AI officer, Alexandr Wang, announced on Friday. The partnership involves a “technical collaboration between our research teams,” Wang said, suggesting the deal involves more than simply using Midjourney’s existing product across Meta services. Wang [&#8230;]",
+-      "published": "2025-08-22T17:07:04-04:00",
++      "title": "The new Fi Mini pet tracker has GPS, and it&#8217;s barely bigger than an AirTag",
++      "link": "https://www.theverge.com/news/765132/fi-mini-gps-pet-lost-dog-cat-location-tracking",
++      "summary": "Fi, the pet tech company known for its smart dog collar, has launched a clip-on GPS tracker that it says is the perfect size for your feline friend or small dog. The Fi Mini weighs just 0.56 ounces (16 grams), allowing you to keep tabs on your pet with real-time escape alerts and live tracking [&#8230;]",
++      "published": "2025-08-25T11:13:14-04:00",
+       "source": "The Verge",
+-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
++      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fi_mini_4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+     }
+   ]
+ }
+\ No newline at end of file
