@@ -1,0 +1,13 @@
+{
+  "name": "news-aggregator",
+  "version": "1.0.0",
+  "description": "A Python-based news aggregator with a modern web interface",
+  "main": "src/news_aggregator.py",
+  "scripts": {
+    "start": "python src/news_aggregator.py",
+    "dev": "python src/news_aggregator.py && python -m http.server 8000"
+  },
+  "keywords": ["news", "aggregator", "python", "rss"],
+  "author": "Your Name",
+  "license": "MIT"
+}
