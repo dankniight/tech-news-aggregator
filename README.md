@@ -2,7 +2,7 @@
 
 This is a Python-based news aggregator that fetches articles from various tech news sources and displays them in a clean, modern web interface.
 
-It is viewable here: https://dankniight.github.io/newspage/
+It is viewable here: https://dankniight.github.io/tech-news-aggregator/
 
 ## Features
 
