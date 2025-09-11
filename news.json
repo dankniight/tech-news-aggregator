@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-11T06:34:02.969742",
+  "lastUpdated": "2025-09-11T12:45:04.141035",
   "articles": [
     {
       "title": "Exactly Six Months Ago, the CEO of Anthropic Said That in Six Months AI Would Be Writing 90 Percent of Code",
@@ -242,6 +242,102 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9tranche1-1-1152x648-1757536238.jpg"
     },
     {
+      "title": "Neo4j cozies up to Microsoft as 'property sharding' promises to overcome scalability struggle",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/neo4j_cozies_up_to_microsoft/",
+      "summary": "<h4>Graph database fave also punts for transactional workloads</h4> <p>Neo4j has introduced \"property sharding\" which, according to one analyst, will help overcome its earlier struggles with scalability, while also allowing transactional workloads on the same system.…</p>",
+      "published": "2025-09-11T12:30:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/03/04/shutterstock_gnu_linux.jpg"
+    },
+    {
+      "title": "Microsoft folds Sales, Service, Finance Copilots into 365",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/sales_service_finance_copilots/",
+      "summary": "<h4>$50 standalone bots now bundled in $30 package</h4> <p>Microsoft is re-badging its Sales, Service, and Finance Copilots and slashing what it charges for them.…</p>",
+      "published": "2025-09-11T11:45:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/09/07/copilot_shutterstock.jpg"
+    },
+    {
+      "title": "Brussels faces privacy crossroads over encryption backdoors",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/eu_chat_control/",
+      "summary": "<h4>Over 600 security boffins say planned surveillance crosses the line</h4> <p>Europe, long seen as a bastion of privacy and digital rights, will debate this week whether to enforce surveillance on citizens' devices.…</p>",
+      "published": "2025-09-11T11:00:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/02/29/snooping_image_via_shutterstock.jpg"
+    },
+    {
+      "title": "Attacker steals customer data from Brit rail operator LNER during break-in at supplier",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/lner_says_customer_data_stolen/",
+      "summary": "<h4>Major UK player cagey on specifics but latest attack follows string blamed on 'third party' suppliers</h4> <p>One of the UK's largest rail operators, LNER, is the latest organization to spill user data via a third-party data breach.…</p>",
+      "published": "2025-09-11T10:15:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/12/12/train_shuttertock.jpg"
+    },
+    {
+      "title": "Experts scrutinized Ofcom's Online Safety Act governance. They're concerned",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/concern_and_sympathy_as_experts/",
+      "summary": "<h4>Academics and OSA stakeholders say watchdog needs to amend how controversial legislation is enforced</h4> <p>Industry experts expressed both concern and sympathy for Ofcom, the Brit regulator that is overseeing the Online Safety Act, as questions mount over the effectiveness of the controversial legislation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-11T09:30:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/01/13/parliament_photo_by_shutterstock.jpg"
+    },
+    {
+      "title": "BAE Systems surfaces autonomous submarine for military use",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/bae_systems_surfaces_autonomous_submarine/",
+      "summary": "<h4>Battery powered now, fuel-cells tomorrow - all packed in a shipping box</h4> <p>Following a series of trials, defense biz BAE Systems says it is readying an autonomous military submarine for the end of next year.…</p>",
+      "published": "2025-09-11T08:45:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/10/baesystemssub.jpg"
+    },
+    {
+      "title": "Sega reportedly called police after mistakenly scrapping Nintendo dev kits",
+      "link": "https://www.theverge.com/news/776260/sega-police-raid-nintendo-dev-kits",
+      "summary": "A UK-based video game reseller claims Sega was behind a police raid that seized a trove of Nintendo development kits from his home, according to a report from Time Extension. The seller, who reportedly purchased the collection from a scrapyard, accuses Sega of getting the police involved to recover the dev kits after mistakenly throwing [&#8230;]",
+      "published": "2025-09-11T08:41:12-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSCF5293.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft 365 Copilot bundles sales, service, and finance Copilots in October",
+      "link": "https://www.theverge.com/news/776235/microsoft-365-copilot-bundle-sales-service-finance-announcement",
+      "summary": "I exclusively reported last week that Microsoft was about to shake up its Microsoft 365 Copilot pricing, and now the company has officially revealed that its sales, service, and finance Copilots are being bundled into Microsoft 365 Copilot. Microsoft currently offers business Copilot access for $30 per user per month, and if you want the [&#8230;]",
+      "published": "2025-09-11T08:22:06-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Meet R1, a Chinese tech giant’s rival to Tesla’s Optimus robot",
+      "link": "https://www.theverge.com/news/776224/ant-group-tesla-optimus-rival-r1",
+      "summary": "Chinese tech behemoth Ant Group, which owns payment platform Alipay, has been showing off its first humanoid robot at tech conferences this month. It joins a growing wave of companies carving out space along a fresh frontier in automation by combining artificial intelligence with physical tech. Videos and news reports show Robbyant’s R1 robot cooking [&#8230;]",
+      "published": "2025-09-11T08:10:25-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/robbyant-image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft puts last remnants of original Edge browser on life support",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/legacy_edge_components_added_to/",
+      "summary": "<h4>Not yet gone and not yet forgotten, but on their way</h4> <p>Microsoft has added a raft of web components to its list of deprecated features, including legacy Edge developer tools and hosted web apps.…</p>",
+      "published": "2025-09-11T08:00:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/10/shutterstock_1939300630.jpg"
+    },
+    {
+      "title": "Borderlands 4 turns off your brain and turns on the fun",
+      "link": "https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox",
+      "summary": "I love me a stupid-ass action movie. Something where the plot is thin while the muscles and accents on all the henchmen are thick as hell. Think Broken Arrow or Eraser - movies that were artistically and sometimes commercially terrible but nevertheless thrilling watches that you forgot about almost immediately after leaving the theater. Borderlands [&#8230;]",
+      "published": "2025-09-11T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ss_839e42450db5a80971c093ff81b3798f7a7b0dc3_94f562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Dashboard anxiety plagues IT pros' nights, weekends, vacations",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/dashboard_survey/",
+      "summary": "<h4>Admins can't stop checking their portals, survey finds</h4> <p>A new survey confirms what many IT pros already know: downtime doesn't exist, with dashboards and alerts intruding on their free time.…</p>",
+      "published": "2025-09-11T07:15:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/02/10/shutterstock_worried_smartphone_user.jpg"
+    },
+    {
       "title": "'Questing Quokka' enters UI freeze as Ubuntu 25.10 nears release",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/ubuntu_2510/",
       "summary": "<h4>Rust coreutils, TPM encryption, and GNOME 49 line up for October debut</h4> <p>The Quokka is a small, furry, and perpetually smiling marsupial from Australia. It's very cute – and now it's freezing.…</p>",
@@ -258,60 +354,12 @@
       "image_url": "https://regmedia.co.uk/2024/11/29/shutterstock_computergenius.jpg"
     },
     {
-      "title": "NASA bars Chinese citizens from its facilities, networks, even Zoom calls",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/nasa_china_ban/",
-      "summary": "<h4>You don’t need to be a rocket scientist to figure out the reasons why</h4> <p>NASA has barred Chinese nationals from accessing its premises and assets, even those who hold visas that permit them to reside in the USA.…</p>",
-      "published": "2025-09-11T05:28:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/01/15/dark_side_of_the_moon_china_mashup.jpg"
-    },
-    {
-      "title": "Beijing went to 'EggStreme' lengths to attack Philippines military, researchers say",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/eggstreme_malware_china_philippines/",
-      "summary": "<h4>Ovoid-themed in-memory malware offers a menu for mayhem</h4> <p>‘EggStreme’ framework looks like the sort of thing Beijing would find handy in its ongoing territorial beefs Infosec outfit Bitdefender says it’s spotted a strain of in-memory malware that looks like the work of Chinese advanced persistent threat groups that wanted to achieve persistent access at a “military company” in the Philippines.…</p>",
-      "published": "2025-09-11T03:33:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/11/shutterstock_digital_eggs_cracked.jpg"
-    },
-    {
-      "title": "VMware to lose 35 percent of workloads in three years – some to its friends at ‘proper clouds’",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/gartner_vmware_migration_advice/",
-      "summary": "<h4>Gartner says migrations remain a risky multi-year nightmare, but selective re-platforming can pay off</h4> <p>More than a third of workloads currently running under VMware will run on another platform by 2028, with its own trusted hosting partners pushing some customers to make the move.…</p>",
-      "published": "2025-09-11T01:27:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/09/22/shutterstock_cloud_exit_sign.jpg"
-    },
-    {
-      "title": "OpenAI reportedly on the hook for $300B Oracle Cloud bill",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/openai_reportedly_on_the_hook/",
-      "summary": "<h4>Tick tock Sam, just fifteen months before your first bill is due</h4> <p>OpenAI will pay Oracle $300 billion over the course of five years to fuel Sam Altman's AI ambitions by providing five gigawatts of compute capacity.…</p>",
-      "published": "2025-09-11T00:01:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/06/16/shutterstock_larry_ellison.jpg"
-    },
-    {
-      "title": "Akira ransomware crims abusing trifecta of SonicWall security holes for extortion attacks",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/10/akira_ransomware_abusing_sonicwall/",
-      "summary": "<h4>Patch, turn on MFA, and restrict access to trusted networks…or else</h4> <p>Affiliates of the Akira ransomware gang are again exploiting a critical SonicWall vulnerability abused last summer, after a suspected zero-day flaw actually turned out to be related to a year-old bug.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-10T22:41:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/06/12/firewall_shutterstock.jpg"
-    },
-    {
-      "title": "AI can't be woke and regulators should be asleep, Senator Cruz says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/10/ai_cruz_sandbox/",
-      "summary": "<h4>We went through two hours of Senate hearings so you didn't have to</h4> <p><strong>Video</strong>  As the Trump administration pushes to loosen federal rules on AI, Senator Ted Cruz (R-TX) has introduced legislation to give AI developers a two-year waiver from certain regulations, renewable for up to a decade.…</p>",
-      "published": "2025-09-10T21:31:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/10/shutterstock_2186937123.jpg"
-    },
-    {
-      "title": "Cadence invites you to play with Nvidia’s biggest iron in its datacenter tycoon sim",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/10/cadence_systems_adds_nvidias_biggest/",
-      "summary": "<h4>Using GPUs to design better bit barns for GPUs? It’s the circle of AI</h4> <p>With the rush to capitalize on the gen AI boom, datacenters have never been hotter. But before signing that multi-billion dollar purchase order on GPUs, Cadence Systems suggests using a few of them to simulate whether that fancy new bit barn of yours can actually handle the heat.…</p>",
-      "published": "2025-09-10T21:00:01.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/10/datacenter_tycoon_2.jpg"
+      "title": "David Zaslav thinks HBO Max is ‘way underpriced’",
+      "link": "https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing",
+      "summary": "Everyone’s favorite CEO, Warner Bros. Discovery head David Zaslav, thinks HBO Max is ripe for a price hike. Speaking at the Goldman Sachs Communacopia and Technology Conference (doesn’t that sound like a fun time?) Zaslav argued that his company’s premium output can command a premium price. “The fact that this is quality — and that’s [&#8230;]",
+      "published": "2025-09-11T04:57:34-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK055_HBOMAX_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Charlie Kirk fatally shot at Turning Point USA event in Utah",
@@ -324,18 +372,10 @@
     {
       "title": "How platforms are responding to the Charlie Kirk shooting",
       "link": "https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube",
-      "summary": "Horrifying videos of influencer and right-wing activist Charlie Kirk being fatally shot were widely available on social media platforms. We’ve reached out to some of the platforms to ask how they will be treating the videos and charged posts about the shooting. So far, we’re aware of responses from Bluesky, Meta, Reddit, and YouTube. Bluesky: [&#8230;]",
+      "summary": "Horrifying videos of influencer and right-wing activist Charlie Kirk being fatally shot were widely available on social media platforms. We’ve reached out to some of the platforms to ask how they will be treating the videos and charged posts about the shooting. So far, we’re aware of responses from Bluesky, Meta, Reddit, YouTube, and Discord [&#8230;]",
       "published": "2025-09-10T19:31:18-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-577078214.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple slips up on ChillyHell macOS malware, lets it past security . . . for 4 years",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/10/chillyhell_modular_macos_malware/",
-      "summary": "<h4>'We do believe that this was likely the creation of a cybercrime group,' threat hunter tells <em>The Reg</em></h4> <p>ChillyHell, a modular macOS backdoor believed to be long dormant, has likely been infecting computers for years while flying under the radar, according to security researchers who spotted a malware sample uploaded to VirusTotal in May.…</p>",
-      "published": "2025-09-10T19:06:34.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/10/shutterstock_1902668533.jpg"
     },
     {
       "title": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle",
@@ -360,46 +400,6 @@
       "published": "2025-09-10T17:25:20-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16023601/1136200773.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Trump is slowing — but not stopping — US greenhouse gas reductions",
-      "link": "https://www.theverge.com/news/776032/us-greenhouse-gas-emissions-trump-forecast-rhodium-group",
-      "summary": "President Donald Trump has cast his shadow over the latest forecast on US greenhouse gas emissions. Reductions in planet-heating pollution are already expected to slow over the next decade, setting the US and the world back in efforts to stop climate change. Here’s what could have been. Taking previous climate policies into account, research firm [&#8230;]",
-      "published": "2025-09-10T16:22:44-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK438_CLIMATE_CHANGE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best iPad to buy",
-      "link": "https://www.theverge.com/23639378/best-ipad-apple-buy-model-price",
-      "summary": "There are no bad iPads. That’s the best news about Apple’s tablet lineup: 15 years after Steve Jobs first debuted the device, the iPad is the best tablet on the market, and it’s not particularly close. Apple’s App Store is enormous and filled with great apps, Apple’s performance and battery life are consistently excellent, and [&#8230;]",
-      "published": "2025-09-10T14:31:58-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/04/257557_ipad_buying_guide_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "You can preorder the AirPods Pro 3 right now",
-      "link": "https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart",
-      "summary": "Apple’s most impressive wireless earbuds are now available to preorder from Amazon, Best Buy, Walmart, and Target for $249. The new AirPods Pro 3 won’t arrive until September 19th, but you can place your order from the retailer of your choice, then be among the first to dig into their premium features on launch day. We’ve [&#8230;]",
-      "published": "2025-09-10T14:29:39-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VERGE-DEALS-DAILY-IMAGE-18.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple isn&#8217;t packing a charging cable in with the AirPods Pro 3",
-      "link": "https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box",
-      "summary": "The AirPods Pro 3 seem like a solid upgrade, but they have one significant drawback: Apple isn’t including a charging cable in the box, MacRumors reports. Apple spells it out right on the AirPods Pro 3 tech specs page, saying in the “In the Box” section, “USB‑C Charge Cable sold separately.” That means that if [&#8230;]",
-      "published": "2025-09-10T14:17:55-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/lcimg-153b8c35-2637-417f-9f95-a7d1399d2c27.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "PlayStation launches new app for parental controls",
-      "link": "https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app",
-      "summary": "PlayStation is launching a new PlayStation Family app for iOS and Android to help parents manage their child’s playtime on PS5 and PS4. Parents can already set parental control features directly on a console, but this app gives parents another way to set limits and keep track of what their kid is playing. “The app [&#8230;]",
-      "published": "2025-09-10T13:43:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/acastro_STK097_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
