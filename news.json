@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-12T01:42:40.994275",
+  "lastUpdated": "2025-09-12T06:33:43.043743",
   "articles": [
     {
       "title": "Exactly Six Months Ago, the CEO of Anthropic Said That in Six Months AI Would Be Writing 90 Percent of Code",
@@ -28,7 +28,7 @@
     {
       "title": "A California bill that would regulate AI companion chatbots is close to becoming law",
       "link": "https://techcrunch.com/2025/09/11/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/",
-      "summary": "SB 243 passed the California Senate on Thursday and heads to Gov. Newsom's desk. If SB 243 is enacted, California would become the first state to require operators to implement safety protocols for AI companions and hold companies legally accountable if their chatbots fail to meet those standards.",
+      "summary": "If SB 243 is enacted, California would become the first state to require operators to implement safety protocols for AI companions and hold companies legally accountable if their chatbots fail to meet those standards.",
       "published": "Thu, 11 Sep 2025 22:23:09 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1533302708.jpg?resize=1200,720"
@@ -36,7 +36,7 @@
     {
       "title": "OpenAI secures Microsoft’s blessing to transition its for-profit arm",
       "link": "https://techcrunch.com/2025/09/11/openai-secures-microsofts-blessing-to-transition-its-for-profit-arm/",
-      "summary": "OpenAI and Microsoft say they reached a non-binding agreement on a revised partnership.",
+      "summary": "OpenAI and Microsoft say they reached a nonbinding agreement on a revised partnership.",
       "published": "Thu, 11 Sep 2025 22:18:29 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
@@ -242,6 +242,38 @@
       "image_url": "https://wordpress-assets.futurism.com/2025/09/openai-execs-upset.jpg"
     },
     {
+      "title": "‘IT manager’ needed tech support because they had never heard of a command line",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/on_call/",
+      "summary": "<h4>Traceroute was also a mystery to this mountebank</h4> <p><strong>On Call</strong>  The very premise on which <em>The Register</em> is built is that our readers know quite a lot about information technology, and that stories featured each Friday in On Call – our weekly tales of your support experiences – therefore reflect your working lives.…</p>",
+      "published": "2025-09-12T06:30:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/11/screenshot_cmd_wtf.jpg"
+    },
+    {
+      "title": "Albania’s prime minister wants to appoint an AI to his ministry",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/albania_ai_minister/",
+      "summary": "<h4>Incorruptible e-government AnswerBot ‘Djella’, which reportedly runs in Azure, given job of running public procurement</h4> <p>Albania’s prime minister has proposed appointing an artificial intelligence as a minister.…</p>",
+      "published": "2025-09-12T05:15:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/12/shutterstock_albania_flag.jpg"
+    },
+    {
+      "title": "Proxmox delivers datacenter manager beta that makes it a more viable VMware contender",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/proxmox_datacenter_manager/",
+      "summary": "<h4>One console to manage multiple clusters is table stakes, but some users are betting on mixed environments</h4> <p>Open source virtualization suite Proxmox has taken an important step towards becoming a stronger contender for those considering VMware alternatives by commencing beta testing for a datacenter management tool that can control multiple hardware clusters.…</p>",
+      "published": "2025-09-12T03:04:31.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/12/supplied_proxmox_logo.jpg"
+    },
+    {
+      "title": "Apple Watch hypertension feature cleared by FDA",
+      "link": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
+      "summary": "Starting next week, Apple’s new hypertension notification feature will be coming to Watch Series 9 and later and Apple Watch Ultra 2 and later with the launch of watchOS 26. That’s according to an emailed statement from Apple spokesperson Zaina Khachadourian saying the feature that monitors blood pressure has been cleared by the FDA. Apple’s [&#8230;]",
+      "published": "2025-09-12T02:10:41-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Outlook outage over North America, Microsoft scrambles to respond",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/outlook_outage_microsoft/",
       "summary": "<h4>On the plus side we'll all be getting fewer unwanted emails</h4> <p>Microsoft confirmed a major email service outage across North America that is stopping inboxes from filling up and may be hitting other apps when logging in.…</p>",
@@ -322,14 +354,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2234095376.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Senator demands to know status of 'duplicate' Social Security database 'immediately'",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/ssa_doge_whistleblower_demand/",
-      "summary": "<h4>It’s a Republican pressing after DOGE whistleblower flags hostile work environment</h4> <p>A US Senator is demanding answers after a Social Security Administration (SSA) employee who blew the whistle on Department of Government Efficiency (DOGE) dealings involuntarily resigned last month, citing workplace hostility in response to his concerns. …</p>",
-      "published": "2025-09-11T18:01:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/02/06/shutterstock_doge.jpg"
-    },
-    {
       "title": "Anthropic’s Claude AI can now automatically ‘remember’ past chats",
       "link": "https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise",
       "summary": "Anthropic will now let its Claude AI chatbot “remember” the details of previous conversations without prompting. The feature is only rolling out for Team and Enterprise users for now, allowing Claude to automatically incorporate someone’s preferences, the context of the project they’re working on, and their main priorities into each of its responses. Anthropic rolled [&#8230;]",
@@ -338,28 +362,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK269_ANTHROPIC_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Monty Widenius 'heartbroken' at the extent of Oracle's MySQL job cuts",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/oracle_slammed_for_mysql_job/",
-      "summary": "<h4>Original author of open source database 'not surprised' but 'saddened' as critics slam vendor's layoffs</h4> <p>Oracle has instigated \"widespread layoffs\" across its core MySQL development team, sparking concern about the future of one of the world's most popular open-source databases.…</p>",
-      "published": "2025-09-11T17:40:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/11/shutterstock_monty_widenius.jpg"
-    },
-    {
       "title": "Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter",
       "link": "https://www.theverge.com/news/776793/charlie-kirk-fbi-person-of-interest-photos-shooter",
       "summary": "Earlier today, the FBI shared two blurry photos on X of a person of interest in the shooting of right-wing activist Charlie Kirk. Numerous users replied with AI-upscaled, &#8220;enhanced&#8221; versions of the pictures almost immediately, turning the pixelated surveillance shots into sharp, high-resolution images. But AI tools aren&#8217;t uncovering secret details in a fuzzy picture, [&#8230;]",
       "published": "2025-09-11T17:26:26-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/",
-      "summary": "<h4>Shady, China-based company, all the apps needed for a fully automated attack - sounds totally legit</h4> <p>Villager, a new penetration-testing tool linked to a suspicious China-based company and described by researchers as \"Cobalt Strike's AI successor,\" has been downloaded about 10,000 times since its release in July.…</p>",
-      "published": "2025-09-11T17:20:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/03/redteaming.jpg"
     },
     {
       "title": "Aligning those who align AI, one satirical website at a time",
@@ -392,14 +400,6 @@
       "published": "2025-09-11T14:47:01-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-1667640577.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Baseus&#8217; solar-powered dash cam keeps an eye on your parked car for up to two weeks",
-      "link": "https://www.theverge.com/news/776613/baseus-primetrip-vd1-pro-dashcam-solar-power-two-week-standby",
-      "summary": "Baseus has announced a new dash cam that can continue capturing incidents even while your vehicle is turned off. The PrimeTrip VD1 Pro includes both a rechargeable battery and a high-efficiency solar panel it uses to record incidents when motion or impacts are detected for up to 14 days while your car is parked, without [&#8230;]",
-      "published": "2025-09-11T14:01:09-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/baseus1_b08e66.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
