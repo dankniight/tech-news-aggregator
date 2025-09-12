@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-12T06:33:43.043743",
+  "lastUpdated": "2025-09-12T12:44:00.705928",
   "articles": [
     {
       "title": "Exactly Six Months Ago, the CEO of Anthropic Said That in Six Months AI Would Be Writing 90 Percent of Code",
@@ -226,20 +226,100 @@
       "image_url": "https://wordpress-assets.futurism.com/2025/09/human-body-tesla.jpg"
     },
     {
-      "title": "The US is now the largest investor in commercial spyware",
-      "link": "https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/",
-      "summary": "And new countries are linked to the dangerous software.",
-      "published": "Thu, 11 Sep 2025 13:22:35 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
-    },
-    {
       "title": "OpenAI Execs Are Extremely Upset",
       "link": "https://futurism.com/openai-execs-upset",
       "summary": "<p>Tempers are running hot at one of the most valuable private company in history. The leaders of OpenAI, which was launched in 2015 as a non-profit with the goal of building AI for the good of humanity, are growing anxious that their dream of reorganizing as a for-profit company might be dead in the water. As reported by the Wall Street Journal, a coalition of some of the most powerful tech companies, NGOs, non-profits, and labor groups in OpenAI's operating states of California and Delaware are lobbying attorneys general to crack down on the tech giant's restructuring efforts. OpenAI’s ambitions, […]</p>",
       "published": "Thu, 11 Sep 2025 13:02:14 +0000",
       "source": "Futurism",
       "image_url": "https://wordpress-assets.futurism.com/2025/09/openai-execs-upset.jpg"
+    },
+    {
+      "title": "Jef Raskin’s cul-de-sac and the quest for the humane computer",
+      "link": "https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/",
+      "summary": "“He wanted to make [computers] more usable and friendly to people who weren't geeks.”",
+      "published": "Fri, 12 Sep 2025 11:00:49 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskin1-768x648.png"
+    },
+    {
+      "title": "I'm out, says OpenSUSE: We're dropping bcachefs support from next kernel version",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/opensuse_to_drop_bcachefs_support/",
+      "summary": "<h4>The first distro vendor to announces its move says nein, danke</h4> <p>The next kernel will have no new bcachefs code – and the openSUSE versions that use that kernel are going further still.…</p>",
+      "published": "2025-09-12T12:30:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/11/shutterstock_penguin.jpg"
+    },
+    {
+      "title": "Google lands £400M MoD contract for secure UK cloud services",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/google_cloud_mod_contract/",
+      "summary": "<h4>Deal promises sovereign datacenters, AI, and cybersecurity to strengthen communication links with US</h4> <p>The UK's Ministry of Defence has signed a £400 million ($540 million) contract with Google sovereign cloud to support security and analytics workloads.…</p>",
+      "published": "2025-09-12T12:00:18.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/05/23/shutterstock_editorial_only_google_cloud_building_logo.jpg"
+    },
+    {
+      "title": "EU regulators let Microsoft off the hook after Teams unbundling pledge",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/eu_regulators_let_microsoft_off/",
+      "summary": "<h4>Slack's complaint sparked a five-year investigation, but Redmond walks away fine-free</h4> <p>The EU has signed off on Microsoft's concessions over Teams bundling, letting Redmond dodge a monster antitrust fine in a deal that will barely rock the boat for anyone.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-12T11:00:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/01/27/shutterstock_ms_teams.jpg"
+    },
+    {
+      "title": "Privacy activists warn digital ID won’t stop small boats – but will enable mass surveillance",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/privacy_activists_warn_uk_digital_id_risks/",
+      "summary": "<h4>Big Brother Watch says a so-called BritCard could turn daily life into one long identity check – and warn that Whitehall can’t be trusted to run</h4> <p>A national digital ID could hand the government the tools for population-wide surveillance – and if history is anything to go by, ministers probably couldn't run it without cocking it up.…</p>",
+      "published": "2025-09-12T10:15:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/12/shutetrstock_dungeness.jpg"
+    },
+    {
+      "title": "Hack to school: Parents told to keep their little script kiddies in line",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/students_school_cyberattacks/",
+      "summary": "<h4>UK data watchdog says students behind most education cyberattacks</h4> <p>The UK's data protection watchdog says more than half of cyberattacks in schools are caused by students, and that parents should act early to prevent their offspring from falling into the wrong crowds.…</p>",
+      "published": "2025-09-12T09:31:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/05/06/school_computer_lab.jpg"
+    },
+    {
+      "title": "Terminators: AI-driven robot war machines on the march",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/terminators_aidriven_robot_war_machines/",
+      "summary": "<h4>Science fiction? Battle bots already used in Ukraine</h4> <p><strong>Opinion</strong>  I've read military science fiction since I was a kid. Besides the likes of Robert A. Heinlein's <em><a href=\"https://search.worldcat.org/title/1533442891\" target=\"_blank\">Starship Troopers</a></em>, Joe Haldeman's <em><a href=\"https://search.worldcat.org/title/1007845632\" target=\"_blank\">The Forever War</a></em>, and David Drake's <em><a href=\"https://search.worldcat.org/title/677257569\" target=\"_blank\">Hammer's Slammers</a></em> books, where people held the lead roles, I read novels such as Keith Laumer's <a href=\"https://search.worldcat.org/title/1000455249\" target=\"_blank\">Bolo series</a> and Fred Saberhagen's Berserker space opera sf series, where machines are the protagonists and enemies. Even if you've never read war science fiction, you certainly at least know about Terminators. But what was once science fiction is now reality on the Ukrainian battlefields. It won't stop there.…</p>",
+      "published": "2025-09-12T08:45:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/11/ai_war.jpg"
+    },
+    {
+      "title": "iPhone Air launch delayed in China over eSIM issues",
+      "link": "https://www.theverge.com/news/777023/iphone-air-launch-delayed-china-esim-issues",
+      "summary": "Apple has postponed preorders of the iPhone Air in mainland China, which were due to open today, with regulatory issues around eSIM almost certainly to blame. The Chinese store page for the super-slim iPhone says that “release information will be updated later” (translated from Chinese). Apple had originally announced that the Air would go on [&#8230;]",
+      "published": "2025-09-12T08:06:37-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Apple-iPhone-Air-profile-250909.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple’s 2025 iPhone lineup is now available to preorder",
+      "link": "https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date",
+      "summary": "Apple’s complete 2025 lineup, including the iPhone 17, the 17 Pro, the 17 Pro Max, and the thin iPhone Air, are available to preorder. They’ll be available next Friday, September 19th, and ordering now is how you can ensure you’ll be among the first to receive your order. Beyond the Air’s shockingly slim design, Apple’s [&#8230;]",
+      "published": "2025-09-12T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01445.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Huntress's 'hilarious' attacker surveillance splits infosec community",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/huntress_attacker_surveillance/",
+      "summary": "<h4>Ethical concerns raised after crook offered themselves up on silver platter</h4> <p>Security outfit Huntress has been forced onto the defensive after its latest research – described by senior staff as \"hilarious\" – split opinion across the cybersecurity community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-12T07:15:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/08/16/hacker.jpg"
+    },
+    {
+      "title": "Sony’s new Xperia phone jumps on the camera bar bandwagon",
+      "link": "https://www.theverge.com/news/777002/sony-xperia-10-vii-phone-design-specs-price",
+      "summary": "Sony has announced the Xperia 10 VII, a midrange Android phone that’s launching in the UK, Europe, and Asia, though not the US. It’s more notable than most Sony phones because it marks the first major change to the rear design in over five years: a camera bar, just like recent Pixels, and now even [&#8230;]",
+      "published": "2025-09-12T07:02:52-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/sony-experia-10-vii.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "‘IT manager’ needed tech support because they had never heard of a command line",
@@ -250,12 +330,36 @@
       "image_url": "https://regmedia.co.uk/2025/09/11/screenshot_cmd_wtf.jpg"
     },
     {
+      "title": "Prongs rock",
+      "link": "https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial",
+      "summary": "Here's a hot take: gaming handhelds are better with prongs. How do I know? I hold a lot of handhelds (and gamepads) here at The Verge, but Microsoft and Asus's upcoming Xbox Ally X might take the cake for the most comfortable to hold. And that handheld has basically the exact same design as the [&#8230;]",
+      "published": "2025-09-12T06:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/xbox-ally-x-verge-sean-hollister-DJI_20250903131458_0841_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Albania’s prime minister wants to appoint an AI to his ministry",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/albania_ai_minister/",
       "summary": "<h4>Incorruptible e-government AnswerBot ‘Djella’, which reportedly runs in Azure, given job of running public procurement</h4> <p>Albania’s prime minister has proposed appointing an artificial intelligence as a minister.…</p>",
       "published": "2025-09-12T05:15:07.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/09/12/shutterstock_albania_flag.jpg"
+    },
+    {
+      "title": "Microsoft avoids EU fine after Slack complained about Teams bundling",
+      "link": "https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine",
+      "summary": "Microsoft has avoided a fine from the European Commission after it was charged with EU antitrust violations for bundling its Teams app with Office 365 and Microsoft 365 subscriptions. The European Commission says it has accepted commitments from Microsoft to address competition concerns related to Microsoft Teams, following an anti-competitive complaint filed by Slack in [&#8230;]",
+      "published": "2025-09-12T04:46:50-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357653/STK264_MICROSOFT_TEAMS_V2_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090",
+      "link": "https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs",
+      "summary": "Asus’ ProArt P16 laptop is getting RTX 50-series GPUs and a unique new screen in its high-end configuration. Its biggest upgrades include Nvidia’s top-tier RTX 5090 mobile GPU and a bright 16-inch 3840 x 2400 tandem OLED touchscreen, capable of up to 1,600 nits of brightness in HDR and 120Hz refresh with VRR. The new [&#8230;]",
+      "published": "2025-09-12T03:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Scenario-photo_Graphic-Design_FA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Proxmox delivers datacenter manager beta that makes it a more viable VMware contender",
@@ -266,52 +370,12 @@
       "image_url": "https://regmedia.co.uk/2025/09/12/supplied_proxmox_logo.jpg"
     },
     {
-      "title": "Apple Watch hypertension feature cleared by FDA",
+      "title": "Apple Watch hypertension alerts cleared by FDA for new and old watches",
       "link": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
       "summary": "Starting next week, Apple’s new hypertension notification feature will be coming to Watch Series 9 and later and Apple Watch Ultra 2 and later with the launch of watchOS 26. That’s according to an emailed statement from Apple spokesperson Zaina Khachadourian saying the feature that monitors blood pressure has been cleared by the FDA. Apple’s [&#8230;]",
       "published": "2025-09-12T02:10:41-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Outlook outage over North America, Microsoft scrambles to respond",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/outlook_outage_microsoft/",
-      "summary": "<h4>On the plus side we'll all be getting fewer unwanted emails</h4> <p>Microsoft confirmed a major email service outage across North America that is stopping inboxes from filling up and may be hitting other apps when logging in.…</p>",
-      "published": "2025-09-11T22:45:21.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/11/16/freaked_out.jpg"
-    },
-    {
-      "title": "Intel talent bleed continues as Xeon chip architect heads for the escape hatch",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/intel_loses_chief_architect/",
-      "summary": "<h4>Ronak Singhal will be moving onto better and brighter opportunities at the end of the month</h4> <p>The chief architect behind Intel's Xeon line of server CPUs is leaving Chipzilla for greener pastures.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-11T22:22:04.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/07/30/shutterstock_xeon_editorial_only.jpg"
-    },
-    {
-      "title": "We're number 1! America now leads the world in surveillanceware investment",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/us_surveillanceware_investment/",
-      "summary": "<h4>Atlantic Council warns US investors are fueling a market that undermines national security</h4> <p>After years of being dominated by outsiders, the computer surveillance software industry is booming in the United States as investors rush into the ethically dodgy but highly lucrative field.…</p>",
-      "published": "2025-09-11T21:32:18.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/07/19/shutterstock_spyware.jpg"
-    },
-    {
-      "title": "New Really Simple Licensing spec wants AI crawlers to show a license - or a credit card",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/rsl_content_grabbing_ai_digital_licensing/",
-      "summary": "<h4>For whom the bill tolls</h4> <p>Content creation and delivery companies have introduced a digital licensing mechanism in an effort to compensate media makers when AI companies use their work.…</p>",
-      "published": "2025-09-11T20:54:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/01/tollbooth.jpg"
-    },
-    {
-      "title": "Hijacker helper VoidProxy boosts Google, Microsoft accounts on demand",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/voidproxy_phishing_service/",
-      "summary": "<h4>Okta uncovers new phishing-as-a-service operation with 'multiple entities' falling victim</h4> <p>Multiple attackers using a new phishing service dubbed VoidProxy to target organizations' Microsoft and Google accounts have successfully stolen users' credentials, multi-factor authentication codes, and session tokens in real time, according to security researchers.…</p>",
-      "published": "2025-09-11T19:39:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/11/shutterstock_2247888569.jpg"
     },
     {
       "title": "Microsoft and OpenAI have a new deal that could clear the way for an IPO",
@@ -320,22 +384,6 @@
       "published": "2025-09-11T19:00:03-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2215434051.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Arm wrestles away 25% share of server market thanks to Nvidia's home-grown CPUs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/nvidias_graceblackwell_drives_arms_cpu/",
-      "summary": "<h4>Still far short of the 50% market share Arm infra chief was hoping for</h4> <p>Nvidia isn’t the only one riding the AI boom. During the second quarter, Arm CPUs captured a quarter of the server market, according to a recent Dell’Oro Group report.…</p>",
-      "published": "2025-09-11T18:58:41.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/07/19/shutterstock_arm_wrestle.jpg"
-    },
-    {
-      "title": "Appeals court blocks Trump bid to ax top copyright official in AI spat",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/11/appeals_court_blocks_trump_copyright_official_firing/",
-      "summary": "<h4>It all started with a May report saying that some bot training may need licensing or permission</h4> <p>A US appeals court has thrown a wrench into the White House's attempt to oust US Copyright Office director Shira Perlmutter, ruling that the president likely has no authority to fire her.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-11T18:28:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/09/shutterstock_orange_man_sad.jpg"
     },
     {
       "title": "Microsoft is making &#8216;significant investments&#8217; in training its own AI models",
@@ -352,54 +400,6 @@
       "published": "2025-09-11T18:15:39-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2234095376.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic’s Claude AI can now automatically ‘remember’ past chats",
-      "link": "https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise",
-      "summary": "Anthropic will now let its Claude AI chatbot “remember” the details of previous conversations without prompting. The feature is only rolling out for Team and Enterprise users for now, allowing Claude to automatically incorporate someone’s preferences, the context of the project they’re working on, and their main priorities into each of its responses. Anthropic rolled [&#8230;]",
-      "published": "2025-09-11T17:43:46-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK269_ANTHROPIC_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter",
-      "link": "https://www.theverge.com/news/776793/charlie-kirk-fbi-person-of-interest-photos-shooter",
-      "summary": "Earlier today, the FBI shared two blurry photos on X of a person of interest in the shooting of right-wing activist Charlie Kirk. Numerous users replied with AI-upscaled, &#8220;enhanced&#8221; versions of the pictures almost immediately, turning the pixelated surveillance shots into sharp, high-resolution images. But AI tools aren&#8217;t uncovering secret details in a fuzzy picture, [&#8230;]",
-      "published": "2025-09-11T17:26:26-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Aligning those who align AI, one satirical website at a time",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/776752/center-for-the-alignment-of-ai-alignment-centers",
-      "summary": "The work of creating artificial intelligence that holds to the guardrails of human values, known in the industry as alignment, has developed into its own (somewhat ambiguous) field of study rife with policy papers and benchmarks to rank models against each other.&#160; But who aligns the alignment researchers?&#160; Enter the Center for the Alignment of [&#8230;]",
-      "published": "2025-09-11T16:24:32-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sony’s InZone Buds are great for gaming, and right now they’re cheaper than ever",
-      "link": "https://www.theverge.com/tech/776630/sony-inzone-buds-samsung-music-frame-deal-sale",
-      "summary": "A quality pair of headphones can make a huge difference in your gaming experience, and Sony’s InZone Buds are among the best wireless gaming earbuds available. They’re currently $143.98 ($86 off) at GameStop, dropping them to a new all-time low price. The Verge’s commerce editor, Cameron Faulkner, says they deliver excellent sound quality and versatility, [&#8230;]",
-      "published": "2025-09-11T16:08:31-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-InZone-Buds-deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon&#8217;s Thursday Night Football broadcasts add more AI to the NFL",
-      "link": "https://www.theverge.com/news/776697/amazon-thursday-night-football-ai-games",
-      "summary": "Amazon’s Prime Video is bringing more AI to the football field with new features designed to give viewers more insight into Thursday Night Football games, as highlighted earlier by Deadline. One feature, called Pocket Health, uses AI to analyze “tens of thousands of data points” across the offensive line during a play, allowing Prime Video [&#8230;]",
-      "published": "2025-09-11T15:49:56-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Pocket-Health-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "NASA found clues of life on Mars, but budget cuts threaten future missions",
-      "link": "https://www.theverge.com/nasa/776554/nasa-mars-jezero-crater-budget-cuts",
-      "summary": "An exciting discovery on Mars is being overshadowed by turmoil at NASA, with budget cuts threatening to destroy a scientific legacy that has been built over decades. Yesterday, the agency shared a finding, published in Nature, of potential biosignatures identified by the Mars Perseverance rover in a 3.5 billion-year-old rock. \"This very well could be [&#8230;]",
-      "published": "2025-09-11T14:47:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-1667640577.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
