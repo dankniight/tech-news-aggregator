@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-15T01:52:58.135588",
+  "lastUpdated": "2025-09-15T06:36:06.093286",
   "articles": [
     {
       "title": "OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)",
@@ -242,6 +242,30 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/newfoudnland_lighthouse-1152x648.jpg"
     },
     {
+      "title": "After deleting a web server, I started checking what I typed before hitting 'Enter'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/15/who_me/",
+      "summary": "<h4>Student thought she had the hang of this 'Linux' thing and its kooky CLI</h4> <p><strong>Who, Me?</strong>  It's Monday morning, and a week of possibilities presents itself to IT pros everywhere. Which is why <i>The Register</i> brings you another edition of Who, Me? It's the reader-contributed column in which we remind you what not to do with your day, your week, and your career, by sharing stories of your worst workplace mistakes and the contortions you made to survive them.…</p>",
+      "published": "2025-09-15T06:30:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/08/21/shutterstock_delete_key.jpg"
+    },
+    {
+      "title": "Open source Cloud Hypervisor adds (maybe futile) no-AI-code policy",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/15/cloud_hypervisor_no_ai_policy/",
+      "summary": "<h4>Virtualization tool for hyperscalers now scales to 8,192 vCPUs</h4> <p>The Cloud Hypervisor project has introduced a No AI code policy.…</p>",
+      "published": "2025-09-15T05:25:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/02/01/shutterstock_no_ai.jpg"
+    },
+    {
+      "title": "Cyber-scam camp operators shift operations to vulnerable countries as sanctions strike",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/15/asia_tech_news_roundup/",
+      "summary": "<h4>PLUS: Japan woos Micron, again; China launches chip dumping probe; Mitsubishi expands opsec empire; and more!</h4> <p>Criminals appear to be moving cyber-scam centers to vulnerable countries.…</p>",
+      "published": "2025-09-15T02:28:33.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/03/14/shutterstock_scam_alert.jpg"
+    },
+    {
       "title": "15 ransomware gangs ‘go dark’ to enjoy 'golden parachutes'",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/14/in_brief_infosec/",
       "summary": "<h4>PLUS: China's Great Firewall springs a leak; FBI issues rare 'Flash Alert' of Salesforce attacks; $10m bounty for alleged Russian hacker; and more</h4> <p><strong>Infosec In Brief</strong>  15 ransomware gangs, <a href=\"https://www.theregister.com/2025/08/12/scattered_spidershinyhunterslapsus_cybercrime_collab/\" target=\"_blank\">including</a> Scattered Spider and Lapsus$, have announced that they are going dark, and say no more attacks will be carried out in their name.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -376,30 +400,6 @@
       "published": "2025-09-12T20:59:10.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/09/12/shutterstock_1723451140.jpg"
-    },
-    {
-      "title": "SK Hynix cranks up the HBM4 assembly line to prep for next-gen GPUs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/sk_hynix_hbm4_mass_production/",
-      "summary": "<h4>Top AI chipmakers count on faster, denser, more efficient memory to boost training</h4> <p>AMD and Nvidia have already announced their next-gen datacenter GPUs will make the leap to HBM4, and if SK Hynix has its way, it’ll be the one supplying the bulk of it.…</p>",
-      "published": "2025-09-12T20:32:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/12/shutterstock_2437515801.jpg"
-    },
-    {
-      "title": "CISA program gave out $20k+ payments to unqualified employees, auditor says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/cisa_spent_millions_in_cyber/",
-      "summary": "<h4>The OIG says the Cyber Incentive program was rife with 'fraud, waste, and abuse'</h4> <p>The US Cybersecurity and Infrastructure Security Agency (CISA) mismanaged a program designed to retain skilled security professionals so badly that auditors have concluded it left the agency \"unable to adequately protect the Nation from cyber threats.\" …</p>",
-      "published": "2025-09-12T20:02:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/03/16/money_shutterstock.jpg"
-    },
-    {
-      "title": "Samsung fixes Android 0-day that may have been used to spy on WhatsApp messages",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/12/samsung_fixes_android_0day/",
-      "summary": "<h4>A similar vuln on Apple devices was used against 'specific targeted users'</h4> <p>Samsung has fixed a critical flaw that affects its Android devices - but not before attackers found and exploited the bug, which could allow remote code execution on affected devices.…</p>",
-      "published": "2025-09-12T19:27:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/09/17/shutterstock_whatsapp.jpg"
     }
   ]
 }
