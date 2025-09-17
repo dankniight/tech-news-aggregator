@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-17T01:43:49.126284",
+  "lastUpdated": "2025-09-17T06:34:19.835259",
   "articles": [
     {
       "title": "Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move",
@@ -242,6 +242,30 @@
       "image_url": "https://wordpress-assets.futurism.com/2025/09/ai-claiming-god.jpg"
     },
     {
+      "title": "UK Cabinet Office hands stalled Microsoft migration to another department",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/cabinet_office_microsoft_migration/",
+      "summary": "<h4>Project to get off Google remains a red risk, according to government assessment</h4> <p>The Cabinet Office, the strategic center of UK government, has handed a much-delayed project to migrate from Google Workspace to Microsoft 365 (M365) to another department.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-17T06:30:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/04/09/cabinet_office_sign2.jpg"
+    },
+    {
+      "title": "Ruh-roh. DDR5 memory vulnerable to new Rowhammer attack",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/ddr5_dram_rowhammer/",
+      "summary": "<h4>Google and ETH Zurich found problems with AMD/SK Hynix combo, will probe other hardware</h4> <p>Researchers from Google and Swiss university ETH Zurich have found a new class of Rowhammer vulnerability that could allow attackers to access info stored in DDR5 memory.…</p>",
+      "published": "2025-09-17T05:15:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/04/06/shutterstock_hammer_and_servers_netwworks.jpg"
+    },
+    {
+      "title": "Australia to let Big Tech choose its own adventure to enact kids social media ban",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/australia_kids_social_ban_guidance/",
+      "summary": "<h4>Suggests using multiple overlapping approaches and being kind to kids who get kicked off</h4> <p>Australia’s eSafety commissioner has told social media operators it expects them to employ multiple age assurance techniques and technologies to keep children under sixteen off social media, as required by local law from December 10th.…</p>",
+      "published": "2025-09-17T02:27:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/12/17/shutterstock_networked_cyber_australi_3d_a.jpg"
+    },
+    {
       "title": "Microsoft blocks bait for ‘fastest-growing’ 365 phish kit, seizes 338 domains",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/16/microsoft_cloudflare_shut_down_raccoono365/",
       "summary": "<h4>Redmond names alleged ringleader, claims 5K+ creds stolen and $100k pocketed</h4> <p>Microsoft has seized 338 websites associated with RaccoonO365 and identified the leader of the phishing service - Joshua Ogundipe - as part of a larger effort to disrupt what Redmond's Digital Crimes Unit calls the \"fastest-growing tool used by cybercriminals to steal Microsoft 365 usernames and passwords.\"…</p>",
@@ -314,14 +338,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Key KDE developer Jonathan Riddell quits",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/16/key_kde_dev_quits/",
-      "summary": "<h4>Former head of Kubuntu and neon says adiós after 25 years</h4> <p>Sad news for KDE: one of the core people guiding the project for the whole century so far has left the building.…</p>",
-      "published": "2025-09-16T16:15:36.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/10/08/quit_shutterstock.jpg"
-    },
-    {
       "title": "Charlie Kirk’s death got complicated by gamer brainrot",
       "link": "https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator",
       "summary": "Editor's note: This issue of Regulator was sent to subscribers prior to the release of the indictment against Tyler Robinson. Though we have more hints about Robinson's motives, what follows is still accurate about the videogame-referencing memes being a red herring. Hello and welcome to Regulator. For a moment, the fatal shooting of conservative activist [&#8230;]",
@@ -346,28 +362,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2193637556.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Self-propagating worm fuels latest npm supply chain compromise",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/16/npm_under_attack_again/",
-      "summary": "<h4>Intrusions bear the same hallmarks as recent Nx mess</h4> <p>The npm platform is the target of another supply chain attack, with crims already compromising 187 packages and counting.…</p>",
-      "published": "2025-09-16T15:00:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/07/19/computer_worm_photo_via_shutterstock.jpg"
-    },
-    {
       "title": "Waymo gets green light for airport service in San Francisco",
       "link": "https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi",
       "summary": "Waymo is now permitted to test its robotaxi service at San Francisco International Airport (SFO), a big win for the company as it seeks to expand its service area and tackle more popular, revenue-generating destinations. After years of back-and-forth negotiations, Waymo signed “Testing and Operations Pilot Permit” with SFO, San Francisco Mayor Daniel Lurie said [&#8230;]",
       "published": "2025-09-16T14:18:14-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2231033749.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Users in SAP's heartland call for greater license transparency",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/16/sap_dsag_licensing_transparency/",
-      "summary": "<h4>DSAG players grappling with cloud migration want more consistency with commercial models</h4> <p>DSAG, the SAP user group for Germany, Austria, and Switzerland, has called for greater transparency in cloud licensing to enable the migration and upgrade of on-prem systems to the cloud.…</p>",
-      "published": "2025-09-16T14:16:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2012/09/10/business_discussion.jpg"
     },
     {
       "title": "Wyze’s new palm-scanning door lock has a second, backup battery",
