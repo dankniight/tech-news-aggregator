@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T06:33:58.173505",
+  "lastUpdated": "2025-09-18T12:46:36.235955",
   "articles": [
     {
       "title": "Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation",
@@ -106,14 +106,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/option_4-Edited.jpeg?resize=1200,800"
     },
     {
-      "title": "Meet Macroscope: an AI tool for understanding your code base, fixing bugs",
-      "link": "https://techcrunch.com/2025/09/17/meet-macroscope-an-ai-tool-for-understanding-your-code-base-fixing-bugs/",
-      "summary": "On Wednesday, former Twitter head of product Kayvon Beykpour announced the launch of Macroscope, an AI system aimed at developers and product leaders that summarizes updates to a codebase and catches bugs, among other things.",
-      "published": "Wed, 17 Sep 2025 19:52:16 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Macroscope-AI-44.jpg?resize=1200,811"
-    },
-    {
       "title": "Parents Of Kids Allegedly Killed and Harmed by AI Give Emotional Testimony on Capitol Hill, Urge Regulation",
       "link": "https://futurism.com/parents-kids-ai-testimonies",
       "summary": "<p>Parents who allege their children were abused, maimed, and even killed by AI chatbots gave emotional testimonies on Capitol Hill on Tuesday during a hearing about risks to young users posed by the tech — all while urging lawmakers to enforce regulation in a landscape that remains a digital Wild West. There were visible tears in the room as grieving parents recounted their painful stories. According to the lawmakers on the US Senate Judiciary Subcommittee on Crime and Terrorism, the bipartisan committee that held the session, representatives from AI companies declined to appear. In their absence, the bipartisan panel laid […]</p>",
@@ -210,6 +202,14 @@
       "image_url": "https://wordpress-assets.futurism.com/2025/09/engine-shuts-down-spacecraft-headed-space-station.jpg"
     },
     {
+      "title": "Bumble BFF’s revamped app is here, focusing on friend groups and community building",
+      "link": "https://techcrunch.com/2025/09/18/bumble-bffs-revamped-app-is-here-focusing-on-friend-groups-and-community-building/",
+      "summary": "Bumble BFF's revamped app introduces a new groups feature to help users connect with new friends beyond one-on-one matching.",
+      "published": "Thu, 18 Sep 2025 12:19:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/BFF-Relaunch.png?w=1200"
+    },
+    {
       "title": "India leads the way on Google’s Nano Banana with a local creative twist",
       "link": "https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/",
       "summary": "Indian users turning Google’s Nano Banana into a viral trend engine, from retro AI portraits to figurine-style selfies.",
@@ -242,6 +242,150 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard-Lifestyle11.jpg?resize=1200,800"
     },
     {
+      "title": "Cloudflare DDoSed itself with React useEffect hook blunder",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/cloudflare_ddosed_itself/",
+      "summary": "<h4>Dashboard loop caused API outage that was hard to troubleshoot</h4> <p>Cloudflare has confessed to a coding error using a React useEffect hook, notorious for being problematic if not handled carefully, that caused an outage for the platform's dashboard and many of its APIs.…</p>",
+      "published": "2025-09-18T12:38:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/06/29/shutterstock_foot_gun.jpg"
+    },
+    {
+      "title": "French jet left circling while Corsican controller caught Zs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/atc_controller_falls_asleep/",
+      "summary": "<h4>Wake-up call for dozed and confused chap who had to turn on runway lights</h4> <p>In the high-stress and safety-critical world of air traffic control, \"don't fall asleep\" probably comes pretty far toward the top of the rule book, and yet that's apparently the reason for the landing delay of an Air Corsica Airbus A320 this week.…</p>",
+      "published": "2025-09-18T12:03:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/18/shutterstock_ajaccioairport.jpg"
+    },
+    {
+      "title": "Insight Partners confirms ransomware hit, more than 12,000 caught in data dragnet",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/vc_giant_insight_partners_confirms/",
+      "summary": "<h4>VC giant rebuilt boxes, patched holes, and says it’s beefed up security – but won’t say who did it</h4> <p>Venture capital giant Insight Partners has confirmed that a January ransomware attack compromised the personal data of more than 12,000 people, including employees, former staff, and the firm's usually-secretive limited partners.…</p>",
+      "published": "2025-09-18T11:25:00.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/01/28/ransomware.jpg"
+    },
+    {
+      "title": "Panda-monium: China-backed cyber crew spoof Congressman to dig for dirt on US trade talks",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/pandamonium_chinabacked_attackers_spoof_congressman/",
+      "summary": "<h4>Proofpoint spots efforts to spy on US economic policy nerds</h4> <p>Chinese state-aligned online attackers are back at it, targeting US trade policy wonks as Washington and Beijing spar over economic ties.…</p>",
+      "published": "2025-09-18T10:30:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/02/01/china_shutterstock.jpg"
+    },
+    {
+      "title": "China's DeepSeek applying trial-and-error learning to its AI 'reasoning'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/chinas_deepseek_ai_reasoning_research/",
+      "summary": "<h4>Model can also explain its answers, researchers find</h4> <p>Chinese AI company DeepSeek has shown it can improve the reasoning of its LLM DeepSeek-R1 through trial-and-error based reinforcement learning, and even be made to explain its reasoning on math and coding problems, even though explanations might sometimes be unintelligible.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-18T09:30:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/18/shutterstock_stumble.jpg"
+    },
+    {
+      "title": "Microsoft weaves Oracle and BigQuery data mirroring into Fabric platform",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/microsoft_fabric_google_oracle/",
+      "summary": "<h4>And knits a graph DB out of LinkedIn cast-offs</h4> <p>Microsoft is extending its Fabric cloud-based data platform by including Oracle and Google's BigQuery data warehouse in its mirroring capability, and launching a new graph database based on an in-house LinkedIn project.…</p>",
+      "published": "2025-09-18T09:00:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/17/shutterstock_weave.jpg"
+    },
+    {
+      "title": "Steam is dropping Windows 32-bit support in 2026",
+      "link": "https://www.theverge.com/news/780806/valve-steam-32-bit-windows-support-end",
+      "summary": "Valve has announced that it will stop supporting 32-bit versions of Windows for its Steam app next year. Valve will continue to support 64-bit versions of Windows 10 and Windows 11 with Steam, but on January 1st 2026 it’s game over for 32-bit versions of Windows. Windows 10 is the only 32-bit version of Windows [&#8230;]",
+      "published": "2025-09-18T08:34:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062776/STK138_Stream_Kradtke_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nothing wants you to talk to your earbuds’ charging case",
+      "link": "https://www.theverge.com/news/779345/nothing-ear-3-super-mic-price-launch",
+      "summary": "Modern earbuds often tout how many microphones they have on each bud, each helping contribute to crystal-clear calls and heavy duty noise cancellation. Nothing’s Ear 3, announced today, may be the first to boast about how many they have on the charging case instead.&#160; There are two, for what it’s worth, and they make up [&#8230;]",
+      "published": "2025-09-18T08:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Nothing-Ear-3-Super-Mic.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "How and why Linux has thrived after three decades in Kernelland",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/three_decades_in_of_linux/",
+      "summary": "<h4>'Just a hobby, won't be big and professional like GNU...'</h4> <p><strong>Open Source Summit</strong>  At OSS EU, LWN editor and long-time kernel developer Jonathan Corbet shared a long-term perspective on how and why Linux has thrived for a third of a century.…</p>",
+      "published": "2025-09-18T08:15:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/03/08/lone_penguin_image_via_shutterstock.jpg"
+    },
+    {
+      "title": "Seven indie games that will upgrade your downtime this fall",
+      "link": "https://www.theverge.com/games/774447/upgrade-downtime-indie-games-2025",
+      "summary": "We all know there's a lot of tech to potentially upgrade in your life, but for those who want to upgrade their downtime with inexpensive, relatively short video games, I have good news. 2025 has already featured a wealth of excellent titles to spend your time with, including ones from smaller and independent developers that [&#8230;]",
+      "published": "2025-09-18T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257904_fall_upgrade_week_INDIE_GAMES_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Robotaxis as public transit? Waymo thinks so",
+      "link": "https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex",
+      "summary": "Waymo is teaming up with tech transit startup Via to integrate its autonomous vehicles into city public transit networks, starting with a growing suburb of Phoenix. In Chandler, Arizona, Waymo’s robotaxis will soon join the town’s Flex microtransit service. Users book rides on the Chandler Flex app to be picked up by a shared vehicle [&#8230;]",
+      "published": "2025-09-18T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nvidia invests $5 billion into Intel to jointly develop PC and data center chips",
+      "link": "https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center",
+      "summary": "Nvidia is throwing Intel a $5 billion life raft, just weeks after similar stakes from the US government and SoftBank. Nvidia is investing $5 billion in Intel common stock in a collaboration that will see the pair “jointly develop multiple generations of custom data center and PC products.” Nvidia says Intel will help build “x86 [&#8230;]",
+      "published": "2025-09-18T07:37:15-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_mid.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Toys can tell us a lot about how tech will change our lives",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/toys_and_tech_futures/",
+      "summary": "<h4>LEGO Mindstorms, PlayStation 2 and Furby all resonate today in their own way</h4> <p><strong>Column</strong>  Twenty-five years ago this month I published a book called <a href=\"https://www.amazon.com/Playful-World-Technology-Transforming-Imagination-ebook/dp/B004TAY1KW\" rel=\"nofollow\" target=\"_blank\"><em>The Playful World</em></a> that explored a simple idea: that the seeds of the future can be found in the present by considering the dazzling toys we started giving our children at the turn of the millennium.…</p>",
+      "published": "2025-09-18T07:30:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/17/shutterstock_editorial_only_playstation_2.jpg"
+    },
+    {
+      "title": "Reddit wants a better AI deal with Google: users in exchange for content",
+      "link": "https://www.theverge.com/news/780769/reddit-ai-google-new-deal",
+      "summary": "Reddit wants more users and more money from Google in exchange for an even bigger mountain of data feeding its AI machine, according to Bloomberg. The negotiation shows a new front in the struggle between Big AI and content providers as they try to harvest new revenue streams without bleeding out the very traffic and [&#8230;]",
+      "published": "2025-09-18T07:14:05-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Huawei lays out multi-year AI accelerator roadmap and claims it makes Earth’s mightiest clusters",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/huawei_ascend_roadmap/",
+      "summary": "<h4>On the same day that fellow Chinese giant Tencent says its overseas cloud clientele doubled</h4> <p>Chinese tech giant Huawei has kicked off its annual “Connect” conference by laying out a plan to deliver increasingly powerful AI processors that look to have enough power that Middle Kingdom users won’t need to try getting Nvidia parts across the border.…</p>",
+      "published": "2025-09-18T06:47:43.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/04/01/huawei.jpg"
+    },
+    {
+      "title": "Tesla is updating its passenger-trapping door handles",
+      "link": "https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles",
+      "summary": "Tesla is redesigning the electronic door handles that are currently under investigation for trapping people inside their vehicles. In an Interview with Bloomberg, Tesla design chief Franz von Holzhausen said that the company is looking to make the handles more intuitive for occupants in “a panic situation.” The update will involve combining the electronic and [&#8230;]",
+      "published": "2025-09-18T06:04:47-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1277594023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Samsung brings ads to US fridges",
+      "link": "https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges",
+      "summary": "A software update rolling out to Samsung’s Family Hub refrigerators in the US is putting ads on the fridges for the first time. The “promotions and curated advertisements” are coming despite Samsung insisting to The Verge in April that it had “no plans” to do so. Samsung is calling it a pilot program for now, [&#8230;]",
+      "published": "2025-09-18T05:45:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Samsung_Bespoke_Family_Hub__1__1_.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Rivian’s e-bike leaks ahead of next month’s announcement",
+      "link": "https://www.theverge.com/news/780734/rivians-e-bike-leaks-ahead-of-next-months-announcement",
+      "summary": "Rivian’s heavily financed micromobilty spinoff Also is promising something on October 22nd. Also’s calling it “transcendent mobility,” which is a fancy way of saying e-bike after a poorly masked video leaked the rather unique design. While Also is a legally separate company from Rivian, it’s chaired by Rivian founder and CEO RJ Scaringe. Rivian also [&#8230;]",
+      "published": "2025-09-18T04:41:42-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/1PqcVtf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Microsoft thinks cloud PCs might be overkill, starts streaming just apps under Windows 365",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/microsoft_cloud_apps_omnissa_update/",
       "summary": "<h4>As old-school virtual desktop player Omnissa distances itself further from VMware</h4> <p>Microsoft thinks cloudy PCs might be overkill for some users, so has started streaming individual apps instead as part of its Windows 365 service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -250,156 +394,12 @@
       "image_url": "https://regmedia.co.uk/2023/04/21/shutterstock_green_pc_cloud_pc.jpg"
     },
     {
-      "title": "Vibe coding platform Replit's latest update is infuriating customers with surprise cost overruns",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/replit_agent3_pricing/",
-      "summary": "<h4>It's worst when going over older code, one user tells us</h4> <p>AI coding service Replit is in trouble again as users are protesting steep cost increases and some glitches when employing the newest version of its service.…</p>",
-      "published": "2025-09-18T01:47:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/09/02/shutterstock_frustrated_software_developer.jpg"
-    },
-    {
-      "title": "Nvidia GeForced out of China as Beijing demands tech titans embrace homegrown silicon",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/nvidia_china_ai_ban/",
-      "summary": "<h4>Huawei or another, we're gonna getcha off Nvidia</h4> <p>Nvidia has reportedly been cut off from the Chinese market after regulators in Beijing ordered the nation's top tech companies to suspend testing and cancel orders of the GPU giant's accelerators.…</p>",
-      "published": "2025-09-18T00:12:23.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/15/china.jpg"
-    },
-    {
-      "title": "Russian fake-news network, led by an ex-Florida sheriff's deputy, storms back into action with 200+ new sites",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/russian_fakenews_network/",
-      "summary": "<h4>As the Trump administration guts efforts to counter election disinfo</h4> <p>The Russian troll farm that in the lead-up to the 2024 US presidential election posted a bizarro video claiming Democratic candidate Kamala Harris was a rhino poacher, is back with hundreds of new fake news websites serving up phony political commentary with an AI assist.…</p>",
-      "published": "2025-09-18T00:00:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/27/fake_shutterstock2.jpg"
-    },
-    {
-      "title": "US tech giants pledge $42 billion in UK investment as Trump tours Blighty",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/us_uk_trade_deal/",
-      "summary": "<h4>Datacenters galore, plus some vague cooperation on AI, nuclear, quantum, and more</h4> <p>America and the UK have announced a $42 billion (£31 billion) trade pact, funded by Microsoft, Google, and others, that predicts bit barns will spring up over Britain's green and pleasant Land. But there's a lot more than money involved.…</p>",
-      "published": "2025-09-17T21:50:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/17/trump_starmer.jpg"
-    },
-    {
-      "title": "Scale AI says 'tanks a lot' to Pentagon for data-classifying deal",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/dod_scale_ai_deal/",
-      "summary": "<h4>First up: $41M to use human annotators to label all that unstructured military data. What could go wrong?</h4> <p>Data curation firm Scale AI has partnered with the Pentagon to deploy its AI on Top Secret networks - a move its interim CEO says is necessary if the US wants AI to be useful for national security.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-17T21:20:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/03/20/shutterstock_top_secret.jpg"
-    },
-    {
       "title": "Meta Connect 2025: the 6 biggest announcements",
       "link": "https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements",
       "summary": "Meta just showed off all the latest in wearable technology, virtual reality, augmented reality, and more at its annual Connect keynote. In addition to the long-awaited reveal of Meta’s updated Ray-Ban smart glasses, the company had some other exciting surprises to share, too. Here’s a roundup of all the new tech and software updates announced [&#8230;]",
       "published": "2025-09-17T21:00:49-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-17-at-8.05.19%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=9.1420476771269,0,90.857952322873,100"
-    },
-    {
-      "title": "Meta&#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder",
-      "link": "https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy",
-      "summary": "At its Connect keynote on Wednesday, Meta officially introduced the $799.99 Meta Ray-Ban Display, also known as Hypernova. The brand's new, high-end smart glasses feature an in-lens display you can control with wrist-based gestures via the new Meta Neural Band that's included. The display pairs with your phone and allows you to see everything from [&#8230;]",
-      "published": "2025-09-17T21:00:11-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Meta-Rayban-Display-Stills-13.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets",
-      "link": "https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming",
-      "summary": "Meta is making it easier to stream movies and TV shows on your Quest headset. During its Meta Connect keynote on Wednesday, the company announced that it’s rolling out a Horizon TV hub with access to streaming apps like Prime Video, Peacock, Twitch, and — finally — Disney Plus with Hulu and ESPN. The image [&#8230;]",
-      "published": "2025-09-17T20:42:31-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HorizonTV_Home_Screen.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AMD tries to catch CUDA with performance-boosting ROCm 7 software",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/amd_rocm_7_chases_nvidia_cuda/",
-      "summary": "<h4>House of Zen promises 3.5x improvement in inference and 3x uplift in training perf over last-gen software</h4> <p>AMD closed the performance gap with Nvidia's Blackwell accelerators with the launch of the MI355X this spring. Now the company just needs to overcome Nvidia's CUDA software advantage and make that perf more accessible to developers. …</p>",
-      "published": "2025-09-17T20:40:31.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/06/14/amd_instinct_mi300_logo.jpg"
-    },
-    {
-      "title": "Meta is making the metaverse look better",
-      "link": "https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio",
-      "summary": "Meta is making improvements to its Roblox-like social platform Horizon Worlds, with the biggest upgrades being the introduction of a new game engine with better graphics as well as the Meta Horizon Studio to help creators to make custom in-game experiences. Meta Horizon Studio is an editor that lets creators make VR worlds. Creators can [&#8230;]",
-      "published": "2025-09-17T20:39:07-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Fantasy_Framed.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meta will let you use a Quest VR headset to turn your real-world space into a virtual world",
-      "link": "https://www.theverge.com/news/780044/meta-quest-metaverse-hyperscape-capture-vr",
-      "summary": "Meta is rolling out tech that lets you capture a real-world space with a Quest VR headset so you can create a digital, photorealistic VR replica. The company calls the tech “Hyperscape,” and as part of a gradual rollout beginning today, users will be able to use the beta Hyperscape Capture app with their Quest [&#8230;]",
-      "published": "2025-09-17T20:38:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Gordon-Ramsays-home-kitchen_Screenshot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "I sat down with Mark Zuckerberg to try Meta’s impressive new Ray-Ban Display glasses",
-      "link": "https://www.theverge.com/tech/780539/meta-ray-ban-display-mark-zuckerberg-interview",
-      "summary": "Mark Zuckerberg mostly uses the new Meta Ray-Ban Display glasses to send text messages. Lots of them. He has been wearing the glasses around the office, firing off WhatsApp pings to his execs throughout the day. \"I run the company through text messages,\" he tells me recently. \"Mark is our number one heaviest user,\" Alex [&#8230;]",
-      "published": "2025-09-17T20:21:42-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Zuck-Meta-glasses-Access-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "I regret to inform you Meta’s new smart glasses are the best I’ve ever tried",
-      "link": "https://www.theverge.com/tech/779566/meta-ray-ban-display-hands-on-smart-glasses-price-battery-specs",
-      "summary": "I want to preface this hands-on by saying that I've been a smart glasses skeptic for many years. In 2019, I even made a two-part mini documentary with a thesis that consumer smart glasses couldn't happen without massive societal and technological shifts. Well, color me pink and let me find a shoe to eat. After [&#8230;]",
-      "published": "2025-09-17T20:20:38-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Meta-Rayban-Display-Stills-10_0650d9.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The new Oakley Meta glasses are what athletes actually want",
-      "link": "https://www.theverge.com/tech/779452/oakley-meta-vanguard-hands-on-smart-glasses-wearables",
-      "summary": "When the Oakley Meta HSTN arrived earlier this year, it wasn't what I thought Oakley-branded smart glasses would be. Sure, they had Oakley's famous PRIZM lenses, but where was the wraparound design? Where were the athlete-focused features like stronger water and sweat resistance? Confusingly, it felt like the HSTN glasses were just Ray-Ban Meta glasses [&#8230;]",
-      "published": "2025-09-17T20:14:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/oakleymetavanguard.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meta’s new Ray-Ban smart glasses have twice the battery life",
-      "link": "https://www.theverge.com/news/780012/meta-ray-ban-gen-2-smart-glasses-connect-2025",
-      "summary": "Meta has announced a new generation of its Ray-Ban smart glasses, featuring significantly improved battery life and the ability to record 3K video, which brings them up to par with the Oakley HSTN smart glasses. The new glasses, technically called the Ray-Ban Meta Gen 2, are available to order today and start at $379. Let’s [&#8230;]",
-      "published": "2025-09-17T20:07:37-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Here&#8217;s the Jimmy Kimmel clip that got him pulled off the air",
-      "link": "https://www.theverge.com/policy/780502/heres-the-jimmy-kimmel-clip-that-got-him-pulled-off-the-air",
-      "summary": "Disney gave in to threats from FCC chairman and occasional speech regulator Brendan Carr this evening, announcing that Jimmy Kimmel Live! would be pulled off the air “indefinitely.” Carr was unhappy that Kimmel characterized the alleged shooter of Charlie Kirk as “anything other than” a member of the “MAGA gang” and threatened to pull broadcast [&#8230;]",
-      "published": "2025-09-17T19:46:51-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-17-at-7.33.23%E2%80%AFPM-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Scattered Spider gang feigns retirement, breaks into bank instead",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/scattered_spider_bank_attack/",
-      "summary": "<h4>You didn't really trust the crims to keep their word, did you?</h4> <p>Spiders don't change their stripes. Despite gang members' recent retirement claims, Scattered Spider hasn't exited the cybercrime business and instead has shifted focus to the financial sector, with a recent digital intrusion at a US bank.…</p>",
-      "published": "2025-09-17T18:37:36.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/17/shutterstock_1517048462.jpg"
-    },
-    {
-      "title": "Social Security admin denies DB data leak, DOGEs questions about a copy",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/ssa_denies_doge_whistleblower_claim/",
-      "summary": "<h4>Carefully crafted response makes no mention of whether DOGE employees duplicated critical database</h4> <p>The Social Security Administration (SSA) has disputed a whistleblower's allegations that claimed DOGE made an unauthorized, unsecured copy of a critical database - but it's what the denial <em>doesn't</em> say that speaks volumes. …</p>",
-      "published": "2025-09-17T18:01:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/03/31/see_no_evil_hear_no_evil_speak_no_evil_shutterstock.jpg"
-    },
-    {
-      "title": "Super-sized space freighter delayed on way to ISS, leaving snacks in jeopardy",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/cygnus_xl_iss_resupply/",
-      "summary": "<h4>Crew will have to wait a little longer for science supplies, spares, and 'fun food'</h4> <p>NASA has delayed a supply delivery to the International Space Station (ISS) after the engines of Northrop Grumman's Cygnus XL cargo spacecraft did not perform as expected during an orbit-raising burn.…</p>",
-      "published": "2025-09-17T17:30:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/11/11/iss.jpg"
     }
   ]
 }
