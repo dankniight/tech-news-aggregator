@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T01:44:10.811589",
+  "lastUpdated": "2025-09-18T06:33:58.173505",
   "articles": [
     {
       "title": "Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation",
@@ -114,14 +114,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Macroscope-AI-44.jpg?resize=1200,811"
     },
     {
-      "title": "China tells its tech companies they can’t buy AI chips from Nivida",
-      "link": "https://techcrunch.com/2025/09/17/china-tells-its-tech-companies-they-cant-buy-ai-chips-from-nivida/",
-      "summary": "After strongly discouraging tech companies from buying Nivdia's AI chips in August, the country is now banning the practice outright.",
-      "published": "Wed, 17 Sep 2025 19:39:28 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
-    },
-    {
       "title": "Parents Of Kids Allegedly Killed and Harmed by AI Give Emotional Testimony on Capitol Hill, Urge Regulation",
       "link": "https://futurism.com/parents-kids-ai-testimonies",
       "summary": "<p>Parents who allege their children were abused, maimed, and even killed by AI chatbots gave emotional testimonies on Capitol Hill on Tuesday during a hearing about risks to young users posed by the tech — all while urging lawmakers to enforce regulation in a landscape that remains a digital Wild West. There were visible tears in the room as grieving parents recounted their painful stories. According to the lawmakers on the US Senate Judiciary Subcommittee on Crime and Terrorism, the bipartisan committee that held the session, representatives from AI companies declined to appear. In their absence, the bipartisan panel laid […]</p>",
@@ -218,6 +210,14 @@
       "image_url": "https://wordpress-assets.futurism.com/2025/09/engine-shuts-down-spacecraft-headed-space-station.jpg"
     },
     {
+      "title": "India leads the way on Google’s Nano Banana with a local creative twist",
+      "link": "https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/",
+      "summary": "Indian users turning Google’s Nano Banana into a viral trend engine, from retro AI portraits to figurine-style selfies.",
+      "published": "Thu, 18 Sep 2025 04:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/google-gemini-nano-banana-india-trends-techcrunch.jpg?resize=1200,800"
+    },
+    {
       "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
       "link": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
       "summary": "Meta launches Hyperscape into beta, allowing users to turn real world spaces into digital spaces for VR.",
@@ -240,6 +240,22 @@
       "published": "Thu, 18 Sep 2025 00:15:06 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard-Lifestyle11.jpg?resize=1200,800"
+    },
+    {
+      "title": "Microsoft thinks cloud PCs might be overkill, starts streaming just apps under Windows 365",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/microsoft_cloud_apps_omnissa_update/",
+      "summary": "<h4>As old-school virtual desktop player Omnissa distances itself further from VMware</h4> <p>Microsoft thinks cloudy PCs might be overkill for some users, so has started streaming individual apps instead as part of its Windows 365 service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-18T03:15:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/04/21/shutterstock_green_pc_cloud_pc.jpg"
+    },
+    {
+      "title": "Vibe coding platform Replit's latest update is infuriating customers with surprise cost overruns",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/18/replit_agent3_pricing/",
+      "summary": "<h4>It's worst when going over older code, one user tells us</h4> <p>AI coding service Replit is in trouble again as users are protesting steep cost increases and some glitches when employing the newest version of its service.…</p>",
+      "published": "2025-09-18T01:47:52.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/09/02/shutterstock_frustrated_software_developer.jpg"
     },
     {
       "title": "Nvidia GeForced out of China as Beijing demands tech titans embrace homegrown silicon",
@@ -292,7 +308,7 @@
     {
       "title": "Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets",
       "link": "https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming",
-      "summary": "Meta is making it easier to stream movies and TV shows on your Quest headset. During its Meta Connect keynote on Wednesday, the company announced that it’s rolling out a Horizon TV hub with access to streaming apps like Prime Video, Peacock, Twitch, and — finally — Disney Plus, Hulu, and ESPN. The image shared [&#8230;]",
+      "summary": "Meta is making it easier to stream movies and TV shows on your Quest headset. During its Meta Connect keynote on Wednesday, the company announced that it’s rolling out a Horizon TV hub with access to streaming apps like Prime Video, Peacock, Twitch, and — finally — Disney Plus with Hulu and ESPN. The image [&#8230;]",
       "published": "2025-09-17T20:42:31-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HorizonTV_Home_Screen.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -384,22 +400,6 @@
       "published": "2025-09-17T17:30:15.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/11/11/iss.jpg"
-    },
-    {
-      "title": "Tariff threat plays havoc with US PC market, economy not helping",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/tariffs_us_pc_market/",
-      "summary": "<h4>American businesses join Win 10 upgrade train, consumers happy to sit on the platform</h4> <p><strong>World War Fee</strong>  The US PC industry is suffering from inventory indigestion caused by resellers over-ordering hardware to avoid Donald Trump's expected import taxes on China-made kit.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-17T16:15:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/08/02/trump_shutter.jpg"
-    },
-    {
-      "title": "AI in your toaster: Analyst predicts $1.5T global spend in 2025",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/17/gartner_ai_spending/",
-      "summary": "<h4>And we're paying for it piecemeal through the software, services, and devices we buy</h4> <p>Tech analysts expect worldwide spending on AI to hit nearly $1.5 trillion in 2025, including $268 billion on optimized servers. These investments will also soon appear in even more consumer products.…</p>",
-      "published": "2025-09-17T15:30:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/17/shutterstock_268405043.jpg"
     }
   ]
 }
