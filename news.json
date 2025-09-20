@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2025-09-20T06:31:15.416942",
+  "lastUpdated": "2025-09-20T12:42:07.874348",
   "articles": [
+    {
+      "title": "Microsoft’s Entra ID vulnerabilities could have been catastrophic",
+      "link": "https://arstechnica.com/security/2025/09/microsofts-entra-id-vulnerabilities-could-have-been-catastrophic/",
+      "summary": "They could've allowed attacker to gain access to virtually all Azure customer accounts.",
+      "published": "Sat, 20 Sep 2025 11:15:27 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-microsoft-padlock-1152x648.jpg"
+    },
+    {
+      "title": "You’ll enjoy the Specialized Turbo Vado SL 2 6.0 Carbon even without assist",
+      "link": "https://arstechnica.com/gadgets/2025/09/youll-enjoy-the-specialized-turbo-vado-sl-2-6-0-carbon-even-without-assist/",
+      "summary": "It's an investment, certainly of money, but also in long, fast rides.",
+      "published": "Sat, 20 Sep 2025 11:00:59 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/carbon_handout1-1152x648.jpg"
+    },
+    {
+      "title": "Pope Horrified by Catholic Plan to Create AI Version of Him for the Masses",
+      "link": "https://futurism.com/the-byte/pope-leo-catholic-ai-avatar",
+      "summary": "<p>Papal Bull Putting the Sin in Synthetic More on AI avatars: CEOs Are Creating AI Copies of Themselves That Are Spouting Braindead Hallucinations to Their Confused Underlings</p>",
+      "published": "Sat, 20 Sep 2025 10:45:40 +0000",
+      "source": "Futurism",
+      "image_url": "https://wordpress-assets.futurism.com/2025/09/pope-leo-catholic-ai-avatar.jpg"
+    },
+    {
+      "title": "Scammers Are Now Driving Around With Fake Cell Towers That Blast 100,000 Texts Per Hour",
+      "link": "https://futurism.com/scammers-fake-cell-towers",
+      "summary": "<p>Leave it to phone scammers to invent new ways to be as annoying — and scummy — as humanly possible. These cybercriminals are no longer content with just sending you the odd phishing text or two. As Wired reports, more and more of them are using so-called \"SMS blasters\" that basically act as a portable cell tower, tricking your phones into connecting with them. The scammers walk or drive around with the devices, sending a ludicrous volume of SMS messages that contain dangerous links. And we do mean ludicrous. Last year, Thai police reported that one device was capable of […]</p>",
+      "published": "Sat, 20 Sep 2025 10:00:38 +0000",
+      "source": "Futurism",
+      "image_url": "https://wordpress-assets.futurism.com/2025/09/scammers-fake-cell-towers.jpg"
+    },
+    {
+      "title": "CEO Says He's Showing His Engineers How to Get Things Done by Sending Them Stuff He Vibe Coded",
+      "link": "https://futurism.com/ceo-engineers-vibe-coded",
+      "summary": "<p>Buy-now-pay-later platform Klarna went public on the US stock market last week, sending its stock surging to well above its expected range. The company's CEO, Sebastian Siemiatkowski, has thrown the entire company's weight behind artificial intelligence, infamously boasting that the tech was doing the work of \"700 full-time agents\" last year — only to regret his decision months later, admitting that humans play an important role after all. But Siemiatkowski's obsession with AI hasn't disappeared overnight. The CEO told the podcast Sourcery over the weekend that he has been vibe coding, the practice of using AI to write code using […]</p>",
+      "published": "Sat, 20 Sep 2025 09:00:58 +0000",
+      "source": "Futurism",
+      "image_url": "https://wordpress-assets.futurism.com/2025/09/ceo-engineers-vibe-coded.jpg"
+    },
+    {
+      "title": "Scientists Debate to Halt Type of Research That Could Destroy All Life on Earth Should Be Halted",
+      "link": "https://futurism.com/scientists-debate-halt-mirror-life-research-destroy-life",
+      "summary": "<p>Scientists have warned that research into \"mirror life\" organisms, hypothetical entities that are made up of molecules with mirror-image molecules, or reverse chirality, should be stopped. It's a dystopian, yet almost entirely hypothetical, vision of a new breed of beings that could escape the confines of their scientist creators and roam the Earth like zombies, as fictionalized in the upcoming horror movie, \"Mirror Life: Modern Zombie.\" As Nature reported last year, doing so could pose risks to ecosystems if unleashed, posing a similar threat to life on Earth as invasive species by evading natural predators and pathogen detection systems found […]</p>",
+      "published": "Sat, 20 Sep 2025 08:30:53 +0000",
+      "source": "Futurism",
+      "image_url": "https://wordpress-assets.futurism.com/2025/09/scientists-debate-halt-mirror-life-research-destroy-life.jpg"
+    },
+    {
+      "title": "Self-Driving Teslas Keep Driving Into the Path of Oncoming Trains",
+      "link": "https://futurism.com/teslas-driving-into-trains",
+      "summary": "<p>With numerous accidents and countless close calls to its name, Tesla's Full Self-Driving software has a problem with more than occasionally going off the rails. Or sometimes, going onto them. As NBC News reports, numerous Tesla drivers have warned that their cars running the self-driving mode are going haywire near railroad crossings, failing to stop even when a train was barreling past right in front of them. Most of them were able to manually intervene and slam the brakes in time, but that hasn't always been the case. \"If it's having trouble stopping at rail crossings, it's an accident waiting […]</p>",
+      "published": "Sat, 20 Sep 2025 08:00:54 +0000",
+      "source": "Futurism",
+      "image_url": "https://wordpress-assets.futurism.com/2025/09/teslas-driving-into-trains.jpg"
+    },
     {
       "title": "Google isn’t kidding around about cost cutting, even slashing its FT subscription",
       "link": "https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/",
@@ -138,28 +194,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1491674965.jpg?resize=1200,800"
     },
     {
-      "title": "Despite congressional threat, National Academies releases new climate report",
-      "link": "https://arstechnica.com/science/2025/09/despite-congressional-threat-national-academies-releases-new-climate-report/",
-      "summary": "Things have changed since 2009: We're more certain about the problems.",
-      "published": "Fri, 19 Sep 2025 18:44:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1354849968-1152x648.jpg"
-    },
-    {
       "title": "Trump's $175 Billion Golden Dome is Turning Into a Disaster",
       "link": "https://futurism.com/trump-golden-dome-disaster",
       "summary": "<p>Months after US president Donald Trump signed off on a long-range missile defense system called the \"Golden Dome,\" officials and the public are still in the dark on how to finish the project — and experts warn its price tag will be far higher than previously disclosed. After being given a 60-day deadline to come up with a plan for the project, Space Force General Michael Guetlein said the blueprint is complete — but wasn't able to give any details about the scope, timeline, or cost, Bloomberg reports. \"It is currently undergoing review and no additional information is available at this […]</p>",
       "published": "Fri, 19 Sep 2025 18:41:00 +0000",
       "source": "Futurism",
       "image_url": "https://wordpress-assets.futurism.com/2025/09/trump-golden-dome-disaster.jpg"
-    },
-    {
-      "title": "After getting Jimmy Kimmel suspended, FCC chair threatens ABC’s The View",
-      "link": "https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/",
-      "summary": "Carr: \"Turn your license in to the FCC, we'll find something else to do with it.\"",
-      "published": "Fri, 19 Sep 2025 18:25:03 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg"
     },
     {
       "title": "TechCrunch’s Equity podcast is on video, starting today",
@@ -194,14 +234,6 @@
       "image_url": "https://wordpress-assets.futurism.com/2025/09/wsj-ai-jobs.jpg"
     },
     {
-      "title": "Judge Gives Humiliating Punishment to Lawyers Caught Using AI in Court",
-      "link": "https://futurism.com/judge-humiliating-punishment-lawyers-using-ai",
-      "summary": "<p>AI tools have become a hit with lawyers. But judges have shown they have little patience for when they screw up by using the tech. When combing over a document submitted by two defense lawyers from the firm Cozen O'Connor, district judge David Hardy found at least 14 citations of case law that appeared to be fictitious, Reuters reported. Others were misquoted or misrepresented. After being confronted, the two defense lawyers soon pleaded guilty: one of them had used ChatGPT to draft and edit the document. Where other judges have sanctioned lawyers for committing similar sins, judge Hardy offered a […]</p>",
-      "published": "Fri, 19 Sep 2025 16:18:40 +0000",
-      "source": "Futurism",
-      "image_url": "https://wordpress-assets.futurism.com/2025/09/judge-humiliating-punishment-lawyers-using-ai-1.jpg"
-    },
-    {
       "title": "Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn’t the Wi-Fi",
       "link": "https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/",
       "summary": "Meta CTO Andrew Bosworth offered a postmortem on Meta's demo fails this week at its developer conference, where it showed off new smart glasses.",
@@ -210,36 +242,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173597965.jpg?resize=1200,800"
     },
     {
-      "title": "Dark Smoke Billows After Horrific Collision Between Flying Cars",
-      "link": "https://futurism.com/the-byte/collision-flying-cars-china",
-      "summary": "<p>Two flying cars collided with each other during an airshow rehearsal in Changchun, a city in northeastern China. Videos on social media show emergency response vehicles at the scene as a big plume of dark smoke billows from one of the wrecks. Fortunately, neither of the electric vertical take-off and landing (eVTOL) vehicles, developed by the Xpeng Aeroht subsidiary of EV giant Xpeng, had anybody on board. \"All personnel at the scene are safe, and local authorities have completed on-site emergency measures in an orderly manner,\" the company said in a statement to CNN.</p>",
-      "published": "Fri, 19 Sep 2025 15:14:03 +0000",
-      "source": "Futurism",
-      "image_url": "https://wordpress-assets.futurism.com/2025/09/collision-flying-cars-china-1.jpg"
+      "title": "Britain jumps into bed with Palantir in £1.5B defense pact",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/20/uk_palantir_defense_pact/",
+      "summary": "<h4>Arrangement follows big tech tie-ins claiming to offer £31B investment</h4> <p>The UK has struck a defense deal with US spy-tech biz Palantir, which the government says will unlock £1.5 billion ($2 billion) of investment in Britain.…</p>",
+      "published": "2025-09-20T08:30:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/08/01/salisbury_plain_training_area_soldiers.jpg"
     },
     {
-      "title": "The AI Bubble Bursting Would Actually Be Incredible for the Economy, Economist Says",
-      "link": "https://futurism.com/ai-bubble-economy-boost",
-      "summary": "<p>The US economy is absolutely screaming. Late rent payments and loan delinquencies are skyrocketing, and the top 10 percent of earners account for nearly half of all consumer spending. In early September, the Bureau of Labor Statistics reported that the nation added over 900,000 fewer jobs than previously thought from March 2024 to 2025. Yet, as bad as things might feel for the common man, the numbers have never looked better — the tech-dominated Nasdaq continues to reach record highs, and the country's GDP has grown by more than 50 percent since 2020. The catch here is that this growth […]</p>",
-      "published": "Fri, 19 Sep 2025 14:04:25 +0000",
-      "source": "Futurism",
-      "image_url": "https://wordpress-assets.futurism.com/2025/09/ai-bubble-economy-boost.jpg"
+      "title": "An ICE raid at an EV factory raises fears about US instability",
+      "link": "https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling",
+      "summary": "For years, foreign automakers have been sending their employees to the US to open advanced manufacturing and battery plants in states like South Carolina, Georgia, Tennessee, and Kentucky. These plants eventually employ thousands of American workers who build vehicles for both the US market and overseas. And they pump billions of dollars into the state [&#8230;]",
+      "published": "2025-09-20T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2235310022.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Elon Musk Fires 500 Staff at xAI, Puts College Kid in Charge of Training Grok",
-      "link": "https://futurism.com/elon-musk-college-kid-xai-grok",
-      "summary": "<p>Remember when Elon Musk hired a bunch of teenagers to gut the federal government? Well, now he's put one in charge of a key division at his company xAI. Business Insider reports that the data annotation team that helps train the company's AI chatbot Grok is now being led by Diego Pasini, a college student who graduated from high school in 2023. His promotion comes right off the back of a brutal round of layoffs at the team which saw more than 500 staffers, including high-level employees, get the axe. Pasini, it seems, has quickly settled into his new role. […]</p>",
-      "published": "Fri, 19 Sep 2025 13:04:24 +0000",
-      "source": "Futurism",
-      "image_url": "https://wordpress-assets.futurism.com/2025/09/elon-musk-college-kid-xai-grok.jpg"
-    },
-    {
-      "title": "Scientists Intrigued by Mysterious Object Floating Near Earth",
-      "link": "https://futurism.com/mysterious-object-floating-near-earth",
-      "summary": "<p>Earth has a new friend — and it's been waiting for us to notice it for decades. In a new study published in the journal Research Notes of the American Astronomical Society, astronomers report the discovery of a mysterious object that appears to be a \"quasi-moon,\" or a small asteroid that temporarily orbits near our planet.  Even though it's been here around 60 years, the object isn't gravitationally bound to Earth. In another 60 years, it's expected to drop the quasi-moon act and be sucked back into its grander orbit around the Sun. Designated 2025 PN7, the near-Earth asteroid one of […]</p>",
-      "published": "Fri, 19 Sep 2025 12:00:07 +0000",
-      "source": "Futurism",
-      "image_url": "https://wordpress-assets.futurism.com/2025/09/mysterious-object-floating-near-earth.jpg"
+      "title": "Anker’s latest sleep buds can silence snoring",
+      "link": "https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30",
+      "summary": "Anker's latest Soundcore Sleep A30 sleep buds do what its A20 buds promised but couldn't deliver: mask snoring. It accomplishes this with the inclusion of Active Noise Cancellation in the buds and a microphone inside the charging case that actively adjusts masking audio to cancel out the sound of sawing logs. Of course I want [&#8230;]",
+      "published": "2025-09-20T03:01:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_0728.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Trump admin says tech companies are abusing H-1B visas, slaps $100k a year to allow entry",
@@ -376,30 +400,6 @@
       "published": "2025-09-19T13:35:20-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Scattered Spider teen cuffed after buying games and meals with extortion bitcoin",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/19/scattered_spider_teen_cuffed/",
-      "summary": "<h4>Bad opsec</h4> <p>Thalha Jubair, one of the two UK teens arrested on Tuesday and accused of being members of the notorious Scattered Spider cybercrime gang, allegedly played a role in bilking more than 100 organizations out of at least $115 million in ransom payments. The cops nabbed him after following a number of clues, including paying for gift cards from a wallet on the same server that also held wallets receiving extortion payments.…</p>",
-      "published": "2025-09-19T13:02:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/08/02/shutterstock_police_arrest.jpg"
-    },
-    {
-      "title": "MAGA influencers are already fighting over Charlie Kirk’s death",
-      "link": "https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson",
-      "summary": "The only true surprise about this latest MAGA influencer civil war is how quickly it happened, given the circumstances: Charlie Kirk, an ubiquitous presence, influential political force, and seemingly everyone's best friend, had been dead for barely a week before everyone began fighting each other for a piece of him. The indictment of Tyler Robinson, [&#8230;]",
-      "published": "2025-09-19T11:50:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1229648073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "ESPN and Fox One net one million signups in under two weeks",
-      "link": "https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups",
-      "summary": "It feels like we’ve reached total saturation when it comes to streaming services, but apparently people are happy to sign up for one (or two) more services if they include live sports. According to Antenna, a firm that tracks the streaming industry, the new ESPN service and Fox One signed up about a million new [&#8230;]",
-      "published": "2025-09-19T11:32:15-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25281811/2004280409.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
