@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-09-23T06:34:34.475088",
+  "lastUpdated": "2025-09-23T12:47:08.566325",
   "articles": [
+    {
+      "title": "Goodnotes collaborative docs and AI assitant to cater to professional users",
+      "link": "https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/",
+      "summary": "Note taking app Goodnotes is launching new features to cater to professional users.",
+      "published": "Tue, 23 Sep 2025 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GoodNotes-feat.jpg?resize=1200,675"
+    },
+    {
+      "title": "Sila opens U.S. factory to make silicon anodes for energy dense EV batteries",
+      "link": "https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/",
+      "summary": "Sila has been building the facility on Moses Lake, Washington, for nearly two years. Now, it's poised to start volume production.",
+      "published": "Tue, 23 Sep 2025 09:45:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/sila-moses-lake-oblique-close-up.jpeg?resize=1200,675"
+    },
     {
       "title": "After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia",
       "link": "https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/",
@@ -146,28 +162,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/TC25_-Elad-Gil-Speaker-16x9-Dark.png?resize=1200,675"
     },
     {
-      "title": "Automaker giant Stellantis says customers’ personal data stolen during breach",
-      "link": "https://techcrunch.com/2025/09/22/automaker-giant-stellantis-says-customers-personal-data-stolen-during-breach/",
-      "summary": "One report says, citing the hackers who took credit for the breach, that 18 million customer records were stolen from Stellantis' customer database.",
-      "published": "Mon, 22 Sep 2025 18:29:54 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/stellantis-breach-2202685025.jpg?w=1024"
-    },
-    {
       "title": "DeepMind AI safety report explores the perils of “misaligned” AI",
       "link": "https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/",
       "summary": "DeepMind releases version 3.0 of its AI Frontier Safety Framework with new tips to stop bad bots.",
       "published": "Mon, 22 Sep 2025 18:18:00 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/deepmind-1152x648.jpg"
-    },
-    {
-      "title": "Here’s what’s happening right now with the US TikTok deal",
-      "link": "https://techcrunch.com/2025/09/22/heres-whats-happening-right-now-with-the-us-tiktok-deal/",
-      "summary": "A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion.",
-      "published": "Mon, 22 Sep 2025 18:11:15 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/tiktok-us-flag.jpg?resize=1200,770"
     },
     {
       "title": "ChatGPT Has a Stroke When You Ask It This Specific Question",
@@ -242,6 +242,134 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/09/ai-designed-virus-printed.jpg?quality=85"
     },
     {
+      "title": "Workers fear for their jobs as JLR's latest shutdown extended",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/jaguar_landrover_shutdown_extended/",
+      "summary": "<h4>With no idea when engines restart, families gear down on spending ahead of Christmas</h4> <p>Jaguar Land Rover is extending the shutdown of its production plants another week in a move that experts say could cost the business in the multiple billions.…</p>",
+      "published": "2025-09-23T12:04:25.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/10/21/auto_tech.jpg"
+    },
+    {
+      "title": "Slow Wi-Fi? Add houseplants to the list of suspects",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/slow_wifi_could_be_houseplants/",
+      "summary": "<h4>Not as bad as other interference, but maybe it's time for a wired connection</h4> <p>Houseplants could be slowing down your Wi-Fi, according to Broadband Genie, which reckons surfers can increase broadband speeds by almost 40 percent just by moving their router away from any greenery.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-23T11:43:25.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/23/shutterstock_2225772587.jpg"
+    },
+    {
+      "title": "Suspected Iran-backed attackers targeting European aerospace sector with novel malware",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/iran_targeting_european_aerospace/",
+      "summary": "<h4>Instead of job offers, victims get MiniJunk backdoor and MiniBrowse stealer</h4> <p>Suspected Iranian government-backed online attackers have expanded their European cyber ops with fake job portals and new malware targeting organizations in the defense, manufacturing, telecommunications, and aviation sectors.…</p>",
+      "published": "2025-09-23T10:52:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/07/24/iran_flags_648.jpg"
+    },
+    {
+      "title": "Linux's love-to-hate projects drop fresh versions: systemd 258 and GNOME 49",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/systemd_258_gnome_49/",
+      "summary": "<h4>Init system update arrives behind schedule while desktop overhaul adds app and HDR polish</h4> <p>There are fresh new releases of two of the more controversial and divisive projects in the Linux world for everyone to argue about… and then adopt anyway.…</p>",
+      "published": "2025-09-23T10:36:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/02/06/fedupwomanonlaptop.jpg"
+    },
+    {
+      "title": "UK.gov ditching 'Red' risk data sharing project after slashing £0.5B budget in half",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/idp_closing/",
+      "summary": "<h4>Meanwhile Lotus Notes still lurks in some Office of National Statistics systems, for now</h4> <p>A flagship Office for National Statistics project to share data across the UK government appears to be ending several years before its time after failing to make enough progress, getting a \"Red\" risk rating two years in a row, and never appointing a program director.…</p>",
+      "published": "2025-09-23T10:24:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/03/16/data_shutterstock.jpg"
+    },
+    {
+      "title": "UK chancellor Putin the blame on Russia for cyber chaos, but evidence says otherwise",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/reeves_blames_russia_cyberattacks/",
+      "summary": "<h4>Reeves points finger at Moscow in interview when authorities reckon it's local lads</h4> <p>UK chancellor Rachel Reeves is blaming Moscow for Britain's latest cyber woes, an attribution that seems about as solid as wet cardboard given the trail of evidence pointing to attackers much closer to home.…</p>",
+      "published": "2025-09-23T10:07:26.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/12/07/putin.jpg"
+    },
+    {
+      "title": "HCL stretches support window for Domino v9/v10 despite repeated end-of-life deadlines",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/hcl_notes_domino_support/",
+      "summary": "<h4>The corpse of Lotus Notes keeps twitching</h4> <p>Some software is more difficult to kill than a horror movie villain, it seems, as Domino and Notes versions 9.0.x and 10.0.x are now set to limp on until the end of this decade.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-09-23T09:20:02.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/22/shutterstock_635021405.jpg"
+    },
+    {
+      "title": "Node4's £45M Tisski takeover ends in tears – and £2.4M in damages",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/node4_tisski_takeover_ruling/",
+      "summary": "<h4>Messy ruling details a perfect storm of NAO, MoD, and Aquila contract failures</h4> <p>Managed service provider Node4 has won a £2.4 million (c $3.2 million) damages award against the founder of Microsoft Dynamics consultancy Tisski, after the High Court ruled the company was sold with problematic contracts that were collapsing as the deal was being finalized.…</p>",
+      "published": "2025-09-23T09:11:30.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/03/16/collapse_shutterstock.jpg"
+    },
+    {
+      "title": "We’re living in a golden age of affordable mechanical keyboards",
+      "link": "https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs",
+      "summary": "The mechanical keyboard world has undergone a renaissance. Thanks to increased competition and commoditized tech, features that used to be exclusive to limited-run DIY boards in the $300-plus range just a few years ago are now available in prebuilt boards in the $100 to $200 range — sometimes less. The DIY kit builds, limited-run group [&#8230;]",
+      "published": "2025-09-23T08:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257904_fall_upgrade_week_KEYBOARDS_2_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google begins its battle for the ‘unofficial currency of the internet’",
+      "link": "https://www.theverge.com/policy/783285/google-doj-ad-tech-remedies-trial",
+      "summary": "Google has spent a decade sharpening its \"weapons\" in an industry that helps sustain large swaths of the open internet, the Justice Department argued before a federal judge Monday. After years of operating an illegal monopoly in two ad tech markets and unlawfully tying its products together, nothing short of a break up will suffice [&#8230;]",
+      "published": "2025-09-23T08:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The EU is scrutinizing how Apple, Google, and Microsoft tackle online scams",
+      "link": "https://www.theverge.com/news/783507/eu-regulators-apple-google-microsoft-online-scams",
+      "summary": "The European Union wants to assess if Apple, Google, and Microsoft are doing enough to prevent the proliferation of online scams on their platforms. The Financial Times reports that EU regulators are formally requesting information from the three US tech companies under the Digital Services Act regarding their efforts to tackle financial fraud, alongside Booking [&#8230;]",
+      "published": "2025-09-23T08:11:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Fall into smarter lighting",
+      "link": "https://www.theverge.com/tech/781652/smart-light-matter-philips-hue-apple-home",
+      "summary": "Smart lighting is one of the most useful and enjoyable smart home upgrades you can make. The convenience of turning lights on and off with a voice command or having them come on at precisely the right brightness when you walk into a room, adjusted for the time of day, is a huge quality-of-life upgrade [&#8230;]",
+      "published": "2025-09-23T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257904_fall_upgrade_week_LIGHTIG_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "DJI’s smallest action camera will start recording when you nod",
+      "link": "https://www.theverge.com/news/781827/dji-osmo-nano-4k-action-camera-multifunctional-vision-dock",
+      "summary": "Following recent leaks, DJI has announced its new compact and lightweight Osmo Nano. It’s DJI’s smallest action camera to date but features the same 1 / 1.3-inch sensor with 13.5 stops of dynamic range and 4K / 120fps recording capabilities as the company’s flagship Osmo Action 5 Pro DJI, which launched a year ago. As [&#8230;]",
+      "published": "2025-09-23T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/dji_osmonano1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "How I learned to stop worrying and love the datacenter",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/datacenter_builds_risk_rewards/",
+      "summary": "<h4>Stargates or black holes? Risks and rewards from the B(r)itbarn boom</h4> <p><strong>Comment</strong>  The UK has bitterly expensive power, an energy minister who sees electricity as bad, a lethargic planning system, and a grid with a backlog for connections running to 2039.…</p>",
+      "published": "2025-09-23T07:58:04.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/07/22/shutterstock_datacenter_disaster.jpg"
+    },
+    {
+      "title": "Volvo promises software improvements for buggy EX90 SUV",
+      "link": "https://www.theverge.com/transportation/783112/volvo-ex90-software-factory-sales-hybrid",
+      "summary": "Volvo’s EX90 SUV was supposed to usher in a new era of electrified dominance for the Chinese-owned, Swedish designed automaker. Instead, the three-row SUV has been plagued by problems from the very start, including blank infotainment screens, faulty climate controls, driver assist failures, and the noticeable lack of a working lidar sensors. Now, the EX90 [&#8230;]",
+      "published": "2025-09-23T07:16:48-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Volvo-Car-Charleston-Plant-Hero-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Uber launches prepaid passes for frequent routes",
+      "link": "https://www.theverge.com/news/782765/uber-prepaid-pass-bundle-discount-route",
+      "summary": "Uber is still trying to chip away at the perception that its ridehailing service is too expensive by launching a new feature aimed at helping customers save money on frequently traveled routes. Today, the company is launching prepaid passes, in which customers can pay a discounted price in advance on frequently taken trips. Passes will [&#8230;]",
+      "published": "2025-09-23T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "EV charging biz zaps customers with data leak scare",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/dcs_data_breach/",
       "summary": "<h4>Names, emails unplugged in DCS support snafu – but 'billing is safe'</h4> <p>An electric vehicle charging point provider is telling users that their data may be compromised, following a recent security \"incident\" at a service provider.…</p>",
@@ -250,156 +378,28 @@
       "image_url": "https://regmedia.co.uk/2022/12/12/ev_shutterstock.jpg"
     },
     {
-      "title": "China tells grumps, trolls, and AIs to stop emoting online",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/china_negative_emotion_online_crackdown/",
-      "summary": "<h4>Cracks down on malicious pessimism and expressions of ennui</h4> <p>China’s Cyberspace Administration yesterday announced a two-month campaign to quash netizens who “maliciously incite negative emotions”.…</p>",
-      "published": "2025-09-23T05:15:54.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/23/shutterstock_sad_angry_asian_man.jpg"
+      "title": "Microsoft’s Windows AI Lab is a new way to test experimental features",
+      "link": "https://www.theverge.com/news/783475/microsoft-windows-ai-labs-feature",
+      "summary": "Microsoft is starting to test experimental AI-powered features through a new Windows AI Labs program. Some Windows testers spotted references to the Windows AI Labs program in pre-release updates to Microsoft Paint last week, and Microsoft has now confirmed to The Verge that the program is designed to provide early access to new AI features [&#8230;]",
+      "published": "2025-09-23T05:01:37-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "One of TikTok’s network boffins says it causes ‘massive data wastage’",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/short_video_prefetch_research/",
-      "summary": "<h4>China-funded research suggests video app's new American operators might byte off 40 percent more traffic than they can chew</h4> <p>Before Larry Ellison, Michael Dell and Rupert Murdoch put pen to paper to take over TikTok’s US operations from ByteDance, they might want to consider that one of the Chinese company’s network boffins thinks the app and others like it create “massive data wastage”.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-23T02:18:22.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/23/screenshot_bytewaste_in_tiktok_font.jpg"
+      "title": "Tado’s new AI features will adaptively heat your home",
+      "link": "https://www.theverge.com/news/783465/tado-x-ai-auto-assist-heating-update",
+      "summary": "Smart thermostat company Tado is launching new AI-powered features that aim to help users heat their homes more efficiently. Tado says the AI Assist update builds on the company’s existing Auto Assist options by introducing “advanced machine-learning” that “learns, predicts, and optimizes” heating in real time. AI Assist is available in Europe and the UK [&#8230;]",
+      "published": "2025-09-23T04:32:47-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/2392_Press_image_AI_Assist_Launch_2025_Screens_EN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "A first look at Kojima’s OD Xbox game",
+      "title": "Here’s a first look at Kojima’s OD Xbox game",
       "link": "https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer",
       "summary": "Hideo Kojima first announced he was teaming up with Xbox for a new game in 2022, before a teaser revealed the OD name and some cast last year. We’re now getting a better look at exactly what OD is, in a new three-minute teaser trailer that holds true to Kojima’s promise that the game will [&#8230;]",
       "published": "2025-09-23T01:52:08-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/od.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Stop runaway AI before it's too late, experts beg the UN",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/ai_un_controls/",
-      "summary": "<h4>Signatories include 10 Nobel Prize winners</h4> <p><strong>ai-pocalypse</strong>  Ten Nobel Prize winners are among the more than 200 people who've signed a letter calling on the United Nations to define and enforce “red lines” that prohibit some uses of AI.…</p>",
-      "published": "2025-09-23T00:16:26.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/12/07/terminator_shutterstock.jpg"
-    },
-    {
-      "title": "AI gone rogue: Models may try to stop people from shutting them down, Google warns",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/22/google_ai_misalignment_risk/",
-      "summary": "<h4>Misalignment risk? That's an area for future study</h4> <p>Google DeepMind added a new AI threat scenario - one where a model might try to prevent its operators from modifying it or shutting it down - to its AI safety document. It also included a new misuse risk, which it calls \"harmful manipulation.\"…</p>",
-      "published": "2025-09-22T22:26:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/05/24/robot_shutterstock.jpg"
-    },
-    {
-      "title": "Nvidia adds more air to the AI bubble with vague $100B OpenAI deal",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/22/openai_nvidia_chips/",
-      "summary": "<h4>Promises, promises</h4> <p><strong>analysis</strong>  OpenAI and Nvidia have signed a letter of intent wherein OpenAI agrees to buy at least 10 gigawatts of Nvidia systems for its datacenters, while the AI arms dealer returns the favor with an investment of up to $100 billion in the house that Altman built.…</p>",
-      "published": "2025-09-22T22:07:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/22/shutterstock_2674646077.jpg"
-    },
-    {
-      "title": "Palworld is getting a farming spinoff",
-      "link": "https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff",
-      "summary": "Palworld won’t hit 1.0 until next year, but developer Pocketpair is already announcing a farming spinoff: Palworld: Palfarm. Basically, it sounds like the Palworld version of farming simulator games like Stardew Valley. “Each Pal will lend a hand in farm work by making use of their unique abilities,” Pocketpair says in a press release. “From [&#8230;]",
-      "published": "2025-09-22T21:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Trump escalates crackdown by designating ‘Antifa’ a domestic terror group",
-      "link": "https://www.theverge.com/news/783158/antifa-domestic-terror-designation-donald-trump",
-      "summary": "The Trump administration’s crackdown on perceived left-wing threats following the death of Charlie Kirk continued on Monday evening, with Donald Trump announcing an executive order titled “Designating Antifa as a Domestic Terrorist Organization.” The order directs federal departments and agencies to “investigate, disrupt, and dismantle any and all illegal operations — especially those involving terrorist [&#8230;]",
-      "published": "2025-09-22T19:27:44-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKS519_FREE_SPEECH_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Don't panic: H-1B visas will cost companies $100K only for new petitions",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/22/h1b_visa_changes/",
-      "summary": "<h4>However, the changes could lead to more offshoring</h4> <p>In a surprise announcement on Friday, President Trump issued a proclamation on the H-1B visas many tech companies use to import qualified foreign workers. The headlines mentioning a $100,000 fee caused panic among many visa holders, leading the White House to issue a clarification: Only new applicants will cost their companies this exorbitant price.…</p>",
-      "published": "2025-09-22T19:22:33.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/22/shutterstock_2336551709.jpg"
-    },
-    {
-      "title": "The AI-energy apocalypse might be a little overblown",
-      "link": "https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report",
-      "summary": "Even if AI turns out not to be as much of an energy hog as people are making it out to be, it could still spell out trouble for power grids across the US. Tech companies are already burning through increasing amounts of electricity to train and run new AI models. And they're asking for [&#8230;]",
-      "published": "2025-09-22T19:12:56-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2190030422.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Cops cuff another teen over alleged Scattered Spider attack that broke Vegas casinos",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/22/teen_cuffed_scattered_spider_casino/",
-      "summary": "<h4>Not old enough to drink, old enough to be accused of causing millions in damage</h4> <p>A teen surrendered to Las Vegas police and was booked on suspicion of breaking into multiple Las Vegas casino networks in 2023, as part of a series of hacks attributed to Scattered Spider.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-22T18:17:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/05/04/arrest_shutterstock.jpg"
-    },
-    {
-      "title": "You can now test drive Fedora 43 and Ubuntu 25.10",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/22/fedora_ubuntu_betas/",
-      "summary": "<h4>Spooky season is nearly here. Want to be scared? There are fresh betas to try</h4> <p>Two of the biggest names in fixed-release distros are nearly finished and ready to drop. You can taste them now, but they're not fully baked yet.…</p>",
-      "published": "2025-09-22T17:41:16.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/07/24/green_light.jpg"
-    },
-    {
-      "title": "The best iPhones",
-      "link": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
-      "summary": "If you’ve been holding off on getting a new iPhone, now’s the perfect time to size up your options. Apple recently launched its 2025 iPhone lineup, which includes the iPhone 17, 17 Pro, 17 Pro Max, and a brand-new model, the ultra-thin iPhone Air. These new phones offer a number of new features over their [&#8230;]",
-      "published": "2025-09-22T17:32:31-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/247288_iphone_buying_guides_3_cvirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Two heads better than one? Oracle gives the co-CEO model another shot",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/22/oracle_leadership_changes/",
-      "summary": "<h4>Cloud and apps chiefs step up as Safra Catz moves upstairs. Larry remains Larry</h4> <p>Oracle on Monday named Clay Magouyrk and Mike Sicilia as its new co-chief executives, replacing Safra Catz, who will shift into the role of executive vice chair of the board after more than a decade as top dog.…</p>",
-      "published": "2025-09-22T17:00:23.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/12/13/shutterstock_safra_catz.jpg"
-    },
-    {
-      "title": "Steam game removed after cryptostealer takes over $150K",
-      "link": "https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware",
-      "summary": "Steam has taken down a game containing malware that drained the cryptocurrency wallets belonging to hundreds of players, as reported earlier by Bleeping Computer. The free-to-play 2D platformer, titled BlockBlasters, took more than $150,000 from victims, including $32,000 from a streamer raising funds for their cancer treatment. In a post on X, malware tracker vx-underground [&#8230;]",
-      "published": "2025-09-22T16:23:12-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Jimmy Kimmel’s show will return after censorship outrage",
-      "link": "https://www.theverge.com/news/782970/jimmy-kimmel-live-return-disney-charlie-kirk",
-      "summary": "Jimmy Kimmel’s late-night talk show is returning on Tuesday after Disney pulled it off the air over comments made about the assassination of Charlie Kirk. In a statement on Monday, Disney said it planned to resume production after having “thoughtful conversations” with Kimmel. &#8220;Last Wednesday, we made the decision to suspend production on the show [&#8230;]",
-      "published": "2025-09-22T16:17:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2215675345.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best deals on MacBooks right now",
-      "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-      "summary": "Apple currently sells MacBooks equipped with its own M-series chips in a wide range of sizes and price points, all of which run the company’s new operating system, macOS 26. It discontinued the M1 MacBook Air to make room for newer models, but Walmart is still selling the 2020 laptop starting at $599 — $50 [&#8230;]",
-      "published": "2025-09-22T16:16:23-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/091525_MacBook_Air_15_M4_macOS_Tahoe_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Facebook Dating tries using AI to end ‘swipe fatigue’",
-      "link": "https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue",
-      "summary": "Facebook Dating is getting new AI features to help users avoid “swipe fatigue,” Meta announced today. The new features include a new “dating assistant” AI chatbot that helps you find potential matches as well as a new “Meet Cute” feature that automatically matches you with someone using a “personalized” algorithm. With the dating assistant, you [&#8230;]",
-      "published": "2025-09-22T14:59:59-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations",
-      "summary": "On Monday, more than 200 former heads of state, diplomats, Nobel laureates, AI leaders, scientists, and others all agreed on one thing: There should be an international agreement on “red lines” that AI should never cross —&#160;for instance, not allowing AI to impersonate a human being or self-replicate.&#160; They, along with more than 70 organizations [&#8230;]",
-      "published": "2025-09-22T14:33:27-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
