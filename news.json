@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-09-25T01:46:53.895785",
+  "lastUpdated": "2025-09-25T06:34:52.671933",
   "articles": [
     {
-      "title": "Y Combinator launches “Early Decision” for students who want to graduate first, build later",
+      "title": "Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later",
       "link": "https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/",
-      "summary": "The accelerator has introduced a new application track called Early Decision, designed for students who want to start companies but don’t want to drop out.",
+      "summary": "The program allows students to apply while still in school, get accepted and funded immediately, and defer their participation in YC until after they graduate.",
       "published": "Wed, 24 Sep 2025 22:36:56 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/04/yc-sf.jpg?resize=1200,645"
@@ -18,7 +18,7 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-1152x648.jpg"
     },
     {
-      "title": "India court rejects X’s “free speech” argument, backs government takedown powers",
+      "title": "India court rejects X’s ‘free speech’ argument, backs government takedown powers",
       "link": "https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/",
       "summary": "X sued the Indian government in March over content takedown orders issued through its centralized portal.",
       "published": "Wed, 24 Sep 2025 22:20:57 +0000",
@@ -112,22 +112,6 @@
       "published": "Wed, 24 Sep 2025 18:42:57 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250916-PH-SPX01_0001large-1152x648.jpg"
-    },
-    {
-      "title": "Cohere hits $7B valuation a month after its last raise, partners with AMD",
-      "link": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/",
-      "summary": "A fresh $100 million and an interesting partnership with AMD has slightly bumped Cohere's valuation up.",
-      "published": "Wed, 24 Sep 2025 18:06:22 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1251294520.jpg?w=1024"
-    },
-    {
-      "title": "Microsoft adds Anthropic’s AI to Copilot",
-      "link": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
-      "summary": "Microsoft is integrating OpenAI rival Anthropic's AI into Copilot, marking another step toward the disentangling of Microsoft and OpenAI.",
-      "published": "Wed, 24 Sep 2025 17:46:29 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676"
     },
     {
       "title": "DARPA Going Hard on Insect-Sized Spy Robots",
@@ -242,12 +226,60 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/09/nasa-moving-out-of-entire-buildings-as-its-gutted-by-trump.jpg?quality=85"
     },
     {
+      "title": "Smartphone maker Nothing to spin off its affordable CMF brand",
+      "link": "https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/",
+      "summary": "Nothing is making its affordable devices brand CMF into a separate entity with headquarters in India.",
+      "published": "Thu, 25 Sep 2025 05:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/CMF_16x9.jpg?resize=1200,675"
+    },
+    {
+      "title": "It isn’t your imagination: Google Cloud is flooding the zone",
+      "link": "https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/",
+      "summary": "While the industry's biggest players cement ever-tighter partnerships, Google is hellbent on capturing the next generation of AI companies before they become too big to court.",
+      "published": "Thu, 25 Sep 2025 04:41:36 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-582759168.jpg?resize=1200,800"
+    },
+    {
+      "title": "Google, Meta and Vodafone want smartphone-makers to reduce their bandwidth bills",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/google_meta_vodafone_av1_smartphone/",
+      "summary": "<h4>By supporting efficient video codecs in hardware, which to be fair will also help punters</h4> <p>Google, Meta, and Vodafone have called on chipmakers and smartphone manufacturers to support the AV1 video codec in hardware, especially in midrange devices, a suggestion that’s not entirely altruistic.…</p>",
+      "published": "2025-09-25T06:12:54.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/25/shutterstock_cat_watching_video_on_smartphone.jpg"
+    },
+    {
+      "title": "Is GitHub a social network that endangers children? Australia wants to know",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/australia_social_media_ban_github/",
+      "summary": "<h4>As ban on under-16s using some sites looms, cyber-safety regulator sends Microsoft’s code locker a letter</h4> <p>Australia’s eSafety Commissioner has written to GitHub to ask it to consider if it’s a social network that endangers children.…</p>",
+      "published": "2025-09-25T04:23:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/25/shutterstock_australia_with_github_logo.jpg"
+    },
+    {
+      "title": "Alibaba Cloud plans expansion into Europe and South America",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/alibaba_cloud_expansion/",
+      "summary": "<h4>More datacenters in familiar territories, too, and AI everywhere</h4> <p>Alibaba Cloud yesterday announced its first datacenters in Brazil, France, and The Netherlands, plus expansion of its presence in five other countries outside China.…</p>",
+      "published": "2025-09-25T02:04:31.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/04/30/alibaba_cloud_shutterstock_editorial_only.jpg"
+    },
+    {
       "title": "Microsoft puts Claude on the M365 menu",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/microsoft_claude_copilot/",
       "summary": "<h4>Redmond wants more flavors of ML than OpenAI can cook up</h4> <p>Microsoft has sealed a deal with Anthropic to give users of Microsoft 365 Copilot the option to use the Claude AI engine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "published": "2025-09-25T01:05:31.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/03/04/claude_shutterstock.jpg"
+    },
+    {
+      "title": "Honor’s Magic 8 Pro is getting a new AI button",
+      "link": "https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive",
+      "summary": "Honor has revealed the design of its upcoming Magic 8 Pro flagship in a selection of images shared exclusively with The Verge, confirming that the phone will include a dedicated AI button. When the Magic 8 series launches in China next month, the phones will be among the first powered by the Snapdragon 8 Elite [&#8230;]",
+      "published": "2025-09-25T00:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/honor-magic-8-pro-exclusive-verge4.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Intel reportedly courting ex-flame Apple to become its next investor",
@@ -362,44 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-24-at-5.41.07%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Haunting PS5 shooter Saros launches in March",
-      "link": "https://www.theverge.com/news/785146/sony-playstation-saros-ps5-release-date-trailer-returnal-housemarque",
-      "summary": "Saros, the next game from Returnal developer Housemarque, launches for PS5 on March 20th, 2026, Sony announced during its September State of Play presentation on Wednesday. Based on a gameplay trailer shown during the event, it looks like Saros takes a lot of cues from Returnal, with futuristic weapons, lots of bullets and rings filling [&#8230;]",
-      "published": "2025-09-24T17:19:32-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/saros-screenshot-02-en-14feb25.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "title": "PC memory costs to climb as fabs chase filthy lucre in servers and HBM",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/pc_memory_price_hike/",
       "summary": "<h4>TrendForce warns of Q4 memory hikes as suppliers squeeze consumer markets</h4> <p>PC memory prices are set to rise as the major suppliers allocate manufacturing capacity to the more lucrative server DRAM and HBM instead amid reports of tightening supplies.…</p>",
       "published": "2025-09-24T16:40:07.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/09/24/shutterstock_dram.jpg"
-    },
-    {
-      "title": "Zorin OS 18 beta makes Linux look like anything but Linux",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/zorin_os_18_beta/",
-      "summary": "<h4>Windows, macOS, Cinnamon, even iPadOS – all just a layout switch away</h4> <p>Although Zorin doesn't aim to closely track its Ubuntu upstream, version 18 of its eponymous OS has been a long time coming.…</p>",
-      "published": "2025-09-24T16:15:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/24/zorin-18-menu.jpg"
-    },
-    {
-      "title": "US Navy: I can't quit you, Azure",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/us_navy_cloud_azure_lock/",
-      "summary": "<h4>AWS, Google, and Oracle admitted they can't support current setup</h4> <p>Microsoft has the US Navy over a barrel, as the service admits it can't separate its custom-built cloud environment from Azure infrastructure without a complete rebuild \"from the ground up.\" …</p>",
-      "published": "2025-09-24T16:10:01.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/06/12/microsoft_shutterstock.jpg"
-    },
-    {
-      "title": "AI hype train may jump the tracks over $2T infrastructure bill, warns Bain",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/bain_ai_costs/",
-      "summary": "<h4>Industry looks like it's going to come up short – by about $800B</h4> <p>The AI craze is fueling massive growth in infrastructure, but the industry will need to hit $2 trillion in revenue by 2030 to keep funding this habit. Consultants at Bain &amp; Company think it is going to come up short.…</p>",
-      "published": "2025-09-24T15:45:45.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/03/24/shutterstock_132864794.jpg"
     }
   ]
 }
