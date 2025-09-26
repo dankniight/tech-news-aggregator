@@ -4,6 +4,15 @@ This is a Python-based news aggregator that fetches articles from various tech n
 
 It is viewable here: https://dankniight.github.io/tech-news-aggregator/
 
+## Features
+
+- Aggregates news from multiple sources (The Verge, The Register, TechCrunch, Ars Technica, Futurism)
+- Displays articles with images when available
+- Responsive design that works on desktop and mobile
+- Dark/light mode toggle with system preference detection
+- Shuffle Mode for re-arranged non-chronological articles
+
+
 ## Architecture
 ```mermaid
 graph TB
@@ -57,13 +66,6 @@ graph TB
     class P,Q,R users
     class T processing
 ```
-
-## Features
-
-- Aggregates news from multiple sources (The Verge, The Register, TechCrunch, Ars Technica, Futurism)
-- Displays articles with images when available
-- Responsive design that works on desktop and mobile
-- Dark/light mode toggle with system preference detection
 
 ## Setup
 
