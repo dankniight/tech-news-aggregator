@@ -196,71 +196,78 @@
                 background-clip: unset !important;
             }
             
-            /* Dark mode */
-            .dark body {
-                @apply bg-gradient-to-br from-neutral-900 to-neutral-800 text-white;
+            /* Dark mode - using Tailwind's dark: prefix for better mobile support */
+            @media (prefers-color-scheme: dark) {
+                :root {
+                    @apply dark;
+                }
             }
             
-            .dark .clean-card {
-                @apply bg-neutral-800/90 border-neutral-700/50 text-white;
+            /* Ensure dark mode styles apply correctly on all devices */
+            html.dark body {
+                @apply bg-gradient-to-br from-neutral-900 to-neutral-800 text-white !important;
             }
             
-            .dark .header-bg {
-                @apply bg-gradient-to-r from-black/30 to-black/20;
+            html.dark .clean-card {
+                @apply bg-neutral-800/90 border-neutral-700/50 text-white !important;
             }
             
-            .dark .text-neutral-600 {
-                @apply text-neutral-300;
+            html.dark .header-bg {
+                @apply bg-gradient-to-r from-black/30 to-black/20 !important;
             }
             
-            .dark .text-neutral-700 {
-                @apply text-neutral-300;
+            html.dark .text-neutral-600 {
+                @apply text-neutral-300 !important;
             }
             
-            .dark .btn-filter {
-                @apply text-white;
+            html.dark .text-neutral-700 {
+                @apply text-neutral-300 !important;
             }
             
-            .dark .border-t {
-                @apply border-white/10;
+            html.dark .btn-filter {
+                @apply text-white !important;
             }
             
-            .dark .pagination-text {
-                @apply text-neutral-300;
+            html.dark .border-t {
+                @apply border-white/10 !important;
             }
             
-            .dark .pagination-text .font-bold {
-                @apply text-white;
+            html.dark .pagination-text {
+                @apply text-neutral-300 !important;
+            }
+            
+            html.dark .pagination-text .font-bold {
+                @apply text-white !important;
             }
             
             /* Light mode */
-            .light body {
-                @apply bg-gradient-to-br from-neutral-50 to-neutral-100 text-black;
+            html.light body {
+                @apply bg-gradient-to-br from-neutral-50 to-neutral-100 text-black !important;
             }
             
-            .light .pagination-text {
-                @apply text-neutral-600;
+            html.light .pagination-text {
+                @apply text-neutral-600 !important;
             }
             
-            .light .pagination-text .font-bold {
-                @apply text-black;
+            html.light .pagination-text .font-bold {
+                @apply text-black !important;
             }
             
             /* Additional dark mode text color fixes */
-            .dark .article-card h2 {
-                @apply text-white;
+            html.dark .article-card h2 {
+                @apply text-white !important;
             }
             
-            .dark .article-card p {
-                @apply text-neutral-200;
+            html.dark .article-card p {
+                @apply text-neutral-200 !important;
             }
             
-            .dark #articles-container .clean-card {
-                @apply text-white;
+            html.dark #articles-container .clean-card {
+                @apply text-white !important;
             }
             
-            .dark #articles-container .text-neutral-600 {
-                @apply text-neutral-300;
+            html.dark #articles-container .text-neutral-600 {
+                @apply text-neutral-300 !important;
             }
             
             /* Ensure consistent font sizes across all sources */
@@ -550,11 +557,30 @@
         const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
         const initialTheme = savedTheme || (prefersDark ? 'dark' : 'light');
         
+        // Apply initial theme with proper class management
+        function applyTheme(theme) {
+            // Remove both theme classes
+            htmlElement.classList.remove('light', 'dark');
+            document.body.classList.remove('light', 'dark');
+            
+            // Add the correct theme class
+            htmlElement.classList.add(theme);
+            document.body.classList.add(theme);
+            
+            // Ensure the theme is applied to all elements
+            document.querySelectorAll('.clean-card, .header-bg, .btn-filter, .pagination-text, .article-card h2, .article-card p, .text-neutral-600, .text-neutral-700, .border-t').forEach(element => {
+                if (theme === 'dark') {
+                    element.classList.remove('light');
+                    element.classList.add('dark');
+                } else {
+                    element.classList.remove('dark');
+                    element.classList.add('light');
+                }
+            });
+        }
+        
         // Apply initial theme
-        htmlElement.classList.remove('light', 'dark');
-        htmlElement.classList.add(initialTheme);
-        document.body.classList.remove('light', 'dark');
-        document.body.classList.add(initialTheme);
+        applyTheme(initialTheme);
         updateThemeIcon(initialTheme);
         
         // Set initial logo based on theme
@@ -581,11 +607,8 @@
             const currentTheme = htmlElement.classList.contains('dark') ? 'dark' : 'light';
             const newTheme = currentTheme === 'light' ? 'dark' : 'light';
 
-            // Apply new theme
-            htmlElement.classList.remove('light', 'dark');
-            htmlElement.classList.add(newTheme);
-            document.body.classList.remove('light', 'dark');
-            document.body.classList.add(newTheme);
+            // Apply new theme using the helper function
+            applyTheme(newTheme);
             
             // Update logo based on theme
             const logoImg = document.getElementById('logo-img');
