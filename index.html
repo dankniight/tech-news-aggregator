@@ -850,6 +850,10 @@
                 prevButton.addEventListener('click', () => {
                     currentPage--;
                     renderArticles();
+                    // Scroll to top of the page when going to previous page after content is updated
+                    setTimeout(() => {
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }, 10);
                 });
                 paginationButtons.appendChild(prevButton);
             }
@@ -862,6 +866,10 @@
                 nextButton.addEventListener('click', () => {
                     currentPage++;
                     renderArticles();
+                    // Scroll to top of the page when going to next page after content is updated
+                    setTimeout(() => {
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }, 10);
                 });
                 paginationButtons.appendChild(nextButton);
             }
