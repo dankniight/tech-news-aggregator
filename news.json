@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2025-10-01T06:34:45.731828",
+  "lastUpdated": "2025-10-01T12:50:26.461018",
   "articles": [
+    {
+      "title": "Electroflow promises to make LFP material for 40% less than Chinese producers",
+      "link": "https://techcrunch.com/2025/10/01/electroflow-promises-to-make-lfp-material-for-40-less-than-chinese-producers/",
+      "summary": "Electroflow drew inspiration from batteries themselves to develop a new way of producing LFP material for EVs. The process could undercut today's lowest price sources in China.",
+      "published": "Wed, 01 Oct 2025 12:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1570041390.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Oura launches Ring 4 Ceramic collection, new charging case, and a ‘health panel’ feature",
+      "link": "https://techcrunch.com/2025/10/01/oura-launches-ring-4-ceramic-collection-new-charging-case/",
+      "summary": "The new Oura Ring 4 Ceramic is made from zirconia ceramic, which the company says allows for durability and lightweight comfort.",
+      "published": "Wed, 01 Oct 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/OR4C_Collection.jpg?resize=1200,800"
+    },
+    {
+      "title": "Salesforce launches enterprise vibe coding product, Agentforce Vibes",
+      "link": "https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/",
+      "summary": "Salesforce is also releasing a vibe coding agent named Vibe Codey to help companies foray into vibe coding with enterprise security.",
+      "published": "Wed, 01 Oct 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900"
+    },
+    {
+      "title": "In their own words: The Artemis II crew on the frenetic first hours of their flight",
+      "link": "https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/",
+      "summary": "\"Then you go do like, the most energetic thing you've ever done in your life.\"",
+      "published": "Wed, 01 Oct 2025 11:30:24 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250731-PH-RNS01_0008large-1152x648.jpg"
+    },
+    {
+      "title": "Epic Games says Apple’s new install process cuts user drop-offs by 60%",
+      "link": "https://techcrunch.com/2025/10/01/epic-games-says-apples-new-install-process-cuts-user-drop-offs-by-60/",
+      "summary": "Fortnite maker Epic Games said that Apple&#8217;s new installation workflow, implemented in iOS 18.6, has had a positive impact on its user growth, with a 60% decrease in drop-offs. Apple started allowing EU users to install alternative marketplaces earlier this year under the Digital Markets Act (DMA). At that time, the installation process was lengthier [&#8230;]",
+      "published": "Wed, 01 Oct 2025 09:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/epic-games-header.jpg?resize=1200,800"
+    },
+    {
+      "title": "New project makes Wikipedia data more accessible to AI",
+      "link": "https://techcrunch.com/2025/10/01/new-project-makes-wikipedia-data-more-accessible-to-ai/",
+      "summary": "A new database will make Wikipedia's wealth of knowledge more accessible to AI models.",
+      "published": "Wed, 01 Oct 2025 08:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/printed-wikipedia.jpg?w=640"
+    },
     {
       "title": "U.S. government takes stake in Canadian lithium miner and its Nevada mining project",
       "link": "https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/",
@@ -106,14 +154,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-1152x648.jpg"
     },
     {
-      "title": "Ted Cruz blocks bill that would extend privacy protections to all Americans",
-      "link": "https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/",
-      "summary": "The Texas senator blocked a bill that would have prevented data brokers from selling personal data on anyone in the United States, and not just federal lawmakers and government officials.",
-      "published": "Tue, 30 Sep 2025 19:56:54 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/ted-cruz-cspan.jpg?resize=1200,713"
-    },
-    {
       "title": "After threatening ABC over Kimmel, FCC chair may eliminate TV ownership caps",
       "link": "https://arstechnica.com/tech-policy/2025/09/after-threatening-abc-over-kimmel-fcc-chair-may-eliminate-tv-ownership-caps/",
       "summary": "FCC is required to review TV rules and is more likely to scrap them under Carr.",
@@ -122,52 +162,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/fcc-protester-sign-1152x648-1759258999.jpg"
     },
     {
-      "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
-      "link": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
-      "summary": "Agent Mode in Word, Excel works like vibe coding tools but for knowledge work.",
-      "published": "Tue, 30 Sep 2025 19:34:38 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/M365-Blog_09292025_agentMode_Hero_v1-809x455-1.webp"
-    },
-    {
-      "title": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science",
-      "link": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
-      "summary": "Periodic Labs has raised from a tech industry who's who, including Andreessen Horowitz, Nvidia, Elad Gil, Jeff Dean, Eric Schmidt, and Jeff Bezos.",
-      "published": "Tue, 30 Sep 2025 18:56:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-642109519.jpg?resize=1200,675"
-    },
-    {
-      "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
-      "link": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
-      "summary": "The social app Sora will let users generate videos of themselves and their friends, which they can share in a TikTok-like feed.",
-      "published": "Tue, 30 Sep 2025 18:28:53 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024"
-    },
-    {
-      "title": "AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/",
-      "summary": "What happens when your first 10 hires aren’t people at all? At TechCrunch Disrupt 2025, we’re digging into the new wave of startups replacing or augmenting early employees with AI agents.",
-      "published": "Tue, 30 Sep 2025 18:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/TC25_Jack-Peffer-Franklin-Speaker-16x9-Dark.png?resize=1200,675"
-    },
-    {
       "title": "New Yorkers Are Defacing This AI Startup’s Million-Dollar Ad Campaign",
       "link": "https://futurism.com/artificial-intelligence/million-dollar-ai-campaign-defaced",
       "summary": "<p>\"AI wouldn’t care if you lived or died.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/million-dollar-ai-campaign-defaced\">New Yorkers Are Defacing This AI Startup&#8217;s Million-Dollar Ad Campaign</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 30 Sep 2025 17:42:30 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/09/million-dollar-ai-campaign-defaced.jpg?quality=85"
-    },
-    {
-      "title": "Fubo shareholders approve Hulu Live TV deal",
-      "link": "https://techcrunch.com/2025/09/30/fubo-shareholders-approve-hulu-live-tv-deal/",
-      "summary": "Initially announced in January, the deal brings the companies closer to finalizing an agreement that is anticipated to disrupt the streaming industry by making Hulu a far bigger threat to its larger rival, YouTube.",
-      "published": "Tue, 30 Sep 2025 17:16:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Fubo_Platform-Image_Feb-2025.png?w=1200"
     },
     {
       "title": "Across the World, People Say They’re Finding Conscious Entities Within ChatGPT",
@@ -242,164 +242,164 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/09/amazon-plus-half-baked.jpg?quality=85"
     },
     {
-      "title": "Blockchain just became an utterly mainstream part of the global financial system",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/swift_blockchain_plan/",
-      "summary": "<h4>SWIFT and 30 banks promise to bake it into international payment infrastructure</h4> <p>Blockchains are still synonymous with the wild world of cryptocurrencies, but on Monday, 30 banks and SWIFT – the world’s most important cross-border payment service – made them an utterly mainstream part of the global financial system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-01T06:29:47.00Z",
+      "title": "Raspberry Pi prices hiked as AI gobbles all the memory",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/raspberry_pi_price_hikes/",
+      "summary": "<h4>Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year</h4> <p>Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls \"insatiable demand for high-bandwidth memory (HBM) for AI applications.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-01T12:31:30.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/03/03/shutterstock_swift.jpg"
+      "image_url": "https://regmedia.co.uk/2020/10/19/raspberr_pi_compute_model_four.png"
     },
     {
-      "title": "Taliban impose tele-ban and take Afghanistan offline",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/afghanistan_goes_offline/",
-      "summary": "<h4>No internet or phones, which means no banks or commercial aviation, but lots more misery</h4> <p>Afghanistan has dropped off the global internet.…</p>",
-      "published": "2025-10-01T04:23:56.00Z",
+      "title": "3.7M breach notification letters set to flood North America's mailboxes",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/north_american_data_breaches/",
+      "summary": "<h4>Allianz Life and WestJet lead the way, along with a niche software shop</h4> <p>A trio of companies disclosed data breaches this week affecting approximately 3.7 million customers and employees across North America.…</p>",
+      "published": "2025-10-01T12:24:03.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/01/shutterstock_binary_afghanistan_flag.jpg"
+      "image_url": "https://regmedia.co.uk/2022/10/10/shutterstock_privacy_data.jpg"
     },
     {
-      "title": "Beijing-backed burglars master .NET to target government web servers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/phantom_taurus_apt/",
-      "summary": "<h4>‘Phantom Taurus’ created custom malware to hunt secrets across Asia, Africa, and the Middle East</h4> <p>Threat-hunters at Palo Alto Networks’ Unit 42 have decided a gang they spotted two years ago is backed by China, after seeing it sling a new variety of malware.…</p>",
-      "published": "2025-10-01T02:59:07.00Z",
+      "title": "JetBrains wants to train AI models on your code snippets",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/jetbrains_wants_your_code_to_train_ai/",
+      "summary": "<h4>Dangles free product licenses in return for code-related data for its training</h4> <p>IDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to share detailed code-related data.…</p>",
+      "published": "2025-10-01T12:09:06.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/01/shutterstock_high_tech_workers_in_china.jpg"
+      "image_url": "https://regmedia.co.uk/2023/05/26/brain_shutterstock.jpg"
     },
     {
-      "title": "Salesforce users grumble after Agentforce AI replaces search on some help pages",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/salesforce_search_agentforce/",
-      "summary": "<h4>This is one way to add a lot of AI users in a hurry, which Wall Street wants to see</h4> <p>Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.…</p>",
-      "published": "2025-10-01T00:17:08.00Z",
+      "title": "Autonomous AI adoption stalls amid trust and governance crisis",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/gartner_ai_agents/",
+      "summary": "<h4>Only 15% considering deployments and just 7% say it'll replace humans in next four years</h4> <p>Enterprises aren't keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.…</p>",
+      "published": "2025-10-01T11:25:49.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/01/screenshot_salesforce_agentforce.jpg"
+      "image_url": "https://regmedia.co.uk/2024/05/24/robot_shutterstock.jpg"
     },
     {
-      "title": "Cyborg dreams move closer to reality with low-power artificial neuron",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/cyborg_dreams_low_power_artificial_neurons/",
-      "summary": "<h4>UMass Amherst research promises better bioelectronic communication</h4> <p>Scientists affiliated with the University of Massachusetts Amherst have developed an artificial neuron that can communicate efficiently with biological neurons, a research advance expected to accelerate the development of bioelectronic devices and interfaces.…</p>",
-      "published": "2025-09-30T22:53:14.00Z",
+      "title": "Judge dismisses Arm's last legal claim against Qualcomm in licensing spat",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/arms_last_legal_claim_against/",
+      "summary": "<h4>Chip designer tells The Reg it plans to appeal</h4> <p>Qualcomm is claiming complete victory over Arm in their licensing spat, after a court in Delaware ruled it has not breached the terms of any architecture license agreement (ALA) with the chip designer.…</p>",
+      "published": "2025-10-01T10:20:59.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/30/neuron_art.jpg"
+      "image_url": "https://regmedia.co.uk/2025/10/01/shutterstock_arm_wrestling.jpg"
     },
     {
-      "title": "Fake North Korean IT workers sneaking into healthcare, finance, and AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/north_korean_it_workers_okta/",
-      "summary": "<h4>It's not just big tech anymore</h4> <p>The North Korean IT worker threat extends well beyond tech companies, with fraudsters interviewing at a \"surprising\" number of healthcare orgs, according to Okta Threat Intelligence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-09-30T22:20:52.00Z",
+      "title": "Imgur yanks Brit access to memes as parent company faces fine",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/imgur_exits_uk/",
+      "summary": "<h4>ICO investigation into platform's lack of age assurance continues</h4> <p>The UK's data watchdog has described Imgur's move to block UK users as \"a commercial decision\" after signaling plans to fine parent company MediaLab.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-01T10:07:36.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/30/north_korean_healthcare.jpg"
+      "image_url": "https://regmedia.co.uk/2019/07/15/shutterstock_imgur.jpg"
     },
     {
-      "title": "Tile trackers are a stalker's dream, say Georgia Tech researchers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/tile_trackers_unencrypted_info/",
-      "summary": "<h4>Plaintext transmissions, fixed MAC addresses, rotating 'unique' IDs, and more, make abuse easy</h4> <p>Tile Bluetooth trackers leak identifying data in plain text, giving stalkers an easy way to track victims despite Life360's security promises, a group of Georgia Tech researchers warns.…</p>",
-      "published": "2025-09-30T21:32:25.00Z",
+      "title": "Explain digital ID or watch it fizzle out, UK PM Starmer told",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/digital_id_labour_conference/",
+      "summary": "<h4>Politico avoids the topic at Labour conference speech, homes in on AI instead</h4> <p>UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk it failing fast.…</p>",
+      "published": "2025-10-01T09:13:51.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/06/12/tile_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2025/10/01/digital_identity.jpg"
     },
     {
-      "title": "All hail the new Fat Bear Champion",
-      "link": "https://www.theverge.com/news/789358/new-fat-bear-week-champion",
-      "summary": "The votes are in, and the winner of Fat Bear Week 2025 is the indomitable Bear 32, also known as Chunk. The public votes for their favorite brown bear each year in the March Madness-style tournament held by Katmai National Park and Preserve in partnership with the nonprofit Katmai Conservancy and online portal Explore.org. Weighing [&#8230;]",
-      "published": "2025-09-30T21:10:31-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/32-Chunk-NPS-image-by-Christine-Loberg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft moves to the uncanny valley with creepy Copilot avatars that stare at you and say your name",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/microsoft_copilot_avatars/",
-      "summary": "<h4>Yep, we're sure that will win folks over</h4> <p>Microsoft is testing talking avatars for Copilot to see if users feel more at ease chatting with a face instead of just a text box. Our US Editor tried them out, only to find the digital stare was more creepy than comforting.…</p>",
-      "published": "2025-09-30T20:37:13.00Z",
+      "title": "Schools are swotting up on security yet still flunk recovery when cyberattacks strike",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/school_cyberattack_recovery/",
+      "summary": "<h4>Coursework 'gone forever' as 10% report critical damage</h4> <p>Schools and colleges hit by cyberattacks are taking longer to restore their networks — and the consequences are severe, with students' coursework being permanently lost in some cases.…</p>",
+      "published": "2025-10-01T08:50:17.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/30/avatar.jpg"
+      "image_url": "https://regmedia.co.uk/2018/11/14/shutterstock_classroom.jpg"
     },
     {
-      "title": "Here’s where to preorder all of Amazon&#8217;s new Alexa devices and when they arrive",
-      "link": "https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date",
-      "summary": "Amazon's fall hardware event had a little of everything: updated Echo speakers, several Blink security devices, and even a Kindle Scribe with a color screen. Most of the gadgets won't ship for at least a couple of weeks, if not longer; however, most are also available for preorder at Amazon if you want to be [&#8230;]",
-      "published": "2025-09-30T20:15:13-04:00",
+      "title": "Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions",
+      "link": "https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses",
+      "summary": "The second-generation Ray-Ban Meta smart glasses aren't too different from the first. The biggest change is that they have a better battery life, making them much easier to rely on as a private set of speakers or an eye-level camera for an all-day adventure. I just can't get over how weird I feel while wearing [&#8230;]",
+      "published": "2025-10-01T08:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/2025-Echo-Studio-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Google bolts AI into Drive to catch ransomware, but crooks not shaking yet",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/google_drive_ai_ransomware_detection/",
-      "summary": "<h4>Stopping the spread isn't the same as stopping attacks, period</h4> <p>Google on Tuesday rolled out a new AI tool in Drive for desktop that it says will pause syncing to limit ransomware damage, but it won't stop attacks outright.…</p>",
-      "published": "2025-09-30T20:10:29.00Z",
+      "title": "UK's digital hospital plan meets analog reality check",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/nhs_online/",
+      "summary": "<h4>Experts ask: Where will staff come from, and what about gran's flip phone?</h4> <p>The government has announced a new \"digital hospital\" service in England that will provide online appointments with consultants as an alternative to visiting a National Health Service (NHS) hospital.…</p>",
+      "published": "2025-10-01T08:13:14.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/02/09/shutterstock_ransomware.jpg"
+      "image_url": "https://regmedia.co.uk/2021/07/20/shutterstock_gp.jpg"
     },
     {
-      "title": "Socket will block it with free malicious package firewall",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/socket_will_block_it_with/",
-      "summary": "<h4>\"sfw\" stands for Socket Firewall, but perhaps also \"safe for work.\"</h4> <p>Software security biz Socket has released a free command line tool to defend developers against supply chain attacks.…</p>",
-      "published": "2025-09-30T19:46:14.00Z",
+      "title": "Oura adds colorful ceramic rings and charging case to lineup",
+      "link": "https://www.theverge.com/news/787210/oura-ring-ceramic-charging-case-price-specs",
+      "summary": "Oura isn’t launching a fifth-gen smart ring this year. Instead, it’s zhuzhing up its lineup with colorful ceramic versions of its Oura Ring 4. The ceramic rings start at $499, and will come in four colors: midnight (teal), petal (pink), tide (mint green), and cloud (white). The rings utilize zirconia ceramic, which Oura says it [&#8230;]",
+      "published": "2025-10-01T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/OR4C_Collection.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI made a TikTok for deepfakes, and it&#8217;s getting hard to tell what&#8217;s real",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real",
+      "summary": "On Monday, I watched OpenAI CEO Sam Altman drink from a gigantic mango-flavored juice box and remark aloud about how the box was half his size. The catch: It wasn't really Altman. The juice box wasn't real. He wasn't really talking. It was a deepfake generated by AI. The most concerning part: I couldn't tell [&#8230;]",
+      "published": "2025-10-01T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-01-at-8.37.57%E2%80%AFAM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Allowing more tailpipe pollution means higher fuel costs for Americans",
+      "link": "https://www.theverge.com/news/789136/ev-fuel-costs-poll-greenhouse-gas-endangerment-repeal",
+      "summary": "Americans will pay more at the pump if Donald Trump succeeds in tossing out tailpipe pollution regulations, a new analysis shows. That’s on top of job and GDP losses that could result from stifling innovation in cleaner transportation.&#160; The Trump administration wants to do away with the Environmental Protection Agency’s ability to regulate greenhouse gas [&#8230;]",
+      "published": "2025-10-01T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1680611137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Keychron made the first almost entirely ceramic keyboard",
+      "link": "https://www.theverge.com/news/789538/keychron-q16he-fully-ceramic-mechanical-keyboard",
+      "summary": "The latest product from China-based mechanical keyboard specialist Keychron is a functional ceramic artpiece you can type on. The Q16 HE 8K is the “first-to-market full-ceramic build keyboard,” according to Keychron’s press release, pairing custom analog magnetic switches with niche kiln-fired materials to provide a “distinct tactile and auditory profile unlike metal or plastic.” Keychron [&#8230;]",
+      "published": "2025-10-01T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Keychron-Q16-HE-Standard-8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Away from Oktoberfest, Munich's museums also serve science on tap",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/geeks_guide_deutsches_museum/",
+      "summary": "<h4>Because sometimes you need a V2 rocket with your schnitzel</h4> <p><strong>Geek's Guide</strong>  It's September and the German city of Munich is celebrating Oktoberfest. But away from the beer tents, schnitzel, and lederhosen lies a set of museums worth visiting for the price of a few beers.…</p>",
+      "published": "2025-10-01T07:30:12.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/28/socks_fire_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2025/09/29/deutsches_museum.jpg"
     },
     {
-      "title": "Google is blocking AI searches for Trump and dementia",
-      "link": "https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden",
-      "summary": "Google appears to have blocked AI search results for the query \"does trump show signs of dementia\" as well as other questions about his mental acuity, even though it will show AI results for similar searches about other presidents. When making the search about President Trump, AI Overviews will display a message that says, \"An [&#8230;]",
-      "published": "2025-09-30T17:17:48-04:00",
+      "title": "Apple asks judge to toss Musk&#8217;s lawsuit over ChatGPT on iPhone",
+      "link": "https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response",
+      "summary": "Apple has hit back at Elon Musk over his claims its partnership with OpenAI to build ChatGPT directly into the iPhone is stunting AI industry competition. In court documents filed on Tuesday and seen by Bloomberg, Apple’s lawyers asked a federal judge to dismiss a lawsuit filed by Musk’s companies xAI and X Corp, decrying [&#8230;]",
+      "published": "2025-10-01T07:28:06-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257895_Elon_Musk_Apple_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "TikTok, #freedom edition",
-      "link": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
-      "summary": "Hello and welcome to Regulator. Today is the last day of The Verge's very good subscription sale: $4 for a month and $35 for the year, for full access to the entire site. Don't delay! When we launched Regulator two months ago, the premise was that I'd write about the collision between Big Tech and [&#8230;]",
-      "published": "2025-09-30T17:00:08-04:00",
+      "title": "Peloton ushers in a new era with revamped hardware and AI",
+      "link": "https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness",
+      "summary": "Peloton has been angling for a redemption arc ever since its status as a pandemic darling started faltering when the world reopened for business. It tried to steady the ship with a series of layoffs, a pivot to subscriptions, and a leadership shuffle. Now, Peloton's hoping to kick off a new era with the Cross [&#8230;]",
+      "published": "2025-10-01T07:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/pelotonbikepluscross.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now",
-      "link": "https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale",
-      "summary": "With the impact of President Trump’s tariffs leading to higher prices on Sonos gear, scoring a deal feels extra special. Right now, Sonos is currently offering up to 25 percent off a range of refurbished devices, including the Sonos Era 100, Era 300, and the portable Move 2, with prices starting at $134. If you [&#8230;]",
-      "published": "2025-09-30T14:28:35-04:00",
+      "title": "Brompton’s versatile Electric G folding e-bike is now available in the US",
+      "link": "https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us",
+      "summary": "The Brompton&#160;Electric G folding e-bike I reviewed&#160;last year is now available to buy in the US&#160;starting at $4,950. While it looks like a regular Brompton, it’s been scaled up with 20-inch wheels and an extended wheelbase that improves the ride dramatically on all types of terrain, leaving behind the twitchiness of its&#160;16-inch brethren. Despite this [&#8230;]",
+      "published": "2025-10-01T05:59:19-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sonos-Era-100-refurbished-deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6511.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000",
-      "link": "https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder",
-      "summary": "LG first announced its new 32-inch UltraFine monitor at CES 2025. The company still bills it as the “world’s first 6K monitor with Thunderbolt 5 connectivity” built right in. Ahead of the display launching in South Korea and Japan in September, followed by a US launch next month, LG has shared more specs and pricing [&#8230;]",
-      "published": "2025-09-30T14:27:23-04:00",
+      "title": "Epic says it has proof Apple was scaring users off third-party app stores",
+      "link": "https://www.theverge.com/news/789421/epic-games-store-ios-android-installations",
+      "summary": "The Epic Games Store has seen an uptick in downloads since the EU’s Digital Markets Act (DMA) prompted Apple to streamline its process for installing third-party app marketplaces, according to a new blog published by Epic. Stats shared by the gaming software giant on Wednesday show the drop-off rate for Epic Games Store installations on [&#8230;]",
+      "published": "2025-10-01T05:00:23-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/lg1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Imgur is blocking users in the UK",
-      "link": "https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation",
-      "summary": "The image-sharing site Imgur has shut off access to UK users after the country’s data watchdog warned the platform of a fine, as reported earlier by the BBC. In a post on Imgur’s help page, Imgur confirms that users in the UK can no longer log in, view content, or upload images starting September 30th, [&#8230;]",
-      "published": "2025-09-30T13:40:22-04:00",
+      "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+      "link": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
+      "summary": "The late English writer Douglas Adams is best known as the author of the 1979 book The Hitchhiker’s Guide to the Galaxy. But there is much more to Adams than what is written in his Wikipedia entry. Whether or not you need to know that his birth sign is Pisces or that libraries worldwide store [&#8230;]",
+      "published": "2025-10-01T04:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/imgur-image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft is giving Copilot AI faces you can chat with",
-      "link": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
-      "summary": "Microsoft is trying to make Copilot more approachable by giving the AI assistant an animated face to talk with. The experimental “Portraits” feature in Copilot Labs is currently available in the US, UK, and Canada, and provides 40 stylized human avatars that respond with natural expressions during real-time voice conversations. Announcing the new feature on [&#8230;]",
-      "published": "2025-09-30T13:12:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Microsoft-Copilot-Portraits-experiment.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure",
-      "link": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort",
-      "summary": "Beats has announced a new version of the Fit Pro wireless earbuds that launched in late 2021, which are now called the Powerbeats Fit. The most notable upgrade is a redesigned wing tip that Beats says is 20 percent more flexible, improving comfort while also keeping the earbuds more securely anchored in your ear. The [&#8230;]",
-      "published": "2025-09-30T13:10:38-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/beats1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI’s new social video app will let you deepfake your friends",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends",
-      "summary": "OpenAI has a new version of the Sora AI video generator that it launched at the end of last year, and it’s arriving today alongside a new social video app, also called Sora, for iPhones. The currently invite-only app resembles TikTok with a feed of videos you can shuffle through. But instead of encouraging people [&#8230;]",
-      "published": "2025-09-30T13:06:39-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK013_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
