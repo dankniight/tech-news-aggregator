@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-06T06:34:56.651950",
+  "lastUpdated": "2025-10-06T12:49:41.463876",
   "articles": [
     {
       "title": "Waffles eat Bluesky",
@@ -146,14 +146,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/sk-telecom-breach-2211811483.jpg?resize=1200,840"
     },
     {
-      "title": "Newsom signs bill giving Uber and Lyft drivers in California the right to unionize",
-      "link": "https://techcrunch.com/2025/10/04/newsom-signs-bill-giving-uber-and-lyft-drivers-in-california-the-right-to-unionize/",
-      "summary": "Drivers for ride-hailing apps like Uber and Lyft will soon have the right to unionize in California as independent contractors, thanks to a bill signed Friday by Governor Gavin Newsom.",
-      "published": "Sat, 04 Oct 2025 20:57:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1310967778.jpg?resize=1200,900"
-    },
-    {
       "title": "Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive",
       "link": "https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/",
       "summary": "A close examination of this year's military contracts reveals some interesting things.",
@@ -176,6 +168,30 @@
       "published": "Sat, 04 Oct 2025 11:00:07 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1291355003-1152x648.jpg"
+    },
+    {
+      "title": "Elon Musk tries to make Apple and mobile carriers regret choosing Starlink rivals",
+      "link": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
+      "summary": "SpaceX Starlink's mobile power play: 50 MHz of spectrum and 15,000 new satellites.",
+      "published": "Mon, 06 Oct 2025 11:00:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg"
+    },
+    {
+      "title": "Firefly leans into its defense ambitions with $855M SciTec acquisition",
+      "link": "https://techcrunch.com/2025/10/06/firefly-leans-into-its-defense-ambitions-with-855m-scitec-acquisition/",
+      "summary": "Firefly Aerospace has agreed to buy defense analytics firm SciTec for about $855 million in cash and stock as the company tries to push deeper into the national security market.",
+      "published": "Mon, 06 Oct 2025 10:48:46 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/firefly-nasdaq.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Here’s the real reason Endurance sank",
+      "link": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
+      "summary": "The ship wasn't designed to withstand the powerful ice compression forces—and Shackleton knew it.",
+      "published": "Mon, 06 Oct 2025 10:00:40 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/endurance5-1152x648.jpg"
     },
     {
       "title": "Heidi Health raises $65M Series B led by Steve Cohen’s Point72",
@@ -226,20 +242,76 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg"
     },
     {
-      "title": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
-      "link": "https://arstechnica.com/tech-policy/2025/10/apple-bends-to-trump-admin-demand-to-remove-ice-tracking-apps-like-iceblock/",
-      "summary": "Apple nixes tracking apps after Trump admin claimed they put ICE agents at risk.",
-      "published": "Fri, 03 Oct 2025 17:36:49 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ice-protest-1152x648-1759511365.jpg"
+      "title": "An idea that won't sink: China planning underwater datacenter deployment",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/underwater_dc_china/",
+      "summary": "<h4>Under the sea, under the sea... bit barnacle's better, down where it's wetter, take it from me</h4> <p>China is persevering with underwater datacenters - a deployment off the coast near Shanghai is expected to save on the energy costs of cooling compute infrastructure thanks to ocean currents.…</p>",
+      "published": "2025-10-06T12:44:37.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/09/01/shutterstock_underwater_dc.jpg"
     },
     {
-      "title": "HBO Max subscribers lose access to CNN livestream on November 17",
-      "link": "https://arstechnica.com/gadgets/2025/10/hbo-max-subscribers-lose-access-to-cnn-livestream-on-november-17/",
-      "summary": "WBD is banking on people paying for a dedicated CNN streaming service.",
-      "published": "Fri, 03 Oct 2025 17:30:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1631916436.jpg"
+      "title": "Thieves steal IDs and payment info after data leaks from Discord support vendor",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/discord_support_data_breach/",
+      "summary": "<h4>Outsourcing your helpdesk always seems like a good idea – until someone else's breach becomes your problem</h4> <p>Discord has confirmed customers' data was stolen – but says the culprit wasn't its own servers, just a compromised support vendor.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-06T12:18:03.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/04/16/discord_shutterstock.jpg"
+    },
+    {
+      "title": "Jaguar Land Rover engines ready to roar again after weeks-long cyber stall",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/jlr_phased_production/",
+      "summary": "<h4>No confirmed date but workers expected to return in the coming days</h4> <p>Jaguar Land Rover is readying staff to resume manufacturing in the coming days, a company spokesperson confirmed to <em>The Reg</em>.…</p>",
+      "published": "2025-10-06T10:28:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/06/jaguar_landrover_car.jpg"
+    },
+    {
+      "title": "Clop crew hits Oracle E-Business Suite users with fresh zero-day",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/clop_oracle_ebs_zeroday/",
+      "summary": "<h4>Big Red rushes out patch for 9.8-rated flaw after crooks exploit it for data theft and extortion</h4> <p>Oracle rushed out an emergency fix over the weekend for a zero-day vulnerability in its E-Business Suite (EBS) that criminal crew Clop has already abused for data theft and extortion.…</p>",
+      "published": "2025-10-06T09:40:46.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/09/07/zero_day_shutterstock.jpg"
+    },
+    {
+      "title": "Leak suggests US government is fibbing over FEMA security failings",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/infosec_in_brief/",
+      "summary": "<h4>Plus, PAN under attack, IT whistleblowers get a payout, and China kills online scammers</h4> <p><strong>Infosec in brief</strong>  On August 29, the US Federal Emergency Management Agency fired its CISO, CIO, and 22 other staff for incompetence but insisted it wasn't in response to an online attack. New material suggests FEMA's claim may be false.…</p>",
+      "published": "2025-10-06T08:55:50.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/12/19/shutterstock_liar.jpg"
+    },
+    {
+      "title": "Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos",
+      "link": "https://www.theverge.com/news/792661/sora-fictional-copyright-characters",
+      "summary": "Collabs with fictional characters are on the horizon for Sora. Officially, that is, as OpenAI moves to restrict the flow of unauthorized horrors like meth-cooking and Nazi SpongeBobs and criminal Pokémon that have plagued the platform from day one. Bill Peebles, leader of the Sora team at OpenAI, said fictional character appearances in videos, known [&#8230;]",
+      "published": "2025-10-06T08:40:45-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2238549433.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AI: The ultimate slacker's dream come true",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/at_last_microsoft_leads_the/",
+      "summary": "<h4>Microsoft's Copilot is helping workers perfect the ancient art of doing sweet f all</h4> <p><strong>Opinion</strong>  It has been less than three years since ChatGPT lit the fuse of the current explosion of AI everywhere. AI years move even faster than internet years, so there's been time not only for the forcible injection of AI into the workplace courtesy of Microsoft, but the first scientific studies of the effect. Productivity may not have gone up, but anxiety, confusion and annoyance most certainly have.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-06T08:00:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/02/02/office_shutterstock.jpg"
+    },
+    {
+      "title": "AMD teams up with OpenAI to challenge Nvidia&#8217;s AI chip dominance",
+      "link": "https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement",
+      "summary": "AMD is partnering with OpenAI to provide six gigawatts worth of processors for AI data centers, a move that challenges Nvidia’s AI chip market dominance. The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational demands for AI applications like ChatGPT, starting with a gigawatt deployment of AMD Instinct MI450 GPUs [&#8230;]",
+      "published": "2025-10-06T07:33:05-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_180529_1777_amd_0001.0.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Qualcomm in the dock over 'patent tax' on smartphones",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/which_says_qualcomm_owes_uk/",
+      "summary": "<h4>Consumer group Which? says owners of Apple and Samsung devices overcharged by £480M</h4> <p>Qualcomm is facing a UK trial over allegations that it abused its dominant position in the smartphone chipset market to charge inflated license fees, ultimately driving up device prices for Brit consumers.…</p>",
+      "published": "2025-10-06T07:15:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/04/18/phone.jpg"
     },
     {
       "title": "Techie found an error message so rude the CEO of IBM apologized for it",
@@ -248,6 +320,30 @@
       "published": "2025-10-06T06:30:14.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2018/03/28/no_swearing_signs.jpg"
+    },
+    {
+      "title": "Sora provides better control over videos featuring your AI self",
+      "link": "https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self",
+      "summary": "Sora now lets you rein in your AI doubles, giving you more say on how and where deepfake versions of you make an appearance on the app. The update lands as OpenAI hurries to show it actually cares about its users’ concerns as an all-too-predictable tsunami of AI slop threatens to take over the internet.&#160; [&#8230;]",
+      "published": "2025-10-06T06:23:34-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "While you were partying with your Steam Deck, GPD studied the cord",
+      "link": "https://www.theverge.com/games/791460/gpd-win-5-corded-handhelds",
+      "summary": "Handheld makers are throwing paint at the wall to see what sticks. They apparently can't compete with the Steam Deck on price, so they're trying giant handhelds, 3D handhelds, more familiar and comfortable handhelds, and premium handhelds with Switch-like detachable controllers that double as mice. Many now cost $1,000 or more. But boutique brand GPD [&#8230;]",
+      "published": "2025-10-06T06:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1379-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Sam Altman and Jony Ive&#8217;s secret device won&#8217;t be &#8216;your weird AI girlfriend&#8217;",
+      "link": "https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues",
+      "summary": "OpenAI and designer Jony Ive are trying to solve a number of technical challenges before releasing their mysterious AI gadget, according to a Financial Times report. Two of the challenges include figuring out the palm-sized device’s “personality” and how often it should talk. “The concept is that you should have a friend who’s a computer [&#8230;]",
+      "published": "2025-10-06T05:28:04-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sam-Altman-Jony-Ive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Jane Goodall’s death triggered the premiere of Netflix’s new show",
@@ -304,102 +400,6 @@
       "published": "2025-10-05T08:32:09.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2019/11/05/shutterstock_ethical_hacking.jpg"
-    },
-    {
-      "title": "Version History is live — here’s how to find it",
-      "link": "https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards",
-      "summary": "We've been working on a new show for the last few months, called Version History, and the first episode is now live! It's called \"Hoverboards: so hot right now,\" and it's an hour-long tour of the biggest rideable gadget of the 2010s. Hidden inside the history of this weird two-wheeled scooter is a crucial inflection [&#8230;]",
-      "published": "2025-10-05T08:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Version-History-TileArt.jpg?quality=90&#038;strip=all&#038;crop=0,10.599999353027,100,71.000001770019"
-    },
-    {
-      "title": "Can tap-to-pay save public transportation?",
-      "link": "https://www.theverge.com/column/789127/tap-to-pay-public-transportation",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the intersection of transportation and technology, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started I vividly remember the first time I [&#8230;]",
-      "published": "2025-10-05T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1471562437.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best lists to keep — and the best ways to keep them",
-      "link": "https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 100, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get ready for a big gadget week, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Tim Berners-Lee and stain removers and [&#8230;]",
-      "published": "2025-10-05T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-100.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "This week&#8217;s best deal is a &#8216;kids&#8217; Kindle Paperwhite that&#8217;s better than the adult version",
-      "link": "https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale",
-      "summary": "Amazon’s Prime Big Deal Days may bring some great Kindle deals, but if you can’t wait, you don’t have to. Right now, the Kindle Kids (Amazon, Best Buy, and Target) and Kindle Colorsoft Kids (Amazon, Best Buy, and Target) are down to their lowest prices ever, but my favorite deal is on the Kindle Paperwhite [&#8230;]",
-      "published": "2025-10-04T13:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Kindle-Paperwhite-Kids-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Daniel Ek stepping down changes nothing for Spotify",
-      "link": "https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify",
-      "summary": "Spotify has found itself the target of artists' ire for many reasons over the years: poor audio quality, terrible payouts, giving Joe Rogan millions of dollars… the list goes on. But recently it's been CEO and founder Daniel Ek's extracurricular activities that have been cause for consternation. Over the past few months his funding of [&#8230;]",
-      "published": "2025-10-04T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKP217_Daniel_Ek_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Hacked Ford screens put anti-RTO slogan above CEO’s face",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/04/ford_rto_hack/",
-      "summary": "<h4>Carmaker confirms screen hijack, says probe underway</h4> <p>Conference-room screens at Ford's Dearborn HQ were briefly hijacked on Thursday to display a protest image in an apparent swipe at the carmaker's return-to-office policy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-04T11:20:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/03/shutterstockfordhq.jpg"
-    },
-    {
-      "title": "India's tech talent pipeline is sputtering",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/04/india_tech_talent_pipeline/",
-      "summary": "<h4>AI and new wave of offshoring mean graduates can't get gigs</h4> <p><strong>Feature</strong>  Shubh Kumar graduated from IIT Patna, one of India's famed Institutes of Technology – universities that attract millions of applicants but admit only 18,000 undergraduates.…</p>",
-      "published": "2025-10-04T08:00:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/02/01/indian_flag_shutterstock.jpg"
-    },
-    {
-      "title": "ICE plans to scour Facebook, TikTok, X, and even defunct Google+ for illegal immigration leads",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/ice_contractors_social_media_spy/",
-      "summary": "<h4>Draft solicitation calls for nearly 30 contractors to mine social media and other open-source data</h4> <p>US Immigration and Customs Enforcement (ICE) is seeking contractors to trawl social media and other open-source data for potential immigration enforcement leads, assuming public posts can yield actionable intelligence.…</p>",
-      "published": "2025-10-03T21:44:20.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/03/shutterstock_421570105.jpg"
-    },
-    {
-      "title": "Bezos plan for solar powered datacenters is out of this world… literally",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/bezos_space_dcs/",
-      "summary": "<h4>Aspiring Bond villain believes the best place to train our AI overlords is in orbit</h4> <p>Amazon founder and executive chair Jeff Bezos says that, within two decades, gigawatt-scale datacenters powered by a continuous stream of photons from the sun will fill Earth's orbit.…</p>",
-      "published": "2025-10-03T20:58:33.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/09/09/shutterstock_jeff_bezos.jpg"
-    },
-    {
-      "title": "No suds for you! Asahi brewery attack leaves Japanese drinkers dry",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/asahi_beer_attack/",
-      "summary": "<h4>One week after the blitz, beer biz is still stymied</h4> <p>Ransomware has left Japan's biggest brewer struggling to ship beer, with Asahi warning domestic customers to brace for patchy supplies while its core systems stay offline.…</p>",
-      "published": "2025-10-03T20:35:51.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/10/20/shutterstock_empty_plate.jpg"
-    },
-    {
-      "title": "'Retired' cybercrime group demands $989M not to leak 1B Salesforce records",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/scattered_lapsus_hunters_latest_leak/",
-      "summary": "<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 million to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-03T19:53:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/11/16/hacker_shutterstock.jpg"
-    },
-    {
-      "title": "Google goes straight to shell with AI command line coding tool",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/google_ai_command_line/",
-      "summary": "<h4>Devs live in terminals - now Jules does too</h4> <p>In the beginning was the command line, and despite all the machine-learning froth, developers still live there. That is why Google has shoved its Jules coding agent into a terminal with a new tool it calls Jules Tools.…</p>",
-      "published": "2025-10-03T18:46:03.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/03/shutterstock_1232410663.jpg"
     }
   ]
 }
