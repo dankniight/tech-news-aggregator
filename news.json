@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-10-08T06:34:35.478891",
+  "lastUpdated": "2025-10-08T12:49:18.477545",
   "articles": [
+    {
+      "title": "Floating electrons on a sea of helium",
+      "link": "https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/",
+      "summary": "Yes, it's another potential qubit. But it's also some very cool physics.",
+      "published": "Wed, 08 Oct 2025 11:08:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1397148346-1152x648-1759878481.jpg"
+    },
+    {
+      "title": "Charles Schwab backs Singapore’s Qapita, a Carta challenger",
+      "link": "https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/",
+      "summary": "Charles Schwab and Singapore-based Qapita have teamed up to launch a new service to help U.S. startups manage cap tables and employee stock plans.",
+      "published": "Wed, 08 Oct 2025 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/qapita-founders.jpg?resize=1200,800"
+    },
     {
       "title": "Revolut aims to take on Indian banks and their ‘criminal’ forex fees",
       "link": "https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/",
@@ -154,14 +170,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/jacksonbanana-1152x648-1759855287.png"
     },
     {
-      "title": "ICE bought vehicles equipped with fake cell towers to spy on phones",
-      "link": "https://techcrunch.com/2025/10/07/ice-bought-vehicles-equipped-with-fake-cell-towers-to-spy-on-phones/",
-      "summary": "The federal contract shows ICE spent $825,000 on vans equipped with “cell-site simulators” which allow the real-world location tracking of nearby phones and their owners.",
-      "published": "Tue, 07 Oct 2025 17:01:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/us-immigration-and-customs-enforcement-ice-agent.jpg?resize=1200,800"
-    },
-    {
       "title": "Qualcomm is buying Arduino, releases new Raspberry Pi-esque Arduino board",
       "link": "https://arstechnica.com/gadgets/2025/10/arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm/",
       "summary": "Qualcomm claims Arduino will keep its own branding and \"open source ethos.\"",
@@ -176,14 +184,6 @@
       "published": "Tue, 07 Oct 2025 16:22:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/amazon-cory-doctorow-ai-slop.jpg?quality=85"
-    },
-    {
-      "title": "Play Store changes coming this month as SCOTUS declines to freeze antitrust remedies",
-      "link": "https://arstechnica.com/gadgets/2025/10/supreme-court-refuses-to-pause-play-store-changes-while-google-appeals-antitrust-case/",
-      "summary": "The first app store changes are due in a few weeks, with the major changes coming next summer.",
-      "published": "Tue, 07 Oct 2025 15:56:43 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay.jpeg"
     },
     {
       "title": "Sora 2 Has a Huge Financial Problem",
@@ -242,9 +242,129 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/deloitte-government-ai-hallucinations.jpg?quality=85"
     },
     {
+      "title": "Python releases version 3.14 – with cautious free-threaded support",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/python_314_released_with_cautious/",
+      "summary": "<h4>JIT compiler included but experimental and can slow performance</h4> <p>The Python team has released version 3.14, with big new features including free threading support, the ability to use concurrent interpreters, improved debugger support, and an opt-in new interpreter which improves performance by 3 to 5 percent.…</p>",
+      "published": "2025-10-08T12:25:47.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/05/03/python_shutterstock.jpg"
+    },
+    {
+      "title": "How chatbots are coaching vulnerable users into crisis",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/ai_psychosis/",
+      "summary": "<h4>From homework helper to psychological hazard in 300 hours of sycophantic validation</h4> <p><strong>Feature</strong>  When a close family member contacted Etienne Brisson to tell him that he'd created the world's first sentient AI, the Quebecois business coach was intrigued. But things quickly turned dark. The 50-year-old man, who had no prior mental health history, ended up spending time in a psychiatric ward.…</p>",
+      "published": "2025-10-08T11:58:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/03/26/aitraining.jpg"
+    },
+    {
+      "title": "As real life banks close, network operator starts a Scam School to stop Granny getting mugged online",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/vmo2_scam_school/",
+      "summary": "<h4>Broadband biz teams up with Good Things Foundation to teach the digitally doddery how to dodge fraud</h4> <p>UK network Virgin Media O2 is taking steps to combat fraud with a nationwide education scheme that aims to help vulnerable people and older folk avoid becoming victims.…</p>",
+      "published": "2025-10-08T11:15:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/04/07/shutterstock_rust.jpg"
+    },
+    {
+      "title": "Telecoms wholesaler ICUK restores services after two-day DDoS pelting",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/telecoms_wholesaler_icuk_restores_services/",
+      "summary": "<h4>No idea who's behind it, just happy it's over</h4> <p>London-based wholesale telecoms biz ICUK is back on track after a multi-day DDoS attack on its network and systems.…</p>",
+      "published": "2025-10-08T10:30:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/07/14/ddos_876334.jpg"
+    },
+    {
+      "title": "UK Home Office doubles down on Oracle with £54M cloud contract",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/home_office_oracle_cloud/",
+      "summary": "<h4>Department also wedded to Big Red in shared service applications</h4> <p>The UK's Home Office has signed a new deal with Oracle for around £54 million ($72 million) in cloud infrastructure and platform services as it gears up as the centerpiece of a government shared services strategy based on Big Red.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-08T09:01:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/05/01/oracle_hq.jpg"
+    },
+    {
+      "title": "Brits sitting on £1.6B gold mine of Windows 10 junk as support ends",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/windows_10_precious_metals/",
+      "summary": "<h4>Recyclers reckon millions of obsolete PCs could yield a small fortune in precious metals</h4> <p>There's gold in them thar piles of old Windows 10 PCs. Quite literally, according to recyclers.…</p>",
+      "published": "2025-10-08T08:03:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/07/shutterstock_1535814389.jpg"
+    },
+    {
+      "title": "Amazfit’s Active 2, one of our favorite fitness trackers, is a steal at just $81",
+      "link": "https://www.theverge.com/tech/791143/amazon-october-prime-day-amazfit-active-2-deal-sale-2025",
+      "summary": "Smartwatches from big brands like Apple, Google, and Garmin may get all the attention when it comes to wearables, but they’re not the only ones worth considering if you’re in the market for a capable fitness tracker. Amazfit’s Active 2 is a fantastic option if you’re working with a tight budget, and it’s one that [&#8230;]",
+      "published": "2025-10-08T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25818553/257470_Amazfit_Active_2_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI wasn’t expecting Sora’s copyright drama",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/795171/openai-devday-sam-altman-sora-launch-copyright",
+      "summary": "When OpenAI released its new AI-generated video app Sora last week, it launched with an opt-out policy for copyright holders - media companies would need to expressly indicate they didn't want their AI-generated characters running rampant on the app. But after days of Nazi SpongeBob, criminal Pikachu, and Sora-philosophizing Rick and Morty, OpenAI CEO Sam [&#8230;]",
+      "published": "2025-10-08T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "HMD’s Touch 4G is a dumb-smart-phone",
+      "link": "https://www.theverge.com/news/795993/hmds-touch-4g-is-a-dumb-smart-phone",
+      "summary": "The new HMD Touch 4G — only available in India for now, and unlikely to ever come to the US — splits the difference between smartphones and feature phones, offering a touchscreen and video calling, but with the small size (and price) of feature phones. Announced yesterday, the Touch costs just ₹4,999 (about $55). It looks [&#8230;]",
+      "published": "2025-10-08T07:21:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/HMD-touch-4g.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AI companion bots use emotional manipulation to boost usage",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/ai_bots_use_emotional_manipulation/",
+      "summary": "<h4>Researchers argue that this dark pattern poses a legal risk</h4> <p>AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.…</p>",
+      "published": "2025-10-08T07:02:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/05/23/puppet-master.jpg"
+    },
+    {
+      "title": "Firefox is adding profiles to separate your browsing sessions",
+      "link": "https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs",
+      "summary": "Mozilla is introducing profiles to its Firefox web browser that make it easier to separate and organize your online activity. The profile management update will roll out starting October 14th, allowing Firefox users to create specific browsing spaces that house bookmarks, logins, history, extensions, and themes. Firefox already supports multi-account containers, an extension that organizes [&#8230;]",
+      "published": "2025-10-08T06:56:31-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Mozilla-Firefox-browser-profiles.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Here’s what Verge readers are buying during October Prime Day",
+      "link": "https://www.theverge.com/tech/795055/amazon-october-prime-day-2025-popular-products-verge-readers",
+      "summary": "We put a lot of deals in front of you during Amazon’s Prime Big Deal Days, covering many of the categories we typically feature day-to-day on the site. Unsurprisingly, some deals are a bigger hit than others, due in part to the steepness and/or the rarity of the discount. In other cases, it comes down [&#8230;]",
+      "published": "2025-10-08T06:41:54-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Twelve-South-HiRise-3-Deluxe-Lifestyle-Press-Image-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nothing Ear 3 review: work in progress",
+      "link": "https://www.theverge.com/tech/792839/nothing-ear-3-review-audio-super-mic-price",
+      "summary": "Nothing's Ear 3 buds remind me more than anything else of the Ear 1, the company's first product. Not because the design is similar (though it is) or because the sound is similar (it's gotten a fair bit better, in fact). No, I'm reminded of the Ear 1 because both sets of earbuds share a [&#8230;]",
+      "published": "2025-10-08T06:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/nothing-ear-3-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The 206 best October Prime Day deals",
+      "link": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
+      "summary": "We’re now in the second and final day of Amazon’s October Prime Day sale. That means it’s time to squeeze as much value out of your Prime subscription as you can until Thursday at 3AM ET / 12AM PT, which is when several deals will enter a brief hibernation ahead of Black Friday and Cyber [&#8230;]",
+      "published": "2025-10-08T05:33:05-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257947_Prime_big_deals_2025_CVirginia_C_3e5b12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "You can now try Fortnite directly in Discord",
+      "link": "https://www.theverge.com/news/795897/epic-fortnite-discord-instant-game-demo-availability",
+      "summary": "Epic Games is trying to attract more players to its Fortnite free-to-play battle royale by letting you instantly demo the game within Discord. The feature, powered by Nvidia’s GeForce Now cloud gaming service, provides two 30-minute trial sessions per week to Discord users who don’t have Fortnite installed on their PC. The Fortnite trial will [&#8230;]",
+      "published": "2025-10-08T05:30:31-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-08-094232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "The 207 best October Prime Day deals",
       "link": "https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1",
-      "summary": "Amazon’s October Prime Day sale (aka Prime Big Deal Days) is finally here, and we’ve collected the best deals we could find on everything from noise-canceling headphones and robot vacuums to 4K OLED TVs. The majority of our recommendations have been thoroughly tested by&#160;Verge&#160;writers and editors, and we are just as confident in our recommendations [&#8230;]",
+      "summary": "Editor’s note: This post highlights the biggest day one deals from Amazon’s sale. We’re leaving this post behind in favor of our new one focusing on the best day two deals. As such, this post will no longer receive updates. Amazon’s October Prime Day sale (aka Prime Big Deal Days) is finally here, and we’ve [&#8230;]",
       "published": "2025-10-08T00:11:48-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257947_Prime_big_deals_2025_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -266,30 +386,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now",
-      "link": "https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025",
-      "summary": "Black Friday might bring some of the deepest discounts on tech like robot vacuums, but if you’d like to tidy up before Halloween parties and Thanksgiving guests arrive, Amazon’s fall Prime Day event features plenty of great robot vacuum deals, including discounts on products like Roborock’s S8 MaxV Ultra and the budget-friendly Tapo RV30 Max [&#8230;]",
-      "published": "2025-10-07T22:56:30-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/roborock-saros-z70-picking-up-socks.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear",
-      "link": "https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025",
-      "summary": "At long last, Amazon’s October Prime Day event has begun — and as expected, it’s packed with a slew of notable Apple deals. If you don’t want to wait until Black Friday to score a discount, the current promo is a great opportunity to save, as Amazon is offering steep discounts on a variety of [&#8230;]",
-      "published": "2025-10-07T22:42:12-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24040655/226285_AIRPODS_PRO_2_cwelch_0011.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best October Prime Day deals on TVs, soundbars, and more — up to 50% off",
-      "link": "https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025",
-      "summary": "The day has finally come for a home theater overhaul. Perhaps you’re looking for a low-cost replacement that offers more features and a sharper design. Or maybe your gaze is set upon massive OLED TVs with all the fixings. Regardless, the Prime Big Deal Days sale is here, with deals from noteworthy TV makers including [&#8230;]",
-      "published": "2025-10-07T22:39:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/LG-C5-OLED-TV.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "title": "Google declares AI bug hunting season open, sets a $30K max reward",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/google_ai_bug_bounty/",
       "summary": "<h4>Jailbreaks, direct prompt injection not allowed</h4> <p>Google on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.…</p>",
@@ -298,108 +394,12 @@
       "image_url": "https://regmedia.co.uk/2018/10/17/shuttertsock_target_missed.jpg"
     },
     {
-      "title": "We dug through thousands of Prime Day deals to find 60 standouts for $50 or less",
-      "link": "https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025",
-      "summary": "Big-ticket tech like Sony’s Bravia 8 4K TV and Bose’s QuietComfort Headphones might be some of the more marquee deals we’re seeing during Prime Big Deal Days, but you don’t need to spend hundreds of dollars to score something great for yourself or someone else. If you’re working with a shoestring budget, or at least [&#8230;]",
-      "published": "2025-10-07T22:01:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25810375/blink_outdoor_4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The electric screwdriver I use for DIY projects is 40 percent off right now",
-      "link": "https://www.theverge.com/tech/792618/amazon-october-prime-day-hoto-electric-screwdriver-deal-tools-sale-2025",
-      "summary": "If you have small devices that are on the fritz — or in need of a slight modification — Hoto’s Electric Precision Screwdriver ADV is great for DIY projects. Its size and power make it well suited for tinkering with phones, laptops, and handheld gaming consoles, with its pen-style grip, simple one-button operation, and tidy [&#8230;]",
-      "published": "2025-10-07T20:53:11-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Electric_Precision_Screwdriver_ADV-7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "title": "China is building a thriving semi industry off US leftovers, export controls be damned",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/china_chip_gear/",
       "summary": "<h4>House Committee on China wants more comprehensive ban on chipmaking equipment exports to Middle Kingdom</h4> <p>US export controls have had mixed results in stemming the flow of chipmaking equipment into China, according to a congressional investigation, which found US and allied companies sold $38 billion worth of semiconductor tools in 2024 alone.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "published": "2025-10-07T20:43:06.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2022/08/04/shutterstock_president_xi_china.jpg"
-    },
-    {
-      "title": "Employees regularly paste company secrets into ChatGPT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/",
-      "summary": "<h4>Microsoft Copilot, not so much</h4> <p>Employees could be opening up to OpenAI in ways that put sensitive data at risk. According to a study by security biz LayerX, a large number of corporate users paste Personally Identifiable Information (PII) or Payment Card Industry (PCI) numbers right into ChatGPT, even if they're using the bot without permission.…</p>",
-      "published": "2025-10-07T20:18:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/07/shutterstock_1619490175.jpg"
-    },
-    {
-      "title": "Some of our favorite gadgets are cheaper than ever for fall Prime Day",
-      "link": "https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025",
-      "summary": "All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for, whether it be a streaming device, a laptop, or a pair of noise-canceling earbuds. However, there are also plenty of other gadgets that the&#160;Verge&#160;staff genuinely loves that don’t receive a dedicated review [&#8230;]",
-      "published": "2025-10-07T19:35:15-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/UE-Wonderboom-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Jimmy Fallon wants to turn Wordle into a TV show",
-      "link": "https://www.theverge.com/news/795536/wordle-tv-game-show-jimmy-fallon-savannah-guthrie-nbc",
-      "summary": "Jimmy Fallon is helping make Wordle into a television series, Deadline reports. NBC is piloting the Wordle game show with the help of Fallon’s production company, and the show is currently filming in the UK. Savannah Guthrie will host.&#160; Around when Wordle really started to blow up, Jimmy Fallon once spent a whole segment of [&#8230;]",
-      "published": "2025-10-07T19:21:16-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2236813299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Philips Hue customizable string lights are up to $125 off for October Prime Day",
-      "link": "https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale",
-      "summary": "It may be October, but the holidays will be here before you know it. Amazon’s fall Prime Day event is here, offering Prime subscribers a great opportunity to save on holiday decorations before the holiday rush kicks off. Right now, you can pick up the Philips Hue Festavia string lights at one of their best [&#8230;]",
-      "published": "2025-10-07T19:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25762360/Philips_Hue_s_Festavia_string_lights_lifestyle_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "FCC kicks off 'Space Month' with vow to fast-track satellite licensing",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/fcc_satellite_licensing/",
-      "summary": "<h4>Agency aims to replace its default 'no' with default 'yes' while overhauling rules for operators</h4> <p>The US Federal Communications Commission has launched \"Space Month,\" with Chairman Brendan Carr saying that \"we'll replace a default to no at the agency to a default to yes\" for satellite licensing requests.…</p>",
-      "published": "2025-10-07T16:34:27.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/03/22/shutterstock_too_many_sats.jpg"
-    },
-    {
-      "title": "Nearly a year after attack, US medical scanning biz gets clear image of stolen patient data",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/10_months_later_us_medical/",
-      "summary": "<h4>No fraud monitoring and no apology after miscreants make off with medical, financial data</h4> <p>Florida-based Doctors Imaging Group has admitted that the sensitive medical and financial data of 171,862 patients was stolen during the course of a November 2024 cyberattack.…</p>",
-      "published": "2025-10-07T16:15:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/03/07/shutterstock_mri.jpg"
-    },
-    {
-      "title": "Police and military radio maker BK Technologies cops to cyber break-in",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/police_and_military_radio_maker_bk_admits_breach/",
-      "summary": "<h4>Florida comms outfit serving cops, firefighters, and the military says hackers pinched some employee data but insists its systems stayed online</h4> <p>BK Technologies, the Florida-based maker of mission-critical radios for US police, fire, and defense customers, has confessed to a cyber intrusion that briefly rattled its IT systems last month.…</p>",
-      "published": "2025-10-07T15:55:54.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/02/09/nypd.jpg"
-    },
-    {
-      "title": "OpenAI bans suspected Chinese accounts using ChatGPT to plan surveillance",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/openai_bans_suspected_china_accounts/",
-      "summary": "<h4>It also banned some suspected Russian accounts trying to create influence campaigns and malware</h4> <p>OpenAI has banned ChatGPT accounts believed to be linked to Chinese government entities attempting to use AI models to surveil individuals and social media accounts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-07T15:36:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/06/07/shutterstock_2259037073.jpg"
-    },
-    {
-      "title": "Trio who made foundational quantum computing discovery bag Nobel physics prize",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/trio_who_showed_macroscale_quantum/",
-      "summary": "<h4>Studies at UC Berkeley in the 1980s paved the way for quantum computing and cryptography</h4> <p>Three researchers in sub-atomic physics have been awarded a Nobel prize for work which helped lay the foundations for quantum computing.…</p>",
-      "published": "2025-10-07T15:15:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/07/shutterstock_2556649775.jpg"
-    },
-    {
-      "title": "JetBrains backs open AI coding standard that could gnaw at VS Code dominance",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/jetbrains_acp_vs_code/",
-      "summary": "<h4>Google and Zed have already adopted ACP – will Microsoft now follow?</h4> <p>JetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development environments (IDEs).…</p>",
-      "published": "2025-10-07T14:58:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/07/shutterstock_idea_bulb.jpg"
     }
   ]
 }
