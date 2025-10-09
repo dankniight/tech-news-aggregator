@@ -1,10 +1,90 @@
 {
-  "lastUpdated": "2025-10-08T18:34:08.497232",
+  "lastUpdated": "2025-10-09T01:46:05.743026",
   "articles": [
     {
-      "title": "Sora’s first week on iOS in the US was nearly as big as ChatGPT’s",
-      "link": "https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/",
-      "summary": "Sora had a pretty great first week on the US App Store, nearing the size of ChatGPT's debut.",
+      "title": "One NASA science mission saved from Trump’s cuts, but others still in limbo",
+      "link": "https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/",
+      "summary": "\"Damage is being done already. Even if funding is reinstated, we have already lost people.\"",
+      "published": "Wed, 08 Oct 2025 23:56:33 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/osiris-apex-1152x648-1759966361.jpg"
+    },
+    {
+      "title": "Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says",
+      "link": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
+      "summary": "By some estimates, OpenAI has this year inked $1 trillion worth of infrastructure deals. Altman says to expect even more.",
+      "published": "Wed, 08 Oct 2025 23:00:06 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
+    },
+    {
+      "title": "Stoke Space gives us another reason to take it very seriously",
+      "link": "https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/",
+      "summary": "With the new investments, Stoke has raised nearly $1 billion.",
+      "published": "Wed, 08 Oct 2025 22:42:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/zenith2-1152x648.jpg"
+    },
+    {
+      "title": "Man gets drunk, wakes up with a medical mystery that nearly kills him",
+      "link": "https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/",
+      "summary": "This one seems ready-made for a television medical drama.",
+      "published": "Wed, 08 Oct 2025 22:32:12 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-116781911-1152x648.jpg"
+    },
+    {
+      "title": "Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show",
+      "link": "https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/",
+      "summary": "The show is one of many on Draper's newly launched television channel, DraperTV, which offers programming around business and entrepreneurship, available via streaming services like Roku.",
+      "published": "Wed, 08 Oct 2025 22:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1249830062.jpg?w=1024"
+    },
+    {
+      "title": "Bank of England warns AI stock bubble rivals 2000 dotcom peak",
+      "link": "https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/",
+      "summary": "Central bank says market concentration hasn't been this extreme in 50 years.",
+      "published": "Wed, 08 Oct 2025 21:18:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/bank_of_england-1152x648.jpg"
+    },
+    {
+      "title": "ISPs created so many fees that FCC will kill requirement to list them all",
+      "link": "https://arstechnica.com/tech-policy/2025/10/isps-created-so-many-fees-that-fcc-will-kill-requirement-to-list-them-all/",
+      "summary": "ISPs complained about Biden-era rule, said listing every fee was too hard.",
+      "published": "Wed, 08 Oct 2025 21:08:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1152x648-1756320188.jpg"
+    },
+    {
+      "title": "Not a game: Cards Against Humanity avoids tariffs by ditching rules, adding explanations",
+      "link": "https://arstechnica.com/culture/2025/10/to-avoid-tariffs-cards-against-humanity-becomes-information-material-not-a-game/",
+      "summary": "You absolutely, definitely cannot play it.",
+      "published": "Wed, 08 Oct 2025 20:51:22 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/explain-the-joke-1152x648-1759955604.jpg"
+    },
+    {
+      "title": "Salesforce says it won’t pay extortion demand in 1 billion records breach",
+      "link": "https://arstechnica.com/security/2025/10/salesforce-says-it-wont-pay-extortion-demand-in-1-billion-records-breach/",
+      "summary": "Scattered LAPSUS$ Hunters gave Salesforce until Friday to pay or else.",
+      "published": "Wed, 08 Oct 2025 20:02:46 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-597257986-1152x648.jpg"
+    },
+    {
+      "title": "OpenAI’s Nick Turley on transforming ChatGPT into an operating system",
+      "link": "https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/",
+      "summary": "In an interview, OpenAI's Head of ChatGPT discusses the company's push into developing an AI operating system full of third-party apps.",
+      "published": "Wed, 08 Oct 2025 20:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/ilgmyzin-agFmImWyPso-unsplash.jpg?resize=1200,675"
+    },
+    {
+      "title": "Sora’s downloads in its first week was nearly as big as ChatGPT’s launch",
+      "link": "https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/",
+      "summary": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
       "published": "Wed, 08 Oct 2025 18:12:54 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024"
@@ -12,10 +92,26 @@
     {
       "title": "Elon Musk will settle $128M lawsuit with former Twitter execs",
       "link": "https://techcrunch.com/2025/10/08/elon-musk-will-settle-128m-lawsuit-with-former-twitter-execs/",
-      "summary": "One of Musk's first moves upon buying Twitter was to fire CEO Parag Agrawal, CFO Ned Segal, and top lawyers Sean Edgett and Vijaya Gadde.",
+      "summary": "The four executives never received severance payments, which they claim is because they tried to hold Musk to his $44 billion commitment when he tried to back out of buying the company.",
       "published": "Wed, 08 Oct 2025 18:01:44 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2158237938_c19018.jpg?resize=1200,800"
+    },
+    {
+      "title": "Logitech will brick its $100 Pop smart home buttons on October 15",
+      "link": "https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/",
+      "summary": "Logitech's interest in the smart home has appeared to wane in recent years.",
+      "published": "Wed, 08 Oct 2025 17:47:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/JPG_300_dpi_RGB-Pop_Family-1152x648-1759943765.jpg"
+    },
+    {
+      "title": "Japanese Farmers Send Out Automated Laser Drones to Defend Chickens",
+      "link": "https://futurism.com/future-society/japan-laser-drone-chickens",
+      "summary": "<p>Shoo, shoo. Go away.</p>\n<p>The post <a href=\"https://futurism.com/future-society/japan-laser-drone-chickens\">Japanese Farmers Send Out Automated Laser Drones to Defend Chickens</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 08 Oct 2025 17:41:40 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/japan-laser-drone-chickens.jpg?quality=85"
     },
     {
       "title": "Amazon Pharmacy is launching vending machines for prescription drugs",
@@ -74,52 +170,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/ast-spacemobile.jpeg?resize=1200,1200"
     },
     {
-      "title": "Base Power raises $1B to deploy home batteries everywhere",
-      "link": "https://techcrunch.com/2025/10/08/base-power-raises-1b-to-deploy-home-batteries-everywhere/",
-      "summary": "Base Power's Series C will help the company expand beyond Texas, its beachhead market, and build batteries in the United States.",
-      "published": "Wed, 08 Oct 2025 16:33:17 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901"
+      "title": "This Listing for a Rental House Is Mangled With AI So Badly That You’ll Cackle Out Loud",
+      "link": "https://futurism.com/artificial-intelligence/listing-rental-house-mangled-ai",
+      "summary": "<p>\"We live in an era of house catfishing.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/listing-rental-house-mangled-ai\">This Listing for a Rental House Is Mangled With AI So Badly That You&#8217;ll Cackle Out Loud</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 08 Oct 2025 16:10:02 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/listing-rental-house-mangled-ai.jpg?quality=85"
     },
     {
-      "title": "Vandals deface ads for AI necklaces that listen to all your conversations",
-      "link": "https://arstechnica.com/tech-policy/2025/10/vandals-deface-ads-for-ai-necklaces-that-listen-to-all-your-conversations/",
-      "summary": "Critics attacked subway ads to defend human friends and broadly criticize AI.",
-      "published": "Wed, 08 Oct 2025 16:07:29 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2182000985-1152x648.jpg"
-    },
-    {
-      "title": "Bounce introduces a tool to move your Mastodon account to Bluesky",
-      "link": "https://techcrunch.com/2025/10/08/bounces-new-version-will-let-users-move-from-mastodon-to-bluesky/",
-      "summary": "Moving accounts between Mastodon and Bluesky is about to get much easier, thanks to Bounce 2.",
-      "published": "Wed, 08 Oct 2025 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/fediverse-logos-general.jpg?resize=1200,675"
-    },
-    {
-      "title": "Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/",
-      "summary": "Ganiga's fleet of waste-sorting technology is meant to help companies track and reduce the waste they produce.",
-      "published": "Wed, 08 Oct 2025 15:59:45 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Ganiga_49.jpg?resize=1200,900"
-    },
-    {
-      "title": "Building ordered polymers with metal",
-      "link": "https://arstechnica.com/science/2025/10/building-ordered-polymers-with-metal/",
-      "summary": "Structured polymers called metal-organic frameworks get the chemistry Nobel.",
-      "published": "Wed, 08 Oct 2025 15:53:15 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/image-1152x648.jpeg"
-    },
-    {
-      "title": "Actually, we are going to tell you the odds of recovering New Glenn’s second launch",
-      "link": "https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/",
-      "summary": "To be financially sustainable, New Glenn must be reused often.",
-      "published": "Wed, 08 Oct 2025 15:35:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/NG-2.jpg"
+      "title": "Man Embraces AI at Work, Gets Rewarded by Boss Replacing Him With It",
+      "link": "https://futurism.com/artificial-intelligence/man-embraces-ai-at-work-replaced",
+      "summary": "<p>\"I considered the LLM as a collaborator.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/man-embraces-ai-at-work-replaced\">Man Embraces AI at Work, Gets Rewarded by Boss Replacing Him With It</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 08 Oct 2025 15:07:39 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/man-embraces-ai-at-work-replaced.jpg?quality=85"
     },
     {
       "title": "Sam Altman Says Copyright Holders Are Begging for Their Characters to Be Included in Sora",
@@ -128,22 +192,6 @@
       "published": "Wed, 08 Oct 2025 14:23:30 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/sam-altman-copyright-holders-begging-sora.jpg?quality=85"
-    },
-    {
-      "title": "It’s Prime Day 2025 part two, and here are more of the best deals we could find",
-      "link": "https://arstechnica.com/shopping/2025/10/its-prime-day-2025-part-two-and-here-are-the-best-deals-we-could-find/",
-      "summary": "Updated deals on keyboards, laptops, chargers, cameras, and lots of other stuff!",
-      "published": "Wed, 08 Oct 2025 13:50:25 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1496117734-1152x648.jpg"
-    },
-    {
-      "title": "Insurers balk at paying out huge settlements for claims against AI firms",
-      "link": "https://arstechnica.com/ai/2025/10/insurers-balk-at-paying-out-huge-settlements-for-claims-against-ai-firms/",
-      "summary": "OpenAI, Anthropic consider using investor funds to settle potential lawsuits.",
-      "published": "Wed, 08 Oct 2025 13:31:28 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/aimoney-1152x648.jpg"
     },
     {
       "title": "Elon Musk Building Huge Secretive Facility",
@@ -160,14 +208,6 @@
       "published": "Wed, 08 Oct 2025 12:24:29 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/jeff-bezos-ai-bubble-good-eliminate-weak.jpg?quality=85"
-    },
-    {
-      "title": "Floating electrons on a sea of helium",
-      "link": "https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/",
-      "summary": "Yes, it's another potential qubit. But it's also some very cool physics.",
-      "published": "Wed, 08 Oct 2025 11:08:52 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1397148346-1152x648-1759878481.jpg"
     },
     {
       "title": "Bank of England Warns of Impending AI Disaster",
@@ -194,22 +234,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/spacecraft-mars-snapped-interstellar-visitor.jpg?quality=85"
     },
     {
-      "title": "Tesla’s standard-range Model 3, Model Y join the lineup",
-      "link": "https://arstechnica.com/cars/2025/10/teslas-new-cut-price-evs-a-39990-model-y-and-36990-model-3/",
-      "summary": "A smaller battery and less standard equipment cuts prices, but not by enough.",
-      "published": "Tue, 07 Oct 2025 22:22:18 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ModelYStandard_84-1152x648.jpg"
-    },
-    {
-      "title": "Despite RFK Jr.’s shenanigans, COVID shot access will be a lot like last year",
-      "link": "https://arstechnica.com/health/2025/10/after-rfk-jr-s-shenanigans-covid-shot-access-will-be-a-lot-like-last-year/",
-      "summary": "Most people can get vaccinated at their local pharmacy like normal.",
-      "published": "Tue, 07 Oct 2025 21:24:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2168151364-1152x648.jpg"
-    },
-    {
       "title": "The Entire Economy Now Depends on the AI Industry Not Fumbling",
       "link": "https://futurism.com/future-society/entire-economy-ai-bubble",
       "summary": "<p>\"AI better deliver.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/entire-economy-ai-bubble\">The Entire Economy Now Depends on the AI Industry Not Fumbling</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -218,28 +242,116 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/entire-economy-ai-bubble.jpg?quality=85"
     },
     {
-      "title": "Cocky AI CEO Does Photoshoot in Front of His Subway Ads That Got Relentlessly Vandalized",
-      "link": "https://futurism.com/artificial-intelligence/friend-ceo-photoshoot-ads",
-      "summary": "<p>\"The picture of the billboard is the billboard.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/friend-ceo-photoshoot-ads\">Cocky AI CEO Does Photoshoot in Front of His Subway Ads That Got Relentlessly Vandalized</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 07 Oct 2025 17:14:11 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/friend-ceo-photoshoot-ads.jpg?quality=85"
+      "title": "CoreWeave bets on serverless agent builder to woo penny-pinching enterprises",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/coreweave_serverless_rl/",
+      "summary": "<h4>Because what enterprises really love are vague consumption-based pricing models</h4> <p>Rent-a-GPU outfit CoreWeave continued its push into the AI services arena on Wednesday with the introduction of a platform that aims to make reinforcement learning more accessible to enterprise customers.…</p>",
+      "published": "2025-10-08T23:10:33.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/03/15/datacenter_ab.jpg"
     },
     {
-      "title": "Amazon Caught Peddling AI Slop Version of Cory Doctorow That’s So Ironic That We Have to Go Outside and Stare at the Sky for a Bit",
-      "link": "https://futurism.com/artificial-intelligence/amazon-cory-doctorow-ai-slop",
-      "summary": "<p>What level of meta is this?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/amazon-cory-doctorow-ai-slop\">Amazon Caught Peddling AI Slop Version of Cory Doctorow That&#8217;s So Ironic That We Have to Go Outside and Stare at the Sky for a Bit</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 07 Oct 2025 16:22:21 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/amazon-cory-doctorow-ai-slop.jpg?quality=85"
+      "title": "3 more infamous cybercrime crews team up to 'maximize income' in 'challenging' ransomware biz",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/dragonforce_qilin_lockbit_collab/",
+      "summary": "<h4>It's hard out there for a crim</h4> <p>Following in the footsteps of an earlier unholy alliance between three other cybercrime crews, ransomware-as-a-service giants DragonForce, Qilin, and LockBit claim to be collaborating on ransomware attacks. …</p>",
+      "published": "2025-10-08T21:59:24.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/02/11/shutterstock_bad_trio.jpg"
     },
     {
-      "title": "Sora 2 Has a Huge Financial Problem",
-      "link": "https://futurism.com/artificial-intelligence/sora-2-financial-problem",
-      "summary": "<p>\"People are generating much more than we expected per user, and a lot of videos are being generated for very small audiences.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sora-2-financial-problem\">Sora 2 Has a Huge Financial Problem</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 07 Oct 2025 15:01:15 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/sora-2-financial-problem.jpg?quality=85"
+      "title": "The price is wrong! California goes Bob Barker on algorithmic price rigging",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/california_bans_algorithmic_price_fixing/",
+      "summary": "<h4>When sellers collude through a computer algorithm, that doesn't make it right</h4> <p>California companies that use algorithms to fix the prices of their products and services could now face stiff antitrust penalties if they continue to do so. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-08T21:16:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/10/22/rising_prices_shutterstock.jpg"
+    },
+    {
+      "title": "Prime Day ends soon, but these deals are still going at Walmart",
+      "link": "https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025",
+      "summary": "Walmart has proven to be a great place to shop during Amazon’s October Prime Day event, matching the prices on several discounts and marking down many other tech products that we think you’ll like. While Amazon’s event is ending soon, Walmart’s sale event, simply called “Walmart Deals,” runs through Sunday, October 12th, giving you a [&#8230;]",
+      "published": "2025-10-08T21:15:49-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24551815/236593_AMD_Ryzen_7_7800X3D_TWarren_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Alienware’s incredible 27-inch 4K QD-OLED gaming monitor is $200 off",
+      "link": "https://www.theverge.com/tech/796918/amazon-october-prime-day-alienware-aw2725q-oled-gaming-monitor-deal-sale",
+      "summary": "Amazon is hosting a lot of good deals during October Prime Day, but it can’t compete with Dell when it comes to its sale on the Alienware AW2725Q. The 27-inch 4K QD-OLED gaming monitor that a couple of Verge staffers have tested is $699.99 right now, which is $200 off its original $899.99 price. It [&#8230;]",
+      "published": "2025-10-08T21:15:41-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/nedwards_oled_1540_87f639.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "These great October Prime Day deals on laptops won’t last much longer",
+      "link": "https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple",
+      "summary": "The second Amazon Prime Day sales event of the year is almost over, but there are still discounts to be had on MacBooks, Windows laptops, and various PC accessories. Like previous Prime Big Deal Days, this sale runs for two days (ending Thursday, October 9th, at 3AM ET / 12AM PT) and requires a Prime [&#8230;]",
+      "published": "2025-10-08T21:05:58-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The 225 best last-minute Prime Day deals you can still grab",
+      "link": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
+      "summary": "We’re now in the final hours of Amazon’s October Prime Day sale. That means it’s time to squeeze as much value out of your Prime subscription as you can until Thursday at 3AM ET / 12AM PT, which is when several deals will enter a brief hibernation ahead of Black Friday and Cyber Monday. Although [&#8230;]",
+      "published": "2025-10-08T20:46:06-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257947_Prime_big_deals_2025_CVirginia_C_3e5b12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Cisco’s new router unites disparate datacenters into AI training behemoths",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/cisco_multi_datacenter/",
+      "summary": "<h4>With enough routers, Switchzilla says it can link bit barns 1,000 km apart and scale fabrics beyond 3 exabits per second</h4> <p>Cisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together their existing datacenters into a single unified compute cluster.…</p>",
+      "published": "2025-10-08T20:29:38.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/08/shutterstock_2530031367.jpg"
+    },
+    {
+      "title": "My go-to Switch 2 accessories are still available for October Prime Day",
+      "link": "https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day",
+      "summary": "Amazon’s October Prime Day sale is here, and it’s proving to be a good opportunity to save some money on accessories for your Nintendo Switch 2. While the console isn’t discounted, a number of recommended add-ons are cheaper than ever (some are discounted for the first time), including microSD Express cards, carrying cases, controllers, screen [&#8230;]",
+      "published": "2025-10-08T20:03:03-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "You still have time to save on Verge-favorite gadgets before Prime Day ends",
+      "link": "https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025",
+      "summary": "All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for, whether it be a streaming device, a laptop, or a pair of noise-canceling earbuds. However, there are also plenty of other gadgets that the&#160;Verge&#160;staff genuinely loves that don’t receive a dedicated review [&#8230;]",
+      "published": "2025-10-08T19:58:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/duck.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "I never lose my wallet with Nomad&#8217;s slim tracker, which is 20 percent off right now",
+      "link": "https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025",
+      "summary": "I used to misplace my wallet all the time, which always led to a mad scramble before leaving the house. I tried remembering to place it on the valet tray next to my keys, but it often wound up somewhere else. That’s why when Nomad launched its Tracking Card, I immediately picked one up. Now, [&#8230;]",
+      "published": "2025-10-08T19:24:53-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nomad-Tracking-Card.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "You can still save up to 70 percent on headphones from Bose and Sony today",
+      "link": "https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025",
+      "summary": "The second day of Amazon’s Prime Big Deal Days is here, providing you with an additional opportunity to save on a range of Verge-approved gadgets. We’re continuing to highlight hundreds of our favorite deals — from cheap charging accessories and discounts on the latest Apple gear to an all-time low on the Google Pixel 9A [&#8230;]",
+      "published": "2025-10-08T19:21:15-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25008888/DSCF3714.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "A bunch of 4K Blu-ray movies we love are under $20 for Prime Day",
+      "link": "https://www.theverge.com/tech/787694/amazon-october-prime-day-4k-bluray-uhd-movie-deal-sale-2025",
+      "summary": "Movie streaming services are fine, but as their respective libraries and monthly rates change, nothing compares to having the 4K Blu-rays of your favorite movies to play whenever you want. If you want to add some titles to your collection, several great films and box sets are selling at the lowest prices of the year, [&#8230;]",
+      "published": "2025-10-08T19:20:33-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23309259/p.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "These 63 October Prime Day deals under $50 are still available",
+      "link": "https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025",
+      "summary": "Prime Big Deal Days is well into its second and final day, and big-ticket tech like Sony’s Bravia 8 OLED TV and Bose’s QuietComfort headphones are still some of the more marquee deals that caught our eye. However, you don’t need to spend hundreds (or thousands) of dollars to score something great. If you’re working [&#8230;]",
+      "published": "2025-10-08T18:58:33-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25611462/High_Resolution_JPG_MINIROLL_LIFE_Black_004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Mars’ powerful whirlwinds blow dust everywhere, could affect future missions",
@@ -288,118 +400,6 @@
       "published": "2025-10-08T15:30:45.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2018/06/20/shutterstock_email_attack.jpg"
-    },
-    {
-      "title": "Logitech’s MX Master 3S is one of the best wireless mice around, and it’s 25 percent off",
-      "link": "https://www.theverge.com/tech/791722/amazon-october-prime-day-logitech-mx-master-3s-wireless-mouse-deal-sale-2025",
-      "summary": "While it lacks the haptics of the newer MX Master 4, Logitech’s MX Master 3S is nearly as good in several ways. It has quiet clicks, horizontal and vertical scroll wheels that are fun to spin, and a comfortable grip. And, for a limited time, it’s down to just $89.98 at Amazon as part of [&#8230;]",
-      "published": "2025-10-08T14:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Logitech-MX-Master-3S.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best October Prime Day deals at Walmart",
-      "link": "https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025",
-      "summary": "Amazon is the retailer to beat when it comes to offering deals that compete with Amazon’s October Prime Day event. Walmart has proven to be a contender this year, matching the prices on several discounts and marking down many other tech products that we think you’ll like. Its sale event, simply called “Walmart Deals,” runs [&#8230;]",
-      "published": "2025-10-08T14:21:47-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24551815/236593_AMD_Ryzen_7_7800X3D_TWarren_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "We handpicked 30 last-minute Prime Day deals you can still grab for under $25",
-      "link": "https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025",
-      "summary": "Day two of Prime Big Deal Days is in full swing, and while there are still plenty of big-ticket discounts lining the digital shelves of Amazon, not everyone is looking to shell out a bunch of cash (myself included). The good news is you don’t have to spend a fortune to score a great deal, [&#8230;]",
-      "published": "2025-10-08T14:19:37-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24691059/236685_Amazon_Echo_Pop_JTuohy_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Switch 2 accessories that I recommend are cheaper than ever during October Prime Day",
-      "link": "https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day",
-      "summary": "Amazon’s October Prime Day sale is here, and it’s proving to be a good opportunity to save some money on accessories for your Nintendo Switch 2. While the console isn’t discounted, a number of recommended add-ons are cheaper than ever (some are discounted for the first time), including microSD Express cards, carrying cases, controllers, screen [&#8230;]",
-      "published": "2025-10-08T14:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Trump’s vague and confusing immigration policies are the point",
-      "link": "https://www.theverge.com/policy/794893/anti-american-activities-immigration-policy",
-      "summary": "In August, the US Citizenship and Immigration Services, the agency that adjudicates and grants immigration benefits like visas, residency, and naturalization, put out a bizarre three-page policy alert. Among other things, it noted vaguely that the agency would scrutinize applicants who \"support or promote anti-American ideologies or activities\" and \"enforce all relevant immigration laws to [&#8230;]",
-      "published": "2025-10-08T14:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257941_anti-americanism_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "These 63 October Prime Day deals under $50 are still available",
-      "link": "https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025",
-      "summary": "Prime Big Deal Days is well into its second and final day, and big-ticket tech like Sony’s Bravia 8 OLED TV and Bose’s QuietComfort Headphones are still some of the more marquee deals that caught our eye. However, you don’t need to spend hundreds (or thousands) of dollars to score something great. If you’re working [&#8230;]",
-      "published": "2025-10-08T13:54:19-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25611462/High_Resolution_JPG_MINIROLL_LIFE_Black_004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Here&#8217;s how Apple is locking down iPhones to comply with Texas&#8217; age verification law",
-      "link": "https://www.theverge.com/news/796760/apple-iphones-ios-app-store-age-verification-law-texas-utah-louisiana",
-      "summary": "Starting next year, Texas will require companies like Apple and Google to verify the ages of people that use their app stores, and Apple shared today how it’s going to comply. Starting January 1st, 2026, anyone trying to make a new Apple Account must confirm if they are over 18, and any users under 18 [&#8230;]",
-      "published": "2025-10-08T13:49:54-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "IBM invites CockroachDB to infest its mainframes with PostgreSQL",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/ibm_cockroachdb_mainframe_postgres/",
-      "summary": "<h4>Vendors promote bridge to modern architecture for legacy systems, but Db2 not going anywhere just yet</h4> <p>IBM has signed an OEM agreement with Cockroach Labs – maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB – in a bid to help modernize mission-critical applications reliant on mainframe hardware.…</p>",
-      "published": "2025-10-08T13:48:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/04/07/ibm_z17.jpg"
-    },
-    {
-      "title": "Texas senators cry foul over Smithsonian's pricey Space Shuttle shuffle",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/senators_smithsonian_discovery/",
-      "summary": "<h4>Can be shifted for a tenth of the price AND the wings don't have to come off – allegedly</h4> <p>Texas senators John Cornyn and Ted Cruz have hit back at a Smithsonian memo on relocating Space Shuttle Discovery, claiming the institute's cost estimates are \"more than ten times higher\" than quotes from private logistics firms.…</p>",
-      "published": "2025-10-08T13:27:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/10/18/spaceshuttlediscovery.jpg"
-    },
-    {
-      "title": "The 210 best October Prime Day deals",
-      "link": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
-      "summary": "We’re now in the second and final day of Amazon’s October Prime Day sale. That means it’s time to squeeze as much value out of your Prime subscription as you can until Thursday at 3AM ET / 12AM PT, which is when several deals will enter a brief hibernation ahead of Black Friday and Cyber [&#8230;]",
-      "published": "2025-10-08T13:24:50-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257947_Prime_big_deals_2025_CVirginia_C_3e5b12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Verizon buys the not-quite-5G wireless ISP Starry to expand wireless broadband",
-      "link": "https://www.theverge.com/news/796693/verizon-starry-acquisition-wireless-internet-mmwave",
-      "summary": "Verizon is acquiring Starry, the ISP that delivers home internet using antennas and millimeter wave technology. The acquisition “advances” Verizon’s ability to offer high-speed internet in apartments, condominiums, and other multi-dwelling units, the company said on Wednesday. Starry made its debut in Boston in 2016, offering gigabit speeds via its unconventional approach to internet connectivity. [&#8230;]",
-      "published": "2025-10-08T13:21:14-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK066_VERIZON.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "UE’s Wonderboom 4 is great for music lovers, and it’s 34 percent off",
-      "link": "https://www.theverge.com/tech/792452/amazon-october-prime-day-ue-wonderboom-4-bluetooth-speaker-deal-sale-2025",
-      "summary": "If you know someone who always has the perfect playlist queued up, the Ultimate Ears Wonderboom 4 makes for a solid gift. It’s easy to bring to the beach or take with you on a short weekend jaunt, and it produces surprisingly robust sound despite its pint-sized stature. Thankfully, it’s also once again on sale [&#8230;]",
-      "published": "2025-10-08T13:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Ultimate-Ears-Wonderboom-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "summary": "<h4>Berlin's opposition likely kills off Brussels' bid to scan everyone's messages</h4> <p>Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-08T12:53:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg"
-    },
-    {
-      "title": "Python releases version 3.14 – with cautious free-threaded support",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/python_314_released_with_cautious/",
-      "summary": "<h4>JIT compiler included but experimental and can slow performance</h4> <p>The Python team has released version 3.14, with big new features including free threading support, the ability to use concurrent interpreters, improved debugger support, and an opt-in new interpreter which improves performance by 3 to 5 percent.…</p>",
-      "published": "2025-10-08T12:25:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/05/03/python_shutterstock.jpg"
     }
   ]
 }
