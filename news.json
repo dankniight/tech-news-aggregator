@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-10-15T06:34:50.409305",
+  "lastUpdated": "2025-10-15T12:51:11.874212",
   "articles": [
+    {
+      "title": "VSCO gets AI editing chops, support for RAW files",
+      "link": "https://techcrunch.com/2025/10/15/vsco-gets-ai-editing-chops-support-for-raw-files/",
+      "summary": "Video editing app VSCO is adding a set of new AI image editing tools, support for high-resolution RAW files, non-destructive edits, and content-aware region detection.",
+      "published": "Wed, 15 Oct 2025 12:06:29 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/HERO-16x9-1.jpg?resize=1200,674"
+    },
+    {
+      "title": "Waymo plans to launch a robotaxi service in London in 2026",
+      "link": "https://techcrunch.com/2025/10/15/waymo-plans-to-launch-a-robotaxi-service-in-london-in-2026/",
+      "summary": "Waymo already has ties to the UK, which began after the autonomous vehicle technology company acquired Latent Logic in 2019.",
+      "published": "Wed, 15 Oct 2025 09:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/waymo-robotaxi-fifth-gen.jpg?resize=1200,800"
+    },
     {
       "title": "OpenAI has five years to turn $13 billion into $1 trillion",
       "link": "https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/",
@@ -114,14 +130,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/unnamed-1.png?resize=1200,675"
     },
     {
-      "title": "Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option",
-      "link": "https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/",
-      "summary": "The integration offers conversational, cited answers instead of traditional links and follows positive feedback from earlier tests in select markets. Perplexity will expand to mobile soon.",
-      "published": "Tue, 14 Oct 2025 17:49:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1200"
-    },
-    {
       "title": "Over 50 Percent of the Internet Is Now AI Slop, New Data Finds",
       "link": "https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop",
       "summary": "<p>Humans aren't finished... yet.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop\">Over 50 Percent of the Internet Is Now AI Slop, New Data Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -144,14 +152,6 @@
       "published": "Tue, 14 Oct 2025 16:58:21 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-1152x648.jpg"
-    },
-    {
-      "title": "Facebook brings back job listings in the US",
-      "link": "https://techcrunch.com/2025/10/14/facebook-brings-back-job-listings-in-the-us/",
-      "summary": "Facebook is reintroducing job listings to users in the U.S., focusing on entry-level, trade, and service jobs.",
-      "published": "Tue, 14 Oct 2025 16:31:03 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Local-Jobs-on-Facebook.jpeg?w=1200"
     },
     {
       "title": "Top US Army General Says He’s Letting ChatGPT Make Military Decisions",
@@ -242,6 +242,118 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/openai-porn-chatgpt-smut.jpg?quality=85"
     },
     {
+      "title": "AI startup Augment scraps 'unsustainable' pricing, users say new model is 10x worse",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/augment_pricing_model/",
+      "summary": "<h4>Second huge increase in six months sees some devs heading for the exit</h4> <p>Augment has updated its pricing model for Augment Code, an AI coding assistant, to be based on AI usage rather than message interactions. The company said its existing model \"isn't sustainable\" but users have calculated that the new one is more than ten times as expensive.…</p>",
+      "published": "2025-10-15T12:34:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/06/27/exit.jpg"
+    },
+    {
+      "title": "£2B UK cloud licensing claim against Microsoft seeks more business backers",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/microsoft_cloud_licensing_lawsuit/",
+      "summary": "<h4>Action alleges Redmond unfairly hikes costs for businesses running Windows Server outside Azure</h4> <p>The team pushing a £2 billion legal claim accusing Microsoft of overcharging businesses that use its software on rival clouds has called for further participants ahead of its first hearing in December.…</p>",
+      "published": "2025-10-15T12:15:50.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/10/22/rising_prices_shutterstock.jpg"
+    },
+    {
+      "title": "Everyone wants a fancy phone – even the folk buying them second-hand",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/idc_counterpoint_smartphone_sales/",
+      "summary": "<h4>IDC and Counterpoint say premium kit is driving sales in both new and used markets</h4> <p>Premium devices are what smartphone buyers want right now, and it seems that applies equally to the latest devices and second-hand models destined for emerging markets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-15T11:52:23.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/09/18/shutterstock_secondhandiphones.jpg"
+    },
+    {
+      "title": "Capita fined £14M after 58-hour delay exposed 6.6M records",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/ico_fines_capita_14m/",
+      "summary": "<h4>ICO makes example of outsourcing giant over sluggish cyber response</h4> <p>The UK's Information Commissioner's Office (ICO) has issued a £14 million ($18.6 million) penalty to outsourcing giant Capita following a catastrophic 2023 cyberattack that exposed the personal data of 6.6 million people.…</p>",
+      "published": "2025-10-15T11:01:42.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/05/26/alarm_87657483.jpg"
+    },
+    {
+      "title": "Schleswig-Holstein waves auf Wiedersehen to Microsoft stack",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/schleswig_holstein_open_source/",
+      "summary": "<h4>Germany's northernmost state bins Outlook – and tens of thousands of Redmond licenses</h4> <p>Schleswig-Holstein, the northernmost state of Germany, has finally concluded one element of a long-running project to eject Microsoft from its infrastructure by giving Exchange Server the boot.…</p>",
+      "published": "2025-10-15T10:16:26.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/15/shutterstock_schleswigholsteinflag.jpg"
+    },
+    {
+      "title": "Trump's anti-sustainability agenda comes to Eurozone",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/europe_sustainability_canalys/",
+      "summary": "<h4>ESG kicked like a 'toxic political football' amid greenwashing</h4> <p><strong>Canalys Forums 2025</strong>  US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside – and it's now swinging across the Atlantic, according to analysts.…</p>",
+      "published": "2025-10-15T09:00:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/05/11/shutterstock_wrecking_ball.jpg"
+    },
+    {
+      "title": "Only out online",
+      "link": "https://www.theverge.com/cs/features/799045/trans-identity-online-anonymous",
+      "summary": "For about a year of my life, from late 2019 through the summer of 2020, I was trans only on Reddit. I don’t know why I chose Reddit. I don’t normally use the site heavily, or at all. But Reddit is a place where users ask for advice, and I needed advice desperately. So I [&#8230;]",
+      "published": "2025-10-15T08:30:03-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257907_future_of_being_trans_DOING_IT_THEMSELVES_CVirginia-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "UK government's £45B AI savings pitch built on broad-brush guesswork, MPs told",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/uk_gov_ai_savings/",
+      "summary": "<h4>Think tank cautions that without job cuts or capital savings, the math doesn't add up</h4> <p>UK government's plans to save £45 billion through the application of AI in the public sector lack clarity and are based on broad-brush assumptions, Members of Parliament have heard.…</p>",
+      "published": "2025-10-15T08:15:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/01/28/shutterstock_parliament.jpg"
+    },
+    {
+      "title": "Doing it for themselves",
+      "link": "https://www.theverge.com/cs/features/798638/trans-resources-online-sharing",
+      "summary": "In 2014, Time announced the “Transgender Tipping Point.” The perilous conditions trans people are facing right now probably weren’t the progress the publication had in mind. In the US, state legislators and even the president are on the attack, while in the UK, J.K. Rowling is proudly bankrolling hate campaigns and the government just issued [&#8230;]",
+      "published": "2025-10-15T08:00:03-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257907_future_of_being_trans_DOING_IT_THEMSELVES_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AI is the flying car of the mind: An irresistible idea nobody knows how to land or manage",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/ai_vs_flying_cars/",
+      "summary": "<h4>And which will crash, repeatedly, until users learn how to handle it safely</h4> <p><strong>Column</strong>  Steve Jobs probably didn't remember how many times he skinned his knees learning to ride a bike before describing a personal computer as a <a href=\"https://www.theregister.com/2024/01/27/apple_europe_ios_analysis\" target=\"_blank\">\"bicycle for the mind.\"</a> Jobs' point was that both tools help us to go further, faster, with just a little extra effort.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-15T07:30:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/04/15/shutterstock_car.jpg"
+    },
+    {
+      "title": "The government shutdown is strangling aviation",
+      "link": "https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown",
+      "summary": "In May, The Verge reported that the US aviation system was so fragile that \"the smallest disruption can throw the entire system into chaos.\" That disruption arrived on October 1st, when the federal government shut down over a budget dispute. Chaos has indeed ensued. More than 6,000 flights are being delayed every day, nearly twice [&#8230;]",
+      "published": "2025-10-15T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239593267.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "These are the Office icons Microsoft rejected",
+      "link": "https://www.theverge.com/news/799736/microsoft-office-icons-test-versions",
+      "summary": "Microsoft is busy rolling out new curvy and colorful new Office icons, and now it’s revealing a set of design concepts it experimented with before finalizing these new icons. Some of the concepts are radically different from what Microsoft is shipping, with design explorations for Word, Excel, and PowerPoint that more closely resemble the Office [&#8230;]",
+      "published": "2025-10-15T06:09:41-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/officeicondesignexplorations.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple exec on Apple TV rebranding: ‘let’s just do it’",
+      "link": "https://www.theverge.com/news/799725/apple-tv-streaming-rebrand-eddy-cue",
+      "summary": "We have some new insight into Apple’s muddled rebrand of Apple TV Plus to Apple TV, courtesy of an interview with the company’s senior vice president of services, Eddy Cue. Speaking on The Town podcast, Cue said that no consultants were involved, and that it was a collective decision to drop the “Plus” from the [&#8230;]",
+      "published": "2025-10-15T05:03:09-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Waymo’s robotaxis are coming to London",
+      "link": "https://www.theverge.com/news/799259/waymo-london-robotaxi-launch-2026",
+      "summary": "London’s iconic black cabs could soon face a new rival: Waymo. The Alphabet-owned company said today it intends to launch a fully driverless robotaxi service in London, starting in 2026 — marking its first effort to expand internationally. The UK currently doesn’t have any fully driverless vehicles on the road. The government has said it will [&#8230;]",
+      "published": "2025-10-15T05:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Salesforce pumps the dream of AI agents as helpers, not replacements",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/salesforce_dreamforce_agents_everywhere/",
       "summary": "<h4>In the Agentic Enterprise, 'AI doesn’t replace people, it elevates them'</h4> <p>Salesforce CEO Marc Benioff heralded the arrival of the agentic era during his keynote at the CRM giant's annual Dreamforce conference.…</p>",
@@ -256,38 +368,6 @@
       "published": "2025-10-14T22:30:13.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2017/03/14/zombies_photo_via_shutterstock.jpg"
-    },
-    {
-      "title": "CISA cuts more staff and reassigns others as government stays shut down",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/cisa_jettisoning_more_staff_reassigning/",
-      "summary": "<h4>America's main cybersecurity agency has lost almost 1,000 people this year</h4> <p>The Trump administration has continued to cut staff at the Cybersecurity and Infrastructure Security Agency (CISA), and is reportedly reassigning others, further imperiling the US' cybersecurity posture. …</p>",
-      "published": "2025-10-14T22:01:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/14/shutterstock_2010923726.jpg"
-    },
-    {
-      "title": "Framework flame war erupts over support of politically polarizing Linux projects",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/framework_linux_controversy/",
-      "summary": "<h4>Laptop maker's apolitical endorsement of politically contentious projects meets resistance</h4> <p>Six days ago, upgradeable laptop maker Framework tried to convince its fractious user community to live in a \"big tent\" after a Debian developer objected to the company's sponsorship of Hyprland and its social media promotion of Omarchy, with both projects associated with politically polarizing viewpoints.…</p>",
-      "published": "2025-10-14T21:38:04.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/07/18/dumpsterfire.jpg"
-    },
-    {
-      "title": "18 zettaFLOPS of new AI compute coming online from Oracle late next year",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/oracle_amd_nvidia/",
-      "summary": "<h4>New clusters to feature 800,000 Nvidia Blackwell and 50,000 AMD Instinct MI450X GPUs</h4> <p>Oracle on Tuesday revealed it would field more than 18 zettaFLOPS worth of AI infrastructure from Nvidia and AMD by the second half of next year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-14T21:09:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/22/openai_abilene_texas.jpg"
-    },
-    {
-      "title": "Some like it bot! ChatGPT promises AI-rotica is coming for verified adults",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/openai_chatgpt_ai_erotica/",
-      "summary": "<h4>Maybe this will bring in some actual profit?</h4> <p>OpenAI has mitigated ChatGPT behavior that might exacerbate users' mental health issues, claims CEO Sam Altman, so the natural next step is to make ChatGPT act more human again - complete with the ability to generate \"erotica for verified adults.\"…</p>",
-      "published": "2025-10-14T19:48:41.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/14/shutterstock_419158405.jpg"
     },
     {
       "title": "Samsung officially teases Moohan headset launch for next week",
@@ -314,92 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/videoframe_459107.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft seeding Washington schools with free AI to get kids and teachers hooked",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/microsoft_ai_schools/",
-      "summary": "<h4>To the slop trough, kiddos!</h4> <p>Not content to shove Copilot into every corner of the enterprise it can think of, Microsoft has announced plans to force feed AI to students across its home state of Washington. …</p>",
-      "published": "2025-10-14T17:08:03.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/04/10/shutterstock_boy_wanting_out_of_computer.jpg"
-    },
-    {
-      "title": "Chinese gang used ArcGIS as a backdoor for a year – and no one noticed",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/chinese_hackers_arcgis_backdoor/",
-      "summary": "<h4>Crims turned trusted mapping software into a hideout - no traditional malware required</h4> <p>A Chinese state-backed cybergang known as Flax Typhoon spent more than a year burrowing inside an ArcGIS server, quietly turning the trusted mapping software into a covert backdoor.…</p>",
-      "published": "2025-10-14T16:48:58.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/14/shutterstock_493959418.jpg"
-    },
-    {
       "title": "YouTube has a new video player",
       "link": "https://www.theverge.com/news/799492/youtube-new-video-player-update-changes",
       "summary": "YouTube is updating the look of the video player to be “cleaner and more immersive” beginning this week. “This includes updated controls and new icons to make the viewing experience more visually satisfying while obscuring less content,” YouTube says. It started testing changes to the player earlier this year. A screenshot from YouTube shows how [&#8230;]",
       "published": "2025-10-14T16:42:30-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Facebook removes ICE-tracking page after US government ‘outreach’",
-      "link": "https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning",
-      "summary": "Meta has removed a Facebook page dedicated to tracking Immigration and Customs Enforcement (ICE) action in Chicago after the Justice Department got involved.&#160; Attorney General Pam Bondi wrote on X Tuesday that Facebook had taken down an unnamed “large group page that was being used to dox and target” ICE agents after outreach from the [&#8230;]",
-      "published": "2025-10-14T16:42:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK432_Government__CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best deals on 4K TVs",
-      "link": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
-      "summary": "Things are looking bright for those who want to nab a great TV in 2025 at a substantial discount. There’s usually a great deal happening on a mid- or high-end TV from LG, Sony, Roku, Hisense, or Samsung — even if the biggest discounts remain reserved for Black Friday, Cyber Monday, Amazon Prime Day, and [&#8230;]",
-      "published": "2025-10-14T16:10:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Hisense-65U65QF.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple teases M5 MacBook",
-      "link": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser",
-      "summary": "Apple is teasing the imminent launch of a new MacBook with an M5 chip. In an X post, Apple SVP of worldwide marketing Greg Joswiak wrote that “something powerful is coming,” and a short video in the post includes the words “coming soon” and a silhouette of an Apple laptop. Joswiak’s post also includes the [&#8230;]",
-      "published": "2025-10-14T15:17:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m5-teaser.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "DGX Spark, Nvidia’s tiniest supercomputer, tackles large models at solid speeds",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/dgx_spark_review/",
-      "summary": "<h4>This relatively affordable AI workstation isn’t about going fast; it’s about doing everything well enough</h4> <p><strong>hands on</strong>  Nvidia bills its long-anticipated DGX Spark as the \"world's smallest AI supercomputer,\" and, at $3,000 to $4,000 (depending on config and OEM), you might be expecting the Arm-based mini-PC to outperform its less-expensive siblings.…</p>",
-      "published": "2025-10-14T15:00:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/14/dgx_spark_cover_image.jpg"
-    },
-    {
-      "title": "Researchers intercept unencrypted satellite traffic from space blabbermouths",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/unencrypted_satellite_comms/",
-      "summary": "<h4>University team picks up voice calls, texts, and corporate data from orbit with off-the-shelf kit</h4> <p>Geostationary satellites are broadcasting large volumes of unencrypted data to Earth, including private voice calls and text messages as well as consumer internet traffic, researchers have discovered.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-14T14:45:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/08/16/shutterstock_earth_satellites.jpg"
-    },
-    {
-      "title": "Sam Altman says ChatGPT will soon sext with verified adults",
-      "link": "https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults",
-      "summary": "OpenAI will soon allow “erotica” for ChatGPT users who verify their age on the platform. In an X post on Tuesday, OpenAI CEO Sam Altman said the company will add support for mature conversations when it launches age-gating in December. “As we roll out age-gating more fully and as part of our ‘treat adult users [&#8230;]",
-      "published": "2025-10-14T13:45:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best ereader to buy right now",
-      "link": "https://www.theverge.com/23769068/best-ebook-readers",
-      "summary": "Any ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. Some really are pocketable. Others are waterproof [&#8230;]",
-      "published": "2025-10-14T13:38:35-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832350/257503_e_book_reader_CVirginia_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "California cracks down on ‘predatory’ early cancellation fees",
-      "link": "https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees",
-      "summary": "California has enacted new legislation that aims to limit companies from charging consumers “exorbitant” fees to cancel fixed-term contracts. Assembly Bill 483 was signed into law by California Gov. Gavin Newsom on Friday, placing transparency requirements and fee limits on early terminations for installment contracts — plans that allow consumers to make recurring payments for [&#8230;]",
-      "published": "2025-10-14T12:29:06-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK417_Mobile_Banking_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
