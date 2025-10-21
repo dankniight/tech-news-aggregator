@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2025-10-20T18:35:00.953167",
+  "lastUpdated": "2025-10-21T01:50:35.704008",
   "articles": [
-    {
-      "title": "Something from “space” may have just struck a United Airlines flight over Utah",
-      "link": "https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/",
-      "summary": "\"NTSB gathering radar, weather, flight recorder data.\"",
-      "published": "Sun, 19 Oct 2025 18:50:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/Boeing_737_MAX_7-1-1-1152x648.jpg"
-    },
     {
       "title": "Doctors Just Found Something Fascinating About What Happens When You Drink on Ozempic",
       "link": "https://futurism.com/health-medicine/doctors-drinking-ozempic",
@@ -42,28 +34,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/dmv-visual-difference-ai.jpg?quality=85"
     },
     {
-      "title": "Reddit’s AI Suggests That People Suffering Chronic Pain Try Opioids",
-      "link": "https://futurism.com/artificial-intelligence/reddit-ai-recommends-heroin",
-      "summary": "<p>A chatbot doesn't care if you live, die or become an addict. </p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/reddit-ai-recommends-heroin\">Reddit&#8217;s AI Suggests That People Suffering Chronic Pain Try Opioids</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 19 Oct 2025 09:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/reddit-ai-recommends-heroin.jpg?quality=85"
-    },
-    {
-      "title": "Astronomers Ponder Strange Glow Coming From the Heart of Our Galaxy",
-      "link": "https://futurism.com/space/strange-gamma-ray-glow-heart-galaxy",
-      "summary": "<p>\"A clean signal would be a smoking gun, in my opinion.\"</p>\n<p>The post <a href=\"https://futurism.com/space/strange-gamma-ray-glow-heart-galaxy\">Astronomers Ponder Strange Glow Coming From the Heart of Our Galaxy</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 19 Oct 2025 08:15:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/strange-gamma-ray-glow-heart-galaxy.jpg?quality=85"
-    },
-    {
-      "title": "Roberta Williams’ The Colonel’s Bequest was a different type of adventure game",
-      "link": "https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/",
-      "summary": "What if point-and-click games weren't about the puzzles?",
-      "published": "Sat, 18 Oct 2025 12:15:59 +0000",
+      "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
+      "link": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/",
+      "summary": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
+      "published": "Mon, 20 Oct 2025 22:18:22 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Colonels-Bequest-1-1152x648-1760651707.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg"
+    },
+    {
+      "title": "Why did NASA’s chief just shake up the agency’s plans to land on the Moon?",
+      "link": "https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/",
+      "summary": "\"The president wants to make sure we beat the Chinese.\"",
+      "published": "Mon, 20 Oct 2025 21:53:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-1152x648.jpg"
+    },
+    {
+      "title": "Apple will let users roll back the Liquid Glass look with new ‘tinted’ option",
+      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
+      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users more control over interface opacity after complaints that Liquid Glass made some elements harder to read.",
+      "published": "Mon, 20 Oct 2025 21:40:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?resize=1200,694"
+    },
+    {
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal.",
+      "published": "Mon, 20 Oct 2025 21:15:24 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Periodic-Labs.jpg?w=1024"
+    },
+    {
+      "title": "Claude Code gets a web version—but it’s the new sandboxing that really matters",
+      "link": "https://arstechnica.com/ai/2025/10/claude-code-gets-a-web-version-but-its-the-new-sandboxing-that-really-matters/",
+      "summary": "Sandboxing lessens hassle, but fire-and-forget agentic tools still pose risks.",
+      "published": "Mon, 20 Oct 2025 20:45:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-20-at-3.36.24-PM.png"
+    },
+    {
+      "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
+      "link": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
+      "summary": "Selected testers will have to sign an NDA and use a disguised case.",
+      "published": "Mon, 20 Oct 2025 20:14:29 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-1152x648.jpg"
+    },
+    {
+      "title": "Breaking down rare earth element magnets for recycling",
+      "link": "https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/",
+      "summary": "New method extracts desirable elements from waste magnets using less energy and acid.",
+      "published": "Mon, 20 Oct 2025 20:01:59 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1359528962-e1760988838500-1152x648.jpg"
+    },
+    {
+      "title": "Do animals fall for optical illusions? It’s complicated.",
+      "link": "https://arstechnica.com/science/2025/10/do-animals-fall-for-optical-illusions-its-complicated/",
+      "summary": "Guppies are highly susceptible to the Ebbinghaus illusion. Ring doves? Not so much.",
+      "published": "Mon, 20 Oct 2025 19:15:24 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/illusion1-1152x648.jpg"
+    },
+    {
+      "title": "US and Australia sign $3B critical minerals deal",
+      "link": "https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/",
+      "summary": "Leaders of the country's governments announced they would work together to secure critical minerals supplies outside of Chinese control. The deal includes a new gallium refinery in Western Australia.",
+      "published": "Mon, 20 Oct 2025 18:51:15 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1221127542.jpg?resize=1200,800"
+    },
+    {
+      "title": "SpaceX launches 10,000th Starlink satellite, with no sign of slowing down",
+      "link": "https://arstechnica.com/space/2025/10/spacex-launches-10000th-starlink-satellite-with-no-sign-of-slowing-down/",
+      "summary": "Sunday was not a day of rest for SpaceX.",
+      "published": "Mon, 20 Oct 2025 18:38:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlinkstack-1152x648.jpg"
     },
     {
       "title": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
@@ -100,7 +148,7 @@
     {
       "title": "Cards Against Humanity settles trespass lawsuit against SpaceX",
       "link": "https://techcrunch.com/2025/10/20/cards-against-humanity-settles-trespass-lawsuit-against-spacex/",
-      "summary": "Cards Against Humanity, the irreverent party game company known for its provocative humor, has settled its trespassing lawsuit against SpaceX, one year after filing the complaint and launching a profanity-laced marketing campaign against Elon Musk&#8217;s rocket company. The dispute centered on a plot of land along the Rio Grande River in Cameron County, Texas, that [&#8230;]",
+      "summary": "The dispute centered on a plot of land along the Rio Grande River in Cameron County, Texas, that Cards Against Humanity purchased in 2017.",
       "published": "Mon, 20 Oct 2025 17:44:47 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390099.jpg?resize=1200,800"
@@ -108,7 +156,7 @@
     {
       "title": "FTC removes Lina Khan-era posts about AI risks and open source",
       "link": "https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/",
-      "summary": "One post, authored by Khan’s staff, was published on January 3, 2025 with the title “AI and the Risk of Consumer Harm.” It  noted that the FTC was “taking note of AI’s potential for real-world instances of harm – from incentivizing commercial surveillance to enabling fraud and impersonation to perpetuating illegal discrimination.”",
+      "summary": "One post, authored by Khan’s staff, was published on January 3, 2025, with the title “AI and the Risk of Consumer Harm.” It  noted that the FTC was “taking note of AI’s potential for real-world instances of harm — from incentivizing commercial surveillance to enabling fraud and impersonation to perpetuating illegal discrimination.”",
       "published": "Mon, 20 Oct 2025 16:49:58 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1232440387.jpg?resize=1200,800"
@@ -130,28 +178,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/04/tumblr-1-e1650488126214.png?resize=1200,727"
     },
     {
-      "title": "Regulators probe Waymo after its robotaxi drove around a stopped school bus",
-      "link": "https://techcrunch.com/2025/10/20/regulators-probe-waymo-after-its-robotaxi-drove-around-a-stopped-school-bus/",
-      "summary": "The incident happened in Atlanta, Georgia, earlier this month. Waymo says it has already updated the software on its robotaxis.",
-      "published": "Mon, 20 Oct 2025 15:41:56 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/waymo-nyc.jpg?w=1121"
+      "title": "Meta Employee Creates AI App That Deepfakes the Dream Vacation You Couldn’t Afford",
+      "link": "https://futurism.com/artificial-intelligence/meta-vacation-generative-ai",
+      "summary": "<p>Paging Douglas Quaid.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-vacation-generative-ai\">Meta Employee Creates AI App That Deepfakes the Dream Vacation You Couldn&#8217;t Afford</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 20 Oct 2025 16:19:48 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/meta-vacation-generative-ai.jpg?quality=85"
     },
     {
-      "title": "San Francisco mayor Daniel Lurie is coming to TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/",
-      "summary": "Newly elected mayor Daniel Lurie steps onto the Disrupt Stage at TechCrunch Disrupt 2025, October 27-29 at Moscone West, in a homecoming of sorts for both tech and the city that helped define it. Register now to save and catch this live discussion.",
-      "published": "Mon, 20 Oct 2025 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Mayor-Daniel-Lurie-Speaker-16x9-Dark.png?resize=1200,675"
-    },
-    {
-      "title": "OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation",
-      "link": "https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/",
-      "summary": "Trained on medical journals like JAMA and the New England Journal of Medicine, the platform helps users quickly get answers to existing medical knowledge to help treat patients. Verified medical professionals can access OpenEvidence’s tool, which is supported by advertising, for free.",
-      "published": "Mon, 20 Oct 2025 14:46:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?w=1200"
+      "title": "NASA May Ditch SpaceX for Moon Landing Because It’s So Behind",
+      "link": "https://futurism.com/space/nasa-spacex-moon-delays",
+      "summary": "<p>\"They're behind schedule.\"</p>\n<p>The post <a href=\"https://futurism.com/space/nasa-spacex-moon-delays\">NASA May Ditch SpaceX for Moon Landing Because It&#8217;s So Behind</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 20 Oct 2025 15:14:06 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/nasa-spacex-moon-delays.jpg?quality=85"
     },
     {
       "title": "F1 in Texas: Well, now the championship is exciting again",
@@ -194,14 +234,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/trump-posts-ai-video-protestors.jpg?quality=85"
     },
     {
-      "title": "Should an AI copy of you help decide if you live or die?",
-      "link": "https://arstechnica.com/features/2025/10/should-an-ai-copy-of-you-help-decide-if-you-live-or-die/",
-      "summary": "Doctors share top concerns of AI surrogates aiding life-or-death decisions.",
-      "published": "Mon, 20 Oct 2025 11:00:09 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/pull-the-plug-1152x648.jpg"
-    },
-    {
       "title": "Inventor of Vibe Coding Admits He Hand-Coded His New Project",
       "link": "https://futurism.com/artificial-intelligence/inventor-vibe-coding-doesnt-work",
       "summary": "<p>It's a disaster waiting to happen.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/inventor-vibe-coding-doesnt-work\">Inventor of Vibe Coding Admits He Hand-Coded His New Project</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -210,36 +242,92 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/inventor-vibe-coding-doesnt-work.jpg?quality=85"
     },
     {
-      "title": "With deadline looming, 5 of 9 universities reject Trump’s “compact” to remake higher ed",
-      "link": "https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/",
-      "summary": "But Trump is pressuring the other four.",
-      "published": "Fri, 17 Oct 2025 22:14:59 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-588709290-1152x648.jpg"
+      "title": "AI wins Imitation Game: Readers prefer Fanfic written by ChatGPT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/ai_wins_imitation_game_readers/",
+      "summary": "<h4>Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting</h4> <p>Readers of texts created to use the styles of famous authors prefer works written by AI to human human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-21T00:47:59.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/11/15/shutterstock_nerdpoem.jpg"
     },
     {
-      "title": "Vaginal condition treatment update: Men should get treated, too",
-      "link": "https://arstechnica.com/health/2025/10/vaginal-condition-treatment-update-men-should-get-treated-too/",
-      "summary": "For bacterial vaginosis, partners are part of the problem—and the solution.",
-      "published": "Fri, 17 Oct 2025 22:02:54 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2185753669-1152x648.jpg"
+      "title": "Suspected Salt Typhoon snoops lurking in European telco's network",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/salt_typhoon_european_telco/",
+      "summary": "<h4>It's Typhoon season…year round</h4> <p>China's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.…</p>",
+      "published": "2025-10-20T22:36:42.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/07/25/hacker_wearing_mask_at_computer_shutterstock.jpg"
     },
     {
-      "title": "Ring cameras are about to get increasingly chummy with law enforcement",
-      "link": "https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/",
-      "summary": "Amazon's Ring partners with company whose tech has reportedly been used by ICE.",
-      "published": "Fri, 17 Oct 2025 21:50:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb-1152x648.jpg"
+      "title": "Nexperia drama intensifies as Dutch chipmaker denies ousted CEO's claims of Chinese split",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/nexperia_drama_intensifies_ceo_china_claim/",
+      "summary": "<h4>The government in the Netherlands has taken control of the company</h4> <p>Nexperia, a Dutch chipmaker that's found itself at the center of a geopolitical crisis, has denied claims by its former CEO that its Chinese division is now operating as an independent entity.…</p>",
+      "published": "2025-10-20T21:44:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/10/30/dutch_windmill_with_tulips_shutterstock.jpg"
     },
     {
-      "title": "Dead Ends is a fun, macabre medical history for kids",
-      "link": "https://arstechnica.com/science/2025/10/dead-ends-is-a-fun-macabre-medical-history-for-kids/",
-      "summary": "Ars chats with co-authors Lindsey Fitzharris and Adrian Teal about their delightful new children's book.",
-      "published": "Fri, 17 Oct 2025 18:36:18 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/deadends4-1152x648.jpg"
+      "title": "Aid groups use AI-generated ‘poverty porn’ to juice fundraising efforts",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aid_groups_scolded_fundraising_ai/",
+      "summary": "<h4>Researchers accuse tech firms of profiting from exploitative AI imagery</h4> <p>The starving child whose picture broke your heart when you saw it on a charity website may not be real. Global health researchers say that stock image companies like Adobe are profiting from AI-generated \"poverty porn\" that non-profits are using to drum up donations.…</p>",
+      "published": "2025-10-20T20:51:20.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/12/24/shutterstock_disgust.jpg"
+    },
+    {
+      "title": "Google’s new deadline for Epic consequences is October 29th",
+      "link": "https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th",
+      "summary": "Two days from today, October 22nd, was Google’s deadline to begin opening up its app store, stop forcing developers to use Google Play Billing, let them set their own prices, and more, following Epic’s repeated wins in Epic v. Google. But both Epic and Google have just successfully and mysteriously argued for one final week’s [&#8230;]",
+      "published": "2025-10-20T20:28:15-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047547/236883_Epic_Vs_Google_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Windows 11 tiptoes further into dark mode with new dialogs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/windows_11_more_dark_mode_dialogs/",
+      "summary": "<h4>Some portions of the OS are still stuck on light</h4> <p>Windows 11 launched way back in October 2021 and has become Microsoft’s must-have OS thanks to the impending end-of-life for Windows 10. After all that time, there are still significant portions of the OS that don’t do dark mode. However, Redmond is making significant progress, bringing a couple of key dialog boxes into compliance.…</p>",
+      "published": "2025-10-20T20:23:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/09/30/shutterstock_using_torch_in_dark.jpg"
+    },
+    {
+      "title": "Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously",
+      "link": "https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes",
+      "summary": "Actors, studios, agents, and the actors union SAG-AFTRA have all expressed their concerns about appearing in Sora 2&#8217;s AI-generated videos ever since the deepfake machine was released last month. Now a joint statement from actor Bryan Cranston, OpenAI, the union, and others says that after videos of him appeared on Sora — one even showed [&#8230;]",
+      "published": "2025-10-20T20:14:57-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Today is when the Amazon brain drain finally sent AWS down the spout",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
+      "summary": "<h4>When your best engineers log off for good, don’t be surprised when the cloud forgets how DNS works</h4> <p><strong>column</strong>  \"It's always DNS\" is a long-standing sysadmin saw, and with good reason: a disproportionate number of outages are at their heart DNS issues. And so today, as AWS is still repairing its downed cloud as this article goes to press, it becomes clear that the culprit is once again DNS. But if you or I know this, AWS certainly does.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-20T19:55:56.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/04/16/drain_shutterstock.jpg"
+    },
+    {
+      "title": "Xubuntu downloads section injection threatens users with crypto infection",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/xubuntu_website_compromised/",
+      "summary": "<h4>Attempted exploit was a feeble effort to target Windows users</h4> <p>Someone managed to insert a compromised file into the downloads section of the website for Xubuntu, the official Ubuntu flavor with the Xfce desktop environment. The malware was designed to steal cryptocurrency, but so far, there are no reports of actual theft.…</p>",
+      "published": "2025-10-20T19:19:17.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/07/13/crypto_325345456456.jpg"
+    },
+    {
+      "title": "Ninja Gaiden 4 is the perfect place to jump into the series",
+      "link": "https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc",
+      "summary": "When the first 3D Ninja Gaiden came out on Xbox in 2004, I really wanted to play it; though the game looks a little antiquated now, at the time, teenage me thought that ninja protagonist Ryu Hayabusa was cool as hell. But alas, I didn't have an Xbox, and I don't think I could have [&#8230;]",
+      "published": "2025-10-20T19:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ss_7ac7675da6a80f66c9fe88709f277eddc5cf9caa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "I tested 15 cases for the Switch 2 and these are the best",
+      "link": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
+      "summary": "You might find it kind of sad to put your hard-earned Switch 2 into a protective case. To me, it’s freeing. Using a case relieves me of the worry that it will accumulate tons of little scratches, or worse. I’ve tested several types of cases on the Nintendo Switch 2 since its June 2025 debut, [&#8230;]",
+      "published": "2025-10-20T18:13:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257824_buying_guide_switch_2_case_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Nvidia still needs Taiwan even as TSMC ramps Blackwell production in Arizona",
@@ -258,6 +346,22 @@
       "image_url": "https://regmedia.co.uk/2022/04/07/china_shutterstock3.jpg"
     },
     {
+      "title": "Apple adds a new toggle to make Liquid Glass less glassy",
+      "link": "https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option",
+      "summary": "Apple’s latest iOS 26.1 beta has a new option that lets you tint Liquid Glass elements of iOS 26 so that they are more opaque. Since announcing Liquid Glass at WWDC this year, Apple has tweaked exactly how glassy Liquid Glass is — early on, there were some legibility issues — but this new setting [&#8230;]",
+      "published": "2025-10-20T16:28:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_apple_frost_glass_iphone_f76e1d.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
+      "link": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
+      "summary": "A glass screen protector is one of a few essential accessories that every Switch 2 owner should make, along with a select few others. In fact, it should be a priority to stick one onto the console’s screen as soon as possible to avoid accidental scratches.  To test the candidates below, I installed and removed [&#8230;]",
+      "published": "2025-10-20T16:17:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossyRAWshowcase.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "AWS outage exposes Achilles heel: central control plane",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_chaos/",
       "summary": "<h4>Too many services depend not just on one cloud provider, but on one location</h4> <p><strong>Analysis</strong>  Amazon's US-EAST-1 region outage caused widespread chaos, taking websites and services offline even in Europe and raising some difficult questions. After all, cloud operations are supposed to have some built-in resiliency, right?…</p>",
@@ -266,36 +370,28 @@
       "image_url": "https://regmedia.co.uk/2024/04/25/aws_shutterstock.jpg"
     },
     {
-      "title": "In '90s Microsoft, you either shipped code or shipped out",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/hiring_firing_microsoft_plummer/",
-      "summary": "<h4>Hiring and firing at the Windows giant more The Bachelor than Survivor</h4> <p>Microsoft has made headlines for mass layoffs in recent times, but former company engineer Dave Plummer has explained how things were done a quarter of a century ago – and what it was like living through the tech giant's notorious stack ranking system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-20T15:38:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/09/07/shutterstockrose.jpg"
+      "title": "Blind patients read again with smart glasses-linked eye implant",
+      "link": "https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision",
+      "summary": "Several dozen patients with vision loss due to a progressive form of blindness called age-related macular degeneration (AMD) regained some of their central vision thanks to an eye implant paired with a set of smart glasses. The study was published Monday in The New England Journal of Medicine, and researchers report that patients could see [&#8230;]",
+      "published": "2025-10-20T15:48:46-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/PRIMA-Glasses.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "UK rethinks offshoring ban for £8M online procurement system",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/ukgov_offshoring_contract_ban/",
-      "summary": "<h4>Cabinet Office signals it might let supplier ship work abroad after 'unforeseeable' event</h4> <p>The UK government has signaled its intention to allow a supplier providing maintenance to its online procurement platform to subcontract offshore, having previously said that this was off-limits due to security concerns.…</p>",
-      "published": "2025-10-20T13:56:37.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/04/09/cabinet_office_sign2.jpg"
-    },
-    {
-      "title": "Windows 11 update knocks out USB mice, keyboards in recovery mode",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/microsoft_bug_keyboard_mouse/",
-      "summary": "<h4>October security patch leaves users unable to fix their PCs</h4> <p>Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</p>",
-      "published": "2025-10-20T13:21:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/11/18/windows.jpg"
+      "title": "Google will reportedly let 15 superfans test unreleased Pixel phones",
+      "link": "https://www.theverge.com/news/802866/google-pixel-superfans-test-new-phone-trusted-tester-program-report",
+      "summary": "There are but three certainties in life: death, taxes, and Google’s next Pixel phone getting thoroughly leaked before the company can even announce it. (Multiple generations of Pixel have been publicly unboxed, disassembled, and even reviewed before Google can show them off.) But it seems Google doesn’t want leakers to have all the fun — [&#8230;]",
+      "published": "2025-10-20T15:39:15-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/google-pixel-10-pro-fold-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Iniu&#8217;s tiny 10,000mAh power bank is almost half off right now",
       "link": "https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale",
-      "summary": "Small power banks are a dime a dozen, but Iniu’s Pocket Rocket P50 stands out for its combination of size, capacity, and features. We saw this model drop in price during Amazon’s recent October Prime Day sale, but a fresh discount has now made the power bank cheaper than ever. Right now, you can pick [&#8230;]",
+      "summary": "Small power banks are a dime a dozen, but Iniu’s P55-E2 portable charger stands out for its combination of size and capacity. We saw the this model drop in price during Amazon’s recent October Prime Day sale, but a fresh discount has now made the power bank cheaper than ever. Right now, you can pick [&#8230;]",
       "published": "2025-10-20T13:11:58-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Iniu-Pocket-Rocket-P50.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Iniu-P55-E2-lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The Friend AI pendant’s creator publicized a ‘Friend protest’ in NYC",
@@ -304,102 +400,6 @@
       "published": "2025-10-20T13:02:59-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257972_Friend_AKrales_0353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Like Apollo before them, ESA astronauts hone lunar landing skills in helicopters",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/esa_helicopter_training/",
-      "summary": "<h4>Now try a jet engine in a bedstead before strapping into a Starship</h4> <p>European Space Agency (ESA) astronauts have completed a helicopter training course to prepare them for upcoming lunar landings.…</p>",
-      "published": "2025-10-20T12:50:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/30/moon_shutterstock.jpg"
-    },
-    {
-      "title": "Major AWS outage took down Fortnite, Alexa, Snapchat, and more",
-      "link": "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline",
-      "summary": "A major Amazon Web Services (AWS) outage took down multiple online services for several hours this morning, including Amazon, Alexa, Snapchat, Fortnite, ChatGPT, Epic Games Store, Epic Online Services, and more. Some of the impacted platforms, including Fortnite, Epic Games Store, and Perplexity had announced that they are fully recovered and back online earlier this [&#8230;]",
-      "published": "2025-10-20T12:41:13-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AWS-outage-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Kohler’s new toilet camera provides health insights based on your bathroom breaks",
-      "link": "https://www.theverge.com/news/802727/kohler-health-dekoda-toilet-camera-optical-sensors",
-      "summary": "Knowing what’s coming out of your body can be just as useful for maintaining a healthy lifestyle as being choosy about what goes into it. As part of a new initiative focused on “turning the bathroom into a connected, data-informed health and wellness hub,” Kohler has announced a health tracker called the Dekoda you attach [&#8230;]",
-      "published": "2025-10-20T12:29:14-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/kohler_dekoda_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Benioff backs off: Salesforce chief says sorry for Trump troop talk",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/benioff_national_guard_apology/",
-      "summary": "<h4>Tech billionaire apologizes after endorsing plan to deploy National Guard in San Francisco</h4> <p>Salesforce co-founder and CEO Marc Benioff has apologized for backing President Donald Trump's proposals to send the National Guard to San Francisco, where the company is based and holds its annual conference.…</p>",
-      "published": "2025-10-20T12:21:45.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/07/31/sorry.jpg"
-    },
-    {
-      "title": "The Sims Mobile is shutting down next year",
-      "link": "https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026",
-      "summary": "The Sims is in a period of transition — and as part of that, the ongoing mobile version will be shutting down in a few months. EA announced that today’s update for The Sims Mobile will be its last, and that on January 20th, 2026 the game “will no longer be accessible to play and [&#8230;]",
-      "published": "2025-10-20T11:24:54-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/FkvrR1uUUAAV0Sh.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anbernic&#8217;s DS clone will be cheaper than Nintendo&#8217;s original",
-      "link": "https://www.theverge.com/news/802610/anbernic-rg-nintendo-ds-dual-screen-handheld-emulator",
-      "summary": "Anbernic has shared footage of its upcoming RG DS dual-screen clamshell handheld playing a selection of emulated games, including stylus-driven titles like Kirby: Canvas Curse from the Nintendo DS and 3DS games like Shovel Knight. Anbernic announced the RG DS earlier this month with a price tag that will be under $100 and four color [&#8230;]",
-      "published": "2025-10-20T11:14:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/anbernic_rgds.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/lloyds_banking_copilot/",
-      "summary": "<h4>That's 46 minutes in which more work can be done, not an extended lunch</h4> <p>Lloyds Banking Group claims employees save 46 minutes daily using Microsoft 365 Copilot, based on a survey of 1,000 users among nearly 30,000 deployed licenses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-20T11:10:38.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/11/02/shutterstock_lloyds_bank.jpg"
-    },
-    {
-      "title": "Meta is removing its Messenger apps for Windows and macOS",
-      "link": "https://www.theverge.com/news/802627/meta-messenger-app-removal-windows-macos",
-      "summary": "Meta is getting ready to pull support for its desktop Messenger apps on Windows and macOS. Both apps have already been removed from the Microsoft Store and Mac App Store, and existing users are starting to get notifications that the desktop apps will disappear fully in December. A Meta support page, first spotted by Apple [&#8230;]",
-      "published": "2025-10-20T11:09:26-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050",
-      "link": "https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale",
-      "summary": "As part of our Amazon Prime Big Deal Days coverage earlier this month, I was tasked with spotting notable discounts happening at Walmart. My favorite was the $600 off deal on Lenovo’s Legion 5 gaming laptop, which has a 15.1-inch 2,560 x 1,600 (16:10 aspect ratio) OLED screen with a 165Hz refresh rate, Nvidia’s RTX [&#8230;]",
-      "published": "2025-10-20T10:48:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/lenovolede.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The real insight behind measuring Copilot usage is Microsoft's desperation",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/copilot_viva_insights_column/",
-      "summary": "<h4>Citizen! You are falling short in your AI usage targets! Strive harder for the revolution!</h4> <p><strong>Opinion</strong>  The quantum theory of management includes an analogy for the physical law of the observer effect, where observing a system changes its state. When you make a metric a target, it is not useful as a metric. Instead of reflecting whatever underlying behavior it was intended to measure, the metric becomes a measure of how well the benchmark is being gamed.…</p>",
-      "published": "2025-10-20T10:15:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/08/01/spy-boss.jpg"
-    },
-    {
-      "title": "Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’",
-      "link": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors",
-      "summary": "Today’s Decoder episode is a special one: I’m talking to Zocdoc CEO Oliver Kharraz, and we chatted live onstage at the TechFutures conference here in New York City.&#160; You’re almost certainly familiar with Zocdoc — it’s a platform that helps people find and book appointments with doctors. It’s a classic of the early app economy, [&#8230;]",
-      "published": "2025-10-20T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD-Oliver-Kharraz.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "These nonprofits lobbied to regulate OpenAI — then the subpoenas came",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring",
-      "summary": "On August 19th at 7:07PM, Tyler Johnston received a message from his roommate. A man, the text said, was knocking on their door with legal documents to serve. Johnston is the founder of The Midas Project: a nonprofit that monitors the practices of \"leading AI companies to ensure transparency, privacy, and ethical standards are maintained.\" [&#8230;]",
-      "published": "2025-10-20T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258009_OpenAI_intimidation_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
