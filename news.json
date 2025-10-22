@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-10-22T06:35:52.504606",
+  "lastUpdated": "2025-10-22T12:52:06.723200",
   "articles": [
+    {
+      "title": "Life360 ventures into pet tech with the launch of a new GPS tracker",
+      "link": "https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/",
+      "summary": "Family location safety app Life360 is venturing into pet tech with the launch of its new tracking device for cats and dogs.",
+      "published": "Wed, 22 Oct 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Pet-GPS-Pink-Punch.jpg?w=1200"
+    },
+    {
+      "title": "One startup’s quest to store electricity in the ocean",
+      "link": "https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/",
+      "summary": "Sizable Energy has a plan to store excess renewable energy in flexible reservoirs out at sea. The startup has raised $8 million to test prototypes.",
+      "published": "Wed, 22 Oct 2025 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Sizable-floating-reservoir-prototype.jpg?resize=1200,675"
+    },
     {
       "title": "Hundreds of Power Players, From Steve Wozniak to Steve Bannon, Just Signed a Letter Calling for Prohibition on Development of AI Superintelligence",
       "link": "https://futurism.com/artificial-intelligence/steve-wozniak-steve-bannon-letter-ai-superintelligence",
@@ -12,7 +28,7 @@
     {
       "title": "Netflix goes ‘all in’ on generative AI as entertainment industry remains divided",
       "link": "https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/",
-      "summary": "Netflix is using AI for special effects and pre-production, but CEO Ted Sarandos that Netflix \"not worried about AI replacing creativity.\"",
+      "summary": "Netflix isn't planning to use generative AI as the backbone of its content but believes the technology has potential as a tool to make creatives more efficient.",
       "published": "Tue, 21 Oct 2025 22:21:46 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240099721.jpeg?resize=1200,800"
@@ -130,14 +146,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_4487.jpg?resize=1200,675"
     },
     {
-      "title": "Google Fi to add AI-enhanced audio and RCS web messaging",
-      "link": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/",
-      "summary": "The tech giant says calls will now use AI-enhanced audio to reduce background noise and improve voice clarity, even when speaking to someone on a landline or older device.",
-      "published": "Tue, 21 Oct 2025 18:23:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/rubaitul-azad-pBaJRaF4x9Q-unsplash.jpg?resize=1200,810"
-    },
-    {
       "title": "“Butt breathing” might soon be a real medical treatment",
       "link": "https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/",
       "summary": "Ig Nobel-winning research could one day be used to treat people with blocked airways or clogged lungs.",
@@ -152,14 +160,6 @@
       "published": "Tue, 21 Oct 2025 18:02:36 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/cards-against-elon-musk-1152x648.jpg"
-    },
-    {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025",
-      "link": "https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "published": "Tue, 21 Oct 2025 17:54:28 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700"
     },
     {
       "title": "M5 iPad Pro tested: Stop me if you’ve heard this one before",
@@ -242,6 +242,70 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/evidence-co2-ice-burrowing-surface-mars.jpg?quality=85"
     },
     {
+      "title": "New Linux kernel patch lets you cancel hibernation mid-process",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/linux_hibernation_patch/",
+      "summary": "<h4>RFC proposes power-button interrupt – and highlights wider problems with sleep states</h4> <p>A new Linux kernel patch lets you cancel the process of your machine going into hibernation, but the bigger context of the work may be more important.…</p>",
+      "published": "2025-10-22T12:10:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/22/shutterstock_hibernation.jpg"
+    },
+    {
+      "title": "AI bubble inflates Microsoft CEO pay to $96.5M",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/microsoft_nadella_pay/",
+      "summary": "<h4>480:1 ratio compared to average employee? Must be all that 'leadership' juice</h4> <p>Months after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.…</p>",
+      "published": "2025-10-22T11:23:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/02/05/nadella_wall.jpg"
+    },
+    {
+      "title": "Jaguar Land Rover cyber-meltdown tipped to cost the UK almost £2B",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/jaguar_lander_rover_cost/",
+      "summary": "<h4>That's a lot of extended warranties</h4> <p>The Jaguar Land Rover (JLR) cyberattack could end up being the costliest such incident in UK history, billed at an estimated £1.9 billion and affecting over 5,000 organizations.…</p>",
+      "published": "2025-10-22T10:29:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/22/shutterstock_jlrdealersign.jpg"
+    },
+    {
+      "title": "China's CR450 bullet train clocks 453 km/h in pre-service tests",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/china_cr450_450_kmh/",
+      "summary": "<h4>Wheeled wonder leaves European rail in the dust</h4> <p>China's CR450 train hit 453 km/h during pre-service trials, surpassing its CR400 predecessor's 420 km/h and outpacing Deutsche Bahn's 405 km/h test record.…</p>",
+      "published": "2025-10-22T09:30:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/10/20/hyperloop_highspeed_train.jpg"
+    },
+    {
+      "title": "Royal Navy sharpens claws on Wildcat choppers with anti-drone Martlet missiles",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/royal_navy_martlet/",
+      "summary": "<h4>Laser-guided weapon reaches full service after successful sea trials</h4> <p>Royal Navy helicopters will soon carry drone-busting lightweight Martlet missiles, now declared fully operational following the anti-ship Sea Venom gaining initial operating capability (IOC) earlier this month.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-22T08:45:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/21/wildcatwithmartlettype45.jpg"
+    },
+    {
+      "title": "Carnegie Mellon team claims vector-based system can turbocharge PostgreSQL",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/cmu_proto_x_postgres/",
+      "summary": "<h4>Researchers say 'Proto-X' fine-tunes databases automatically, delivering multifold performance boosts</h4> <p>Automated database systems based on vector embedding algorithms could improve the performance of default settings on common PostgreSQL database services by a factor of two to ten, according to a database researcher.…</p>",
+      "published": "2025-10-22T08:00:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/11/09/shutterstock_engine_tuning.jpg"
+    },
+    {
+      "title": "UK data regulator defends decision not to investigate MoD Afghan data breach",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/ico_afghan_leak_probe/",
+      "summary": "<h4>ICO says probe unnecessary after reviewing ministry's handling of leak</h4> <p>The UK's data protection regulator declined to launch an investigation into a leak at the Ministry of Defence that risked the lives of thousands of Afghans connected with the British Armed Forces.…</p>",
+      "published": "2025-10-22T07:15:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/08/18/shutterstock_afghanistan.jpg"
+    },
+    {
+      "title": "Uber will pay drivers $4,000 to switch to EVs",
+      "link": "https://www.theverge.com/news/802983/uber-electric-ev-driver-4000-grant-price",
+      "summary": "As it rushes to meet its pledge for “100 percent” of trips in electric vehicles by 2030, Uber is offering grants of $4,000 for drivers to swap their gas-guzzlers for zero-tailpipe emission vehicles. The company is also dropping its “Uber Green” branding in favor of the more simple “Uber Electric.” Uber has said it will [&#8230;]",
+      "published": "2025-10-22T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK437_ELECTRIC_VEHICLE_EVS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Google porting all internal workloads to Arm, with help from GenAI",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/google_multi_arch_x86_arm_port/",
       "summary": "<h4>YouTube and Gmail already running on both x86 and homebrew Axion silicon, 70,000 more apps in the conversion queue</h4> <p>Google has revealed it’s ported around 30,000 of its production packages to the Arm architecture and plans to convert them all so it can run workloads on both its own Axion silicon and x86 processors.…</p>",
@@ -280,22 +344,6 @@
       "published": "2025-10-21T21:42:56-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI eats leisure time, makes employees work more, study finds",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/ai_eats_leisure_time/",
-      "summary": "<h4>Rise and grind, robot overlords demand</h4> <p>AI services like OpenAI's ChatGPT have been pitched for potential productivity gains, but their effect has been to make people work more while benefiting less from their labor.…</p>",
-      "published": "2025-10-21T20:35:59.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/11/05/shutterstock_overload.jpg"
-    },
-    {
-      "title": "MCP attack abuses predictable session IDs to hijack AI agents",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/",
-      "summary": "<h4>The vuln affects the Oat++ MCP implementation</h4> <p>A security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious responses via the oatpp-mcp server.…</p>",
-      "published": "2025-10-21T19:36:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/03/28/web_snoop_shutterstock.jpg"
     },
     {
       "title": "Netflix is &#8216;judiciously&#8217; expanding into interactive experiences",
@@ -338,22 +386,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/aws_outage_aftermath/",
-      "summary": "<h4>Amazon's hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos</h4> <p>When Amazon's cloud face-planted on Monday, it didn't just take down some of the world's most popular apps – it took down dignity, comfort, and the occasional cat toilet.…</p>",
-      "published": "2025-10-21T16:05:04.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/21/smart_home.jpg"
-    },
-    {
-      "title": "Is PHP declining? JetBrains says yes. And no",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/massive_jetbrains_dev_survey/",
-      "summary": "<h4>24,500 devs polled, two blog posts, one confusion</h4> <p>JetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI's impact on developer tools and programming language trends - including the claim that PHP and Ruby are in \"long term decline.\"…</p>",
-      "published": "2025-10-21T15:56:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/05/16/php_image_via_shutterstock.jpg"
-    },
-    {
       "title": "Anker’s latest noise-canceling sleep earbuds are nearly $40 off",
       "link": "https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale",
       "summary": "If you’re a light sleeper who needs complete silence before dozing off, Anker’s Soundcore Sleep A30 are built for you. Luckily, right now, the wireless sleep buds are on sale at Amazon, Walmart, and Best Buy for $193.99 ($36 off), which is just shy of the price drop we saw during Amazon’s most recent Prime [&#8230;]",
@@ -368,38 +400,6 @@
       "published": "2025-10-21T15:25:06-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit",
-      "link": "https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default",
-      "summary": "Although Apple said in a recent court filing that Jon Prosser “still has not” replied to the company’s July lawsuit against him for allegedly stealing trade secrets, Prosser tells The Verge that he is in communication with Apple about the case. “All I can tell you is that regardless of what is being reported, and [&#8230;]",
-      "published": "2025-10-21T15:09:31-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/videoframe_5445.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Introducing NTFSplus – because just one NTFS driver for Linux is never enough",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/ntfsplus_new_rw_driver/",
-      "summary": "<h4>Dev unveils a faster, modernized take on Microsoft's file system for penguin-powered PCs</h4> <p>Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.…</p>",
-      "published": "2025-10-21T14:01:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/12/19/shutterstock_adelie_penguin.jpg"
-    },
-    {
-      "title": "Microsoft's ancient icon library still lurks deep within Windows 11",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/windows_pifmgr_chen/",
-      "summary": "<h4>Pixels of the past 'created just for fun'</h4> <p>The <code>pifmgr.dll</code> still lingers in modern Windows installations - a throwback to a simpler and blockier time, according to veteran Microsoft engineer Raymond Chen.…</p>",
-      "published": "2025-10-21T13:25:55.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/08/25/microsoft_windows_95_logo.jpg"
-    },
-    {
-      "title": "SpaceX is behind schedule, so NASA will open Artemis III contract to competition",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/",
-      "summary": "<h4>Lunar landing reality distortion field slips for Musk's rocketeers</h4> <p>NASA's Acting Administrator has admitted that SpaceX is behind in plans to return astronauts to the Moon, has reopened lander contract competition, and pushed the deadline for a lunar landing to the end of the Trump administration in 2029.…</p>",
-      "published": "2025-10-21T12:31:44.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/08/14/shutterstock_moon.jpg"
     }
   ]
 }
