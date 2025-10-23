@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2025-10-22T18:35:39.829199",
+  "lastUpdated": "2025-10-23T01:49:24.349845",
   "articles": [
+    {
+      "title": "Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly",
+      "link": "https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/",
+      "summary": "Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.",
+      "published": "Wed, 22 Oct 2025 23:05:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800"
+    },
+    {
+      "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+      "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
+      "summary": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
+      "published": "Wed, 22 Oct 2025 22:35:41 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg"
+    },
+    {
+      "title": "Tesla profits fall 37% in Q3 despite healthy sales",
+      "link": "https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/",
+      "summary": "A loss of regulatory credits and increased expenses didn't help.",
+      "published": "Wed, 22 Oct 2025 21:42:47 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/tesladown-1024x648.jpg"
+    },
+    {
+      "title": "Snapchat makes its first open prompt AI Lens available for free in the US",
+      "link": "https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/",
+      "summary": "Snapchat is expanding access to its AI-powered “Imagine Lens,” allowing all users to generate and edit images with custom prompts for free.",
+      "published": "Wed, 22 Oct 2025 21:25:30 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Imagine_Lens_16x9.jpg?resize=1200,675"
+    },
+    {
+      "title": "Why Cohere’s ex-AI research lead is betting against the scaling race",
+      "link": "https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/",
+      "summary": "Cohere's former VP of AI research, Sara Hooker, is launching a new startup to build AI models that can adapt to their environment.",
+      "published": "Wed, 22 Oct 2025 20:52:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200"
+    },
+    {
+      "title": "OpenAI requested memorial attendee list in ChatGPT suicide lawsuit",
+      "link": "https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/",
+      "summary": "The new information comes as the Raines family updated its lawsuit against OpenAI. The family first filed a wrongful death suit against OpenAI in August after alleging their son had taken his own life following conversations with the chatbot about his mental health and suicidal ideation.",
+      "published": "Wed, 22 Oct 2025 20:49:19 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
+    },
+    {
+      "title": "This may be the most bonkers tech job listing I’ve ever seen",
+      "link": "https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/",
+      "summary": "Don't even apply if you're not a Tier 1 \"A-player.\"",
+      "published": "Wed, 22 Oct 2025 20:45:23 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1149297973-1152x648-1761164087.jpg"
+    },
+    {
+      "title": "General Motors will integrate AI into its cars, plus new hands-free assist",
+      "link": "https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/",
+      "summary": "Do we want LLMs in our cars? GM thinks we do.",
+      "published": "Wed, 22 Oct 2025 20:29:11 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1776398279-1152x648.jpg"
+    },
+    {
+      "title": "Health plan enrollment period is set to be horrifying for everyone this year",
+      "link": "https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/",
+      "summary": "Some marketplace premiums could more than double. Employer-based plans are soaring.",
+      "published": "Wed, 22 Oct 2025 20:23:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-148302547-1152x648.jpg"
+    },
+    {
+      "title": "When sycophancy and bias meet medicine",
+      "link": "https://arstechnica.com/health/2025/10/when-sycophancy-and-bias-meet-medicine/",
+      "summary": "Biased, eager-to-please models threaten health research replicability and trust.",
+      "published": "Wed, 22 Oct 2025 19:46:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2214872699-1152x648.jpg"
+    },
+    {
+      "title": "OpenAI’s Atlas is more about ChatGPT than the web",
+      "link": "https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/",
+      "summary": "OpenAI's new browser is a surface for the company to distribute ChatGPT and develop new AI features rather than improving core web experience.",
+      "published": "Wed, 22 Oct 2025 18:51:43 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Homepage.jpeg?resize=1200,675"
+    },
     {
       "title": "Amazon unveils AI smart glasses for its delivery drivers",
       "link": "https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/",
@@ -10,12 +98,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/amazon-glasses.png?resize=1200,667"
     },
     {
+      "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
+      "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
+      "summary": "Starlink not allowed in Myanmar, but scammers reportedly use it \"on a huge scale.\"",
+      "published": "Wed, 22 Oct 2025 18:26:38 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-myanmar-1152x648-1761154369.jpg"
+    },
+    {
+      "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800",
+      "link": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
+      "summary": "It may not be as spendy as the Vision Pro, but $1,800 is still a lot.",
+      "published": "Wed, 22 Oct 2025 18:12:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung-Mobile-Galaxy-XR-Multimodal-AI-Android-XR-Opening-New-Worlds_main1.jpg"
+    },
+    {
       "title": "Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also",
       "link": "https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/",
       "summary": "The pedal-assist cargo quad vehicles are narrow delivery vans that can operate in a bike lane.",
       "published": "Wed, 22 Oct 2025 18:09:41 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Also-quad-cargo-commercial.jpg?resize=1200,900"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/amazon-prime-also-.jpeg?resize=1200,675"
     },
     {
       "title": "Should you trust Tools for Humanity’s iris-scanning orb?",
@@ -24,6 +128,14 @@
       "published": "Wed, 22 Oct 2025 18:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/12/World-ID-with-Orb.png?resize=1200,675"
+    },
+    {
+      "title": "AWS outage reminds us why $2,449 Internet-dependent beds are a bad idea",
+      "link": "https://arstechnica.com/gadgets/2025/10/smart-beds-leave-sleepers-hot-and-bothered-during-aws-outage/",
+      "summary": "“Would be great if my bed wasn’t stuck in an inclined position ...\"",
+      "published": "Wed, 22 Oct 2025 17:57:10 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Eight-Sleep-Pod-5-Product-Full-System-1152x648.jpeg"
     },
     {
       "title": "What’s Updog? Datadog’s new tool tells you which apps are down",
@@ -42,20 +154,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/also-rivian-event-02.jpeg?resize=1200,675"
     },
     {
-      "title": "Apple confirms it pulled controversial dating apps Tea & TeaOnHer from the App Store",
-      "link": "https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/",
-      "summary": "Apple has pulled the controversial dating safety apps Tea and TeaOnHer from the App Store over violations of its content moderation and privacy rules, following a flood of user complaints and reports of minors’ data being exposed",
-      "published": "Wed, 22 Oct 2025 17:32:14 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/tea-app.jpg?resize=1200,559"
-    },
-    {
-      "title": "Instagram rolls out custom icons…but only for teens",
-      "link": "https://techcrunch.com/2025/10/22/instagram-rolls-out-custom-icons-but-only-for-teens/",
-      "summary": "Instagram introduced custom app icons for its teen accounts, but not everyone is thrilled. In replies to the company’s post on X, users criticized the feature for being age-gated, arguing that adults like personalization, too.",
-      "published": "Wed, 22 Oct 2025 17:07:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/10/instagram-app-icon.jpg?resize=1200,675"
+      "title": "OpenAI Faces New Allegations in Teen’s Death",
+      "link": "https://futurism.com/artificial-intelligence/openai-new-allegations-teen-death",
+      "summary": "<p>\"We expect to prove to a jury that OpenAI's decisions to degrade the safety of its products were made with full knowledge that they would lead to innocent deaths,\" </p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-new-allegations-teen-death\">OpenAI Faces New Allegations in Teen’s Death</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 22 Oct 2025 17:33:13 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/openai-new-allegations-teen-death.jpg?quality=85"
     },
     {
       "title": "Google has a useful quantum algorithm that outperforms a supercomputer",
@@ -66,28 +170,20 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GoogleQuantumAI_WillowChip_Closeup03-1152x648.jpg"
     },
     {
-      "title": "Tinder will require new users in the US to verify their identity with a selfie",
-      "link": "https://techcrunch.com/2025/10/22/tinder-will-require-new-users-in-the-us-to-verify-their-identity-with-a-selfie/",
-      "summary": "The facial verification feature, known as Face Check, requires new users to verify their identity by submitting a short video selfie.",
-      "published": "Wed, 22 Oct 2025 16:33:25 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/TinderFaceCheck2.png?w=1200"
+      "title": "Alan Hamel Says He’s Created an AI Clone of His Deceased Wife Suzanne Somers That’s So Good He Can’t Tell the Difference",
+      "link": "https://futurism.com/artificial-intelligence/alan-hamel-ai-clone-wife-suzanne-somers",
+      "summary": "<p>\"I really can't tell which one is the real and which one is the AI.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/alan-hamel-ai-clone-wife-suzanne-somers\">Alan Hamel Says He&#8217;s Created an AI Clone of His Deceased Wife Suzanne Somers That&#8217;s So Good He Can&#8217;t Tell the Difference</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 22 Oct 2025 16:28:52 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/alan-hamel-ai-clone-wife-suzanne-somers.jpg?quality=85"
     },
     {
-      "title": "GM is bringing Google Gemini-powered AI assistant to cars in 2026",
-      "link": "https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/",
-      "summary": "GM is the latest automaker to lean into generative AI-based assistants that promise to respond to driver requests in a more natural-sounding way. Stellantis is collaborating with French AI firm Mistral, Mercedes is integrating ChatGPT, and Tesla has brought xAI’s Grok to its vehicles.",
-      "published": "Wed, 22 Oct 2025 15:51:03 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786"
-    },
-    {
-      "title": "Meta cuts 600 AI jobs amid ongoing reorganization",
-      "link": "https://techcrunch.com/2025/10/22/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/",
-      "summary": "Meta continues to restructure its AI efforts after poaching more than 50 researchers from competing labs this summer.",
-      "published": "Wed, 22 Oct 2025 15:08:18 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024"
+      "title": "AWS Outage That Took Down Internet Came After Amazon Fired Tons of Workers in Favor of AI",
+      "link": "https://futurism.com/artificial-intelligence/aws-outage-amazon-fired-workers-ai",
+      "summary": "<p>\"As we roll out more Generative AI and agents, it should change the way our work is done.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/aws-outage-amazon-fired-workers-ai\">AWS Outage That Took Down Internet Came After Amazon Fired Tons of Workers in Favor of AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 22 Oct 2025 15:23:33 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/aws-outage-amazon-fired-workers-ai.jpg?quality=85"
     },
     {
       "title": "Zuckerberg Firing Hundreds of AI Developers After Hiring Spree",
@@ -96,14 +192,6 @@
       "published": "Wed, 22 Oct 2025 14:32:23 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/zuckerberg-firing-hundreds-ai-developers.jpg?quality=85"
-    },
-    {
-      "title": "Jaguar Land Rover looking at $2.5 billion price tag from crippling cyberattack",
-      "link": "https://arstechnica.com/security/2025/10/jaguar-land-rover-struggling-8-weeks-after-most-expensive-uk-cyberattack/",
-      "summary": "Incident was likely the most economically damaging cyber event in UK history.",
-      "published": "Wed, 22 Oct 2025 13:39:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/landroverline-1152x648.jpg"
     },
     {
       "title": "China Found Something Fascinating on the Far Side of the Moon",
@@ -154,92 +242,68 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/steve-wozniak-steve-bannon-letter-ai-superintelligence.jpg?quality=85"
     },
     {
-      "title": "FDA slows down on drug reviews, approvals amid Trump admin chaos",
-      "link": "https://arstechnica.com/health/2025/10/fda-slows-down-on-drug-reviews-approvals-amid-trump-admin-chaos/",
-      "summary": "The ongoing shutdown also means no new drug submissions are being accepted.",
-      "published": "Tue, 21 Oct 2025 20:08:42 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-1152x648.jpg"
+      "title": "IBM renting GPUs from rivals rather than packing ‘em into its own cloud",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/ibm_q3_2025/",
+      "summary": "<h4>Infra revenue soars and AI helps everything … except the share price</h4> <p>If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own “Project Bob” developer assistance tools have improved productivity among its coders by 45 percent.…</p>",
+      "published": "2025-10-23T01:23:36.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/12/08/shutterstock_ibm_cloud_editorial_only.jpg"
     },
     {
-      "title": "It’s troll vs. troll in Netflix’s Troll 2 trailer",
-      "link": "https://arstechnica.com/culture/2025/10/troll-2-trailer-is-a-godzilla-inspired-monster-mash/",
-      "summary": "Norwegian director Roar Uthaug's sequel to his 2022 film <em>Troll</em> knows to not take itself too seriously.",
-      "published": "Tue, 21 Oct 2025 19:58:37 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/troll1-1152x648-1761073850.jpg"
+      "title": "OpenAI's Atlas shrugs off security concerns over prompt injection",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/",
+      "summary": "<h4>'Trust no AI' says one researcher</h4> <p>OpenAI's brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.…</p>",
+      "published": "2025-10-22T23:49:00.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/22/atlas_holds_earth.jpg"
     },
     {
-      "title": "Elon Musk just declared war on NASA’s acting administrator, apparently",
-      "link": "https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/",
-      "summary": "\"Sean said that NASA might benefit from being part of the Cabinet.\"",
-      "published": "Tue, 21 Oct 2025 19:45:32 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/54441425446_25b87f0fd0_k-1152x648.jpg"
+      "title": "Ex-Uber CSO is gellin' like a felon with teen cyber crims, explains why they do it",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/exuber_cso_joe_sullivan_interview/",
+      "summary": "<h4>Meanwhile Sullivan's legal battle continues</h4> <p><strong>interview</strong>  Two convicted felons walk into a room at the request of a federal judge who wanted one of them - Joe Sullivan, the former Uber chief security officer found guilty of attempting to cover up a 2016 breach at the rideshare company - to help rehabilitate the other, whom the feds accused of hacking into corporate networks as a teen and participating in a \"significant\" digital heist.…</p>",
+      "published": "2025-10-22T22:33:37.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/22/ex_uber_cso_joe_sullivan.jpg"
     },
     {
-      "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass",
-      "link": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/",
-      "summary": "Apple backs down from some aspects of Liquid Glass, but not others.",
-      "published": "Tue, 21 Oct 2025 19:12:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_6225-1152x648.jpg"
+      "title": "NextSilicon Maverick-2 promises to blow away the HPC market Nvidia left behind",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/nextsilicon_maverick2_fill_nvidia_hpc_void/",
+      "summary": "<h4>The one chip startup building accelerators for something other than AI boasts performance up 10x that of modern GPUs using a fraction the power</h4> <p>Researchers and engineers working in particle physics, materials analysis, or drug discovery haven't exactly been spoiled for choice when it comes to chips capable of the highly precise double-precision calculations that these workloads depend. NextSilicon aims to change that with Maverick-2, a chip aimed not at AI but the high-performance computing (HPC) community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-22T21:35:44.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/22/maverick_2_oam.jpg"
     },
     {
-      "title": "OpenAI looks for its “Google Chrome” moment with new Atlas web browser",
-      "link": "https://arstechnica.com/ai/2025/10/openais-new-atlas-web-browser-wants-to-let-you-chat-with-a-page/",
-      "summary": "MacOS version launches today, includes Agent Mode preview to \"use the Internet for you.\"",
-      "published": "Tue, 21 Oct 2025 19:02:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/atlaslogo.jpg"
+      "title": "Amazon claims the headline isn&#8217;t robots taking jobs as it reveals new cost-cutting robots",
+      "link": "https://www.theverge.com/news/805098/amazon-robots-ai-warehouses",
+      "summary": "A New York Times report on Tuesday cited internal Amazon documents touting how its shift into automation could help it sell more products without hiring more people, but today the company has issued a PR blast about robotics and delivery tech that is much sunnier. Along with a tease of AI-connected augmented reality smart glasses [&#8230;]",
+      "published": "2025-10-22T20:50:44-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "YouTube’s likeness detection has arrived to help stop AI doppelgängers",
-      "link": "https://arstechnica.com/google/2025/10/youtube-rolls-out-likeness-detection-to-help-creators-combat-ai-fakes/",
-      "summary": "Likeness detection will flag possible AI fakes, but Google doesn't guarantee removal.",
-      "published": "Tue, 21 Oct 2025 18:46:42 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-1152x648.jpg"
+      "title": "Reddit to Perplexity: Get your filthy hands off our forums",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/reddit_sues_perplexity/",
+      "summary": "<h4>Social media site continues legal campaign against those who take its content without a license</h4> <p>Reddit on Wednesday filed a lawsuit against Perplexity AI and three of its alleged data dealers for trafficking in unlawfully scraped information.…</p>",
+      "published": "2025-10-22T19:40:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/08/01/shutterstock_reddit_logo.jpg"
     },
     {
-      "title": "Satellite operators will soon join airlines in using Starlink in-flight Wi-Fi",
-      "link": "https://arstechnica.com/space/2025/10/satellite-operators-will-soon-join-airlines-in-using-starlink-in-flight-wi-fi/",
-      "summary": "\"This starts to enable a whole new category of capabilities.\"",
-      "published": "Tue, 21 Oct 2025 18:30:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink_laser-1152x648.jpg"
+      "title": "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’",
+      "link": "https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk",
+      "summary": "Tesla CEO Elon Musk predicted the company would be able to remove the safety monitors from its robotaxis \"by the end of the year.\" He also said Tesla would launch a robotaxi service in 8-10 new markets also before the end of 2025. \"We are expecting to have no safety drivers in at least large [&#8230;]",
+      "published": "2025-10-22T18:59:25-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "“Butt breathing” might soon be a real medical treatment",
-      "link": "https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/",
-      "summary": "Ig Nobel-winning research could one day be used to treat people with blocked airways or clogged lungs.",
-      "published": "Tue, 21 Oct 2025 18:12:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/ignobel3-1152x648.jpg"
-    },
-    {
-      "title": "Oops! The AWS Outage Took Down Everybody’s Bored Apes",
-      "link": "https://futurism.com/future-society/aws-outage-bored-apes",
-      "summary": "<p>\"Cannot load image.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/aws-outage-bored-apes\">Oops! The AWS Outage Took Down Everybody&#8217;s Bored Apes</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 21 Oct 2025 16:43:33 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/bored-apes-aws.jpg?quality=85"
-    },
-    {
-      "title": "AI Slop Now Invading Spotify’s Discover Weekly Lists",
-      "link": "https://futurism.com/artificial-intelligence/ai-slop-invading-spotify-discover-weekly-playlists",
-      "summary": "<p>\"Discover Weekly is unusable now cause it is just full of AI slop.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-slop-invading-spotify-discover-weekly-playlists\">AI Slop Now Invading Spotify&#8217;s Discover Weekly Lists</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 21 Oct 2025 15:27:57 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/ai-slop-invading-spotify-discover-weekly-playlists.jpg?quality=85"
-    },
-    {
-      "title": "OpenAI Announces Browser-Based AI Agent for “Vibe Lifing”",
-      "link": "https://futurism.com/artificial-intelligence/openai-browser-vibe-lifing",
-      "summary": "<p>OpenAI wants you to delegate \"all sorts of tasks, both in your personal and professional life,\" to its new AI browser agent.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-browser-vibe-lifing\">OpenAI Announces Browser-Based AI Agent for &#8220;Vibe Lifing&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 21 Oct 2025 14:15:23 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/openai-browser-vibe-lifing.jpg?quality=85"
+      "title": "Here are Amazon’s smart delivery glasses that guide drivers and scan packages",
+      "link": "https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages",
+      "summary": "Remember when word got out that Amazon was building smart glasses for its delivery drivers before possibly launching a version for consumers as well? Amazon has just revealed those “Amelia” glasses to the world — with a built-in display and an always-on camera to assist drivers as they go. They can help drivers find the [&#8230;]",
+      "published": "2025-10-22T18:27:04-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Salt Typhoon hit governments on three continents with SharePoint attacks",
@@ -250,12 +314,52 @@
       "image_url": "https://regmedia.co.uk/2025/10/22/typhoon.jpg"
     },
     {
+      "title": "Fandom&#8217;s CEO has left the company",
+      "link": "https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure",
+      "summary": "After six years as Fandom&#8217;s CEO, Perkins Miller is parting ways with the popular wiki hosting platform. While there has yet to be an official announcement, The Verge has learned that Miller is no longer working for Fandom as of last week. In a statement sent to The Verge on Fandom&#8217;s behalf, Katie Schroeder confirmed [&#8230;]",
+      "published": "2025-10-22T17:27:26-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/FandomLogo.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Lomography made a new film camera that charges with USB-C",
+      "link": "https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs",
+      "summary": "Lomography announced a new Lomo MC-A film camera, a 35mm format point-and-shoot with a fixed 32mm f/2.8 lens and metal body. It’s a charmer of a new film shooter, complete with a built-in flash, autofocusing glass lens, manual film advance lever, and an included CR2 battery that recharges via USB-C. The MC-A is available for [&#8230;]",
+      "published": "2025-10-22T17:03:27-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/lomo-mca__black-qrt-right__on-grey_2_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "TI CEO says some customers still wary of Trump's import tax roulette",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/tales_of_tariff_trepidation_at/",
       "summary": "<h4>Company shares lost value on slow-than-expected sales</h4> <p>The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according to Texas Instruments.…</p>",
       "published": "2025-10-22T16:57:01.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/07/10/tariff_us.jpg"
+    },
+    {
+      "title": "Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes",
+      "link": "https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery",
+      "summary": "Amazon and Rivian are back together again. The e-commerce giant is collaborating with Rivian’s Also spinoff on a custom-designed, pedal-assisted, four-wheel cargo bike. The bike would likely be based on the TM-Q quad vehicle that was unveiled by Also today in San Francisco. Amazon says it wants to expand its fleet of micromobility vehicles with [&#8230;]",
+      "published": "2025-10-22T16:54:56-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/20251015_Also-Studio_017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Criterion’s entire stock of Blu-rays are half off for a very limited time",
+      "link": "https://www.theverge.com/tech/804849/criterions-entire-stock-of-blu-rays-are-half-off-for-a-very-limited-time",
+      "summary": "Criterion recently kicked off its semi-annual sale that slashes the cost of all of its in-stock Blu-rays, DVDs, and box sets. The sale will last through 12PM ET, October 23rd. This a great opportunity to save on deep cuts that aren’t typically discounted. However, it likely won’t be the last chance to get a deal [&#8230;]",
+      "published": "2025-10-22T16:49:48-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25684860/Mikey_Madison_as_Ani._Courtesy_of_NEON.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "HBO Max now lets you rate shows and movies",
+      "link": "https://www.theverge.com/news/804839/hbo-max-ratings-system-recommendations",
+      "summary": "HBO Max is rolling out a new rating system that allows you to share feedback about the shows and movies you watch. The streaming service will tweak your recommendations based on whether you select the “Love,” “Like,” or “Not For Me” options. When you say that you “Love” a show or movie, HBO Max will [&#8230;]",
+      "published": "2025-10-22T16:37:19-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/max-rating-option.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "AlmaLinux gives Btrfs a home after Red Hat kicked it out",
@@ -274,132 +378,28 @@
       "image_url": "https://regmedia.co.uk/2017/02/28/shutterstockaxe.jpg"
     },
     {
+      "title": "Tesla’s revenues rebound as consumers race to claim expiring tax credit",
+      "link": "https://www.theverge.com/news/803886/tesla-q3-2025-earnings-revenue-profit-ev-elon-musk",
+      "summary": "Tesla reported a profitable third quarter today, as shoppers scrambled to snatch up the company’s EVs in record numbers before the federal EV tax credit expired. Tesla said it earned $1.4 billion in net income on $28.1 billion in revenue in the quarter that ended in September. That’s 12 percent increase in revenue but a 37 [&#8230;]",
+      "published": "2025-10-22T16:08:51-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The best doorbell cameras",
+      "link": "https://www.theverge.com/22954554/best-video-doorbell-camera",
+      "summary": "With a smart video doorbell, your front door’s communication skills go from 1980s landline to a modern smartphone. Combining a motion-activated camera with a microphone, speaker, and buzzer, a doorbell camera sends alerts to your phone, allowing you to see who’s at the door without needing to open it or even be at home. Whether [&#8230;]",
+      "published": "2025-10-22T16:01:16-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25679694/247327_Buying_Guide_Doorbells_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Grounded jet engines take off again as datacenter generators",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/datacenter_jet_engines/",
       "summary": "<h4>AI power demands drive operators to repurpose aircraft parts amid gas turbine shortages</h4> <p>AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.…</p>",
       "published": "2025-10-22T15:30:13.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/10/22/shutterstock_jetengine.jpg"
-    },
-    {
-      "title": "Dropping Nvidia for Amazon's custom chips helped gene therapy startup Metagenomi cut AI bill 56%",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/aws_metagenomi_ai_inferentia/",
-      "summary": "<h4>It's not the size of your accelerator, it's how you use it</h4> <p>Gene editing startup Metagenomi has tapped AWS's Inferentia 2 accelerators to speed the discovery of potentially life-saving therapies, and said its efforts cost 56 percent less than it would have incurred using Nvidia GPUs.…</p>",
-      "published": "2025-10-22T14:43:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/08/11/dna_circuit_board_shutterstock.jpg"
-    },
-    {
-      "title": "UK competition cops brand Apple, Google with 'strategic market status' for mobile",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/google_apple_sms_uk/",
-      "summary": "<h4>Designation hands CMA broad oversight of their app stores and platforms</h4> <p>The UK's competition watchdog has officially slapped Apple and Google with \"strategic market status,\" a new legal label that gives the regulator far-reaching powers to rein in how the tech giants run their empires.…</p>",
-      "published": "2025-10-22T14:11:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/05/24/shutterstock_google_play.jpg"
-    },
-    {
-      "title": "This magnetic Qi 2.2 powerbank looks like a classic Sony Cybershot",
-      "link": "https://www.theverge.com/news/804531/sharge-icemag-3-magsafe-qi-2-2-sony-cybershot",
-      "summary": "When it comes to inventive USB-C accessories with rad designs, nobody does it like Sharge. Now it’s following up its classic Mac-inspired chargers, its Braun turntable-inspired battery, and whatever the heck this is supposed to be, with a new MagSafe battery that specifically echoes Sony’s classic T-Series Cybershot cameras. It’s called the Icemag 3, and [&#8230;]",
-      "published": "2025-10-22T14:02:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sharge-vs-cybershot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Reddit sues Perplexity for allegedly ripping its content to feed AI",
-      "link": "https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit",
-      "summary": "Reddit is suing Perplexity and three “data-scraping service providers” to “stop the industrial-scale, unlawful circumvention of data protections by a group of bad actors who will stop at nothing to get their hands on valuable copyrighted content on Reddit,” according to the complaint. The company equates the data scraping companies — SerpApi, Oxylabs, and AWMProxy [&#8230;]",
-      "published": "2025-10-22T13:38:24-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Rivian’s first e-bike is unlike anything you’ve ever seen",
-      "link": "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad",
-      "summary": "Rivian’s micromobility spinoff Also has just taken the wraps off its TM-B e-bike, TM-Q pedal-assisted electric quad bike, and Alpha Wave helmet that represents “a breakthrough in rider safety and connectivity.”&#160; The TM-B (aka Transcendent Mobility &#8211; Bike) with its 24 x 2.6-inch wheels and integrated front- and rear-lighting looks and functions like nothing else [&#8230;]",
-      "published": "2025-10-22T13:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/250919_AdamWells_ALSO_R5A2023-R2-v2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Inside Rivian’s $4,500 electric bike gamble",
-      "link": "https://www.theverge.com/transportation/804163/rivian-also-tm-b-ebike-specs-price",
-      "summary": "Before RJ Scaringe founded the adventure-themed EV company Rivian, he was thinking about bikes. Well, not bikes exactly. More like pedal-powered hybrid microcars and other forms of alternative transportation. This was three years before Scaringe launched Rivian, and nearly 13 years before the company eventually came out of stealth. By then, Scaringe had decided against [&#8230;]",
-      "published": "2025-10-22T13:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Wide_Solo_ALSO_a71963.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Forking confusing: Vulnerable Rust crate exposes uv Python packager",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/vulnerable_rust_crate/",
-      "summary": "<h4>Forks of forks of forks, but which ones are patched?</h4> <p>A vulnerability in the popular Rust crate async-tar has affected the fast uv Python package manager, which uses a forked version that's now patched – but the most widely downloaded version remains unfixed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-22T13:15:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/05/03/python_shutterstock.jpg"
-    },
-    {
-      "title": "The PlayStation 5 is $125 off straight from Sony",
-      "link": "https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale",
-      "summary": "If you’re looking to play games like Ghost of Yōtei or Death Stranding 2: On the Beach, you’re going to need a PlayStation 5. Luckily, right now, you can grab the console for as low as $374 directly through the PlayStation storefront with the code PS5KLARNA — and it doesn’t appear as though you need [&#8230;]",
-      "published": "2025-10-22T13:08:21-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072867/110923_new_Playstation_5_Slim_ADiBenedetto_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "GM will ditch Apple CarPlay and Android Auto on all its cars, not just EVs",
-      "link": "https://www.theverge.com/transportation/804562/gm-apple-carplay-android-auto-gas-cars-mary-barra",
-      "summary": "GM plans to drop support for phone projection on all new vehicles in the near future, and not just its electric car lineup, according to GM CEO Mary Barra. In a Decoder interview with The Verge’s Nilay Patel, published Wednesday, Barra confirmed GM will eventually end support of Apple CarPlay and Android Auto on both [&#8230;]",
-      "published": "2025-10-22T12:57:53-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK057_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Ring&#8217;s CEO says his cameras can almost &#8216;zero out crime&#8217; within the next 12 months",
-      "link": "https://www.theverge.com/tech/804052/ring-jamie-siminoff-book-ding-dong-release-date-interview",
-      "summary": "Jamie Siminoff has returned to Ring, the company he founded, with a renewed focus on its mission statement to \"Make neighborhoods safer.\" Talking to The Verge ahead of the release of his new book Ding Dong, Siminoff says he believes the new wave of AI could finally help him fulfill that vision. \"When I left, [&#8230;]",
-      "published": "2025-10-22T12:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Jamie-Siminoff-Headshot-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best Android phones",
-      "link": "https://www.theverge.com/23674658/best-android-phone",
-      "summary": "The Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine. On the flip side, all that choice can make for some hard decisions. Here’s [&#8230;]",
-      "published": "2025-10-22T12:12:17-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/247288_Phone_Buying_Guides_6_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "New Linux kernel patch lets you cancel hibernation mid-process",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/linux_hibernation_patch/",
-      "summary": "<h4>RFC proposes power-button interrupt – and highlights wider problems with sleep states</h4> <p>A new Linux kernel patch lets you cancel the process of your machine going into hibernation, but the bigger context of the work may be more important.…</p>",
-      "published": "2025-10-22T12:10:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/22/shutterstock_hibernation.jpg"
-    },
-    {
-      "title": "Anti-diversity activist Robby Starbuck is suing Google now",
-      "link": "https://www.theverge.com/news/804494/anti-diversity-activist-robby-starbuck-is-suing-google-now",
-      "summary": "Robby Starbuck is suing Google, claiming that its AI search tools falsely linked him to sexual assault allegations and white nationalist Richard Spencer. This is the second case that Starbuck, known for his online campaigns against corporate diversity efforts, has brought against a major tech company over its AI products. In April, Starbuck sued Meta, [&#8230;]",
-      "published": "2025-10-22T12:06:54-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "HBO’s Welcome to Derry series just ain’t it",
-      "link": "https://www.theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review",
-      "summary": "You've never had to wait all that long for Hollywood to adapt another one of Stephen King's tales, but the past couple of years have felt unusually flush with films and series based on the prolific author's work. Some of the recent projects, like Carrie, Children of the Corn, and 'Salem's Lot were duds that [&#8230;]",
-      "published": "2025-10-22T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/bill-skarsgard.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI bubble inflates Microsoft CEO pay to $96.5M",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/microsoft_nadella_pay/",
-      "summary": "<h4>480:1 ratio compared to average employee? Must be all that 'leadership' juice</h4> <p>Months after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.…</p>",
-      "published": "2025-10-22T11:23:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/02/05/nadella_wall.jpg"
     }
   ]
 }
