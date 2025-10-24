@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2025-10-23T18:34:12.901444",
+  "lastUpdated": "2025-10-24T01:45:30.070823",
   "articles": [
-    {
-      "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
-      "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
-      "summary": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
-      "published": "Wed, 22 Oct 2025 22:35:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg"
-    },
     {
       "title": "OpenAI Faces New Allegations in Teen’s Death",
       "link": "https://futurism.com/artificial-intelligence/openai-new-allegations-teen-death",
@@ -18,28 +10,108 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/openai-new-allegations-teen-death.jpg?quality=85"
     },
     {
-      "title": "Alan Hamel Says He’s Created an AI Clone of His Deceased Wife Suzanne Somers That’s So Good He Can’t Tell the Difference",
-      "link": "https://futurism.com/artificial-intelligence/alan-hamel-ai-clone-wife-suzanne-somers",
-      "summary": "<p>\"I really can't tell which one is the real and which one is the AI.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/alan-hamel-ai-clone-wife-suzanne-somers\">Alan Hamel Says He&#8217;s Created an AI Clone of His Deceased Wife Suzanne Somers That&#8217;s So Good He Can&#8217;t Tell the Difference</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 22 Oct 2025 16:28:52 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/alan-hamel-ai-clone-wife-suzanne-somers.jpg?quality=85"
+      "title": "Ford isn’t going to make more F-150 Lightnings for a while",
+      "link": "https://techcrunch.com/2025/10/23/ford-isnt-going-to-make-more-f-150-lightnings-for-a-while/",
+      "summary": "Ford is prioritizing its gas and hybrid F-150 trucks instead.",
+      "published": "Thu, 23 Oct 2025 23:58:36 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/01/REVC_1.jpg?resize=1200,800"
     },
     {
-      "title": "AWS Outage That Took Down Internet Came After Amazon Fired Tons of Workers in Favor of AI",
-      "link": "https://futurism.com/artificial-intelligence/aws-outage-amazon-fired-workers-ai",
-      "summary": "<p>\"As we roll out more Generative AI and agents, it should change the way our work is done.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/aws-outage-amazon-fired-workers-ai\">AWS Outage That Took Down Internet Came After Amazon Fired Tons of Workers in Favor of AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 22 Oct 2025 15:23:33 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/aws-outage-amazon-fired-workers-ai.jpg?quality=85"
+      "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
+      "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
+      "summary": "The acquired firm was working on a tool to control macOS directly with AI.",
+      "published": "Thu, 23 Oct 2025 22:08:40 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/openai-sky-1152x648.webp"
     },
     {
-      "title": "Zuckerberg Firing Hundreds of AI Developers After Hiring Spree",
-      "link": "https://futurism.com/artificial-intelligence/zuckerberg-firing-hundreds-ai-developers",
-      "summary": "<p>What is going on at Meta?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/zuckerberg-firing-hundreds-ai-developers\">Zuckerberg Firing Hundreds of AI Developers After Hiring Spree</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 22 Oct 2025 14:32:23 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/10/zuckerberg-firing-hundreds-ai-developers.jpg?quality=85"
+      "title": "Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results",
+      "link": "https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/",
+      "summary": "Scraper accused of stealing Reddit content \"shocked\" by lawsuit.",
+      "published": "Thu, 23 Oct 2025 21:54:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2236792840-1024x648.jpg"
+    },
+    {
+      "title": "Researchers show that training on “junk data” can lead to LLM “brain rot”",
+      "link": "https://arstechnica.com/ai/2025/10/researchers-show-that-training-on-junk-data-can-lead-to-llm-brain-rot/",
+      "summary": "Models trained on short, popular, and/or \"superficial\" tweets perform worse on benchmarks.",
+      "published": "Thu, 23 Oct 2025 21:20:48 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1908316227-1152x648.jpg"
+    },
+    {
+      "title": "Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco",
+      "link": "https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/",
+      "summary": "Trump said he scrapped plans to send the National Guard into San Francisco after calls from Nvidia’s Jensen Huang and Salesforce’s Marc Benioff. Mayor Daniel Lurie confirmed the plan was canceled.",
+      "published": "Thu, 23 Oct 2025 21:04:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-962267138.jpg?w=1024"
+    },
+    {
+      "title": "Dinosaurs may have flourished right up to when the asteroid hit",
+      "link": "https://arstechnica.com/science/2025/10/dinosaurs-may-have-flourished-right-up-to-when-the-asteroid-hit/",
+      "summary": "Fossil beds in New Mexico show diverse species present in the late Cretaceous.",
+      "published": "Thu, 23 Oct 2025 20:57:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1386002288-1152x648.jpg"
+    },
+    {
+      "title": "OpenAI buys Sky, an AI interface for Mac",
+      "link": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
+      "summary": "OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural language interface for Mac that can view your screen and take actions in your apps.",
+      "published": "Thu, 23 Oct 2025 20:53:02 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/ArtCard_SKY_16_9.webp?resize=1200,677"
+    },
+    {
+      "title": "Rivian CEO takes top marketing role in shakeup ahead of R2 launch",
+      "link": "https://techcrunch.com/2025/10/23/rivian-ceo-takes-top-marketing-role-in-shakeup-ahead-of-r2-launch/",
+      "summary": "Founder and CEO RJ Scaringe will be wearing yet another hat as the company preps for arguably its most important vehicle launch -- the mass market R2 SUV -- in 2026.",
+      "published": "Thu, 23 Oct 2025 20:29:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-524.jpg?resize=1200,800"
+    },
+    {
+      "title": "An NIH director joins MAHA, gets replaced by JD Vance’s close friend",
+      "link": "https://arstechnica.com/health/2025/10/an-nih-director-joins-maha-gets-replaced-by-jd-vances-close-friend/",
+      "summary": "The NTP produced controversial studies on cellphone radiation and fluoride.",
+      "published": "Thu, 23 Oct 2025 19:58:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1291108057-1152x648.jpg"
+    },
+    {
+      "title": "YouTube paid out $8B to the music industry in 12 months",
+      "link": "https://techcrunch.com/2025/10/23/youtube-paid-out-8b-to-the-music-industry-in-12-months/",
+      "summary": "The milestone marks a new record for the platform, as YouTube’s annual music industry payout increased by $2 billion since 2022.",
+      "published": "Thu, 23 Oct 2025 19:33:04 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?resize=1200,631"
+    },
+    {
+      "title": "20-year-old dropouts built AI notetaker Turbo AI to 5 million users",
+      "link": "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
+      "summary": "Rudy Arora and Sarthak Dhawan, two 20-year-old college dropouts, grew an AI note-taker app to five million users and an eight-figure ARR, they say.",
+      "published": "Thu, 23 Oct 2025 19:25:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2422.jpeg?resize=1200,742"
+    },
+    {
+      "title": "Instagram users can now use Meta AI editing tools directly in IG Stories",
+      "link": "https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/",
+      "summary": "Meta AI's photo editing tools can be found in Instagram Stories when tapping the paintbrush icon. Users can describe what they want to add, remove, or change.",
+      "published": "Thu, 23 Oct 2025 19:22:40 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/InstagramMetaAI-Stories.jpeg?w=1200"
+    },
+    {
+      "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant",
+      "link": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/",
+      "summary": "\"Mico\" literally tries to put a face on Microsoft's chatbot-turned-assistant.",
+      "published": "Thu, 23 Oct 2025 18:48:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Mico-1-1152x648.jpeg"
     },
     {
       "title": "Introducing Build Mode: TechCrunch’s new podcast for founders",
@@ -58,31 +130,23 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Mayor-Daniel-Lurie-Speaker-16x9-Dark.png?resize=1200,675"
     },
     {
-      "title": "Two days after OpenAI’s Atlas, Microsoft launches a nearly identical AI browser",
-      "link": "https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/",
-      "summary": "CoPilot Mode of Microsoft's Edge browser is the company's take on the long-hyped AI browser category.",
-      "published": "Thu, 23 Oct 2025 18:03:01 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800"
+      "title": "OpenAI’s New AI Web Browser Is a Bit of Mess",
+      "link": "https://futurism.com/artificial-intelligence/openai-atlas-web-browser-messy",
+      "summary": "<p>It's agonizingly slow — and a ticking time bomb.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-atlas-web-browser-messy\">OpenAI&#8217;s New AI Web Browser Is a Bit of Mess</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 23 Oct 2025 17:07:28 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/openai-atlas-web-browser-messy.jpg?quality=85"
     },
     {
-      "title": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
-      "link": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/",
-      "summary": "Microsoft has unveiled “Mico,” a new animated avatar for its Copilot AI that brings back shades of Clippy. The expressive blob acts as a friendly, customizable face for the chatbot.",
-      "published": "Thu, 23 Oct 2025 17:08:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675"
+      "title": "The first people to set foot in Australia were fossil hunters",
+      "link": "https://arstechnica.com/science/2025/10/the-first-people-to-set-foot-in-australia-were-fossil-hunters/",
+      "summary": "Europeans weren't the first people to collect fossils in Australia.",
+      "published": "Thu, 23 Oct 2025 17:04:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rsosSimosthenurus_occidentalis-1152x648-1761239043.jpg"
     },
     {
-      "title": "Trump pardons Binance founder Changpeng Zhao",
-      "link": "https://techcrunch.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao/",
-      "summary": "Changpeng Zhao previously pleaded guilty to enabling money laundering while running the cryptocurrency exchange, and served four months in prison last year.",
-      "published": "Thu, 23 Oct 2025 16:41:18 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1244426540.jpg?resize=1200,800"
-    },
-    {
-      "title": "Valve upends the CS2 item marketplace with new “trade up” update",
+      "title": "CS2 item market loses nearly $2B in value overnight due to “trade up” update",
       "link": "https://arstechnica.com/gaming/2025/10/valve-upends-the-cs2-item-marketplace-with-new-trade-up-update/",
       "summary": "Once rare $14K knife now sells for $7K, some common guns jump from $10 to over $100.",
       "published": "Thu, 23 Oct 2025 16:40:22 +0000",
@@ -98,28 +162,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2025-Ferrari-296-GTB-1-of-12-1152x648.jpg"
     },
     {
-      "title": "Google’s bets on carbon capture power plants, which have a mixed record",
-      "link": "https://techcrunch.com/2025/10/23/googles-bets-on-carbon-capture-power-plants-which-have-a-mixed-record/",
-      "summary": "Google intends to use electricity from the 400-MW power plant in Decatur, Illinois, to operate nearby data centers. Carbon capture will eliminate some of the plant's emissions, but how much remains to be seen.",
-      "published": "Thu, 23 Oct 2025 16:04:18 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800"
-    },
-    {
-      "title": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads",
-      "link": "https://techcrunch.com/2025/10/23/tensormesh-raises-4-5m-to-squeeze-more-inference-out-of-ai-server-loads/",
-      "summary": "Tensormesh uses an expanded form of KV caching to make inference loads as much as 10 times more efficient.",
-      "published": "Thu, 23 Oct 2025 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?resize=1200,800"
-    },
-    {
-      "title": "U.S. government accuses former L3Harris cyber boss of stealing trade secrets",
-      "link": "https://techcrunch.com/2025/10/23/u-s-government-accuses-former-l3harris-cyber-boss-of-stealing-trade-secrets/",
-      "summary": "The U.S. Department of Justice accused Peter Williams, former general manager of L3Harris’ hacking division Trenchant, of stealing trade secrets and selling them to a buyer in Russia.",
-      "published": "Thu, 23 Oct 2025 15:46:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/l3harris-trenchant-2232761873.jpg?resize=1200,899"
+      "title": "OpenAI Makes Bizarre Demand of Family Whose Son Was Allegedly Killed by ChatGPT",
+      "link": "https://futurism.com/artificial-intelligence/openai-demand-family-son-killed",
+      "summary": "<p>\"This is absolutely sickening.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-demand-family-son-killed\">OpenAI Makes Bizarre Demand of Family Whose Son Was Allegedly Killed by ChatGPT</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 23 Oct 2025 16:07:27 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/openai-demand-family-son-killed.jpg?quality=85"
     },
     {
       "title": "Trump eyes government control of quantum computing firms with Intel-like deals",
@@ -130,28 +178,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2229574852-1152x648.jpg"
     },
     {
-      "title": "Made in space: Varda’s William Bruey shares plan to build the next great supply chain at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/23/made-in-space-vardas-william-bruey-shares-plan-to-build-the-next-great-supply-chain-at-techcrunch-disrupt-2025/",
-      "summary": "William Bruey, founder and CEO of Varda Space Industries, is taking the Space Stage at TechCrunch Disrupt 2025, October 27–29 at Moscone West in San Francisco, to share how his team is transforming outer space into the ultimate manufacturing frontier. Register here to save up to $444 before doors open.",
-      "published": "Thu, 23 Oct 2025 15:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_William-Bruey-Speaker-16x9-Dark.png?resize=1200,675"
-    },
-    {
-      "title": "Palantir enters $200M partnership with telco Lumen to offer enterprise AI services",
-      "link": "https://techcrunch.com/2025/10/23/palantir-enters-200m-partnership-with-telco-lumen-for-enterprise-ai-services/",
-      "summary": "Palantir said on Thursday it had struck a partnership with Lumen Technologies that will see the telecommunications company using the data management company's AI software to build capabilities to support enterprise AI services.",
-      "published": "Thu, 23 Oct 2025 15:23:49 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228810115.jpg?resize=1200,800"
-    },
-    {
-      "title": "Reports suggest Apple is already pulling back on the iPhone Air",
-      "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
-      "summary": "New phone design compromises on camera and battery to achieve a lighter weight.",
-      "published": "Thu, 23 Oct 2025 15:04:47 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3384-1152x648.jpeg"
+      "title": "Republican Candidate “Debates” Opponent By Sincerely Arguing With AI Deepfake For Nearly an Hour",
+      "link": "https://futurism.com/artificial-intelligence/republican-debates-opponent-ai-deepfake",
+      "summary": "<p>The ultimate \"strawman.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/republican-debates-opponent-ai-deepfake\">Republican Candidate &#8220;Debates&#8221; Opponent By Sincerely Arguing With AI Deepfake For Nearly an Hour</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 23 Oct 2025 15:07:37 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/10/republican-debates-opponent-ai-deepfake.jpg?quality=85"
     },
     {
       "title": "Secret Plans Reveal Amazon Plot to Replace 600,000 Workers With Robot Army",
@@ -160,22 +192,6 @@
       "published": "Thu, 23 Oct 2025 14:10:39 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/amazon-replace-workers-robots.jpg?quality=85"
-    },
-    {
-      "title": "An outcast faces a deadly alien world in Predator: Badlands trailer",
-      "link": "https://arstechnica.com/culture/2025/10/an-outcast-faces-a-deadly-alien-world-in-predator-badlands-trailer/",
-      "summary": "\"The ways of your kind are ones of violence. Either you are hunted or you become the hunter.\"",
-      "published": "Thu, 23 Oct 2025 13:58:46 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/bloodlands1-1152x648-1761226866.jpg"
-    },
-    {
-      "title": "Porsche does U-turn on electric vehicles, will focus on gas engines",
-      "link": "https://arstechnica.com/cars/2025/10/porsche-does-u-turn-on-electric-vehicles-will-focus-on-gas-engines/",
-      "summary": "China weakness, US tariffs, and disappointing uptake of battery vehicles lurk in background.",
-      "published": "Thu, 23 Oct 2025 13:42:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/02-Porsche-Taycan-4S--1152x648.jpg"
     },
     {
       "title": "Researchers Find Severe Vulnerabilities in AI Browser",
@@ -194,36 +210,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/worker-nuclear-reactor-michigan.jpg?quality=85"
     },
     {
-      "title": "Texas lawmakers double down on Discovery, call for DOJ investigation into Smithsonian",
-      "link": "https://arstechnica.com/space/2025/10/texas-lawmakers-double-down-on-discovery-call-for-doj-investigation-into-smithsonian/",
-      "summary": "\"This is the dumbest plan I've ever heard in nearly five years in the United States Senate.\"",
-      "published": "Thu, 23 Oct 2025 11:30:55 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/news-102225a-lg-1152x648.jpg"
-    },
-    {
       "title": "Elon Musk Makes Suspicious Remarks About His Robot Army",
       "link": "https://futurism.com/robots-and-machines/elon-musk-remarks-robot-army",
       "summary": "<p>\"I don't feel comfortable building that robot army unless I have a strong influence.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/elon-musk-remarks-robot-army\">Elon Musk Makes Suspicious Remarks About His Robot Army</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 23 Oct 2025 11:29:17 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/elon-musk-remarks-robot-army.jpg?quality=85"
-    },
-    {
-      "title": "California startup to demonstrate space weapon on its own dime",
-      "link": "https://arstechnica.com/space/2025/10/california-startup-to-demonstrate-space-weapon-on-its-own-dime/",
-      "summary": "\"All of the pieces that are required to make it viable exist.\"",
-      "published": "Thu, 23 Oct 2025 11:15:12 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/apex_sbi-1152x648.jpg"
-    },
-    {
-      "title": "We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened",
-      "link": "https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/",
-      "summary": "From scanning emails to building fansites, Atlas can ably automate some web-based tasks.",
-      "published": "Thu, 23 Oct 2025 11:00:08 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2022302070-1152x648.jpg"
     },
     {
       "title": "Meta Allows Deepfake That Irish Presidential Election Is Canceled to Go Viral",
@@ -242,12 +234,132 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/google-manhattan-bed-bugs.jpg?quality=85"
     },
     {
+      "title": "With an Intel recovery underway, all eyes turn to its foundry business",
+      "link": "https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/",
+      "summary": "Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.",
+      "published": "Fri, 24 Oct 2025 00:09:29 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?resize=1200,800"
+    },
+    {
+      "title": "Cyber exec with lavish lifestyle charged with selling secrets to Russia",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/former_l3harris_cyber_director_charged/",
+      "summary": "<h4>The 0-days have left the building</h4> <p>Federal prosecutors have charged a former general manager of US government defense contractor L3Harris's cyber arm Trenchant with selling secrets to an unidentified Russian buyer for $1.3 million.…</p>",
+      "published": "2025-10-24T00:30:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/05/04/arrest_shutterstock.jpg"
+    },
+    {
+      "title": "Clippy rises from the dead in major update to Copilot and its voice interface",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/microsoft_clippy_copilot_update/",
+      "summary": "<h4>The new Microsoft assistant is a blob named Mico, but you can turn it into everyone’s favorite paper clip.</h4> <p><strong>Hands On</strong>  Microsoft’s Clippy was an anthropomorphic assistant ahead of his time, offering to help you with your Office 97 tasks when all you could do was type and click in response. Today, as part of a massive Copilot Fall Release, Redmond is bringing Clippy back – at least as an avatar for its new AI helper named “Mico”.…</p>",
+      "published": "2025-10-24T00:15:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/06/12/shutterstock_clippy.jpg"
+    },
+    {
+      "title": "Google and Anthropic wave hands about mega TPU deal worth 'tens of billions'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/google_anthropic_deal/",
+      "summary": "<h4>But AWS is still the AI upstart's primary partner</h4> <p>Google and Anthropic have struck a deal that will see the AI upstart gain access to up to a million of the web giant’s tensor processing units (TPUs) and involve “tens of billions of dollars.”…</p>",
+      "published": "2025-10-23T23:56:02.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/01/19/money_shutterstock.jpg"
+    },
+    {
+      "title": "Don't take AI to Thanksgiving: Bots have hidden biases",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/ai_model_bias_inevitable/",
+      "summary": "<h4>It's not a bug, it's a feature</h4> <p>Large language models, or LLMs, are biased in one way or another - often many. And there may be no way around that.…</p>",
+      "published": "2025-10-23T23:42:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/11/21/shutterstock_thanksgiving.jpg"
+    },
+    {
+      "title": "Playtime’s over: Crooks swipe Toys R Us Canada customer data and dump it online",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/toysrus_canada_data_leak/",
+      "summary": "<h4>What?! No complimentary credit monitoring?</h4> <p>The Canadian outpost of retailer Toys R Us on Thursday notified customers that attackers accessed a database, stole some of their personal information, then posted the data online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-23T21:53:25.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/23/toysrus.jpg"
+    },
+    {
+      "title": "Excel is three sheets to the window on iOS as update borks everything",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/microsoft_excel_for_ios/",
+      "summary": "<h4>iPhone and iPad users vexed by denial of spreadsheets</h4> <p>Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers' great annoyance.…</p>",
+      "published": "2025-10-23T19:23:27.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/08/14/shutterstock_iphone.jpg"
+    },
+    {
+      "title": "Intel’s tick-tock isn’t coming back, and everything else I just learned",
+      "link": "https://www.theverge.com/tech/805652/intel-q3-2025-earnings-18a-panther-lake-ai-gpus-annual",
+      "summary": "With Windows 10 on its last legs, Intel is looking forward to the PC industry growing more than it has in years - the most since 2021, when the covid-19 pandemic revived the industry by creating a huge surge in demand. But it seems the struggling Intel, which just received lifelines from Nvidia, Softbank, and [&#8230;]",
+      "published": "2025-10-23T19:18:48-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25007293/intel14900k.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The best Sonos speakers to buy in 2025",
+      "link": "https://www.theverge.com/tech/652171/best-sonos-speakers",
+      "summary": "After the self-induced tumult Sonos has gone through this year, I can understand why some people are reluctant to spend money on the company’s products. But newly appointed CEO Tom Conrad has shown that he’s determined to get back on track and revitalize Sonos as the leading whole-home audio brand. The contentious mobile app is [&#8230;]",
+      "published": "2025-10-23T19:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257708_Sonos_buying_guide__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Norks droning on about your dream job while pwning your PC",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/north_korean_dream_job_attacks/",
+      "summary": "<h4>Social engineering? Check. Trojanized open source? Check. Lazarus’ pet RAT? Also check</h4> <p>North Korea's Lazarus Group has successfully compromised Europe's unmanned aerial vehicle (UAV) sector with its Operation DreamJob campaign, which promises job seekers lucrative employment opportunities - but then delivers a malware-laced offer and a compromised computer.…</p>",
+      "published": "2025-10-23T18:35:55.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/04/17/shutterstock_droneswarm.jpg"
+    },
+    {
+      "title": "Microsoft Edge’s new Copilot Mode turns on more AI features",
+      "link": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
+      "summary": "Microsoft is joining the AI browser wave with the official launch of a new “Copilot Mode” in Edge. The option, first announced in July, turns Copilot into your portal to the web, with each new tab opening a chat window where you can either ask a question, conduct a search, or enter a URL. Copilot [&#8230;]",
+      "published": "2025-10-23T18:00:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK148_Microsoft_Edge_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nintendo&#8217;s chips let this Lego Game Boy upgrade kit play real cartridges",
+      "link": "https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic",
+      "summary": "The race to make the Lego Game Boy play actual Game Boy games ended before it even began. The same day Lego officially launched the set, Natalie the Nerd revealed she'd already transformed it to play real Game Boy cartridges on real Game Boy chips. Turns out she's not stopping there! Natalie is now working [&#8230;]",
+      "published": "2025-10-23T17:52:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/bafkreian7lid7oqvf4wrsjj73ustwnhucknnehdpgseuzrosro2pqrxdxy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nike designed new gear to keep athletes cool in a warming world",
+      "link": "https://www.theverge.com/news/805823/nike-peformance-apparel-heat-football",
+      "summary": "Nike is showing off new performance apparel today that it says it designed with climate change in mind. It introduced its new Aero-FIT performance cooling technology, which it says will make its debut in football kits Nike federations wear in 2026.  The company claims the technology boosts sweating efficiency by allowing for more air movement [&#8230;]",
+      "published": "2025-10-23T17:26:53-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/aero-fit-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Give Europe some space! 3 companies join forces to reach for the stars",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/euro_trio_space/",
       "summary": "<h4>Airbus, Leonardo and Thales seek to 'strengthen Europe’s strategic autonomy in space'</h4> <p>Three European aerospace giants plan to combine their space units into a single heavyweight, hoping to boost the continent's space autonomy.…</p>",
       "published": "2025-10-23T16:59:11.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2023/05/05/shutterstock_eusatellite.jpg"
+    },
+    {
+      "title": "You can get three months of Audible’s subscription for $3",
+      "link": "https://www.theverge.com/tech/805665/audible-premium-plus-subscription-deal-sale",
+      "summary": "If you’re too tight on time to read through your backlog of books, audiobooks might be a more convenient way to get caught up. Amazon is offering a steep discount on Audible Premium Plus that lets new and lapsed subscribers pay $.99 (usually $14.95) per month for three months. The subscription includes one credit per [&#8230;]",
+      "published": "2025-10-23T16:58:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Audible-Premium-Plus-Subscription.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google is turning on the gas for its data centers",
+      "link": "https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture",
+      "summary": "Google’s latest pledge to support a new clean energy technology is… a gas project? To be precise, it’s a gas-fired power plant outfitted with filtering devices to capture its planet-heating carbon emissions. Is this just a polluting fossil fuel project in sheep’s clothing?&#160; Google just inked an agreement to support the development of a new [&#8230;]",
+      "published": "2025-10-23T16:36:09-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK438_carbon_capture.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Blinded by the light: Tesla fixes glaringly bright Cybertruck headlights",
@@ -258,6 +370,22 @@
       "image_url": "https://regmedia.co.uk/2023/11/13/cybertruck-road.jpg"
     },
     {
+      "title": "EA partners with Stability AI for &#8216;transformative&#8217; AI game-making tools",
+      "link": "https://www.theverge.com/news/805777/ea-stability-ai-transformative-game-development-tools",
+      "summary": "EA is partnering with Stability AI, the company that develops the Stable Diffusion AI image model, to help infuse AI into its development processes. The two companies will “co-develop transformative AI models, tools, and workflows that empower our artists, designers, and developers to reimagine how content is built,” EA says. The company says that humans [&#8230;]",
+      "published": "2025-10-23T16:23:53-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK098_ELECTRONIC_ARTS5_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The best AirPods to buy",
+      "link": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
+      "summary": "Whether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work best — and sometimes only work at all — with the company’s own devices. [&#8230;]",
+      "published": "2025-10-23T16:09:57-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257689_Airpod_buying_guide_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Trump's workforce cuts blamed as America's cyber edge dulls",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/trumps_workforce_cuts_blamed_in_report/",
       "summary": "<h4>The Cyberspace Solarium Commission says years of progress are being undone amid current administration's cuts</h4> <p>America's once-ambitious cyber defences are starting to rust, according to the latest annual report from the US Cyberspace Solarium Commission (CSC), which warns that policy momentum has slowed and even slipped backwards thanks to Trump-era workforce and budget cuts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -266,140 +394,12 @@
       "image_url": "https://regmedia.co.uk/2017/08/02/trump_shutter.jpg"
     },
     {
-      "title": "Microsoft suggests temporary registry hack for stricken smart card users",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/microsoft_smart_card_registry/",
-      "summary": "<h4>When is an issue not an issue? When it's intentional</h4> <p>Microsoft accidentally broke several things in the October 2025 Windows Update, but smart card authentication was not one of them. That was intentionally broken, and the temporary workaround requires a registry hack.…</p>",
-      "published": "2025-10-23T14:59:37.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/23/shutterstock_smart_card.jpg"
-    },
-    {
-      "title": "Apple's ultra-thin iPhone flops as foldable iPad hits a crease",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/apples_ultrathin_iphone_flops/",
-      "summary": "<h4>Weak demand for iPhone Air and delays to a costly foldable tablet suggest Cupertino's hardware experiments are struggling</h4> <p>Apple's run of hardware experiments appears to be hitting some turbulence: The company's ultra-thin iPhone Air has reportedly failed to catch on with buyers, while its long-awaited foldable iPad is slipping further down the calendar amid engineering snags and soaring costs.…</p>",
-      "published": "2025-10-23T14:31:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/23/shutterstock_iphone_air.jpg"
-    },
-    {
-      "title": "Fedora council approves policy allowing AI-assisted contributions",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/fedora_agrees_policy_allowing_ai_assisted_code_contribs/",
-      "summary": "<h4>Intense discussion approves AI – but subject to full responsibility and disclosure</h4> <p>The Fedora Council has approved AI-assisted contributions to its Linux distribution, following intense debate and subject to strict conditions.…</p>",
-      "published": "2025-10-23T14:19:57.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/02/21/ai_shutterstock.jpg"
-    },
-    {
-      "title": "PUBG maker Krafton is turning into an &#8216;AI first&#8217; developer",
-      "link": "https://www.theverge.com/news/805509/krafton-pubg-ai-first-developer-agentic-gpu-cluster",
-      "summary": "Krafton, the company behind games such as PUBG: Battlegrounds and the Sims-like InZOI, is making a big push into using AI within the company. Under this new “AI First” strategy, Krafton plans to use agentic AI to help automate work and implement an “AI-cenetered” management system, according to a translation of a press release. The [&#8230;]",
-      "published": "2025-10-23T14:06:43-04:00",
+      "title": "Nike says its first &#8216;powered footwear&#8217; is like an e-bike for your feet",
+      "link": "https://www.theverge.com/news/805664/nike-powered-show-project-amplify",
+      "summary": "On Thursday, Nike announced Project Amplify, “the world’s first powered footwear system,” which it says isn’t intended for pros — in fact, quite the opposite. Much like e-bikes provide pedal assistance, Project Amplify uses a lightweight robotics system to boost running and walking speed.  “The first-generation product, created alongside robotics partner Dephy, isn’t designed for [&#8230;]",
+      "published": "2025-10-23T15:29:09-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google nukes 3,000 YouTube videos that sowed malware disguised as cracked software",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/youtube_ghost_network_malware/",
-      "summary": "<h4>Check Point helps exorcise vast 'Ghost Network' that used fake tutorials to push infostealers</h4> <p>Google has taken down thousands of YouTube videos that were quietly spreading password-stealing malware disguised as cracked software and game cheats.…</p>",
-      "published": "2025-10-23T14:04:19.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/08/06/shutterstock_ghost_in_theforest.jpg"
-    },
-    {
-      "title": "Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.",
-      "link": "https://www.theverge.com/news/805387/warner-bros-sale-netflix-amazon-apple-interested",
-      "summary": "Three of the rumored potential buyers for entertainment titan Warner Bros. Discovery are tech companies. Netflix, Amazon, and Apple are all interested in buying Warner Bros. Discovery as a whole or acquiring pieces of the company, like its content libraries and production assets, according to Bloomberg.&#160; Earlier this week, Warner Bros. Discovery announced it was [&#8230;]",
-      "published": "2025-10-23T13:18:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2242437594.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "A single DNS race condition brought Amazon's cloud empire to its knees",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/amazon_outage_postmortem/",
-      "summary": "<h4>Fault in DynamoDB system cascaded through AWS services, knocking major sites offline for hours</h4> <p>Amazon has published a detailed postmortem explaining how a critical fault in DynamoDB's DNS management system cascaded into a day-long outage that disrupted major websites and services across multiple brands – with damage estimates potentially reaching hundreds of billions of dollars.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-23T13:18:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/10/29/aws_shutterstock_editorial_only.jpg"
-    },
-    {
-      "title": "SAP says some customers are dragging their feet on contract sign-offs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/sap_q3/",
-      "summary": "<h4>Share price dips as cloud sales outlook disappoints amid slow US public sector bookings</h4> <p>SAP disappointed investors today after reporting full-year cloud revenue at the bottom end of its guidance range, with execs saying customers in manufacturing and the public sector are taking longer to sign contracts.…</p>",
-      "published": "2025-10-23T13:02:36.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/01/19/shutterstock_hand_cloudc.jpg"
-    },
-    {
-      "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
-      "link": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
-      "summary": "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting. The upgrade for all paid subscribers should make Claude more useful and convenient.  Max subscribers will be able to turn on Claude’s “memory” in their settings from today, Anthropic said. The feature, which has been available [&#8230;]",
-      "published": "2025-10-23T13:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1-Memory-Modal_blog-inline.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Senators accuse Smithsonian of 'illegal lobbying' over Discovery squabbles",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/discovery_doj_lobbying_letter_cornyn/",
-      "summary": "<h4>Cornyn &amp; co ask DoJ to probe respected research institution for trying to 'influence' public</h4> <p>The saga of the Great Space Shuttle Relocation has taken another turn after US lawmakers asked the Department of Justice to look into alleged lobbying by the Smithsonian museum to prevent a possible transfer of Discovery to Houston, Texas.…</p>",
-      "published": "2025-10-23T12:50:34.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/01/27/sts-51c.jpg"
-    },
-    {
-      "title": "Elden Ring on the Switch 2 is delayed until 2026",
-      "link": "https://www.theverge.com/games/805381/elden-ring-tarnished-edition-nintendo-switch-2-delay",
-      "summary": "Nintendo Switch 2 owners will have just a little bit longer to venture into The Lands Between. Developer FromSoftware announced today that its upcoming port of the open-world RPG Elden Ring — dubbed “Tarnished Edition” — won’t be launching in 2025 as originally planned. Instead, it will be out at some unspecified point in 2026. [&#8230;]",
-      "published": "2025-10-23T12:28:19-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/NintendoSwitch2_ELDEN_RING_Tarnished_Edition_Screenshot-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meet Mico, Microsoft&#8217;s AI version of Clippy",
-      "link": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy",
-      "summary": "It’s been nearly 30 years since Microsoft’s Office assistant, Clippy, first graced our screens as an annoying paperclip. After the Groucho-browed interruptions of Clippy came to an end in 2001 with Office XP, Microsoft tried to revive the spirit of an assistant with Cortana on Windows Phone. The technology still wasn’t quite there a decade [&#8230;]",
-      "published": "2025-10-23T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/chrome_P7wxXjb8cg.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Copilot is getting more personality with a ‘real talk’ mode and group chats",
-      "link": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features",
-      "summary": "Microsoft is rolling out some significant changes to its Copilot AI assistant today. There’s a new groups feature that connects multiple people into a Copilot chat, memory to let Copilot learn things about you, a new “real talk” mode that will bring back some of Copilot’s early personality, and more. Copilot Groups is designed for [&#8230;]",
-      "published": "2025-10-23T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The BrickBoy kit turns Lego’s Game Boy into a handheld emulator",
-      "link": "https://www.theverge.com/news/805376/lego-game-boy-brickboy-emulator-kickstarter",
-      "summary": "Talented Game Boy modder Natalie the Nerd was the first to turn Lego’s impressive brick-built replica into a functional Game Boy. She’s currently developing a kit so anyone can upgrade Lego’s Game Boy to actually play games, but the creators of the BrickBoy have beaten her to the punch by taking a few shortcuts. Natalie’s [&#8230;]",
-      "published": "2025-10-23T11:59:44-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/brickboy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Elon Musk says he needs $1 trillion to control Tesla’s ‘robot army’",
-      "link": "https://www.theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package",
-      "summary": "Well, that’s not very subtle. In an earnings call last night, Tesla CEO Elon Musk said he needs more control over Tesla, as well as a pay package that could be worth nearly $1 trillion, in exchange for building a “robot army.” Otherwise, he could get ousted as CEO, and then, well, who would control [&#8230;]",
-      "published": "2025-10-23T11:57:50-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Hollywood is in love with microdramas, for all the wrong reasons",
-      "link": "https://www.theverge.com/column/805250/hollywood-is-in-love-with-microdramas-for-all-the-wrong-reasons",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. What if you could make hundreds of millions of dollars with cheaply produced content, all while sidestepping powerful distribution platforms like Netflix and YouTube? This promise is at the core [&#8230;]",
-      "published": "2025-10-23T11:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/microdramas-soap-opera.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon&#8217;s latest attempt at selling stuff with AI is the &#8216;Help me decide&#8217; button",
-      "link": "https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide",
-      "summary": "Amazon is launching a new AI-powered tool that’s supposed to help you choose which product to buy. Now, when you look at multiple similar items on Amazon’s app or mobile website, it may display a “Help me decide” button that picks one for you based on your browsing activity, searches, shopping history, and preferences. As [&#8230;]",
-      "published": "2025-10-23T11:26:53-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/amazon-help-me-decide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/project-amplify-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
