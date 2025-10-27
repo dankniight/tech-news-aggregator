@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-27T06:38:31.729107",
+  "lastUpdated": "2025-10-27T12:51:28.831554",
   "articles": [
     {
       "title": "Accel and Prosus team up to back early-stage Indian startups",
@@ -154,20 +154,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1151863323.jpg?resize=1200,506"
     },
     {
-      "title": "India, the market BlaBlaCar once walked away from, is now its biggest",
-      "link": "https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/",
-      "summary": "BlaBlaCar is seeing rapid growth in India, with 20 million passengers expected this year — up 50% from last year.",
-      "published": "Sat, 25 Oct 2025 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/blablacar.jpg?resize=1200,801"
-    },
-    {
       "title": "Whale and dolphin migrations are being disrupted by climate change",
       "link": "https://arstechnica.com/science/2025/10/whale-and-dolphin-migrations-are-being-disrupted-by-climate-change/",
       "summary": "Marine mammals are being forced into new and more dangerous waters, scientists warn.",
       "published": "Sat, 25 Oct 2025 11:00:09 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/whale1-1152x648.jpg"
+    },
+    {
+      "title": "Workout app Ladder launches  nutrition-tracking experience",
+      "link": "https://techcrunch.com/2025/10/27/workout-app-ladder-launches-nutrition-tracking-experience/",
+      "summary": "Fitness app Ladder is debuting a new nutrition tracking feature that lets you snap a photo to input macros.",
+      "published": "Mon, 27 Oct 2025 11:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Nutrition-Main-Screen.jpeg?resize=1200,675"
+    },
+    {
+      "title": "10M people watched a YouTuber shim a lock; the lock company sued him. Bad idea.",
+      "link": "https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/",
+      "summary": "It's still legal to pick locks, even when you swing your legs.",
+      "published": "Mon, 27 Oct 2025 11:00:28 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/lockpick-death-1152x648.jpg"
     },
     {
       "title": "Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem",
@@ -234,12 +242,52 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg"
     },
     {
-      "title": "Microsoft’s Mico heightens the risks of parasocial LLM relationships",
-      "link": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/",
-      "summary": "\"It looks like you're trying to find a friend. Would you like help?\"",
-      "published": "Fri, 24 Oct 2025 17:07:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-1152x648-1761323845.png"
+      "title": "Ex-CISA head thinks AI might fix code so fast we won't need security teams",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/jen_easterly_ai_cybersecurity/",
+      "summary": "<h4>Jen Easterly says most breaches stem from bad software, and smarter tech could finally clean it up</h4> <p>Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be tracked down faster than ever.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-27T11:43:00.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/09/20/shutterstock_usg_jenn_easterly.jpg"
+    },
+    {
+      "title": "Everything you know about last week's AWS outage is wrong",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/aws_outage_myths_reality/",
+      "summary": "<h4>AI wasn't the cause, and multi-cloud is for rubes</h4> <p><strong>Column</strong>  AWS put out a hefty <a href=\"https://www.theregister.com/2025/10/23/amazon_outage_postmortem/\" target=\"_blank\">analysis</a> of its October 20 outage, and it's apparently written in a continuing stream of consciousness before the Red Bull wore off and the author passed out after 36 straight hours of writing.…</p>",
+      "published": "2025-10-27T10:30:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/26/wrong.jpg"
+    },
+    {
+      "title": "Machine learning saves £4.4M in UK.gov work and pensions fraud detection",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/dwp_machine_learning_savings/",
+      "summary": "<h4>Poor data standards across government hamper scaling, says Parliament spending watchdog</h4> <p>The UK government's Department for Work and Pensions (DWP) has saved £4.4 million over three years by using machine learning to tackle fraud, according to the National Audit Office (NAO). However, the public spending watchdog found the department's ability to expand this work is limited by fragmented IT systems and poor cross-government data standards.…</p>",
+      "published": "2025-10-27T09:45:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/09/18/shutterstock_dwp.jpg"
+    },
+    {
+      "title": "The Chinese Box and Turing Test: Is AI really intelligent?",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/ai_intelligence_opinion/",
+      "summary": "<h4>No, it's just good at mass-production copy and paste. And yes, we're correctly applying Betteridge's Law</h4> <p><strong>Opinion</strong>  Remember <a href=\"https://web.njit.edu/~ronkowit/eliza.html\" rel=\"nofollow\" target=\"_blank\">ELIZA</a>? The 1966 chatbot from MIT's AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT has people making the same mistake. Chatbots don't think – they've just gotten exponentially better at pretending.…</p>",
+      "published": "2025-10-27T09:00:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/06/17/aibrain.jpg"
+    },
+    {
+      "title": "The perfect AWS storm has blown over, but the climate is only getting worse",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/aws_outage_opinion/",
+      "summary": "<h4>When it rains, it pours – and nobody packed an umbrella</h4> <p><strong>Opinion</strong>  When your cabbie asks you what you do for a living, and you answer \"tech journalist,\" you never get asked about cloud infrastructure in return. Bitcoin, mobile phones, AI, yes. Until last week: \"What's this AWS thing, then?\" You already knew a lot of people were having a very bad day in Bezosville, but if the news had reached an Edinburgh black cab driver, new adjectives were needed.…</p>",
+      "published": "2025-10-27T08:15:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/06/05/storm_clouds_photo_via_shutterstock.jpg"
+    },
+    {
+      "title": "Frustrated consultant 'went full Hulk' and started smashing hardware",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/who_me/",
+      "summary": "<h4>Four back-to-back weekends of work – and disastrously bad documentation – will do that do a techie</h4> <p><strong>Who, Me?</strong>  Welcome to Monday morning and another installment of Who, Me? For the uninitiated, it's <i>The Register's</i> weekly reader-contributed column that tells tales of your greatest misses, and how you rebuilt a career afterward.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-10-27T07:30:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/24/shutterstock_editorial_only_incredible_hulk.jpg"
     },
     {
       "title": "Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’",
@@ -248,6 +296,14 @@
       "published": "2025-10-27T06:07:02.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/10/28/leonardo_ai_sad_wordpress.jpg"
+    },
+    {
+      "title": "Here’s what ads on your $2,000 Samsung smart fridge will look like",
+      "link": "https://www.theverge.com/report/806797/samsung-family-hub-smart-fridge-ads-opt-out",
+      "summary": "Samsung warned us last month that ads were coming to the giant Android tablets embedded in its Family Hub smart fridges. I've been eyeing mine ever since - and the first ones are about to arrive. Starting November 3rd, the $2,000-plus connected fridges will get a new widget that serves up ads, Shane Higby, head [&#8230;]",
+      "published": "2025-10-27T06:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Widget-Pilot-Image-Ad.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "UN Cybercrime Treaty wins dozens of signatories, to go with its many critics",
@@ -344,62 +400,6 @@
       "published": "2025-10-25T10:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK471_Government_Surveillance_CVirginia_B-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Ball x Pit is a deep, delightful rabbit hole",
-      "link": "https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s",
-      "summary": "It took me a while to get into Ball x Pit. The new roguelike blends elements from games like Breakout, Vampire Survivors, and even city builders, creating a complex mix of ideas. But as is the case with many roguelikes, once I figured everything out well enough to get a taste of my first win, [&#8230;]",
-      "published": "2025-10-25T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/BallxPit_09.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "MPs urge government to stop Britain's phone theft wave through tech",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/25/uk_committee_phone_theft/",
-      "summary": "<h4>Committee says Apple, Google, and Samsung could render stolen handsets worthless if compelled to act</h4> <p>The UK's Home Secretary should use her powers to push the tech industry to deploy stronger technical measures against the surge in phone thefts, according to a House of Commons committee.…</p>",
-      "published": "2025-10-25T08:26:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/05/18/phone_thief_photo_via_shutterstock.jpg"
-    },
-    {
-      "title": "Berkeley boffins build better load balancing algo with AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/",
-      "summary": "<h4>One way AI can improve on human work</h4> <p>Computer scientists at UC Berkeley say that AI models show promise as a way to discover and optimize algorithms.…</p>",
-      "published": "2025-10-25T00:00:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/08/eye.jpg"
-    },
-    {
-      "title": "Everybody's warning about critical Windows Server WSUS bug exploits ... but Microsoft's mum",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/exploitation_of_critical_windows_server/",
-      "summary": "<h4>Critical 9.8-rated vulnerability affects Windows Server 2012 - 2025</h4> <p>Governments and private security sleuths warned that attackers are already exploiting a critical bug in Microsoft Windows Server Update Services, shortly after Redmond pushed an emergency patch for the remote code execution (RCE) vulnerability.…</p>",
-      "published": "2025-10-24T22:42:53.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/11/09/ransomware_439857465.jpg"
-    },
-    {
-      "title": "High-stakes poker scam used rigged card shufflers, X-ray tables, and special glasses",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/mafia_and_nba_celebs_arrested/",
-      "summary": "<h4>31 alleged poker schemers nabbed alongside arrest of separate sports betting ring</h4> <p>The feds on Thursday charged alleged mafia associates and current and former National Basketball Association players and coaches with running rigged poker games and illegal sports betting.…</p>",
-      "published": "2025-10-24T21:20:00.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/01/13/poker.jpg"
-    },
-    {
-      "title": "Sneaky Mermaid attack in Microsoft 365 Copilot steals data",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/",
-      "summary": "<h4>Redmond says it's fixed this particular indirect prompt injection vuln</h4> <p><strong>updated</strong>  Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-24T18:58:32.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/24/sneaky_mermaid.jpg"
-    },
-    {
-      "title": "Sora makes slurfect deepfakes of celebs spewing racial epithets",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/sora_celebrities_racist_videos/",
-      "summary": "<h4>If you listen closely, you’ll realize Sam Altman and the others are only saying sound-alike words</h4> <p>Guardrails? What guardrails? Naughty netizens found a way to trick the Sora 2 video generator into producing deepfakes of public figures, including OpenAI CEO Sam Altman and billionaire Mark Cuban, that make it sound as though they're spewing racial slurs. The trick works despite Sora's built-in filters meant to block hateful language.…</p>",
-      "published": "2025-10-24T17:01:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/11/20/expletive.jpg"
     }
   ]
 }
