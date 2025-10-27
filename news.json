@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-27T02:00:08.278851",
+  "lastUpdated": "2025-10-27T06:38:31.729107",
   "articles": [
     {
       "title": "Accel and Prosus team up to back early-stage Indian startups",
@@ -242,7 +242,23 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-1152x648-1761323845.png"
     },
     {
-      "title": "Australia sues Microsoft for misleading Microsoft 365 users about Copilot subscription options",
+      "title": "Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/automattic_wp_engine_counterclaim/",
+      "summary": "<h4>FOSS feud re-ignites with massive counter-claim</h4> <p>The long battle between Automattic and WP Engine has flared again, this time with accusations the latter company issued “false advertising”, and employed “deceptive business practices.”…</p>",
+      "published": "2025-10-27T06:07:02.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/10/28/leonardo_ai_sad_wordpress.jpg"
+    },
+    {
+      "title": "UN Cybercrime Treaty wins dozens of signatories, to go with its many critics",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/",
+      "summary": "<h4>Allows surveillance and cross-border evidence sharing, which worries human rights groups</h4> <p>The United Nations on Saturday staged a signing ceremony for the Convention against Cybercrime, the world’s first agreement to combat online crime. And while 72 nations picked up the pen, critics continue to point out the convention’s flaws.…</p>",
+      "published": "2025-10-27T03:51:36.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/08/22/shutterstock_un.jpg"
+    },
+    {
+      "title": "Australia sues Microsoft for misleading M365 users about Copilot subscription options",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/asia_tech_news_roundup/",
       "summary": "<h4>PLUS: China demotes tech self-sufficiency goal; Alibaba Cloud quietly quits VMware; India demands deepfake labels; and more!</h4> <p><strong>Asia In Brief</strong>  Australia’s Competition &amp; Consumer Commission on Monday commenced legal proceedings against Microsoft for allegedly misleading users of its Microsoft 365 bundle.…</p>",
       "published": "2025-10-27T00:09:48.00Z",
@@ -384,22 +400,6 @@
       "published": "2025-10-24T17:01:13.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/11/20/expletive.jpg"
-    },
-    {
-      "title": "Uncle Sam's new power plan will plug AI farms into the grid faster",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/doe_datacenter_grid_connection/",
-      "summary": "<h4>Proposal would fast-track hookups for the megawatt-hungry datacenters driving US electricity demand</h4> <p>The US Energy Secretary wants to see datacenters connected to the grid faster, and has directed the Federal Energy Regulatory Commission (FERC) to implement new rules that speed the process.…</p>",
-      "published": "2025-10-24T16:26:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/06/20/power_grid_connected_urban_area_shutterstock.jpg"
-    },
-    {
-      "title": "OpenAI goes after Microsoft 365 Copilot's lunch with 'company knowledge' feature",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/openai_chatgpt_company_knowledge/",
-      "summary": "<h4>ChatGPT can now rummage through corporate files via connectors, though Redmond still has the deeper hooks</h4> <p>OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-specific answers.…</p>",
-      "published": "2025-10-24T15:46:38.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/04/16/shutterstock_chatgpt.jpg"
     }
   ]
 }
