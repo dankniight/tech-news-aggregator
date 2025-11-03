@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-03T01:57:47.070012",
+  "lastUpdated": "2025-11-03T06:37:13.981822",
   "articles": [
     {
       "title": "Sequoia’s Roelof Botha warns founders about chasing sky-high valuations as the firm doubles down on its selective approach",
@@ -242,6 +242,30 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/Roadster_Hero-1-1152x648.jpg"
     },
     {
+      "title": "Network operator ponders building a new submarine cable – on land",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/seacom_africa_submarine_land_cable/",
+      "summary": "<h4>It’s less bonkers than it sounds given the challenges of wiring Africa</h4> <p>African carrier Seacom is investigating the feasibility of building a submarine cable that would run across the heart of Africa, on land.…</p>",
+      "published": "2025-11-03T05:58:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/06/26/shutterstock_africa_impacts_the_digital_world.jpg"
+    },
+    {
+      "title": "ISPs more likely to throttle netizens who connect through carrier-grade NAT: Cloudflare",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/",
+      "summary": "<h4>When operators see danger, innocent users are dragged down along with bad actors</h4> <p>Before the potential of the internet was appreciated around the world, nations that understood its importance managed to scoop outsized allocations of IPv4 addresses, actions that today mean many users in the rest of the world are more likely to find their connections throttled or blocked.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-03T04:33:46.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/01/shutterstock_global_networks.jpg"
+    },
+    {
+      "title": "White House says China to lift rare earth export bans, stop probes into US tech companies",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/asia_tech_news_roundup/",
+      "summary": "<h4>PLUS: Google's massive AI giveaway in India; Raid on Australian software company; Alleged scam camp owner's assets seized; and more!</h4> <p><strong>Asia In Brief</strong>  Last week’s trade talks between the USA and China have seen the two countries ease some trade restrictions.…</p>",
+      "published": "2025-11-03T01:57:20.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/03/shutterstock_editorial_only_china_xi_usa_trump.jpg"
+    },
+    {
       "title": "Attackers targeting unpatched Cisco kit notice malware implant removal, install it again",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/02/cyber_exec_pleads_guilty_to/",
       "summary": "<h4>PLUS: Cyber-exec admits selling secrets to Russia; LastPass isn't checking to see if you're dead; Nation-state backed Windows malware; and more</h4> <p><strong>Infosec in brief</strong>  Australia’s Signals Directorate (ASD) last Friday warned that attackers are installing an implant named “BADCANDY” on unpatched Cisco IOS XE devices and can detect deletion of their wares and reinstall their malware.…</p>",
@@ -376,30 +400,6 @@
       "published": "2025-10-31T17:09:41.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2021/04/02/bot.jpg"
-    },
-    {
-      "title": "A word about comments and forums...",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/the_register_house_rules_forums_comments/",
-      "summary": "<h4>Our house, our rules</h4> <p>One of the biggest surprises of my tenure at <em>El Reg</em> so far is the activity in our <a href=\"https://forums.theregister.com/\" target=\"_blank\">forums</a> and article comments. <em>Reg</em> readers are engaged, opinionated, and unafraid to express themselves. I love this. Thank you for reading, and for commenting.…</p>",
-      "published": "2025-10-31T17:03:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/09/06/dolphin_shutterstock.jpg"
-    },
-    {
-      "title": "Microsoft Task Manager now tasking PCs with running multiple copies of itself",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/microsoft_has_managed_to_break/",
-      "summary": "<h4>The once fearsome process killer is now a leaker of resources</h4> <p>Microsoft's ability to add bugs in the most unexpected of places has continued into its latest update to Windows 11, which spawns multiple copies of Task Manager, sucking down resources you'd normally use Task Manager to kill.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-10-31T16:40:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/31/shutterstock_735498373.jpg"
-    },
-    {
-      "title": "Russia finally bites the cybercrooks it raised, arresting suspected Meduza infostealer devs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/russia_arrests_three_meduza_cyber_suspects/",
-      "summary": "<h4>Rare case of the state turning on its own, but researchers say it may be doing so more often</h4> <p>Russia's Interior Ministry says police have arrested three suspects it believes helped build and spread the Meduza infostealer.…</p>",
-      "published": "2025-10-31T16:26:17.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/02/04/shutterstock_handcuffs.jpg"
     }
   ]
 }
