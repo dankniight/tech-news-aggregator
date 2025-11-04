@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-11-04T06:36:18.029770",
+  "lastUpdated": "2025-11-04T12:53:33.909018",
   "articles": [
+    {
+      "title": "iOS 26.1 lets you turn down liquid glass’ transparency",
+      "link": "https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/",
+      "summary": "Apple's latest iOS update doesn't introduce major features, but it does bring one highly-requested tweak: the ability to change the transparency of the translucent liquid glass design.",
+      "published": "Tue, 04 Nov 2025 12:03:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-photo.jpg?resize=1200,675"
+    },
+    {
+      "title": "Dune driving with Mercedes-Benz as it tests off-road systems",
+      "link": "https://arstechnica.com/cars/2025/11/dune-driving-with-mercedes-benz-as-it-tests-off-road-systems/",
+      "summary": "The low-traction surfaces of the Dumont Dunes are a perfect test location.",
+      "published": "Tue, 04 Nov 2025 10:00:27 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/25C0285_011-1152x648.jpg"
+    },
     {
       "title": "Wait, people actually use Facebook Dating?",
       "link": "https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/",
@@ -106,14 +122,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/l3harris-red-white-banner-1240744674.jpg?resize=1200,800"
     },
     {
-      "title": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
-      "link": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
-      "summary": "This deal was announced just hours after Microsoft announced a $9.7 billion deal with Australian data center company IREN.",
-      "published": "Mon, 03 Nov 2025 21:21:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863"
-    },
-    {
       "title": "Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says",
       "link": "https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/",
       "summary": "Proposed class action may force Spotify to pay back artists harmed by streaming fraud.",
@@ -194,14 +202,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/head-nasa-ground-every-flight-thanksgiving.jpg?quality=85"
     },
     {
-      "title": "Disruption to science will last longer than the US government shutdown",
-      "link": "https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/",
-      "summary": "The consequences of the shutdown extend far beyond a lapse in funding.",
-      "published": "Mon, 03 Nov 2025 14:45:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-1152x648.jpg"
-    },
-    {
       "title": "Studio Ghibli Demands That OpenAI Stop Ripping Off Its Work",
       "link": "https://futurism.com/artificial-intelligence/studio-ghibli-openai-stop-ripping-work",
       "summary": "<p>Japan is taking a stand.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/studio-ghibli-openai-stop-ripping-work\">Studio Ghibli Demands That OpenAI Stop Ripping Off Its Work</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -242,12 +242,76 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/10/cybertruck-lightbar-recall.jpg?quality=85"
     },
     {
+      "title": "OpenAI API moonlights as malware HQ in Microsoft’s latest discovery",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/openai_api_moonlights_as_malware/",
+      "summary": "<h4>Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel</h4> <p>Hackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.…</p>",
+      "published": "2025-11-04T12:08:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/02/23/backdoor_shutterstock.jpg"
+    },
+    {
+      "title": "Keeping the lights on takes up nearly all police IT spending in England and Wales",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/england_wales_it_policing_budget/",
+      "summary": "<h4>Plans for investing in AI and service transformation held up as treasury pulls plug, NAO finds</h4> <p>Police forces in England and Wales spend around 97 percent of their £2 billion ($2.6 billion) annual technology budget on maintaining legacy systems, an official report has found.…</p>",
+      "published": "2025-11-04T11:30:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/10/31/police_hacking.jpg"
+    },
+    {
+      "title": "'What the hell, Microsoft?' Users hit with incorrect ESU and LTSC Win10 out-of-support messages",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/windows_10_out_of_support_update/",
+      "summary": "<h4>Microsoft accidentally tells supported users that they aren't</h4> <p>Microsoft says a broken update left some Windows 10 users staring at an out-of-support message despite having an activated Extended Security Updates (ESU) license or a version of Windows 10 that is still officially supported.…</p>",
+      "published": "2025-11-04T11:13:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/07/31/shutterstock_167343158.jpg"
+    },
+    {
+      "title": "AI's trillion dollar deal wheel bubbling around Nvidia, OpenAI",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/the_circular_economy_of_ai/",
+      "summary": "<h4>How to build a trillion-dollar industry: Step 1, invest in your customers. Step 2, sell them stuff</h4> <p><strong>Feature</strong>  In late 2025, a series of multi-billion-dollar deals in the artificial intelligence sector is causing déjà vu among industry veterans. Money, computer chips, and cloud credits are rotating in a closed loop among a handful of companies: Nvidia, OpenAI, Microsoft, Oracle, AMD, CoreWeave, xAI, and a few others. This has fueled a trillion-dollar AI boom or bubble built on intertwined investments and contracts.…</p>",
+      "published": "2025-11-04T10:15:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/03/shutterstock_225669484.jpg"
+    },
+    {
+      "title": "Ministry of Defence's F-35 blunder: £57B and counting",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/uk_f35_capability_crimped_by/",
+      "summary": "<h4>Government spending watchdog eviscerates penny wise, pound foolish approach</h4> <p>Britain's Ministry of Defence (MoD) is being criticized for undermining its F-35 stealth fighter program through years of short-term budget decisions that have increased long-term costs and left the fleet understrength and undercapable.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-04T09:30:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/03/23/f35.jpg"
+    },
+    {
+      "title": "Google Cloud suspended customer's account three times, for three different reasons",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/",
+      "summary": "<h4>Experience leads company boss to decide 'I cannot rely on having a Google account for production use cases'</h4> <p>The founder of a service that manages SSL certificates says Google Cloud has suspended his account three times, without good reason, and recommended not using the G-Cloud for serious workloads.…</p>",
+      "published": "2025-11-04T07:28:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/04/shutterstock_cloudy_brain_explosion.jpg"
+    },
+    {
+      "title": "How a bunch of hackers freed the Kinect from the Xbox",
+      "link": "https://www.theverge.com/tech/812803/hacking-kinect-history",
+      "summary": "In 2010, when Microsoft unveiled the Kinect, it pitched the camera as a revolutionary new gaming device. Swing an imaginary lightsaber and that would be translated onscreen. Throw a football and it would be caught on your TV. Fifteen years later, we know the Kinect as an expensive failure. Microsoft overestimated the demand for playing [&#8230;]",
+      "published": "2025-11-04T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258036_death_of_kinect_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "China's president Xi Jinping jokes about backdoors in Xiaomi smartphones",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/chinas_president_xi_jinping_jokes/",
       "summary": "<h4>South Korea's president laughed, so perhaps it was funny? Unlike China's censorship and snooping</h4> <p>Chinese president Xi Jinping has joked that smartphones from Xiaomi might include backdoors.…</p>",
       "published": "2025-11-04T06:26:40.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/11/04/supplied_xi_jinping_and_lee_jae_myung.jpg"
+    },
+    {
+      "title": "Nintendo is raising its Switch 2 sales expectations",
+      "link": "https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings",
+      "summary": "The Switch 2’s popularity has exceeded even Nintendo’s anticipations, with the company raising its sales forecast for the console by more than 25 percent. In its latest earnings release, covering April 1st to September 30th, Nintendo now predicts that it’ll sell 19 million Switch 2 units by March 2026, compared to its previous forecast of [&#8230;]",
+      "published": "2025-11-04T05:46:07-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "LLMs are lousy at reading Asian languages, finds Singapore’s Grab",
@@ -274,54 +338,6 @@
       "image_url": "https://regmedia.co.uk/2025/11/04/supplied_cisco_ucs_xe9305_unified_edge_chassis.jpg"
     },
     {
-      "title": "Palantir CEO celebrates one cash culture to rule them all",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/palantir_ceo_celebrates_one_culture/",
-      "summary": "<h4>If you want your First Amendment rights, make money the Palantir way</h4> <p>Palantir CEO Alex Karp used his quarterly shareholder letter to take aim at critics after the company beat Q3 2025 earnings estimates.…</p>",
-      "published": "2025-11-04T01:05:26.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/04/30/shutterstock_palantir.jpg"
-    },
-    {
-      "title": "MIT Sloan quietly shelves AI ransomware study after researcher calls BS",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/mit_sloan_updates_ai_ransomware_paper/",
-      "summary": "<h4>Even AI has doubts about the claim that '80% of ransomware attacks are AI-driven'</h4> <p>Do 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researcher Kevin Beaumont.…</p>",
-      "published": "2025-11-03T22:31:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/03/08/ransomware_shutterstock.jpg"
-    },
-    {
-      "title": "Ransomware negotiator, pay thyself!",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/rogue_ransomware_negotiators/",
-      "summary": "<h4>Rogues committed extortion while working for infosec firms</h4> <p>A ransomware negotiator and an incident response manager at two separate cybersecurity firms have been indicted for allegedly carrying out ransomware attacks of their own against multiple US companies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-03T22:06:22.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/22/ransomware.jpg"
-    },
-    {
-      "title": "Google yanks Gemma after US senator says model ‘hallucinated’ her committing crimes",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/google_pulls_gemma_from_ai_studio/",
-      "summary": "<h4>Still available via API, the developer-facing AI isn't even really designed to answer general-purpose questions</h4> <p>If Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative activist. However, it seems like the aggrieved parties went out of their way to get the offending output.…</p>",
-      "published": "2025-11-03T21:34:03.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/22/gemma.jpg"
-    },
-    {
-      "title": "AWS, Nvidia, CrowdStrike seek security startups to enter the arena",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/cybersecurity_startup_accelerator/",
-      "summary": "<h4>Last year's winner scored a $65M funding round on a $300M valuation</h4> <p>Cloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.…</p>",
-      "published": "2025-11-03T20:11:54.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/05/06/shutterstock_business_boxing.jpg"
-    },
-    {
-      "title": "OpenAI spreads the imaginary wealth beyond Microsoft with $38B AWS deal",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/openai_inks_38b_deal_with_aws/",
-      "summary": "<h4>Amazon deal still dwarfed by $250B Azure commitment made as part of OpenAI's for-profit transformation</h4> <p>OpenAI has signed a seven-year, $38 billion agreement with Amazon Web Services, adding another hyperscaler alongside Microsoft Azure for its growing AI compute needs. Where it's getting all this money was not disclosed.…</p>",
-      "published": "2025-11-03T18:17:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/01/29/openai.jpg"
-    },
-    {
       "title": "I tested 30 smart locks, and these are the best",
       "link": "https://www.theverge.com/23393163/best-smart-door-lock",
       "summary": "A smart lock is an easy solution to some common problems. Locked yourself out? Need to let a friend in to water the plants? Your latchkey kid lost their key? Hands are full, and it’s raining cats and dogs? A smart lock solves all of these problems and more. One of the best smart home [&#8230;]",
@@ -332,7 +348,7 @@
     {
       "title": "No, ChatGPT hasn&#8217;t added a ban on giving legal and health advice",
       "link": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor",
-      "summary": "OpenAI says ChatGPT’s behavior “remains unchanged” after reports across social media falsely claimed that new s updates to its usage policy prevent the chatbot from offering legal and medical advice. Karan Singhal, OpenAI’s head of health AI, writes on X that the claims are “not true.”&#160; “ChatGPT has never been a substitute for professional advice, [&#8230;]",
+      "summary": "OpenAI says ChatGPT’s behavior “remains unchanged” after reports across social media falsely claimed that new updates to its usage policy prevent the chatbot from offering legal and medical advice. Karan Singhal, OpenAI’s head of health AI, writes on X that the claims are “not true.”  “ChatGPT has never been a substitute for professional advice, but [&#8230;]",
       "published": "2025-11-03T17:20:38-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -340,7 +356,7 @@
     {
       "title": "iOS 26.1 lets you tweak Liquid Glass, and it&#8217;s out now",
       "link": "https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability",
-      "summary": "Apple has just released iOS 26.1, which includes a new transparency toggle for Liquid Glass. The toggle helps address some of the legibility issues introduced in iOS 26 by allowing iPhone users to tone down the glassy design for buttons, tabs, and other navigational elements. As teased during the iOS 26.1 beta, with the toggle, [&#8230;]",
+      "summary": "Apple has just released iOS 26.1, which includes a new transparency toggle for Liquid Glass, expanded language features, and new controls for the Apple Music and Camera apps. The toggle helps address some of the legibility issues introduced in iOS 26 by allowing iPhone users to tone down the glassy design for buttons, tabs, and [&#8230;]",
       "published": "2025-11-03T17:20:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_apple_frost_glass_iphone_f76e1d.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -384,22 +400,6 @@
       "published": "2025-11-03T15:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257830_Buying_guide_gaming_laptop_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Alleged U Penn hacker claims they’re in it for money, not ‘primarily “anti-DEI”’",
-      "link": "https://www.theverge.com/policy/812700/university-pennsylvania-hack-data-sale-dei",
-      "summary": "A person claiming to be one of the University of Pennsylvania hackers says that about \"1.2 million lines of data\" will be kept private for the group to sell before it is made public. The group also plans to make other documents public. In comments to The Verge, the hacker or hackers distanced themselves from [&#8230;]",
-      "published": "2025-11-03T14:54:20-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s TV Streamer (4K) is down to its best price to date ahead of Black Friday",
-      "link": "https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale",
-      "summary": "With everything from the next Knives Out movie to the final season of Stranger Things on the way, there’s going to be a ton of great stuff to stream in the coming weeks. And if you want to watch it all in glorious 4K resolution, Google’s TV Streamer (4K) is a great streaming device that’s [&#8230;]",
-      "published": "2025-11-03T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
