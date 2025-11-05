@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-11-05T01:54:31.985160",
+  "lastUpdated": "2025-11-05T06:35:42.959296",
   "articles": [
+    {
+      "title": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion",
+      "link": "https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/",
+      "summary": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
+      "published": "Wed, 05 Nov 2025 05:20:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/moengage-ceo_b0228f.jpg?resize=1200,800"
+    },
+    {
+      "title": "NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups",
+      "link": "https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/",
+      "summary": "Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.",
+      "published": "Wed, 05 Nov 2025 03:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/india-flag.jpg?resize=1200,800"
+    },
     {
       "title": "Trump flips and re-nominates Jared Isaacman to lead NASA",
       "link": "https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/",
@@ -112,22 +128,6 @@
       "published": "Tue, 04 Nov 2025 19:35:51 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800"
-    },
-    {
-      "title": "Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package",
-      "link": "https://techcrunch.com/2025/11/04/norways-wealth-fund-vote-is-latest-blow-to-musks-1-trillion-pay-package/",
-      "summary": "Elon Musk is pushing for a $1 trillion performance pay package. Another major shareholder has said no.",
-      "published": "Tue, 04 Nov 2025 18:24:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-elon-illustration-getty.jpg?resize=1200,800"
-    },
-    {
-      "title": "Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x",
-      "link": "https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/",
-      "summary": "Shopify is bullish on AI-powered shopping agents, citing AI as an \"incredible tool\" to enable more entrepreneurs and calling it the \"biggest shift in technology since the internet\" during its third-quarter earnings call.",
-      "published": "Tue, 04 Nov 2025 18:20:55 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675"
     },
     {
       "title": "Some stinkbugs’ legs carry a mobile fungal garden",
@@ -242,6 +242,38 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/sam-altman-loses-cool-revenue.jpg?quality=85"
     },
     {
+      "title": "Supermicro admits building AI infrastructure is a tricky, low-margin business ... for now",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/supermicro_q1_2026/",
+      "summary": "<h4>Can’t rule out more revenue wobbles given the complexity of big projects</h4> <p>Server-maker and designer Supermicro has promised to improve performance, after missing its guided revenue and revealing its margins aren’t strong.…</p>",
+      "published": "2025-11-05T05:12:40.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/10/08/shutterstock_2428612287.jpg"
+    },
+    {
+      "title": "Tanzania back online after politically motivated five-day outage",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/tanzania_internet_outage/",
+      "summary": "<h4>Net access cut on election eve, resumed after widely-loathed president was sworn in after disputed poll</h4> <p>The African nation of Tanzania has reconnected to the internet after a five day outage.…</p>",
+      "published": "2025-11-05T03:57:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/05/shutterstock_tanzania_flag_code.jpg"
+    },
+    {
+      "title": "Amazon complains that Perplexity's agentic shopping bot is a terrible customer",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/amazon_perplexity_comet_legal_threat/",
+      "summary": "<h4>Perplexity likens Amazon's legal threat to an attempt to ban access to ... wrenches?</h4> <p>Amazon.com has sent a cease and desist letter to Perplexity in which it insists the AI company prevent its Comet browser from making automated purchases on behalf of users.…</p>",
+      "published": "2025-11-05T01:56:36.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/03/03/stop_shutterstock.jpg"
+    },
+    {
+      "title": "Epic and Google agree to settle their lawsuit and change Android’s fate globally",
+      "link": "https://www.theverge.com/policy/813991/epic-google-proposed-settlement",
+      "summary": "Just when we thought Epic v. Google might be over, just one Supreme Court rejection away from a complete victory for Epic, both sides have agreed to settle Tuesday evening. And if Judge James Donato, who ordered Google to crack open Android for third-party stores, agrees to the changes, it might turn Epic’s victory into [&#8230;]",
+      "published": "2025-11-05T00:48:48-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Google imagines out of this world AI - running on orbital datacenters",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/google_takes_ai_aspirations_orbital/",
       "summary": "<h4>Chocolate Factory's latest moonshot aims to put AI supercomputing cluster in sun-sychronous orbit</h4> <p>Google on Tuesday announced a new moonshot – launching constellations of solar-powered satellites packed to the gills with its home-grown tensor processing units (TPUs) to form orbital AI datacenters.…</p>",
@@ -322,14 +354,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070059/DSCF9169.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Consumer Financial Protection Bureau's security falls apart amid layoffs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/us_cfpb_infosec_posture_crumbles/",
-      "summary": "<h4>Security program fails to meet federal standards as government cuts drain resources</h4> <p>The infosec program run by the US' Consumer Financial Protection Bureau (CFPB) \"is not effective,\" according to a fresh audit published by the Office of the Inspector General (OIG).…</p>",
-      "published": "2025-11-04T17:52:46.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/06/12/usa_shutterstock.jpg"
-    },
-    {
       "title": "Apple Podcasts is generating automatic links and chapters",
       "link": "https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters",
       "summary": "Apple Podcasts will soon include automatically-generated chapters for shows in English and allow creators to add links at specific timestamps in their episodes. Timed links may also be added to episodes automatically whenever creators mention another podcast.  Creators can opt-out of both features, and chapters will only be generated when creators don’t add their own. [&#8230;]",
@@ -354,22 +378,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2023/10/Amazon-Fire-TV-4-Series.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Game on! Penguin levels up as Linux finally cracks 3% on Steam",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/steam_on_linux_numbers_up/",
-      "summary": "<h4>Only a point up in a year, but that’s a 50% leap for Linux gamers</h4> <p>The latest edition of Valve's monthly Steam Hardware &amp; Software Survey is out, showing a rise in Steam usage on Linux. Penguin likes to play!…</p>",
-      "published": "2025-11-04T16:56:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/04/shutterstock_2136230115.jpg"
-    },
-    {
-      "title": "Python slithers faster by adding lazy imports that load code after startup",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/python_to_embrace_lazy_imports/",
-      "summary": "<h4>PEP 810 approved following lengthy debate among developer community</h4> <p>Python programs are set to get faster startup times with PEP 810 \"Explicit lazy imports,\" which allows scripts to defer loading imported libraries until they're actually needed rather than at startup.…</p>",
-      "published": "2025-11-04T16:51:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/11/30/python.jpg"
-    },
-    {
       "title": "Microsoft AI&#8217;s first in-house image generator MAI-Image-1 is now available",
       "link": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1",
       "summary": "Microsoft’s first in-house AI image generator, MAI-Image-1, is now available in two products, Bing Image Creator and Copilot Audio Expressions. The company announced the model in October. Microsoft AI chief Mustafa Suleyman wrote in a post on X that the text-to-image model will be “coming soon” to the EU.&#160; Suleyman added that the model “really [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2025-11-04T16:36:41-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472500/STK271_PERPLEXITY_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Why Trump hijacked the .gov domain",
-      "link": "https://www.theverge.com/column/813499/viral-politics-trump-mamdani-cuomo",
-      "summary": "Hello and welcome to Regulator. Happy New York City mayoral election day to everyone who's voting, watching from afar, or just here for the memes. And happy 35th day of the federal government shutdown, which, as of today, is tied for the longest shutdown in history. But let's step back for a second, because there's [&#8230;]",
-      "published": "2025-11-04T16:33:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/White-House-internet.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
