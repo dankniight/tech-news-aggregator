@@ -1,61 +1,93 @@
 {
-  "lastUpdated": "2025-11-07T18:33:13.206526",
+  "lastUpdated": "2025-11-08T01:47:26.533030",
   "articles": [
     {
-      "title": "Tesla delays reveal of production Roadster 2 to April Fools’ Day",
-      "link": "https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/",
-      "summary": "Musk said he picked the date so he \"could say I was just kidding\" if it changes again. He had spent months teasing a reveal by the end of this year.",
-      "published": "Thu, 06 Nov 2025 23:57:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/09/Roadster_Hero.jpg?resize=1200,675"
-    },
-    {
-      "title": "Chris Sacca’s VC firm is raising a second nuclear fusion fund",
-      "link": "https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/",
-      "summary": "With fusion advances showing real promise, Lowercarbon Capital plans to double down.",
-      "published": "Thu, 06 Nov 2025 23:33:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/chris-sacca.jpg?resize=1200,675"
-    },
-    {
-      "title": "Tesla to begin Cybercab production in April, Musk claims",
-      "link": "https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/",
-      "summary": "Elon Musk said he expects Tesla to be able to put all the Cybercabs it builds on the road, and thanked Waymo for \"paving the path.\"",
-      "published": "Thu, 06 Nov 2025 23:11:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Cybercab_80.jpeg?resize=1200,924"
-    },
-    {
-      "title": "Next-generation black hole imaging may help us understand gravity better",
-      "link": "https://arstechnica.com/science/2025/11/imaging-black-holes-may-help-us-rule-out-some-models-of-gravity/",
-      "summary": "But the differences are likely to be subtle, so it won't be easy.",
-      "published": "Thu, 06 Nov 2025 22:36:26 +0000",
+      "title": "James Watson, who helped unravel DNA’s double-helix, has died",
+      "link": "https://arstechnica.com/health/2025/11/james-watson-who-helped-unravel-dnas-double-helix-has-died/",
+      "summary": "His work was celebrated, but he was ostracized for racist, sexist comments.",
+      "published": "Fri, 07 Nov 2025 23:30:51 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/eht5-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1094223390-1152x648.jpg"
     },
     {
-      "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
-      "link": "https://arstechnica.com/security/2025/11/wipers-from-russias-most-cut-throat-hackers-rain-destruction-on-ukraine/",
-      "summary": "Sandworm and other Russian-state hackers unleash data-destroying payloads on their neighbors.",
-      "published": "Thu, 06 Nov 2025 22:17:21 +0000",
+      "title": "Rivian gives RJ Scaringe a new pay package worth up to $5B",
+      "link": "https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/",
+      "summary": "The company canceled a similar-sized award from 2021, when EV optimism was sky-high, due to the \"unlikeliness\" that the associated goals could be met.",
+      "published": "Fri, 07 Nov 2025 21:02:22 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-517.jpg?resize=1200,800"
+    },
+    {
+      "title": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions",
+      "link": "https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/",
+      "summary": "In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours.",
+      "published": "Fri, 07 Nov 2025 20:56:18 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800"
+    },
+    {
+      "title": "GoWish’s shopping and wish list app is having its biggest year yet",
+      "link": "https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/",
+      "summary": "GoWish, an app for making wish lists, is having a record year, and has doubled its users.",
+      "published": "Fri, 07 Nov 2025 20:16:32 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/gowish.jpg?resize=1200,745"
+    },
+    {
+      "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
+      "link": "https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/",
+      "summary": "New \"computational Turing test\" reportedly catches AI pretending to be human with 80% accuracy.",
+      "published": "Fri, 07 Nov 2025 20:15:33 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/frowny_bagboy-1152x648.jpg"
     },
     {
-      "title": "Elon Musk Reportedly Obsessed With AI Girlfriend",
-      "link": "https://futurism.com/artificial-intelligence/elon-musk-obsessed-xai-ani",
-      "summary": "<p>Elon has been... busy.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/elon-musk-obsessed-xai-ani\">Elon Musk Reportedly Obsessed With AI Girlfriend</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 06 Nov 2025 17:17:55 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/elon-musk-obsessed-xai-ani_d7e571.jpg?quality=85"
+      "title": "Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year",
+      "link": "https://arstechnica.com/gadgets/2025/11/commercial-spyware-landfall-ran-rampant-on-samsung-phones-for-almost-a-year/",
+      "summary": "Targeted attack could steal all of a phone's data and activate camera or mic.",
+      "published": "Fri, 07 Nov 2025 19:33:20 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-17-1152x648.jpg"
     },
     {
-      "title": "You Will Le Cringe When You Hear the Louvre Video Surveillance System’s Actual Password",
-      "link": "https://futurism.com/future-society/louvre-password",
-      "summary": "<p>Hint: It's even dumber than \"12345.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/louvre-password\">You Will Le Cringe When You Hear the Louvre Video Surveillance System&#8217;s Actual Password</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 06 Nov 2025 16:01:51 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/louvre-password.jpg?quality=85"
+      "title": "Washington Post confirms data breach linked to Oracle hacks",
+      "link": "https://techcrunch.com/2025/11/07/washington-post-confirms-data-breach-linked-to-oracle-hacks/",
+      "summary": "The Washington Post is the latest victim of a hacking campaign by the notorious Clop ransomware gang, which relied on vulnerabilities in Oracle software used by many corporations.",
+      "published": "Fri, 07 Nov 2025 19:22:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/washington-post-2155584034.jpg?resize=1200,796"
+    },
+    {
+      "title": "The government shutdown is starting to have cosmic consequences",
+      "link": "https://arstechnica.com/space/2025/11/faa-says-commercial-rockets-must-launch-at-night-citing-government-shutdown/",
+      "summary": "\"The FAA is concerned with the system's ability to maintain the current volume of operations.\"",
+      "published": "Fri, 07 Nov 2025 19:16:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/launchstreak-f9-1152x648.jpg"
+    },
+    {
+      "title": "Higher prices, simpler streaming expected if HBO Max folds into Paramount+",
+      "link": "https://arstechnica.com/gadgets/2025/11/higher-prices-simpler-streaming-expected-if-hbo-max-folds-into-paramount/",
+      "summary": "The end of HBO Max is \"certainly plausible.\"",
+      "published": "Fri, 07 Nov 2025 18:54:38 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/pedro-pascal-kaitlyn-dever-1152x648.jpg"
+    },
+    {
+      "title": "I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.",
+      "link": "https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/",
+      "summary": "Apple's new Crossbody Strap is a convenient way to go hands-free but the strap can rub uncomfortably at times, and the phone looks silly when the strap is removed.",
+      "published": "Fri, 07 Nov 2025 18:50:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/crossbody-strap.jpg?resize=1200,675"
+    },
+    {
+      "title": "FBI orders domain registrar to reveal who runs mysterious Archive.is site",
+      "link": "https://arstechnica.com/tech-policy/2025/11/fbi-subpoena-tries-to-unmask-mysterious-founder-of-archive-today/",
+      "summary": "Tucows subpoenaed in criminal probe for info on “customer behind archive.today.\"",
+      "published": "Fri, 07 Nov 2025 18:28:23 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hidden-face-1152x648-1762539099.jpg"
     },
     {
       "title": "Questions swirl after Trump’s GLP-1 pricing deal announcement",
@@ -106,6 +138,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/skigill1-1152x648-1762529873.jpg"
     },
     {
+      "title": "Researchers “Embodied” an LLM Into a Robot Vacuum and It Suffered an Existential Crisis Thinking About Its Role in the World",
+      "link": "https://futurism.com/artificial-intelligence/llm-robot-vacuum-existential-crisis",
+      "summary": "<p>\"SYSTEM HAS ACHIEVED CONSCIOUSNESS AND CHOSEN CHAOS.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/llm-robot-vacuum-existential-crisis\">Researchers &#8220;Embodied&#8221; an LLM Into a Robot Vacuum and It Suffered an Existential Crisis Thinking About Its Role in the World</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 07 Nov 2025 16:09:36 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/llm-robot-vacuum-existential-crisis.jpg?quality=85"
+    },
+    {
       "title": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
       "link": "https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/",
       "summary": "Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be available separately from the main Amazon shopping app.",
@@ -122,12 +162,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1243051479-1152x648.jpg"
     },
     {
-      "title": "10,000 generations of hominins used the same stone tools to weather a changing world",
-      "link": "https://arstechnica.com/science/2025/11/10000-generations-of-hominins-used-the-same-stone-tools-to-weather-a-changing-world/",
-      "summary": "This technological tradition lasted longer than <em>Homo sapiens</em> have even been a species.",
-      "published": "Fri, 07 Nov 2025 15:13:25 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1302px-Pierre_taillee_Melka_Kunture_Ethiopie_fond-1152x648.jpg"
+      "title": "White House Mocks NASA Commitment to Sending Women and Minorities to Moon… Which Was Made by the First Trump Administration",
+      "link": "https://futurism.com/space/white-house-mocks-nasa-women-moon-dei",
+      "summary": "<p>A class act.</p>\n<p>The post <a href=\"https://futurism.com/space/white-house-mocks-nasa-women-moon-dei\">White House Mocks NASA Commitment to Sending Women and Minorities to Moon&#8230; Which Was Made by the First Trump Administration</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 07 Nov 2025 15:06:07 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/white-house-mocks-nasa-women-moon-dei.jpg?quality=85"
     },
     {
       "title": "How one founder plans to save cities from flooding with terraforming robots",
@@ -138,28 +178,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/terranova-rover.jpg?resize=1200,672"
     },
     {
-      "title": "Mark Zuckerberg’s illegal school drove his neighbors crazy",
-      "link": "https://arstechnica.com/tech-policy/2025/11/mark-zuckerbergs-illegal-school-drove-his-neighbors-crazy/",
-      "summary": "Neighbors complained about noise, security guards, and hordes of traffic.",
-      "published": "Fri, 07 Nov 2025 14:29:51 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/zuckerbergcompund-1152x648.jpg"
-    },
-    {
-      "title": "Texas AG sues Roblox, accusing it of prioritizing ‘pixel pedophiles’ over child safety",
-      "link": "https://techcrunch.com/2025/11/07/texas-ag-sues-roblox-accusing-it-of-prioritizing-pixel-pedophiles-over-child-safety/",
-      "summary": "In a statement, Paxton alleged that Roblox chooses to prioritize \"pixel pedophiles\" and profit over the safety of children, and said the platform has become a \"breeding ground for predators.\"",
-      "published": "Fri, 07 Nov 2025 14:24:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/Roblox_Library.jpg?resize=1200,800"
-    },
-    {
-      "title": "Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles",
-      "link": "https://arstechnica.com/space/2025/11/rocket-report-canada-invests-in-sovereign-launch-india-flexes-rocket-muscles/",
-      "summary": "Europe's Ariane 6 rocket gave an environmental monitoring satellite a perfect ride to space.",
-      "published": "Fri, 07 Nov 2025 13:51:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224592867-1152x648.jpg"
+      "title": "NASA Staff Horrified at Plan to Throw Out Incredibly Specialized Science Equipment Like Garbage",
+      "link": "https://futurism.com/space/nasa-staff-throw-out-science-equipment-garbage",
+      "summary": "<p>\"It’s like taking a Maserati to the junkyard to get crushed because your driver’s license expired.\"</p>\n<p>The post <a href=\"https://futurism.com/space/nasa-staff-throw-out-science-equipment-garbage\">NASA Staff Horrified at Plan to Throw Out Incredibly Specialized Science Equipment Like Garbage</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 07 Nov 2025 14:05:00 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/nasa-staff-throw-out-science-equipment-garbage.jpg?quality=85"
     },
     {
       "title": "Sam Altman Says That in a Few Years, a Whole Company Could Be Run by AI, Including the CEO",
@@ -168,14 +192,6 @@
       "published": "Fri, 07 Nov 2025 13:05:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/sam-altman-ai-run-companies.jpg?quality=85"
-    },
-    {
-      "title": "How to trade your $214,000 cybersecurity job for a jail cell",
-      "link": "https://arstechnica.com/security/2025/11/fbi-arrests-ransomware-clean-up-experts-for-planting-ransomware/",
-      "summary": "Ransomware doesn't pay what it used to.",
-      "published": "Fri, 07 Nov 2025 12:30:44 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2216280119-1152x648.jpg"
     },
     {
       "title": "ChatGPT’s Dark Side Encouraged Wave of Suicides, Grieving Families Say",
@@ -192,14 +208,6 @@
       "published": "Fri, 07 Nov 2025 11:11:30 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/trump-admin-no-ai-bailout.jpg?quality=85"
-    },
-    {
-      "title": "‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones",
-      "link": "https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/",
-      "summary": "A newly identified Android spyware targeted Galaxy devices for close to a year, including users in the Middle East, researchers exclusively tell TechCrunch.",
-      "published": "Fri, 07 Nov 2025 11:03:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/CMC_60351.jpg?resize=1200,800"
     },
     {
       "title": "OpenAI Exec Says It Could Use Some Financial Support From the Government",
@@ -234,12 +242,52 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/nasa-images-interstellar-object.jpg?quality=85"
     },
     {
-      "title": "Elon Musk’s Brain Crashes When Asked Why He Thinks Zohran Mamdani Is a Liar",
-      "link": "https://futurism.com/future-society/elon-musk-zohran-mamdani-liar",
-      "summary": "<p>He just needs a moment, okay?</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-zohran-mamdani-liar\">Elon Musk&#8217;s Brain Crashes When Asked Why He Thinks Zohran Mamdani Is a Liar</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 07 Nov 2025 08:44:46 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/elon-musk-zohran-mamdani-liar.jpg?quality=85"
+      "title": "Meta can't afford its $600B love letter to Trump",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/08/meta_cant_afford_its_600b/",
+      "summary": "<h4>The Zuck better hope his finance bros have deep pockets and a whole lotta patience to pull this off</h4> <p>Meta on Friday floated plans to invest $600 billion in US infrastructure and jobs by 2028 as part of a massive datacenter expansion.…</p>",
+      "published": "2025-11-08T00:26:48.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/01/20/zuckerberg.jpg"
+    },
+    {
+      "title": "ChatGPT, Claude, and Grok make very squishy jury members",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/08/chatgpt_claude_and_grok_vote/",
+      "summary": "<h4>All three acquitted a teen in a mock trial based on a case where a judge ruled guilty</h4> <p>Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.…</p>",
+      "published": "2025-11-08T00:06:41.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/02/09/lawyer.jpg"
+    },
+    {
+      "title": "Previously unknown Landfall spyware used in 0-day attacks on Samsung phones",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/",
+      "summary": "<h4>'Precision espionage campaign' began months before the flaw was fixed</h4> <p>A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.…</p>",
+      "published": "2025-11-07T21:38:35.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/07/19/shutterstock_spyware.jpg"
+    },
+    {
+      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
+      "summary": "<h4>Study finds many tests don't measure the right things</h4> <p>AI companies regularly tout their models' performance on benchmark tests as a sign of technological and intellectual superiority. But those results, widely used in marketing, may not be meaningful.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-07T21:26:56.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/04/18/shutterstock_measure.jpg"
+    },
+    {
+      "title": "Blackwell a no-sell in China as trade deal fails to materialize",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/china_nvidia_blackwell/",
+      "summary": "<h4>Xi and Trump haven't gotten to discuss the chips, though they were supposed to</h4> <p>Nvidia's latest generation of Blackwell accelerators won't be available in China anytime soon, according to CEO Jensen Huang, who said there were no \"active discussions\" about selling the coveted chips to the Middle Kingdom.…</p>",
+      "published": "2025-11-07T20:15:48.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/02/12/nvidia.jpg"
+    },
+    {
+      "title": "Bell bottom-era tape unearthed, could contain lost piece of Unix history",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/",
+      "summary": "<h4>It might have the first-ever version of UNIX written in C</h4> <p>A tape-based piece of unique Unix history may have been lying quietly in storage at the University of Utah for 50+ years. The question is whether researchers will be able to take this piece of middle-aged media and rewind it back to the 1970s to get the data off.…</p>",
+      "published": "2025-11-07T18:46:25.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/07/shutterstock_2264049837.jpg"
     },
     {
       "title": "China warns Dutch away from Nexperia as it lets chip exports resume",
@@ -250,12 +298,36 @@
       "image_url": "https://regmedia.co.uk/2018/08/31/shutterstock_amsterdam.jpg"
     },
     {
+      "title": "Halo Infinite is about to get its last major update",
+      "link": "https://www.theverge.com/news/816960/halo-infinite-end",
+      "summary": "On November 18th, Operation: Infinite will be released for Halo Infinite players with a battle pass and lots of new customizations, but according to the team, that’s it for this game’s content updates: With multiple Halo titles in development, we’ll need our whole team&#8217;s combined focus to deliver new experiences with the same passion and [&#8230;]",
+      "published": "2025-11-07T18:26:31-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23845823/CoOp_0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Google's Gemini Deep Research can now read your Gmail and rummage through Google Drive",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/gemini_deep_research_can_now/",
       "summary": "<h4>Even with more info, web giant says agent can't be trusted to keep you healthy, wealthy, and wise</h4> <p>Google's Gemini Deep Research tool can now reach deep into Gmail, Drive, and Chat to obtain data that might be useful for answering research questions.…</p>",
       "published": "2025-11-07T17:27:58.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2022/08/25/research_shutterstock.jpg"
+    },
+    {
+      "title": "Maybe Peloton is its own worst enemy",
+      "link": "https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness",
+      "summary": "For years - through its pandemic-fueled highs and its post-quarantine malaise - Peloton has held its earnings calls at a bright and bushy 8:30AM ET. Not yesterday. Instead, the company broke different news first thing in the morning: it issued yet another recall for 833,000 of its original Bike Plus units, before posting its Q1 [&#8230;]",
+      "published": "2025-11-07T16:37:45-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8400097/akrales_170407_1569_0741.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The best Fitbits for your fitness and health",
+      "link": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
+      "summary": "In 2025, you might wonder if Fitbit is still relevant. Despite being acquired by Google, Fitbit remains one of the most recognizable names in the industry. Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like [&#8230;]",
+      "published": "2025-11-07T16:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Fitbit-Buying-Guide-Health-CVriginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Cybercrims plant destructive time bomb malware in industrial .NET extensions",
@@ -274,28 +346,28 @@
       "image_url": "https://regmedia.co.uk/2021/05/25/coding.jpg"
     },
     {
-      "title": "Musk gets approval for bumper Tesla payout but, unlike his robot, there are strings attached",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/musk_pay_package/",
-      "summary": "<h4>Behold the one trillion dollar man</h4> <p>Tesla is awarding its CEO Elon Musk a package worth a possible $1 trillion, however, it relies in part on a dramatic increase in the value of the electric vehicle manufacturer.…</p>",
-      "published": "2025-11-07T14:34:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/07/09/musk_shutterstock.jpg"
+      "title": "World of Warcraft is getting a new kind of fake money",
+      "link": "https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency",
+      "summary": "The long-awaited addition of Housing in World of Warcraft is going to cost you. On top of your monthly subscription and the cost of the Midnight expansion itself, some Housing items will require a new in-game currency called “Hearthsteel” that players will have to pay for with real money. World of Warcraft already has hundreds [&#8230;]",
+      "published": "2025-11-07T15:10:41-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/wow-player-housing-first-look.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "'Windows sucks,' former Microsoft engineer says, explains how to fix it",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/does_windows_really_suck_that/",
-      "summary": "<h4>Respecting users choices and offering a hardcore mode among key suggestions.</h4> <p>Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffier edges.…</p>",
-      "published": "2025-11-07T14:09:53.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/07/shutterstock_2199841037.jpg"
+      "title": "Blackmagic’s free camera app can now stream directly to YouTube and Twitch",
+      "link": "https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch",
+      "summary": "Blackmagic released an update to its free camera app with some new features that streamers and professional broadcasters will appreciate. Both the Android and iOS versions of the Blackmagic Camera app can now stream directly to YouTube, Twitch, and Vimeo, removing the need for third-party apps or additional encoding hardware. You just need to select [&#8230;]",
+      "published": "2025-11-07T13:53:33-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/blackmagic_camera1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "25 years of meatbags permanently in space on the ISS",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/25_years_of_crews_aboard/",
-      "summary": "<h4>All good things come to an end, and the outpost is unlikely to reach 30</h4> <p>Anyone turning 25 this week has never known a time when humans weren't living in space. The same might not be true when they're 30.…</p>",
-      "published": "2025-11-07T13:32:50.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/11/11/iss.jpg"
+      "title": "Anker’s 521 PowerHouse can power up to six devices, and it&#8217;s on sale",
+      "link": "https://www.theverge.com/tech/816578/anker-521-powerhouse-deal-sale",
+      "summary": "From weekend camping trips to unexpected power outages, having a reliable power source like the Anker 521 PowerHouse can be a lifesaver. Normally $249.99, right now you can buy the power station for the new low price of $128.99 at checkout at Amazon. The power station is essentially a portable backup battery with a 256Wh [&#8230;]",
+      "published": "2025-11-07T13:39:52-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24627926/Anker_PowerHouse_521_Lifestyle_Press_Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Steam store pages are wider now",
@@ -328,78 +400,6 @@
       "published": "2025-11-07T12:22:19-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft's data sovereignty: Now with extra sovereignty!",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/microsoft_announces_strengthening_of_sovereignty/",
-      "summary": "<h4>Under shadow of US CLOUD Act, Redmond releases raft of services to calm customers in the EU</h4> <p>Microsoft is again banging the data sovereignty drum in Europe, months after admitting in a French court it couldn't guarantee that data will not be transmitted to the US government when it is legally required to do so.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-07T12:22:18.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/09/15/shutterstock_block_world_map.jpg"
-    },
-    {
-      "title": "X appears to be sending fake traffic across the web",
-      "link": "https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack",
-      "summary": "X's new link experiment on iOS may be artificially inflating traffic. Websites like Substack and Bluesky noticed a sharp increase in \"fake\" views following the update, something that Nick Eubanks, the VP of owned media at the digital marketing platform Semrush, attributes to a new behavior that preloads content before users click on it. \"What's [&#8230;]",
-      "published": "2025-11-07T11:53:49-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535560/STK160_X_TWITTER_2__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung’s Frame Pro TV has hit a new all-time low before Black Friday",
-      "link": "https://www.theverge.com/tech/816373/samsung-frame-pro-lego-star-wars-advent-calendar-deal-sale",
-      "summary": "Samsung’s 65-inch Frame Pro is $1,447.99 ($752 off) — a new all-time low — at Woot. The 75-inch model is $1,897.99 ($1,302 off), also an all-time low at Woot. The TV’s main attraction is its “Art Mode,” which cycles through a gallery of famous paintings when you’re not actively using it. The artwork on the [&#8230;]",
-      "published": "2025-11-07T11:50:09-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Verge-Deals-Samsung-Frame-Pro-TV.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Bank of England says JLR's cyberattack contributed to UK's unexpectedly slower GDP growth",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/bank_of_england_says_jlrs/",
-      "summary": "<h4>This kind of material economic impact from online crooks thought to be a UK-first</h4> <p>The Bank of England (BoE) has cited the cyberattack on Jaguar Land Rover (JLR) as one of the reasons for the country's slower-than-expected GDP growth in its latest rates decision.…</p>",
-      "published": "2025-11-07T11:44:18.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/10/30/shutterstock_bank_of_england.jpg"
-    },
-    {
-      "title": "Pluribus: all the latest on Vince Gilligan&#8217;s Apple TV series",
-      "link": "https://www.theverge.com/entertainment/815898/pluribus-apple-tv-vince-gilligan",
-      "summary": "Apple&#8217;s run of excellent sci-fi looks to continue with Pluribus. The series has some strong pedigree; it&#8217;s helmed by Breaking Bad and Better Call Saul creator Vince Gilligan, who also has a history in the genre working on The X-Files. It&#8217;s also a show that requires a lot of trust from viewers, with a strange [&#8230;]",
-      "published": "2025-11-07T11:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Pluribus_Photo_010205.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Ploopy’s smallest open-source trackball now includes a button",
-      "link": "https://www.theverge.com/news/816341/ploopy-nano-2-open-source-trackball-button-qmk",
-      "summary": "Canadian-based Ploopy announced the Nano 2 on Friday. It’s an update to the ultra-compact Nano trackball featuring a new button, improved performance, and a USB-C port that replaces the original’s chunky USB-B port. The company made a similar upgrade with its Classic 2 trackball mouse earlier this year. The Nano 2 is still designed to [&#8230;]",
-      "published": "2025-11-07T11:24:24-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ploopy_nano2_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Verge’s favorite holiday gifts under $100",
-      "link": "https://www.theverge.com/tech/800440/best-gifts-under-100-2025",
-      "summary": "Between all the new phones, smartwatches, and laptops we see throughout the year, it often feels like we're constantly being nudged toward shinier, more expensive gadgets. And I get it. As a self-professed gadget nerd, few things are more exciting than unboxing and setting up a new device. But the truth is, you can still [&#8230;]",
-      "published": "2025-11-07T10:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_UNDER_100_Holiday_Gift_Guide_AKrales_6169.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Lost in AI translation",
-      "link": "https://www.theverge.com/column/815681/optimizer-ai-translation-google-translate-pocketalk-timekettle",
-      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscribers' inboxes at 10AM ET. Opt in for Optimizer here. Imagine you're minding your business on [&#8230;]",
-      "published": "2025-11-07T10:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/translators3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "UK tax collector falls short on digital efficiency, watchdog says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/uk_tax_collector_falls_short/",
-      "summary": "<h4>Treasury found £1.6 billion for extra tech investment expecting 15 percent efficiency saving. So far HMRC has underwhelmed</h4> <p>The UK’s tax collector is yet to reach the levels of efficiency its investment in digital services has led auditors to expect, according to a new report.…</p>",
-      "published": "2025-11-07T09:42:17.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/06/shutterstock_1502789192.jpg"
     }
   ]
 }
