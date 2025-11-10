@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-10T01:59:02.043667",
+  "lastUpdated": "2025-11-10T06:38:17.533220",
   "articles": [
     {
       "title": "Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy",
@@ -242,6 +242,22 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg"
     },
     {
+      "title": "Techie ran up $40,000 bill trying to download a driver",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/who_me/",
+      "summary": "<h4>In the dialup age, small mistakes could cost big money</h4> <p><strong>Who, Me?</strong>  Welcome to another week in the world of work, and therefore also to another edition of Who, Me? It’s <i>The Register</i>’s Monday reader-contributed column in which you admit to the error of your ways.…</p>",
+      "published": "2025-11-10T06:30:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/01/20/screenshot_os2_warp.jpg"
+    },
+    {
+      "title": "Microsoft teases agents that become ‘independent users within the workforce’",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/microsoft_agentic_users_a365/",
+      "summary": "<h4>Licensing expert worries they’ll be out of control on day one</h4> <p>Microsoft has teased what it’s calling “a new class” of AI agents “that operate as independent users within the enterprise workforce.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-10T02:31:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/10/shutterstock_editorial_only_teams_and_copilot.jpg"
+    },
+    {
       "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/09/asia_tech_news_roundup/",
       "summary": "<h4>PLUS: India’s tech services exports growing fast; South Korea puts the bite on TXT spam; NTT gets into autonomous vehicles; and more!</h4> <p><strong>Asia In Brief</strong>  Chinese infosec blog MXRN last week <a href=\"https://mrxn.net/news/Knownsec-data-leak.html\" target=\"_blank\">reported</a> a data breach at a security company called Knownsec that has ties to Beijing and Chinas military.…</p>",
@@ -384,22 +400,6 @@
       "published": "2025-11-08T00:06:41.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2021/02/09/lawyer.jpg"
-    },
-    {
-      "title": "Previously unknown Landfall spyware used in 0-day attacks on Samsung phones",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/",
-      "summary": "<h4>'Precision espionage campaign' began months before the flaw was fixed</h4> <p>A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.…</p>",
-      "published": "2025-11-07T21:38:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/07/19/shutterstock_spyware.jpg"
-    },
-    {
-      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
-      "summary": "<h4>Study finds many tests don't measure the right things</h4> <p>AI companies regularly tout their models' performance on benchmark tests as a sign of technological and intellectual superiority. But those results, widely used in marketing, may not be meaningful.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-07T21:26:56.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/04/18/shutterstock_measure.jpg"
     }
   ]
 }
