@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-11T06:36:20.453083",
+  "lastUpdated": "2025-11-11T12:50:29.285503",
   "articles": [
     {
       "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
@@ -242,6 +242,70 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/trump-claim-cited-to-dunning-kruger-times.jpg?quality=85"
     },
     {
+      "title": "Hitachi-owned GlobalLogic admits data stolen on 10k current and former staff",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/hitachiowned_globallogic_admits_data_stolen/",
+      "summary": "<h4>Clop's Oracle EBS exploit spree shows no sign of slowing, claims nearly 30 more casualties in media, finance, and tech.</h4> <p>Digital engineering outfit GlobalLogic says personal data from more than 10,000 current and former employees was exposed in the wave of Oracle E-Business Suite (EBS) attacks attributed to the Clop ransomware gang. The Hitachi-owned biz joins a growing roster of high-profile victims that also now includes The Washington Post and Allianz UK.…</p>",
+      "published": "2025-11-11T12:20:20.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/04/17/shutterstock_attack.jpg"
+    },
+    {
+      "title": "UK asks cyberspies to probe whether Chinese buses can be switched off remotely",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/uk_probe_china_bus_claim/",
+      "summary": "<h4>Norwegian testers claim maker has remote access, while UK importer says supplier complies with the law</h4> <p>UK governmental is working with the National Cyber Security Centre to understand and \"mitigate\" any risk that China-made imported electric buses could be remotely accessed and potentially disabled.…</p>",
+      "published": "2025-11-11T11:55:38.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/12/20/shutterstock_switchoff.jpg"
+    },
+    {
+      "title": "Battery trade war hits booming datacenter industry",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/analysts_forecast_bit_barn_battery/",
+      "summary": "<h4>Tariffs can't stop cheaper, better Chinese tech, says Jefferies. Tesla is Amercia's great hope</h4> <p>Battery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over the next decade.…</p>",
+      "published": "2025-11-11T11:37:49.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/10/datacenter_battery_energy_storage_systems.jpg"
+    },
+    {
+      "title": "Cyber insurers paid out over twice as much for UK ransomware attacks last year",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/ransomware_surge_fuels_230_increase/",
+      "summary": "<h4>Massive increase in policy claims… and data doesn’t even cover the major attacks of 2025</h4> <p>The number of successful cyber insurance claims made by UK organizations shot up last year, according to the latest figures from the industry's trade association.…</p>",
+      "published": "2025-11-11T11:04:48.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/02/17/shutterstock_ransomware.jpg"
+    },
+    {
+      "title": "UK's Ajax fighting vehicle arrives – years late and still sending crew to hospital",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/uks_ajax_fighting_vehicle_late/",
+      "summary": "<h4>Continuous track of long awaited AFV hits the ground ... and the terrain is pretty bumpy</h4> <p>The British Army just received its first new armored fighting vehicle (AFV) for nearly three decades, but it is years late, hit by rising costs, is still reportedly injuring its crew, and there are questions about whether it remains relevant in the age of drone warfare. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-11T10:09:34.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/10/ajax_2_mod_crown_copyright.jpg"
+    },
+    {
+      "title": "AI isn't throttling HPC. It <em>is</em> HPC",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/ai_hpc_opinion_piece/",
+      "summary": "<h4>Your real problem: 40kW racks, melting datacenters and rising power bills</h4> <p><strong>Opinion</strong>  In recent discussions with industry vendor sales/marketing types, I've been hearing that HPC demand is falling off while AI system demand is continuing to increase. I've also seen articles implying that AI is somehow displacing HPC. Huh?…</p>",
+      "published": "2025-11-11T09:30:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/02/15/death_shutterstock.jpg"
+    },
+    {
+      "title": "Samsung brings a generative AI-powered Bixby to its TVs",
+      "link": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational",
+      "summary": "Samsung is rolling out new conversational AI across its 2025 TVs that lets users ask questions about what’s on the screen and beyond it. First announced in September, the generative AI update is rolling out now with support for several languages. Vision AI Companion is based on an upgraded, generative AI-based version of Samsung’s virtual [&#8230;]",
+      "published": "2025-11-11T07:37:26-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-vision-ai-companion-bixby-tv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple made a $230 crossbody… sock",
+      "link": "https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag",
+      "summary": "If you were confused about Apple releasing a crossbody iPhone strap, then you’re going to find its new iPhone Pocket even more perplexing. The Pocket is actually a knitted bag, though it might be more apt to describe it as a sock designed to snugly encase your iPhone, instead of just sticking it in your [&#8230;]",
+      "published": "2025-11-11T05:22:27-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Apple-iPhone-Pocket-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Intel CTO and AI boss quits to join OpenAI after just six months in the job",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/intel_ai_cto_quits_joins_openai/",
       "summary": "<h4>Sachin Katti was one of new Intel CEO Lip Bu Tan's first appointments</h4> <p>Sachin Katti, the exec Intel promoted to chief technology and AI officer in April, will leave the x86 giant to join OpenAI after just six months in the job.…</p>",
@@ -274,60 +338,12 @@
       "image_url": "https://regmedia.co.uk/2025/11/10/shutterstock_2418478753.jpg"
     },
     {
-      "title": "AI companies keep publishing private API keys to GitHub",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/ai_companies_private_api_keys_github/",
-      "summary": "<h4>Security biz Wiz says 65% of top AI businesses leak keys and tokens</h4> <p>Leading AI companies turn out to be no better at keeping secrets than anyone else writing code.…</p>",
-      "published": "2025-11-10T21:44:16.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/07/12/shutterstock_holes_in_bucket.jpg"
-    },
-    {
-      "title": "AI slop hits new high as fake country artist hits #1 on Billboard digital songs chart",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/ai_country_artist_hits_number_one/",
-      "summary": "<h4>It sounds a lot like everything else</h4> <p>AI slop has reached a new level of ascendancy, as a country song by an AI artist has hit number one on Billboard's Country Digital Song Sales chart.…</p>",
-      "published": "2025-11-10T21:21:32.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/10/ai-cowboy.jpg"
-    },
-    {
-      "title": "Altman sticks a different hand out, wants tax credits instead of gov loans",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/altman_ai_tax_credit/",
-      "summary": "<h4>We can't let supply chain shortages burst the bubble boy's balloon</h4> <p>Free money is always better than a loan! OpenAI CEO Sam Altman recently said he doesn't want government-backed loans to fuel his AI ambitions, but he's more than okay with the idea of Uncle Sam handing out tax credits under the US CHIPS Act to subsidize AI server production, bit barns, and grid components.…</p>",
-      "published": "2025-11-10T20:37:58.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/22/shutterstock_sam_altman.jpg"
-    },
-    {
-      "title": "Critical federal cybersecurity funding set to resume as government shutdown draws to a close - for now",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/federal_cybersecurity_funding_set_to_resume/",
-      "summary": "<h4>Resolution acquiesced to by 8 Dems includes CISA Act funding, layoff reversals, and could be easily undone</h4> <p>The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shutdown. Part of the spending bill also restores critical cybersecurity programs that lapsed as the shutdown began. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-10T19:01:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/07/21/congress_shutterstock.jpg"
-    },
-    {
-      "title": "Phishers try to lure 5K Facebook advertisers with fake business pages",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/5k_facebook_advertising_customers_phishing/",
-      "summary": "<h4>One company alone was hit with more than 4,200 emails</h4> <p>More than 5,000 businesses that use Facebook for advertising were bombarded by tens of thousands of phishing emails in a credential- and data-stealing campaign.…</p>",
-      "published": "2025-11-10T18:34:46.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/03/shutterstock_phishing.jpg"
-    },
-    {
       "title": "Siri Shortcuts now works with Samsung SmartThings routines",
       "link": "https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support",
       "summary": "Samsung’s latest SmartThings update adds support for Siri Shortcuts. In a press release, Samsung announced that you can now use Siri to run SmartThings routines, allowing you to use Apple’s voice assistant to control your smart home. Siri Shortcuts is a feature in iOS that lets you run automations by asking Siri. These can either [&#8230;]",
       "published": "2025-11-10T17:49:43-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_220504_STK123_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "How to bluff your way to AI credibility with the right buzzwords",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/ai_credibility_buzzwords/",
-      "summary": "<h4>As Gartner offers another serving of word salad, it’s time to know your skillatrophy from your pipeline choke</h4> <p>A Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that work by themselves. Good news: The analyst firm claims AI causes only one percent of job losses. Bad news: You'll have to learn some new jargon.…</p>",
-      "published": "2025-11-10T17:42:51.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/10/shutterstock_1856055466.jpg"
     },
     {
       "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
@@ -384,22 +400,6 @@
       "published": "2025-11-10T15:02:52-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01678.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Gemini for TV is coming to Google TV Streamer starting today",
-      "link": "https://www.theverge.com/news/817831/gemini-for-tv-google-tv-streamer-roll-out",
-      "summary": "Gemini for TV is rolling out to Google TV Streamer devices starting today, allowing almost anyone to try it out. Since it launched back in September, Gemini for TV has only been available on a limited number of smart TVs. If you didn’t have one of those devices, you were out of luck. Gemini for [&#8230;]",
-      "published": "2025-11-10T14:44:07-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/google-gemini-on-google-tv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple’s AirPods 4 just hit their lowest price yet at $85",
-      "link": "https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale",
-      "summary": "I’ve seen dozens of solid deals trickle in ahead of Black Friday, but Apple’s AirPods 4 hitting a new all-time low is the first one that&#8217;s really stood out to me. Right now, you can buy Apple’s entry-level wireless earbuds for just $84.99 ($44 off) at Amazon, Best Buy, and Walmart, which beats the previous [&#8230;]",
-      "published": "2025-11-10T13:47:53-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
