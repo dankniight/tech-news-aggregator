@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-13T01:55:59.957026",
+  "lastUpdated": "2025-11-13T06:36:47.675005",
   "articles": [
     {
       "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
@@ -66,7 +66,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800"
     },
     {
-      "title": "Court rules that OpenAI violated German copyright law; ordered it to pay damages",
+      "title": "Court rules that OpenAI violated German copyright law; orders it to pay damages",
       "link": "https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/",
       "summary": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
       "published": "Wed, 12 Nov 2025 19:18:59 +0000",
@@ -136,22 +136,6 @@
       "published": "Wed, 12 Nov 2025 17:12:07 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Bat-robot.jpg?resize=1200,800"
-    },
-    {
-      "title": "Productivity app Hero announces an SDK that will complete your AI prompts for you",
-      "link": "https://techcrunch.com/2025/11/12/productivity-app-hero-announces-an-sdk-that-will-complete-your-ai-prompts-for-you/",
-      "summary": "The autocomplete will help users create more effective prompts for AI apps, resulting in fewer back-and-forths.",
-      "published": "Wed, 12 Nov 2025 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Book-Flight-Wide.jpeg?resize=1200,675"
-    },
-    {
-      "title": "Radio streamer TuneIn acquired for $175M",
-      "link": "https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/",
-      "summary": "Founded in 2002, TuneIn was an early player in the online music space. Unlike rivals such as Apple Music or Spotify Premium that offer ad-free, subscription-based music on demand, TuneIn focused on streaming traditional radio stations over the internet.",
-      "published": "Wed, 12 Nov 2025 16:57:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2017/01/tunein.jpg?resize=1200,797"
     },
     {
       "title": "Billboard’s Top Country Song Is Currently AI Slop",
@@ -234,12 +218,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/nvidia-stock-softbank-ai.jpg?quality=85"
     },
     {
+      "title": "Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming",
+      "link": "https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/",
+      "summary": "Varaha aims to support around 337,000 farmers across 675,000 hectares in northern India through its regenerative farming project.",
+      "published": "Thu, 13 Nov 2025 05:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/varaha-regenerative-agriculture-project.jpg?resize=1200,800"
+    },
+    {
+      "title": "Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive",
+      "link": "https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/",
+      "summary": "Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of six-second, looping videos. A new app called diVine will give access to more than 100,000 archived Vine videos, restored from an older backup that was created before Vine's shutdown.",
+      "published": "Thu, 13 Nov 2025 02:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2016/11/twitter-sell-vine1.png?w=738"
+    },
+    {
       "title": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
       "link": "https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/",
       "summary": "Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.",
       "published": "Thu, 13 Nov 2025 00:05:30 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-924636730.jpg?resize=1200,1000"
+    },
+    {
+      "title": "Russia’s first autonomous humanoid robot staggers and falls on debut",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/aidol_russia_robot_fail/",
+      "summary": "<h4>Go home, comrade clanker, you look drunk – and worryingly angry</h4> <p>A semi-autonomous humanoid robot said to be Russia’s first such machine has fallen over within seconds of facing the public for the first time.…</p>",
+      "published": "2025-11-13T04:31:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/13/supplied_aidol_robot.jpg"
+    },
+    {
+      "title": "Google to allow Android users with high pain tolerance to sideload unverified apps",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/google_keep_android_open_response/",
+      "summary": "<h4>Promises some easing of rules that knobble indie devs, eventually</h4> <p>Google has decided to loosen some of its recently introduced rules regarding registration of Android developers and their apps, but isn’t rushing to deliver the modest changes it plans.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-13T03:47:19.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/13/shutterstock_emo_android_logo.jpg"
     },
     {
       "title": "Atlassian twice shunned AWS Graviton CPUs, but now runs Jira and Confluence on them",
@@ -300,7 +316,7 @@
     {
       "title": "Sony is making a Horizon MMO — here’s the video and details",
       "link": "https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation",
-      "summary": "The rumored MMO set in Sony’s post-apocalyptic Horizon universe is real — and we’ve seen a video spilling details about the game before it’s been announced.&#160; The new game is called Horizon Steel Frontiers, and Sony and the Korean video game company NCSoft are working on it together. Based on a more than 10-minute video [&#8230;]",
+      "summary": "The rumored MMO set in Sony’s post-apocalyptic Horizon universe is real. We spilled details about the game before it was revealed based on an announcement video we saw, and that video has been officially posted — and more has been shared about the title, too. The new game is called Horizon Steel Frontiers, and Sony [&#8230;]",
       "published": "2025-11-12T19:32:52-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/HorizonSteelFrontiers_KEYART.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -320,22 +336,6 @@
       "published": "2025-11-12T17:31:26-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257645_budget_robovac_guide_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Attackers turned Citrix, Cisco 0-day exploits into custom-malware hellscape",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/amazon_cisco_citrix_0day_exploits/",
-      "summary": "<h4>Vendors (still) keep mum</h4> <p>An \"advanced\" attacker exploited CitrixBleed 2 and a max-severity Cisco Identity Services Engine (ISE) bug as zero-days to deploy custom malware, according to Amazon Chief Information Security Officer CJ Moses.…</p>",
-      "published": "2025-11-12T17:16:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/01/05/zero_shutterstock.jpg"
-    },
-    {
-      "title": "Apple knits up $230 sock for your iPhone in time for Christmas",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/apple_iphone_pocket/",
-      "summary": "<h4>Fashion house behind Jobs' turtleneck helps with pricey new accessory line</h4> <p>Apple, the reassuringly expensive US technology brand, is selling a sock in which iPhone owners can house their gadget.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-12T17:02:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/12/apple_biz_model.png"
     },
     {
       "title": "The Steam Frame has two speakers on each side of your face for vibration cancellation",
