@@ -1,29 +1,133 @@
 {
-  "lastUpdated": "2025-11-12T18:33:04.688180",
+  "lastUpdated": "2025-11-13T01:55:59.957026",
   "articles": [
     {
-      "title": "Corals survived past climate changes by retreating to the deeps",
-      "link": "https://arstechnica.com/science/2025/11/corals-survived-past-climate-changes-by-retreating-to-the-deeps/",
-      "summary": "A recent die-off in Florida puts the spotlight on corals' survival strategies.",
-      "published": "Wed, 12 Nov 2025 17:35:36 +0000",
+      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
+      "link": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
+      "summary": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
+      "published": "Wed, 12 Nov 2025 22:54:47 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1708146111-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-1152x648.jpg"
+    },
+    {
+      "title": "With another record broken, the world’s busiest spaceport keeps getting busier",
+      "link": "https://arstechnica.com/space/2025/11/with-another-record-broken-the-worlds-busiest-spaceport-keeps-getting-busier/",
+      "summary": "It's not just the number of rocket launches, but how much stuff they're carrying into orbit.",
+      "published": "Wed, 12 Nov 2025 22:12:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_9791-1-1152x648-1762927742.jpg"
+    },
+    {
+      "title": "Microsoft releases update-fixing update for update-eligible Windows 10 PCs",
+      "link": "https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/",
+      "summary": "A bug was keeping Windows 10 PCs from enrolling in Microsoft's ESU program.",
+      "published": "Wed, 12 Nov 2025 20:38:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/win10-new-1152x648.jpg"
+    },
+    {
+      "title": "An explosion 92 million miles away just grounded Jeff Bezos’ New Glenn rocket",
+      "link": "https://arstechnica.com/space/2025/11/an-explosion-92-million-miles-away-just-grounded-jeff-bezos-new-glenn-rocket/",
+      "summary": "\"NASA is postponing launch until space weather conditions improve.\"",
+      "published": "Wed, 12 Nov 2025 20:28:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Oct_2_M7pt3_Flare_171-304-131_Crop-1152x648-1762966677.jpg"
+    },
+    {
+      "title": "Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment",
+      "link": "https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/",
+      "summary": "Deepwatch’s CEO told TechCrunch that the layoffs allow the company to accelerate investments in “AI and automation.”",
+      "published": "Wed, 12 Nov 2025 20:05:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675"
+    },
+    {
+      "title": "ElevenLabs strike deals with celebs to create AI audio",
+      "link": "https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/",
+      "summary": "ElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices.",
+      "published": "Wed, 12 Nov 2025 20:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-co-founders.jpg?resize=1200,675"
+    },
+    {
+      "title": "Well-received big-budget Alien Earth TV series gets a second season",
+      "link": "https://arstechnica.com/culture/2025/11/alien-earth-and-series-creator-noah-hawley-will-return-for-season-2/",
+      "summary": "Production will move from Thailand to London, suggesting a new setting.",
+      "published": "Wed, 12 Nov 2025 19:53:07 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/alien-earth-facehugger-1152x648.jpg"
+    },
+    {
+      "title": "Elon Musk’s X botched its security key switchover, locking users out",
+      "link": "https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/",
+      "summary": "As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll — but are getting stuck in endless loops and unable to finish.",
+      "published": "Wed, 12 Nov 2025 19:40:08 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800"
+    },
+    {
+      "title": "Court rules that OpenAI violated German copyright law; ordered it to pay damages",
+      "link": "https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/",
+      "summary": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
+      "published": "Wed, 12 Nov 2025 19:18:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800"
+    },
+    {
+      "title": "Audi goes full minimalism for its first-ever Formula 1 livery",
+      "link": "https://arstechnica.com/cars/2025/11/audi-goes-full-minimalism-for-its-first-ever-formula-1-livery/",
+      "summary": "Audi says it wants to be an F1 title contender by 2030.",
+      "published": "Wed, 12 Nov 2025 19:17:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Audi-F1-livery-reveal-8-of-9-1152x648.jpg"
+    },
+    {
+      "title": "Quantum computing tech keeps edging forward",
+      "link": "https://arstechnica.com/science/2025/11/quantum-roundup-lots-of-companies-announcing-new-tech/",
+      "summary": "IBM follows through on its June promises, plus more trapped ion news.",
+      "published": "Wed, 12 Nov 2025 18:59:38 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IBM-Quantum-Loon-Wafer_2-1152x648.jpg"
+    },
+    {
+      "title": "iOS 26.2 beta adds new Liquid Glass customization, alarms in the Reminders app, and more",
+      "link": "https://techcrunch.com/2025/11/12/ios-26-2-beta-adds-new-liquid-glass-customization-alarms-in-the-reminders-app-and-more/",
+      "summary": "Apple released the iOS 26.2 beta 1 last week, introducing the option to adjust the Liquid Glass appearance of the lock screen clock, and more.",
+      "published": "Wed, 12 Nov 2025 18:42:33 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-iOS-26-hero-250609_big.jpg.large_.jpg?w=980"
+    },
+    {
+      "title": "Super Mario Galaxy Movie trailer introduces Princess Rosalina",
+      "link": "https://arstechnica.com/culture/2025/11/nintendo-drops-official-trailer-for-super-mario-galaxy-movie/",
+      "summary": "It's a sequel to 2023's <em>Super Mario Bros. Movie</em>, which racked up $1.36 billion at the box office.",
+      "published": "Wed, 12 Nov 2025 18:37:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/galaxy6-1152x648.jpg"
+    },
+    {
+      "title": "OpenAI slams court order that lets NYT read 20 million complete user chats",
+      "link": "https://arstechnica.com/tech-policy/2025/11/openai-fights-order-to-hand-over-20-million-private-chatgpt-conversations/",
+      "summary": "OpenAI: NYT wants evidence of ChatGPT users trying to get around news paywall.",
+      "published": "Wed, 12 Nov 2025 18:27:27 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-app-icon-1152x648-1762971088.jpg"
+    },
+    {
+      "title": "Valve rejoins the VR hardware wars with standalone Steam Frame",
+      "link": "https://arstechnica.com/gaming/2025/11/valve-rejoins-the-vr-hardware-wars-with-standalone-steam-frame/",
+      "summary": "SteamOS-powered headset sports semi-modular design, wireless \"low-latency\" PC streaming.",
+      "published": "Wed, 12 Nov 2025 18:00:43 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SF_headsetControllers_3Q-1152x648.jpg"
     },
     {
       "title": "YouTube TV’s Disney blackout is ruining my life (I can’t watch ‘Jeopardy!’)",
       "link": "https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/",
-      "summary": "For 12 days and counting, Disney-owned channels like ESPN and ABC have been blacked out on YouTube TV.",
+      "summary": "YouTube TV's parent company, Google, has been locked in a standoff with Disney for nearly two weeks. The dispute began when the two companies failed to reach an agreement on a streaming deal.",
       "published": "Wed, 12 Nov 2025 17:23:48 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1184040131.jpg?w=1024"
-    },
-    {
-      "title": "Meta’s star AI scientist Yann LeCun plans to leave for own startup",
-      "link": "https://arstechnica.com/ai/2025/11/metas-star-ai-scientist-yann-lecun-plans-to-leave-for-own-startup/",
-      "summary": "AI pioneer reportedly frustrated with Meta's shift from research to rapid product releases.",
-      "published": "Wed, 12 Nov 2025 17:14:16 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1691376215-1152x648.jpg"
     },
     {
       "title": "Why a researcher is building robots that look and act like bats",
@@ -44,82 +148,34 @@
     {
       "title": "Radio streamer TuneIn acquired for $175M",
       "link": "https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/",
-      "summary": "Radio streamer TuneIn sold for $175M, down from its earlier valuation of $500M.",
+      "summary": "Founded in 2002, TuneIn was an early player in the online music space. Unlike rivals such as Apple Music or Spotify Premium that offer ad-free, subscription-based music on demand, TuneIn focused on streaming traditional radio stations over the internet.",
       "published": "Wed, 12 Nov 2025 16:57:51 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2017/01/tunein.jpg?resize=1200,797"
     },
     {
-      "title": "Good Luck, Have Fun, Don’t Die trailer ushers in AI apocalypse",
-      "link": "https://arstechnica.com/culture/2025/11/sam-rockwells-a-time-traveler-in-good-luck-have-fun-dont-die-trailer/",
-      "summary": "\"I'm not gonna sugarcoat it. You're in for a really weird night.\"",
-      "published": "Wed, 12 Nov 2025 16:56:47 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/goodluck-1152x648.jpg"
+      "title": "Billboard’s Top Country Song Is Currently AI Slop",
+      "link": "https://futurism.com/artificial-intelligence/billboard-top-country-song-ai-slop",
+      "summary": "<p>It's turning into a huge problem.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/billboard-top-country-song-ai-slop\">Billboard&#8217;s Top Country Song Is Currently AI Slop</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 12 Nov 2025 16:04:42 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/billboard-top-country-song-ai-slop.jpg?quality=85"
     },
     {
-      "title": "Data centers now attract more investment than than finding new oil supplies",
-      "link": "https://techcrunch.com/2025/11/12/data-centers-now-attract-more-investment-than-than-finding-new-oil-supplies/",
-      "summary": "In a shift, the world will spend $40 billion more on new data centers this year than it will on finding new sources of oil.",
-      "published": "Wed, 12 Nov 2025 16:43:26 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-961281698.jpg?w=1024"
+      "title": "Scientists Say the Largest Solar Storm in Two Decades Is About to Blast Earth",
+      "link": "https://futurism.com/space/scientists-predict-largest-solar-storm-two-decades",
+      "summary": "<p>It's so fierce, Blue Origin just had to scrub a rocket launch.</p>\n<p>The post <a href=\"https://futurism.com/space/scientists-predict-largest-solar-storm-two-decades\">Scientists Say the Largest Solar Storm in Two Decades Is About to Blast Earth</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 12 Nov 2025 15:10:07 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/scientists-predict-largest-solar-storm-two-decades.jpg?quality=85"
     },
     {
-      "title": "Lawmakers warn Democratic governors that states are sharing drivers’ data with ICE",
-      "link": "https://techcrunch.com/2025/11/12/lawmakers-warn-democratic-governors-that-states-are-sharing-drivers-data-with-ice/",
-      "summary": "A group of Democratic lawmakers asked governors in California, Colorado, and other states to block ICE from accessing their residents’ driver’s license data without their knowledge.",
-      "published": "Wed, 12 Nov 2025 16:41:29 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/us-immigration-and-customs-enforcement-ice-agent.jpg?resize=1200,800"
-    },
-    {
-      "title": "Apple launches Digital ID, a way to carry your passport on your phone for use at TSA checkpoints",
-      "link": "https://techcrunch.com/2025/11/12/apple-launches-digital-id-a-way-to-carry-your-passport-on-your-phone-for-use-at-tsa-checkpoints/",
-      "summary": "Apple's new Digital ID will let U.S. users carry their passport on their iPhone, and use it at TSA checkpoints.",
-      "published": "Wed, 12 Nov 2025 16:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2141952348.jpg?resize=1200,800"
-    },
-    {
-      "title": "Review: New Framework Laptop 16 takes a fresh stab at the upgradeable laptop GPU",
-      "link": "https://arstechnica.com/gadgets/2025/11/review-new-framework-laptop-16-takes-a-fresh-stab-at-the-upgradeable-laptop-gpu/",
-      "summary": "New components make it more useful and powerful but no less odd.",
-      "published": "Wed, 12 Nov 2025 16:00:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_1624-1152x648.jpeg"
-    },
-    {
-      "title": "AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia",
-      "link": "https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/",
-      "summary": "WisdomAI is offering AI-driven data analytics that can answer business questions from structured, unstructured, and even “dirty” data, meaning data not cleaned of typos or errors.",
-      "published": "Wed, 12 Nov 2025 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/WisdomAI-cofounders.jpg?resize=1200,800"
-    },
-    {
-      "title": "Waymo robotaxis are now giving rides on freeways in LA, San Francisco, and Phoenix",
-      "link": "https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/",
-      "summary": "Waymo robotaxis will use freeways in Los Angeles, Phoenix, and San Francisco - an expansion that could reduce ride times by 50%.",
-      "published": "Wed, 12 Nov 2025 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801"
-    },
-    {
-      "title": "Anthropic announces $50 billion data center plan",
-      "link": "https://techcrunch.com/2025/11/12/anthropic-announces-50-billion-data-center-plan/",
-      "summary": "Anthropic has launched an ambitious new data center partnership with the U.K.-based Fluidstack, committing $50 billion to building facilities across the US.",
-      "published": "Wed, 12 Nov 2025 15:52:47 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2154160973-e1723115200227.jpg?resize=1200,673"
-    },
-    {
-      "title": "Formula with “cleanest ingredients” recalled after 15 babies get botulism",
-      "link": "https://arstechnica.com/health/2025/11/formula-with-cleanest-ingredients-recalled-after-15-babies-get-botulism/",
-      "summary": "Cases span 12 states. All affected babies have been hospitalized, but no deaths reported.",
-      "published": "Wed, 12 Nov 2025 13:22:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screen-Shot-2025-11-11-at-7.10.57-PM-1084x648.png"
+      "title": "Robotics Company Explains Why Its Terminator-Style Robot Features Prominent Bazongas",
+      "link": "https://futurism.com/robots-and-machines/robotics-company-terminator-robot-female",
+      "summary": "<p>\"These things are mega creepy.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/robotics-company-terminator-robot-female\">Robotics Company Explains Why Its Terminator-Style Robot Features Prominent Bazongas</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 12 Nov 2025 14:08:49 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/robotics-company-terminator-robot-female.jpg?quality=85"
     },
     {
       "title": "Meta’s Top AI Scientist Is Quitting as Zuckerberg’s Spending Spree Sputters",
@@ -154,52 +210,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/elon-musk-optimus-criminals.jpg?quality=85"
     },
     {
-      "title": "Google vows to stop scam E-Z Pass and USPS texts plaguing Americans",
-      "link": "https://arstechnica.com/tech-policy/2025/11/google-vows-to-stop-scam-e-z-pass-and-usps-texts-plaguing-americans/",
-      "summary": "\"Phishing for dummies\" kits make it easier to scam millions, Google alleged.",
-      "published": "Wed, 12 Nov 2025 10:00:37 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-950213928-1152x648.jpg"
-    },
-    {
       "title": "AI Is Failing at the Most Hilarious Task Imaginable",
       "link": "https://futurism.com/artificial-intelligence/ai-turing-language-spam",
       "summary": "<p>And it's failing by a lot.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-turing-language-spam\">AI Is Failing at the Most Hilarious Task Imaginable</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 12 Nov 2025 09:18:07 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/ai-turing-language-spam.jpg?quality=85"
-    },
-    {
-      "title": "Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes",
-      "link": "https://arstechnica.com/gadgets/2025/11/original-mac-calculators-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/",
-      "summary": "In 1982, a young Mac developer turned Jobs into a UI designer—and accidentally invented a new technique.",
-      "published": "Tue, 11 Nov 2025 23:26:04 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-1152x648.jpg"
-    },
-    {
-      "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
-      "link": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
-      "summary": "New system allows devices to connect directly to secure space in Google's AI servers.",
-      "published": "Tue, 11 Nov 2025 21:34:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg"
-    },
-    {
-      "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
-      "link": "https://arstechnica.com/gadgets/2025/11/ryanair-tries-forcing-app-downloads-by-eliminating-paper-boarding-passes/",
-      "summary": "Ryanair CEO admits \"there’ll be some teething problems.\"",
-      "published": "Tue, 11 Nov 2025 21:20:32 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200216952-1152x648.jpg"
-    },
-    {
-      "title": "Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict",
-      "link": "https://arstechnica.com/tech-policy/2025/11/reddit-mod-jailed-for-sharing-movie-sex-scenes-in-rare-moral-rights-verdict/",
-      "summary": "Redditor confessed to violating actresses' \"moral rights\" in landmark ruling.",
-      "published": "Tue, 11 Nov 2025 19:21:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/reddit-s3xy-time-1152x648.jpg"
     },
     {
       "title": "OpenAI Is Reportedly Burning a Ludicrous Amount of Cash on Sora",
@@ -218,28 +234,76 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/nvidia-stock-softbank-ai.jpg?quality=85"
     },
     {
-      "title": "Startup Secretly Working to Gene-Hack Human Baby",
-      "link": "https://futurism.com/health-medicine/startup-altman-gene-hacking",
-      "summary": "<p>Talk about an incubator. </p>\n<p>The post <a href=\"https://futurism.com/health-medicine/startup-altman-gene-hacking\">Startup Secretly Working to Gene-Hack Human Baby</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Nov 2025 14:26:12 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/startup-altman-gene-hacking.jpg?quality=85"
+      "title": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
+      "link": "https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/",
+      "summary": "Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.",
+      "published": "Thu, 13 Nov 2025 00:05:30 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-924636730.jpg?resize=1200,1000"
     },
     {
-      "title": "Elon Musk Got One-Shotted by an Extremely Mean Tweet",
-      "link": "https://futurism.com/future-society/elon-must-one-shotted-mean-tweet",
-      "summary": "<p>The world's richest man, bullied by an 87-year-old woman.</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-must-one-shotted-mean-tweet\">Elon Musk Got One-Shotted by an Extremely Mean Tweet</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Nov 2025 13:06:12 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/elon-must-one-shotted-mean-tweet.jpg?quality=85"
+      "title": "Atlassian twice shunned AWS Graviton CPUs, but now runs Jira and Confluence on them",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/atlassian_aws_graviton_migration/",
+      "summary": "<h4>Bills fell 10 percent after granular tests suggested JVM tweaks that improved performance</h4> <p>Atlassian twice marked Amazon Web Services’ Graviton CPUs off-limits for production purposes, but recently relented and now uses the processors to power thousands of server instances that run its Jira and Confluence products. So what changed?…</p>",
+      "published": "2025-11-13T01:21:57.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/11/08/shutterstock_atlassian_alert.jpg"
     },
     {
-      "title": "You Haven’t Realized How Huge a Rocket Actually Is Until You’ve Seen This Video of One Being Moved on the Highway",
-      "link": "https://futurism.com/space/huge-rocket-highway",
-      "summary": "<p>Brain-melting.</p>\n<p>The post <a href=\"https://futurism.com/space/huge-rocket-highway\">You Haven&#8217;t Realized How Huge a Rocket Actually Is Until You’ve Seen This Video of One Being Moved on the Highway</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Nov 2025 12:19:39 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/huge-rocket-highway.jpg?quality=85"
+      "title": "Microsoft is building datacenter superclusters that span continents",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/microsoft_fairwater_dataceter_superclusters/",
+      "summary": "<h4>The 100 trillion-parameter models of the near future can't be built in one place</h4> <p>Microsoft believes the next generation of AI models will use hundreds of trillions of parameters. To train them, it's not just building bigger, more efficient datacenters – it's started connecting distant facilities using high-speed networks spanning hundreds or thousands of miles.…</p>",
+      "published": "2025-11-13T01:06:33.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/13/microsoft_fairwater_dc.jpg"
+    },
+    {
+      "title": "OpenAI GPT-5.1 adds more personalities, loses inhibitions",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/openai_gpt51_adds_more_personalities/",
+      "summary": "<h4>Updated model may deliver a bit more unwanted content, but will be polite about it</h4> <p>OpenAI on Wednesday introduced GPT-5.1, an AI model update that's \"warmer,\" more conversational, and slightly more willing to blurt out unwelcome observations about sex, violence, and mental health in a way that invites emotional dependence.…</p>",
+      "published": "2025-11-13T00:15:19.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/05/16/hugging_face_shutterstock.jpg"
+    },
+    {
+      "title": "You can now put your US passport into Apple Wallet for domestic travel",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/apple_passport_wallet/",
+      "summary": "<h4>But only a few states plus Puerto Rico will accept it</h4> <p>Need to fly domestically, but want to leave your passport or driver's license at home? Apple has you covered, as long as you're using an iOS device and traveling between or within one of the dozen or so states that support digital IDs and Apple Wallet. Unfortunately, it's not clear which states those are, and the TSA's web site is not up to date thanks to the ongoing government shutdown.…</p>",
+      "published": "2025-11-12T21:49:38.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/09/15/shutterstock_us_passport.jpg"
+    },
+    {
+      "title": "Google sues 25 China-based scammers behind Lighthouse 'phishing for dummies' kit",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_sues_25_chinabased_scammers/",
+      "summary": "<h4>600+ phishing websites and 116 of these use a Google logo</h4> <p>Google has filed a lawsuit against 25 unnamed China-based scammers, which it claims have stolen more than 115 million credit card numbers in the US as part of the Lighthouse phishing operation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-12T21:39:24.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/12/shutterstock_322068299.jpg"
+    },
+    {
+      "title": "OpenAI’s viability called into question by reported inference spending with Microsoft",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/openai_spending_report/",
+      "summary": "<h4>Microsoft internal financials also suggest AI flag bearer is nowhere close to $13 billion in revenues</h4> <p>OpenAI may be burning far more capital serving its GPT-family of models than previously thought. Leaked documents show the company paying more than $12 billion to Microsoft for compute power since 2024 and suggest much weaker revenue than it needs to pay for all those expenses.…</p>",
+      "published": "2025-11-12T21:04:38.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/11/20/shutterstock_altman.jpg"
+    },
+    {
+      "title": "Google apes Apple, swears cloud-based AI will keep your info private",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_touts_private_ai_compute/",
+      "summary": "<h4>We take your privacy, seriously</h4> <p>Google, perhaps not the first name you'd associate with privacy, has taken a page from Apple's playbook and now claims that its cloud AI services will safeguard sensitive personal data handled by its Gemini model family.…</p>",
+      "published": "2025-11-12T20:51:24.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/04/30/zuck-private.jpg"
+    },
+    {
+      "title": "Sony is making a Horizon MMO — here’s the video and details",
+      "link": "https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation",
+      "summary": "The rumored MMO set in Sony’s post-apocalyptic Horizon universe is real — and we’ve seen a video spilling details about the game before it’s been announced.&#160; The new game is called Horizon Steel Frontiers, and Sony and the Korean video game company NCSoft are working on it together. Based on a more than 10-minute video [&#8230;]",
+      "published": "2025-11-12T19:32:52-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/HorizonSteelFrontiers_KEYART.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "First stellar Coronal Mass Ejection detected beyond our Sun",
@@ -248,6 +312,14 @@
       "published": "2025-11-12T17:34:10.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/11/12/cme.jpg"
+    },
+    {
+      "title": "The best budget robot vacuums",
+      "link": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+      "summary": "Editor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get. Today’s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it’s easy to forget [&#8230;]",
+      "published": "2025-11-12T17:31:26-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257645_budget_robovac_guide_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Attackers turned Citrix, Cisco 0-day exploits into custom-malware hellscape",
@@ -266,140 +338,68 @@
       "image_url": "https://regmedia.co.uk/2025/11/12/apple_biz_model.png"
     },
     {
-      "title": "VLC's keeper of the cone nets European free software gong",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/vlc_guru_gong/",
-      "summary": "<h4>Jean-Baptiste Kempf lauded for keeping the media player free of crapware</h4> <p>If you don't know what app will open a random media file (or URL), VLC is the answer. It runs on everything, plays anything, and it's free – thanks to Jean-Baptiste Kempf.…</p>",
-      "published": "2025-11-12T16:45:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/08/20/shutterstock_traffic_cones.jpg"
-    },
-    {
-      "title": "Broken wizard forces Microsoft to issue out-of-band Windows 10 patch",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/microsoft_esu_wizard_fix/",
-      "summary": "<h4>End of support? Not quite</h4> <p>Microsoft released an emergency out-of-band update on November 11 to fix a malfunctioning enrollment wizard that prevented eligible Windows 10 users from accessing Extended Security Updates (ESU).…</p>",
-      "published": "2025-11-12T14:08:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/09/15/shutterstock_wizard.jpg"
-    },
-    {
-      "title": "Microsoft ships .NET 10 LTS and Visual Studio 2026, Copilot everywhere",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/net_10_c_14_visual/",
-      "summary": "<h4>Faster and easier to use but adopting the dev stack not without risks</h4> <p>Microsoft has released C# 14 and .NET 10, a long-term support version, along with a bunch of related products including Visual Studio 2026 and Aspire 13. Copilot Free is included but devs will soon hit its limits.…</p>",
-      "published": "2025-11-12T13:39:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/10/vs2026fluent.jpg"
-    },
-    {
-      "title": "Valve has no news about Steam Deck 2",
-      "link": "https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2",
-      "summary": "Valve has just announced its biggest hardware push that it’s arguably ever made — a living room game console called the Steam Machine, a headset called the Steam Frame, and the long-awaited sequel to its Steam Controller it hinted about three years back. But Valve won’t say the first word about its next gaming handheld, [&#8230;]",
-      "published": "2025-11-12T13:20:00-05:00",
+      "title": "The Steam Frame has two speakers on each side of your face for vibration cancellation",
+      "link": "https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation",
+      "summary": "In its new Steam Frame VR headset, Valve put dual audio drivers on each side in the included head strap. That puts the audio near your ears while you’re wearing it, and in my brief time trying the device at Valve’s headquarters recently, I thought the sound was just fine. But the choice to have [&#8230;]",
+      "published": "2025-11-12T16:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070057/DSCF9163.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0057.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Brussels weighs banning China from major EU research scheme",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/europe_china_horizon/",
-      "summary": "<h4>Draft Horizon Europe plan cites lack of IP protections and Beijing's civil-military fusion strategy</h4> <p>The European Commission is preparing to block Chinese institutions from significant portions of its €95.5 billion ($110 billion) Horizon Europe research program, citing intellectual property risks and links between Chinese universities and Beijing's military.…</p>",
-      "published": "2025-11-12T13:12:39.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/01/shutterstock_chinamilitary.jpg"
+      "title": "Energy and tech news at UN climate negotiations in Brazil",
+      "link": "https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates",
+      "summary": "The most high-stakes United Nations climate change conference in years is taking place this November in Belém, Brazil. It’s the 10th anniversary of the landmark Paris agreement, which committed nearly every country on Earth to working together to limit global warming. They’re off track, making this an important moment to show the world whether world [&#8230;]",
+      "published": "2025-11-12T15:57:47-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244638584.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Here are the best Kindle deals right now",
+      "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
+      "summary": "Editor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get. When it comes to finding a device to read ebooks, you have a few options to choose from. You can always buy a tablet [&#8230;]",
+      "published": "2025-11-12T15:29:19-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Kindle-Colorsoft-16GB.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Valve’s new VR streaming trick won’t just work with its own headset",
+      "link": "https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link",
+      "summary": "Valve’s new streaming-first VR headset&#160;—&#160;the Steam Frame — employs a clever trick to help make game streaming feel as low-latency as possible. It’s called foveated streaming, and it means the headset requests a higher-quality image for the content that’s right in front of your eyes while lowering the resolution of your peripheral vision to reduce [&#8230;]",
+      "published": "2025-11-12T15:20:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0048.jpg?quality=90&#038;strip=all&#038;crop=0.2,0.60000937514649,99,91.299864060376"
     },
     {
       "title": "We tried Valve’s new VR headset, PC, and controller — ask us anything!",
       "link": "https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama",
       "summary": "Hi! I'm Jay Peters, a senior reporter here at The Verge. I'm perhaps the site's second-biggest Steam Deck fan, surpassed only by Sean Hollister, our unofficial handheld gaming PC reviewer. So you can imagine how excited we were to visit Valve's headquarters to try the company's three new hardware products: the Steam Frame, a streaming-focused [&#8230;]",
-      "published": "2025-11-12T13:01:00-05:00",
+      "published": "2025-11-12T15:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258092_Verge_subscribers_AMA_about_Sean_Jay_trying_the_new_Valve_hardware_CVirginia_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Valve’s new Steam Controller might be my dream controller",
-      "link": "https://www.theverge.com/games/815061/valve-steam-controller-hands-on-deck-frame-machine",
-      "summary": "One of the best parts of the Steam Deck is its many different controls, and how you can customize them to let you do whatever you want with every single one of your games. Now, Valve is bringing that same level of flexibility into a new gamepad. I recently got to try it at Valve's [&#8230;]",
-      "published": "2025-11-12T13:00:00-05:00",
+      "title": "How the Steam Frame compares to other VR headsets",
+      "link": "https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison",
+      "summary": "Valve just announced the Steam Frame, a new standalone VR headset that can both stream games from a PC and play games locally thanks to an onboard Arm chip. The headset is quite a bit different from Valve’s previous model, the Index, which had to be tethered to a gaming computer with a physical wire. [&#8230;]",
+      "published": "2025-11-12T14:40:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0083.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0030.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Steam Frame is a surprising new twist on VR",
-      "link": "https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on",
-      "summary": "Valve is about to launch a new virtual reality headset, and with it, a comprehensive new approach to what a VR device should be. Most VR headsets I've tried have ended up collecting dust after the novelty wore off, and I thought I had sworn off VR for good. But after trying Valve's new headset [&#8230;]",
-      "published": "2025-11-12T13:00:00-05:00",
+      "title": "Valve thinks Arm has ‘potential’ for SteamOS handhelds, laptops, and more",
+      "link": "https://www.theverge.com/news/818698/valve-steamos-arm-potential-handhelds-laptops",
+      "summary": "Valve won’t talk about a Steam Deck 2. It probably wants to keep the attention on its just-announced living room console, comfy new controller, and Arm-based headset instead. But now that the company is preparing to sell an Arm headset, one that can even run Android apps, there’s an obvious question. Is Arm a one-off [&#8230;]",
+      "published": "2025-11-12T14:20:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0056.jpg?quality=90&#038;strip=all&#038;crop=0,0,88.8,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Our first look at the Steam Machine, Valve’s ambitious new game console",
-      "link": "https://www.theverge.com/tech/818111/valve-steam-machine-hands-on-preview-specs-announcement",
-      "summary": "Valve is about to challenge the Xbox and PlayStation on their home turf. Ten years to the month after Valve's original Steam Machines went on sale, the company is announcing… the Steam Machine. I flew to Valve's headquarters to try the company's new PC-based game console, alongside a brand-new Steam Controller and the new Steam [&#8230;]",
-      "published": "2025-11-12T13:00:00-05:00",
+      "title": "OpenAI says the brand-new GPT-5.1 is &#8216;warmer&#8217; and has more &#8216;personality&#8217; options",
+      "link": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets",
+      "summary": "OpenAI is releasing GPT-5.1 today, an update to the flagship model it released in August. OpenAI calls it an “upgrade” to GPT-5 that “makes ChatGPT smarter and more enjoyable to talk to.” The new models include GPT-5.1 Instant and GPT-5.1 Thinking. The former is “warmer, more intelligent, and better at following your instructions” than its [&#8230;]",
+      "published": "2025-11-12T14:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Valve enters the console wars",
-      "link": "https://www.theverge.com/games/818622/valve-console-wars-price-sony-microsoft-nintendo-windows",
-      "summary": "On the 15th floor of an upscale office building in Bellevue, Washington, security guards line the halls. They're here to make sure we don't stray - because I'm visiting Valve's headquarters, a place few journalists ever get to go. The guards help escort me to a tiny demo room, where a pair of Valve engineers [&#8230;]",
-      "published": "2025-11-12T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_valve_console_wars.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Steam Machines have returned: all the news about Valve’s new hardware universe",
-      "link": "https://www.theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements",
-      "summary": "In 2012, The Verge broke the news that Valve was making a game console. Gabe Newell himself dished on the company’s grand plans. By 2015, the “Steam Machines” had utterly flopped. But Valve never stopped quietly working on the idea. The Steam Deck handheld became the seed for a grand reboot of Valve’s console and [&#8230;]",
-      "published": "2025-11-12T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/steam-hardware-family.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Tapo’s RV30 Max Plus is the only sub-$200 robovac worth buying",
-      "link": "https://www.theverge.com/tech/819085/tapo-rv30-max-plus-robot-vacuum-deal-sale",
-      "summary": "We don’t normally recommend robot vacuums under $200, but the Tapo RV30 Max Plus is the exception to the rule. While its MSRP is $329, right now it’s down to a new record low of $199.99 when you apply promo code 30RV30MPLUS at Amazon or Tapo. The Tapo RV30 Max Plus is our favorite cheap [&#8230;]",
-      "published": "2025-11-12T12:59:22-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Tapo-RV30-Max-Plus-lifestyle-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple launches a Digital ID and says it&#8217;ll be accepted by the TSA",
-      "link": "https://www.theverge.com/news/819077/apple-digital-id-launch-tsa",
-      "summary": "Apple is launching Digital IDs, a feature that allows you to create and store an ID in Apple Wallet using your US passport. In the announcement, Apple says Digital ID acceptance will begin to “roll out first”at TSA checkpoints for domestic travel in over 250 airports across the US. You can present your Digital ID [&#8230;]",
-      "published": "2025-11-12T12:42:05-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Apple-Digital-ID-in-Wallet-hero_big.jpg.large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "MS Task Manager turns 30: Creator reveals how a 'very Unixy impulse' endured in Windows",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/thirty_years_of_task_manager/",
-      "summary": "<h4>Dave Plummer's 85 KB troubleshooting tool shipped with his home number on the code</h4> <p>As Microsoft's Task Manager celebrates three decades - and grapples with its modern tendency to leave orphaned processes behind - its creator has shared the story of how the much loved troubleshooting tool came to be.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-12T12:31:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/11/thirty_years_old.jpg"
-    },
-    {
-      "title": "Aqara’s cord-free presence sensor runs for up to three years on battery power",
-      "link": "https://www.theverge.com/news/819067/aqara-presence-multi-sensor-fp300-battery-power-zigbee-matter-thread",
-      "summary": "Aqara has announced its first battery-powered presence sensor, which can be installed nearly anywhere in your home to automate smart devices as your family comes and goes. Instead of having to hide a cord and plan its location around a power source, a pair of CR2450 coin cell batteries powers the Presence Multi-Sensor FP300 for [&#8230;]",
-      "published": "2025-11-12T12:24:24-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/aqara_sensor1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Broadcom creates a new Seal Of Approval for servers that run AI under VMware",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/vmware_cloud_foundation_ai_readynodes/",
-      "summary": "<h4>This apparently makes VCF more extensible and open to partners</h4> <p>Broadcom will let its hardware allies self-certify their boxes as compliant with a new spec it developed that describes rigs ready to run AI workloads under its VMware Cloud Foundation (VCF) private cloud platform.…</p>",
-      "published": "2025-11-12T12:00:25.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/21/shutterstock_broadcom.jpg"
-    },
-    {
-      "title": "Mozilla's Firefox 145 is heeeeeere: Buffs up privacy, bloats AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/firefox_145_arrives/",
-      "summary": "<h4>Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar</h4> <p><strong>Updated</strong>  Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.…</p>",
-      "published": "2025-11-12T11:55:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/09/23/shutterstock_firefoxlogo.jpg"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Personality-Presets.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
