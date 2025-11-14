@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-14T01:55:09.690228",
+  "lastUpdated": "2025-11-14T06:36:43.609814",
   "articles": [
     {
       "title": "Billboard’s Top Country Song Is Currently AI Slop",
@@ -242,6 +242,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/ai-toys-danger.jpg?quality=85"
     },
     {
+      "title": "Chinese web giant Tencent can't buy all the GPUs it wants",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/tencent_q3_fy2025/",
+      "summary": "<h4>Getting by with a meager $2 billion quarterly capex – vastly less than rivals, but still cashing in on AI</h4> <p>Chinese web giant Tencent’s capital expenditure is slowing and the company expects it will decelerate further due to its inability to buy all the GPUs it wants.…</p>",
+      "published": "2025-11-14T04:13:47.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/03/19/tencent.jpg"
+    },
+    {
       "title": "Kubernetes overlords decide Ingress NGINX isn’t worth saving",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/nginx_retirement/",
       "summary": "<h4>Maintenance to end next year after ‘helpful options’ became ‘serious security flaws’</h4> <p>Kubernetes maintainers have decided it’s not worth trying to save Ingress NGINX and will instead stop work on the project and retire it in March 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -272,6 +280,14 @@
       "published": "2025-11-13T21:08:09.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2023/08/30/shutterstock_firefox.jpg"
+    },
+    {
+      "title": "What insiders anonymously think about the AI race",
+      "link": "https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. I spent yesterday at Eric Newcomer's Cerebral Valley conference in San Francisco, which is now in its third year. I've attended this event for three years in a row [&#8230;]",
+      "published": "2025-11-13T21:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Ransomed CTO falls on sword, refuses to pay extortion demand",
@@ -346,14 +362,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_fe7066404a704aa20f7c6f251facb7aef2606bda.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Avalonia brings Linux, browser support to Microsoft's MAUI cross-platform app solution",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/dotnet_maui_linux_avalonia/",
-      "summary": "<h4>Third-party framework builds alternative backend using its own renderer and WebAssembly</h4> <p>Microsoft's MAUI (Multi-platform App UI), the official .NET solution for cross-platform desktop and mobile apps, will get Linux and browser support via Avalonia, a third-party framework.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-13T15:11:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/13/shutterstock_2463475985.jpg"
-    },
-    {
       "title": "Anthropic details how it measures Claude&#8217;s wokeness",
       "link": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai",
       "summary": "Anthropic is detailing its efforts to make its Claude AI chatbot “politically even-handed” — a move that comes just months after President Donald Trump issued a ban on “woke AI.” As outlined in a new blog post, Anthropic says it wants Claude to “treat opposing political viewpoints with equal depth, engagement, and quality of analysis.” [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2025-11-13T14:07:22-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257873_Phone_buying_guide__CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The last-gen Apple Watch Series 10 has returned to its lowest price to date",
-      "link": "https://www.theverge.com/gadgets/794705/apple-watch-series-10-se-2-amazon-deal-sale",
-      "summary": "The Apple Watch Series 11 is only a few months old, so discounts have been hard to come by thus far. However, if you don’t need the latest tech, the Apple Watch Series 10 delivers nearly the same experience, and the 42mm base model is currently down to an all-time low of $279 ($120 off) [&#8230;]",
-      "published": "2025-11-13T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Apple-Watch-Series-10-deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
