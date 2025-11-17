@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-17T01:55:58.429049",
+  "lastUpdated": "2025-11-17T06:37:14.534683",
   "articles": [
     {
       "title": "Beloved SF cat’s death fuels Waymo criticism",
@@ -242,9 +242,25 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/man_wrestling_with_robot_hand_2-1152x648.jpg"
     },
     {
+      "title": "Developer made one wrong click and sent his AWS bill into the stratosphere",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/who_me/",
+      "summary": "<h4>Yes, he knows the 40x increase could have been avoided with some pretty simple automation</h4> <p><strong>Who, Me?</strong>  Welcome to another week of work, a moment <i>The Register</i> celebrates with a new installment of Who, Me? It's the reader-contributed column in which you 'fess up to follies, false moves, and faux pas – and explain how you escaped.…</p>",
+      "published": "2025-11-17T06:28:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/11/17/shutterstock_oops_button_on_keyboard.jpg"
+    },
+    {
+      "title": "Server virtualization market heats up as VMware rivals try to create alluring alternatives",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/gartner_server_virtualization_guide/",
+      "summary": "<h4>It’s time to think about a replacement, says Gartner</h4> <p>The market for server virtualization tools is about to fragment, according to analyst firm Gartner.…</p>",
+      "published": "2025-11-17T05:45:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/17/shutterstock_editorial_only_vmware_fresh_perspective.jpg"
+    },
+    {
       "title": "Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/asia_tech_news_roundup/",
-      "summary": "<h4>PLUS: Active noise cancellation for entire rooms; More trouble for SK telecom; The Wiggles apologize for bad batteries; and more</h4> <p><strong>Asia In Brief</strong>  India’s Tata Motors, owner of Jaguar Land Rover, has revealed the <a href=\"https://www.theregister.com/2025/11/07/bank_of_england_says_jlrs/\" target=\"_blank\">cyberattack</a> that shut down production in the UK has so far cost it around £1.8 billion ($2.35 billion).…</p>",
+      "summary": "<h4>PLUS: Active noise cancellation for entire rooms; More trouble for Korea Telecom; The Wiggles apologize for bad batteries; and more</h4> <p><strong>Asia In Brief</strong>  India’s Tata Motors, owner of Jaguar Land Rover, has revealed the <a href=\"https://www.theregister.com/2025/11/07/bank_of_england_says_jlrs/\" target=\"_blank\">cyberattack</a> that shut down production in the UK has so far cost it around £1.8 billion ($2.35 billion).…</p>",
       "published": "2025-11-17T01:41:51.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/11/17/shutterstock_editorial_only_jaguar_land_rover.jpg"
@@ -384,22 +400,6 @@
       "published": "2025-11-14T20:39:44.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2016/05/06/wasp.jpg"
-    },
-    {
-      "title": "Canonical pushes Ubuntu LTS support even further - if you pay",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/canonical_ubuntu_extended_support/",
-      "summary": "<h4>Enterprise Linux vendors keep jostling to see who can prop up geriatric distros the longest</h4> <p>Last year, Canonical increased its paid extended support lifespan to 12 years. Now, it's increasing it again, to 15 years ... for a price.…</p>",
-      "published": "2025-11-14T19:36:53.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/14/shutterstock_203427163.jpg"
-    },
-    {
-      "title": "Crims poison 150K+ npm packages with token-farming malware",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/selfreplicating_supplychain_attack_poisons_150k/",
-      "summary": "<h4>Amazon spilled the TEA</h4> <p>Yet another supply chain attack has hit the npm registry in what Amazon describes as \"one of the largest package flooding incidents in open source registry history\" - but with a twist. Instead of injecting credential-stealing code or ransomware into the packages, this one is a token farming campaign.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-14T18:22:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/14/shutterstock_2141075675.jpg"
     }
   ]
 }
