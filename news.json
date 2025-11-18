@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2025-11-18T06:35:58.461390",
+  "lastUpdated": "2025-11-18T12:51:36.919883",
   "articles": [
+    {
+      "title": "Roblox will require all users to perform age-checks to access chat from January",
+      "link": "https://techcrunch.com/2025/11/18/roblox-will-require-all-users-to-perform-age-checks-to-access-chat-from-january/",
+      "summary": "Starting Tuesday, users can voluntarily undergo the age-check process to secure access to communication features.",
+      "published": "Tue, 18 Nov 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/roblox-heading.jpg?resize=1200,800"
+    },
+    {
+      "title": "Databricks reportedly in talks to raise funding at a $130B+ valuation",
+      "link": "https://techcrunch.com/2025/11/18/databricks-reportedly-in-talks-to-raise-funding-at-a-130b-valuation/",
+      "summary": "Databricks is said to be in talks to raise a new round of funding just a few months after its last fundraise, which valued the company at $100 billion.",
+      "published": "Tue, 18 Nov 2025 11:31:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2157160096.jpg?resize=1200,801"
+    },
+    {
+      "title": "Mastodon CEO steps down as the social network restructures",
+      "link": "https://techcrunch.com/2025/11/18/mastodon-ceo-steps-down-as-the-social-network-restructures/",
+      "summary": "Eugen Rochko is stepping down as CEO of decentralized social network Mastodon. Felix Hlatky will now become the Executive Director as the company become structured as a nonprofit government by a board.",
+      "published": "Tue, 18 Nov 2025 08:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/mastodon-leadership-team.jpg?resize=1200,857"
+    },
     {
       "title": "As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt",
       "link": "https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/",
@@ -154,36 +178,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/concord3-1152x648.jpg"
     },
     {
-      "title": "Sequoia-backed fintech Aspora will let Indian diaspora pay bills back home",
-      "link": "https://techcrunch.com/2025/11/17/sequoia-backed-fintech-aspora-will-let-indian-diaspora-pay-bills-back-home/",
-      "summary": "The startup said that until now, users had to either transfer the money to their Indian accounts or ask someone to handle the bills for them. The other option for them was to use their foreign cards and try and pay bills while facing high charges and payment failures.",
-      "published": "Mon, 17 Nov 2025 17:22:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Image-1.png?resize=1200,613"
-    },
-    {
-      "title": "Google rolls out its AI ‘Flight Deals’ tool globally, adds new travel features in Search",
-      "link": "https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/",
-      "summary": "To get started, users need to describe where, when, and how they want to travel. Flight Deals will then use AI to display the best bargains available.",
-      "published": "Mon, 17 Nov 2025 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2186206744.jpg?w=1024"
-    },
-    {
       "title": "Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet",
       "link": "https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/",
       "summary": "Company falls more than rivals over its borrowing and reliance on OpenAI contracts.",
       "published": "Mon, 17 Nov 2025 16:41:05 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-1152x648.jpeg"
-    },
-    {
-      "title": "DoorDash confirms data breach impacting users’ phone numbers and physical addresses",
-      "link": "https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/",
-      "summary": "The delivery giant said “no sensitive information” was accessed, and did not specify the number of customers, delivery workers, and merchants who were impacted by the breach.",
-      "published": "Mon, 17 Nov 2025 15:27:38 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1147932669.jpg?resize=1200,841"
     },
     {
       "title": "Bitcoin Showing Signs of Severe Collapse",
@@ -242,6 +242,78 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/caves-mars-life.jpg?quality=85"
     },
     {
+      "title": "Dutch turbine engineer tried to turn wind into crypto, ends up generating community service",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/dutch_wind_farm_crypto/",
+      "summary": "<h4>Techie wired cryptominers into Nordex's network while company reeled from cyberattack</h4> <p>A Dutch wind farm operator learned the hard way that its turbines weren't just spinning to generate electricity – they were also powering someone else's crypto wallet.…</p>",
+      "published": "2025-11-18T12:34:58.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/02/24/wind.jpg"
+    },
+    {
+      "title": "Rust on the Moon? Far-side dirt says yes, actually",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/rust_on_moon/",
+      "summary": "<h4>Chang'e 6's soil sample turns up iron oxides where none were supposed to exist</h4> <p>A Chinese-led team of boffins has uncovered tiny grains of hematite and maghemite in materials scooped from the Moon's far-side South Pole-Aitken Basin by the Chang'e 6 probe – iron oxides more at home on rusty tools on Earth than on our bone-dry satellite.…</p>",
+      "published": "2025-11-18T12:15:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/07/26/moon_shutterstock.jpg"
+    },
+    {
+      "title": "Eviden set to build France's first exascale supercomputer with AMD at the wheel",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/eviden_france_exascale/",
+      "summary": "<h4>€544M Alice Recoque system aims to lift Europe's research horsepower</h4> <p><strong>SC25</strong>  France will get its first exascale supercomputer — Europe's second — when Atos subsidiary Eviden builds Alice Recoque using AMD chips.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-18T12:04:02.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/04/26/shutterstock_paris_rain.jpg"
+    },
+    {
+      "title": "Latest Servo release hints at a real Rust alternative to Chromium",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/servo_002_arrives/",
+      "summary": "<h4>As Mozilla stumbles into 'AI everywhere,' you might be glad of a non-Google browser engine</h4> <p>Servo is an all-new and all-Rust browser rendering engine. As Mozilla falters, it's the world's best option for avoiding a Google monopoly.…</p>",
+      "published": "2025-11-18T11:15:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/17/servo-org-on-servo.jpg"
+    },
+    {
+      "title": "Brits to help foot power bill for datacenters under government AI plans",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/uk_ai_growth_zones/",
+      "summary": "<h4>Cheaper electricity to lure bit barns north as planning fast-track kicks in</h4> <p>While UK households face some of the world's highest energy prices, datacenter operators are set to receive electricity discounts under government plans to accelerate AI infrastructure development.…</p>",
+      "published": "2025-11-18T10:43:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/03/06/smart_meter.jpg"
+    },
+    {
+      "title": "Vodafone, EE, O2, Three hit with £3B overcharging lawsuit",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/uk_mobile_overcharging_suit/",
+      "summary": "<h4>Case alleges loyal customers continued to pay bundled rates after minimum contract terms ended</h4> <p>Britain's biggest mobile phone companies face legal action over claims they overcharged customers through a \"loyalty penalty\" after a tribunal permitted the cases to proceed.…</p>",
+      "published": "2025-11-18T10:15:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/04/18/phone.jpg"
+    },
+    {
+      "title": "Brits believe the bots even though study finds they're often talking nonsense",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/which_ai_consumer_advice/",
+      "summary": "<h4>Consumer group Which? warns AI assistants can dish out unclear, risky, or downright daft advice</h4> <p>AI assistants can sometimes provide misleading or incorrect answers. However, almost half of British consumers using the services put more faith in them than they maybe should.…</p>",
+      "published": "2025-11-18T09:30:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/03/26/aitraining.jpg"
+    },
+    {
+      "title": "DJI&#8217;s next action camera has an adjustable aperture for better low-light performance",
+      "link": "https://www.theverge.com/news/822163/dji-osmo-action-6-camera-adjustable-aperture-4k-square-sensor",
+      "summary": "After initially launching it exclusively in China last week, DJI has announced a global release (not including the US) for its new Osmo Action 6 action camera. The camera is not a radical departure from the physical design of last year’s model, but DJI is introducing some innovative new functionality. For example, it features an [&#8230;]",
+      "published": "2025-11-18T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/dji_osmo_action_6_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Roblox will require age estimation to chat starting next year",
+      "link": "https://www.theverge.com/news/822718/roblox-age-estimation-verification-chat-rollout",
+      "summary": "Roblox will soon require that users go through an age estimation process if they want to be able to chat with other people on the platform. The requirement will be in effect for all users starting in early January. Roblox has come under significant scrutiny over child safety on the platform, with multiple states filing [&#8230;]",
+      "published": "2025-11-18T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Starlink’s method of dodging solar storms may make it slower, for longer",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/starlinks_method_of_dodging_solar/",
       "summary": "<h4>Researchers think SpaceX needs to revisit its resilience regime</h4> <p>Researchers have found Starlink’s efforts to mitigate the effects of solar storms can create degraded performance that persists for a day or more after geomagnetic conditions ease.…</p>",
@@ -264,62 +336,6 @@
       "published": "2025-11-18T00:36:16.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/02/25/shutterstock_sorry.jpg"
-    },
-    {
-      "title": "Scientific computing is about to get a massive injection of AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/future_of_scientific_computing/",
-      "summary": "<h4>Nvidia's Ian Buck on the importance of FP64 to power research, in a world that's hot for inferencing</h4> <p><strong>Interview</strong>  Scientific computing is about to undergo a period of rapid change as workloads inject AI.…</p>",
-      "published": "2025-11-18T00:08:17.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/03/24/nvidia_ian_buck_logo.jpg"
-    },
-    {
-      "title": "'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/biggest_cloud_ddos_attack_azure/",
-      "summary": "<h4>Aisuru botnet strikes again, bigger and badder</h4> <p>Azure was hit by the \"largest-ever\" cloud-based distributed denial of service (DDoS) attack, originating from the Aisuru botnet and measuring 15.72 terabits per second (Tbps), according to Microsoft.…</p>",
-      "published": "2025-11-17T21:54:00.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/05/04/ddos.jpg"
-    },
-    {
-      "title": "Pentagon and soldiers let too many secrets slip on social networks, watchdog says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/pentagon_soldiers_secrets_socials_whoops/",
-      "summary": "<h4>Ready, aim, mire</h4> <p>Loose lips sink ships, the classic line goes. Information proliferation in the internet age has government auditors reiterating that loose tweets can sink fleets, and they're concerned that the Defense Department isn't doing enough to stop sensitive info from getting out there. …</p>",
-      "published": "2025-11-17T21:32:41.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/03/05/shutup.jpg"
-    },
-    {
-      "title": "AI is actually bad at math, ORCA shows",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/ai_bad_math_orca/",
-      "summary": "<h4>ORCA benchmark trips up ChatGPT-5, Gemini 2.5 Flash, Claude Sonnet 4.5, Grok 4, and DeepSeek V3.2</h4> <p>In the world of George Orwell's 1984, two and two make five. And large language models are not much better at math.…</p>",
-      "published": "2025-11-17T21:16:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/17/shutterstockrobotmath.jpg"
-    },
-    {
-      "title": "Security researcher calls BS on Coinbase breach disclosure timeline",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/coinbase_breach_timeline/",
-      "summary": "<h4>Claims he reported the attack in January after fraudsters tried to scam him</h4> <p>A security researcher says Coinbase knew about a December 2024 security breach during which miscreants bribed its support staff into handing over almost 70,000 customers' details at least four months before it disclosed the data theft.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-17T19:47:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/12/06/shutterstock_phone_reactions.jpg"
-    },
-    {
-      "title": "Europe joins US as exascale superpower after Jupiter clinches Top500 run",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/europe_jupiter_supercomputer/",
-      "summary": "<h4>EuroHPC's biggest iron still has more to give with Universal Cluster expansion expected to come online next year</h4> <p><strong>SC25</strong>  Europe has officially entered exascale orbit. On Monday, EuroHPC's Jupiter supercomputer became the fourth such machine on the Top500 list of publicly known systems to exceed a million-trillion floating point operations a second in the time-honored High-Performance Linpack (HPL) benchmark.…</p>",
-      "published": "2025-11-17T19:00:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/05/jupiter.jpg"
-    },
-    {
-      "title": "Google previews Code Wiki: Can you trust AI to document your repository?",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/google_previews_code_wiki/",
-      "summary": "<h4>Documenting code can be dull, but explaining the source code of a complex project is hard for AI to get right</h4> <p>Google has previewed Code Wiki, an AI project that aims to document code in a repository and keep it up to date by regenerating the content after every code change.…</p>",
-      "published": "2025-11-17T18:39:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/17/shutterstock_2151852655.jpg"
     },
     {
       "title": "Google is fighting the defamation battle Meta caved on",
@@ -384,22 +400,6 @@
       "published": "2025-11-17T15:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "How Jeffrey Epstein used SEO to bury news about his crimes",
-      "link": "https://www.theverge.com/report/822311/jeffrey-epstein-emails-google-search-seo-pr",
-      "summary": "On December 11th, 2010, Jeffrey Epstein was fretting about what came up if you Googled him. By this time Epstein had already pleaded guilty to soliciting prostitution with a child and was a registered sex offender, and just a few days earlier he had been photographed in Central Park taking a stroll with Prince Andrew. [&#8230;]",
-      "published": "2025-11-17T14:34:23-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258116_Jeffrey_Epstein_used_SEO_to_bury_news_about_his_crimes_CVirginia_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Your online reservations are telling restaurants all about you",
-      "link": "https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants",
-      "summary": "Are you a red wine drinker? A high spender? Or perhaps you're a slow eater, the sort who takes up a restaurant's table for longer than they'd like. You might not even know - but OpenTable does. Those are just a few of the notes that the reservation platform has started serving up to some [&#8230;]",
-      "published": "2025-11-17T13:59:28-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/opentable-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
