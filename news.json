@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-11-19T06:36:03.543394",
+  "lastUpdated": "2025-11-19T12:51:56.281701",
   "articles": [
+    {
+      "title": "As Lovable hits $200M ARR, its CEO credits staying in Europe for its success",
+      "link": "https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/",
+      "summary": "Lovable CEO Anton Osika said he credits ignoring advice to move to Silicon Valley for the AI coding company's success.",
+      "published": "Wed, 19 Nov 2025 12:09:50 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801"
+    },
     {
       "title": "TikTok will now give you badges for limiting your doomscrolling",
       "link": "https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/",
@@ -122,14 +130,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg"
     },
     {
-      "title": "Meta wins antitrust trial as judge denies that it’s a monopoly",
-      "link": "https://techcrunch.com/2025/11/18/meta-wins-antitrust-trial-as-judge-denies-that-its-a-monopoly/",
-      "summary": "A federal judge ruled that Meta is not a monopoly in a lawsuit with the FTC.",
-      "published": "Tue, 18 Nov 2025 19:01:45 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800"
-    },
-    {
       "title": "The Analogue 3D is the modern N64 fans have been waiting for",
       "link": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/",
       "summary": "Excellent design and display filters, but the lack of OpenFPGA support rankles.",
@@ -242,6 +242,62 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/guests-kicked-sonder-thanksgiving.jpg?quality=85"
     },
     {
+      "title": "Ignite awash with agents as Microsoft triples down on AI",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/microsoft_ai_agents_ignite/",
+      "summary": "<h4>Event supposedly for IT pros doesn't have much to tell admins on the Windows front</h4> <p>The Copilot company kicked off its Ignite shindig this week with AI, AI, and more AI. Oh, and a lot of agents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-19T12:33:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/12/09/shutterstock_ai_typing.jpg"
+    },
+    {
+      "title": "Microsoft spins up Azure HorizonDB to take on distributed Postgres rivals",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/microsoft_azure_horizondb/",
+      "summary": "<h4>Open source RDMS popularity offers devs 'something other than Oracle' as database standard, analyst says</h4> <p>Microsoft has announced a distributed PostgreSQL database service designed to rival other hyperscaler systems and third-party RDBMSes such as CockroachDB and YugabyteDB.…</p>",
+      "published": "2025-11-19T11:45:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/10/04/shutterstock_elephant_cloud.jpg"
+    },
+    {
+      "title": "CPython may go Rusty, but older platforms risk getting iced out",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/cpython_may_use_rust/",
+      "summary": "<h4>Preliminary proposal is already provoking debate</h4> <p>The Python community is chewing over a new idea: allowing the C-based reference implementation, CPython, to incorporate Rust. It's only at the \"pre-PEP\" stage, but it's already sparked lively debate.…</p>",
+      "published": "2025-11-19T11:00:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/05/22/python_shutterstock.jpg"
+    },
+    {
+      "title": "SAP's migration narrative suddenly looks messy as Kingfisher goes off-script",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/kingfisher_sap/",
+      "summary": "<h4>B&amp;Q owner resists the S/4HANA push, betting it can innovate around legacy ERP, but questions remain</h4> <p>In 2020, SAP's CFO told investors that its plans for customer upgrades, cloud migration, and a move to SaaS would give the German software vendor <a href=\"https://www.theregister.com/2020/10/28/sap_new_strategy/\" target=\"_blank\">a greater \"share of wallet.\"</a>…</p>",
+      "published": "2025-11-19T10:15:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/18/shutterstock_kingfisher.jpg"
+    },
+    {
+      "title": "Tens of thousands more ASUS routers pwned by suspected, evolving China operation",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/thousands_more_asus_routers_pwned/",
+      "summary": "<h4>Researchers say attacks are laying the groundwork for stealthy espionage activity</h4> <p>Around 50,000 ASUS routers have been compromised in a sophisticated attack that researchers believe may be linked to China, according to findings released today by SecurityScorecard's STRIKE team.…</p>",
+      "published": "2025-11-19T09:30:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/01/13/router_shutterstock.jpg"
+    },
+    {
+      "title": "Europe is scaling back its landmark privacy and AI laws",
+      "link": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
+      "summary": "After years of staring down the world’s biggest tech companies and setting the bar for tough regulation worldwide, Europe has blinked. Under intense pressure from industry and the US government, Brussels is stripping protections from its flagship General Data Protection Regulation (GDPR) — including simplifying its infamous cookie permission pop-ups — and relaxing or delaying landmark [&#8230;]",
+      "published": "2025-11-19T07:47:09-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Whatever your job, mentoring is your job – and the one that matters most",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/every_job_is_mentoring/",
+      "summary": "<h4>Nobody succeeds alone, and no community thrives without generosity</h4> <p><strong>Opinion</strong>  When I started coding for a living 43 years ago, I didn't know shit from Shinola. I'd written a lot of BASIC, some Z80 assembler, and knew my way around floppy drives and a disk operating system. I knew nothing at all about how to operate as a junior engineer in a professional environment.…</p>",
+      "published": "2025-11-19T07:33:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/17/shutterstock_pair_programming.jpg"
+    },
+    {
       "title": "China recruiting spies in the UK with fake headhunters and ‘sites like LinkedIn’",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/mi5_linkedin_china_spy_warning/",
       "summary": "<h4>MI5 sounds the alarm about attempts to source sensitive information</h4> <p>Chinese spies are using social media and fake recruitment agents to recruit sources with access to sensitive information in the UK.…</p>",
@@ -250,12 +306,28 @@
       "image_url": "https://regmedia.co.uk/2021/04/26/uk_china_puzzle_shutterstock.jpg"
     },
     {
+      "title": "AI, my unexpected daily travel companion",
+      "link": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero",
+      "summary": "I was starting to doubt it would ever happen, but I finally found a regular, helpful use for AI: vanlife travel planner. I'm not a student and I don't code. I am, however, on day 48 of my van tour through Europe with my wife and dog. We travel without a specific itinerary, chasing the [&#8230;]",
+      "published": "2025-11-19T04:48:59-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/IMG_3588.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Microsoft reveals new cloudy AI PC that’s not a Copilot+ PC",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/microsoft_virtual_pc_update/",
       "summary": "<h4>And a cloud PC that's for AI agents only</h4> <p>Microsoft has created a new type of AI PC – the “Windows 365 AI-enabled Cloud PC”.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "published": "2025-11-19T04:23:05.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/11/19/supplied_ai_enabled_cloud_pcs.jpg"
+    },
+    {
+      "title": "Fortnite is getting Unity games",
+      "link": "https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg",
+      "summary": "Epic Games is teaming up with arguably its biggest game development rival, Unity, to bring games made using Unity’s engine into Fortnite. The change will mean that Unity games could sit alongside Epic’s own suite of experiences as well as those created by third-party developers using the Unreal Editor for Fortnite — and it opens [&#8230;]",
+      "published": "2025-11-19T04:10:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258122_Fortnite_is_getting_Unity_games_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Cloudflare broke itself – and a big chunk of the Internet – with a bad database query",
@@ -282,33 +354,9 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/meross1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft blanks out BSODs on public displays with new ‘Digital Signage mode’",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/windows_bsod_digital_signage_mode/",
-      "summary": "<h4>BORK is borked</h4> <p>Microsoft has added a new Windows mode that blanks out the Blue Screen of Death on public displays after 15 seconds.…</p>",
-      "published": "2025-11-18T23:28:27.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/18/shutterstockbluescreenofdeath.jpg"
-    },
-    {
-      "title": "Anthropic is at the heart of the latest billion-dollar circular AI investment bonanza",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/anthropic_microsoft_nvidia_ai_deals/",
-      "summary": "<h4>What do you get when you combine Anthropic, Microsoft, and Nvidia? A bubble that blows itself</h4> <p>It wouldn't be a week of tech news without more circular exchanges of billions of dollars between AI firms. This time around, it's a $45 billion back-scratching session involving Microsoft, Anthropic, and Nvidia, announced during Redmond's Ignite conference.…</p>",
-      "published": "2025-11-18T21:58:00.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/18/shutterstock_2506692263.jpg"
-    },
-    {
-      "title": "Self-replicating botnet attacks Ray clusters",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/selfreplicating_botnet_ray_clusters/",
-      "summary": "<h4>Using AI to attack AI</h4> <p>Malefactors are actively attacking internet-facing Ray clusters and abusing the open source AI framework to spread a self-replicating botnet that mines for cryptocurrency, steals data, and launches distributed denial of service (DDoS) attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-18T21:43:20.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/12/19/arm_wrestling_robots.jpg"
-    },
-    {
       "title": "Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT",
       "link": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem",
-      "summary": "A blog post published Tuesday night by Cloudflare co-founder and CEO Matthew Prince has details on what caused its “worst outage since 2019,” pinning the issue to a problem in the Bot Management system that is supposed to control which automated crawlers are allowed to scan particular websites using its CDN. Cloudflare said last year [&#8230;]",
+      "summary": "A blog post published Tuesday night by Cloudflare cofounder and CEO Matthew Prince has details on what caused its “worst outage since 2019,” pinning the issue to a problem in the Bot Management system that is supposed to control which automated crawlers are allowed to scan particular websites using its CDN. Cloudflare said last year [&#8230;]",
       "published": "2025-11-18T21:25:59-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -352,54 +400,6 @@
       "published": "2025-11-18T18:45:52-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "FCC looks to torch Biden-era cyber rules sparked by Salt Typhoon mess",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/fcc_salt_typhoon_rules/",
-      "summary": "<h4>Regulator sides with telcos that claimed new cybersecurity duties were too ‘burdensome’</h4> <p>The Federal Communications Commission (FCC) will vote this week on whether to scrap Biden-era cybersecurity rules, enacted after the Salt Typhoon attacks came to light in 2024, that required telecom carriers to adopt basic security controls.…</p>",
-      "published": "2025-11-18T18:16:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/04/09/shutterstock_smoke_torch.jpg"
-    },
-    {
-      "title": "China readies a lifeboat for stranded Shenzhou crew",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/china_readies_a_lifeboat_for/",
-      "summary": "<h4>Stuck on the Tiangong station with a cracked capsule for company</h4> <p>China is preparing for an early launch of the Shenzhou-22 spacecraft to rescue the crew of Shenzou-21, who were left stranded aboard the Tiangong space station after their emergency rescue of the Shenzou-20 crew earlier this month.…</p>",
-      "published": "2025-11-18T18:07:39.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/18/lifeboat_beach.jpg"
-    },
-    {
-      "title": "Cloudflare shows internet outages aren’t a matter of if — but when",
-      "link": "https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites",
-      "summary": "Cloudflare has become the latest web infrastructure giant to collapse in the span of a month, replacing entire sites, including X, ChatGPT, Spotify, Canva, and even the outage-tracking DownDetector, with an error message for hours this morning. It's the latest in a string of outages that Mehdi Daoudi, CEO and co-founder of the internet performance [&#8230;]",
-      "published": "2025-11-18T17:58:59-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25537994/STK454_ERRORS_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Take fight to the enemy, US cyber boss says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/the_us_wants_to_go/",
-      "summary": "<h4>When? Sean Cairncross wouldn't say</h4> <p>America is fed up with being the prime target for foreign hackers. So US National Cyber Director Sean Cairncross says Uncle Sam is going on the offensive – he just isn't saying when.…</p>",
-      "published": "2025-11-18T17:48:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/18/shutterstock_2147422665.jpg"
-    },
-    {
-      "title": "The best Xbox controller to buy right now",
-      "link": "https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s",
-      "summary": "Editor’s note:&#160;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&#160;best early Black Friday deals&#160;you can already get. We live in a golden age of controllers. The gamepads on the market now are of higher quality, more versatile, and more customizable than [&#8230;]",
-      "published": "2025-11-18T17:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Best-Xbox-Controller.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
-      "link": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
-      "summary": "Black Friday is the most anticipated day of the year for bargain hunters. While there’s still some time to go before November 28th, we’re already starting to see a healthy selection of early discounts, allowing you to get a jump on your holiday shopping. Right now, for instance, Bose’s QuietComfort Ultra Earbuds are on sale [&#8230;]",
-      "published": "2025-11-18T15:22:53-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
