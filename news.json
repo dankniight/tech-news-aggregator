@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T06:35:33.046247",
+  "lastUpdated": "2025-11-20T12:50:48.385546",
   "articles": [
     {
       "title": "“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one",
@@ -122,14 +122,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?resize=1200,837"
     },
     {
-      "title": "Rising data center electricity use risks blackouts during winter storms",
-      "link": "https://techcrunch.com/2025/11/19/rising-data-center-electricity-use-risks-blackouts-during-winter-storms/",
-      "summary": "Data centers are driving record electricity demand, and the North American Electric Reliability Corporation is warning that a severe winter storm could push the grid over the edge.",
-      "published": "Wed, 19 Nov 2025 19:19:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-969384810.jpg?resize=1200,800"
-    },
-    {
       "title": "OpenAI Board Member Resigns After Deep Connections to Epstein Exposed",
       "link": "https://futurism.com/artificial-intelligence/openai-epstein-larry-summers",
       "summary": "<p>\"As I have said before, my association with Jeffrey Epstein was a major error of judgement.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-epstein-larry-summers\">OpenAI Board Member Resigns After Deep Connections to Epstein Exposed</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -160,14 +152,6 @@
       "published": "Wed, 19 Nov 2025 16:26:18 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/rebecca_heineman_1-1152x648.jpg"
-    },
-    {
-      "title": "DeepMind’s latest: An AI for handling mathematical proofs",
-      "link": "https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/",
-      "summary": "AlphaProof can handle math challenges but needs a bit of help right now.",
-      "published": "Wed, 19 Nov 2025 15:57:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-643999103-1152x648.jpg"
     },
     {
       "title": "NASA Releases Long-Delayed Image of 3I/ATLAS",
@@ -226,6 +210,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/rfk-jr-dmt.jpg?quality=85"
     },
     {
+      "title": "In 1982, a physics joke gone wrong sparked the invention of the emoticon",
+      "link": "https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/",
+      "summary": "A simple proposal on a 1982 electronic bulletin board helped sarcasm flourish online.",
+      "published": "Thu, 20 Nov 2025 12:00:22 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/emoticon_hero_2-1152x648.jpg"
+    },
+    {
+      "title": "Uber Eats will use Starship sidewalk robots to deliver food in the UK",
+      "link": "https://techcrunch.com/2025/11/20/uber-eats-will-use-starship-sidewalk-robots-to-deliver-food-in-the-uk/",
+      "summary": "The two companies will start in the UK this year, before expanding to other European cities in 2026 and the U.S. in 2027.",
+      "published": "Thu, 20 Nov 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Starship_1.jpg?w=1080"
+    },
+    {
       "title": "Study: Kids’ drip paintings more like Pollock’s than those of adults",
       "link": "https://arstechnica.com/science/2025/11/study-kids-drip-paintings-more-like-pollocks-than-adults/",
       "summary": "The splatter master was more clumsy than graceful in his movements, which are key to his distinctive style.",
@@ -240,6 +240,38 @@
       "published": "Thu, 20 Nov 2025 02:05:17 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/monarch-tractor-mkv.jpg?resize=1200,847"
+    },
+    {
+      "title": "Palo Alto kit sees massive surge in malicious activity amid mystery traffic flood",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/palo_alto_traffic_flood/",
+      "summary": "<h4>GlobalProtect login endpoints targeted, sparking concern that something bigger may be brewing</h4> <p>Malicious traffic targeting Palo Alto Networks' GlobalProtect portals surged almost 40-fold in the space of 24 hours, hitting a 90-day high and putting defenders on alert for whatever comes next.…</p>",
+      "published": "2025-11-20T11:38:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/03/17/perfect_storm_shutterstock.jpg"
+    },
+    {
+      "title": "Systemd 259 release candidate flexes musl support – with long list of caveats",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/rc_systemd_259/",
+      "summary": "<h4>PostmarketOS pushed for the change, but devs warn it may not last</h4> <p>Along with new functionality, systemd is broadening its distro support even further, which will surely delight members of the wider Linux community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-20T10:31:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/06/16/systemd.png"
+    },
+    {
+      "title": "Manchester hits snooze again on joining Palantir-run NHS data platform",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/manchester_nhs_fdp_deferred/",
+      "summary": "<h4>Care board still waiting for evidence that it will be in the best interests of the population</h4> <p>Greater Manchester Integrated Care Board (ICB) has again put off its adoption of an NHS data platform prescribed by the UK government and run by Palantir until there is more evidence that it will be in the \"best interests\" of the city's population.…</p>",
+      "published": "2025-11-20T09:01:23.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/05/21/shutterstock_manchester.jpg"
+    },
+    {
+      "title": "Windows on Arm is now ready for gaming thanks to some big changes",
+      "link": "https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements",
+      "summary": "Last year Qualcomm promised that games would “just work” on its Snapdragon X Elite laptops, but in my testing I found that was far from the case. Now, a year on, Windows on Arm is a lot more ready for gaming, thanks to emulator improvements, driver updates, a new Snapdragon Control Panel, and Qualcomm’s work [&#8230;]",
+      "published": "2025-11-20T06:12:26-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25501065/DSCF7721.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Eleven years after Lenovo acquired IBM’s x86 server biz, profits are still elusive",
@@ -260,7 +292,7 @@
     {
       "title": "US, UK, Australia sanction Lockbit gang’s hosting provider",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/russian_bph_medialand_sanctioned/",
-      "summary": "<h4>‘Bulletproof’ hosts partly dodged the last attack of this sort</h4> <p>US, UK, Australia sanction Lockbit gang’s hosting provider ‘Bulletproof’ hosts partly dodged the last attack of this sort Cybercrime fighters in the US, UK, and Australia have imposed sanctions on several Russia-linked entities they claim provide hosting services to ransomware gangs Lockbit, BlackSuit, and Play.…</p>",
+      "summary": "<h4>‘Bulletproof’ hosts partly dodged the last attack of this sort</h4> <p>Cybercrime fighters in the US, UK, and Australia have imposed sanctions on several Russia-linked entities they claim provide hosting services to ransomware gangs Lockbit, BlackSuit, and Play.…</p>",
       "published": "2025-11-20T01:30:04.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/11/20/supplied_alleged_bph_operators.jpg"
@@ -298,30 +330,6 @@
       "image_url": "https://regmedia.co.uk/2015/04/23/congress.jpg"
     },
     {
-      "title": "Pegasus XL rocket dusted off to rescue NASA’s Swift observatory from fiery demise",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/pegasus_fly_again_rescue_swift/",
-      "summary": "<h4>Air-launched antique picked for tricky low-inclination orbit job</h4> <p>NASA's Neil Gehrels Swift Observatory, facing the risk of an uncontrolled dive back to Earth, is set for a rescue ride on a Pegasus XL, the air-dropped rocket that hasn't flown since 2021.…</p>",
-      "published": "2025-11-19T18:55:37.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/01/20/nasa_swift.jpg"
-    },
-    {
-      "title": "Amazon security boss: Hostile countries use cyber targeting for physical military strikes",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/amazon_cso_warfare_cyber_kinetic/",
-      "summary": "<h4>And companies are getting caught in the crossfire</h4> <p><strong>interview</strong>  Warfare has become a joint cyber-kinetic endeavor, with nations using cyber operations to scope out targets before launching missiles. And private companies, including shipping, transportation, and electronics manufacturers, are getting caught in the crossfire, according to Amazon.…</p>",
-      "published": "2025-11-19T18:26:04.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/07/08/missile_873647634645.jpg"
-    },
-    {
-      "title": "DARPA making low-hanging satellites that use air to move",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/darpas_vleo_satellite_program_advances/",
-      "summary": "<h4>Skim the atmosphere and air-breathing VLEO sats can theoretically maintain orbit</h4> <p>DARPA is on the verge of reaching a new low - an orbital one - as the Defense Department's research arm moves its Very Low Earth Orbit (VLEO) Otter satellite program into the production phase. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-19T18:16:23.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/19/redwire-sabresat-darpa-otter.jpg"
-    },
-    {
       "title": "Here’s the Trump executive order that would ban state AI laws",
       "link": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
       "summary": "President Donald Trump is considering signing an executive order as soon as Friday that would give the federal government unilateral power over regulating artificial intelligence, including the creation of an \"AI Litigation Task Force\" overseen by the attorney general, \"whose sole responsibility shall be to challenge State AI laws.\" According to a draft of the [&#8230;]",
@@ -338,7 +346,7 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/247288_iphone_buying_guides_3_cvirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Netflix signs a three year deal to stream MLB live events and games",
+      "title": "Netflix signs a three-year deal to stream MLB live events and games",
       "link": "https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn",
       "summary": "Today, Major League Baseball announced new media rights deals with ESPN, NBCUniversal, and Netflix that run for the next three seasons. The Netflix deal brings live MLB games to its platform and continues to grow its library of sports programming in an arrangement that Front Office Sports reports is worth about $50 million per year. [&#8230;]",
       "published": "2025-11-19T17:53:46-05:00",
@@ -392,14 +400,6 @@
       "published": "2025-11-19T13:56:30-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/googletv_remote1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Verge’s 2025 holiday gift guide for tinkerers",
-      "link": "https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025",
-      "summary": "As AI tools continue to rise in popularity, it's easy to forget the satisfaction of using something that doesn't need an update or a prompt to help you get things done. I'm talking about tools. They're simple and rugged, and they don't make things needlessly complicated. And now that the holidays are approaching, these tools [&#8230;]",
-      "published": "2025-11-19T11:17:53-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_TOOLS_Holiday_Gift_Guide_AKrales_6102.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
