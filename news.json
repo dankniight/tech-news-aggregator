@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-21T01:53:43.085950",
+  "lastUpdated": "2025-11-21T06:37:19.647903",
   "articles": [
     {
       "title": "OpenAI Board Member Resigns After Deep Connections to Epstein Exposed",
@@ -26,7 +26,7 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1293225672-1152x648-1763676677.jpg"
     },
     {
-      "title": "From defiant to contrite: Formula maker confirms bacteria amid botulism outbreak",
+      "title": "Infant botulism outbreak doubles; ByHeart confirms bacteria in formula",
       "link": "https://arstechnica.com/health/2025/11/from-defiant-to-contrite-formula-maker-confirms-bacteria-amid-botulism-outbreak/",
       "summary": "ByHeart said \"there's no reason to believe\" until its own testing found a reason.",
       "published": "Thu, 20 Nov 2025 22:33:27 +0000",
@@ -242,6 +242,30 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/chatbots-teen-mental-health-chatgpt-gemini-claude.jpg?quality=85"
     },
     {
+      "title": "Open Compute Project figuring out how to get quantum computers into classical datacenters",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/ocp_hpc_quantum_datacenter_integration/",
+      "summary": "<h4>It’s an ethereal and weighty problem, not a powerful conundrum</h4> <p>The Open Compute Project (OCP) has commenced a workstream to learn how to deploy quantum computers alongside classical high performance computers in the same datacenter.…</p>",
+      "published": "2025-11-21T05:25:26.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/11/23/datacenter_photo_via_shutterstock.jpg"
+    },
+    {
+      "title": "Google links Android’s Quick Share to Apple’s AirDrop, without Cupertino’s help",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/google_links_androids_quick_share/",
+      "summary": "<h4>Relies on very loose permissions, but don’t worry – Google wrote it in Rust</h4> <p>Google has linked Android’s wireless peer-to-peer file sharing tool Quick Share to Apple’s equivalent AirDrop.…</p>",
+      "published": "2025-11-21T03:55:00.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/21/leonardo_ai_android_hugging_an_apple.jpg"
+    },
+    {
+      "title": "Veeam bets on more VMware alternatives, including Red Hat and China’s Sangfor",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/veeam_13_hypervisor_support/",
+      "summary": "<h4>Plans a universal API to back up all hypervisors, too</h4> <p>Backup software vendor Veeam has thrown its weight behind more alternatives to VMware.…</p>",
+      "published": "2025-11-21T02:38:58.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/01/22/shutterstock_editorial_only_veeam.jpg"
+    },
+    {
       "title": "SEC drops SolarWinds lawsuit that painted a target on CISOs everywhere",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/sec_bails_on_solarwinds_lawsuit/",
       "summary": "<h4>Company 'clearly delighted' with the outcome</h4> <p>The US Securities and Exchange Commission (SEC) has abandoned the lawsuit it pursued against SolarWinds and its chief infosec officer for misleading investors about security practices that led to the 2020 SUNBURST attack.…</p>",
@@ -298,14 +322,6 @@
       "image_url": "https://regmedia.co.uk/2025/11/20/shutterstock_2626719439.jpg"
     },
     {
-      "title": "Trump, Republicans try again to stop states from regulating AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/trump_republicans_trying_again_to/",
-      "summary": "<h4>If at first you don’t succeed, swing again - Big Tech certainly isn’t complaining</h4> <p>The Trump administration and congressional Republicans are trying again to eliminate state-level AI regulations in favor of a federal standard. The plan faces opposition from many state governments and civil-society organizations, while AI vendors have welcomed it.…</p>",
-      "published": "2025-11-20T18:02:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/12/16/trump.jpg"
-    },
-    {
       "title": "Grok’s Elon Musk worship is getting weird",
       "link": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird",
       "summary": "It’s no secret that Elon Musk shapes the X social platform and X’s “maximally truth-seeking” Grok AI chatbot to his preferences. But it’s possible Musk may have needed a bit of an extra ego boost this week, because Grok’s worship of its creator seems, shall we say, more noticeable than usual. As a number of [&#8230;]",
@@ -330,28 +346,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Gemini_Generated_Image_e7qjzte7qjzte7qj.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Thunderbird 145 finally adds ‘native’ Exchange support",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/thunderbird_microsoft_exchange_support/",
-      "summary": "<h4>EWS-powered email only for now, with calendars and contacts still on the to-do list</h4> <p>It's easy to forget in the FOSS world, but Exchange still runs most corporate email – and the new version of Thunderbird can talk to it directly.…</p>",
-      "published": "2025-11-20T17:08:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/20/shutterstock_2472136073.jpg"
-    },
-    {
       "title": "Microsoft&#8217;s AI-powered copy and paste can now use on-device AI",
       "link": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai",
       "summary": "Microsoft is upgrading its Advanced Paste tool in PowerToys for Windows 11, allowing you to use an on-device AI model to power some of its features. With the 0.96 update, you can route requests through Microsoft’s Foundry Local tool or the open-source Ollama, both of which run AI models on your device’s neural processing unit [&#8230;]",
       "published": "2025-11-20T16:48:39-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Fired techie admits sabotaging ex-employer, causing $862K in damage",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/it_contractor_sabotage/",
-      "summary": "<h4>PowerShell script locked thousands of workers out of their accounts</h4> <p>An Ohio IT contractor has pleaded guilty to breaking into his former employer's systems and causing nearly $1 million worth of damage after being fired.…</p>",
-      "published": "2025-11-20T16:44:33.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/08/02/finger_shutterstock.jpg"
     },
     {
       "title": "Meta&#8217;s Hyperscape is ready to turn your real living room into a VR hangout",
