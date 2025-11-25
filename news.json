@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2025-11-25T12:52:14.422698",
+  "lastUpdated": "2025-11-25T18:37:08.942168",
   "articles": [
+    {
+      "title": "RealPage agrees to change algorithm so landlords can’t collude on price hikes",
+      "link": "https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/",
+      "summary": "RealPage agrees to settle suit over DOJ claims software raised rents across the US.",
+      "published": "Tue, 25 Nov 2025 17:51:42 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2154521423-1152x648.jpg"
+    },
+    {
+      "title": "Microsoft’s AI chatbot Copilot leaves WhatsApp on January 15",
+      "link": "https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/",
+      "summary": "WhatsApp's new platform policies ban general-purpose AI chatbots like Copilot from using its service.",
+      "published": "Tue, 25 Nov 2025 17:11:55 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676"
+    },
+    {
+      "title": "China’s Pony AI plans to triple global robotaxi fleet by the end of 2026",
+      "link": "https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/",
+      "summary": "The Chinese autonomous vehicle company Pony.ai has global ambitions and plans to build a 3,000-strong robotaxi fleet to meet them.",
+      "published": "Tue, 25 Nov 2025 16:54:57 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800"
+    },
+    {
+      "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one",
+      "link": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/",
+      "summary": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says.",
+      "published": "Tue, 25 Nov 2025 16:51:40 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_back_a-1152x648.jpg"
+    },
+    {
+      "title": "Fleet Space finds massive lithium deposit using AI and satellites",
+      "link": "https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/",
+      "summary": "The discovery suggests that a region in Quebec might hold even more lithium than originally suspected.",
+      "published": "Tue, 25 Nov 2025 16:14:33 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/fleet-space-satellite.jpeg?resize=1200,568"
+    },
+    {
+      "title": "Speechify adds voice typing and voice assistant to its Chrome extension",
+      "link": "https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/",
+      "summary": "In the last 12 months, there has been a proliferation of voice detection tools, thanks to overall quality improvement in speech recognition models. Speechify is hitching its wagon to this train and launching its own dictation tool with support for English.",
+      "published": "Tue, 25 Nov 2025 16:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Voice-AI-Assistant.jpeg?resize=1200,810"
+    },
+    {
+      "title": "Spotify to raise US prices in first quarter of next year, report says",
+      "link": "https://techcrunch.com/2025/11/25/spotify-to-raise-us-prices-in-first-quarter-of-next-year-report-says/",
+      "summary": "Major record labels have been urging Spotify and other music streaming platforms to raise subscription prices, arguing that fees have not kept pace with inflation and remain low when compared to services like Netflix.",
+      "published": "Tue, 25 Nov 2025 15:15:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676"
+    },
+    {
+      "title": "In Leaked Audio, Campbell’s Soup Exec Rants About “Bioengineered” Meat That “Came From a 3D Printer”",
+      "link": "https://futurism.com/future-society/campbell-soup-bioengineered-chicken-3d-printer",
+      "summary": "<p>\"The comments heard on the recording about our food are not only inaccurate — they are patently absurd.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/campbell-soup-bioengineered-chicken-3d-printer\">In Leaked Audio, Campbell&#8217;s Soup Exec Rants About &#8220;Bioengineered&#8221; Meat That &#8220;Came From a 3D Printer&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 25 Nov 2025 13:07:41 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/campbell-soup-bioengineered-chicken-3d-printer.jpg?quality=85"
+    },
     {
       "title": "Formation of oceans within icy moons could cause the waters to boil",
       "link": "https://arstechnica.com/science/2025/11/formation-of-oceans-within-icy-moons-could-cause-the-waters-to-boil/",
@@ -10,12 +74,44 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-3-990x648.jpeg"
     },
     {
+      "title": "Sam Altman Says Jony Ive’s Mysterious OpenAI Device Will Be Lickable",
+      "link": "https://futurism.com/future-society/openai-device-jony-ive-lickable",
+      "summary": "<p>\"I know we'll have the design right when you want to lick it or take a bite out of it.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/openai-device-jony-ive-lickable\">Sam Altman Says Jony Ive&#8217;s Mysterious OpenAI Device Will Be Lickable</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 25 Nov 2025 12:14:18 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/openai-device-jony-ive-lickable.jpg?quality=85"
+    },
+    {
       "title": "Mushroom foragers collect 160 species for food, medicine, art, and science",
       "link": "https://arstechnica.com/science/2025/11/mushroom-foragers-collect-160-species-for-food-medicine-art-and-science/",
-      "summary": "Researcher seek to understand the various uses of wild mushroom species.",
+      "summary": "Researchers seek to understand the various uses of wild mushroom species.",
       "published": "Tue, 25 Nov 2025 12:00:50 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1860048338-1152x648.jpg"
+    },
+    {
+      "title": "Godfather of AI Predicts Total Breakdown of Society",
+      "link": "https://futurism.com/artificial-intelligence/godfather-ai-breakdown-society",
+      "summary": "<p>Tech billionaires \"are really betting on AI replacing a lot of workers.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/godfather-ai-breakdown-society\">Godfather of AI Predicts Total Breakdown of Society</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 25 Nov 2025 11:19:37 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/godfather-ai-breakdown-society.jpg?quality=85"
+    },
+    {
+      "title": "AI Teddy Bear Back on the Market After Getting Caught Telling Kids How to Find Pills and Start Fires",
+      "link": "https://futurism.com/future-society/ai-teddy-bear-back-on-market",
+      "summary": "<p>One week of safety testing later, the AI-powered teddy bear is back.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-teddy-bear-back-on-market\">AI Teddy Bear Back on the Market After Getting Caught Telling Kids How to Find Pills and Start Fires</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 25 Nov 2025 10:25:43 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/ai-teddy-bear-back-on-market_8ea1eb.jpg?quality=85"
+    },
+    {
+      "title": "OpenAI Locks Down Office After Violent Threat",
+      "link": "https://futurism.com/artificial-intelligence/openai-lockdown-threat",
+      "summary": "<p>\"He has previously been on site at our San Francisco facilities.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-lockdown-threat\">OpenAI Locks Down Office After Violent Threat</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 25 Nov 2025 09:21:40 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/11/openai-lockdown-threat.jpg?quality=85"
     },
     {
       "title": "India’s gig workers win legal status, but access to social security remains elusive",
@@ -32,22 +128,6 @@
       "published": "Tue, 25 Nov 2025 00:30:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/google-india.jpg?resize=1200,800"
-    },
-    {
-      "title": "Fire Breaks Out at UN Climate Summit",
-      "link": "https://futurism.com/science-energy/un-climate-summit-fire",
-      "summary": "<p>The irony is palpable.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/un-climate-summit-fire\">Fire Breaks Out at UN Climate Summit</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 23 Nov 2025 14:15:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/un-climate-summit-fire.jpg?quality=85"
-    },
-    {
-      "title": "British Military Attacks Drones With Huge Laser",
-      "link": "https://futurism.com/future-society/british-military-drone-laser",
-      "summary": "<p>\"The accuracy is razor sharp.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/british-military-drone-laser\">British Military Attacks Drones With Huge Laser</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 23 Nov 2025 13:30:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/british-military-drone-laser.jpg?quality=85"
     },
     {
       "title": "Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model",
@@ -98,14 +178,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2200059564-1152x648-1764014719.jpg"
     },
     {
-      "title": "Tesla FSD software may not be approved by EU regulator after all",
-      "link": "https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/",
-      "summary": "Tesla claimed in a weekend social media post that a Dutch regulator was set to approve its Full Self-Driving mode. It seems the regulator isn't quite in line with Tesla.",
-      "published": "Mon, 24 Nov 2025 21:10:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
-    },
-    {
       "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
       "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
       "summary": "“Why is reverse-engineering prohibited... for a company built on openly hackable systems?”",
@@ -114,44 +186,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200985324-1152x648-1764015033.jpg"
     },
     {
-      "title": "Hands on with Stickerbox, the AI-powered sticker maker for kids",
-      "link": "https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/",
-      "summary": "Stickerbox turns kids’ ideas into printable stickers, blending AI magic with hands-on coloring for a surprisingly creative, \"screen-light\" play experience.",
-      "published": "Mon, 24 Nov 2025 20:25:20 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Stickerbox-Sunflower.jpg?resize=1200,800"
-    },
-    {
       "title": "Why synthetic emerald-green pigments degrade over time",
       "link": "https://arstechnica.com/science/2025/11/why-synthetic-emerald-green-pigments-degrade-over-time/",
       "summary": "Light is the greatest threat to 19th-century masterpieces like James Ensor's <em>The Intrigue</em>, study finds.",
       "published": "Mon, 24 Nov 2025 20:15:47 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/emerald1-1152x648.jpg"
-    },
-    {
-      "title": "AWS is spending $50B to build AI infrastructure for the US government",
-      "link": "https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/",
-      "summary": "AWS has been working with the U.S. government since 2011 and is now building AI infrastructure specifically for the entity.",
-      "published": "Mon, 24 Nov 2025 19:10:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_4752.jpg?resize=1200,797"
-    },
-    {
-      "title": "Anthropic releases Opus 4.5 with new Chrome and Excel integrations",
-      "link": "https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/",
-      "summary": "Anthropic has launched Opus 4.5, the latest version of its flagship model, with new integrations into Chrome and Excel.",
-      "published": "Mon, 24 Nov 2025 19:08:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?resize=1200,675"
-    },
-    {
-      "title": "X-energy rides nuclear wave, raises $700M Series D",
-      "link": "https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/",
-      "summary": "The small modular reactor startup is capitalizing on surging interest from tech companies and data center developers.",
-      "published": "Mon, 24 Nov 2025 18:55:53 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-124923144.jpeg?resize=1200,800"
     },
     {
       "title": "It’s official: Boeing’s next flight of Starliner will be allowed to carry cargo only",
@@ -186,25 +226,9 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/doge-operatives-elon-abandoned.jpg?quality=85"
     },
     {
-      "title": "F1 in Las Vegas: This sport is a 200 mph soap opera",
-      "link": "https://arstechnica.com/cars/2025/11/f1-in-las-vegas-this-sport-is-a-200-mph-soap-opera/",
-      "summary": "Yet another twist in the championship with two more weekends to go.",
-      "published": "Mon, 24 Nov 2025 14:54:44 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2247872341-1152x648.jpg"
-    },
-    {
-      "title": "UK government will buy tech to boost AI sector in $130M growth push",
-      "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
-      "summary": "Plan will offer guaranteed payments for British startups making AI hardware",
-      "published": "Mon, 24 Nov 2025 14:17:29 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2247290617-1152x648.jpg"
-    },
-    {
-      "title": "Twitter Debuted a New Feature and the Funniest Possible Thing Happened",
+      "title": "Twitter’s New Feature Accidently Reveals Something Fascinating About Huge MAGA Influencers",
       "link": "https://futurism.com/future-society/new-twitter-feature-maga-scammers-foreign",
-      "summary": "<p>\"This is total armageddon for the online right.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/new-twitter-feature-maga-scammers-foreign\">Twitter Debuted a New Feature and the Funniest Possible Thing Happened</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"This is total armageddon for the online right.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/new-twitter-feature-maga-scammers-foreign\">Twitter&#8217;s New Feature Accidently Reveals Something Fascinating About Huge MAGA Influencers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 24 Nov 2025 14:14:23 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/new-twitter-feature-maga-scammers-foreign.jpg?quality=85"
@@ -218,188 +242,164 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/whistleblower-fired-warning-robot-crush-skull.jpg?quality=85"
     },
     {
-      "title": "Professor Says Mysterious Interstellar Object May Be Releasing Sentinels Around Jupiter",
-      "link": "https://futurism.com/space/professor-interstellar-object-releasing-satellites-jupiter",
-      "summary": "<p>\"If we find technological satellites of Jupiter that we did not send, it would imply that Jupiter is of interest to an extraterrestrial civilization.\"</p>\n<p>The post <a href=\"https://futurism.com/space/professor-interstellar-object-releasing-satellites-jupiter\">Professor Says Mysterious Interstellar Object May Be Releasing Sentinels Around Jupiter</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 24 Nov 2025 11:25:27 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/professor-interstellar-object-releasing-satellites-jupiter.jpg?quality=85"
-    },
-    {
-      "title": "Meet the Group Breaking People Out of AI Delusions",
-      "link": "https://futurism.com/artificial-intelligence/group-breaking-people-out-of-ai-delusions",
-      "summary": "<p>\"We're seeing some people who are so deep in it that they don't need ChatGPT anymore. They see their delusion in everything.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/group-breaking-people-out-of-ai-delusions\">Meet the Group Breaking People Out of AI Delusions</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 24 Nov 2025 10:53:41 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/group-breaking-people-out-of-ai-delusions.jpg?quality=85"
-    },
-    {
-      "title": "Google Denies Reading Your Gmail to Train Its AI",
-      "link": "https://futurism.com/artificial-intelligence/google-denies-gmail-ai",
-      "summary": "<p>\"We do not use your Gmail content for training our Gemini AI model.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-denies-gmail-ai\">Google Denies Reading Your Gmail to Train Its AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 24 Nov 2025 09:30:50 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/11/gmail-reading-emails-train-ai.jpg?quality=85"
-    },
-    {
-      "title": "Ukraine first country in Europe to get Starlink satellite phone service",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/ukraine_starlink_direct_to_cell/",
-      "summary": "<h4>Kyivstar begins trials offering SMS connectivity when ground networks fail</h4> <p>Ukrainian telco Kyivstar has launched Starlink's Direct to Cell satellite service for its subscribers, making the war-torn nation the first in Europe to offer it.…</p>",
-      "published": "2025-11-25T12:27:15.00Z",
+      "title": "HPE scores $931M contract to make DoD’s cloud migration a little less public",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/hpe_scores_931m_dod_cloud_contract/",
+      "summary": "<h4>Works like a public cloud but keeps everything on-prem</h4> <p>The US Department of Defense on Tuesday awarded Hewlett Packard Enterprise (HPE) a 10-year, $931 million contract to bring cloud conveniences, like unified management and multi-tenancy, to the US military's most sensitive datacenters.…</p>",
+      "published": "2025-11-25T18:24:46.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/10/17/ukrainerussiamap.jpg"
+      "image_url": "https://regmedia.co.uk/2025/04/11/petehegseth.jpg"
     },
     {
-      "title": "Lifeboat docks with Tiangong after cracked capsule triggers emergency rendezvous",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/tiangong_astronauts_lifeboat/",
-      "summary": "<h4>Uncrewed Shenzhou also delivered supplies and window fixing kit</h4> <p>China's uncrewed Shenzhou-22 spacecraft has successfully docked with the Tiangong space station, providing relief to the crew who were relying on a damaged capsule with a cracked window as their only ride home.…</p>",
-      "published": "2025-11-25T12:10:31.00Z",
+      "title": "Rent-a-GPU neoclouds need to adapt or die as the AI market evolves",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/rentagpu_neoclouds_need_to_adapt/",
+      "summary": "<h4>McKinsey points out the quandary facing companies like CoreWeave</h4> <p>So-called neocloud companies are facing a dilemma: They need to move up the AI stack to avoid being commoditized, but they risk competing against their big hyperscale customers if they do.…</p>",
+      "published": "2025-11-25T18:12:29.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/25/shutterstock_tiangong.jpg"
+      "image_url": "https://regmedia.co.uk/2021/01/13/cloud.jpg"
     },
     {
-      "title": "CISA warns spyware crews are breaking into Signal and WhatsApp accounts",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/cisa_spyware_gangs/",
-      "summary": "<h4>Attackers sidestep encryption with spoofed apps and zero-click exploits to compromise 'high-value' mobile users</h4> <p>CISA has warned that state-backed snoops and cyber-mercenaries are actively abusing commercial spyware to break into Signal and WhatsApp accounts, hijack devices, and quietly rummage through the phones of what the agency calls \"high-value\" users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-25T11:32:14.00Z",
+      "title": "HashJack attack shows AI browsers can be fooled with a simple ‘#’",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/hashjack_attack_ai_browser_hashtag/",
+      "summary": "<h4>Hashtag-do-whatever-I-tell-you</h4> <p>Cato Networks says it has discovered a new attack, dubbed \"HashJack,\" that hides malicious prompts after the \"#\" in legitimate URLs, tricking AI browser assistants into executing them while dodging traditional network and server-side defenses.…</p>",
+      "published": "2025-11-25T17:58:26.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/24/shutterstock_2574818603.jpg"
+      "image_url": "https://regmedia.co.uk/2020/01/08/shutterstock_hash_tag.jpg"
     },
     {
-      "title": "Russian spy ship theories sink after Orkney blackout traced to wind farm fault",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/russian_warship_fears_orkney/",
-      "summary": "<h4>Timing of Yantar's visit sparked gossip, but engineers point to a misbehaving protection system</h4> <p>Cock-up beats conspiracy most of the time, but that didn't stop Orkney residents wondering if a Russian warship caused their two-hour power cut.…</p>",
-      "published": "2025-11-25T11:01:14.00Z",
+      "title": "Get ready for 2026, the year of AI-aided ransomware",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/trend_micro_agentic_ai_assisted_ransomware/",
+      "summary": "<h4>State-backed crews are already poking at autonomous tools, Trend Micro warns</h4> <p>Cybercriminals, including ransomware crews, will lean more heavily on agentic AI next year as attackers automate more of their operations, Trend Micro's researchers believe.…</p>",
+      "published": "2025-11-25T16:58:03.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/05/09/putin_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2017/09/29/shutterstock_robot_man.jpg"
     },
     {
-      "title": "UK lines up £250M cloud procurement to feed its growing AI research appetite",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/uk_cloud_ai_research/",
-      "summary": "<h4>Plan would link commercial capacity with Britain's flagship supercomputers</h4> <p>The UK government is looking for cloud providers to support its ambition of increasing its AI compute capacity twentyfold by 2030 in a deal that could be worth £250 million.…</p>",
-      "published": "2025-11-25T10:28:07.00Z",
+      "title": "Microsoft's fix for slow File Explorer: load it before you need it",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/microsoft_trying_preloading_to_solve/",
+      "summary": "<h4>Windows Insider build intros background loading for faster launches, sidestepping questions about app's sluggishness</h4> <p>Microsoft is tackling File Explorer's sluggish launch times - not by stripping out the bloat or optimizing code, but by preloading the application in the background.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-25T15:49:32.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/09/22/cambridge_bikes_photo_mk_jones_via_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2025/11/25/shutterstock_2636714275.jpg"
     },
     {
-      "title": "Calls grow for inquiry into UK data watchdog after MoD leak",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/ico_inquiry_afghan_mod/",
-      "summary": "<h4>ICO accused of backing off oversight as fallout from Afghan blunder widens</h4> <p>Civil society groups are urging MPs to launch a parliamentary inquiry into the Information Commissioner's Office (ICO), accusing the UK data watchdog of abandoning its enforcement duties after it declined to investigate a Ministry of Defence data leak linked to dozens of deaths.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-25T09:44:10.00Z",
+      "title": "Employee trust in SAP board dips amid ongoing restructure",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/employee_trust_sap/",
+      "summary": "<h4>German mega vendor responds to latest in-house survey</h4> <p>An internal SAP employee survey reveals declining confidence in leadership as the software giant's restructuring program continues, with trust in the executive board waning in the past six months.…</p>",
+      "published": "2025-11-25T14:56:20.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/09/25/shutterstock_watchdog.jpg"
+      "image_url": "https://regmedia.co.uk/2024/09/05/shutterstock_sap.jpg"
     },
     {
-      "title": "Britain plots atomic reboot as datacenter demand surges",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/uk_nuclear_power_reform/",
-      "summary": "<h4>Taskforce calls UK the priciest place on Earth to build nuclear projects and urges radical regulatory reset</h4> <p>The UK is following the US in seeking to fast-track new atomic development, spurred on by the need to provide enough energy for its AI ambitions plus the increasing electrification of industry and vehicles.…</p>",
-      "published": "2025-11-25T09:00:15.00Z",
+      "title": "Trump wants to turn it on again with 'Genesis Mission' for AI in science",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/trump_ai_genesis_mission/",
+      "summary": "<h4>DOE told to build a unified research platform linking federal compute, datasets, and national labs</h4> <p>US President Trump has ordered the launch of the \"Genesis Mission,\" a national effort to use AI to drive scientific discoveries, with the aim of strengthening America's technological leadership and global competitiveness.…</p>",
+      "published": "2025-11-25T14:41:17.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/10/19/shutterstock_nuclear_power_plants_cooling_towers.jpg"
+      "image_url": "https://regmedia.co.uk/2024/07/18/trump_shutterstock.jpg"
     },
     {
-      "title": "Huawei Mate 80 Pro Max has the world’s brightest phone screen",
-      "link": "https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits",
-      "summary": "Huawei has just launched its Mate 80 series in China, and the top-spec 80 Pro Max stands out for a dual-layer OLED display that Huawei says can hit an unmatched 8,000 nits of peak brightness. The Mate 80 phones are joined by a new Mate X7 foldable with IP59 dustproofing. There are four Mate 80 [&#8230;]",
-      "published": "2025-11-25T07:21:49-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/huawei-mate-80-pro-max-dual-layer-oled.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "You won’t want to hide Ikea’s colorful new Bluetooth speakers",
-      "link": "https://www.theverge.com/news/827516/ikea-bluetooth-speaker-solskydd-kulglass-lamp-spotify-tap",
-      "summary": "Ikea is launching two new Bluetooth speakers next month as part of a larger collection announced earlier this year, following the end of the company’s partnership with Sonos. Like the Blomprakt speaker lamp that launched in the US last month, both the new Solskydd and Kulglass speakers blend technology and design so they’ll function as [&#8230;]",
-      "published": "2025-11-25T07:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ikea_bluetooth_speakers1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Large language mistake",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems",
-      "summary": "\"Developing superintelligence is now in sight,\" says Mark Zuckerberg, heralding the \"creation and discovery of new things that aren't imaginable today.\" Powerful AI \"may come as soon as 2026 [and will be] smarter than a Nobel Prize winner across most relevant fields,\" says Dario Amodei, offering the doubling of human lifespans or even \"escape velocity\" [&#8230;]",
-      "published": "2025-11-25T07:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258108_language_is_not_intelligence_CVirginia37.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Atlassian ran a tabletop DR simulation that revealed it lived in dependency hell",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/atlassian_dependency_migration/",
-      "summary": "<h4>Four-year effort replaced spaghetti tangle with more robust and recoverable cloudy layer cake</h4> <p>Australian collaborationware company Atlassian has revealed it’s spent four years trying to reduce dangerous internal dependencies, and while it has rebuilt its PaaS, it still has issues – but thinks they’re now manageable.…</p>",
-      "published": "2025-11-25T04:22:36.00Z",
+      "title": "Campbell's CISO canned after lawsuit alleges hour-long rant against staff and customers",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/campbells_ciso_lawsuit/",
+      "summary": "<h4>Security chief placed on leave pending investigation</h4> <p>Campbell's has placed its US CISO and vice president on temporary leave while it investigates allegations that he disparaged customers, the company's products, and Indian staffers.…</p>",
+      "published": "2025-11-25T14:21:24.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/25/shutterstock_editorial_only_data_tangle.jpg"
+      "image_url": "https://regmedia.co.uk/2025/11/25/campbells_new_jersey_hq.jpg"
     },
     {
-      "title": "AWS to build 1.3 gigawatts of government-grade supercomputing power for Uncle Sam",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/aws_federal_investment/",
-      "summary": "<h4>Aims to wash away Washington's vast tech woes with a dose of cloud magic</h4> <p>Amazon Web Services on Monday announced a plan to build 1.3 gigawatts of compute capacity in new datacenters dedicated to serving the US government, at a cost of up to $50 billion.…</p>",
-      "published": "2025-11-25T02:02:58.00Z",
+      "title": "NASA pares back Boeing's Starliner deal after 2024 calamity",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/nasa_starliner_contract/",
+      "summary": "<h4>Capsule might only manage three crewed missions to the ISS</h4> <p>NASA has modified its Commercial Crew contract with Boeing, dropping the order from six to four missions, of which one will be uncrewed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-25T13:44:19.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/06/26/government.jpg"
+      "image_url": "https://regmedia.co.uk/2023/08/08/starliner-orbit.jpg"
     },
     {
-      "title": "Apple reportedly peels away some sales staff in small round of layoffs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/apple_sales_layoffs_report/",
-      "summary": "<h4>Company has hitherto thought different about sackings</h4> <p>Apple, which unlike its Big Tech peers has not made substantial job cuts, is reportedly in the process of eliminating several dozen positions in its sales organization.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-24T23:31:14.00Z",
+      "title": "Clop's Oracle EBS rampage reaches Dartmouth College",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/clop_dartmouth_college/",
+      "summary": "<h4>Uni notifies 1,400-plus Maine residents as zero-day fallout continues</h4> <p>Dartmouth College has confirmed it's the latest victim of Clop's Oracle E-Business Suite (EBS) smash-and-grab.…</p>",
+      "published": "2025-11-25T13:42:36.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/10/apple_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2025/11/25/shutterstock_darthmouthcollege.jpg"
     },
     {
-      "title": "The best noise-canceling headphones to buy right now",
-      "link": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
-      "summary": "Editor’s note:&#160;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&#160;best early Black Friday deals&#160;you can already get. Whether you’re wearing them for the morning commute, while traveling, or if you’re simply trying to find some peace and quiet while working at [&#8230;]",
-      "published": "2025-11-24T20:14:00-05:00",
+      "title": "Wyze’s new security camera watches your yard from inside your home",
+      "link": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision",
+      "summary": "Wyze has announced an unorthodox approach to outdoor security cameras with its new Window Cam that monitors your yard and property from inside your home. This Rear Window approach to security means the camera doesn&#8217;t need batteries, Wi-Fi range extenders, access to an exterior power outlet, or weatherproofing. The company already offers window mounts for [&#8230;]",
+      "published": "2025-11-25T13:36:31-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594581/247231_Buying_Guide_Headphones_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/wyze_window_cam_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "RAM prices are so out of control that stores are selling it like lobster",
-      "link": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
-      "summary": "Michael Crider’s headline at PCWorld today perfectly captures how ridiculous the PC memory shortage has become: stores like the San Francisco Bay Area’s Central Computers are beginning to sell RAM at market prices, like you’d pay for the catch-of-the-day at a seafood restaurant. “Costs are fluctuating daily as manufacturers and distributors adjust to limited supply [&#8230;]",
-      "published": "2025-11-24T19:08:51-05:00",
+      "title": "Bose and Sony headphones are up to $200 off in the run-up to Black Friday",
+      "link": "https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025",
+      "summary": "There’s no better time to save on headphones and earbuds than Black Friday. We’ve been covering deals on audio gear all year, and right now we’re seeing some fantastic discounts on new and old releases, including models from Apple, Sony, Bose, Sonos, and more. For example, we’re currently seeing the best prices to date on [&#8230;]",
+      "published": "2025-11-25T13:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DOMINATOR_PLAT_RGB_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DSCF3714.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "UN climate negotiations burned up and then fizzled out",
-      "link": "https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle",
-      "summary": "\"It's a wrap … Don't forget to buy an 'i survived Bel&#233;m' shirt,\" reads the opening line of an email I got Saturday, the final day of highly anticipated United Nations climate negotiations in Bel&#233;m, Brazil. The email was sent from Shravya Jain-Conti, the US climate diplomacy lead at the Global Strategic Communications Council (GSCC), [&#8230;]",
-      "published": "2025-11-24T18:56:57-05:00",
+      "title": "Apple’s AirPods 4 are on sale starting at just $69 for Black Friday",
+      "link": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025",
+      "summary": "It was only just a couple of weeks ago that Apple’s AirPods 4 dropped to a new low price; however, if you missed out on the former deal, you now have a chance to snag the excellent entry-level earbuds for even less. Right now, the AirPods 4 are on sale for around $69 ($60 off) [&#8230;]",
+      "published": "2025-11-25T12:18:44-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2247067267.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "DOJ settles with RealPage over its software&#8217;s alleged rent price fixing",
-      "link": "https://www.theverge.com/news/828335/doj-realpage-settlement-rent-setting-software",
-      "summary": "The Department of Justice has announced a settlement with RealPage, the widely used rent-setting software that it accused of engaging in collusion to drive up rent prices by sharing previously private information from competing landlords. The settlement puts limits on RealPage’s ability to collect and use that data, and blocks it from being used to [&#8230;]",
-      "published": "2025-11-24T18:48:25-05:00",
+      "title": "The best Christmas gifts for gamers and movie lovers",
+      "link": "https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025",
+      "summary": "Most of us in the Northern Hemisphere spend the holidays indoors, but you can only watch so many TikToks about cute cats and cooking hacks before the need for something a little more substantive kicks in. Choosing the right game or movie to gift is tough, though, especially if you don't have an exact read [&#8230;]",
+      "published": "2025-11-25T12:02:02-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_GAMES_ENT_Holiday_Gift_Guide_AKrales_6223_4d3bd4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "ChatGPT shopping research builds you a buyer&#8217;s guide using AI",
-      "link": "https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide",
-      "summary": "OpenAI is making it easier to plan out holiday shopping with ChatGPT’s latest feature, called “shopping research.” Any shopping question in ChatGPT will trigger this new feature, which is rolling out to all ChatGPT users on free and paid plans on mobile and web, with “nearly unlimited usage” available during the holiday shopping season. Now, [&#8230;]",
-      "published": "2025-11-24T18:40:38-05:00",
+      "title": "Arturia’s AstroLab 37 crams 44 synths into a tiny keyboard",
+      "link": "https://www.theverge.com/tech/828658/arturia-astrolab-37-synth-stage-keyboard",
+      "summary": "Last year, Arturia launched its first stage keyboard, AstroLab. Unlike a synthesizer, stage keyboards are more focused on delivering performance-ready presets than sound design. They're geared towards touring and performing musicians who need access to a range of sounds with minimal fuss, rather than bedroom tinkerers. But, while the first entries in the series were [&#8230;]",
+      "published": "2025-11-25T11:31:08-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Shopping_Research-Blog-16x9-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DSCF9562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Meta&#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts",
-      "link": "https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit",
-      "summary": "For the first time, Meta is offering trade-in discounts for its smart glasses with a pilot program that’s only running through December 31st. According to a legal page on Meta’s website, trade-in discounts can be applied to the Ray-Ban Meta Gen 1, Ray-Ban Meta Gen 2, Oakley Meta HSTN, and Oakley Meta Vanguard. Notably, the [&#8230;]",
-      "published": "2025-11-24T17:32:58-05:00",
+      "title": "Apple TV is over half off for six months during Black Friday",
+      "link": "https://www.theverge.com/gadgets/828621/apple-tv-black-friday-discount-deal-sale",
+      "summary": "A month of Apple TV costs $12.99, which is a good value if you’re into its blend of sci-fi, sports, kids content, and a staggering number of shows and movies that start with “S.” It’s the only major streaming service that doesn’t have ads, and it’ll be the exclusive home to F1 starting in 2026. [&#8230;]",
+      "published": "2025-11-25T11:16:34-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Pluribus_Photo_010103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Nvidia’s ‘I’m Not Enron’ memo has people asking a lot of questions already answered by that memo",
-      "link": "https://www.theverge.com/business/828047/nvidia-enron-conspiracy-accounting",
-      "summary": "Christ. Fine. So over the weekend, a strange Substack post from what appears to be a CEO of a pet relocation company went very viral. This post — which to be clear, is bullshit — alleges that Nvidia is engaged in what “may become the largest accounting fraud in technology history.” That’s a load-bearing “may,” [&#8230;]",
-      "published": "2025-11-24T16:18:57-05:00",
+      "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+      "link": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+      "summary": "Editor’s note:&#160;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&#160;best early Black Friday deals&#160;you can already get. If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in [&#8230;]",
+      "published": "2025-11-25T11:11:41-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS521_AI_BUBBLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257964_Switch_2_controllers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "ROG Xbox Ally&#8217;s new profiles optimize performance per game for more battery life",
+      "link": "https://www.theverge.com/news/828775/microsoft-rog-xbox-ally-default-game-profiles",
+      "summary": "Microsoft is previewing default game profiles on its ROG Xbox Ally gaming handheld. The new profiles will automatically optimize frame rates and power consumption for 40 games, including Fortnite, Gears of War: Reloaded, Hollow Knight: Silksong, Forza Horizon 5, Minecraft, and others, saving you from manually tweaking game settings. The ROG Xbox Ally will automatically [&#8230;]",
+      "published": "2025-11-25T11:08:07-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0021.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Stranger Things is ending, and so is Netflix&#8217;s reliance on tentpole shows",
+      "link": "https://www.theverge.com/streaming/828254/stranger-things-season-5-netflix-tentpoles-future",
+      "summary": "When Stranger Things first premiered in 2016, Netflix was still courting new subscribers with splashy original projects that were meant to have broad audience appeal. The company had solidified itself as a major player in the streaming wars with massive hits like House of Cards, Orange Is the New Black, and a collection of live-action [&#8230;]",
+      "published": "2025-11-25T11:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/StrangerThings_S5_0012.jpg?quality=90&#038;strip=all&#038;crop=6.1125,7.448141881306,93.8875,92.551858118694"
+    },
+    {
+      "title": "The Kodak Snapic A1 is a $99 film camera that makes double exposures easy",
+      "link": "https://www.theverge.com/news/828648/reto-kodak-snapic-a1-35mm-film-camera-double-exposure",
+      "summary": "Reto, a Hong Kong-based camera maker that licenses the Kodak brand, has announced a new 35mm film camera called the Snapic A1 that ships next week. Although its design, with either a rhino gray or ivory white plastic housing, gives off disposable camera vibes, for $99 the Snapic A1 should be a capable shooter with [&#8230;]",
+      "published": "2025-11-25T10:40:04-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/kodak_snapic_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
