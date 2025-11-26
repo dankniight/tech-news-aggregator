@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-11-26T06:37:33.905846",
+  "lastUpdated": "2025-11-26T12:53:32.798119",
   "articles": [
+    {
+      "title": "Onton raises $7.5M to expand its AI-powered shopping site beyond furniture",
+      "link": "https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/",
+      "summary": "Onton, which change its name from Deft, is giving users an infinite canvas with AI-powered image generation to nudge them towards making quicker purchase decisions",
+      "published": "Wed, 26 Nov 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Multimodal-text-and-image-search-with-Onton.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Uber and WeRide’s robotaxi service in Abu Dhabi is officially driverless",
+      "link": "https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/",
+      "summary": "The commercial robotaxi service launched last year. Now, the human safety operator is gone.",
+      "published": "Wed, 26 Nov 2025 07:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/weride-uber.jpeg?resize=1200,801"
+    },
     {
       "title": "Why ‘hold forever’ investors are snapping up venture capital ‘zombies’",
       "link": "https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/",
@@ -114,14 +130,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/thanksgiving-dinner-ai-recipes-slop.jpg?quality=85"
     },
     {
-      "title": "China’s Pony AI plans to triple global robotaxi fleet by the end of 2026",
-      "link": "https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/",
-      "summary": "The Chinese autonomous vehicle company Pony.ai has global ambitions and plans to build a 3,000-strong robotaxi fleet to meet them.",
-      "published": "Tue, 25 Nov 2025 16:54:57 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800"
-    },
-    {
       "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one",
       "link": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/",
       "summary": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says.",
@@ -136,14 +144,6 @@
       "published": "Tue, 25 Nov 2025 16:15:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/meta-hyperion-data-center-louisiana.jpg?quality=85"
-    },
-    {
-      "title": "Fleet Space finds massive lithium deposit using AI and satellites",
-      "link": "https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/",
-      "summary": "The discovery suggests that a region in Quebec might hold even more lithium than originally suspected.",
-      "published": "Tue, 25 Nov 2025 16:14:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/fleet-space-satellite.jpeg?resize=1200,568"
     },
     {
       "title": "Insurance Companies Are Terrified to Cover AI, Which Should Probably Tell You Something",
@@ -242,7 +242,63 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/astronaut-fires-back-trump-threat.jpg?quality=85"
     },
     {
-      "title": "Dell says Windows 11 transition is far slower than Win 10 shift, yet PC sales have stalled",
+      "title": "HSBC spies $207B crater in OpenAI's expansion goals",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/openai_funding_gap_hsbc/",
+      "summary": "<h4>Gap threatens Oracle, Microsoft, and Amazon despite optimistic forecasts of 3 billion ChatGPT users by 2030</h4> <p>OpenAI needs to secure $207 billion in new financing by 2030 to fulfill its expansion plans, according to HSBC Global Investment Research – a challenge that could ripple across Big Tech.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-26T12:50:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/02/18/shutterstock_inflation.jpg"
+    },
+    {
+      "title": "Crocs get the Xbox treatment with sole-crushing price of $80",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/microsoft_xbox_crocs/",
+      "summary": "<h4>Time to test just how far fandom and taste will stretch</h4> <p>If Xbox console prices are going to leave Santa short this year, fear not as an alternative is at hand - Xbox Crocs are here for $80.…</p>",
+      "published": "2025-11-26T12:35:54.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/26/xboxcrocs.jpg"
+    },
+    {
+      "title": "The exascale offensive: America's race to rule AI HPC",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/the_exascale_offensive/",
+      "summary": "<h4>From nuclear weapons testing to climate modeling, nine new machines will give the US unprecedented computing firepower</h4> <p><strong>Feature</strong>  A silent arms race is accelerating in the world's most advanced laboratories. While headlines focus on chatbots and consumer AI, the United States is orchestrating something far more consequential: a massive expansion of supercomputing power that may reshape the future of science, security, and technological supremacy.…</p>",
+      "published": "2025-11-26T11:45:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/09/21/shutterstock_us_china_tech_trade_war.jpg"
+    },
+    {
+      "title": "London councils probe cyber incident as shared IT systems knocked offline",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/cyberattack_london_councils/",
+      "summary": "<h4>Three boroughs confirm investigation amid service outages, disrupted phone lines, and limited online access</h4> <p>Two London councils are scrambling for answers after declaring a cybersecurity issue that began on Monday.…</p>",
+      "published": "2025-11-26T11:04:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/05/05/londonpavementshutterstock.jpg"
+    },
+    {
+      "title": "Tuxedo Computers slams lid on Arm Linux laptop after 18 months of pain",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/tuxedo_axes_arm_laptop/",
+      "summary": "<h4>Planned Snapdragon goes puff and disappears, but the code will survive</h4> <p>German Linux box vendor Tuxedo Computers has canned its long-planned Qualcomm device, citing numerous problems with the state of the Linux-on-Arm art.…</p>",
+      "published": "2025-11-26T10:15:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/11/09/shutterstock_laptop_liedown.jpg"
+    },
+    {
+      "title": "Seven years later, Airbus is still trying to kick its Microsoft habit",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/microsoft_airbus_migration/",
+      "summary": "<h4>Google Workspace switch drags on amid Excel dependencies, compliance requirements, and compatibility issues</h4> <p><strong>Exclusive</strong>  Breaking free from Microsoft is harder than it looks. Airbus began migrating its 100,000-plus workforce from Office to Google Workspace more than seven years ago and it still hasn't completed the switch.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-26T09:30:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/11/25/airbus_a350_1000.jpg"
+    },
+    {
+      "title": "First there was nothing, then there was Hoto and Fanttik",
+      "link": "https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok",
+      "summary": "Hoto exists because someone got bored. CEO Lidan Liu, the company's founder and a notable industrial designer, tells The Verge she was tired of advising from her consultancy Designaffairs China. I have to build something on my own, she thought. And back then, she was spending a lot of time in her workshop surrounded by [&#8230;]",
+      "published": "2025-11-26T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Michelangelo_-_Creation_of_Adam_cropped-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,76.93359375,100"
+    },
+    {
+      "title": "Dell says Windows 11 transition is far slower than Win 10 shift as PC sales stall",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/dell_q3_2026/",
       "summary": "<h4>Lessons from COVID and tariff shocks getting Mike D's tech shop through AI-induced memory maze</h4> <p>Dell has predicted PC sales will be flat next year, despite the potential of the AI PC and the slow replacement of Windows 10.…</p>",
       "published": "2025-11-26T05:27:10.00Z",
@@ -258,12 +314,28 @@
       "image_url": "https://regmedia.co.uk/2020/03/25/india_on_off_switch.jpg"
     },
     {
+      "title": "Poco partners with Bose to put a subwoofer in its latest phone",
+      "link": "https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer",
+      "summary": "Xiaomi spin-off brand Poco has partnered with Bose to help its new F8 phones stand out in an increasingly crowded market. Both the F8 Pro and F8 Ultra feature stereo speakers designed collaboratively with the audio company, and the Ultra goes one step further by including a subwoofer too. Both new F8 phones feature the [&#8230;]",
+      "published": "2025-11-26T04:15:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/poco-f8-ultra-denim-blue.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "HP to sack up to six thousand staff under AI adoption plan, fresh round of cost-cutting",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/hp_inc_q4_2025/",
       "summary": "<h4>Warns memory price explosion means PCs may have less RAM, or use low-cost parts</h4> <p>HP Inc will sack between 4,000 and 6,000 workers under a plan that calls for the PCs-and-printers prodigy to use AI to improve its operations.…</p>",
       "published": "2025-11-26T03:41:39.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/10/26/fired.jpg"
+    },
+    {
+      "title": "Uber’s robotaxi service in UAE now includes fully driverless vehicles",
+      "link": "https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae",
+      "summary": "Uber and WeRide are now deploying fully driverless vehicles as part of its robotaxi service in the United Arab Emarites. Customers in Abu Dhabi who request an UberX or Uber Comfort may be matched with a fully autonomous WeRide vehicle if the route is part of the company’s service area. Uber and Chinese autonomous vehicle [&#8230;]",
+      "published": "2025-11-26T02:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Photo_2.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5",
@@ -282,60 +354,12 @@
       "image_url": "https://regmedia.co.uk/2024/06/27/shutterstock_editorial_only_alibaba_cloud_.jpg"
     },
     {
-      "title": "Lifetime access to AI-for-evil WormGPT 4 costs just $220",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/",
-      "summary": "<h4>'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'</h4> <p>Attackers don't need to trick ChatGPT or Claude Code into writing malware or stealing data. There's a whole class of LLMs built especially for the job.…</p>",
-      "published": "2025-11-25T23:29:49.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg"
-    },
-    {
-      "title": "Nvidia scoffs at threat from Google TPUs after rumored Meta tie-up",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/nvidia_google_tpu_meta/",
-      "summary": "<h4>Embracing the Chocolate Factory's tensor processing units would be easier said than done for The Social Network</h4> <p>Growing demand for Google's homegrown AI accelerators appears to have gotten under Nvidia's skin amid reports that one of the GPU giant's most loyal customers may adopt the Chocolate Factory's tensor processing units (TPUs).…</p>",
-      "published": "2025-11-25T23:16:37.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/04/09/google_tpu_v7.jpg"
-    },
-    {
-      "title": "Corporate predators get more than they bargain for when their prey runs SonicWall firewalls",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/akira_ransomware_acquisitions/",
-      "summary": "<h4>Acquirers inherit more than staff and systems</h4> <p>Routine mergers and acquisitions are giving extortionists an easy way in, with Akira affiliates reaching parent networks through compromised SonicWall gear inherited in the deal, according to ReliaQuest.…</p>",
-      "published": "2025-11-25T22:38:16.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/02/systemhacked.jpg"
-    },
-    {
-      "title": "Pebble, the e-ink smartwatch that refuses to die, just went fully open source",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/pebble_eink_smartwatch_open_source/",
-      "summary": "<h4>Eric Migicovsky wants to ensure Pebble can’t be killed again, and DIYers benefit most</h4> <p>Pebble, the e-ink smartwatch with a tumultuous history, is making a move sure to please the DIY enthusiasts that make up the bulk of its fans: Its entire software stack is now fully open source, and key hardware design files are available too.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-25T21:26:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/25/shutterstockpebblewatch.jpg"
-    },
-    {
       "title": "Campbell’s promises its soups are not made with 3D printed meat",
       "link": "https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup",
       "summary": "Campbell’s is insisting that its soups aren’t made with 3D-printed chicken, lab-grown chicken, or bioengineered meat. The food giant issued the explanation on its website after leaked audio allegedly captured Campbell&#8217;s vice president of information technology saying the company’s meat “came from a 3D printer.” “A recent video contained false comments about our ingredients,” Campbell’s [&#8230;]",
       "published": "2025-11-25T18:27:57-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2218309523.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "HPE scores $931M contract to make DoD’s cloud migration a little less public",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/hpe_scores_931m_dod_cloud_contract/",
-      "summary": "<h4>Works like a public cloud but keeps everything on-prem</h4> <p>The US Department of Defense on Tuesday awarded Hewlett Packard Enterprise (HPE) a 10-year, $931 million contract to bring cloud conveniences, like unified management and multi-tenancy, to the US military's most sensitive datacenters.…</p>",
-      "published": "2025-11-25T18:24:46.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/04/11/petehegseth.jpg"
-    },
-    {
-      "title": "Rent-a-GPU neoclouds need to adapt or die as the AI market evolves",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/rentagpu_neoclouds_need_to_adapt/",
-      "summary": "<h4>McKinsey points out the quandary facing companies like CoreWeave</h4> <p>So-called neocloud companies are facing a dilemma: They need to move up the AI stack to avoid being commoditized, but they risk competing against their big hyperscale customers if they do.…</p>",
-      "published": "2025-11-25T18:12:29.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/13/cloud.jpg"
     },
     {
       "title": "House overhauls KOSA in a new kids online safety package",
@@ -376,30 +400,6 @@
       "published": "2025-11-25T14:30:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257876_Switch_2_accessories_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Perplexity says its AI personal shopper ‘puts you first’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal",
-      "summary": "Perplexity is ramping up its AI shopping experience going into the holiday season, just like OpenAI and Google, with a free AI-powered shopping feature that is available now to US users. Its AI assistant looks similar to what we’ve seen from ChatGPT’s shopping research, as users type in what they’re looking for and refine the [&#8230;]",
-      "published": "2025-11-25T14:26:11-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK271_PERPLEXITY_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Wyze’s new security camera watches your yard from inside your home",
-      "link": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision",
-      "summary": "Wyze has announced an unorthodox approach to outdoor security cameras with its new Window Cam that monitors your yard and property from inside your home. This Rear Window approach to security means the camera doesn&#8217;t need batteries, Wi-Fi range extenders, access to an exterior power outlet, or weatherproofing. The company already offers window mounts for [&#8230;]",
-      "published": "2025-11-25T13:36:31-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/wyze_window_cam_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Bose and Sony headphones are up to $200 off in the run-up to Black Friday",
-      "link": "https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025",
-      "summary": "There’s no better time to save on headphones and earbuds than Black Friday. We’ve been covering deals on audio gear all year, and right now we’re seeing some fantastic discounts on new and old releases, including models from Apple, Sony, Bose, Sonos, and more. For example, we’re currently seeing the best prices to date on [&#8230;]",
-      "published": "2025-11-25T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DSCF3714.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
