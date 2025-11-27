@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-27T06:38:09.591808",
+  "lastUpdated": "2025-11-27T12:52:17.000410",
   "articles": [
     {
       "title": "ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once",
@@ -236,10 +236,82 @@
     {
       "title": "The future will be explained to you in Palo Alto",
       "link": "https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/",
-      "summary": "On Wednesday evening at PlayGround Global in Palo Alto, some very smart people who are building things you don&#8217;t understand yet will explain what&#8217;s coming. This is the final StrictlyVC event of 2025, and truly, the lineup is ridiculous. The series has bounced around the globe under the auspices of TechCrunch. Steve Case rented a [&#8230;]",
+      "summary": "On Wednesday evening at PlayGround Global in Palo Alto, some very smart people who are building things you don&#8217;t understand yet will explain what&#8217;s coming. This is the final StrictlyVC event of 2025, and truly, the lineup is ridiculous. The series has traveled around the globe under the auspices of TechCrunch. Steve Case rented a [&#8230;]",
       "published": "Thu, 27 Nov 2025 06:08:40 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-949560762.jpg?resize=1200,718"
+    },
+    {
+      "title": "Canadian data order risks blowing a hole in EU sovereignty",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/canada_court_ovh/",
+      "summary": "<h4>OVH stuck between a rock and a hard place as investigators demand access</h4> <p>A Canadian court has ordered French cloud provider OVHcloud to hand over customer data stored in Europe, potentially undermining the provider's claims about digital sovereignty protections.…</p>",
+      "published": "2025-11-27T12:30:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/03/01/canada_shutterstock.jpg"
+    },
+    {
+      "title": "Scottish council still rebuilding systems two years after ransomware attack",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/western_isles_ransomware_council/",
+      "summary": "<h4>Audit sympathetic toward Comhairle nan Eilean Siar as staff stretched to capacity trying to recover</h4> <p>Auditors remain concerned about the cyber resilience of a Scottish council as some systems are yet to be fully rebuilt following a ransomware attack in November 2023.…</p>",
+      "published": "2025-11-27T12:15:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/27/shutterstock_stornoway.jpg"
+    },
+    {
+      "title": "One-fifth of the jobs at your company could disappear as AI automation takes off",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/ai_employee_overcapacity_report/",
+      "summary": "<h4>IT in the firing line as 'legacy' roles under the microscope</h4> <p><strong>AI-pocalypse</strong>  New research suggests AI deployment is creating significant workforce redundancies across major organizations.…</p>",
+      "published": "2025-11-27T11:00:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/26/shutterstock_1753939826.jpg"
+    },
+    {
+      "title": "Tiny tweak for Pi OS, big makeover for the Imager",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/new_raspberry_pi_imager/",
+      "summary": "<h4>Debian 13.2 freshness, better HiDPI support, and 101 other things to run on your Pi</h4> <p>Raspberry Pi Ltd has shipped two updates for its single-board computers: a very small refresh to Pi OS 6, and a more substantial upgrade to the tool that writes your Pi's operating system to an SD card.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-11-27T10:15:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/26/pios6-version.jpg"
+    },
+    {
+      "title": "HPC won't be an x86 monoculture forever – and it's starting to show",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/arm_riscv_hpc/",
+      "summary": "<h4>Arm and RISC-V would like a word</h4> <p><strong>Feature</strong>  Remember when high-performance computing always seemed to be about x86? Exactly a decade ago, almost nine in ten supercomputers in the TOP500 (a list of the beefiest machines maintained twice yearly by academics) were Intel-based. Today, it's down to 57 percent.…</p>",
+      "published": "2025-11-27T09:30:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/10/01/silicon.jpg"
+    },
+    {
+      "title": "My AI shopping assistants are stuck in the past",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past",
+      "summary": "All I wanted was a new smartwatch. I had a couple in mind, like the Google Pixel Watch 4 or the Garmin Vivoactive 6, but my AI shopping buddies seemed really convinced watches from a couple years ago were the way to go. Over the past month, OpenAI, Google, Perplexity, and Microsoft have all introduced [&#8230;]",
+      "published": "2025-11-27T07:30:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258146_I_tried_shopping_with_these_AI_tools_and_it_was_TKTKTK_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "TSMC lawsuit claims former exec is probably leaking secrets to Intel",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/tsmc_intel_trade_secrets_case/",
+      "summary": "<h4>Chipzilla can certainly use foundry smarts, but denies the allegation</h4> <p>Taiwanese foundry TSMC believes a former executive has leaked company secrets to Intel and is testing the matter in court.…</p>",
+      "published": "2025-11-27T07:26:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/10/17/tsmcmobile.jpg"
+    },
+    {
+      "title": "Intel says star hire from TSMC didn&#8217;t steal secrets",
+      "link": "https://www.theverge.com/news/831353/intel-tsmc-wei-jen-lo-trade-secrets",
+      "summary": "Intel has defended itself against accusations that its latest executive hire stole trade secrets, as TSMC sues the exec and Taiwanese prosecutors say they’ve begun a probe into the incident. Wei-Jen Lo, a Taiwanese engineer, joined Intel this fall, hired to help the company improve its mass production processes. He’d previously worked at the American [&#8230;]",
+      "published": "2025-11-27T07:21:34-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22248420/acastro_210120_1777_intel_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The VPN panic is only getting started",
+      "link": "https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act",
+      "summary": "After the Online Safety Act's onerous internet age restrictions took effect this summer, it didn't take long for Brits to get around them. Some methods went viral, like using video game Death Stranding's photo mode to bypass face scans. But in the end, the simplest solution won out: VPNs. Virtual private networks have proven remarkably [&#8230;]",
+      "published": "2025-11-27T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKS520_ANONYMITY_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "ICANN distances itself from radical proposal – which it funded – to give nations a role in internet governance",
@@ -292,7 +364,7 @@
     {
       "title": "Stranger Things 5 begins with a frantic race to the finish line",
       "link": "https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one",
-      "summary": "It has been a decade since the Stranger Things phenomenon began, and the Duffer brothers had had ample time to craft a strong finish to their breakout hit series. But the beginning of the show's fifth and final season feels like a frantic race to the end. While Stranger Things wasn't Netflix's first breakout hit, [&#8230;]",
+      "summary": "It has been a decade since the Stranger Things phenomenon began, and the Duffer brothers have had ample time to craft a strong finish to their breakout hit series. But the beginning of the show's fifth and final season feels like a frantic race to the end. While Stranger Things wasn't Netflix's first breakout hit, [&#8230;]",
       "published": "2025-11-26T20:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/StrangerThings_S5_0001_d53e79.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -314,22 +386,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Norway's most powerful supercomputer will use waste heat to raise salmon",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/norway_salmon_super/",
-      "summary": "<h4>HPE-built system mixes Nvidia's Grace-Hopper superchips with AMD Turin CPUs to maximize HPC potential</h4> <p>This week the Norwegian scientific community celebrated the completion of the Olivia supercomputer, which combines AMD CPUs with Nvidia Superchips to deliver a 16-fold boost to the nation's computing capacity – and eventually put fresh fish on the table.…</p>",
-      "published": "2025-11-26T18:47:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/26/shutterstock_1910810920.jpg"
-    },
-    {
-      "title": "Botnet takes advantage of AWS outage to smack 28 countries",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/miraibased_botnet_shadowv2/",
-      "summary": "<h4>Even worse, it might have been a 'test run' for future attacks</h4> <p>A Mirai-based botnet named ShadowV2 emerged during last October's widespread AWS outage, infecting IoT devices across industries and continents, likely serving as a \"test run\" for future attacks, according to Fortinet's FortiGuard Labs.…</p>",
-      "published": "2025-11-26T18:44:29.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/26/shutterstockpuppetsteer.jpg"
-    },
-    {
       "title": "This $1,400 Steam Machine alternative houses a tiny desktop GPU",
       "link": "https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date",
       "summary": "What if Valve’s Steam Machine were a 3.8-liter tower instead of a 3.8-liter cube, with a desktop-grade Nvidia RTX 5060 GPU instead of an AMD RX 7600 — plus a more powerful CPU and many faster ports? Well, it’d cost you nearly $1,500 and be called the Minisforum AtomMan G1 Pro. Minisforum is one of [&#8230;]",
@@ -344,62 +400,6 @@
       "published": "2025-11-26T17:48:41-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Apple-iPhone-17-color-lineup-250909.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "These prebuilt PCs are about to cost more due to rising RAM prices",
-      "link": "https://www.theverge.com/news/831032/cyberpowerpc-maingear-ram-price-increases-pc-gaming",
-      "summary": "The skyrocketing price of RAM is trickling down to custom PC makers, including CyberPowerPC and Maingear. On Wednesday, CyberPowerPC announced that it plans to adjust the pricing across all of its systems on December 7th, as reported earlier by PCMag. “Recently, global memory (RAM) prices have surged by 500% and SSD prices have risen by [&#8230;]",
-      "published": "2025-11-26T17:25:13-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2208381290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Mobile industry warns patchwork cyber regs are driving up costs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/gsma_global_standards_mobile_industry/",
-      "summary": "<h4>GSMA says fragmented, poorly designed laws add burdens without making networks any safer</h4> <p>Mobile operators' core cybersecurity spending is projected to more than double by 2030 as threats evolve, while poorly designed and fragmented policy frameworks add extra compliance costs, according to industry group the GSMA.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-11-26T17:12:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/26/shutterstock_2662513475.jpg"
-    },
-    {
-      "title": "Doom hits KiCad as PCB traces become demons and doors",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/doom_kicad/",
-      "summary": "<h4>Engineer bends layout tool into vector renderer, then pushes frames through a MacBook's headphone jack</h4> <p>There's a certain delight to be had in doing something just to see if you can. Case in point: rendering Doom using PCB design software, or wading through the shores of Hell via the medium of an oscilloscope.…</p>",
-      "published": "2025-11-26T16:11:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/26/kidoom.jpg"
-    },
-    {
-      "title": "Campbell&#8217;s fired the VP recorded saying its meat &#8216;came from a 3D printer&#8217;",
-      "link": "https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup",
-      "summary": "Campbell’s says it fired its vice president of information technology after leaked audio allegedly captured him saying the company uses meat that “came from a 3D printer.” The comments led Campbell’s to issue an explanation on its website, insisting its soups aren’t made with 3D-printed chicken, lab-grown chicken, or bioengineered meat. “A recent video contained [&#8230;]",
-      "published": "2025-11-26T15:44:37-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2218309523.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Pentagon contractors want to blow up military right to repair",
-      "link": "https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service",
-      "summary": "Military contractors are trying to thwart a widely-supported right-to-repair provision in the annual defense policy bill — and their efforts may pay off. A source familiar with the negotiations tells The Verge that there are significant concerns that the bill’s right-to-repair language will be replaced by a “data-as-a-service” model, potentially requiring the Department of Defense [&#8230;]",
-      "published": "2025-11-26T15:12:03-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2218515432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "CodeRED emergency alert system CodeDEAD after INC ransomware attack",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/codered_emergency_alert_ransomware/",
-      "summary": "<h4>Regions across US affected, and one tore up its contract for the product</h4> <p>Towns and cities across the US are without access to their CodeRED emergency alert system following a cyberattack on vendor Crisis24.…</p>",
-      "published": "2025-11-26T14:33:38.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/04/11/siren_shutterstock.jpg"
-    },
-    {
-      "title": "US Navy scuttles Constellation frigate program for being too slow for tomorrow's threats",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/navy_constellation_frigate/",
-      "summary": "<h4>Service limits 20-ship line to two hulls after redesigns and delays torpedo schedule</h4> <p>The US Navy is scrapping an entire shipbuilding program in an effort to find alternatives that can be delivered faster to counter expected threats.…</p>",
-      "published": "2025-11-26T14:10:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/26/constellationclassfrigatesmall.jpg"
     }
   ]
 }
