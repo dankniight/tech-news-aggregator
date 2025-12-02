@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-12-02T06:39:10.148780",
+  "lastUpdated": "2025-12-02T12:54:23.357039",
   "articles": [
+    {
+      "title": "India plans to verify and record every smartphone in circulation",
+      "link": "https://techcrunch.com/2025/12/02/india-plans-to-verify-and-record-every-smartphone-in-circulation/",
+      "summary": "The Indian government has ordered smartphone makers to preinstall its Sanchar Saathi app on all devices, a move that is raising fresh privacy concerns.",
+      "published": "Tue, 02 Dec 2025 12:39:51 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/sanchar-saathi-app.jpg?resize=1200,800"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium nabs $70M seed",
+      "link": "https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/",
+      "summary": "Gradium, a startup spawned out of French AI lab Kyutai (backed by French telecom billionaire Xavier Niel), launched out of stealth on Tuesday.",
+      "published": "Tue, 02 Dec 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2017/08/speech-recognition.png?resize=1200,675"
+    },
     {
       "title": "What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out",
       "link": "https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/",
@@ -130,22 +146,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/MIC060639_2-xl-1152x648.jpg"
     },
     {
-      "title": "Construction workers are cashing in on the AI boom",
-      "link": "https://techcrunch.com/2025/12/01/construction-workers-are-cashing-in-on-the-ai-boom/",
-      "summary": "\"I pinch myself going to work every day,\" one 51-year-old says of his new supervisor role overseeing 200 workers at a data center site.",
-      "published": "Mon, 01 Dec 2025 19:13:50 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2152222109.jpg?resize=1200,800"
-    },
-    {
-      "title": "Data center energy demand forecasted to soar nearly 300% through 2035",
-      "link": "https://techcrunch.com/2025/12/01/data-center-energy-demand-forecasted-to-soar-nearly-300-through-2035/",
-      "summary": "New planned data centers promise to consume even more energy than expected. Meanwhile, a grid monitor is blaming such growth for high electricity prices.",
-      "published": "Mon, 01 Dec 2025 19:08:42 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1453486183.jpeg?resize=1200,800"
-    },
-    {
       "title": "Grok Appears to Have Doxxed Dave Portnoy’s Home Address",
       "link": "https://futurism.com/future-society/grok-dave-portnoy",
       "summary": "<p>Grok is not beating the allegations.</p>\n<p>The post <a href=\"https://futurism.com/future-society/grok-dave-portnoy\">Grok Appears to Have Doxxed Dave Portnoy&#8217;s Home Address</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -242,6 +242,78 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/11/mit-ai-study-workforce.jpg?quality=85"
     },
     {
+      "title": "Whatever legitimate places AI has, inside an OS ain't one",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/agentic_os_opinion/",
+      "summary": "<h4>We're getting it baked into Windows whether we like it or not</h4> <p><strong>Opinion</strong>  Making software would be the perfect job if it wasn't for those darn users. Windows head honcho Pavan Davuluri would be forgiven for feeling this of late as his happy online paean about Windows becoming an \"agentic OS\" was met by massive dissent in the comments. \"Agentic schmentic, we want reliability, usability, and stability\" was the gist.…</p>",
+      "published": "2025-12-02T12:30:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/11/18/windows.jpg"
+    },
+    {
+      "title": "UK sinks to fifth in ESA funding league behind Spain",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/esa_ministerials/",
+      "summary": "<h4>Brit astro Tim Peake's much-vaunted mission to the ISS a distant memory</h4> <p>Nearly ten years after Brit astronaut Tim Peake visited the International Space Station (ISS), the UK has slipped behind Spain in European Space Agency funding rankings.…</p>",
+      "published": "2025-12-02T11:45:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/01/15/tim_peake.jpg"
+    },
+    {
+      "title": "Two paths to Enlightenment: AV Linux 25 and MX Moksha step forward",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/av_linux_25/",
+      "summary": "<h4>Whether you want a studio rig or a featherweight desktop, MX Linux spins have you covered</h4> <p>AV Linux and MX Moksha are a pair of distros tweaked for audio and music production, each using a different branch of the Enlightenment family of desktops.…</p>",
+      "published": "2025-12-02T11:00:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/08/23/shutterstock_zen.jpg"
+    },
+    {
+      "title": "Defra admits Windows 10 refresh letter to MPs was wrong – machines were already on Windows 11",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/defra_windows_10_11/",
+      "summary": "<h4>Corrected document clears up rollout timeline and confirms switch well ahead of deadline</h4> <p>The UK's Department for Environment, Food &amp; Rural Affairs (Defra) has confirmed its £312 million Windows 10 laptop refresh was, in fact, followed by a Windows 11 upgrade after an earlier letter to Parliament misstated the department's operating system timeline.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-02T10:15:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/11/22/pig_shutterstock.jpg"
+    },
+    {
+      "title": "Another open source project dies of neglect, leaving thousands scrambling",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/ingress_nginx_opinion/",
+      "summary": "<h4>Paying Ingress NGINX maintainers for their work might have avoided this outcome</h4> <p><strong>Opinion</strong>  There were lots of announcements about Kubernetes at <a href=\"https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/\" rel=\"nofollow\" target=\"_blank\">KubeCon North America</a> in Atlanta. I should know, I was there from beginning to end. But the biggest Kubernetes story of all didn't get much attention. <a href=\"https://www.theregister.com/2025/11/14/nginx_retirement/\" target=\"_blank\">Kubernetes is retiring its popular Ingress NGINX</a> controller. Ingress NGINX goes to that big bit farm in the sky in March 2026. After that, \"<a href=\"https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/\" rel=\"nofollow\" target=\"_blank\">there will be no further releases</a>, no bugfixes, and no updates to resolve any security vulnerabilities that may be discovered.\"…</p>",
+      "published": "2025-12-02T09:30:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/20/shutterstock_tipjar.jpg"
+    },
+    {
+      "title": "DRAM it! Raspberry Pi raises prices",
+      "link": "https://www.theverge.com/news/836221/raspberry-pi-price-increases-ram-costs",
+      "summary": "Raspberry Pi is increasing the price of several single-board computers in an attempt to offset soaring memory costs. The updates are being applied immediately and affect Raspberry Pi 4 and Raspberry Pi 5, with prices increasing by $5 to $25 depending on the model and amount of RAM. The 16GB memory variants of the Compute [&#8230;]",
+      "published": "2025-12-02T07:16:51-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824338/raspberrypi5_16GB.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Samsung reveals its first tri-fold phone – and its desktop mode",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/samsung_galaxy_z_trifold/",
+      "summary": "<h4>Buyers get a one-time discount on screen repairs, which hardly screams ‘we nailed this three-screen thing’</h4> <p>Samsung has revealed its first tri-fold phone, and it runs the Korean giant’s DeX desktop environment without the need for an external monitor.…</p>",
+      "published": "2025-12-02T07:00:35.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/02/supplied_samsung_galaxy_z_trifold.jpg"
+    },
+    {
+      "title": "OpenAI declares ‘code red’ as Google catches up in AI race",
+      "link": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "summary": "The tides are turning in the AI race, and the pressure is getting to OpenAI. Chief executive Sam Altman reportedly declared a “code red” on Monday, urging staff to improve its flagship product ChatGPT, an indicator that the startup’s once-unassailable lead is eroding as competitors like Google and Anthropic close in.&#160;&#160; In the memo, reported [&#8230;]",
+      "published": "2025-12-02T06:40:07-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft&#8217;s latest Windows 11 update improves and breaks dark mode",
+      "link": "https://www.theverge.com/news/836199/microsoft-windows-11-file-explorer-white-screen-flash-bug",
+      "summary": "You can’t make this up. Microsoft shipped a Windows 11 update yesterday that is supposed to make dark mode more consistent, with dialogs in File Explorer finally getting a dark mode for actions like copying, moving, or deleting files and folders. You get all that, but Microsoft will also treat you with a giant white [&#8230;]",
+      "published": "2025-12-02T06:34:44-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "IETF draft calls for grant of five nonillion IPv6 addresses to ham radio operators",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/ham_radio_ipv6_ietf_draft/",
       "summary": "<h4>Would not massively deplete IPv6, might challenge internet governance</h4> <p>Early in the history of the internet, the powers that be granted amateur radio operators over 16 million IPv4 addresses. Now a proposal has emerged suggesting the same community be granted a substantial chunk of the IPv6 numberspace.…</p>",
@@ -258,9 +330,9 @@
       "image_url": "https://regmedia.co.uk/2021/02/16/india_pin_drop_spatial_smartphone_shutterstock.jpg"
     },
     {
-      "title": "These great Cyber Monday tech deals will likely be gone tomorrow",
+      "title": "These last-minute Cyber Monday deals will likely be gone tomorrow",
       "link": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
-      "summary": "Editor’s note: Cyber Monday 2025 is officially in the books — at least for us. We’ll no longer be updating this post; however, if you want to dig further into what Cyber Monday still has to offer, be sure to check out our comprehensive guide to the best deals, tips, and news. December is kicking off [&#8230;]",
+      "summary": "Editor’s note: Cyber Monday 2025 is officially in the books&#160;— at least for us. We’ll no longer be updating this post; however, if you want to dig further into what Cyber Monday still has to offer, be sure to check out our comprehensive guide to the best deals, tips, and news. December is kicking off [&#8230;]",
       "published": "2025-12-02T01:18:11-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -290,14 +362,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258013_Apple_M5_MacBook_Pro_14_laptop_ADiBenedetto_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "OpenAI money-go-round sees it invest in company that invested in OpenAI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/",
-      "summary": "<h4>Thrive will use the AI-maker's tech in its managed services and accounting businesess</h4> <p>Scratch my back and I'll scratch yours. OpenAI says that it has taken an undisclosed ownership stake in Thrive Holdings, the management-focused offshoot of private equity heavyweight Thrive Capital, which itself is a major investor in the ChatGPT maker.…</p>",
-      "published": "2025-12-01T23:05:33.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/08/05/openai.jpg"
-    },
-    {
       "title": "These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday",
       "link": "https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale",
       "summary": "If you’re hoping to whittle down your wish list before the holiday panic truly sets in, Cyber Monday presents a prime opportunity. Many of the tech-y gifts we recommend for Christmas, graduation, Mother’s Day, and other celebratory events throughout the year are receiving their steepest discounts to date. These aren’t random picks, either; they’re items [&#8230;]",
@@ -322,30 +386,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nomad-Tracking-Card.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Google Antigravity vibe-codes user's entire drive out of existence",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/google_antigravity_wipes_d_drive/",
-      "summary": "<h4>Caveat coder</h4> <p>In what appears to be the latest example of a troubling trend of \"vibe coding\" software development tools behaving badly, a Reddit user is reporting that Google's Antigravity platform improperly wiped out the contents of an entire hard drive partition. …</p>",
-      "published": "2025-12-01T21:45:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/01/20/alderaanexplosion.jpg"
-    },
-    {
-      "title": "UK gov blames budget leak on misconfigured WordPress plugin, server",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/uk_budget_leak_blamed_on/",
-      "summary": "<h4>Predictable URLs break security through obscurity and lack of server access controls don't help</h4> <p>WordPress is the world's most popular content management system, but not so much with the UK government. The country's Office for Budget Responsibility (OBR) has blamed an inadvertent budget disclosure last week on misconfiguration of its WordPress website.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-01T21:30:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/05/08/shuttertsock_palace_westminster.jpg"
-    },
-    {
-      "title": "Nvidia plows $2B into Synopsys to make GPUs a must-have for design, simulation customers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/nvidia_synopsys_2b/",
-      "summary": "<h4>You could do that on a CPU, but who can say no to a 30x GPU speed boost?</h4> <p>As part of its effort to spread GPUs everywhere, Nvidia is investing $2 billion into simulation giant Synopsys. …</p>",
-      "published": "2025-12-01T21:22:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/05/10/nvidia_telsa_v100.jpg"
-    },
-    {
       "title": "Govee’s latest RGB-equipped speaker is 25 percent off for Cyber Monday",
       "link": "https://www.theverge.com/gadgets/835187/govee-table-lamp-2-pro-x-jbl-speaker-cyber-monday-deal-sale-2025",
       "summary": "Whether you’re looking to liven up an upcoming holiday party or pick up a gift that will literally brighten your loved one’s day, Govee’s Table Lamp 2 Pro X Sound by JBL is a great option. It normally retails for $179.99; however, for Cyber Monday, the hybrid gadget is on sale for a new low [&#8230;]",
@@ -356,50 +396,10 @@
     {
       "title": "Samsung’s Z TriFold is official and it looks like a tablet with a phone attached",
       "link": "https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability",
-      "summary": "Samsung is officially announcing the Z TriFold, its much-anticipated foldable with not one, but two hinges. It’ll launch first in Korea on December 12th, with a US launch planned for the first quarter of 2026. There’s no price just yet, but if a phone with one hinge costs $2,000, you should probably start saving your [&#8230;]",
+      "summary": "Samsung is officially announcing the Z TriFold, its much-anticipated foldable with not one, but two hinges. It’ll launch first in South Korea on December 12th, with a US launch planned for the first quarter of 2026. There’s no US price just yet, but it’ll cost KRW 3,590,400 (about $2,500) for 512GB of storage when it [&#8230;]",
       "published": "2025-12-01T20:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/z_trifold_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Beats Powerbeats Pro 2 are $50 off, but only until the end of Cyber Monday",
-      "link": "https://www.theverge.com/gadgets/835276/beats-powerbeats-pro-2-cyber-monday-deal-sale-2025",
-      "summary": "Unless you want an open-style clip bud, getting high-quality workout earbuds has become more difficult in the past few years. Companies aren’t focusing on them as much, or are completely leaving the market as Jabra did at the end of 2024. Thankfully, some of the best workout earbuds — the Beats Powerbeats Pro 2 — [&#8230;]",
-      "published": "2025-12-01T19:37:51-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257536_Powerbeats_Pro_2_AKrales_0355.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Stealthy browser extensions waited years before infecting 4.3M Chrome, Edge users with backdoors and spyware",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/chrome_edge_malicious_browser_extensions/",
-      "summary": "<h4>And some are still active in the Microsoft Edge store</h4> <p>A seven-year malicious browser extension campaign infected 4.3 million Google Chrome and Microsoft Edge users with malware, including backdoors and spyware sending people's data to servers in China. And, according to Koi researchers, five of the extensions with more than 4 million installs are still live in the Edge marketplace.…</p>",
-      "published": "2025-12-01T19:14:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/06/13/coveringface.jpg"
-    },
-    {
-      "title": "My favorite TVs, streaming devices, and soundbars are still up to 50% off for Cyber Monday",
-      "link": "https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday",
-      "summary": "Black Friday might have passed, but that doesn’t mean the holiday deals are gone. You can still find low prices on excellent TVs, streaming devices, and soundbars through Cyber Monday. I’ve found the best of these deals to level up your home theater setup, and make sure that your holiday season (and every day after) [&#8230;]",
-      "published": "2025-12-01T18:52:31-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hisense.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Apple Watch Series 11 is $70 off, beating its Black Friday price",
-      "link": "https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025",
-      "summary": "Cyber Monday is usually just a repeat of Black Friday, but occasionally the annual, online-focused shopping event brings something even better. For example, the 42mm Apple Watch Series 11 with GPS is even cheaper than it was a few days ago, with a fresh $70 discount that brings the 2025 model down to $329 at [&#8230;]",
-      "published": "2025-12-01T18:48:30-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Search the pre-ChatGPT internet with the Slop Evader browser extension",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/pregpt_slop_evader_browser/",
-      "summary": "<h4>Surf Google SERPs like it's November 29, 2022, with this workaround for the age of AI slop</h4> <p>ChatGPT's public debut on November 30, 2022, is widely seen by critics as the start of the AI-slop era online. Those yearning for a more human-written web can get some relief from a browser extension that filters Google searches to pre-ChatGPT results.…</p>",
-      "published": "2025-12-01T18:16:58.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/26/slop_tank.jpg"
     }
   ]
 }
