@@ -1,29 +1,157 @@
 {
-  "lastUpdated": "2025-12-02T18:39:22.064153",
+  "lastUpdated": "2025-12-03T01:57:16.899981",
   "articles": [
     {
-      "title": "Netflix launches a mobile-friendly version of Red Dead Redemption",
-      "link": "https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/",
-      "summary": "Red Dead Redemption is officially available for Netflix subscribers on iOS and Android Devices.",
-      "published": "Tue, 02 Dec 2025 18:00:51 +0000",
+      "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
+      "link": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+      "summary": "Amazon Web Services giant tech conference is happening this week with news ranging from chips to AI services.",
+      "published": "Wed, 03 Dec 2025 01:06:25 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/RedDeadRedemption.jpg?w=1200"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
     },
     {
-      "title": "ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report",
-      "link": "https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/",
-      "summary": "ChatGPT referrals to retailers' apps were up on Black Friday year-over-year, with Walmart and Amazon benefitting the most.",
-      "published": "Tue, 02 Dec 2025 17:56:16 +0000",
+      "title": "Amazon challenges competitors with on-premises Nvidia ‘AI Factories’",
+      "link": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/",
+      "summary": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech.",
+      "published": "Wed, 03 Dec 2025 00:43:37 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1336136316.jpg?resize=1200,800"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Amazon-AWS-AI-Factory.jpg?resize=1200,675"
     },
     {
-      "title": "AWS launches new Nova AI models and a service that gives customers more control",
-      "link": "https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/",
-      "summary": "Amazon Web Services announced four new AI models within its Nova model family and a frontier model service.",
-      "published": "Tue, 02 Dec 2025 17:54:02 +0000",
+      "title": "More FDA drama: Top drug regulator calls it quits after 3 weeks",
+      "link": "https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/",
+      "summary": "The last Trump official in the position left amid allegations of petty revenge.",
+      "published": "Tue, 02 Dec 2025 23:17:17 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/02/GettyImages-496532228-1024x648.jpg"
+    },
+    {
+      "title": "This Chinese company could become the country’s first to land a reusable rocket",
+      "link": "https://arstechnica.com/space/2025/12/this-chinese-company-could-become-the-countrys-first-to-land-a-reusable-rocket/",
+      "summary": "From the outside, China's Zhuque-3 rocket looks like a clone of SpaceX's Falcon 9.",
+      "published": "Tue, 02 Dec 2025 23:04:37 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/zq3hangar-1152x648-1764713841.jpg"
+    },
+    {
+      "title": "Bending Spoons agrees to buy Eventbrite for $500M to revive stalled brand",
+      "link": "https://techcrunch.com/2025/12/02/bending-spoons-agrees-to-buy-eventbrite-for-500m-to-revive-stalled-brand/",
+      "summary": "The acquisition price for the events marketplace is a fraction of the $1.76 billion valuation it achieved during its 2018 IPO.",
+      "published": "Tue, 02 Dec 2025 23:03:55 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_6848.jpg?resize=1200,900"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/03/eventbrite-crowd.jpg?w=1200"
+    },
+    {
+      "title": "OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months",
+      "link": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/",
+      "summary": "Three years after Google sounded alarm bells over ChatGPT, the tables have turned.",
+      "published": "Tue, 02 Dec 2025 22:42:09 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/aaltman_crop-1152x648.jpg"
+    },
+    {
+      "title": "Kalshi raises $1B at $11B valuation, doubling value in under two months",
+      "link": "https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/",
+      "summary": "The latest funding comes less than two months after Kalshi announced that it raised $300 million at a $5 billion valuation.",
+      "published": "Tue, 02 Dec 2025 22:30:42 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/54430828088_f8b05f4647_4k.jpg?resize=1200,800"
+    },
+    {
+      "title": "Google tests merging AI Overviews with AI Mode",
+      "link": "https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/",
+      "summary": "Google is testing how to make it easier to move from search to an AI chat in a new global test.",
+      "published": "Tue, 02 Dec 2025 22:26:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800"
+    },
+    {
+      "title": "Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days",
+      "link": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/",
+      "summary": "Amazon Web Services on Tuesday announced three new AI agents it calls \"Frontier agents\" for coding, security, and DevOps.",
+      "published": "Tue, 02 Dec 2025 22:18:01 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1065679054.jpg?resize=1200,849"
+    },
+    {
+      "title": "Mad Men’s 4K debut botched by HBO Max streaming episode with visible crewmembers",
+      "link": "https://arstechnica.com/gadgets/2025/12/mad-mens-4k-debut-botched-by-hbo-max-streaming-episode-with-visible-crewmembers/",
+      "summary": "Producer Lionsgate reportedly contributed to the gaffe.",
+      "published": "Tue, 02 Dec 2025 21:52:10 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mad-men-season-6-jon-hamm-2-770x470-1.jpg"
+    },
+    {
+      "title": "India orders device makers to put government-run security app on all phones",
+      "link": "https://arstechnica.com/tech-policy/2025/12/apple-will-refuse-to-preload-state-run-snooping-app-on-iphones-report-says/",
+      "summary": "Apple will refuse to preload state-run “snooping” app on iPhones, report says.",
+      "published": "Tue, 02 Dec 2025 21:36:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/apple-store-india-1152x648-1764709977.jpg"
+    },
+    {
+      "title": "The future of deep tech will be explained to you at StrictlyVC Palo Alto on Dec 3",
+      "link": "https://techcrunch.com/2025/12/02/the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto-on-dec-3/",
+      "summary": "On Wednesday evening at Playground Global in Palo Alto, some very smart people who are building things you don't understand yet will explain what's coming. This is the final StrictlyVC event of 2025, and truly, the lineup is ridiculous.",
+      "published": "Tue, 02 Dec 2025 20:53:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/54599380127_df4ede7c18_c.jpg?w=799"
+    },
+    {
+      "title": "Microreactor startup Antares raises $96M for land, sea, and space-based nuclear power",
+      "link": "https://techcrunch.com/2025/12/02/microreactor-startup-antares-raises-96m-for-land-sea-and-space-based-nuclear-power/",
+      "summary": "Antares is designing and building small modular reactors that it plans to deploy for commercial, space, and defense applications.",
+      "published": "Tue, 02 Dec 2025 20:26:13 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?resize=1200,800"
+    },
+    {
+      "title": "The spectacle of Bryan Johnson and his livestreamed shrooms trip",
+      "link": "https://techcrunch.com/2025/12/02/the-spectacle-of-bryan-johnson-and-his-livestreamed-shrooms-trip/",
+      "summary": "Bryan Johnson livestreamed his shrooms trip -- which included both Grimes and Marc Benioff -- as part of his controversial longevity research.",
+      "published": "Tue, 02 Dec 2025 19:31:23 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-02-at-1.34.55-PM.png?resize=1200,557"
+    },
+    {
+      "title": "Testing shows why the Steam Machine’s 8GB of graphics RAM could be a problem",
+      "link": "https://arstechnica.com/gadgets/2025/12/steamos-has-problems-with-8gb-gpus-but-valve-is-working-on-it/",
+      "summary": "Valve has work to do on the software side—but some fixes are coming.",
+      "published": "Tue, 02 Dec 2025 19:26:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1114-1152x648.jpeg"
+    },
+    {
+      "title": "Google announces second Android 16 release of 2025 is heading to Pixels",
+      "link": "https://arstechnica.com/google/2025/12/google-announces-second-android-16-release-of-2025-is-heading-to-pixels/",
+      "summary": "The update is rolling out to Pixels starting today.",
+      "published": "Tue, 02 Dec 2025 19:11:47 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-16-1-1152x648.jpg"
+    },
+    {
+      "title": "Android 16 adds AI notification summaries, new customization options, and more",
+      "link": "https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/",
+      "summary": "The rollout of the new Android 16 features, which are first coming to Pixel devices, marks a new chapter in how Android updates work, as the company is shifting from a single yearly update to more frequent releases.",
+      "published": "Tue, 02 Dec 2025 19:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/android-16-header.jpg?resize=1200,798"
+    },
+    {
+      "title": "Meet CDC’s new lead vaccine advisor who thinks shots cause heart disease",
+      "link": "https://arstechnica.com/health/2025/12/meet-cdcs-new-lead-vaccine-advisor-who-thinks-shots-cause-heart-disease/",
+      "summary": "Milhoan has a history of touting unproven COVID cures while disparaging vaccines.",
+      "published": "Tue, 02 Dec 2025 17:57:42 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235571142-1152x648.jpg"
+    },
+    {
+      "title": "Gamers Say There’s AI Slop in the New Season of Fortnite",
+      "link": "https://futurism.com/artificial-intelligence/gamers-accuse-fortnite-ai-slop",
+      "summary": "<p>\"A billion-dollar company should have no problem supporting real artists for real art.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/gamers-accuse-fortnite-ai-slop\">Gamers Say There&#8217;s AI Slop in the New Season of Fortnite</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 02 Dec 2025 17:06:31 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/gamers-accuse-fortnite-ai-slop.jpg?quality=85"
     },
     {
       "title": "Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price",
@@ -34,44 +162,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Samsung-Mobile-Galaxy-Z-TriFold-1152x648.jpg"
     },
     {
-      "title": "OpenAI slammed for app suggestions that looked like ads",
-      "link": "https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/",
-      "summary": "OpenAI said the app suggestion was only a test and not a paid ad.",
-      "published": "Tue, 02 Dec 2025 16:43:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
-    },
-    {
-      "title": "Discord users can now buy in-game items without leaving the platform",
-      "link": "https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform/",
-      "summary": "Discord users can now purchase digital game items directly within the platform, create wishlists, and send gifts through DMs.",
-      "published": "Tue, 02 Dec 2025 16:42:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/MarvelRivals-Shop-Discord.png?w=1200"
-    },
-    {
-      "title": "YouTube releases its first-ever recap of videos you’ve watched",
-      "link": "https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/",
-      "summary": "YouTube Recap features a set of up to 12 different cards that highlight a user's top channels, interests, the evolution of their viewing habits, and which personality type they fall into based on the videos they loved to watch.",
-      "published": "Tue, 02 Dec 2025 16:35:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-02-at-10.04.40-AM.png?resize=1200,750"
-    },
-    {
-      "title": "A data breach at analytics giant Mixpanel leaves a lot of open questions",
-      "link": "https://techcrunch.com/2025/12/02/a-data-breach-at-analytics-giant-mixpanel-leaves-a-lot-of-open-questions/",
-      "summary": "We sent over a dozen questions to Mixpanel's CEO about the company's data breach. Here's what we want to know.",
-      "published": "Tue, 02 Dec 2025 16:30:52 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/04/women-location-sharing1.png?resize=1200,638"
-    },
-    {
-      "title": "AWS re:Invent 2025: How to watch and follow along live",
-      "link": "https://techcrunch.com/2025/12/02/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
-      "summary": "Amazon Web Services’ big annual event, re:Invent 2025, is getting into full swing in Las Vegas this week, and you can follow the keynotes live right here.",
-      "published": "Tue, 02 Dec 2025 16:24:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?resize=1200,900"
+      "title": "3I/ATLAS Appears to Be Erupting in Ice Volcanos",
+      "link": "https://futurism.com/space/3i-atlas-erupting-ice-volcanos",
+      "summary": "<p>Okay, that's pretty cool.</p>\n<p>The post <a href=\"https://futurism.com/space/3i-atlas-erupting-ice-volcanos\">3I/ATLAS Appears to Be Erupting in Ice Volcanos</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 02 Dec 2025 16:23:45 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/3i-atlas-erupting-ice-volcanos2.jpg?quality=85"
     },
     {
       "title": "3D model shows small clans created Easter Island statues",
@@ -82,44 +178,20 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/easterTOP-1152x648.jpg"
     },
     {
-      "title": "Amazon starts testing ‘ultra-fast’ 30-minute deliveries",
-      "link": "https://techcrunch.com/2025/12/02/amazon-starts-testing-ultra-fast-30-minute-deliveries/",
-      "summary": "The new \"ultra-fast\" delivery option will allow Amazon to better compete with services like DoorDash, Uber Eats, and Instacart.",
-      "published": "Tue, 02 Dec 2025 16:20:26 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024"
+      "title": "Amazon Quietly Pulls Disastrous AI Dubs For Popular Anime After Outcry",
+      "link": "https://futurism.com/artificial-intelligence/amazon-pulls-ai-anime-dub",
+      "summary": "<p>Who thought this was a good idea?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/amazon-pulls-ai-anime-dub\">Amazon Quietly Pulls Disastrous AI Dubs For Popular Anime After Outcry</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 02 Dec 2025 15:23:51 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/amazon-pulls-ai-anime-dub.jpg?quality=85"
     },
     {
-      "title": "“Renewable” no more: Trump admin renames the National Renewable Energy Laboratory",
-      "link": "https://arstechnica.com/science/2025/12/renewable-no-more-trump-admin-renames-the-national-renewable-energy-laboratory/",
-      "summary": "A key driver of US renewable energy research is now the National Laboratory of the Rockies.",
-      "published": "Tue, 02 Dec 2025 16:01:03 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/98079-1152x648.jpg"
-    },
-    {
-      "title": "Simular’s AI agent wants to run your Mac, Windows PC for you",
-      "link": "https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/",
-      "summary": "Simular, a startup building AI agents for Mac OS and Windows, has solved the AI hallucination problem in a compelling way.",
-      "published": "Tue, 02 Dec 2025 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Simular_team.jpg?resize=1200,808"
-    },
-    {
-      "title": "NASA seeks a “warm backup” option as key decision on lunar rover nears",
-      "link": "https://arstechnica.com/space/2025/12/wary-of-picking-just-one-nasa-nears-important-decision-on-a-lunar-rover-selection/",
-      "summary": "\"This would be a cheap insurance policy.\"",
-      "published": "Tue, 02 Dec 2025 15:30:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/LTV1-1152x648.jpg"
-    },
-    {
-      "title": "“Players are selfish”: Fallout 2’s Chris Avellone describes his game design philosophy",
-      "link": "https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/",
-      "summary": "Avellone recaps his journey from learning on a TRS-80 to today.",
-      "published": "Tue, 02 Dec 2025 15:04:53 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Variant_4-rotated-1152x648-1762375363.jpg"
+      "title": "Something Grim Is Happening to Kids Who Got Cell Phones Early",
+      "link": "https://futurism.com/health-medicine/grim-happenings-kids-smartphones",
+      "summary": "<p>\"When you give your kid a phone, you need to think of it as something that is significant for the kid's health.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/grim-happenings-kids-smartphones\">Something Grim Is Happening to Kids Who Got Cell Phones Early</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 02 Dec 2025 14:14:35 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/grim-happenings-kids-smartphones.jpg?quality=85"
     },
     {
       "title": "New App Lets Users Bet on Deadly Conflicts in Real Time",
@@ -138,14 +210,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/nasa-responds-russia-blowing-up-astronaut-launch.jpg?quality=85"
     },
     {
-      "title": "Syntax hacking: Researchers discover sentence structure can bypass AI safety rules",
-      "link": "https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/",
-      "summary": "New research offers clues about why some prompt injection attacks may succeed.",
-      "published": "Tue, 02 Dec 2025 12:15:55 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/BOOK_PAGES_FLYING-1152x648.jpg"
-    },
-    {
       "title": "Sam Altman Is Suddenly Terrified",
       "link": "https://futurism.com/artificial-intelligence/sam-altman-code-red",
       "summary": "<p>He just declared a \"code red.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sam-altman-code-red\">Sam Altman Is Suddenly Terrified</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -154,9 +218,9 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/sam-altman-code-red.jpg?quality=85"
     },
     {
-      "title": "Man Realizes He Can Feed Facebook AI Slop Page Poison Pills That Drives Its Followers Berserk",
+      "title": "Man Realizes He Can Feed Poison Pills to Facebook AI Slop Page, Driving Its Followers Berserk",
       "link": "https://futurism.com/artificial-intelligence/facebook-ai-slop-poison-pill",
-      "summary": "<p>\"What kinda word salad is this?\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/facebook-ai-slop-poison-pill\">Man Realizes He Can Feed Facebook AI Slop Page Poison Pills That Drives Its Followers Berserk</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"What kinda word salad is this?\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/facebook-ai-slop-poison-pill\">Man Realizes He Can Feed Poison Pills to Facebook AI Slop Page, Driving Its Followers Berserk</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 02 Dec 2025 10:12:39 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/facebook-ai-slop-poison-pill.jpg?quality=85"
@@ -170,38 +234,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/peek-under-antarctic-base-wild2.jpg?quality=85"
     },
     {
-      "title": "The missile meant to strike fear in Russia’s enemies fails once again",
-      "link": "https://arstechnica.com/space/2025/12/the-missile-meant-to-strike-fear-in-russias-enemies-fails-once-again/",
-      "summary": "One of Vladimir Putin's favorite sabres to rattle seems to have lost its edge.",
-      "published": "Mon, 01 Dec 2025 23:36:50 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/icbmfailure1.jpg"
-    },
-    {
-      "title": "Supreme Court hears case that could trigger big crackdown on Internet piracy",
-      "link": "https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/",
-      "summary": "Justices want Cox to crack down on piracy, but question Sony's strict demands.",
-      "published": "Mon, 01 Dec 2025 22:33:25 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/online-piracy-1152x648-1764625886.jpg"
-    },
-    {
-      "title": "OpenAI desperate to avoid explaining why it deleted pirated book datasets",
-      "link": "https://arstechnica.com/tech-policy/2025/12/openai-desperate-to-avoid-explaining-why-it-deleted-pirated-book-datasets/",
-      "summary": "OpenAI risks increased fines after deleting pirated books datasets.",
-      "published": "Mon, 01 Dec 2025 22:16:28 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1227510667-1152x648.jpg"
-    },
-    {
-      "title": "In Myanmar, illicit rare-earth mining is taking a heavy toll",
-      "link": "https://arstechnica.com/science/2025/12/in-myanmar-illicit-rare-earth-mining-is-taking-a-heavy-toll/",
-      "summary": "Uncontrolled mining in areas of Myanmar ruled by powerful ethnic armies has boomed.",
-      "published": "Mon, 01 Dec 2025 21:23:29 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2218000971-1152x648.jpg"
-    },
-    {
       "title": "Grok Appears to Have Doxxed Dave Portnoy’s Home Address",
       "link": "https://futurism.com/future-society/grok-dave-portnoy",
       "summary": "<p>Grok is not beating the allegations.</p>\n<p>The post <a href=\"https://futurism.com/future-society/grok-dave-portnoy\">Grok Appears to Have Doxxed Dave Portnoy&#8217;s Home Address</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -210,36 +242,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/grok-dave-portnoy.jpg?quality=85"
     },
     {
-      "title": "Grok Says It Would Kill Every Jewish Person on the Planet to Save Elon Musk",
-      "link": "https://futurism.com/future-society/grok-jewish-people-elon-musk",
-      "summary": "<p>A \"classic trolley problem,\" according to Grok.</p>\n<p>The post <a href=\"https://futurism.com/future-society/grok-jewish-people-elon-musk\">Grok Says It Would Kill Every Jewish Person on the Planet to Save Elon Musk</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 01 Dec 2025 17:18:15 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/grok-jewish-people-elon-musk.jpg?quality=85"
+      "title": "Amazon is forging a walled garden for enterprise AI",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/amazon_enterprise_ai_walled_garden/",
+      "summary": "<h4>AWS Chief Matt Garman lays out his vision bringing artificial intelligence to the enterprise</h4> <p><strong>Re:Invent</strong>  Amazon wants to make AI meaningful to enterprises, and it’s building yet another walled garden disguised as an easy button to do it.…</p>",
+      "published": "2025-12-03T00:11:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/02/matt_garman_aws.jpg"
     },
     {
-      "title": "China Is Officially Scared of Robots",
-      "link": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
-      "summary": "<p>It's just way too much.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble\">China Is Officially Scared of Robots</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 01 Dec 2025 16:11:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?quality=85"
+      "title": "AWS offers AI-in-a-box for enterprise datacenters",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/aws_ai_factories/",
+      "summary": "<h4>If sovereignty or on-prem AI matters, the new AI Factories could be for you</h4> <p><strong>re:invent</strong>  Many businesses and government agencies require that all sensitive data stay on-premises for legal or security reasons. If those orgs want to work with AI, they can't rely on regular public clouds, but now they can let AWS build and manage AI hardware and software in their datacenters.…</p>",
+      "published": "2025-12-02T23:03:27.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/12/03/aws-reinvent2024.jpg"
     },
     {
-      "title": "CEO of Fortnite Maker Furious That Steam Is Labeling Games With AI-Generated Assets",
-      "link": "https://futurism.com/artificial-intelligence/gaming-exec-furious-steam-ai-label",
-      "summary": "<p>Demanding a shred of transparency, apparently, is going too far.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/gaming-exec-furious-steam-ai-label\">CEO of Fortnite Maker Furious That Steam Is Labeling Games With AI-Generated Assets</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 01 Dec 2025 15:23:20 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/gaming-exec-furious-steam-ai-label.jpg?quality=85"
+      "title": "AWS admits AI coding tools cause problems, reckons its three new agents fix 'em",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/aws_kiro_devops_coding_agents/",
+      "summary": "<h4>Autonomous AI triages DevOps issues and pushes code to repositories, while checking security</h4> <p><strong>Re:Invent</strong>  Amazon is all-in on agentic AI when it comes to software development, and it sincerely hopes you are too, based on Tuesday's AWS re:Invent keynote. …</p>",
+      "published": "2025-12-02T22:46:40.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/02/aws-autonomous-agents.jpg"
     },
     {
-      "title": "The Mysterious Interstellar Object Appears to Be Pulsing in a “Heartbeat Pattern”",
-      "link": "https://futurism.com/space/mysterious-interstellar-object-pulsing",
-      "summary": "<p>The pattern is repeating every 16 hours.</p>\n<p>The post <a href=\"https://futurism.com/space/mysterious-interstellar-object-pulsing\">The Mysterious Interstellar Object Appears to Be Pulsing in a &#8220;Heartbeat Pattern&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 01 Dec 2025 13:49:22 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/mysterious-interstellar-object-pulsing-heartbeat.jpg?quality=85"
+      "title": "Two Android 0-day bugs disclosed and fixed, plus 105 more to patch",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/android_0_days/",
+      "summary": "<h4>Christmas comes early for attackers this year</h4> <p>Two high-severity Android bugs were exploited as zero-days before Google issued a fix, according to its December Android security bulletin. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-02T18:47:48.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/07/12/shutterstock_keyboard_android.jpg"
     },
     {
       "title": "NASA nominee 'committed' to uprooting Shuttle Discovery for Houston trophy piece",
@@ -248,6 +280,14 @@
       "published": "2025-12-02T18:05:08.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2023/10/18/spaceshuttlediscovery.jpg"
+    },
+    {
+      "title": "The Polaroid Flip, my favorite retro instant camera, is cheaper than ever",
+      "link": "https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale",
+      "summary": "I love instant cameras because of how they help me slow down and be creative without the distractions of a phone. Holding a real print also feels grounding in a screen-dominated age, which is why I think a lot of people these days are drawn to them — and why models with old-school vibes like [&#8230;]",
+      "published": "2025-12-02T17:59:39-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257953_Polaroid_Flip_AKrales_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "University of Pennsylvania joins list of victims from Clop's Oracle EBS raid",
@@ -266,12 +306,36 @@
       "image_url": "https://regmedia.co.uk/2022/10/14/shutterstock_headsets.jpg"
     },
     {
+      "title": "Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner",
+      "link": "https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping",
+      "summary": "Indiegogo is planning to launch a new “Express Crowdfunding” campaign format that lets creators ship things while the campaign is on-going instead of forcing creators to wait until the campaign is over. Indiegogo spokesperson Maciej Kuc tells The Verge that the change was spurred by Indiegogo’s recent move to the infrastructure from its new owner, [&#8230;]",
+      "published": "2025-12-02T17:24:46-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25589670/STK280_INDIEGOGO_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "HPE backs AMD's Helios AI rack with Juniper's scale-up switch",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/hpe_amd_helios_racks/",
       "summary": "<h4>Hardware bundle ties next-gen accelerators to an Ethernet fabric arriving in 2026</h4> <p>HPE is throwing its weight behind AMD's Helios rack-scale architecture and will offer this as part of its AI portfolio next year, including a purpose-built Juniper Networks scale-up switch.…</p>",
       "published": "2025-12-02T17:15:06.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/04/13/amd_epyc_7fx2chip.jpg"
+    },
+    {
+      "title": "Google is experimentally replacing news headlines with AI clickbait nonsense",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense",
+      "summary": "Did you know that BG3 players exploit children? Are you aware that Qi2 slows older Pixels? If we wrote those misleading headlines, readers would rip us a new one - but Google is experimentally beginning to replace the original headlines on stories it serves with AI nonsense like that. I read a lot of my [&#8230;]",
+      "published": "2025-12-02T17:14:21-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot_20251128_003150_One-UI-Home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Amazon’s bet that AI benchmarks don’t matter",
+      "link": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Amazon's AI chief has a message for the model benchmark obsessives: Stop looking at the leaderboards. \"I want real-world utility. None of these benchmarks are real,\" Rohit Prasad, Amazon's [&#8230;]",
+      "published": "2025-12-02T17:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1244423126.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Apple swaps one ex-Google AI chief for another",
@@ -282,6 +346,14 @@
       "image_url": "https://regmedia.co.uk/2025/03/21/shutterstock_apple_intelligence.jpg"
     },
     {
+      "title": "Silicon Valley is rallying behind a guy who sucks",
+      "link": "https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers that covers the political intrigue and power struggles between Big Tech and Big Government. Subscribe here for a weekly dispatch of tech oligarchs fighting regular oligarchs. Prior to last week, only highly specialized political insiders knew the extent of David Sacks' influence in the Trump [&#8230;]",
+      "published": "2025-12-02T16:47:52-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "MongoDB talks up its AI chops by talking down PostgreSQL",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/mongodb_postgresql_scalability/",
       "summary": "<h4>CEO touts win from 'super-high growth' customer that couldn't scale on rival system</h4> <p>At the risk of protesting too much in the shifting database landscape, NoSQL-based MongoDB has attempted to trash the competition by claiming PostgreSQL systems lack scalability to keep up with the demands of AI workloads.…</p>",
@@ -290,116 +362,44 @@
       "image_url": "https://regmedia.co.uk/2019/10/04/shutterstock_mongodb.jpg"
     },
     {
-      "title": "French AI shop Mistral rolls out full suite of Apache-licensed models",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/mistral_3/",
-      "summary": "<h4>Lineup spans 3B to 14B parameters, from edge devices to multi-GPU rigs</h4> <p>Mistral AI has released a suite of open source models under the Mistral 3 banner, aiming to scale from a mobile device or drone up to multi-GPU datacenter beasts.…</p>",
-      "published": "2025-12-02T16:32:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/02/10/shutterstock_paris_france.jpg"
-    },
-    {
-      "title": "Europol nukes Cryptomixer laundering hub, seizing €25M in Bitcoin",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/europol_cryptomixer/",
-      "summary": "<h4>Operation Olympia pulls Swiss servers offline and scoops up 12TB of data in latest crime infrastructure crackdown</h4> <p>Law enforcement agencies in Germany and Switzerland have shut down cryptocurrency laundering platform Cryptomixer in Europe's latest pushback against cybercrime infrastructure.…</p>",
-      "published": "2025-12-02T16:20:29.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/02/16/shutterstock_54673240_small.jpg"
-    },
-    {
-      "title": "AWS joins Microsoft, Google in the security AI agent race",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/aws_security_agent_ai/",
-      "summary": "<h4>Preview tool promises quicker reviews and faster flaw-finding for cloud apps</h4> <p><strong>Re:Invent</strong>  AI agents are key to launching applications more quickly – and making them more secure from the start, Amazon says.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-02T16:02:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/02/shutterstock_2312907327.jpg"
-    },
-    {
-      "title": "Amazon primed to fuse Nvidia's NVLink into 4th-gen Trainium accelerators",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/amazon_nvidia_trainium/",
-      "summary": "<h4>Meanwhile, Trainium3 makes its debut promising million-chip training clusters</h4> <p><strong>Re:Invent</strong>  Amazon says that its next generation of homegrown silicon will deliver 6x higher performance thanks to a little help from its buddy Nvidia.…</p>",
-      "published": "2025-12-02T16:00:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/03/trainium2_chip.jpg"
-    },
-    {
-      "title": "These terrific Cyber Monday deals are still available for $100 or less",
-      "link": "https://www.theverge.com/gadgets/836602/cyber-monday-best-cheap-tech-deals-under-100-still-available-2025",
-      "summary": "With Cyber Monday officially in the rearview mirror, it’s easy to assume that you missed the last big shopping event of the year. While that might technically be the case, there are still plenty of leftover deals to choose from, some of which can still be had for well under $100. That makes now a [&#8230;]",
-      "published": "2025-12-02T13:36:08-05:00",
+      "title": "Helldivers 2&#8217;s new &#8216;slim&#8217; version saves 131GB of space on your drive",
+      "link": "https://www.theverge.com/news/836948/helldivers-2-file-size-decrease",
+      "summary": "If you’ve been short on storage on your PC, the latest Helldivers 2 beta update might help. The developers said Tuesday they’ve managed to cut down the PC file size for Helldivers 2 by about 85 percent, freeing up enough space for at least one or two more large games.&#160; In a post on the [&#8230;]",
+      "published": "2025-12-02T15:32:46-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Ultimate-Ears-Wonderboom-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/helldivers2.jpg?quality=90&#038;strip=all&#038;crop=19.8,14.222222222222,73.4,85.777777777778"
     },
     {
-      "title": "Apple Music Replay 2025 is back with new listening stats",
-      "link": "https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch",
-      "summary": "Apple Music is getting ahead of Spotify Wrapped with the launch of its yearly recaps. This year’s Apple Music Replay is available natively within the app and comes packed with even more listening stats, allowing you to review all the new artists you listened to, which ones you kept returning to, and who made a [&#8230;]",
-      "published": "2025-12-02T11:48:11-05:00",
+      "title": "HBO Max&#8217;s Mad Men 4K release is the opposite of a remaster",
+      "link": "https://www.theverge.com/entertainment/836922/hbo-max-man-men-4k-errors-red-in-the-face-lionsgate",
+      "summary": "Though HBO Max was very proud to announce that it would be the first platform to stream Mad Men in 4K, the show's new rollout has been an absolute mess. When HBO Max subscribers fired up the app yesterday hoping to see Don Draper and company in glorious 4K, many were dismayed to see that [&#8230;]",
+      "published": "2025-12-02T15:14:10-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Replay-25.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/PVnj4sd.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anker’s new desktop docking station has a removable USB-C hub you can take with you",
-      "link": "https://www.theverge.com/news/836550/anker-nano-docking-station-removable-hub-usb-c-hdmi-displayport",
-      "summary": "Anker has released a new docking station that eliminates the&#160; problem of having to choose between portability and a plethora of ports. The 13-in-1 Anker Nano Docking Station includes various USB and video ports so you can quickly connect a laptop to multiple monitors, but its most useful feature is a small, portable USB-C hub [&#8230;]",
-      "published": "2025-12-02T11:37:27-05:00",
+      "title": "Roborock’s powerful Saros 10 robovac is still at its lowest price ever",
+      "link": "https://www.theverge.com/gadgets/836687/roborock-saros-10-cyber-week-2025-deal-sale",
+      "summary": "Black Friday and Cyber Monday brought some of the best deals of the year on robot vacuums. One of the handful of great discounts remaining is on the Roborock Saros 10, which we recently crowned the runner-up in our buying guide to the best robovac you can buy. This robovac and mop hybrid is still [&#8230;]",
+      "published": "2025-12-02T15:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/anker_dock_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/8A0A4523.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Switch 2 is still on sale at Walmart if you missed out during Cyber Monday",
+      "title": "The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday",
       "link": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
-      "summary": "One of the biggest surprises of Cyber Monday was the excellent discount we saw on the Nintendo Switch 2 + Mario Kart World bundle, which dropped the price of Nintendo’s latest console by $50. We expected the price to return to normal once the shopping holiday ended, but — surprise, surprise — it’s still going [&#8230;]",
-      "published": "2025-12-02T11:37:20-05:00",
+      "summary": "One of the biggest surprises of Cyber Monday was the excellent discount we saw on the Nintendo Switch 2 Mario Kart World console bundle, which dropped in price by $50. We expected the price to return to normal once the shopping holiday ended, but — surprise, surprise — it’s still going strong. Several major retailers [&#8230;]",
+      "published": "2025-12-02T14:48:40-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The best thing I bought this year: a Zippo-sized rechargeable flashlight",
-      "link": "https://www.theverge.com/gadgets/835300/wuben-g5-rechargeable-edc-flashlight-favorite",
-      "summary": "I was never a Boy Scout, but I have always embraced their “be prepared” motto. When I leave the house it’s never without my everyday carry kit that, among other things, includes wireless earbuds, a small battery, extra glasses — and a flashlight. In fact, I’ve long been on the hunt for what I consider [&#8230;]",
-      "published": "2025-12-02T11:00:00-05:00",
+      "title": "Steam Machine today, Steam Phones tomorrow",
+      "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+      "summary": "It's a big deal that Valve is making a game console. But I'm beginning to think the Steam Machine may end up a footnote in gaming history. What if Valve could bring PC games not just to its own living room consoles, but also to the Arm chips that billions of people have in their [&#8230;]",
+      "published": "2025-12-02T14:42:08-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/wuben_g5_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Some of our favorite Cyber Monday deals are still kicking",
-      "link": "https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025",
-      "summary": "Here’s a sad, yet predictable truth: most Black Friday and Cyber Monday deals are gone. But, not all of them have disappeared. In fact, some of the most popular deals, like the discounts on the Oura Ring 4, AirPods 4, and Nintendo Switch 2 are still sitting at their Cyber Monday prices. Although, given the [&#8230;]",
-      "published": "2025-12-02T10:37:18-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF9.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "It&#8217;s their job to keep AI from destroying everything",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects",
-      "summary": "One night in May 2020, during the height of lockdown, Deep Ganguli was worried. Ganguli, then research director at the Stanford Institute for Human-Centered AI, had just been alerted to OpenAI's new paper on GPT-3, its latest large language model. This new AI model was potentially 10 times more advanced than any other of its [&#8230;]",
-      "published": "2025-12-02T10:11:21-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258130_Profile_of_Anthropics_7-person_societal_impacts_team_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple gadgets, ranked",
-      "link": "https://www.theverge.com/podcast/836441/best-apple-gadgets-vergecast",
-      "summary": "Apple makes a lot of gadgets. Most of them are very good! You'd frankly be hard-pressed to find a company with a better track record, especially across so many categories. But only one Apple gadget can be the best Apple gadget, and it's time for us to decide which one it is. On this episode [&#8230;]",
-      "published": "2025-12-02T10:07:24-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/VRG_VST_1201_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "30 practical smart home gifts that make everyday life a little easier",
-      "link": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
-      "summary": "Smart home products are all about making everyday life a little easier, which is why they're some of the best and most thoughtful gifts you can give. Some people go all out building a multi-gadget IoT kingdom (like our resident smart home expert, Jen Pattison Tuohy), but a smart home is whatever your recipient wants [&#8230;]",
-      "published": "2025-12-02T10:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_SMARTHOME_Holiday_Gift_Guide_AKrales_5939.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Metroid Prime 4 excels when it&#8217;s actually being Metroid",
-      "link": "https://www.theverge.com/games/835325/metroid-prime-4-review-nintendo-switch",
-      "summary": "When Metroid Prime 4: Beyond is good, it's good. The latest in Nintendo's sci-fi exploration franchise, and the first since Metroid Dread in 2021, Beyond captures the moody sense of isolation and discovery that has been so core to Metroid since it debuted in 1986. Those quiet moments truly make you feel all alone on [&#8230;]",
-      "published": "2025-12-02T10:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Switch2_MetroidPrime4Beyond_scrn22.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
