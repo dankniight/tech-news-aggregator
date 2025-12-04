@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-04T01:58:26.534084",
+  "lastUpdated": "2025-12-04T06:38:15.314239",
   "articles": [
     {
       "title": "Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups",
@@ -12,14 +12,14 @@
     {
       "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
       "link": "https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
-      "summary": "Amazon Web Services giant tech conference is happening this week with news ranging from chips to AI services.",
+      "summary": "Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services.",
       "published": "Wed, 03 Dec 2025 23:43:25 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
     },
     {
-      "title": "Meta poaches Apple design exec Alan Dye",
-      "link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye/",
+      "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs",
+      "link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
       "summary": "Dye led Apple's user interface team for the last decade.",
       "published": "Wed, 03 Dec 2025 23:37:26 +0000",
       "source": "TechCrunch",
@@ -96,14 +96,6 @@
       "published": "Wed, 03 Dec 2025 20:36:47 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v2.jpg?resize=1200,800"
-    },
-    {
-      "title": "VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy",
-      "link": "https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/",
-      "summary": "While VCs have long used big investments to spur category winners, they are taking this strategy to new extremes.",
-      "published": "Wed, 03 Dec 2025 20:24:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1366296426.jpg?resize=1200,801"
     },
     {
       "title": "After nearly 30 years, Crucial will stop selling RAM to consumers",
@@ -226,6 +218,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/gamers-accuse-fortnite-ai-slop.jpg?quality=85"
     },
     {
+      "title": "New unicorn Brevo raises $583M to challenge CRM giants",
+      "link": "https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/",
+      "summary": "Brevo, a customer relationship management company headquartered in Paris, is now a unicorn.",
+      "published": "Thu, 04 Dec 2025 04:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Brevo-CEO-Armand-Thiberge-Photo-by-Lisa-Miquet.jpg?resize=1200,800"
+    },
+    {
       "title": "Day One Ventures’ Masha Bucher on why every founder needs to be an influencer",
       "link": "https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/",
       "summary": "Tech is racing ahead while society struggles to keep up.&#160;Masha Bucher, founder and GP of&#160;Day One Ventures, built her firm around closing that gap by&#160;combining venture capital with hands-on PR&#160;to help portfolio companies not just raise money, but&#160;actually break&#160;through the noise.&#160;&#160; Day One&#8217;s been an early backer of companies like&#160;World, Superhuman, and Remote.com, with 12 [&#8230;]",
@@ -240,6 +240,22 @@
       "published": "Thu, 04 Dec 2025 00:06:58 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1403288381-1152x648.jpeg"
+    },
+    {
+      "title": "Datacenters that don't have their own power supplies will fail: Gartner",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/gartner_datacenter_power_emerging_technologies/",
+      "summary": "<h4>It’s time to ask your bit barn provider how they’ll keep the lights on, and what their plans mean for prices</h4> <p>Availability of energy will determine the prices charged by datacenter operators, who won’t be viable unless they generate some of their own juice.…</p>",
+      "published": "2025-12-04T05:34:37.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/07/22/shutterstock_datacenter_disaster.jpg"
+    },
+    {
+      "title": "TLS 1.3 includes welcome improvements, but still allows long-lived secrets",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/tls_13_includes_welcome_improvements/",
+      "summary": "<h4>Tricky tradeoffs are hard to avoid when designing systems, but the choice not to use LLMs for some tasks is clear</h4> <p><strong>Systems Approach</strong>  As we neared the finish line for our <a href=\"https://systemsapproach.org/books-html/#securitybook\">network security book</a>, I received a piece of feedback from Brad Karp that my explanation of forward secrecy in the chapter on <a href=\"https://security.systemsapproach.org/tls.html\">TLS</a> (Transport Layer Security) was not quite right.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-04T04:30:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/04/shutterstock_tls.jpg"
     },
     {
       "title": "Rust core library partly polished for industrial safety spec",
@@ -314,28 +330,12 @@
       "image_url": "https://regmedia.co.uk/2025/12/03/zhuque-3.jpg"
     },
     {
-      "title": "Poop-peeping toilet attachment has a different definition of 'end-to-end' encryption",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/pooppeeping_dekoda_toilet_attachment_encryption/",
-      "summary": "<h4>Talk about enshittification</h4> <p>No, this isn't a joke: Kohler's poop-scanning toilet attachment, which the company claims is … uh … end-to-end encrypted, appears to be anything butt.…</p>",
-      "published": "2025-12-03T18:04:31.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/03/kohler-dekoda.jpg"
-    },
-    {
       "title": "BMW iX3 first drive: a ‘New Class’ is in session",
       "link": "https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price",
       "summary": "BMW has been peppering us with teasers and bits and pieces about its next-gen EV platform, Neue Klasse, for so long - fully two years now - that I confess I've become a bit numb to the hype. I'd seen the dashboard-filling displays, talked to engineers endlessly about the completely retooled active safety suite, and [&#8230;]",
       "published": "2025-12-03T18:01:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026-BMW-iX3-first-drive-055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Space telescopes are being photobombed by satellites, and the problem is slated to get much worse",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/space_telescopes_photobombed_leo_comms_satellites/",
-      "summary": "<h4>LEO communications satellites are proliferating like rabbits</h4> <p>Nearly all images from some space telescopes in low Earth orbit could be affected by light from man-made satellites as the number of communication spacecraft surges, new research led by NASA has found.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-03T17:21:49.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/11/05/shutterstock_crowded_space.jpg"
     },
     {
       "title": "Satellites keep photobombing the Hubble telescope, and it’s getting worse",
