@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-05T01:58:42.361679",
+  "lastUpdated": "2025-12-05T06:38:23.772695",
   "articles": [
     {
       "title": "Congress warned that NASA’s current plan for Artemis “cannot work”",
@@ -228,7 +228,7 @@
     {
       "title": "Chicago Tribune sues Perplexity",
       "link": "https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/",
-      "summary": "The newspaper is alleging copyright infringement and calling out Perplexity's Retrieval Augmented Generation (RAG) as a culprit.",
+      "summary": "The newspaper is alleging copyright infringement and calling out Perplexity's retrieval augmented generation (RAG) as a culprit.",
       "published": "Fri, 05 Dec 2025 01:20:59 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2169504075.jpg?resize=1200,801"
@@ -240,6 +240,22 @@
       "published": "Fri, 05 Dec 2025 01:17:08 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
+    },
+    {
+      "title": "Proxmox delivers its software-defined datacenter contender and VMware escape hatch",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/",
+      "summary": "<h4>New ‘Datacenter Manager’ manages VMs across multiple sites or clusters</h4> <p>Open source virtualization project Proxmox has delivered the first full and stable release of its Datacenter Manager product, making it a more viable alternative as a private cloud platform.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-05T04:33:27.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/12/supplied_proxmox_logo.jpg"
+    },
+    {
+      "title": "HPE's server and hybrid cloud revenue go into reverse amid historical hardware splurge",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/hpe_q4_2025/",
+      "summary": "<h4>Never mind, says jolly green giant, we’re a networking-centric company now</h4> <p>HPE has revealed its revenue from servers and hybrid cloud products has gone backwards but insisted that’s nothing to worry because it’s now poised to profit from its acquisition of Juniper Networks.…</p>",
+      "published": "2025-12-05T03:01:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/11/27/hpeantonioneri.jpg"
     },
     {
       "title": "An AI for an AI: Anthropic says AI agents require AI defense",
@@ -314,14 +330,6 @@
       "image_url": "https://regmedia.co.uk/2016/10/22/rising_prices_shutterstock.jpg"
     },
     {
-      "title": "Snowflake jumps on agentic AI train with Anthropic tie-up",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/anthropic_snowflake_agent_ai/",
-      "summary": "<h4>$200M deal brings Claude into data cloud, yet its touted ‘90%+’ accuracy needs human oversight</h4> <p>Anthropic and Snowflake announced a deal that will allow the deployment of AI agents capable of complex, multi-step analysis inside Snowflake's governed data environments.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-04T17:40:23.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/07/12/snowflake.jpg"
-    },
-    {
       "title": "Apple announces even more major executive turnover",
       "link": "https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring",
       "summary": "Following the recent retirement of former COO Jeff Williams, AI chief John Giannandrea stepping down, and the departure of head of design Alan Dye for Meta, Apple announced Thursday that environmental and policy lead Lisa Jackson is retiring and that Jennifer Newstead will replace Kate Adams as the company’s general counsel after Adams retires “late [&#8230;]",
@@ -336,14 +344,6 @@
       "published": "2025-12-04T17:24:13-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sorry, but your glitchy connection might have cost you that job",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/glitchy_video_calls_research/",
-      "summary": "<h4>Technical problems on video calls can cause uncanniness, which influences real-world decisions</h4> <p>If you didn't get your dream job, you might be able to blame your internet provider. Technical glitches on video calls in healthcare, job interviews, and parole hearings can affect real-world decisions, a study has found. The researchers suggest new technologies may even be making the problem worse.…</p>",
-      "published": "2025-12-04T17:19:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/04/shutterstock_videoglitch.jpg"
     },
     {
       "title": "Pentagon’s Signalgate report finds Pete Hegseth violated military policies",
