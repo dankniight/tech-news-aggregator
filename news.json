@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-05T06:38:23.772695",
+  "lastUpdated": "2025-12-05T12:52:04.962296",
   "articles": [
     {
       "title": "Congress warned that NASA’s current plan for Artemis “cannot work”",
@@ -122,14 +122,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/BM-s1e3-site-image-kyle-rudolph-jon-walburg-alltroo.png?resize=1200,677"
     },
     {
-      "title": "Legal AI startup Harvey confirms $8B valuation",
-      "link": "https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation/",
-      "summary": "Harvey confirms a third enormous round of funding in 2025 that has skyrocketed its valuation. Again.",
-      "published": "Thu, 04 Dec 2025 18:37:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863"
-    },
-    {
       "title": "OnePlus 15 finally gets FCC clearance after government shutdown delay—preorders live",
       "link": "https://arstechnica.com/gadgets/2025/12/oneplus-15-finally-gets-fcc-clearance-after-government-shutdown-delay-preorders-live/",
       "summary": "The device starts at $900 and comes with a free gift for a limited time.",
@@ -226,6 +218,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/grok-doxxing.jpg?quality=85"
     },
     {
+      "title": "Walmart-backed PhonePe winds down its Pincode app in yet another e-commerce step back",
+      "link": "https://techcrunch.com/2025/12/05/walmart-backed-phonepe-winds-down-its-pincode-app-in-yet-another-e-commerce-step-back/",
+      "summary": "PhonePe has shut down its Pincode app over two years after its debut.",
+      "published": "Fri, 05 Dec 2025 11:08:12 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/phonepe-pincode.jpg?resize=1200,800"
+    },
+    {
       "title": "Chicago Tribune sues Perplexity",
       "link": "https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/",
       "summary": "The newspaper is alleging copyright infringement and calling out Perplexity's retrieval augmented generation (RAG) as a culprit.",
@@ -242,12 +242,108 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
     },
     {
+      "title": "Linux 6.18 crowned LTS kernel – and Alpine 3.23 wastes no time adopting it",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/new_lts_kernel_and_alpine/",
+      "summary": "<h4>Umpteen other distros just put out new versions, but this one is our favorite</h4> <p>Kernel 6.18 has already been designated the new LTS release – just as we predicted – and Alpine Linux 3.23 has arrived carrying it ahead of a flurry of other year-end distro updates.…</p>",
+      "published": "2025-12-05T12:27:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/10/22/grossglockner__copyright_grossglockner_hochalpenstrassen_ag.jpg"
+    },
+    {
+      "title": "Irish Excel whiz sheets all over the competition in Vegas showdown",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/diarmuid_early_excel/",
+      "summary": "<h4>Diarmuid Early takes world title after outpacing 11 rivals</h4> <p>Ireland's Diarmuid Early has won the Excel World Championship. Readers of a certain age may be disappointed to learn he has never used Lotus 1-2-3.…</p>",
+      "published": "2025-12-05T12:09:41.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/05/diarmuid_early.jpg"
+    },
+    {
+      "title": "UK pushes ahead with facial recognition expansion despite civil liberties backlash",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/uk_cops_facial_recognition/",
+      "summary": "<h4>Plan would create statutory powers for police use of biometrics, prompting warnings of mass surveillance</h4> <p>The UK government has kicked off plans to ramp up police use of facial recognition, undeterred by a mounting civil liberties backlash and fresh warnings that any expansion risks turning public spaces into biometric dragnets.…</p>",
+      "published": "2025-12-05T11:14:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/30/live_facial_recognition_police.jpg"
+    },
+    {
+      "title": "FreeBSD 15 trims legacy fat and revamps how OS is built",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/freebsd_15/",
+      "summary": "<h4>Project retires 32-bit ports, embraces pkgbase, and modernizes build process</h4> <p>The latest release of FreeBSD contains a lot of crucial under-the-hood changes – and drops 32-bit support on both x86 and POWER, although ARM-v7 survives.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-05T11:01:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/06/09/freebsd_logo.jpg"
+    },
+    {
+      "title": "Pension portal launch fail sends Capita running to Microsoft for help",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/capita_microsoft_pension_portal/",
+      "summary": "<h4>Union fields member complaints as it presses outsourcer over botched rollout</h4> <p>Capita has sought Microsoft's help after the launch of the Civil Service Pension Scheme (CSPS) left users facing a malfunctioning website designed to process important financial information.…</p>",
+      "published": "2025-12-05T10:38:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/11/02/shutterstock_crying_business_man.jpg"
+    },
+    {
+      "title": "Cloudflare suffers second outage in as many months during routine maintenance",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/cloudflare_outage_again/",
+      "summary": "<h4>The Reg is still standing (this time) despite our best efforts</h4> <p><strong>Updated</strong>  Routine Cloudflare maintenance went awry this morning, knocking over the company's dashboard and API and sending sites around the world into error screens.…</p>",
+      "published": "2025-12-05T10:16:55.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/03/16/broken_light_bulb_with_smoke_shutterstock.jpg"
+    },
+    {
+      "title": "Bots, bias, and bunk: How can you tell what's real on the net?",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/bots_bias_bunk/",
+      "summary": "<h4>You can improve the odds by combining skepticism, verification habits, and a few technical checks</h4> <p><strong>Opinion</strong>  Liars, cranks, and con artists have always been with us. It's just that nowadays their reach has gone from the local pub to the globe.…</p>",
+      "published": "2025-12-05T09:30:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/07/10/shutterstock_misinformation.jpg"
+    },
+    {
+      "title": "Vendor's secret 'fix' made critical app unusable during business hours",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/on_call/",
+      "summary": "<h4>Medical software maker also had a vastly unhealthy approach to security</h4> <p><strong>On Call</strong>  Welcome to another installment of On Call, <i>The Register</i>'s Friday column that tries to improve the health of the tech support ecosystem by sharing readers' sickening stories of bringing broken tech back from the brink.…</p>",
+      "published": "2025-12-05T07:30:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/04/shutterstock_fear_and_disgust.jpg"
+    },
+    {
+      "title": "EU fines X $140 million over ‘deceptive’ blue checkmarks",
+      "link": "https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk",
+      "summary": "The European Union has served Elon Musk’s X with a €120 million (about $140 million) penalty for violating the bloc’s digital service rulebook, in part for the “deceptive design” of its blue checkmark. Today’s announcement marks the first time that a company has been fined under the landmark Digital Services Act (DSA) law for curbing [&#8230;]",
+      "published": "2025-12-05T07:04:35-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK160_X_TWITTER_2__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Facebook and Instagram have a new hub to help get hijacked accounts back",
+      "link": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub",
+      "summary": "Meta on Thursday announced it is launching a new, centralized support hub for Facebook and Instagram, acknowledging that getting help hasn’t always been as easy as it should be. The space will bring together all the support features users of both networks need to report account issues or recover one they’ve lost access to. “Getting [&#8230;]",
+      "published": "2025-12-05T06:08:43-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/facebook-instagram-account-support-hub.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft finally has a better looking Run dialog for Windows 11",
+      "link": "https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode",
+      "summary": "Microsoft is finally updating the design of the Run dialog prompt in Windows after more than 30 years. After committing to adding a dark mode to Run, Microsoft is now testing a refreshed design that makes it fit with the aesthetics in Windows 11. X user Phantomofearth discovered the modern Run dialog in the latest [&#8230;]",
+      "published": "2025-12-05T04:53:15-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/runprompt.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Proxmox delivers its software-defined datacenter contender and VMware escape hatch",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/",
       "summary": "<h4>New ‘Datacenter Manager’ manages VMs across multiple sites or clusters</h4> <p>Open source virtualization project Proxmox has delivered the first full and stable release of its Datacenter Manager product, making it a more viable alternative as a private cloud platform.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "published": "2025-12-05T04:33:27.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/09/12/supplied_proxmox_logo.jpg"
+    },
+    {
+      "title": "Netflix is buying Warner Bros. for $83 billion",
+      "link": "https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout",
+      "summary": "Netflix has announced that it’s struck a deal to acquire Warner Bros. for $82.7 billion. The purchase will go through after Warner Bros.’ planned split from Discovery, now expected to take place in Q3 2026. It will see the streamer acquire the Warner studio, both HBO and HBO Max, and access to IP including Harry [&#8230;]",
+      "published": "2025-12-05T03:39:02-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB374_WARNER_BROS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "HPE's server and hybrid cloud revenue go into reverse amid historical hardware splurge",
@@ -258,76 +354,12 @@
       "image_url": "https://regmedia.co.uk/2018/11/27/hpeantonioneri.jpg"
     },
     {
-      "title": "An AI for an AI: Anthropic says AI agents require AI defense",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/an_ai_for_an_ai/",
-      "summary": "<h4>Automated software keeps getting better at pilfering cryptocurrency</h4> <p>Anthropic could have scored an easy $4.6 million by using its Claude AI models to find and exploit vulnerabilities in blockchain smart contracts.…</p>",
-      "published": "2025-12-05T00:30:02.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/11/17/shutterstock_blockchain_breaking.jpg"
-    },
-    {
-      "title": "Amazon keeps the pressure on Intel, AMD with 192-core Graviton5 CPU",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/amazon_graviton_5/",
-      "summary": "<h4>The homegrown chips now account for half of all new CPUs added to AWS over the past three years</h4> <p><strong>re:invent</strong>  Amazon on Thursday unveiled Graviton5, its densest, highest performance CPU yet, cramming 192 processor cores into a single socket and promising new levels of AWS performance.…</p>",
-      "published": "2025-12-04T22:24:03.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/04/aws_graviton_5.jpg"
-    },
-    {
-      "title": "PRC spies Brickstromed their way into critical US networks and remained hidden for years",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/prc_spies_brickstrom_cisa/",
-      "summary": "<h4>'Dozens' of US orgs infected</h4> <p>Chinese cyberspies maintained long-term access to critical networks – sometimes for years – and used this access to infect computers with malware and steal data, according to Thursday warnings from government agencies and private security firms.…</p>",
-      "published": "2025-12-04T22:10:41.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/01/14/shutterstock_wall_build_wet.jpg"
-    },
-    {
-      "title": "OpenAI turns the screws on chatbots to get them to confess mischief",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/openai_bots_tests_admit_wrongdoing/",
-      "summary": "<h4>'You're absolutely right! I was totally lying to you!'</h4> <p>Some say confession is good for the soul, but what if you have no soul? OpenAI recently tested what happens if you ask its bots to \"confess\" to bypassing their guardrails.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-04T21:37:38.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/03/11/confession_shutterstock.jpg"
-    },
-    {
-      "title": "Hegseth needs to go to secure messaging school, report says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/dod_hegseth_broke_pentagon_policy_signal/",
-      "summary": "<h4>He's not alone: DoD inspector general says the whole Defense Department has a messaging security problem</h4> <p>US Defense Secretary Pete Hegseth definitely broke the rules when he sent sensitive information to a Signal chat group, say Pentagon auditors, but he's not the only one using insecure messaging, and everyone needs better training.…</p>",
-      "published": "2025-12-04T21:09:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/04/25/shutterstock_peter_hegseth.jpg"
-    },
-    {
       "title": "The best noise-canceling headphones to buy right now",
       "link": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
       "summary": "Whether you’re wearing them for the morning commute, while traveling, or if you’re simply trying to find some peace and quiet while working at home, noise-canceling headphones are a more essential piece of kit nowadays than ever before. And you’ve got a slew of great options to pick from; it’s hard to make a bad [&#8230;]",
       "published": "2025-12-04T19:58:41-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594581/247231_Buying_Guide_Headphones_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Twins who hacked State Dept hired to work for gov again, now charged with deleting databases",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/twin_brothers_charged_with_deleting_databases/",
-      "summary": "<h4>And then they asked an AI to help cover their tracks</h4> <p>Vetting staff who handle sensitive government systems is wise, and so is cutting off their access the moment they're fired. Prosecutors say a federal contractor learned this the hard way when twin brothers previously convicted of hacking-related offenses allegedly used lingering access to delete nearly 100 government databases, including systems tied to Homeland Security and other agencies, within minutes of being terminated.…</p>",
-      "published": "2025-12-04T19:48:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/11/07/arrest_23879675684565.jpg"
-    },
-    {
-      "title": "We'll beat China to the Moon, NASA nominee declares",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/beat_china_moon_nasa_nominee/",
-      "summary": "<h4>Isaacman: 'We can never accept a gap in our capabilities again'</h4> <p>The US must return astronauts to the Moon before China mounts its first crewed landing there, NASA administrator nominee Jared Isaacman predicted on Wednesday. He also vowed that the country will not endure another gap in its human-spaceflight capabilities as the International Space Station approaches retirement.…</p>",
-      "published": "2025-12-04T18:16:26.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/04/shutterstock_2458171657.jpg"
-    },
-    {
-      "title": "Server prices set to jump 15% as memory costs spike",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/server_prices_15_percent_jump_memory_costs/",
-      "summary": "<h4>Major OEMs are plotting double-digit hikes as DRAM and NAND shortages bite</h4> <p><strong>Exclusive</strong>  Server and PC prices are climbing sharply as hardware manufacturers grapple with soaring memory component costs, multiple supply chain sources have told <em>The Register</em>.…</p>",
-      "published": "2025-12-04T17:51:16.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/10/22/rising_prices_shutterstock.jpg"
     },
     {
       "title": "Apple announces even more major executive turnover",
@@ -368,38 +400,6 @@
       "published": "2025-12-04T14:59:18-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Switch_MetroidPrime4Beyond_SCRN_Samus_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon&#8217;s dynamic pricing is causing chaos for school budgets",
-      "link": "https://www.theverge.com/news/838491/amazon-dynamic-pricing-school-supplies-islr",
-      "summary": "School districts are paying extra for basic supplies thanks to unpredictable dynamic pricing on Amazon, which is costing them on average 17 percent more, according to a report by the Institute for Local Self-Reliance (ILSR). As reported earlier by The Guardian, unlike the contracts schools and local governments would traditionally make with local suppliers, who [&#8230;]",
-      "published": "2025-12-04T14:40:47-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Trump admin may deny H-1B visas to people who worked in content moderation, report says",
-      "link": "https://www.theverge.com/news/838489/trump-admin-h1b-visas-content-moderation",
-      "summary": "The Trump administration has ordered US consulates to consider rejecting H-1B visa applicants involved in content moderation or “censorship,” according to a report from Reuters. A State Department cable viewed by the outlet says officials should check an applicant’s resume or LinkedIn profile for a job history involving moderation, fact-checking, online safety, compliance, and misinformation. [&#8230;]",
-      "published": "2025-12-04T14:30:38-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft is quietly walking back its diversity efforts",
-      "link": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad",
-      "summary": "Microsoft has been publishing data about the gender, race, and ethnic breakdown of its employees for more than a decade. Since 2019 it's been publishing a full diversity and inclusion report annually, and at the same time made reporting on diversity a requirement for employee performance reviews. Now it's scrapping its diversity report and dropping [&#8230;]",
-      "published": "2025-12-04T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s AI model is getting really good at spoofing phone photos",
-      "link": "https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos",
-      "summary": "I'm starting to understand where Google's visual AI model gets its name, because after playing around with it for a couple of days, that's how I'd sum it up: bananas. The images it generates are so realistic it's bananas. I feel like I'm going bananas after staring at them for too long. And if I [&#8230;]",
-      "published": "2025-12-04T13:45:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ai-label-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
