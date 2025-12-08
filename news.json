@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T06:41:23.695379",
+  "lastUpdated": "2025-12-08T12:53:22.478005",
   "articles": [
     {
       "title": "X deactivates European Commission’s ad account after the company was fined €120M",
@@ -154,20 +154,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2186006383.jpg?resize=1200,800"
     },
     {
-      "title": "Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot",
-      "link": "https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/",
-      "summary": "Creator IShowSpeed sued after punching, choking viral humanoid Rizzbot.",
-      "published": "Sat, 06 Dec 2025 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-05-at-5.24.35-PM.png?resize=1200,717"
-    },
-    {
       "title": "A massive, Chinese-backed port could push the Amazon Rainforest over the edge",
       "link": "https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/",
       "summary": "The port will revolutionize global trade, but it’s sparking destructive rainforest routes.",
       "published": "Sat, 06 Dec 2025 12:30:35 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2182963624-1152x648.jpg"
+    },
+    {
+      "title": "OpenAI boasts enterprise win days after internal ‘code red’ on Google threat",
+      "link": "https://techcrunch.com/2025/12/08/openai-boasts-enterprise-win-days-after-internal-code-red-on-google-threat/",
+      "summary": "ChatGPT Enterprise usage grew 8x year-over-year as workers report saving an hour daily, but OpenAI faces competitive pressure from Anthropic and questions about cost sustainability.",
+      "published": "Mon, 08 Dec 2025 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/openai-enterprise-report.png?resize=1200,860"
     },
     {
       "title": "Netflix co-CEO discussed Warner Bros. deal with Trump",
@@ -242,6 +242,70 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/knight1-1152x648.jpg"
     },
     {
+      "title": "Kyocera claims 5.2 Gbps underwater laser data blast in lab tests",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/kyocera_underwater_multigigabit_comms/",
+      "summary": "<h4>Japanese outfit aims to improve comms for aquatic drones</h4> <p>Kyocera has demonstrated underwater wireless optical communication (UWOC) technology that achieved 5.2 Gbps in lab tests, targeting video feeds and sensor data for ocean exploration and underwater robotics.…</p>",
+      "published": "2025-12-08T12:30:16.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/08/03/sharks_photo_via_shutterstock.jpg"
+    },
+    {
+      "title": "Home Office kept police facial recognition flaws to itself, UK data watchdog fumes",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/ico_home_office_rfr/",
+      "summary": "<h4>Regulator disappointed as soon-to-be-scrapped algo's problems remained a secret despite consistent engagement</h4> <p>The UK's data protection watchdog has criticized the Home Office for failing to disclose significant biases in police facial recognition technology, despite regular engagement between the organizations.…</p>",
+      "published": "2025-12-08T12:16:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/01/17/facial_shutterstock.jpg"
+    },
+    {
+      "title": "Barts Health seeks High Court block after Clop pillages NHS trust data",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/barts_health_clop_block/",
+      "summary": "<h4>Body confirms patient and staff details siphoned via Oracle EBS flaw as gang threatens to leak haul</h4> <p>Barts Health NHS Trust has confirmed that patient and staff data was stolen in Clop's mass-exploitation of Oracle's E-Business Suite (EBS), and says it is now taking legal action in an effort to stop the gang publishing any of the snatched information.…</p>",
+      "published": "2025-12-08T11:12:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/07/18/shutterstock_cybercriminal.jpg"
+    },
+    {
+      "title": "UK tech minister vows more whole-government megadeals after £9B Microsoft pact",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/uk_tech_deals/",
+      "summary": "<h4>Kendall says Whitehall will use bulk buying to squeeze better value from cloud giants</h4> <p>The UK tech minister has promised more whole-government deals with industry giants following its £9 billion agreement with Microsoft, and is seeking to target cloud service providers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-08T10:56:25.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/07/05/shutterstock_whitehall.jpg"
+    },
+    {
+      "title": "Rebuilding VisiCorp's Visi On UI reveals how Apple defined the GUI era",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/visi_on_deep_dive/",
+      "summary": "<h4>Nina Kalinina takes a deep dive into one of the earliest PC desktops</h4> <p>Reverse engineering VisiCorp's pioneering GUI for commodity PCs shows how little modern GUIs get from Xerox – and how much we all owe Apple.…</p>",
+      "published": "2025-12-08T10:16:00.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/09/13/shutterstock-obsolete.jpg"
+    },
+    {
+      "title": "Death in the dollhouse as Microsoft marketing reboots digital soap operas",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/death_in_the_dollhouse_as/",
+      "summary": "<h4>Can’t take decades more synthetic case studies? Get those digital daggers out</h4> <p>These are hard times, even for the biggest brands. Facing existential crises, emergency board meetings are in full swing at multinationals Contoso, a huge marketing and sales outfit, and Fabrikam, the famous name in online fashion. Both are under threat from usurper Zava, a retailer so dazzlingly disruptive it is both a chain of DIY home improvement shops and flogger of intelligent athletic apparel.…</p>",
+      "published": "2025-12-08T09:30:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/03/28/shutterstock_fake_it_till_you_make_it.jpg"
+    },
+    {
+      "title": "Untrained techie broke the rules, made a mistake, and found a better way to work",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/who_me/",
+      "summary": "<h4>Ignorance really can be bliss</h4> <p><strong>Who, Me?</strong>  Opinion varies about the most efficient way to commence a working week. <i>The Register</i>’s contribution to that conversation is Who, Me? It’s the reader-contributed column in which you share stories of your mistakes, and subsequent escapes.…</p>",
+      "published": "2025-12-08T07:30:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/09/30/shutterstock_shocked.jpg"
+    },
+    {
+      "title": "Stop, Shop, and Scroll",
+      "link": "https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda",
+      "summary": "In 1914 Joseph Pilates was sitting in a World War I-era internment camp watching his fellow inmates waste away when he had an idea. As he later recounted to a journalist, the skinny prison courtyard cats kept spry and limber, stretching and moving even as they starved — could the German citizens interned in the [&#8230;]",
+      "published": "2025-12-08T07:00:01-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/lede.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Block all AI browsers for the foreseeable future: Gartner",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/",
       "summary": "<h4>Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things</h4> <p>Agentic browsers are too risky for most organizations to use, according to analyst firm Gartner.…</p>",
@@ -276,7 +340,7 @@
     {
       "title": "Netflix CEO made a visit to the White House before buying Warner Bros.",
       "link": "https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros",
-      "summary": "In November, Ted Sarandos, Netflix’s co-CEO made a trip to the White House for a lengthy meeting with Donald Trump. According to Bloomberg, the two discussed a number of topics, but chief among them was Netflix’s plan to bid on Warner Bros. At the end of their conversation, Sardonos felt that “Netflix wouldn’t face immediate [&#8230;]",
+      "summary": "In November, Ted Sarandos, Netflix’s co-CEO, made a trip to the White House for a lengthy meeting with Donald Trump. According to Bloomberg, the two discussed a number of topics, but chief among them was Netflix’s plan to bid on Warner Bros. At the end of their conversation, Sarandos felt that “Netflix wouldn’t face immediate [&#8230;]",
       "published": "2025-12-07T17:34:20-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2250046912.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -290,7 +354,7 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "A very human vision for going all-in on AI",
+      "title": "A very human vision for going all in on AI",
       "link": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
       "summary": "It's easy to think about AI as a sort of existential battle between human and machine. Maybe it will be, someday, in a Skynet sort of way. But there are also lots of people trying to figure out how to use AI not as a replacement for human creativity and thinking but as a tool [&#8230;]",
       "published": "2025-12-07T10:00:00-05:00",
@@ -312,14 +376,6 @@
       "published": "2025-12-07T09:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon’s Trainium3 is the latest to conform to Nvidia’s mold",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/07/trainium3_all_nvidia_nvl72_mold/",
-      "summary": "<h4>From Amazon to AMD, everything looks like an NVL72 now</h4> <p>Amazon last week revealed its Trainium3 UltraServer rack systems, and if your first thought was \"boy that looks a lot like Nvidia's GB200 NVL72,\" your eyes aren't deceiving you. …</p>",
-      "published": "2025-12-07T08:08:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/06/aws_trn3_ultraserver.jpg"
     },
     {
       "title": "Starlink made ‘work from home’ possible from anywhere — now, I&#8217;m ready for a change",
@@ -344,62 +400,6 @@
       "published": "2025-12-06T14:55:52-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
-      "link": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
-      "summary": "Cyber week has just about wrapped up, but there are still some amazing Cyber Monday leftovers that you can save money on. The one deal we can’t stop telling readers about is the unexpected $50 discount on Nintendo’s Switch 2 console bundle that includes Mario Kart World, bringing it down to $449.99 (was $499.99). Currently, [&#8230;]",
-      "published": "2025-12-06T12:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "And the winner of the Microsoft Christmas sweater is...",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/06/microsoft_sweater_competition/",
-      "summary": "<h4>Peak Microsoft is whatever you want it to be. Or not</h4> <p>The readers have spoken, and the era of peak Microsoft is… open to debate.…</p>",
-      "published": "2025-12-06T11:00:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/02/ms_ugly_sweater.jpg"
-    },
-    {
-      "title": "Death to one-time text codes: Passkeys are the new hotness in MFA",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/",
-      "summary": "<h4>Wanna know a secret?</h4> <p>Whether you're logging into your bank, health insurance, or even your email, most services today do not live by passwords alone. Now commonplace, multifactor authentication (MFA) requires users to enter a second or third proof of identity. However, not all forms of MFA are created equal, and the one-time passwords orgs send to your phone have holes so big you could drive a truck through them.…</p>",
-      "published": "2025-12-06T09:11:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/04/04/mfa_shutterstock.jpg"
-    },
-    {
-      "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/",
-      "summary": "<h4>Tentative ruling signals a potential win for SFC’s copyleft enforcement push</h4> <p>Electronics biz Vizio may be required by a California court to provide source code for its SmartCast TV software, which is allegedly based on open source code licensed under the GPLv2 and LGPLv2.1.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-05T23:53:43.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/02/07/shutterstock_open_source_banner.jpg"
-    },
-    {
-      "title": "Crims using social media images, videos in 'virtual kidnapping' scams",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/virtual_kidnapping_scam/",
-      "summary": "<h4>Proof of life? Or an active social media presence?</h4> <p>Criminals are altering social media and other publicly available images of people to use as fake proof of life photos in \"virtual kidnapping\" and extortion scams, the FBI warned on Friday. …</p>",
-      "published": "2025-12-05T23:23:39.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/08/05/ransom_note_shutterstock.jpg"
-    },
-    {
-      "title": "Salesforce has come up with the most credible threat yet to ServiceNow, and Benioff is crowing about it",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/salesforce_agentforce_vs_servicenow/",
-      "summary": "<h4>Some within the CRM giant balked, but Benioff prevailed</h4> <p>ServiceNow’s dominant spot among IT service management (ITSM) platforms is facing its “most credible” threat to date, as longtime platform rival Salesforce has rolled out an AI agent-powered product that has won early plaudits from one of the largest credit unions in the US.…</p>",
-      "published": "2025-12-05T22:20:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/05/benioff_bowtie_smile.jpg"
-    },
-    {
-      "title": "Novel clickjacking attack relies on CSS and SVG",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/css_svg_clickjacking/",
-      "summary": "<h4>Who needs JavaScript?</h4> <p>Security researcher Lyra Rebane has devised a novel clickjacking attack that relies on Scalable Vector Graphics (SVG) and Cascading Style Sheets (CSS).…</p>",
-      "published": "2025-12-05T21:55:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/04/15/shutterstock_156983882.jpg"
     }
   ]
 }
