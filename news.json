@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2025-12-12T06:39:53.660287",
+  "lastUpdated": "2025-12-12T12:53:49.278404",
   "articles": [
-    {
-      "title": "Librarians Dumbfounded as People Keep Asking for Materials That Don’t Exist",
-      "link": "https://futurism.com/artificial-intelligence/librarians-ai-materials",
-      "summary": "<p>The wonders of our AI age.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/librarians-ai-materials\">Librarians Dumbfounded as People Keep Asking for Materials That Don&#8217;t Exist</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 10 Dec 2025 17:13:57 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/librarians-ai-materials.jpg?quality=85"
-    },
     {
       "title": "Runway claims its GWM-1 “world models” can stay coherent for minutes at a time",
       "link": "https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/",
@@ -202,6 +194,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/time-arrived-land-astronauts-mars.jpg?quality=85"
     },
     {
+      "title": "Mysterious Interstellar Object Now Approaching Earth",
+      "link": "https://futurism.com/space/mysterious-interstellar-object-now-approaching-earth",
+      "summary": "<p>It's never been closer.</p>\n<p>The post <a href=\"https://futurism.com/space/mysterious-interstellar-object-now-approaching-earth\">Mysterious Interstellar Object Now Approaching Earth</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 12 Dec 2025 07:00:00 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/mysterious-interstellar-object-now-approaching-earth.jpg?quality=85"
+    },
+    {
       "title": "Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor",
       "link": "https://arstechnica.com/gaming/2025/12/star-wars-fate-of-the-old-republic-announced-as-a-kotor-spiritual-successor/",
       "summary": "Original <em>KOTOR</em> director Casey Hudson returns to Star Wars with new studio Arcanaut.",
@@ -240,6 +240,54 @@
       "published": "Fri, 12 Dec 2025 00:18:56 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1147600063.jpg?resize=1200,817"
+    },
+    {
+      "title": "UK watchdog urged to probe GDPR failures in Home Office eVisa rollout",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/ico_home_office_evisa/",
+      "summary": "<h4>Rights groups say digital-only record is leaking data and courting trouble</h4> <p>Civil society groups are urging the UK's data watchdog to investigate whether the Home Office's digital-only eVisa scheme is breaching GDPR, sounding the alarm about systemic data errors and design failures that are exposing sensitive personal information while leaving migrants unable to prove their lawful status.…</p>",
+      "published": "2025-12-12T12:36:34.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/09/21/shutterstock_search.jpg"
+    },
+    {
+      "title": "Half of exposed React servers remain unpatched amid active exploitation",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/vulnerable_react_instances_unpatched/",
+      "summary": "<h4>Wiz says React2Shell attacks accelerating, ranging from cryptominers to state-linked crews</h4> <p>Half of the internet-facing systems vulnerable to a fast-moving React remote code execution flaw remain unpatched, even as exploitation has exploded into more than a dozen active attack clusters ranging from bargain-basement cryptominers to state-linked intrusion tooling.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-12T11:31:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/05/18/vulnerability.jpg"
+    },
+    {
+      "title": "Salesforce opts for seat-based AI licensing as customers demand predictability",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/ai_agents_salesforce_pricing/",
+      "summary": "<h4>Analysts say the shift offers stability, but embedded usage caps ensure vendors keep control</h4> <p>Salesforce CEO Marc Benioff last week came closer to answering a multibillion-dollar question when he said seat-based pricing – with some caveats – was becoming the norm for its AI agents after flirting with pricing based on consumption and per-conversation payments.…</p>",
+      "published": "2025-12-12T10:15:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/06/21/shutterstock_24721369.jpg"
+    },
+    {
+      "title": "Home Office staff still leaning on 25-year-old asylum case management system",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/uk_asylum_atlas/",
+      "summary": "<h4>Replacement rollout plagued by bad data and missing features, says watchdog</h4> <p>Despite completing its rollout of a new case management system, Home Office caseworkers are still referring back to data in a 25-year-old legacy system when processing asylum claims, according to a public spending watchdog.…</p>",
+      "published": "2025-12-12T09:30:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/02/shutterstock_homeofficelogo.jpg"
+    },
+    {
+      "title": "User insisted their screen was blank, until admitting it wasn't",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/on_call/",
+      "summary": "<h4>Getting that confession took hours, during which L1 and L2 support gave up</h4> <p><strong>On Call</strong>  Welcome once more to On Call, the Friday column in which we share stories of tech support incidents that went pear-shaped until cunning <i>Reg</i> readers stepped in to save the day.…</p>",
+      "published": "2025-12-12T07:30:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/09/01/shutterstock_green_screen_terminal.jpg"
+    },
+    {
+      "title": "My defense of a $40 cable paperweight – I’m sorry",
+      "link": "https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter",
+      "summary": "Warning: I'm going to make an attempt to justify a $40 paperweight for cable management. I'm not sure how I ended up in this position, or who hurt me. All I can say is that I'm not proud of myself, so please, take pity. I've been using Native Union's 3-cable Weighter for about a week. [&#8230;]",
+      "published": "2025-12-12T06:55:31-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DSC_0910-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Reddit sues Australia to exempt itself from kids social media ban",
@@ -314,22 +362,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-11-at-9.03.42%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Disney turns to dark side, licenses IP to OpenAI for videos, images",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/disney_openai_video_image_generation_deal/",
-      "summary": "<h4>Begun, these AI wars have</h4> <p>Amid controversy over its ability to generate content with copyrighted characters, OpenAI has struck a three-year deal with Disney to license more than 200 Disney, Pixar, Marvel, and Star Wars characters for use in Sora videos and ChatGPT Images.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-11T21:03:21.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/11/shutterstock_2349709881.jpg"
-    },
-    {
-      "title": "Russian hackers debut simple ransomware service, but store keys in plain text",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/cybervolk_ransomware_is_back/",
-      "summary": "<h4>Operators accidentally left a way for you to get your data back</h4> <p>CyberVolk, a pro-Russian hacktivist crew, is back after months of silence with a new ransomware service. There's some bad news and some good news here.…</p>",
-      "published": "2025-12-11T20:56:37.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/03/08/ransomware_shutterstock.jpg"
-    },
-    {
       "title": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
       "link": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
       "summary": "The next Star Wars game is coming from the director of Mass Effect and Knights of the Old Republic. Star Wars: Fate of the Old Republic was revealed during The Game Awards with a brief trailer that got Geoff Keighley so excited his voice started cracking. Like any announcement trailer, it was brief, featuring a [&#8230;]",
@@ -362,44 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "European cloud trade group says EU should have blocked VMware-Broadcom merger",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/european_cloud_trade_group_vmware_broadcom/",
-      "summary": "<h4>Org argues that the approval process was flawed and regulators should have known better</h4> <p>A trade group of European cloud providers has laid into the European Commission’s decision to allow the VMware-Broadcom merger to go ahead, alleging that it failed to assess the infrastructure and semiconductor company’s incentives to massively raise prices on customers.…</p>",
-      "published": "2025-12-11T19:15:21.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/11/shutterstock_2469861683.jpg"
-    },
-    {
       "title": "Disney wants to drag you into the slop",
       "link": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership",
       "summary": "Disney and OpenAI's new $1 billion partnership feels emblematic of the terrible times we're living through. In exchange for access to the generative AI firm's APIs and tools like ChatGPT, the studio plans to let users of OpenAI's Sora AI video generator create clips featuring hundreds of Disney-owned characters. Sora AI users will be able [&#8230;]",
       "published": "2025-12-11T18:03:24-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951318/STK080_VRG_Illo_N_Barclay_7_disney_.jpg?quality=90&#038;strip=all&#038;crop=7.99921875,10.503679744996,92.00078125,89.496320255004"
-    },
-    {
-      "title": "The best earbuds we’ve tested for 2025",
-      "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
-      "summary": "It’s hard to buy a bad pair of wireless earbuds these days, and with constant discounts and deals wherever you look, now is as good a time as any to splurge on the pair you’ve been eyeing. The market has come a long way since the early era of true wireless earbuds, when we had [&#8230;]",
-      "published": "2025-12-11T18:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25596029/247231_Buying_Guide_Earbuds_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Space-power startup claims it can beam energy to solar farms",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/spacepower_startup_beam_energy_solar_farms/",
-      "summary": "<h4>So far, Overview Energy says it has only beamed power from a moving aircraft to standard solar panels</h4> <p>You can't generate solar power at night unless your panels are in space. A startup that wants to beam orbital sunlight straight into existing solar farms has just emerged from stealth, claiming a world-first power-beaming demo, but with a lot of critical information left unreported. …</p>",
-      "published": "2025-12-11T17:55:57.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/11/overview-satellite-concept.jpg"
-    },
-    {
-      "title": "Google fixes super-secret 8th Chrome 0-day",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/google_fixes_supersecret_8th_chrome/",
-      "summary": "<h4>No details, no CVE, update your browser now</h4> <p>Google issued an emergency fix for a Chrome vulnerability already under exploitation, which marks the world's most popular browser's eighth zero-day bug of 2025.…</p>",
-      "published": "2025-12-11T17:09:31.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/09/14/shutterstock_395326363.jpg"
     }
   ]
 }
