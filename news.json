@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-12-17T01:57:26.027174",
+  "lastUpdated": "2025-12-17T06:40:00.808996",
   "articles": [
+    {
+      "title": "Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage",
+      "link": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/",
+      "summary": "The deal valued MoEngage at \"well over\" $900 million post-money.",
+      "published": "Wed, 17 Dec 2025 05:20:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/moengage-ceo.jpg?resize=1200,800"
+    },
+    {
+      "title": "Monzo board reportedly pushed out CEO Anil over IPO timing",
+      "link": "https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/",
+      "summary": "A key issue, reportedly, was IPO timing.",
+      "published": "Wed, 17 Dec 2025 03:06:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/TS-Anil_headshot.jpeg?w=800"
+    },
     {
       "title": "Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules",
       "link": "https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/",
@@ -96,22 +112,6 @@
       "published": "Tue, 16 Dec 2025 18:30:55 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Conversation-Focus_Social-Share.webp?resize=1200,675"
-    },
-    {
-      "title": "OpenAI continues on its ‘code red’ warpath with new image generation model",
-      "link": "https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/",
-      "summary": "OpenAI rolls out GPT Image 1.5 for ChatGPT, promising 4x faster generation, better instruction-following, and precise edits. The launch  escalates its rivalry with Google Gemini.",
-      "published": "Tue, 16 Dec 2025 18:22:50 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/skating-3.png?resize=1200,800"
-    },
-    {
-      "title": "Uber Eats alum lands $14M seed from a16z to fix WhatsApp chaos for LatAm’s doctors",
-      "link": "https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/",
-      "summary": "Leona Health built an AI co-pilot to manage the flood of patient messages Latin American doctors receive on WhatsApp.",
-      "published": "Tue, 16 Dec 2025 18:11:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Caroline-Merin-horizontal-headshot.jpg?resize=1200,800"
     },
     {
       "title": "Reporter suggests Half-Life 3 will be a Steam Machine launch title",
@@ -240,6 +240,14 @@
       "published": "Mon, 15 Dec 2025 17:15:26 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/amazon-deletes-ai-recap-fallout.jpg?quality=85"
+    },
+    {
+      "title": "Cisco decides its homegrown AI model is ready to power its products",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/cisco_foundation_model_indentity_intelligence/",
+      "summary": "<h4>Apparently you’re about to get better advice on any identity issues lurking in your infrastructure</h4> <p>Cisco has decided its homegrown AI models are ready to power its products, starting with its Duo Identity Intelligence offering.…</p>",
+      "published": "2025-12-17T06:24:20.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/06/20/shutterstock_dogfood.jpg"
     },
     {
       "title": "India unveils a homegrown dual-core 1GHz RISC-V processor, the DHRUV64",
@@ -392,14 +400,6 @@
       "published": "2025-12-16T16:30:14-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2196817892.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Nvidia pledges more openness as it slurps up Slurm",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/nvidia_slurm_nemotron/",
-      "summary": "<h4>And parades its latest trio of Nemotron models</h4> <p>Nvidia burnished its open source credentials this week after buying the company behind the veteran Slurm scheduler and announcing a slew of open source AI models.…</p>",
-      "published": "2025-12-16T16:13:50.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/12/01/nvidia_shutterstock.jpg"
     }
   ]
 }
