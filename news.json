@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T01:58:11.226774",
+  "lastUpdated": "2025-12-18T06:39:56.246717",
   "articles": [
     {
       "title": "Physicists 3D-printed a Christmas tree of ice",
@@ -146,14 +146,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1086618384-1152x648.jpg"
     },
     {
-      "title": "Radiant Nuclear raises $300M for its semi-sized 1 MW reactor",
-      "link": "https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/",
-      "summary": "Radiant Nuclear is developing a small modular reactor to replace diesel generators. The startup previously raised $165 million in May.",
-      "published": "Wed, 17 Dec 2025 16:07:49 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/DIU-Rendering.jpg?resize=1200,675"
-    },
-    {
       "title": "Google releases Gemini 3 Flash, promising improved intelligence and efficiency",
       "link": "https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/",
       "summary": "Google's Gemini 3 family is now complete with release of Gemini 3 Flash.",
@@ -226,6 +218,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/retatrutide-injections.jpg?quality=85"
     },
     {
+      "title": "Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions",
+      "link": "https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/",
+      "summary": "In an economy where everyone's feeling squeezed, AI-driven price testing of kitchen essentials was bound to attract attention.",
+      "published": "Thu, 18 Dec 2025 02:23:43 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-86056904.jpg?resize=1200,940"
+    },
+    {
       "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
       "link": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
       "summary": "The lawsuit is just the latest in a string of copyright-related legal complaints aimed at the AI industry.",
@@ -242,6 +242,22 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249116324-1024x648.jpg"
     },
     {
+      "title": "United Nations agrees to persist with multi-stakeholder internet governance",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/wsis_20_plus_resolved/",
+      "summary": "<h4>World Summit on the Information Society resolves the world needs a permanent forum to discuss how we manage the 'Net</h4> <p>The United Nations General Assembly on Wednesday reached consensus on a review of the world’s internet governance arrangements and preserved the current multi-stakeholder model that means governments are just one of many voices that debate the future of the internet.…</p>",
+      "published": "2025-12-18T04:45:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/08/22/shutterstock_un.jpg"
+    },
+    {
+      "title": "Micron says memory shortages are here for the foreseeable future",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/micron_q1_2026/",
+      "summary": "<h4>Even with its new fabs coming online, demand will exceed supply</h4> <p>Memory-maker Micron Technology has predicted that RAM shortages are here to stay, meaning higher prices for servers probably are, too.…</p>",
+      "published": "2025-12-18T02:41:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/03/17/shutterstock_micron_boise.jpg"
+    },
+    {
       "title": "ServiceNow unworried by Salesforce firing shots across its bow",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/servicenow_salesforce_itsm_retort/",
       "summary": "<h4>Believes it can translate workflow smarts into AI ROI</h4> <p>In October, Salesforce debuted Agentforce IT in a direct challenge to ServiceNow’s ITSM product, and analyst firm Forrester’s vice president and principal analyst Charles Betz rated it the <a href=\"https://www.theregister.com/2025/12/05/salesforce_agentforce_vs_servicenow/\" target=\"_blank\">“most credible threat”</a> ServiceNow has ever faced.…</p>",
@@ -256,6 +272,22 @@
       "published": "2025-12-17T23:28:05.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/12/17/shutterstockaieducation.jpg"
+    },
+    {
+      "title": "The ChatGPT app store is here",
+      "link": "https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt",
+      "summary": "On Wednesday evening, OpenAI launched an App Directory to browse all the tools currently available and opened its SDK for developers to build new interactive experiences that operate within the bot's UI. OpenAI CEO Sam Altman said last month that \"We are planning to build the obvious features that you would expect for a robust [&#8230;]",
+      "published": "2025-12-17T23:27:39-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Clipboard_12-17-2025_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Sony&#8217;s legal battle against Tencent&#8217;s Horizon ‘clone’ is already over",
+      "link": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
+      "summary": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has been dismissed with prejudice, according to a court document filed [&#8230;]",
+      "published": "2025-12-17T22:57:42-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Attacks pummeling Cisco AsyncOS 0-day since late November",
@@ -354,14 +386,6 @@
       "image_url": "https://regmedia.co.uk/2024/07/12/money_shutterstock.jpg"
     },
     {
-      "title": "NASA tries savin' MAVEN as Mars probe loses contact with Earth",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/nasa_maven_mars_probe_loses_contact/",
-      "summary": "<h4>Spacecraft was 'rotating in an unexpected manner' and might have shifted orbit</h4> <p>NASA is still trying to recontact the MAVEN Mars orbiter after it stopped responding earlier this month, with fragmentary tracking data hinting the craft may be tumbling and off its predicted trajectory.…</p>",
-      "published": "2025-12-17T16:42:22.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/02/03/mars_maven.jpg"
-    },
-    {
       "title": "Meta pauses third-party Horizon VR headsets program",
       "link": "https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os",
       "summary": "Meta has \"paused\" its program to license its VR operating system to other hardware companies so they could build their own headsets using the platform, as reported by Road to VR . With the program, announced in April 2024, Meta announced that it would be licensing the Quest OS headset - which, at the same [&#8230;]",
@@ -376,30 +400,6 @@
       "published": "2025-12-17T16:12:16-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2243421675.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Blockchain company Nomad to repay users under FTC deal after $186M cyberattack",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/nomad_ftc_settlement/",
-      "summary": "<h4>Regulator makes various additional demands over alleged cybersecurity failings</h4> <p>In proposing a settlement agreement, the Federal Trade Commission (FTC) says that Illusory Systems must repay users funds lost in a 2022 cyberattack.…</p>",
-      "published": "2025-12-17T16:03:39.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/11/19/shutterstock_blockchain_handshake_3.jpg"
-    },
-    {
-      "title": "You can snag a pair of the Beats Solo 4 headphones for under $100 right now",
-      "link": "https://www.theverge.com/gadgets/846609/beats-solo-4-wireless-headphones-deal-sale-2025",
-      "summary": "If you’re looking for a gadget to get as a last-minute Christmas gift, we’ve got your back. The Beats Solo 4 are among the best on-ear headphones we’ve tested in the last year or two, and they’re currently down to a new low of $79 ($120 off) in select colors at Walmart. If you prefer [&#8230;]",
-      "published": "2025-12-17T16:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Verge-Deals-Beats-Solo-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon has a new leader for its &#8216;AGI&#8217; group as it plays catch-up on AI",
-      "link": "https://www.theverge.com/news/846721/amazon-new-agi-leader-peter-desantis-rohit-prasad",
-      "summary": "Amazon's head of artificial general intelligence (AGI), Rohit Prasad, is leaving the company next year as it reaches an \"inflection point\" in its development of the technology, CEO Andy Jassy announced on Wednesday. As part of the change, Peter DeSantis, a senior vice president at Amazon Web Services, will helm a new division focused on [&#8230;]",
-      "published": "2025-12-17T15:28:29-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
