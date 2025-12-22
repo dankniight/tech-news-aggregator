@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T02:07:15.800957",
+  "lastUpdated": "2025-12-22T06:41:33.265578",
   "articles": [
     {
       "title": "A rough week for hardware companies",
@@ -16,14 +16,6 @@
       "published": "Sun, 21 Dec 2025 17:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/volvo-luminar-lidar.jpeg?resize=1200,877"
-    },
-    {
-      "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
-      "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
-      "summary": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
-      "published": "Sun, 21 Dec 2025 15:46:29 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572"
     },
     {
       "title": "As EU waters down 2035 EV goals, electric startups express concern",
@@ -170,6 +162,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-19-at-6.23.53-PM.png?resize=1200,805"
     },
     {
+      "title": "Waymo resumes service in San Francisco after robotaxis stall during blackout",
+      "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+      "summary": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+      "published": "Mon, 22 Dec 2025 03:24:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572"
+    },
+    {
       "title": "Google lobs lawsuit at search result scraping firm SerpApi",
       "link": "https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/",
       "summary": "Google says the lawsuit is its last resort.",
@@ -242,12 +242,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-1152x648.jpg"
     },
     {
+      "title": "There’s so much stolen data in the world, South Korea will require face scans to buy a SIM",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/",
+      "summary": "<h4>SK Telecom's epic infosec faill will cost it another $1.5 billion</h4> <p>South Korea’s government on Friday announced it will require local mobile carriers to verify the identity of new customers with facial recognition scans, in the hope of reducing scams.…</p>",
+      "published": "2025-12-22T04:11:51.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/01/13/shutterstock_facial_recognition.jpg"
+    },
+    {
       "title": "Through gritted teeth, Apple and Google allow alternative app stores in Japan",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/",
       "summary": "<h4>PLUS: Debian supports Chinese chips ; Hong Kong’s Christmas Karaoke crackdown; Asahi admits it should have prevented hack; And more!</h4> <p><strong>APAC in Brief</strong>  Google and Apple last week started to allow developers of mobile applications to distribute their wares through third-party app stores and accept payments from alternative payment providers.…</p>",
       "published": "2025-12-22T00:14:11.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2021/06/03/shutterstock_japan_flag.jpg"
+    },
+    {
+      "title": "Honey: all the news about PayPal’s alleged scam coupon app",
+      "link": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
+      "summary": "PayPal’s Honey browser extension has been lauded for years as an easy way to find coupons online. But some are calling it a “scam” after a deep dive from YouTuber MegaLag, who accused Honey of “stealing money from influencers,” and returned one year later with a second video that says Honey targeted minors, collected data [&#8230;]",
+      "published": "2025-12-21T22:46:20-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25821044/STKB307_STKB308_HONEY_PAYPAL_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Google sends Dark Web Report to its dead services graveyard",
@@ -261,7 +277,7 @@
       "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
       "link": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
       "summary": "A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak, according to Pacific Gas and Electric Company, but also caused another problem: stranded Waymo vehicles. Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams. Some people posted videos [&#8230;]",
-      "published": "2025-12-21T14:17:00-05:00",
+      "published": "2025-12-21T21:45:10-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2252297359.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
@@ -338,17 +354,9 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Our favorite stuff of 2025",
-      "link": "https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 110, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy holidays, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about mall Santas and malleable software and phone bans, wondering how I [&#8230;]",
-      "published": "2025-12-21T08:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Installer-110.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "title": "NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/",
-      "summary": "<h4>A rare case of deliberately trying to induce an outage</h4> <p>A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "summary": "<h4>A rare case of deliberately trying to induce an outage</h4> <p><strong>UPDATED</strong>  A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "published": "2025-12-21T07:40:41.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg"
@@ -392,14 +400,6 @@
       "published": "2025-12-19T18:16:06.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/12/19/shutterstock_257443981.jpg"
-    },
-    {
-      "title": "Sydney Uni data goes walkabout after criminals raid code repo",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/sydney_uni_breach/",
-      "summary": "<h4>Attackers helped themselves to historical personal info on 27K people</h4> <p>The University of Sydney is ringing around thousands of current and former staff and students after admitting attackers helped themselves to historical personal data stashed inside one of its online code repositories.…</p>",
-      "published": "2025-12-19T17:06:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/19/shutterstock_2546415627.jpg"
     }
   ]
 }
