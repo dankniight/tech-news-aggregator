@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T06:41:33.265578",
+  "lastUpdated": "2025-12-22T12:52:58.334101",
   "articles": [
     {
       "title": "A rough week for hardware companies",
@@ -242,9 +242,57 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-1152x648.jpg"
     },
     {
+      "title": "Around 1,000 systems compromised in ransomware attack on Romanian water agency",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/around_1000_systems_compromised_in/",
+      "summary": "<h4>On-site staff keep key systems working while all but one region battles with encrypted PCs</h4> <p>Romania's cybersecurity agency confirms a major ransomware attack on the country's water management administration has compromised around 1,000 systems, with work to remediate them still ongoing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-22T12:13:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/11/29/water_shutterstock.jpg"
+    },
+    {
+      "title": "AI is rewriting how power flows through the datacenter",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/ai_power_datacenter/",
+      "summary": "<h4>Rising rack densities are driving changes from grid connection to chip-level delivery</h4> <p>Power semiconductors are soon set to become as vital as GPUs and CPUs in datacenters, handling the rapidly increasing loads forecast for AI infrastructure.…</p>",
+      "published": "2025-12-22T11:16:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/04/07/datacenter.jpg"
+    },
+    {
+      "title": "Europe gets serious about cutting digital umbilical cord with Uncle Sam's big tech",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/europe_gets_serious_about_cutting/",
+      "summary": "<h4>Public bodies migrate in the bloc as hyperscalers claim sovereignty</h4> <p><strong>Feature</strong>  Europe’s quest for digital sovereignty is hampered by a 90 per cent dependency on US cloud infrastructure, claims Cristina Caffarra, a competition expert and a driving force behind the Eurostack initiative.…</p>",
+      "published": "2025-12-22T10:22:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/11/europe_versus_us.jpg"
+    },
+    {
+      "title": "The Roomba failed because it just kind of sucked",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/irobot_opinion/",
+      "summary": "<h4>Something messy happens when the cat hairs of reality meet the shiny hype of smart tech</h4> <p><strong>Opinion</strong>  Asimov's Three Laws of Robotics are trumped by accountancy's First Law of Finance: you must make money. iRobot, the company behind the Roomba robot vacuum cleaner, is in Chapter 11 bankruptcy, with its Chinese manufacturing partner-cum-creditor poised to pick over the bones.…</p>",
+      "published": "2025-12-22T09:30:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/01/29/shutterstock_irobot.jpg"
+    },
+    {
+      "title": "AI has pumped hyperscale capex, capacity – but how long can it last?",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/ai_hyperscale_capex_research/",
+      "summary": "<h4>Total operational capacity just keeps rising</h4> <p>Hyperscale datacenter operators nearly tripled their spending on infrastructure over the past three years in response to the AI craze, while the amount of operational capacity added each quarter has increased by 170 percent, with little sign so far of any slowdown.…</p>",
+      "published": "2025-12-22T08:27:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/19/shutetrstock_server_room.jpg"
+    },
+    {
+      "title": "New boss was bad, his attitude was ugly, so the tech team pranked him good",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/who_me/",
+      "summary": "<h4>Mousey wouldn’t work, wah-wah-wah</h4> <p><strong>Who, Me?</strong>  Welcome to Christmas week at <em>The Register</em>, an occasion we’ll celebrate with another installment of Who, Me? It's the reader-contributed column in which we share your stories of workplace mistakes and mischief.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-22T07:38:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/19/shutterstock_editorial_only_man_with_no_name.jpg"
+    },
+    {
       "title": "There’s so much stolen data in the world, South Korea will require face scans to buy a SIM",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/",
-      "summary": "<h4>SK Telecom's epic infosec faill will cost it another $1.5 billion</h4> <p>South Korea’s government on Friday announced it will require local mobile carriers to verify the identity of new customers with facial recognition scans, in the hope of reducing scams.…</p>",
+      "summary": "<h4>SK Telecom's epic infosec fail will cost it another $1.5 billion</h4> <p>South Korea's government on Friday announced it will require local mobile carriers to verify the identity of new customers with facial recognition scans, in the hope of reducing scams.…</p>",
       "published": "2025-12-22T04:11:51.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2021/01/13/shutterstock_facial_recognition.jpg"
@@ -352,54 +400,6 @@
       "published": "2025-12-21T08:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/",
-      "summary": "<h4>A rare case of deliberately trying to induce an outage</h4> <p><strong>UPDATED</strong>  A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-21T07:40:41.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg"
-    },
-    {
-      "title": "Tired of sky-high memory prices? Buckle up, we're in this for the long haul",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/20/memory_prices_dram/",
-      "summary": "<h4>We haven't even hit the peak, TechInsights tells El Reg</h4> <p>If you were hoping for some relief from stratospheric memory pricing, don't hold your breath. DRAM prices aren't expected to peak until at least 2026, TechInsights analyst James Sanders tells <em>El Reg.</em>…</p>",
-      "published": "2025-12-20T11:01:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/24/shutterstock_dram.jpg"
-    },
-    {
-      "title": "Infinite Machine e-scooter is like the offspring of a Vespa and a Cybertruck",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/infinite_machine_electric_scooter/",
-      "summary": "<h4>Custom-designed $10,000 scooter goes 65mph, has a 60-mile range, and runs silently</h4> <p><strong>hands on</strong>  Infinite Machine, a New York-based electric vehicle startup, began with a stolen Vespa. …</p>",
-      "published": "2025-12-19T21:04:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/13/infinite_machine_cropped.jpg"
-    },
-    {
-      "title": "ATM jackpotting gang accused of unleashing Ploutus malware across US",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/",
-      "summary": "<h4>Latest charges join the mountain of indictments facing alleged Tren de Aragua members</h4> <p>A Venezuelan gang described by US officials as \"a ruthless terrorist organization\" faces charges over alleged deployment of malware on ATMs across the country, illegally siphoning millions of dollars.…</p>",
-      "published": "2025-12-19T20:15:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/10/01/shutterstock_1253150422.jpg"
-    },
-    {
-      "title": "DOE recruits cloud, chip, and AI giants for Trump's Genesis Mission",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/doe_genesis_agreements/",
-      "summary": "<h4>But not Phil Collins, sadly</h4> <p>The US Department of Energy (DOE) has a Christmas gift for the AI industry in the shape of agreements for collaboration in the Trump administration's Genesis Mission, which aims to use AI to drive scientific discoveries.…</p>",
-      "published": "2025-12-19T19:03:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/23/energydepartment.jpg"
-    },
-    {
-      "title": "WatchGuard sounds alarm as critical Firebox flaw comes under active attack",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/watchguard_firebox/",
-      "summary": "<h4>Newly disclosed vulnerability already being abused, users urged to lock down exposed firewalls</h4> <p>WatchGuard is in emergency patch mode after confirming that a critical remote code execution flaw in its Firebox firewalls is under active attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-19T18:16:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/19/shutterstock_257443981.jpg"
     }
   ]
 }
