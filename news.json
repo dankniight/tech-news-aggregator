@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2025-12-22T18:37:18.597414",
+  "lastUpdated": "2025-12-23T02:02:33.865703",
   "articles": [
-    {
-      "title": "A rough week for hardware companies",
-      "link": "https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/",
-      "summary": "iRobot, Luminar, and Rad Power Bikes were very different companies, but they faced some similar challenges.",
-      "published": "Sun, 21 Dec 2025 22:16:44 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/12/j755020_2.jpeg?w=1010"
-    },
-    {
-      "title": "TechCrunch Mobility: Bankruptcy takes out two",
-      "link": "https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
-      "published": "Sun, 21 Dec 2025 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/volvo-luminar-lidar.jpeg?resize=1200,877"
-    },
     {
       "title": "Home Depot Deploys Havana-Style Sonic Weapon Against Day Laborers",
       "link": "https://futurism.com/future-society/home-depot-sonic-weapon",
@@ -34,36 +18,52 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/james-webb-planet-lemon-shaped.jpg?quality=85"
     },
     {
-      "title": "White House Confused by How Random YouTuber’s Stream Became Featured on Its Website",
-      "link": "https://futurism.com/future-society/white-house-random-youtuber-website",
-      "summary": "<p>\"I was just trying to stream with my buddies.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/white-house-random-youtuber-website\">White House Confused by How Random YouTuber&#8217;s Stream Became Featured on Its Website</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 21 Dec 2025 11:15:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/white-house-random-youtuber-website.jpg?quality=85"
-    },
-    {
-      "title": "Twitter User Uncovers Secret Link to Bizarre CDC Text File",
-      "link": "https://futurism.com/health-medicine/centers-disease-control-text-file",
-      "summary": "<p>\"This is like if you used a ouija board and the unabomber was on the other side.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/centers-disease-control-text-file\">Twitter User Uncovers Secret Link to Bizarre CDC Text File</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 21 Dec 2025 10:30:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/centers-disease-control-text-file.jpg?quality=85"
-    },
-    {
-      "title": "Police Warn of Robot Crime Wave",
-      "link": "https://futurism.com/artificial-intelligence/police-robot-crime-wave",
-      "summary": "<p>Autonomous vehicles, drones, and humanoid robots are coming for us all.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/police-robot-crime-wave\">Police Warn of Robot Crime Wave</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 21 Dec 2025 09:45:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/police-robot-crime-wave.jpg?quality=85"
-    },
-    {
       "title": "How Europe’s new carbon tax on imported goods will change global trade",
       "link": "https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/",
       "summary": "The new regulation arrives on New Year's Day.",
       "published": "Sat, 20 Dec 2025 12:15:03 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2192243260-1152x648.jpg"
+    },
+    {
+      "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
+      "link": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
+      "summary": "OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an \"LLM-based automated attacker.\"",
+      "published": "Mon, 22 Dec 2025 22:11:19 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/openai-prompt-injection-demo.png?w=1198"
+    },
+    {
+      "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
+      "link": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
+      "summary": "Alphabet is set to pay $4.75 billion in cash, plus debt, for the data center and clean energy developer.",
+      "published": "Mon, 22 Dec 2025 21:10:54 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024"
+    },
+    {
+      "title": "Trump admin halts 6 GW of offshore wind leases again",
+      "link": "https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/",
+      "summary": "The move is the latest attempt by the Trump administration to delay the construction of 6 gigawatts of offshore wind near a hotspot of data center development.",
+      "published": "Mon, 22 Dec 2025 20:52:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1067"
+    },
+    {
+      "title": "Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing",
+      "link": "https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/",
+      "summary": "It's the latest attempt by one major Hollywood superpower to acquire another.",
+      "published": "Mon, 22 Dec 2025 19:53:33 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-856460710.jpg?w=1024"
+    },
+    {
+      "title": "ChatGPT launches a year-end review like Spotify Wrapped",
+      "link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
+      "summary": "The experience includes awards, poems, and pictures referencing your year in chat.",
+      "published": "Mon, 22 Dec 2025 19:01:04 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/YYWC-Hero.png?resize=960,1200"
     },
     {
       "title": "CEO of SpaceX rival United Launch Alliance resigns",
@@ -98,6 +98,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/lyft-baidu.jpeg?resize=1200,852"
     },
     {
+      "title": "Korea Tests Ultra-Rugged Robot to Explore the Moon’s Mysterious Caves",
+      "link": "https://futurism.com/space/korea-moon-robot-wheels",
+      "summary": "<p>Wheels of steel.</p>\n<p>The post <a href=\"https://futurism.com/space/korea-moon-robot-wheels\">Korea Tests Ultra-Rugged Robot to Explore the Moon&#8217;s Mysterious Caves</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 22 Dec 2025 16:05:44 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/korea-moon-robot-wheels.jpg?quality=85"
+    },
+    {
       "title": "A comprehensive list of 2025 tech layoffs",
       "link": "https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/",
       "summary": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2025.",
@@ -106,20 +114,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs-e1684946575831.jpg?w=1200"
     },
     {
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "link": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-      "published": "Mon, 22 Dec 2025 15:43:15 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024"
+      "title": "Zuckerberg Already Blowing Up Relationship With New Head of AI He Paid Ten Zillion Dollars to Hire",
+      "link": "https://futurism.com/artificial-intelligence/zuckerberg-fall-out-new-ai-hire",
+      "summary": "<p>The most predictable falling out ever.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/zuckerberg-fall-out-new-ai-hire\">Zuckerberg Already Blowing Up Relationship With New Head of AI He Paid Ten Zillion Dollars to Hire</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 22 Dec 2025 15:18:35 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/zuckerberg-fall-out-new-ai-hire.jpg?quality=85"
     },
     {
-      "title": "TikTok Shop launches digital gift cards to challenge Amazon and eBay",
-      "link": "https://techcrunch.com/2025/12/22/tiktok-shop-launches-digital-gift-cards-to-challenge-amazon-and-ebay/",
-      "summary": "TikTok Shop has rolled out a new feature that allows users to purchase digital gift cards, making it easier to help friends and family buy from the millions of products on the app.",
-      "published": "Mon, 22 Dec 2025 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2084803237.jpg?resize=1200,675"
+      "title": "We Could Hitch a Ride to Unknown Frontiers on Super-Fast Interstellar Objects Like 3I/ATLAS",
+      "link": "https://futurism.com/space/hitch-ride-unknown-interstellar-object",
+      "summary": "<p>\"The discovery of interstellar objects over the past decade offers new opportunities for humanity to send time capsules to interstellar space.\"</p>\n<p>The post <a href=\"https://futurism.com/space/hitch-ride-unknown-interstellar-object\">We Could Hitch a Ride to Unknown Frontiers on Super-Fast Interstellar Objects Like 3I/ATLAS</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 22 Dec 2025 14:02:21 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/hitch-ride-unknown-interstellar-object.jpg?quality=85"
     },
     {
       "title": "Waymos Cause Traffic Jams Across City During Power Outage",
@@ -160,14 +168,6 @@
       "published": "Mon, 22 Dec 2025 09:10:13 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/trump-epstein_dbae23.jpg?quality=85"
-    },
-    {
-      "title": "Waymo resumes service in San Francisco after robotaxis stall during blackout",
-      "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
-      "summary": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
-      "published": "Mon, 22 Dec 2025 03:24:49 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572"
     },
     {
       "title": "Google lobs lawsuit at search result scraping firm SerpApi",
@@ -242,6 +242,70 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-1152x648.jpg"
     },
     {
+      "title": "France’s post office partly offline for over 12 hours after 'major network incident'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/la_poste_france_offline/",
+      "summary": "<h4>Might be Le Grinch, or a DDoS, but it's taking a while to fix</h4> <p>La Poste, France’s postal service, is largely offline, possibly due to an unexplained incident.…</p>",
+      "published": "2025-12-23T01:39:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/23/shutterstock_editorial_only_la_poste.jpg"
+    },
+    {
+      "title": "Japan loses another H3 launcher, plus the satnav bird it carried",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/jaxa_h3_failure_inquiry/",
+      "summary": "<h4>25 percent failure rate for JAXA's space truck, with the second stage again proving perilous</h4> <p>Japan’s Aerospace Exploration Agency (JAXA) has created a Special Task Force to investigate the failed launch of its H3 rocket on Monday.…</p>",
+      "published": "2025-12-23T00:09:43.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/03/07/supplied_jaxa_h3.jpg"
+    },
+    {
+      "title": "Poisoned WhatsApp API package steals messages and accounts",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/whatsapp_npm_package_message_steal/",
+      "summary": "<h4>And it's especially dangerous because the code works</h4> <p>A malicious npm package with more than 56,000 downloads masquerades as a working WhatsApp Web API library, and then it steals messages, harvests credentials and contacts, and hijacks users' WhatsApp accounts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-22T22:04:19.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/09/06/whatsapp_on_iphone_shutterstock_editorial_only.jpg"
+    },
+    {
+      "title": "Palo Alto's new Google Cloud deal boosts AI integration, could save on cloud costs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/palo_alto_google_cloud_ai_integration/",
+      "summary": "<h4>SEC filings show the outfit cut projected 2027 cloud purchase commitments by $114M</h4> <p>Security vendor Palo Alto Networks is expanding its Google Cloud partnership, saying it will move \"key internal workloads\" onto the Chocolate Factory's infrastructure. The outfit also claims it is tightening integrations between its security tools and Google Cloud to deliver what it calls a \"unified\" security experience. At the same time, Palo Alto may trim its own cloud purchase commitments.…</p>",
+      "published": "2025-12-22T21:19:51.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/22/shutterstock_1471977026.jpg"
+    },
+    {
+      "title": "SoftBank scrambling to come up with $22.5B in OpenAI funding before New Year",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/softbank_funding_openai/",
+      "summary": "<h4>Masayoshi Son better hope he made Santa's nice list</h4> <p>Japanese tech investment giant SoftBank needs to secure $22.5 billion before the end of the year to make good on its commitments to AI partner OpenAI.…</p>",
+      "published": "2025-12-22T20:28:03.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/05/12/shutterstock_masayoshi_son.jpg"
+    },
+    {
+      "title": "The FCC’s foreign drone ban is here",
+      "link": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
+      "summary": "The Federal Communications Commission has banned new drones made in foreign countries from being imported into the US unless the Department of Defense or the Department of Homeland Security recommends them. Monday's action added drones to the FCC's Covered List, qualifying foreign-made drones and drone parts, like those from DJI, as communications equipment representing \"unacceptable [&#8230;]",
+      "published": "2025-12-22T20:13:51-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/dji_neo2_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Spy turned startup CEO: 'The WannaCry of AI will happen'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/zafran_security_ceo/",
+      "summary": "<h4>Ah, the good old days when 0-day development took a year</h4> <p><strong>Interview</strong>  \"In my past life, it would take us 360 days to develop an amazing zero day,\" Zafran Security CEO Sanaz Yashar said.…</p>",
+      "published": "2025-12-22T19:39:58.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/22/sanaz_yashar.jpg"
+    },
+    {
+      "title": "The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband",
+      "link": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+      "summary": "Yesterday, Bari Weiss, the new editor-in-chief of CBS News, censored a segment of its newsmagazine 60 Minutes about men who had been deported to an El Salvador prison. Today, it's popping up online. 60 Minutes had already begun promoting the now-censored segment online. Because it was pulled so late, it seems that CBS missed at [&#8230;]",
+      "published": "2025-12-22T19:06:04-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2250986773.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Nvidia wasting no time to flog H200s in China",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/nvidia_flog_h200s_china/",
       "summary": "<h4>Shipments still waiting on approval from Beijing</h4> <p>Now that it can legally export them, Nvidia has reportedly informed its Chinese customers that it'll begin shipping H200s, one of its most potent graphics accelerators for AI training and inference, in time for Chinese New Year. One caveat: Beijing could spike the deal before then.…</p>",
@@ -258,12 +322,28 @@
       "image_url": "https://regmedia.co.uk/2022/11/17/pirate_shuttesrtock.jpg"
     },
     {
+      "title": "ChatGPT’s yearly recap sums up your conversations with the chatbot",
+      "link": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
+      "summary": "ChatGPT is joining the flood of apps offering yearly recaps for users. It's rolling out a \"Year in Review\" feature that will show you a bunch of stats - like how many messages you sent to the chatbot in 2025 - as well as give you an AI-generated pixel art-style image that encompasses some of [&#8230;]",
+      "published": "2025-12-22T17:12:11-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Conman and wannabe MI6 agent must repay £125k to romance scam victim",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/career_conman_and_wannabe_mi6/",
       "summary": "<h4>Judge says former most-wanted fugitive Mark Acklom will likely never return to the UK</h4> <p>The UK's Crown Prosecution Service (CPS) says a fraudster who claimed to be part of MI6 must repay £125,000 ($168,000) to a former love interest that he conned.…</p>",
       "published": "2025-12-22T16:37:09.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2015/01/09/shutterstock_spy.jpg"
+    },
+    {
+      "title": "Call of Duty, Titanfall developer Vince Zampella has died at age 55",
+      "link": "https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield",
+      "summary": "Vince Zampella, who had a major hand in developing franchises like Medal of Honor, Call of Duty, and Battlefield, died in a car crash on Sunday, NBC Los Angeles reports. He was 55. NBC Los Angeles and CBS Los Angeles report California Highway Patrol responded to a single-car crash at around 12:45PM local time on [&#8230;]",
+      "published": "2025-12-22T15:57:37-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1137086888.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "What the Linux desktop really needs to challenge Windows",
@@ -274,28 +354,36 @@
       "image_url": "https://regmedia.co.uk/2021/11/22/shutterstock_penguin_window.jpg"
     },
     {
-      "title": "EU offers UK early gift: Data adequacy until 2031",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/eu_uk_data_adequacy/",
-      "summary": "<h4>Relief for those dealing with data pipelines between the two, but move has its critics</h4> <p>The EU has extended its adequacy decision, allowing data sharing with and from the UK under the General Data Protection Regulation for at least six more years.…</p>",
-      "published": "2025-12-22T14:35:31.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/11/16/shutterstock_covert.jpg"
+      "title": "Bitcoin does cultural diplomacy in a dive bar",
+      "link": "https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar",
+      "summary": "Bitcoin culture, by nature, is anarchical and chaotic. It has to be, given the nature of Bitcoin itself and the people who adopted it: free-market libertarians who've gone all in on turning computer code into a form of money divorced from central banks, government intervention, and traceability. In short, it's the exact opposite culture of [&#8230;]",
+      "published": "2025-12-22T14:43:43-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258205_Inside_the_opening_of_Pubkey_DCs_first_bitcoin_bar_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Vultures rake our claws over COSMIC as Pop OS 24.04 LTS with 'Epoch 1' emerges",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/popos_2404_cosmic_epoch_1/",
-      "summary": "<h4>Even with the latest Gparted Live, it's not easy to dual boot – but it's worth the hassle</h4> <p><strong>Hands On</strong>  It's been a long time coming but version 1.0 of the first ground-up Rust-based desktop is here… and it is shaping up very well.…</p>",
-      "published": "2025-12-22T14:01:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/11/21/shutterstock_rust.jpg"
+      "title": "Pirate library rips 86 million of the most popular songs on Spotify",
+      "link": "https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download",
+      "summary": "Spotify says it has launched new protections against \"anti-copyright attacks\" after the open-source library / pirate activist group Anna's Archive announced it's ripped 86 million songs from the platform that it plans to make available in torrents, as reported earlier by Billboard. According to the group, \"We have archived around 86 million songs from Spotify, [&#8230;]",
+      "published": "2025-12-22T14:23:28-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951392/STK088_VRG_Illo_N_Barclay_3_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Around 1,000 systems compromised in ransomware attack on Romanian water agency",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/around_1000_systems_compromised_in/",
-      "summary": "<h4>On-site staff keep key systems working while all but one region battles with encrypted PCs</h4> <p>Romania's cybersecurity agency confirms a major ransomware attack on the country's water management administration has compromised around 1,000 systems, with work to remediate them still ongoing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-22T12:13:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/29/water_shutterstock.jpg"
+      "title": "Birdfy’s Hum Bloom captures 120fps slow motion footage of hummingbirds",
+      "link": "https://www.theverge.com/news/849140/birdfy-smart-birdfeeder-hum-bloom-hummingbird-feeder-vista-slow-motion",
+      "summary": "Ahead of CES 2026 getting underway in early January, Birdfy has announced two new camera-equipped smart bird feeders that can identify and capture visitors in slow motion. The Birdfy Hum Bloom is specifically designed to attract and record hummingbirds using a nectar bulb that mimics flowers they're naturally attracted to, while the Feeder Vista introduces [&#8230;]",
+      "published": "2025-12-22T14:21:53-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/birdfy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Indie Game Awards retracts Expedition 33 prizes due to generative AI",
+      "link": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro",
+      "summary": "Clair Obscur: Expedition 33 had earned another Game of the Year award by the Indie Game Awards last week, but the organization has since announced that the award would be retracted because developer Sandfall Interactive used generative AI during development. The Indie Game Awards also rescinded the Debut Game award given to Expedition 33. Here [&#8230;]",
+      "published": "2025-12-22T13:47:58-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/ss_483a27df5072beb3a4650634a764bda750fbcb82.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Netflix doesn&#8217;t stream its &#8216;Originals&#8217; forever, here are some that may leave in 2026",
@@ -308,98 +396,10 @@
     {
       "title": "The Beats Studio Pro headphones are $200 off today",
       "link": "https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales",
-      "summary": "Christmas Eve is in two days, and if you’ve got a problem with procrastination, it’s time to, well, stop procrastinating. There are still some really good deals to be gotten out there, some of which may arrive just in the nick. (Worse comes to worst, you can say it’s a New Year’s gift, right?) One [&#8230;]",
+      "summary": "Christmas Eve is in two days, and if you’ve got a problem with procrastination, it’s time to, well, stop procrastinating. There are still some really good deals to be gotten out there, some of which may arrive just in the nick. (Worse comes to worse, you can say it’s a New Year’s gift, right?) One [&#8230;]",
       "published": "2025-12-22T11:52:40-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24796016/DSCF2605.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Instacart scraps AI pricing tests that made some products more expensive",
-      "link": "https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight",
-      "summary": "Instacart is ending its AI-powered pricing tests, which led some users to see higher prices on certain products than others. \"Now, if two families are shopping for the same items, at the same time, from the same store location on Instacart, they see the same prices - period,\" Instacart writes in a blog post on [&#8230;]",
-      "published": "2025-12-22T11:32:17-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/instacart-logo-green.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI is rewriting how power flows through the datacenter",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/ai_power_datacenter/",
-      "summary": "<h4>Rising rack densities are driving changes from grid connection to chip-level delivery</h4> <p>Power semiconductors are soon set to become as vital as GPUs and CPUs in datacenters, handling the rapidly increasing loads forecast for AI infrastructure.…</p>",
-      "published": "2025-12-22T11:16:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/04/07/datacenter.jpg"
-    },
-    {
-      "title": "Chipwrecked",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud",
-      "summary": "The AI data center build-out, as it currently stands, is dependent on two things: Nvidia chips and borrowed money. Perhaps it was inevitable that people would begin using Nvidia chips to borrow money. As the craze has gone on, I have begun to worry about the weaknesses of the AI data center boom; looking deeper [&#8230;]",
-      "published": "2025-12-22T11:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258155_How_Nvidia_is_benefitting_from_chip-backed_loans_CVirginia11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Europe gets serious about cutting digital umbilical cord with Uncle Sam's big tech",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/europe_gets_serious_about_cutting/",
-      "summary": "<h4>Public bodies migrate in the bloc as hyperscalers claim sovereignty</h4> <p><strong>Feature</strong>  Europe’s quest for digital sovereignty is hampered by a 90 per cent dependency on US cloud infrastructure, claims Cristina Caffarra, a competition expert and a driving force behind the Eurostack initiative.…</p>",
-      "published": "2025-12-22T10:22:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/11/europe_versus_us.jpg"
-    },
-    {
-      "title": "The Roomba failed because it just kind of sucked",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/irobot_opinion/",
-      "summary": "<h4>Something messy happens when the cat hairs of reality meet the shiny hype of smart tech</h4> <p><strong>Opinion</strong>  Asimov's Three Laws of Robotics are trumped by accountancy's First Law of Finance: you must make money. iRobot, the company behind the Roomba robot vacuum cleaner, is in Chapter 11 bankruptcy, with its Chinese manufacturing partner-cum-creditor poised to pick over the bones.…</p>",
-      "published": "2025-12-22T09:30:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/01/29/shutterstock_irobot.jpg"
-    },
-    {
-      "title": "Samsung &#8216;Wide Fold&#8217; rumored to rival Apple’s foldable next year",
-      "link": "https://www.theverge.com/news/848934/samsung-wide-fold-apple-iphone-foldable-4-3",
-      "summary": "Apple's long-rumored foldable iPhone is set to arrive next year, and already faces some preemptive competition from Samsung. Korea's ET News reports that Samsung's upcoming \"Wide Fold\" is also set to launch in 2026, and will closely mirror the display size and 4:3 aspect ratio of Apple's first foldable. The machine-translated report says the Wide [&#8230;]",
-      "published": "2025-12-22T08:55:37-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257857_Samsung_Galaxy_Z_Fold_7_review_AJohnson_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "It’s finally time to retire the word ‘podcast’",
-      "link": "https://www.theverge.com/entertainment/842457/podcast-show-name-change",
-      "summary": "According to YouTube's 2025 Recap feature, the podcast I consumed the most on its platform was Seth Meyers' recurring segment \"A Closer Look\" on his show Late Night. Last year, I would have argued that this is not a podcast. That it is, in fact, a clip of a TV show. But in 2025, with [&#8230;]",
-      "published": "2025-12-22T08:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best books we read in 2025",
-      "link": "https://www.theverge.com/entertainment/837661/books-favorites-2025",
-      "summary": "These days when you want to engage with some media, you can choose from podcasts, videos, games, live performances - or books, one of the oldest and most popular ways to learn something new or escape (at least temporarily) from today's troubled world. We polled the staff of The Verge to find out what books [&#8230;]",
-      "published": "2025-12-22T08:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_BOOKS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Honey: all the news about PayPal’s alleged scam coupon app",
-      "link": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
-      "summary": "PayPal’s Honey browser extension has been lauded for years as an easy way to find coupons online. But some are calling it a “scam” after a deep dive from YouTuber MegaLag, who accused Honey of “stealing money from influencers,” and returned one year later with a second video that says Honey targeted minors, collected data [&#8230;]",
-      "published": "2025-12-21T22:46:20-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25821044/STKB307_STKB308_HONEY_PAYPAL_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
-      "link": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
-      "summary": "A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak, according to Pacific Gas and Electric Company, but also caused another problem: stranded Waymo vehicles. Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams. Some people posted videos [&#8230;]",
-      "published": "2025-12-21T21:45:10-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2252297359.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Some of our favorite gifts will cost you less than $25",
-      "link": "https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025",
-      "summary": "Holiday shopping on a budget can feel constricting, especially if you've been invited to a white elephant or need a last-minute stocking stuffer. The good news is that, with this guide, you can leave that stress behind. Whether you're aiming for something practical or fun, we've found plenty of great gifts for under $25 - [&#8230;]",
-      "published": "2025-12-21T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_UNDER_25_Holiday_Gift_Guide_AKrales_6301.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
