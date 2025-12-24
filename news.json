@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T02:00:37.448120",
+  "lastUpdated": "2025-12-24T06:40:49.052203",
   "articles": [
     {
       "title": "China just carried out its second reusable launch attempt in three weeks",
@@ -82,7 +82,7 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/openai-logo-1024x648.jpg"
     },
     {
-      "title": "This founder just landed funding for a second go at the same problem: Affordable custom home design",
+      "title": "This founder just landed funding for a second go at the same problem: affordable custom home design",
       "link": "https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/",
       "summary": "Drafted is now nearly five months old, and it's everything Atmos wasn't.",
       "published": "Tue, 23 Dec 2025 17:00:00 +0000",
@@ -242,6 +242,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/hitch-ride-unknown-interstellar-object.jpg?quality=85"
     },
     {
+      "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/",
+      "summary": "<h4>Plans move to Rust, with help from AI</h4> <p>Microsoft wants to translate its codebase to Rust, and is hiring people to make it happen.…</p>",
+      "published": "2025-12-24T03:39:45.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/04/28/shutterstock_rust_logo.jpg"
+    },
+    {
+      "title": "AWS adds hybrid cloud storage support for Nutanix’s AHV hypervisor",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/aws_storage_gateway_nutanix_ahv/",
+      "summary": "<h4>VMware's main challenger already embraces multiple storage options</h4> <p>Amazon Web Services has given Nutanix a lovely Christmas present: Support for its AHV hypervisor in hybrid cloud storage rigs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-24T02:35:44.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/24/shutterstock_hybrid_cloud.jpg"
+    },
+    {
       "title": "US punishes China’s ‘dominance’ of legacy chips with zero percent tariffs",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/us_china_chip_tariffs/",
       "summary": "<h4>President Trump previously threatened 100 percent tariffs, administration now plans something else starting in 2027</h4> <p><strong>World War Fee</strong>  The United States will impose tariffs on semiconductors imported from China, starting in 2027.…</p>",
@@ -368,22 +384,6 @@
       "published": "2025-12-23T13:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/kpop-demon-hunters.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/",
-      "summary": "<h4>Crucial early evolutionary step found, imaged, and ... amazingly ... works</h4> <p>Computer History Museum software curator Al Kossow has successfully retrieved the contents of the over-half-a-century old tape found at the University of Utah last month.…</p>",
-      "published": "2025-12-23T12:08:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/07/shutterstock_2264049837.jpg"
-    },
-    {
-      "title": "Oracle's new AI-enhanced support portal leaves users fuming",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/oracles_new_aienhanced_support_portal/",
-      "summary": "<h4>The company that bet the farm on AI said to have made things worse with AI</h4> <p>Oracle's new AI-powered support portal is frustrating customers and support engineers who are struggling to find the basics, such as old tickets, links to database patch programs and release schedules for current databases.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-23T11:48:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/01/18/shutterstock_wfh.jpg"
     },
     {
       "title": "DOJ appears to bungle Epstein Files redactions",
