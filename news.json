@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-12-24T18:36:19.167018",
+  "lastUpdated": "2025-12-25T02:02:46.302632",
   "articles": [
+    {
+      "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
+      "link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+      "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
+      "published": "Wed, 24 Dec 2025 22:03:16 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/1_byjKY2ta4_34GHPvmN9Suw.jpg?resize=1200,640"
+    },
+    {
+      "title": "The year data centers went from backend to center stage",
+      "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
+      "summary": "Data centers are no longer the boring tech issue they once were.",
+      "published": "Wed, 24 Dec 2025 20:16:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
+    },
     {
       "title": "The European startup market’s data doesn’t match its energy — yet",
       "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
@@ -74,14 +90,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/whatsapp-logo.jpg?resize=1200,800"
     },
     {
-      "title": "How to track Santa Claus this Christmas Eve using AI",
-      "link": "https://techcrunch.com/2025/12/24/how-to-track-santa-claus-this-christmas-eve-2022/",
-      "summary": "With tracking tools like the NORAD Santa Tracker and Google’s Santa Tracker, everyone can know when Father Christmas will arrive. Plus, there are now some new AI tools to bring the holiday magic.",
-      "published": "Wed, 24 Dec 2025 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-sb10069274b-007.jpg?resize=1200,800"
-    },
-    {
       "title": "SPEED Act passes in House despite changes that threaten clean power projects",
       "link": "https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/",
       "summary": "The bill would significantly curtail scope of the federal environmental review process.",
@@ -144,14 +152,6 @@
       "published": "Wed, 24 Dec 2025 09:02:18 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/ai-psychosis-startup-images.jpg?quality=85"
-    },
-    {
-      "title": "Can AI fix the operating room? This startup thinks so",
-      "link": "https://techcrunch.com/video/can-ai-fix-the-operating-room-this-startup-thinks-so/",
-      "summary": "There&#8217;s plenty of hype around AI and robots in healthcare, but the problem that&#8217;s actually costing hospitals money right now is operating room coordination.&#160;Two to four hours of OR time is lost every single day, not because of the surgeries themselves, but because of everything in&#160;between from&#160;manual scheduling and coordination chaos to guesswork about room [&#8230;]",
-      "published": "Wed, 24 Dec 2025 04:48:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Akara-Team.webp?resize=1200,623"
     },
     {
       "title": "China just carried out its second reusable launch attempt in three weeks",
@@ -242,6 +242,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/elon-musk-starship-explosion-endangered-airline-passengers.jpg?quality=85"
     },
     {
+      "title": "Salesforce’s ChatGPT integration is really about stopping customers from leaking their own data",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/salesforce_chatgpt/",
+      "summary": "<h4>Execs say DIY OpenAI connections risked pushing CRM data past the ‘trust boundary’</h4> <p>Salesforce users running Agentforce with ChatGPT Enterprise or Edu can now update CRM data directly from the bot, a move aimed at curbing home-built integrations that risk spilling data outside the company's controls.…</p>",
+      "published": "2025-12-24T21:56:22.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/24/shutterstock_2433498633.jpg"
+    },
+    {
+      "title": "AI faces closing time at the cash buffet",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/ai_spending_cooling_off/",
+      "summary": "<h4>Will businesses continue to invest in something that's shown so little return?</h4> <p><strong>opinion</strong>  It is the season of overindulgence, and no one has overindulged like the tech industry: this year, it has burned through roughly $1.5 trillion in AI, a level of spending usually reserved for wartime.…</p>",
+      "published": "2025-12-24T19:23:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/24/shutterstock_2208866323.jpg"
+    },
+    {
       "title": "Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/pentesters_reported_eurostar_chatbot_flaws/",
       "summary": "<h4>AI goes off the rails … because of shoddy guardrails</h4> <p>Researchers at Pen Test Partners found four flaws in Eurostar's public AI chatbot that, among other security issues, could allow an attacker to inject malicious HTML content or trick the bot into leaking system prompts. Their thank you from the company: being accused of \"blackmail.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -322,14 +338,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717639/247361_PS5_Pro_VPavic_40_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Keeping Windows and macOS alive past their sell-by date",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/freshen_up_old_os/",
-      "summary": "<h4>Practical steps to make an aging operating system usable into 2026</h4> <p><strong>Part 1</strong>  You can switch to running mostly FOSS without switching to Linux. First, though, give your OS a bit of TLC. We'll come back to what to do next in part two.…</p>",
-      "published": "2025-12-24T09:30:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/11/17/sad_mac_face.jpg"
-    },
-    {
       "title": "The best shows and movies to stream on Netflix in 2025",
       "link": "https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025",
       "summary": "Netflix has had an interesting year. Its ad tier, introduced last year, has grown significantly, and its live TV initiative has expanded to include not only weird one-offs like hot-dog-eating grudge matches but also WWE programming. Taking KPop Demon Hunters off Sony's hands for the business equivalent of $200 in a potato chip bag also [&#8230;]",
@@ -344,14 +352,6 @@
       "published": "2025-12-24T08:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/",
-      "summary": "<h4>Plans move to Rust, with help from AI</h4> <p>Microsoft wants to translate its codebase to Rust, and is hiring people to make it happen.…</p>",
-      "published": "2025-12-24T03:39:45.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/04/28/shutterstock_rust_logo.jpg"
     },
     {
       "title": "The Pluribus finale showed there&#8217;s a lot more to the story",
