@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-12-30T06:39:54.205885",
+  "lastUpdated": "2025-12-30T12:54:43.619215",
   "articles": [
+    {
+      "title": "It’s Starting to Feel a Lot Like Tesla’s Robotaxi Program Is Mostly Smoke and Mirrors",
+      "link": "https://futurism.com/advanced-transport/tesla-robotaxi-smoke-mirrors",
+      "summary": "<p>\"I've never seen a Robotaxi in Austin.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/tesla-robotaxi-smoke-mirrors\">It&#8217;s Starting to Feel a Lot Like Tesla&#8217;s Robotaxi Program Is Mostly Smoke and Mirrors</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 30 Dec 2025 07:00:00 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2025/12/tesla-robotaxi-smoke-mirrors.jpg?quality=85"
+    },
     {
       "title": "Meta just bought Manus, an AI startup everyone has been talking about",
       "link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
@@ -56,14 +64,6 @@
       "published": "Sat, 27 Dec 2025 10:00:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/max-space-station-expands-thunderbird.jpg?quality=85"
-    },
-    {
-      "title": "Google Rapidly Deploying Huge CO2 Battery Facilities That Store 200 Megawatt Hours of Power",
-      "link": "https://futurism.com/science-energy/google-co2-battery-facilities",
-      "summary": "<p>\"They can really plug and play this.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/google-co2-battery-facilities\">Google Rapidly Deploying Huge CO2 Battery Facilities That Store 200 Megawatt Hours of Power</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 27 Dec 2025 09:00:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2025/12/google-co2-battery-facilities-store-200-megawatt-hours-power.jpg?quality=85"
     },
     {
       "title": "US can’t deport hate speech researcher for protected speech, lawsuit says",
@@ -242,6 +242,30 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/blackhole4-1152x648-1760991049.jpg"
     },
     {
+      "title": "When the AI bubble pops, Nvidia becomes the most important software company overnight",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/how_nvidia_survives_ai_bubble_pop/",
+      "summary": "<h4>Want to survive the crash? Find another way to make money with GPUs</h4> <p>Today, Nvidia’s revenues are dominated by hardware sales. But when the AI bubble inevitably pops, the GPU giant will become the single most important software company in the world.…</p>",
+      "published": "2025-12-30T11:11:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/05/21/simon_sharwood_jensen_huang_nvidia_ceo.jpg"
+    },
+    {
+      "title": "Tis the season when tech leaders rub their crystal balls",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/tech_leaders_predictions_2026/",
+      "summary": "<h4>2026 is the year where AI must meet ROI in the enterprise, and the key to delivering it is data governance.</h4> <p>Leaders from Dell, Microsoft, Salesforce, ServiceNow, and Snowflake have released their 2026 predictions for AI in the workplace, and they agree that safeguards for AI agents and ROI are the top priorities for their customers.…</p>",
+      "published": "2025-12-30T10:00:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/12/29/shutterstock_crystal_ball.jpg"
+    },
+    {
+      "title": "We will be cruising at 35,000 feet and failing to update our Apache HTTP Server",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/update_apache_http_server/",
+      "summary": "<h4>Now replace the autopilot with Copilot</h4> <p><strong>Bork!Bork!Bork!</strong>  Bork can happen to the best of us, but flashing one's undercarriage at the boss of a compliance company is less than ideal, particularly at 35,000 feet in the air.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-30T09:45:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/05/20/shutterstock_plane.jpg"
+    },
+    {
       "title": "Korean telco failed at femtocell security, exposed customers to snooping and fraud",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/",
       "summary": "<h4>One cert, in plaintext, on thousands of devices, led to what looks like years of crime</h4> <p>South Korea’s Ministry of Science and ICT has found that local carrier Korea Telecom (KT) deployed thousands of badly secured femtocells, leading to an attack that enabled micropayments fraud and snooping on customers’ communications – maybe for years.…</p>",
@@ -308,7 +332,7 @@
     {
       "title": "GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
       "link": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
-      "summary": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Micha&#322; Kici&#324;ski, has acquired the digital storefront and its online gaming platform GOG Galaxy from CD Projekt - which he also co-founded - for $25.2 million. The [&#8230;]",
+      "summary": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its cofounder, Micha&#322; Kici&#324;ski, has acquired the digital storefront and its online gaming platform GOG Galaxy from CD Projekt - which he also cofounded - for $25.2 million. The [&#8230;]",
       "published": "2025-12-29T13:34:20-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -320,14 +344,6 @@
       "published": "2025-12-29T12:22:05-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/epilogue_sn_operator.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "How California built one of the world's biggest public-sector IT systems",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/fiscal_peoplesoft_california/",
-      "summary": "<h4>20 years, multiple delays, and millions of dollars later, FI$Cal is live – mostly</h4> <p>Since 2005, YouTube has gone from <a href=\"https://web.archive.org/web/20120706134045/http://www.usatoday.com/tech/news/techinnovations/2005-11-21-video-websites_x.htm\" target=\"_blank\">launching its first website</a> to serving up more than 100,000 years' worth of video content every day. During the same period, the State of California has gone from the idea of adopting a single ERP, HCM, and procurement platform to getting nearly all of its departments on board – although there are still a few stragglers.…</p>",
-      "published": "2025-12-29T12:03:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/12/15/california.jpg"
     },
     {
       "title": "How to tweak your online platform algorithms",
@@ -352,14 +368,6 @@
       "published": "2025-12-29T09:50:20-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/experimental-focal-lens-camera-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Europe's cloud challenge: Building an Airbus for the digital age",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/europes_cloud_challenge_building_an/",
-      "summary": "<h4>Countries that banded together to challenge Boeing in the air try to do the same to AWS, Microsoft, and Google on the ground</h4> <p><strong>Feature</strong>  More than half a century ago, a consortium of European aerospace businesses from the UK, France, Germany and Spain joined forces to take on America's Boeing. Fast forward to the 21st century and the countries are applying the same model needs to the world of cloud computing, giving the continent a fighting chance to reduce the digital domination of Big Tech.…</p>",
-      "published": "2025-12-29T09:23:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/05/20/shutterstock_plane.jpg"
     },
     {
       "title": "The best shows to watch on HBO Max from 2025",
@@ -392,14 +400,6 @@
       "published": "2025-12-29T08:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258220_Im_The_Verges_Senior_Internet_Typist_ask_me_anything_while_Nilays_away_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "When the lights went out, and the shooting started, Y2K started to feel all too real",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/on_call/",
-      "summary": "<h4>More millennial tech support tales from your fellow readers</h4> <p><strong>On Call Y2K</strong>  Welcome to a special festive season edition of On Call, in which we share readers' stories of working on the 31st of December 1999 – the moment the tech world held its breath and hoped years of Year 2000 bug remediation efforts would work.…</p>",
-      "published": "2025-12-29T07:26:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/23/shutterstock_y2k.jpg"
     }
   ]
 }
