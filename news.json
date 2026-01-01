@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T18:35:53.877593",
+  "lastUpdated": "2026-01-01T02:20:33.418935",
   "articles": [
     {
       "title": "Investors predict AI is coming for labor in 2026",
@@ -242,6 +242,30 @@
       "image_url": "https://futurism.com/wp-content/uploads/2025/12/scientists-doomsday-glacier.jpg?quality=85"
     },
     {
+      "title": "Nvidia DMs TSMC: please sir can I have some more? The Chinese are starved for H200s",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/china_nvidia_h200/",
+      "summary": "<h4>GPUzilla has reportedly received orders for more than two million units</h4> <p>With the sales ban lifted, Chinese tech giants, including ByteDance, are scrambling to secure orders for Nvidia's H200 graphics accelerators while they can. But will there be enough to satisfy demand?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2025-12-31T19:55:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/08/25/nvidia_shutterstock.jpg"
+    },
+    {
+      "title": "US Army seeks human AI officers to manage its battle bots",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/us_army_seeking_officers_willing/",
+      "summary": "<h4>What, weekend warriors from Silicon Valley not good enough?</h4> <p>The US Army has been all-in on becoming an AI-powered outfit for some time, and now it's creating a career path for officers to specialize in making its automation dreams come true. …</p>",
+      "published": "2025-12-31T19:36:25.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/05/15/army_shutterstock.jpg"
+    },
+    {
+      "title": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
+      "link": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
+      "summary": "Instagram boss Adam Mosseri is closing out 2025 with a 20-images-deep dive into what a new era of \"infinite synthetic content\" means as it all becomes harder and harder to distinguish from reality, and the old, more personal Instagram feed that he says has been \"dead\" for years. Last year, The Verge's Sarah Jeong wrote [&#8230;]",
+      "published": "2025-12-31T17:54:10-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330613/STK419_DEEPFAKE_CVIRGINIA_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "European Space Agency hit again as cybercrims claim 200 GB data up for sale",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/",
       "summary": "<h4>As in past incidents, ESA says the impact was limited to external systems</h4> <p>The European Space Agency has suffered yet another security incident and, in keeping with past practice, says the impact is limited. Meanwhile, miscreants boast that they've made off with a trove of data, including what they claim are confidential documents, credentials, and source code.…</p>",
@@ -346,22 +370,6 @@
       "image_url": "https://regmedia.co.uk/2019/08/27/shutterstock_twins.jpg"
     },
     {
-      "title": "iPad kids are more anxious, less resilient, and slower decision makers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/ipad_kids_are_more_anxious/",
-      "summary": "<h4>The solution? Lock up the screens and read to your kids</h4> <p>If you're thinking of plopping your infant in front of a screen to get some peace and quiet, you might want to reconsider - higher screen exposure in infancy was linked to longer decision times later on and higher anxiety symptoms in the teenage years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2025-12-30T20:40:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/06/20/shutterstock_father_and_baby_using_computer.jpg"
-    },
-    {
-      "title": "An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/mongodb_vuln_exploited_cve_2025_14847/",
-      "summary": "<h4>You didn't think you'd get to enjoy your time off without a major cybersecurity incident, did you?</h4> <p>A high-severity MongoDB Server vulnerability, for which proofs of concept emerged over Christmas week, is now under active exploitation, according to the US Cybersecurity and Infrastructure Security Agency.…</p>",
-      "published": "2025-12-30T19:27:54.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/11/28/shuttertsock_christmas.jpg"
-    },
-    {
       "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
       "link": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
       "summary": "Two former employees at cybersecurity firms - one of whom was a ransomware negotiator - have pleaded guilty to carrying out a series of ransomware attacks in 2023. The Department of Justice announced the guilty pleas on Tuesday, saying 40-year-old Ryan Goldberg and 36-year-old Kevin Martin extorted $1.2 million in Bitcoin from a medical device [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2025-12-30T10:47:34-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/anker521powerhouse.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The FCC has probably killed a plan to improve smart home security",
-      "link": "https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws",
-      "summary": "The US Cyber Trust Mark Program, an Energy Star-style certification for smart home security, could be winding down less than a year after it launched. Safety testing company UL Solutions has announced that it is stepping down as the program's lead administrator, just a few months after the Federal Communications Commission (FCC) began investigating it [&#8230;]",
-      "published": "2025-12-30T10:47:09-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKS495_Smart_Home_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
