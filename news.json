@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T18:35:15.897952",
+  "lastUpdated": "2026-01-05T02:21:22.803219",
   "articles": [
     {
       "title": "Marvel rings in new year with Wonder Man trailer",
@@ -8,6 +8,22 @@
       "published": "Thu, 01 Jan 2026 20:18:26 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/wonderman1-1152x648-1767297701.jpg"
+    },
+    {
+      "title": "Can a social app fix the ‘terrible devastation’ of social media?",
+      "link": "https://techcrunch.com/2026/01/04/can-a-social-app-fix-the-terrible-devastation-of-social-media/",
+      "summary": "Twitter co-founder Biz Stone and Pinterest co-founder Evan Sharp have raised new funding for a social media app that helps users \"plan with intention.\"",
+      "published": "Sun, 04 Jan 2026 21:39:23 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2215157615.jpg?resize=1200,800"
+    },
+    {
+      "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
+      "link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
+      "summary": "DoorDash seems to have confirmed a viral story about a driver using an AI-generated photo to lie about making a delivery.",
+      "published": "Sun, 04 Jan 2026 21:14:23 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/doordash-header.jpeg?resize=1200,800"
     },
     {
       "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
@@ -218,22 +234,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2204441337-1152x648.jpg"
     },
     {
-      "title": "Tesla annual sales decline 9% as it’s overtaken by BYD as global EV leader",
-      "link": "https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/",
-      "summary": "Tesla annual sales have fallen for the second year in a row, a drop fueled by the removal of the federal tax credit in the U.S. and competition from Chinese automakers.",
-      "published": "Fri, 02 Jan 2026 16:17:47 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/tesla-california-getty.jpg?resize=1200,831"
-    },
-    {
-      "title": "Nvidia’s AI empire: A look at its top startup investments",
-      "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
-      "summary": "Over the last two years, Nvidia has used its ballooning fortunes to invest in over 100 AI startups. Here are the giant semiconductor's largest investments.",
-      "published": "Fri, 02 Jan 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800"
-    },
-    {
       "title": "After half a decade, the Russian space station segment stopped leaking",
       "link": "https://arstechnica.com/space/2026/01/finally-some-good-news-for-russia-the-space-station-is-no-longer-leaking/",
       "summary": "\"NASA and Roscosmos continue to monitor and investigate the previously observed cracks.\"",
@@ -242,84 +242,92 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/51711929238_21004924c2_k-1152x648.jpg"
     },
     {
-      "title": "You can charge the battery in Belkin’s new Switch 2 power case without opening it",
-      "link": "https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery",
-      "summary": "Belkin has announced a new version of one of its first accessories for the Switch 2 at CES 2026. The Charging Case Pro for Nintendo Switch 2 carries forward the same 10,000mAh internal battery as the original, but it's been redesigned so you don't need to remove the battery to charge it, and you no [&#8230;]",
-      "published": "2026-01-04T12:00:00-05:00",
+      "title": "The new Ultraloq smart lock uses both your face and your palm to let you in",
+      "link": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading",
+      "summary": "Xthings is rolling into CES with a bunch of new gear, including two new smart locks and a few smart security cameras. It's definitely the Ultraloq Bolt Sense that's the most intriguing of the bunch, however. It's a relatively compact smart deadbolt that combines facial recognition with palm vein authentication for touch-free access, without resorting [&#8230;]",
+      "published": "2026-01-04T21:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_switch2pro_case1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Bolt-Sense-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch",
-      "link": "https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch",
-      "summary": "As convenient as 3-in-1 chargers can be, the vast majority of them work with a variety of smartphones and wireless earbuds, but only support one wearable: the Apple Watch. That's what sets the UltraCharge Modular Charging Dock that Belkin just announced at CES 2026 apart. Its design can accommodate different smartwatches, but you'll need to [&#8230;]",
-      "published": "2026-01-04T12:00:00-05:00",
+      "title": "Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s",
+      "link": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger",
+      "summary": "Ikea has released the most affordable version of its Sj&#246;ss USB-C chargers yet. Following an $8 30W version that launched in 2024 and a $35 65W option that debuted earlier this year, the new 20W Sj&#246;ss is now available online and through many of Ikea's physical US stores for just $3.99. That's considerably cheaper than [&#8230;]",
+      "published": "2026-01-04T20:54:29-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_dock1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ikea_sjoss_charger1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Belkin’s new HDMI adapter wirelessly connects to screens over 130 feet away",
-      "link": "https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play",
-      "summary": "Belkin has announced a new wireless display adapter that works without the need for a Wi-Fi network. The ConnectAir Wireless HDMI Display Adapter includes a USB-C transmitter you connect to devices like laptops, tablets, and phones, and an HDMI receiver that plugs into a display. You don't need to install drivers or stick to compatible [&#8230;]",
-      "published": "2026-01-04T12:00:00-05:00",
+      "title": "Withings thinks of its latest smart scale as a ‘longevity station’",
+      "link": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health",
+      "summary": "Withings is back at CES 2026 with another smart scale: the $599.95 Body Scan 2. This time, it's got an even tighter focus on cardiovascular and metabolic health. The Body Scan 2 contains eight electrodes on the scale itself, as well as an additional four electrodes within a retractable handle. This is similar to the [&#8230;]",
+      "published": "2026-01-04T20:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_hdmi_air1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/bodyscan2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Plaud updates the NotePin with a button",
-      "link": "https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces",
-      "summary": "Plaud has updated its compact NotePin AI recorder. The new NotePin S is almost identical to the original, except for one major difference: a button. It's joined by a new Plaud Desktop app for recording audio in online meetings, which is free to owners of any Plaud Note or NotePin. The NotePin S has the [&#8230;]",
-      "published": "2026-01-04T12:00:00-05:00",
+      "title": "The Shure MV88 USB-C stereo mic mounts directly to your phone",
+      "link": "https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026",
+      "summary": "Shure is updating its MV88 microphone for the modern age by adding a USB-C connector for mounting directly to your smartphone. The original MV88, released in 2015, had a Lightning connector, but obviously that's not practically useful anymore. The MV88+ added USB, but relied on a cable and didn't mount directly to a phone or [&#8230;]",
+      "published": "2026-01-04T20:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Doctor_Clip_Black.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/MV88_Hero_Laser_Green_iPhone-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "SwitchBot says its humanoid household robot can do your laundry",
-      "link": "https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026",
-      "summary": "SwitchBot is bringing a new household robot to CES 2026. The smart home company is launching the Onero H1, which it calls \"the most accessible AI household robot.\" The announcement follows last year's debut of its multitasking household bot - a robot vacuum mounted to a mobile platform. SwitchBot says the Onero is a general-use [&#8230;]",
-      "published": "2026-01-04T11:45:00-05:00",
+      "title": "RGB is the next big thing in OLED gaming monitors",
+      "link": "https://www.theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026",
+      "summary": "New OLED gaming monitors from top companies coming out this year should look clearer and crisper. LG Display and Samsung Display, which typically provide the actual panels used in gaming monitors, are finally lining up the colors of their subpixels in vertical RGB stripes - remember when we used to worry about Pentile OLED displays? [&#8230;]",
+      "published": "2026-01-04T20:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/onero-H1-3-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/63504.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "You can unlock SwitchBot’s first deadbolt smart lock with your face",
-      "link": "https://www.theverge.com/tech/852978/switchbot-lock-vision-deadbolt-facial-recognition",
-      "summary": "SwitchBot has announced a new deadbolt smart lock that can be unlocked with a glance. Like the Keypad Vision that SwitchBot launched last year, the new Lock Vision series unveiled at CES uses 3D facial recognition technology to enable \"near-instant unlocking\" after scanning your face. The Lock Vision is the first smart lock from SwitchBot [&#8230;]",
-      "published": "2026-01-04T11:45:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/SwitchBot-Vision-Lock.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "title": "Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/",
+      "summary": "<h4>Also, Korean Air hacked, EmEditor installer hijacked, a perfect 10 router RCE vuln, and more</h4> <p><strong>infosec in brief</strong>  The Trump administration has cleared a trio of individuals sanctioned by the Biden administration for involvement with the Intellexa spyware consortium behind the Predator surveillance tool, removing restrictions that had barred them from doing business with the US.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-04T19:02:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/12/02/donald_trump_thumbs_up_photo_via_shutterstock.jpg"
     },
     {
-      "title": "SwitchBot’s new E Ink display seems great for weather nerds",
-      "link": "https://www.theverge.com/news/853042/switchbot-weather-station-e-ink-screen",
-      "summary": "One of SwitchBot's most interesting products announced at CES 2026 is one of its most basic. The Weather Station, as it's called, is a 7.5-inch framed E Ink screen that's packed with weather-related data. Its interface shows info including the date, time, weather, a six-day weather forecast, and when the sunrise and sunset will happen, [&#8230;]",
-      "published": "2026-01-04T11:45:00-05:00",
+      "title": "Mammotion’s flagship robot lawnmower now uses lidar to map your yard",
+      "link": "https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026",
+      "summary": "Mammotion is upgrading its flagship robotic lawnmower with its new lidar-equipped navigation system, allowing it to generate a live 3D map of your yard while it mows. The company revealed the Luba 3 AWD, which comes with lidar sensors that can scan \"from the ground to the treetops\" with centimeter-level accuracy, during CES 2026. The [&#8230;]",
+      "published": "2026-01-04T19:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/weatherstation.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/luba-3-awd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "SwitchBot’s AI audio recorder is a ‘second brain’ for memories",
-      "link": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement",
-      "summary": "SwitchBot is joining the AI voice recorder bandwagon, introducing its own clip-on gadget that captures and organizes your every conversation. The SwitchBot AI MindClip announced at CES records spoken information from your daily life and work meetings and converts those conversations into summaries, to-do actions, and a personal audio memory database. This announcement follows competing [&#8230;]",
-      "published": "2026-01-04T11:45:00-05:00",
+      "title": "Lockin’s new vein-scanning smart lock has a video doorbell and recharges wirelessly",
+      "link": "https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell",
+      "summary": "While using a smart lock has a lot of positives, one of the negatives is having to deal with a battery that has unexpectedly gone dead. Lockin is introducing a smart lock that bypasses that problem: the V7 Max, which is powered by wireless optical charging. According to the company, the lock uses \"eye-safe optical [&#8230;]",
+      "published": "2026-01-04T19:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/SwitchBot-AI-MindClip-lifestyle-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/fancy-lock.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "SwitchBot’s AI-powered desk light looks like a pixel-art snow globe",
-      "link": "https://www.theverge.com/tech/853234/switchbot-obboto-ai-globe-desk-light-ces-2026",
-      "summary": "SwitchBot's new RGB desk light lets you put a teeny version of the Las Vegas Sphere in your home. The AI-powered Obboto lamp announced at CES is described by SwitchBot as an \"expressive globe light companion\" that can display preset animations and user-uploaded images and GIFs as pixel art, giving you a fun, customizable desktop [&#8230;]",
-      "published": "2026-01-04T11:45:00-05:00",
+      "title": "The Mui Board will support mmWave sleep tracking and gesture control",
+      "link": "https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control",
+      "summary": "The Mui Board is, as far as smart home controllers go, soothing and nondescript. There's no bright HD screen, or even anything obviously technological. It's a smooth piece of wood that gently glows when you interact with it. So it makes sense that Mui Lab would suggest it as an excellent option for the bedroom. [&#8230;]",
+      "published": "2026-01-04T19:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/SwitchBot-OBBOTO-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_image_02.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Motorola’s first book-style foldable leaks",
-      "link": "https://www.theverge.com/news/854016/motorola-razr-fold-leak",
-      "summary": "The Motorola Razr Fold is reportedly coming soon, according to prolific leaker Evan Blass. Details are scant at the moment. All the info we have is based on a single slide from a marketing deck that talks up the Fold's camera system and displays, and squeezes in a mention of AI for good measure before [&#8230;]",
-      "published": "2026-01-04T11:36:42-05:00",
+      "title": "Aliro arrives – the smart lock standard is set to launch this year",
+      "link": "https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc",
+      "summary": "The long-delayed smart lock standard Aliro is finally launching. The first specification, which standardizes NFC-based tap-to-unlock and UWB hands-free unlocking for smart locks, will arrive early this year, according to the Connectivity Standards Alliance (CSA). \"We're delighted to share that Aliro, the CSA's standardized credential and communication protocol that lets trusted smartphones and wearables act [&#8230;]",
+      "published": "2026-01-04T15:00:13-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/G90N5AwXcAA4ZAL.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25068620/Aliro_only.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "LG says its CLOiD home robot will be folding laundry and making breakfast at CES",
+      "link": "https://www.theverge.com/tech/854082/lg-cloid-home-robot-fold-laundry-ces",
+      "summary": "LG teased that it would be showing off a new robot for a \"zero labor home\" at CES. We now have a bit more detail on what to expect. The company says that its CLOiD home robot can fetch milk from the fridge, put a croissant in the oven, and even do some laundry, including [&#8230;]",
+      "published": "2026-01-04T14:13:01-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LG-CLOiD-Image-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat",
@@ -392,14 +400,6 @@
       "published": "2026-01-02T17:39:24.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/02/16/shutterstock_unix.jpg"
-    },
-    {
-      "title": "Google snaps up datacenter power biz Intersect while xAI plans more capacity",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/google_intersect_acquisition/",
-      "summary": "<h4>The AI era needs more juice</h4> <p>The AI-fueled datacenter boom continues apace, with Google parent Alphabet moving to acquire energy and infrastructure biz Intersect, while Elon Musk's xAI is reportedly planning to expand beyond its already huge complex in Tennessee.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-02T16:45:18.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/02/shutterstock_2530031367.jpg"
     }
   ]
 }
