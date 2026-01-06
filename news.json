@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-06T06:41:42.063543",
+  "lastUpdated": "2026-01-06T12:54:56.359751",
   "articles": [
+    {
+      "title": "Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry",
+      "link": "https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/",
+      "summary": "Narwal's new robo vacuum cleaner switches to quiet mode near a baby's crib.",
+      "published": "Tue, 06 Jan 2026 07:18:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/002.jpeg?resize=1200,800"
+    },
     {
       "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
       "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
@@ -178,14 +186,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/anthem-1152x648.jpg"
     },
     {
-      "title": "Hacktivist deletes white supremacist websites live onstage during hacker conference",
-      "link": "https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/",
-      "summary": "A hacker known as Martha Root broke in and deleted three white supremacist websites at the end of a talk during the annual hacker conference Chaos Communication Congress in Germany.",
-      "published": "Mon, 05 Jan 2026 18:57:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/martha-root-whitedate-hack-screenshot1-e1767638022105.png?resize=1200,784"
-    },
-    {
       "title": "That Video of Happy Crying Venezuelans After Maduro’s Kidnapping? It’s AI Slop",
       "link": "https://futurism.com/artificial-intelligence/venezuela-maduro-ai-misinformation",
       "summary": "<p>\"The people cry for their freedom, thanks to the United States for freeing us.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/venezuela-maduro-ai-misinformation\">That Video of Happy Crying Venezuelans After Maduro&#8217;s Kidnapping? It&#8217;s AI Slop</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -242,6 +242,94 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/tech-giants-pushing-ai-schools.jpg?quality=85"
     },
     {
+      "title": "Crypto wallet shop Ledger confirms customer data lifted in Global-e snafu",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/ledger_globale_breach/",
+      "summary": "<h4>Order and contact details accessed via ecommerce partner, and phishing has begun</h4> <p>Blockchain security biz Ledger says customer information was accessed in a breach at its ecommerce payment partner Global-e, and is warning that other brands using the platform may also be affected.…</p>",
+      "published": "2026-01-06T12:50:35.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/10/11/shutterstock_international_electronic_transactions_cryptocurrency.jpg"
+    },
+    {
+      "title": "UK urged to unplug from US tech giants as digital sovereignty fears grow",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/uk_urged_to_unplug_from/",
+      "summary": "<h4>Campaigners say Britain's dependence on Big Tech leaves critical systems exposed to political pressure</h4> <p>The Open Rights Group is warning politicians that the UK is leaning far too heavily on US tech companies to run critical systems, and wants the Cybersecurity and Resilience Bill to force a rethink.…</p>",
+      "published": "2026-01-06T12:20:52.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/07/15/plug_shutterstock.jpg"
+    },
+    {
+      "title": "Researchers poison stolen data to make AI systems return wrong results",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/ai_data_pollution_defense/",
+      "summary": "<h4>Wanted: Chief Disinformation Officer to pollute company knowledge graphs</h4> <p>Researchers affiliated with universities in China and Singapore have devised a technique to make stolen knowledge graph data useless if incorporated into a GraphRAG AI system without consent.…</p>",
+      "published": "2026-01-06T11:27:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/09/shutterstock_720129613.jpg"
+    },
+    {
+      "title": "Students bag extended Christmas break after cyber hit on school IT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/nuneaton_school_cyberattack/",
+      "summary": "<h4>Phones, email, and core systems knocked out at Higham Lane in Nuneaton</h4> <p>Students at a school in Warwickshire, England, have scored an extended Christmas break after a cyberattack crippled its IT systems, forcing classrooms to close and staff to summon government incident responders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-06T10:55:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/06/shutterstock_teenbedphone.jpg"
+    },
+    {
+      "title": "UK injects just £210M into cyber plan to stop Whitehall getting pwnd",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/government_cyber_action_plan/",
+      "summary": "<h4>Central government will supposedly be as secure as energy facilities and datacenters under new proposals</h4> <p>The UK today launches its Government Cyber Action Plan, committing £210 million ($282 million) to strengthen defenses across digital public services and hold itself to the same cybersecurity standards it's imposing on critical infrastructure operators.…</p>",
+      "published": "2026-01-06T10:37:45.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/01/28/shutterstock_parliament.jpg"
+    },
+    {
+      "title": "AI's grand promise: Less drudgery, more complexity, same (or lower) pay",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/ai_could_damage_your_health/",
+      "summary": "<h4>Workers face new mental health pressures as they shift from doing tasks to babysitting agentic AI</h4> <p>A report on occupational health warns that AI adoption may paradoxically increase workplace burdens rather than reduce them. As AI automates routine tasks, workers will shoulder new responsibilities: overseeing AI systems, catching their errors, and managing the resulting complexity – potentially triggering mental health pressures.…</p>",
+      "published": "2026-01-06T09:30:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/11/19/shutterstock_mental_health.jpg"
+    },
+    {
+      "title": "Meta hits pause on Ray-Ban Display expansion plans",
+      "link": "https://www.theverge.com/news/856216/meta-ray-ban-display-smart-glasses-international-expansion-paused",
+      "summary": "International customers who had their sights set on Meta's Ray-Ban Display smart glasses will have to wait a little longer. Meta announced that it's pausing plans to launch the glasses in France, Italy, Canada, and the UK by early 2026, due to \"unprecedented demand and limited inventory.\" \"Since launching last fall, we've seen an overwhelming [&#8230;]",
+      "published": "2026-01-06T07:46:32-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0670.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "One criminal, 50 hacked organizations, and all because MFA wasn't turned on",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/50_global_orgs_hacked/",
+      "summary": "<h4>Crim used infostealer to get cloud credentials</h4> <p>If you don't say \"yes way\" to MFA, the consequences can be disastrous. Sensitive data belonging to about 50 global enterprises is listed for sale – and, in some cases, has already been sold – on the dark web following a major infostealer campaign, with apparent victims including American utility engineering firm Pickett and Associates; Japan's homebuilding giant Sekisui House; and Spain's largest airline Iberia.…</p>",
+      "published": "2026-01-06T07:01:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/10/24/password_shutterstock.jpg"
+    },
+    {
+      "title": "No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot",
+      "link": "https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot",
+      "summary": "Microsoft has got the internet confused, again. Over the past couple of days posts on Reddit, Hacker News, and X have claimed Microsoft has rebranded Microsoft Office to Microsoft 365 Copilot. As much as Microsoft loves to shove its Copilot branding everywhere, Office hasn't been renamed to \"Microsoft 365 Copilot app.\" The confusion comes from [&#8230;]",
+      "published": "2026-01-06T05:48:29-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/officeicons.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Is this the folding iPhone&#8217;s creaseless display?",
+      "link": "https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces",
+      "summary": "Samsung Display showcased a new foldable OLED panel at CES that doesn't have a visible crease - something that currently blights every foldable phone on the market. This could be our first look at the panel used in the next generation of Samsung's Galaxy foldables and even the folding iPhone, given that Samsung Display is [&#8230;]",
+      "published": "2026-01-06T04:25:15-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Samsung-Display-crease-free-foldable-screen.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "This free feature helps make stolen Bosch e-bikes unsellable",
+      "link": "https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable",
+      "summary": "Stolen electric bikes built around Bosch motors will be harder to sell, service, and ride at the end of January. That's when Bosch is rolling a new digital theft feature that lets owners mark the bike as stolen in the Bosch Flow app - no subscription required. Bosch rolled out a similar feature for expensive [&#8230;]",
+      "published": "2026-01-06T03:57:59-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/251211_eb_mas_image_01.jpg?quality=90&#038;strip=all&#038;crop=18.399998876953,15.891146582885,63.60000222168,68.21770683423"
+    },
+    {
       "title": "Baby's got clack: HP pushes PC-in-a-keyboard for businesses with hot desks",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/hp_keyboard_pc/",
       "summary": "<h4>Notebook updates and enterprise tools also inbound from IT giant</h4> <p>At most businesses today, the IT department gives laptops out to employees so they can easily take their work with them. But HP has a different idea: build a Windows computer into a full-size keyboard and let you carry that around, plugging into monitors and mice along the way.…</p>",
@@ -256,6 +344,22 @@
       "published": "2026-01-06T03:30:14.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/01/05/amda.jpg"
+    },
+    {
+      "title": "These open-ear buds actually have decent noise reduction",
+      "link": "https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables",
+      "summary": "My biggest gripe about open-ear buds is that they're rotten for loud city commutes. Cue a pedantic audiophile pointing out that the whole premise of open-ear buds is to not block out sound. Yes, yes. But the unfortunate truth is that often means if you want open-ear buds for one situation, you'll have to buy [&#8230;]",
+      "published": "2026-01-06T03:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258194_Shokz_Open_Fit_Pro_CES_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "This desktop charger turns your iPhone into a robotic AI assistant",
+      "link": "https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant",
+      "summary": "CES is packed with AI companions and assistant robots this year, but the DeskMate from Loona is a clever take on the idea: it's a desktop charging hub, with three USB-C ports, one USB-A, and a MagSafe pad, that automatically activates an AI companion app when you attach your iPhone to the wireless charger. What's [&#8230;]",
+      "published": "2026-01-06T02:59:19-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/loona-deskmate-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
@@ -296,110 +400,6 @@
       "published": "2026-01-05T23:01:34.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/10/08/fab_work_panther_lake.jpg"
-    },
-    {
-      "title": "Nvidia says it's more than doubled the DGX Spark’s performance since launch",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/nvidia_dgx_spark_speed/",
-      "summary": "<h4>Just maybe not in the way you're thinking</h4> <p>Nvidia's DGX Spark and its GB10-based siblings are getting a major performance bump with the platform's latest software update, announced at CES on Monday. The AI mini PC is also getting access to the GPU giant's full suite of AI Enterprise apps, alongside integrations with RTX Remix and Hugging Face's Reachy robotics platform.…</p>",
-      "published": "2026-01-05T23:00:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/14/dgx_spark_front_view.jpg"
-    },
-    {
-      "title": "Every conference is an AI conference as Nvidia unpacks its Vera Rubin CPUs and GPUs at CES",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/ces_rubin_nvidia/",
-      "summary": "<h4>Teasing the next generation earlier than usual</h4> <p>CES used to be all about consumer electronics, TVs, smartphones, tablets, PCs, and – over the last few years – automobiles. Now, it's just another opportunity for Nvidia to peddle its AI hardware and software — in particular its next-gen Vera Rubin architecture.…</p>",
-      "published": "2026-01-05T22:39:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/03/18/nvidia_blackwell_ultra_cover.jpg"
-    },
-    {
-      "title": "Alienware is working on new slim and cheaper gaming laptops",
-      "link": "https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops",
-      "summary": "Dell-owned Alienware is looking to reach a wider swath of gamers, announcing at CES 2026 that it's working on two new laptops: one with a lower, entry-level price and one with an ultra-slim chassis. There aren't many details right now, as Alienware is only sharing some basic renders, and the behind-glass nonworking prototypes I saw [&#8230;]",
-      "published": "2026-01-05T22:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Alienware-Ultra-Slim-Entry-Level-Laptops-Coming-Soon.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "HP crammed an entire desktop computer into this keyboard",
-      "link": "https://www.theverge.com/news/851965/hp-crammed-an-entire-desktop-computer-into-this-keyboard",
-      "summary": "HP is announcing a new mini desktop computer at CES 2026, and the whole thing is housed in a compact keyboard. The Eliteboard G1a looks like a normal office keyboard with either a captive or detachable USB-C cable, but inside it is an AMD Ryzen AI 300-series chip, stereo speakers, RAM, storage, a fan, and [&#8230;]",
-      "published": "2026-01-05T22:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/HP-EliteBoard-G1a-Next-Gen-AI-PC_Lifestyle5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AMD’s new Ryzen 7 9850X3D makes the best gaming CPU even faster",
-      "link": "https://www.theverge.com/tech/855188/amd-ryzen-7-9850x3d-processor-boost-clock-announcement",
-      "summary": "AMD is introducing an improved version of its popular Ryzen 7 9800X3D processor today at CES. The new Ryzen 7 9850X3D offers up the same 8-core / 16-thread CPU as the 9800X3D, running at even faster boost clocks. \"We've fine-tuned our best gaming processor in the world and have increased the boost clocks to 5.6GHz,\" [&#8230;]",
-      "published": "2026-01-05T22:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_180529_1777_amd_0001.0.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AMD Ryzen AI 400 official: Will these laptop chips maintain AMD’s lead?",
-      "link": "https://www.theverge.com/tech/855343/amd-ryzen-ai-400-release-date",
-      "summary": "We were rightly skeptical of AMD's Ryzen AI 300 \"Strix Point\" laptop chips in 2024. Now they're in some of the very best laptops you can buy, arguably hitting the sweet spot of price, performance, and battery life. Today at CES, AMD is announcing its successor, the Ryzen AI 400 line - but there's nothing [&#8230;]",
-      "published": "2026-01-05T22:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Ryzen-AI-400-Series_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AMD heard you like powerful gaming portables — so here are new Strix Halo chips",
-      "link": "https://www.theverge.com/tech/855463/amd-strix-halo-ai-max-plus-388-392-handheld-gaming",
-      "summary": "AMD's Strix Halo, aka \"Ryzen AI Max,\" is a hugely expensive chip that includes some of the most powerful integrated graphics ever made. Though AMD initially marketed it more to AI workloads with its tremendous complement of up to 128GB of RAM, it's also inspired some unprecedented gaming designs - by far the most powerful [&#8230;]",
-      "published": "2026-01-05T22:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1379.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Claude devs complain about surprise usage limits, Anthropic blames expiring bonus",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/claude_devs_usage_limits/",
-      "summary": "<h4>Holiday hangover?</h4> <p>Software developers who use Anthropic's Claude Code have been sounding the alarm for the past few days about changes in the AI service's usage limits.…</p>",
-      "published": "2026-01-05T22:10:27.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/30/shutterstock_2568495377.jpg"
-    },
-    {
-      "title": "The Vivoo FlowPad turns menstrual pads into an at-home hormone test",
-      "link": "https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health",
-      "summary": "Wellness tech companies are increasingly interested in bodily fluids like blood, urine, sweat, and saliva. At CES 2026, it's time to add menstrual blood to that list, too. Health tech startup Vivoo just announced the FlowPad, a roughly $4 to $5 menstrual pad that doubles as an at-home hormone test for follicle-stimulating hormone (FSH). Users [&#8230;]",
-      "published": "2026-01-05T22:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FlowPad-Lifestyle-with-App.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "ServiceNow snags Microsoft vet to run legal amid M&amp;A spree",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/servicenow_hossein_nowbar_president_legal/",
-      "summary": "<h4>Hossein Nowbar waged antitrust battles and created new legal policies around AI for Redmond</h4> <p>ServiceNow has hired Hossein Nowbar as its chief legal officer and president, the company announced on Monday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-05T21:36:34.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/02/12/shutterstock_lawyer_armwrestle.jpg"
-    },
-    {
-      "title": "ChatGPT is playing doctor for a lot of US residents, and OpenAI smells money",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/chatgpt_playing_doctor_openai/",
-      "summary": "<h4>One man's failing healthcare system is another man's opportunity</h4> <p>About sixty percent of American adults have turned to AI like ChatGPT for health or healthcare in the past three months. Instead of seeing that as an indictment of the state of US healthcare, OpenAI sees an opportunity to shape policy. …</p>",
-      "published": "2026-01-05T21:00:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/01/16/doctor_shutterstock.jpg"
-    },
-    {
-      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/aws_price_increase/",
-      "summary": "<h4>An anomaly or the beginning of a new trend? My bet's on the latter</h4> <p>I've been tracking <a href=\"https://www.lastweekinaws.com/\" rel=\"nofollow\" target=\"_blank\">AWS</a> for a long time, with a specific emphasis on pricing. \"What happens if AWS hikes prices\" has always been something of a boogeyman, trotted out as a hypothetical to urge folks to avoid taking dependencies on a given provider.…</p>",
-      "published": "2026-01-05T20:41:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/02/24/cash.jpg"
-    },
-    {
-      "title": "Congrats, cybercrims: You just fell into a honeypot",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/resecurity_honeypot_shinyhunters/",
-      "summary": "<h4>A subpoena has been issued, apparently</h4> <p>Resecurity offered its \"congratulations\" to the Scattered Lapsus$ Hunters cybercrime crew for falling into its threat intel team's honeypot – resulting in a subpoena being issued for one of the data thieves. Meanwhile, the notorious extortionists have since removed their claims of gaining \"full access\" to the security shop's systems.…</p>",
-      "published": "2026-01-05T20:21:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/06/28/shutterstock_125429075.jpg"
     }
   ]
 }
