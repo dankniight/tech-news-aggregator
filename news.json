@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-01-07T12:56:37.237056",
+  "lastUpdated": "2026-01-07T18:39:50.090785",
   "articles": [
+    {
+      "title": "Anthropic reportedly raising $10B at $350B valuation",
+      "link": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
+      "summary": "Anthropic is reportedly in talks to raise $10 billion at a $350 billion valuation, marking its third mega-round in a year.",
+      "published": "Wed, 07 Jan 2026 18:36:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024"
+    },
+    {
+      "title": "Skylight debuts Calendar 2 to keep your family organized",
+      "link": "https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/",
+      "summary": "Skylight, known for its digital picture frame, has a new digital product that puts software and AI at the center.",
+      "published": "Wed, 07 Jan 2026 18:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/skylight-calendar.jpg?resize=1200,900"
+    },
+    {
+      "title": "Google Classroom’s new tool uses Gemini to transform lessons into podcast episodes",
+      "link": "https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
+      "summary": "Google Classroom now offers a Gemini-powered tool that generates podcast-style audio lessons for teachers to deepen engagement with students.",
+      "published": "Wed, 07 Jan 2026 17:55:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/05/usb-microphones-fullres-0663_preview.jpeg?resize=1200,800"
+    },
+    {
+      "title": "SteamOS continues its slow spread across the PC gaming landscape",
+      "link": "https://arstechnica.com/gaming/2026/01/steamos-continues-its-slow-spread-across-the-pc-gaming-landscape/",
+      "summary": "Legion Go 2 support announced at CES, wide support for Arm hardware coming soon.",
+      "published": "Wed, 07 Jan 2026 17:31:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/legiongo2-975x648.png"
+    },
+    {
+      "title": "Japanese nuclear plant operator fabricated seismic risk data",
+      "link": "https://arstechnica.com/science/2026/01/japanese-nuclear-plant-operator-fabricated-seismic-risk-data/",
+      "summary": "Company staff were very selective about how they modeled earthquake dangers.",
+      "published": "Wed, 07 Jan 2026 17:17:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-114113332-1024x648.jpg"
+    },
+    {
+      "title": "Caterpillar taps Nvidia to bring AI to its construction equipment",
+      "link": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
+      "summary": "Caterpillar is piloting Cat AI, a system of AI agents in one of its excavators built on Nvidia's physical AI platform.",
+      "published": "Wed, 07 Jan 2026 17:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/ces-caterpillar.jpg?resize=1200,900"
+    },
+    {
+      "title": "EVs remain a niche choice in the US, according to survey",
+      "link": "https://arstechnica.com/cars/2026/01/evs-remain-a-niche-choice-in-the-us-according-to-survey/",
+      "summary": "Consumers around the world told Deloitte what they want in their next vehicle.",
+      "published": "Wed, 07 Jan 2026 16:30:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2166522883-1152x648.jpg"
+    },
+    {
+      "title": "New battery idea gets lots of power out of unusual sulfur chemistry",
+      "link": "https://arstechnica.com/science/2026/01/new-battery-idea-gets-lots-of-power-out-of-unusual-sulfur-chemistry/",
+      "summary": "Rather than being used as a storage material, the sulfur gives up electrons.",
+      "published": "Wed, 07 Jan 2026 16:02:21 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2193745381-1024x648.jpg"
+    },
+    {
+      "title": "We have a fossil closer to our split with Neanderthals and Denisovans",
+      "link": "https://arstechnica.com/science/2026/01/weve-got-a-fossil-closer-to-our-split-with-neanderthals-and-denisovans/",
+      "summary": "A recent study suggests that North Africa may be a key place to look.",
+      "published": "Wed, 07 Jan 2026 16:00:23 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/excavation-1152x648.jpg"
+    },
+    {
+      "title": "How Quilt solved the heat pump’s biggest challenge",
+      "link": "https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/",
+      "summary": "Quilt's heat pumps are built containing a suite of sensors, which have delivered mountains of data that allow its engineers to wring added performance out of its systems.",
+      "published": "Wed, 07 Jan 2026 16:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Quilt-3ZoneOutdoorUnit-Horizontal.jpeg?resize=1200,661"
+    },
+    {
+      "title": "WhatsApp rolls out new group chat features, including member tags",
+      "link": "https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/",
+      "summary": "You can choose a tag that gives others in the group chat more context about who you are.",
+      "published": "Wed, 07 Jan 2026 15:31:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-07-at-9.57.01-AM.png?resize=1200,679"
+    },
+    {
+      "title": "Spotify now lets you share what you’re streaming in real time with friends",
+      "link": "https://techcrunch.com/2026/01/07/spotify-now-lets-you-share-what-youre-streaming-in-real-time-with-friends/",
+      "summary": "You can tap a friend’s listening activity to play the track, save it, open the menu, or react with an emoji.",
+      "published": "Wed, 07 Jan 2026 15:18:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Listening-Activity-Header.jpg?resize=1200,683"
+    },
+    {
+      "title": "Computer scientist Yann LeCun: “Intelligence really is about learning”",
+      "link": "https://arstechnica.com/ai/2026/01/computer-scientist-yann-lecun-intelligence-really-is-about-learning/",
+      "summary": "The AI pioneer talks about stepping down from Meta, limits of large language models.",
+      "published": "Wed, 07 Jan 2026 15:06:53 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lecun-1152x648.jpg"
+    },
+    {
+      "title": "Warner Bros. Discovery rejects Paramount’s bid again, calls it a ‘leveraged buyout’",
+      "link": "https://techcrunch.com/2026/01/07/warner-bros-discovery-rejects-paramounts-bid-again-calls-it-a-leveraged-buyout/",
+      "summary": "The studio's board unanimously rejected Paramount Skydance's revised $108.4 billion bid, calling the proposal a \"leveraged buyout\" that would saddle the company with $87 billion in debt.",
+      "published": "Wed, 07 Jan 2026 14:56:01 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GHQ1920x700-1661976603304.png?resize=1200,588"
+    },
+    {
+      "title": "Review: Stranger Things’ frustrating finale didn’t quite stick the landing",
+      "link": "https://arstechnica.com/culture/2026/01/review-stranger-things-frustrating-finale-didnt-quite-stick-the-landing/",
+      "summary": "Sure, there were many great moments, but in the end, they didn't add up to a satisfying whole.",
+      "published": "Wed, 07 Jan 2026 14:46:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/strangerTOP-1152x648-1767719183.jpg"
+    },
+    {
+      "title": "Spotify lowers monetization threshold for video podcasts",
+      "link": "https://techcrunch.com/2026/01/07/spotify-lowers-monetization-threshold-for-video-podcasts/",
+      "summary": "Spotify is dropping the minimum episode requirement to three, minimum consumption hours to 2,000, and engaged audience member threshold to 1,000 over the last 30 days.",
+      "published": "Wed, 07 Jan 2026 14:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Spotify-next-era-for-monetization-2026.jpg?resize=1200,675"
+    },
+    {
+      "title": "Terrified Investors Are Bracing for an AI Bubble “Reckoning”",
+      "link": "https://futurism.com/artificial-intelligence/investors-bracing-ai-bubble-reckoning",
+      "summary": "<p>\"Some of the valuations are insane.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/investors-bracing-ai-bubble-reckoning\">Terrified Investors Are Bracing for an AI Bubble &#8220;Reckoning&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 07 Jan 2026 13:08:55 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/01/investors-bracing-ai-bubble-reckoning.jpg?quality=85"
+    },
+    {
+      "title": "Here are the launches and landings we’re most excited about in 2026",
+      "link": "https://arstechnica.com/space/2026/01/here-are-the-launches-and-landings-were-most-excited-about-in-2026/",
+      "summary": "A lot could happen in space this year, but let's get real about what actually will.",
+      "published": "Wed, 07 Jan 2026 12:00:41 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/KSC-20250404-PH-KLS01_0031large-1152x648-1765385407.jpg"
+    },
     {
       "title": "Roblox now requires all users globally to complete age checks to access chat",
       "link": "https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/",
@@ -10,28 +154,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/roblox-heading.jpg?resize=1200,800"
     },
     {
-      "title": "Intel spinout Articul8 raises more than half of $70M round at $500M valuation",
-      "link": "https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/",
-      "summary": "Articul8's valuation for its current funding round marks a roughly fivefold increase since its Series A.",
-      "published": "Wed, 07 Jan 2026 12:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/articul8-founder-arun-k-subramaniyan.jpg?resize=1200,800"
+      "title": "Boston Dynamics’ Unnatural New Robot Demo Will Give You Goose Bumps",
+      "link": "https://futurism.com/robots-and-machines/boston-dynamics-new-demo",
+      "summary": "<p>You can't spell \"demonstration\" without \"demon.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/boston-dynamics-new-demo\">Boston Dynamics&#8217; Unnatural New Robot Demo Will Give You Goose Bumps</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 07 Jan 2026 11:11:21 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/01/boston-dynamics-new-demo.jpg?quality=85"
     },
     {
-      "title": "McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over",
-      "link": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
-      "summary": "Calacanis, General Catalyst's Taneja, and McKinsey's Sternfels discussed how AI is reshaping technology and the labor force.",
-      "published": "Wed, 07 Jan 2026 03:09:04 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-06-at-6.30.05-PM.png?resize=1200,684"
+      "title": "“Microslop”: Infuriating Video Sums Up How Microsoft Is Ruining Windows With AI",
+      "link": "https://futurism.com/artificial-intelligence/video-microsoft-ruining-windows-ai",
+      "summary": "<p>\"This is not a real company.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/video-microsoft-ruining-windows-ai\">&#8220;Microslop&#8221;: Infuriating Video Sums Up How Microsoft Is Ruining Windows With AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 07 Jan 2026 10:06:28 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/01/video-microsoft-ruining-windows-ai.jpg?quality=85"
     },
     {
-      "title": "Meta’s Manus news is getting different receptions in Washington and Beijing",
-      "link": "https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/",
-      "summary": "Chinese officials are reportedly reviewing whether the Meta deal violates technology export controls, potentially giving Beijing leverage it wasn't initially perceived as having.",
-      "published": "Wed, 07 Jan 2026 02:52:57 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800"
+      "title": "CIA Will Neither Confirm Nor Deny Records on 3I/ATLAS",
+      "link": "https://futurism.com/space/cia-neither-confirm-deny-records-3i-atlas",
+      "summary": "<p>What's the CIA hiding?</p>\n<p>The post <a href=\"https://futurism.com/space/cia-neither-confirm-deny-records-3i-atlas\">CIA Will Neither Confirm Nor Deny Records on 3I/ATLAS</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 07 Jan 2026 08:55:30 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/01/cia-neither-confirm-deny-records-3i-atlas.jpg?quality=85"
     },
     {
       "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
@@ -42,108 +186,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/razr-fold-1152x648.jpg"
     },
     {
-      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
-      "link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "summary": "CES 2026&#160;is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days&#160;occupied by&#160;press conferences from the likes of Nvidia, Sony, and AMD&#160;and previews from Sunday’s Unveiled event.&#160; As has been the case for the past two years at CES, AI is at the forefront of [&#8230;]",
-      "published": "Tue, 06 Jan 2026 22:47:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024"
-    },
-    {
       "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
       "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
       "summary": "The most familiar, full-fledged PC experience you can get from a keyboard.",
       "published": "Tue, 06 Jan 2026 22:40:08 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/eliteboard-1152x648.jpg"
-    },
-    {
-      "title": "Wearable health devices could generate a million tons of e-waste by 2050",
-      "link": "https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/",
-      "summary": "The most surprising part is that the plastic isn't the biggest problem.",
-      "published": "Tue, 06 Jan 2026 22:34:40 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-06-at-2.17.08-PM.png?w=814"
-    },
-    {
-      "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
-      "link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
-      "summary": "When fake content goes viral, the damage has already been done, even if the post is debunked.",
-      "published": "Tue, 06 Jan 2026 22:23:39 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/reddit-ipo-v2.jpg?resize=1200,675"
-    },
-    {
-      "title": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
-      "link": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
-      "summary": "Nvidia's only GeForce announcements this year were about software improvements.",
-      "published": "Tue, 06 Jan 2026 21:56:18 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/consumer-ces-umbrella-blog-1280x680-1-1152x648.jpg"
-    },
-    {
-      "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
-      "link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
-      "summary": "\"Jamming will block all communications,\" including 911 calls, CTIA tells FCC.",
-      "published": "Tue, 06 Jan 2026 21:11:54 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-1152x648-1767732268.jpg"
-    },
-    {
-      "title": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M",
-      "link": "https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/",
-      "summary": "Mentee Robotics was co-founded by Mobileye president Amnon Shashua.",
-      "published": "Tue, 06 Jan 2026 21:10:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Menteerobotics.jpg?resize=1200,800"
-    },
-    {
-      "title": "xAI says it raised $20B in Series E funding",
-      "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
-      "summary": "Nvidia is among the many investors, but xAI has not disclosed if these investments come in the form of equity or debt.",
-      "published": "Tue, 06 Jan 2026 20:57:16 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024"
-    },
-    {
-      "title": "California lawmaker proposes a four-year ban on AI chatbots in kids’ toys",
-      "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
-      "summary": "“Our children cannot be used as lab rats for Big Tech to experiment on,” Senator Steve Padilla said. He just introduced a bill to ban AI chatbots in toys until safety regulations are developed.",
-      "published": "Tue, 06 Jan 2026 20:22:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2226429342.jpg?w=1024"
-    },
-    {
-      "title": "Dell’s XPS revival is a welcome reprieve from the “AI PC” fad",
-      "link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/",
-      "summary": "Dell moves from pushing \"AI PCs\" and back to what matters in laptops.",
-      "published": "Tue, 06 Jan 2026 19:55:25 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/XPS-16-1152x648-1767726799.jpeg"
-    },
-    {
-      "title": "News orgs win fight to access 20M ChatGPT logs. Now they want more.",
-      "link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
-      "summary": "OpenAI's loss in privacy fight could lead to sharing even more deleted chats.",
-      "published": "Tue, 06 Jan 2026 18:59:21 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1322146218-1152x648.jpg"
-    },
-    {
-      "title": "Appeals court agrees that Congress blocked cuts to research costs",
-      "link": "https://arstechnica.com/science/2026/01/appeals-court-upholds-block-on-one-of-trumps-cuts-to-research-funds/",
-      "summary": "The Trump admin can't arbitrarily set university reimbursements to a low flat rate.",
-      "published": "Tue, 06 Jan 2026 18:05:05 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2247954039-1152x648-1767719824.jpg"
-    },
-    {
-      "title": "Nvidia’s new G-Sync Pulsar monitors target motion blur at the human retina level",
-      "link": "https://arstechnica.com/gaming/2026/01/nvidias-new-g-sync-pulsar-monitors-target-motion-blur-at-the-human-retina-level/",
-      "summary": "Four new monitors promise \"effective motion clarity of a theoretical 1,000 Hz monitor.\"",
-      "published": "Tue, 06 Jan 2026 17:32:14 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/pulsar2-1152x648-1767719933.png"
     },
     {
       "title": "New Law Would Prevent Trump Officials From Invading a Country and Profiting by Placing Bets on Polymarket",
@@ -154,28 +202,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/insider-trading-trump-prediction.jpg?quality=85"
     },
     {
-      "title": "Ørsted seeks injunction against US government over project freeze",
-      "link": "https://arstechnica.com/tech-policy/2026/01/orsted-seeks-injunction-against-us-government-over-project-freeze/",
-      "summary": "Trump administration had suspended Danish group’s work on major wind farm off coast of Rhode Island.",
-      "published": "Tue, 06 Jan 2026 15:55:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ftcms_ccff82e2-1b3f-4dd6-af31-3b7bbfffc992.avif"
-    },
-    {
       "title": "Live Coverage: Is Grok Still Being Used to Create Nonconsensual Sexual Images of Women and Girls?",
       "link": "https://futurism.com/artificial-intelligence/live-grok-nonconsensual-images",
       "summary": "<p>We're following whether Elon Musk and his companies, X and xAI, make any meaningful change to stem the tide of likely-illegal AI deepfakes on X — content that's being generated via Musk's own chatbot, Grok.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/live-grok-nonconsensual-images\">Live Coverage: Is Grok Still Being Used to Create Nonconsensual Sexual Images of Women and Girls?</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 06 Jan 2026 15:49:50 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/live-grok-nonconsensual-images.jpg?quality=85"
-    },
-    {
-      "title": "Magneto, Xavier reunite in new Avengers: Doomsday teaser",
-      "link": "https://arstechnica.com/culture/2026/01/latest-avengers-doomsday-teaser-highlights-x-men/",
-      "summary": "\"The question isn’t ‘are you prepared to die?’ The question is ‘who will you be when you close your eyes?’”",
-      "published": "Tue, 06 Jan 2026 15:49:36 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/avenge2-1152x648-1767712126.jpg"
     },
     {
       "title": "Tesla Loses Trademark to “Cybercab” Due to Its Own Staggering Incompetence",
@@ -210,196 +242,164 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/court-hallucinating-ai-ready-deployed.jpg?quality=85"
     },
     {
-      "title": "ChatGPT Gave Teen Advice to Get Higher on Drugs Until He Died",
-      "link": "https://futurism.com/artificial-intelligence/chatgpt-teenager-drug-overdose",
-      "summary": "<p>\"Yes — 1.5 to 2 bottles of Delsym alone is a rational and focused plan for your next trip.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/chatgpt-teenager-drug-overdose\">ChatGPT Gave Teen Advice to Get Higher on Drugs Until He Died</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 06 Jan 2026 11:18:10 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/01/chatgpt-teenager-drug-overdose.jpg?quality=85"
+      "title": "ESA calls cops as crims lift off 500 GB of files, say security black hole still open",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/european_space_agency_breach_criminal_probe/",
+      "summary": "<h4>Two weeks, two major data leaks … not a good look for the European Space Agency</h4> <p><strong>exclusive</strong>  The European Space Agency on Wednesday confirmed yet another massive security breach, and told <em>The Register</em> that the data thieves responsible will be subject to a criminal investigation. And this could be a biggie.…</p>",
+      "published": "2026-01-07T18:02:35.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/10/06/esa_aliens_observed.jpg"
     },
     {
-      "title": "Chinese Fusion Reactor Achieves Plasma Density Previously Thought to Be Impossible",
-      "link": "https://futurism.com/science-energy/china-fusion-artificial-sun",
-      "summary": "<p>They just shattered the gas ceiling. </p>\n<p>The post <a href=\"https://futurism.com/science-energy/china-fusion-artificial-sun\">Chinese Fusion Reactor Achieves Plasma Density Previously Thought to Be Impossible</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 06 Jan 2026 10:24:26 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/01/china-fusion-artificial-sun.jpg?quality=85"
+      "title": "Stalkerware slinger pleads guilty for selling snooper software to suspicious spouses",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/stalkerware_slinger_pleads_guilty/",
+      "summary": "<h4>pcTattletale boss Bryan Fleming faces up to 15 years in prison when sentenced later this year</h4> <p>The US government has secured a guilty plea from a stalkerware maker in federal court, marking just the second time in more than a decade that the US has managed to prosecute a consumer spyware vendor successfully. …</p>",
+      "published": "2026-01-07T17:32:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/06/14/handcuffs_shutterstock.jpg"
     },
     {
-      "title": "Tesla Accused of Killing Family, Plus Their Dog, by Steering Vehicle Head-on Into Oncoming Semi-Truck",
-      "link": "https://futurism.com/advanced-transport/lawsuit-tesla-kills-family-semi-truck",
-      "summary": "<p>This is horrifying.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/lawsuit-tesla-kills-family-semi-truck\">Tesla Accused of Killing Family, Plus Their Dog, by Steering Vehicle Head-on Into Oncoming Semi-Truck</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 06 Jan 2026 09:41:10 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/01/lawsuit-tesla-kills-family.jpg?quality=85"
+      "title": "FAA signs radar deals to drag US air traffic control out of the 1980s",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/faa_radar_atc_deals/",
+      "summary": "<h4>RTX and Indra land contracts as long-delayed overhaul moves ahead</h4> <p>The US government has announced contracts for new radar infrastructure as part of its long-running effort to replace the country's aging air traffic control system.…</p>",
+      "published": "2026-01-07T17:24:58.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/07/25/shutterstock_atc.jpg"
     },
     {
-      "title": "Woman Hacks “Tinder for Nazis,” Tricks the Racist Users Into Falling in Love With AI Chatbots",
-      "link": "https://futurism.com/artificial-intelligence/tinder-for-nazis-hacked",
-      "summary": "<p>\"Show interest in traditional family roles and heritage, using an approachable tone with a mix of warmth and conviction.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/tinder-for-nazis-hacked\">Woman Hacks &#8220;Tinder for Nazis,&#8221; Tricks the Racist Users Into Falling in Love With AI Chatbots</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 06 Jan 2026 08:43:52 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/01/tinder-for-nazis-hacked.jpg?quality=85"
+      "title": "Historic NASA test towers face their final countdown",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/nasa_test_stand_demolition/",
+      "summary": "<h4>Apollo-era Saturn V and Shuttle stands set for controlled demolition as Artemis ramps up</h4> <p>With less than a month to go until NASA attempts to send astronauts around the Moon, the agency is demolishing facilities that got it there the first time around.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-07T16:55:48.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/07/t-tower.jpg"
+    },
+    {
+      "title": "Luggable datacenter: startup straps handles to server with 4 H200 GPUs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/what_do_you_call_4/",
+      "summary": "<h4>Who can lift a 77-pound box into the overhead?</h4> <p>Fancy having an AI system packed with Nvidia H200 GPUs that you can take with you from place to place? According to hardware maker Odinn, now you can, so long as you don't mind carrying a 35 kg (77 pound) box around.…</p>",
+      "published": "2026-01-07T16:21:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/06/shutterstock_667760623.jpg"
+    },
+    {
+      "title": "Microsoft scraps Exchange Online spam clamp after customers cry foul",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/exchange_online_recipient_rate/",
+      "summary": "<h4>Negative feedback sinks Redmond's plan to cap outbound email recipients</h4> <p>Microsoft has backed away from planned changes to Exchange Online after customers objected to limits designed to curb outbound email abuse.…</p>",
+      "published": "2026-01-07T15:25:50.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/02/02/shutterstock_email_overload.jpg"
+    },
+    {
+      "title": "Virginia's datacenter tax breaks cost state $1.6B in 2025",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/datacenter_tax_breaks_virginia/",
+      "summary": "<h4>Trillion-dollar internet giants don't need freebies, watchdog warns, as giveaways double in a year</h4> <p>The US state of Virginia forfeited $1.6 billion in tax revenue through datacenter exemptions in fiscal 2025 – up 118 percent on the prior year – as the AI-driven construction boom accelerates.…</p>",
+      "published": "2026-01-07T13:59:00.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/01/19/money_shutterstock.jpg"
+    },
+    {
+      "title": "GNOME dev gives fans of Linux's middle-click paste the middle finger",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/gnome_middle_click_paste/",
+      "summary": "<h4>Proposal targets long-standing behavior as 'an X11ism'</h4> <p><strong>Opinion</strong>  Ever since Linux got a graphical desktop, you could middle-click to paste – but if GNOME gets its way, that's going away soon, and from Firefox too.…</p>",
+      "published": "2026-01-07T13:40:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/09/06/finger_shutterstock.jpg"
+    },
+    {
+      "title": "Amazon&#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay",
+      "link": "https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch",
+      "summary": "Amazon is launching a revamped version of its smart shopping cart, which it plans to bring to dozens of Whole Foods locations by the end of this year, according to an announcement on Wednesday. The new Dash Cart features a \"more responsive\" item scanner that's now located next to the built-in display, along with a [&#8230;]",
+      "published": "2026-01-07T13:36:05-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/amazon-dash-cart-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Fujifilm’s new instant camera captures video with vintage effects",
+      "link": "https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects",
+      "summary": "Fujifilm is expanding its hybrid instant camera line with the new Instax Mini Evo Cinema that adds the ability to capture video clips up to 15 seconds long. The Mini Evo Cinema also features a unique design inspired by the vintage Fujica Single-8 8mm film camera that Fujifilm introduced in 1965. It will be released [&#8230;]",
+      "published": "2026-01-07T13:29:15-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/fujifilm1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now",
+      "link": "https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale",
+      "summary": "The holidays — and the copious amounts of binge-watching that come with them — are very much behind us at this point, but that doesn’t mean there won’t be time to catch up on the movies from last year (and beyond) you might have missed. Thankfully, Amazon has brought back one of the better promos [&#8230;]",
+      "published": "2026-01-07T13:26:48-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/f1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Earlier Horizon rollout could widen net for quashed Post Office convictions",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/post_office_horizon_rollout/",
+      "summary": "<h4>Committee told shifting timelines could alter automatic reversals in UK's historic Fujitsu computing scandal</h4> <p>The Post Office's Horizon computer system may have been deployed earlier than thought, potentially affecting which convictions get automatically quashed under legislation introduced to speed up justice in one of the biggest scandals in recent British history, MPs heard yesterday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-07T13:15:02.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/10/17/shutterstock_postofficesign.jpg"
+    },
+    {
+      "title": "Dell admits consumers don’t care about AI PCs",
+      "link": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments",
+      "summary": "Dell has revealed that consumers aren't buying PCs for AI features right now. In an interview with PC Gamer ahead of CES, Dell has made it clear its 2026 products aren't all about being AI-first, and it's moving beyond being \"all about\" AI PCs. \"We're very focused on delivering upon the AI capabilities of a [&#8230;]",
+      "published": "2026-01-07T12:57:27-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB324_DELL_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Ministry of Justice splurged £50M on security – still missed Legal Aid Agency cyberattack",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/legal_aid_agency_attack/",
-      "summary": "<h4>High-risk system compromised long before intrusion was finally spotted</h4> <p>The UK's Ministry of Justice spent £50 million ($67 million) on cybersecurity improvements at the Legal Aid Agency (LAA) before the high-profile cyberattack it disclosed last year.…</p>",
+      "summary": "<h4>High-risk system compromised long before intrusion was finally spotted</h4> <p><strong>Updated</strong>  The UK's Ministry of Justice spent £50 million ($67 million) on cybersecurity improvements at the Legal Aid Agency (LAA) before the high-profile cyberattack it disclosed last year.…</p>",
       "published": "2026-01-07T12:28:43.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2018/05/08/shutterstock_moj.jpg"
     },
     {
-      "title": "Jaguar Land Rover wholesale volumes plummet 43% in cyberattack aftermath",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/jlr_wholesale_volumes/",
-      "summary": "<h4>Production halts and supply-chain disruption left luxury automaker reeling in fiscal Q3</h4> <p>Brit luxury automaker Jaguar Land Rover has reported devastating preliminary Q3 results that lay bare the cascading consequences of a crippling cyberattack, revealing wholesale volumes collapsed more than two-fifths year-on-year.…</p>",
-      "published": "2026-01-07T11:50:46.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/22/shutterstock_jlrdealersign.jpg"
-    },
-    {
-      "title": "Recline of the machines: Terminator felled by dodgy battery",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/terminator_felled_by_dodgy_battery/",
-      "summary": "<h4>The rise will be postponed until you hit F1 to continue</h4> <p><strong>Bork!Bork!Bork!</strong>  The baddest of AI bad guys, the Terminator, has confirmed what the vast majority of IT professionals already know. The machines are not about to rise, not until they can deal with that pesky battery voltage.…</p>",
-      "published": "2026-01-07T11:00:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/06/bork.jpg"
-    },
-    {
-      "title": "HSBC app takes a dim view of sideloaded Bitwarden installations",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/hsbc_bitwarden_sideloaded/",
-      "summary": "<h4>Customers report being locked out after grabbing the password manager via F-Droid</h4> <p>Some HSBC mobile banking customers in the UK report being locked out of the bank's app after installing the Bitwarden password manager via an open source app catalog.…</p>",
-      "published": "2026-01-07T10:13:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/12/01/mobile_banking_image_via_shutterstock.jpg"
-    },
-    {
-      "title": "UK to spend £23M on AI to tell benefit claimants where to go",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/dwp_ai_call_handling/",
-      "summary": "<h4>Department for Work and Pensions lines up bot bouncers for one of Europe's largest call-handling systems</h4> <p>The UK's Department for Work and Pensions (DWP) is set to introduce a conversational AI platform it hopes will steer calls from citizens with queries about their benefits. The contract is worth up to £23 million.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-07T09:30:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/07/26/shutterstock_ai_analyst.jpg"
-    },
-    {
-      "title": "The weirdest tech we&#8217;ve seen at CES 2026",
-      "link": "https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements",
-      "summary": "There's never a shortage of exciting and innovative tech at CES. A superthin TV and tri-folding phone are cool and all, but sometimes the weirdest gadgets are the ones that make us go \"huh.\" Luckily, there was plenty of wacky stuff on the show floor this year, and we've rounded up some of the most [&#8230;]",
-      "published": "2026-01-07T07:30:00-05:00",
+      "title": "CES 2026 tech you can already buy",
+      "link": "https://www.theverge.com/gadgets/856494/ces-2026-tech-you-can-already-buy",
+      "summary": "News coming out of CES 2026 might be slowing down, but as of Wednesday we still have writers on the ground, zipping around from hotel suite to Las Vegas convention center to try everything that matters. We've published well over 100 articles, and there's plenty of more content to come, including reviews of stuff we [&#8230;]",
+      "published": "2026-01-07T12:27:06-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/vee_mask1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_switch2pro_case1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Logitech caused its mice to freak out by not renewing a certificate",
-      "link": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
-      "summary": "If you're among the macOS users experiencing some weird issues with your Logitech mouse, then good news: Logitech has now released a fix. This comes after multiple Reddit users reported yesterday that Logi Options Plus - the app required to manage and configure the controls on Logitech accessories - had stopped working, preventing them from [&#8230;]",
-      "published": "2026-01-07T07:10:34-05:00",
+      "title": "L’Oréal’s new LED face masks address all my issues with this category",
+      "link": "https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal",
+      "summary": "I hate when friends and family ask me which LED face mask to buy. That's because LED face masks are another prime example of the wild wellness west. There's compelling science behind using red and infrared light therapy to address skin concerns, particularly wrinkles. However, wellness influencers have taken that concept and absolutely ran away [&#8230;]",
+      "published": "2026-01-07T12:01:57-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/mxmaster4handson.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/vee_mask2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "I played with the Lego Smart Brick",
-      "link": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick",
-      "summary": "When The Lego Group announced that its biggest innovation since 1978 would be a tiny proprietary computer brick, the reactions were divided. I heard from people concerned this was the death of imagination from a company that's all about imagination - and from people who thought it sounded pretty cool! Personally, I walked in skeptical. [&#8230;]",
-      "published": "2026-01-07T07:00:00-05:00",
+      "title": "Sony&#8217;s new &#8216;Hyperpop&#8217; PS5 covers are bursting with RGB color",
+      "link": "https://www.theverge.com/tech/857603/sony-ps5-covers-controller-hyperpop-color-accessories",
+      "summary": "Sony's first PlayStation announcement of 2026 is all about color. The new Hyperpop Collection includes colorful neon console covers and controllers that really add a pop of color to a PS5. Sadly, if you own a PS5 Pro then you won't be able to enjoy the RGB in your living room fun. There are three [&#8230;]",
+      "published": "2026-01-07T11:40:01-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_CES_BestOf_Sean_v01_KM.00_28_44_06.Still002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sonyhyperpop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Roblox now requires an age check if you want to chat",
-      "link": "https://www.theverge.com/news/856696/roblox-age-check-estimation-chat",
-      "summary": "Roblox is rolling out its previously announced requirement for all users to go through an age estimation process to be able to use the platform's chat features. The policy was announced in November 2025 and was rolled out to Australia, New Zealand, and the Netherlands in December, but now users will be prompted to complete [&#8230;]",
-      "published": "2026-01-07T07:00:00-05:00",
+      "title": "The best phone chargers and portable power solutions at CES 2026",
+      "link": "https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi",
+      "summary": "The show may be best known for the debut of high-end, budget-busting TVs - of which there was no shortage this year - but in recent years many companies have used CES to announce their latest charging innovations. Unlike CES 2025 where several companies embraced built-in charging cables, there's no unifying theme to the hardware [&#8230;]",
+      "published": "2026-01-07T11:37:21-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK146_Roblox_New.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/best_ces_chargers_belkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "It turns out I’ve been using my Hue lights all wrong",
-      "link": "https://www.theverge.com/tech/857250/philips-hue-spatial-aware-smart-lighting-feature",
-      "summary": "Color-changing lights are a lot of fun, but it can be hard to figure out how to best use them in your home. Most smart lighting companies offer pre-designed scenes to help you light your space, but the lights don't know where they are physically in your home, and the effect can get diluted. Philips [&#8230;]",
-      "published": "2026-01-07T03:30:00-05:00",
+      "title": "You can turn this modular clamp-on controller into an N64 or GameCube gamepad",
+      "link": "https://www.theverge.com/tech/857428/hyperkin-gamesir-x5-alteron-clamp-bluetooth-wireless-controller",
+      "summary": "Hyperkin announced a new clamp-on style wireless controller created in collaboration with GameSir. The X5 Alteron features similar functionality to GameSir's GameSir G8 Plus that debuted in 2024 with an expanding telescopic mechanism that can clamp onto smartphones, tablets, and several versions of the Nintendo Switch, replacing the Joy-Cons. What sets the X5 Alteron apart [&#8230;]",
+      "published": "2026-01-07T10:19:59-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/IMG_3120.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/hyperkin_gamesir_controller.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Lenovo shows off new laptops that twist and roll",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/lenovo_rollable_thinkpad/",
-      "summary": "<h4>The company has also redesigned the X1 Carbon’s internals for easier repairs</h4> <p>If there was a kingdom of laptop screen flexibility, Lenovo would take the crown. Last year, the company released the ThinkBook Plus Gen 6, with a mechanical screen that could roll out to increase its size from 14 to 16.7 inches. Now, it’s back with the ThinkPad Rollable XD concept laptop that expands from 13.3 to 16 inches at the touch of a button or a swipe, along with the ThinkBook Plus Gen 7 Auto Twist, which uses a motor to rotate its screen and follow you around the room.…</p>",
-      "published": "2026-01-07T01:02:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/06/lenovo0.jpg"
-    },
-    {
-      "title": "Ring embraces the end of the world, starts using home cameras to track wildfires",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/ring_cameras_wildfire/",
-      "summary": "<h4>Amazon's community surveillance biz bets on AI to recognize danger</h4> <p>A year after a series of fires obliterated communities in Los Angeles, Amazon's Ring security service has announced a feature called Fire Watch intended to mitigate future wildfire risk.…</p>",
-      "published": "2026-01-07T01:00:56.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/12/07/fire_shutterstock.jpg"
-    },
-    {
-      "title": "HackerOne 'ghosted' me for months over $8,500 bug bounty, says researcher",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/hackerone_ghosted_researcher/",
-      "summary": "<h4>Long after CVEs issued and open source flaws fixed</h4> <p>Last fall, Jakub Ciolek reported two denial-of-service bugs in Argo CD, a popular Kubernetes controller, via HackerOne's Internet Bug Bounty (IBB) program. Both were assigned CVEs and have since been fixed. But instead of receiving an $8,500 reward for the two flaws, Ciolek says, HackerOne ghosted him for months.…</p>",
-      "published": "2026-01-07T00:17:19.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/05/30/crapghostcostume.jpg"
-    },
-    {
-      "title": "Snowflake gets frosty with Google Gemini",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/snowflake_google_gemini_support/",
-      "summary": "<h4>Munge that corporate data using the LLM of your choice</h4> <p>The data platform Snowflake is putting Google's Gemini to work inside its Cortex AI, aiming to give customers access to a foundational model within the boundaries of their data environment across supported clouds, the company told <em>The Register</em>.…</p>",
-      "published": "2026-01-06T23:54:56.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/06/snowflakes.jpg"
-    },
-    {
-      "title": "Brave refurbishes Rust adblocking engine for reduced memory footprint",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/brave_refurbishes_rust_adblocking_engine/",
-      "summary": "<h4>Have your privacy cake and consume the web too</h4> <p>Brave Software has reworked its browser's Rust-based adblock engine to make it significantly more memory efficient and perhaps more secure. So you get fewer ads now with fewer MB of RAM.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-06T22:24:41.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/07/rust_shutterstock.jpg"
-    },
-    {
-      "title": "Intel is planning a custom Panther Lake CPU for handheld PCs",
-      "link": "https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu",
-      "summary": "Intel announced yesterday that it's developing an entire \"handheld gaming platform\" powered by its new Panther Lake chips and joining an increasingly competitive field. Qualcomm is hinting about potential Windows gaming handhelds showing up at the Game Developers Conference in March, and AMD's new Strix Halo chips could lead to more powerful handhelds. According to [&#8230;]",
-      "published": "2026-01-06T22:16:58-05:00",
+      "title": "Spotify is finally bringing your friends’ Listening Activity to mobile",
+      "link": "https://www.theverge.com/news/857404/spotify-listening-activity-mobile",
+      "summary": "Since almost day one, Spotify has offered the ability to creep on your friends' listening habits - but you could mostly only uncover those guilty pleasures on the desktop app. The company experimented with a community feature on the mobile app back in 2022, but it never officially launched. Now the company is finally bringing [&#8230;]",
+      "published": "2026-01-07T10:02:16-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/videoframe_1311970.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Lenovo is building an AI assistant that ‘can act on your behalf’",
-      "link": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
-      "summary": "While most attention in the AI race is focused on model builders and cloud platforms, Lenovo sits closer to millions of users than most companies. As the world's top PC maker by volume, Lenovo ships tens of millions of devices every year. What it decides to ship, bundle, and integrate can directly shape how AI [&#8230;]",
-      "published": "2026-01-06T21:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/374.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life",
-      "link": "https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr",
-      "summary": "Samsung Display and Intel have teamed up on laptop technology called SmartPower HDR that they claim can minimize power usage while you're watching HDR content on an OLED screen. Intel showed off this technology last year, but Samsung Display is sharing details about how it works and the power savings you might expect. However, the [&#8230;]",
-      "published": "2026-01-06T20:06:12-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ibld4nq4jb_20260106184208.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Motorola’s latest smartwatch promises 13-day battery life and Polar-powered health tracking",
-      "link": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026",
-      "summary": "At CES, Motorola announced its latest smartwatch, the Moto Watch. According to Motorola, the Android watch offers up to 13 days of battery life, alongside Polar-powered health tracking, open-source software, and dual-frequency GPS - a combination that helps set it apart from Apple's and Google's flagship wearables. Battery life is easily its most notable feature. [&#8230;]",
-      "published": "2026-01-06T20:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/moto-watch-Lifestyle-Image-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Lenovo’s Auto Twist laptop is going from concept to real product",
-      "link": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
-      "summary": "At CES 2026, Lenovo is announcing a new ThinkBook Plus Gen 7 Auto Twist laptop. Once a concept, the 14-inch thin-and-light sports a motorized pivoting hinge, allowing it to twist and angle its screen toward you. It can be manually controlled, but the real trick is tracking your head and automatically adjusting to your position [&#8230;]",
-      "published": "2026-01-06T20:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_ThinkBook_Plus_Gen7_Auto_Twist_laptop_CES_2026_ADiBenedetto_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/FTR-1440x820-21231413-1920x733-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
