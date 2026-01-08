@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T06:41:20.972024",
+  "lastUpdated": "2026-01-08T12:56:59.417582",
   "articles": [
     {
       "title": "Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm",
@@ -114,14 +114,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-114113332-1024x648.jpg"
     },
     {
-      "title": "EVs remain a niche choice in the US, according to survey",
-      "link": "https://arstechnica.com/cars/2026/01/evs-remain-a-niche-choice-in-the-us-according-to-survey/",
-      "summary": "Consumers around the world told Deloitte what they want in their next vehicle.",
-      "published": "Wed, 07 Jan 2026 16:30:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2166522883-1152x648.jpg"
-    },
-    {
       "title": "National Weather Service Uses AI to Generate Forecasts, Accidentally Hallucinates Town With Dirty Joke Name",
       "link": "https://futurism.com/artificial-intelligence/national-weather-service-ai-hallucinates-town",
       "summary": "<p>Welcome to Whata Bod, Idaho.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/national-weather-service-ai-hallucinates-town\">National Weather Service Uses AI to Generate Forecasts, Accidentally Hallucinates Town With Dirty Joke Name</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -194,6 +186,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/live-grok-nonconsensual-images.jpg?quality=85"
     },
     {
+      "title": "Volvo says new EX60 has 400-mile range, charges up to 400 kW",
+      "link": "https://arstechnica.com/cars/2026/01/volvo-says-new-ex60-has-400-mile-range-charges-up-to-400-kw/",
+      "summary": "The new EX60 will be unveiled later this month; here's what we know.",
+      "published": "Thu, 08 Jan 2026 08:00:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/HERO-IMAGE-Volvo-EX60-Exterior-Front-1152x648.jpg"
+    },
+    {
       "title": "JPMorgan Chase becomes the new issuer of the Apple Card",
       "link": "https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/",
       "summary": "Apple expects the transition to take 24 months",
@@ -210,9 +210,9 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/waymo-zeekr-ojaiJPG.jpg?resize=1200,900"
     },
     {
-      "title": "A crew member’s “medical concern” foils a planned spacewalk outside the ISS",
+      "title": "NASA considers evacuating ailing crew member from International Space Station",
       "link": "https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/",
-      "summary": "\"The situation is stable,\" NASA said in a statement Wednesday.",
+      "summary": "\"The matter involved a single crew member who is stable,\" NASA said in a statement.",
       "published": "Thu, 08 Jan 2026 01:58:33 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/evahelmet-1152x648-1767837189.jpg"
@@ -242,12 +242,84 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/ford-ai-assistant.jpg?w=589"
     },
     {
+      "title": "UK regulators swarm X after Grok generated nudes from photos",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/uk_regulators_swarm_x_after/",
+      "summary": "<h4>Lawyers say Musk's platform may face punishment under Online Safety Act priority offenses</h4> <p>Elon Musk's X platform is under fire as UK regulators close in on mounting reports that the platform's AI chatbot, Grok, is generating sexual imagery without users' consent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-08T12:40:27.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/04/02/shutterstock_elon_grok.jpg"
+    },
+    {
+      "title": "Maximum-severity n8n flaw lets randos run your automation server",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/n8n_rce_bug/",
+      "summary": "<h4>Unauthenticated RCE means anyone on the network can seize full control</h4> <p>A maximum-severity bug in the popular automation platform n8n has left an estimated 100,000 servers wide open to complete takeover, courtesy of a flaw so bad it doesn't even require logging in.…</p>",
+      "published": "2026-01-08T11:40:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/03/10/keys_648x429.jpg"
+    },
+    {
+      "title": "OpenAI putting bandaids on bandaids as prompt injection problems keep festering",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/openai_chatgpt_prompt_injection/",
+      "summary": "<h4>Happy Groundhog Day!</h4> <p>Security researchers at Radware say they've identified several vulnerabilities in OpenAI's ChatGPT service that allow the exfiltration of personal information.…</p>",
+      "published": "2026-01-08T11:01:28.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/08/shutterstock_bandaged_man_looks_resigned.jpg"
+    },
+    {
+      "title": "Are criminals vibe coding malware? All signs point to yes",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/criminals_vibe_coding_malware/",
+      "summary": "<h4>They also hallucinate when writing ransomware code</h4> <p><strong>Interview</strong>  With everyone from would-be developers to <a href=\"https://www.theregister.com/2025/12/03/ai_has_made_ip_violations/e\" target=\"_blank\">six-year-old kids</a> jumping on the vibe coding bandwagon, it shouldn't be surprising that criminals like automated coding tools too.…</p>",
+      "published": "2026-01-08T11:00:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/02/28/shutterstock_robot_hype.jpg"
+    },
+    {
+      "title": "Ultimate camouflage tech mimics octopus in scientific first",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/camouflage_tech_mimics_octopus/",
+      "summary": "<h4>Synthetic cephalopod skin could be used in architecture and computer displays as well as background-matching subterfuge</h4> <p>Scientists have developed a synthetic skin capable of mimicking some of the best camouflage skills in nature that could also have applications in soft robotics and advanced displays.…</p>",
+      "published": "2026-01-08T10:14:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/07/shutterstock_2031392483.jpg"
+    },
+    {
+      "title": "Logitech macOS mouse mayhem traced to expired dev certificate",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/logitech_mouse_chaos/",
+      "summary": "<h4>Company says it dropped the ball, apologizes for wasting people's time</h4> <p>Logitech says an expired developer certificate is to blame after swaths of customers were left infuriated when their mice malfunctioned.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-08T09:30:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/30/mx_master_4.jpg"
+    },
+    {
+      "title": "The gap between premium and budget TV brands is quickly closing",
+      "link": "https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing",
+      "summary": "For all the time that I've been covering technology, there's been a hierarchy when it comes to TV brands. The big three - Sony, Samsung, and LG - have been on top for a while. Pioneer and Panasonic were up there with plasma TVs, and Panasonic is getting back in the game in the States. [&#8230;]",
+      "published": "2026-01-08T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/tcl-x11l-tv-preview.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "America’s new era of energy imperialism is about more than oil",
+      "link": "https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism",
+      "summary": "President Donald Trump has no shame in admitting what he wants to get out of attacking Venezuela and threatening other energy resource-rich nations. \"We're gonna get the oil flowing the way it should be,\" he said January 3rd, soon after his administration stunned the world with what many policy experts and Democratic lawmakers are calling [&#8230;]",
+      "published": "2026-01-08T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268239_Americas_new_era_of_energy_imperialism_is_about_more_than_oil__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Cloudflare pours cold water on ‘BGP weirdness preceded US attack on Venezuela’ theory",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/cloudflare_venezuela_bgp_attack_theory/",
       "summary": "<h4>Suggests rotten routing, not evidence of a cyber-strike before kinetic action</h4> <p>Cloudflare has poured cold water on a theory that the USA’s incursion into Venezuela coincided with a cyberattack on telecoms infrastructure.…</p>",
       "published": "2026-01-08T06:00:20.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/01/08/shutterstock_border_gateway_protocol.jpg"
+    },
+    {
+      "title": "Volvo touts EX60’s range and charging speed ahead of official debut",
+      "link": "https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery",
+      "summary": "Volvo is starting to trickle out some details about its upcoming midsize electric SUV, the EX60, before its official debut January 21st. The EX60 will have an estimated range of 400 miles (or 810km based on the generous WLTP standard in Europe). That's significantly more range than any previous Volvo EV - at least until [&#8230;]",
+      "published": "2026-01-08T03:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-IMAGE-Volvo-EX60-Exterior-Front.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "AMD threatens to go medieval on Nvidia with Epyc and Instinct: What we know so far",
@@ -274,28 +346,12 @@
       "image_url": "https://regmedia.co.uk/2026/01/07/shutterstock_2083004398.jpg"
     },
     {
-      "title": "British Palantir rival, whose founder touted UK tech sovereignty, sells to Accenture",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/accenture_acquires_palantir_uk_rival_faculty/",
-      "summary": "<h4>Let the co-opetition commence</h4> <p>Accenture plans to buy UK-based AI firm Faculty, a Palantir competitor, and onboard the company’s CEO as Accenture’s new chief technology officer. The move suggests the two companies, while partners today, could start taking each others' business.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-07T20:33:57.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/07/uk_shutterstock.jpg"
-    },
-    {
       "title": "Disney Plus is getting vertical video",
       "link": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
       "summary": "Disney Plus will be getting a vertical video feed later this year, Disney announced as part of its Global Tech &#38; Data Showcase for advertisers at CES. Based on an interview with Erin Teague, Disney's EVP of product management for Disney Entertainment and ESPN, Deadline reports that vertical video in the app could include \"original [&#8230;]",
       "published": "2026-01-07T19:51:26-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "SanDisk heals WD Black and Blues, rebrands beloved client SSDs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/sandisk_heals_wds_black_and_blues/",
-      "summary": "<h4>NVMe drives to live on under the Optimus banner</h4> <p>WD Black and Blue SSDs are some of the most widely recognized client drives on the market, but their branding is about to disappear. Following Western Digital's flash-business spinoff, SanDisk announced it was retiring the beloved names and rebranding its NVMe lineup under the SANDISK Optimus banner.…</p>",
-      "published": "2026-01-07T19:45:47.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/07/sandisk_optimus_ssd.jpg"
     },
     {
       "title": "The best iPad deals you can get right now",
@@ -316,7 +372,7 @@
     {
       "title": "Chase is taking over Apple&#8217;s credit card",
       "link": "https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs",
-      "summary": "On Wednesday evening, Apple announced that JPMorgan Chase will become the new issuer of Apple Card, replacing Goldman Sachs, which has backed the company's credit cards since their launch in 2019. This ends speculation about a new partner for Apple Card stretching back a few years, as Goldman Sachs continues an exit from consumer lending, [&#8230;]",
+      "summary": "On Wednesday evening, Apple announced that JPMorgan Chase will become the new issuer of Apple Card, replacing Goldman Sachs, which has backed the company's credit cards since their launch in 2019. This ends speculation about a new partner for Apple Card stretching back a few years, as Goldman Sachs continues an exit from consumer lending [&#8230;]",
       "published": "2026-01-07T18:57:54-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697384/STK071_APPLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -328,14 +384,6 @@
       "published": "2026-01-07T18:38:18-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268238_The_Venezuela_attack_is_a_meme_stock_CVirginia2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "ESA calls cops as crims lift off 500 GB of files, say security black hole still open",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/european_space_agency_breach_criminal_probe/",
-      "summary": "<h4>Two weeks, two major data leaks … not a good look for the European Space Agency</h4> <p><strong>exclusive</strong>  The European Space Agency on Wednesday confirmed yet another massive security breach, and told <em>The Register</em> that the data thieves responsible will be subject to a criminal investigation. And this could be a biggie.…</p>",
-      "published": "2026-01-07T18:02:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/10/06/esa_aliens_observed.jpg"
     },
     {
       "title": "Bluetti now charges power stations at up to 1200W in your car",
@@ -352,54 +400,6 @@
       "published": "2026-01-07T17:59:01-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0021.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Stalkerware slinger pleads guilty for selling snooper software to suspicious spouses",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/stalkerware_slinger_pleads_guilty/",
-      "summary": "<h4>pcTattletale boss Bryan Fleming faces up to 15 years in prison when sentenced later this year</h4> <p>The US government has secured a guilty plea from a stalkerware maker in federal court, marking just the second time in more than a decade that the US has managed to prosecute a consumer spyware vendor successfully. …</p>",
-      "published": "2026-01-07T17:32:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/06/14/handcuffs_shutterstock.jpg"
-    },
-    {
-      "title": "Character.AI and Google settle teen suicide and self-harm suits",
-      "link": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement",
-      "summary": "Character.AI and Google have reached settlements with several families whose teens harmed themselves or died by suicide after interacting with Character.AI's chatbots, according to new court filings. The details of the settlements are still unknown. The parties notified a federal court in Florida that they had reached a \"mediated settlement in principle to resolve all [&#8230;]",
-      "published": "2026-01-07T17:30:22-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK278_character_ai_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "FAA signs radar deals to drag US air traffic control out of the 1980s",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/faa_radar_atc_deals/",
-      "summary": "<h4>RTX and Indra land contracts as long-delayed overhaul moves ahead</h4> <p>The US government has announced contracts for new radar infrastructure as part of its long-running effort to replace the country's aging air traffic control system.…</p>",
-      "published": "2026-01-07T17:24:58.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/07/25/shutterstock_atc.jpg"
-    },
-    {
-      "title": "Historic NASA test towers face their final countdown",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/nasa_test_stand_demolition/",
-      "summary": "<h4>Apollo-era Saturn V and Shuttle stands set for controlled demolition as Artemis ramps up</h4> <p>With less than a month to go until NASA attempts to send astronauts around the Moon, the agency is demolishing facilities that got it there the first time around.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-07T16:55:48.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/07/t-tower.jpg"
-    },
-    {
-      "title": "Amazfit’s stylish budget tracker is nearly matching its best price to date",
-      "link": "https://www.theverge.com/gadgets/857877/amazfit-active-2-fitness-tracker-new-years-deal-sale-2025",
-      "summary": "Amazfit might not have the name recognition of a company like Garmin or Fitbit, but its wearables consistently impress, with the Amazfit Active 2 being one of the best fitness trackers you can buy. And right now, it’s on sale for just $84.99 ($15 off) at Amazon, Best Buy, and Target, which is only $5 [&#8230;]",
-      "published": "2026-01-07T16:16:55-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257523_Amazfit_Active_2_AKrales_0066.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "X’s deepfake machine is infuriating policymakers around the globe",
-      "link": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress",
-      "summary": "X's Grok chatbot hasn't stopped accepting users' requests to strip down women and, in some cases, apparent minors to AI-generated bikinis. According to some reports, the flood of AI-generated images includes more extreme content that potentially violates laws against nonconsensual intimate imagery (NCII) and child sexual abuse material (CSAM). Even in the US, where X [&#8230;]",
-      "published": "2026-01-07T16:09:54-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
