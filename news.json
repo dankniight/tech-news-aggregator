@@ -1,8 +1,16 @@
 {
-  "lastUpdated": "2026-01-21T02:09:36.732263",
+  "lastUpdated": "2026-01-21T06:44:26.251241",
   "articles": [
     {
-      "title": "Bolna nabs $6.3 million from General Catalyst for its India-focused voice orchestration platform",
+      "title": "Amagi slides in India debut, as cloud TV software firm tests investor appetite",
+      "link": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
+      "summary": "Amagi shares debuted at a 12% discount, offering an early read on investor demand for a rare type of tech listing in India.",
+      "published": "Wed, 21 Jan 2026 06:23:46 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/amagi-jagmeet-singh-techcrunch.jpg?resize=1200,800"
+    },
+    {
+      "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
       "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
       "summary": "Bolna said that 75% of its revenue is coming from self-serve customers.",
       "published": "Wed, 21 Jan 2026 02:00:00 +0000",
@@ -68,7 +76,7 @@
     {
       "title": "Google temporarily disabled YouTube's advanced captions without warning",
       "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
-      "summary": "Google says SRV3 was causing playback errors, so it has \"temporarily\" disabled them.",
+      "summary": "Google says SRV3 captions were causing playback errors, so it has \"temporarily\" disabled them.",
       "published": "Tue, 20 Jan 2026 22:17:02 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-1152x648.jpg"
@@ -120,14 +128,6 @@
       "published": "Tue, 20 Jan 2026 21:25:30 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2243934190-1152x648.jpg"
-    },
-    {
-      "title": "Trump administration admits DOGE may have misused Americans’ Social Security data",
-      "link": "https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/",
-      "summary": "The revelation comes as part of a series of corrections in a legal case over DOGE’s access to Social Security Administration data.",
-      "published": "Tue, 20 Jan 2026 20:56:25 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024"
     },
     {
       "title": "Netflix to pay all cash for Warner Bros. to fend off Paramount hostile takeover",
@@ -242,6 +242,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/ai-powered-suicide-chamber.jpg?quality=85"
     },
     {
+      "title": "Curl shutters bug bounty program to remove incentive for submitting AI slop",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/curl_ends_bug_bounty/",
+      "summary": "<h4>Maintainer hopes hackers send bug reports anyway, will keep shaming ‘silly' ones</h4> <p>The maintainer of popular open-source data transfer tool <code>cURL</code> has ended the project’s bug bounty program after maintainers struggled to assess a flood of AI-generated contributions.…</p>",
+      "published": "2026-01-21T05:29:47.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/03/21/shutterstock_curl_birthday.jpg"
+    },
+    {
+      "title": "Sony no longer home of the Bravia as it plans TV biz spin-out to China’s TCL",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/sony_no_longer_home_of/",
+      "summary": "<h4>Hasn't said why, but low share in a slow-growing market suggests it can't be bothered</h4> <p>Sony wants to stop making televisions.…</p>",
+      "published": "2026-01-21T03:34:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/12/17/shutterstock_tv_advertising.jpg"
+    },
+    {
       "title": "OpenAI will try to guess your age before ChatGPT gets spicy",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/openai_bets_on_age_prediction/",
       "summary": "<h4>Think of the children...and the monetization options available where they're not allowed</h4> <p>OpenAI says it has begun deploying an age prediction model to determine whether ChatGPT users are old enough to view \"sensitive or potentially harmful content.\"…</p>",
@@ -256,6 +272,14 @@
       "published": "2026-01-20T23:05:29.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/01/20/sneaky_door.jpg"
+    },
+    {
+      "title": "One year in, Big Tech has out-maneuvered MAGA populists",
+      "link": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
+      "summary": "Welcome to Regulator, a newsletter for Verge subscribers about the technology and the tech bros upending American politics and the Trump administration. If you're not a subscriber yet, and you're interested in Silicon Valley's adventures in sausage-making, you should do so here! It's Q1! Surely the corporate budget will allow for it. Precisely one year [&#8230;]",
+      "published": "2026-01-20T22:33:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194353814.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Anthropic CEO: Selling H200s to China is like giving nukes to North Korea",
@@ -346,28 +370,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Power scarcity drives datacenters to Texas, where the juice is",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/texas_datacenter_hotspot/",
-      "summary": "<h4>Plus, one in three bit barns expected to exceed 1 GW by 2035</h4> <p>Everything's bigger in Texas, including the amount of available power. That's why the Lone Star State is set to become the leading bit barn market within a few years, and why hyperscalers and colocation providers now expect roughly a third of datacenter campuses to rely entirely on onsite power by 2030.…</p>",
-      "published": "2026-01-20T16:50:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/20/shutterstock_2513225503.jpg"
-    },
-    {
       "title": "Nova Launcher’s new owner might offer a version with ads",
       "link": "https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads",
       "summary": "Last year, Nova Launcher founder and sole developer Kevin Barry announced he had left Branch Metrics, Nova's parent company at the time - which followed an announcement from 2024 that nearly everyone working on the project had been laid off. But the launcher is getting new life: in a blog post on Tuesday, the Swedish [&#8230;]",
       "published": "2026-01-20T15:55:04-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot_2024_08_09_at_5.17.19_PM.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Rackspace tests customer loyalty with brutal email price hike",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/rackspace_price_changes/",
-      "summary": "<h4>Mailbox costs leap overnight as longtime users vent their frustration</h4> <p>Rackspace is giving a masterclass in how to annoy customers after an eye-watering price hike for email hosting.…</p>",
-      "published": "2026-01-20T15:07:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/12/money_shutterstock.jpg"
     },
     {
       "title": "Google has finally killed the Stadia Bluetooth tool — but this person rescued it",
@@ -392,14 +400,6 @@
       "published": "2026-01-20T13:30:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/01_Max_Rewind.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best iPad deals you can get right now",
-      "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
-      "summary": "While the best iPad deals usually land during major sale events like Black Friday,&#160;many great iPad deals are available outside of those times. The day-to-day discounts come and go like changing winds, so there’s often some amount to be saved, particularly on Apple’s most affordable iPad, the iPad Mini, and the latest iPad Air. Hell, [&#8230;]",
-      "published": "2026-01-20T12:57:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/M5-iPad-Pro-angle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
