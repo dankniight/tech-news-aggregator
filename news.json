@@ -1,29 +1,149 @@
 {
-  "lastUpdated": "2026-01-21T18:50:50.397018",
+  "lastUpdated": "2026-01-22T02:11:05.114519",
   "articles": [
     {
-      "title": "Blue Origin’s satellite internet network TeraWave will move data at 6Tbps",
+      "title": "Judge orders stop to FBI search of devices seized from Washington Post reporter",
+      "link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/",
+      "summary": "Order says gov't must stop search while court reviews Washington Post motions.",
+      "published": "Wed, 21 Jan 2026 23:33:43 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-1152x648-1747771043.jpg"
+    },
+    {
+      "title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+      "link": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+      "summary": "SGLang, which originated as an open source research project at Ion Stoica’s UC Berkeley lab, has raised capital from Accel.",
+      "published": "Wed, 21 Jan 2026 23:24:14 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1356382582.jpg?resize=1200,800"
+    },
+    {
+      "title": "Millions of people imperiled through sign-in links sent by SMS",
+      "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+      "summary": "Even well-known services with millions of users are exposing sensitive data.",
+      "published": "Wed, 21 Jan 2026 23:22:14 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/sms-phone-risk-trap-privacy-security-1152x648.jpg"
+    },
+    {
+      "title": "mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say",
+      "link": "https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/",
+      "summary": "The vaccines are tailor-made to target each patient's unique cancer.",
+      "published": "Wed, 21 Jan 2026 22:51:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
+    },
+    {
+      "title": "A timeline of the US semiconductor market in 2025",
+      "link": "https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/",
+      "summary": "From leadership changes at legacy semiconductor companies to wishy washy policy around chip exports, a lot happened last year.",
+      "published": "Wed, 21 Jan 2026 22:46:13 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200,800"
+    },
+    {
+      "title": "X copies Bluesky with a ‘Starterpacks’ feature that helps you find who to follow",
+      "link": "https://techcrunch.com/2026/01/21/x-copies-bluesky-with-a-starterpacks-feature-that-helps-you-find-who-to-follow/",
+      "summary": "X says the new feature, similar to Bluesky's Starter Packs, will arrive in the coming weeks.",
+      "published": "Wed, 21 Jan 2026 22:33:47 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832"
+    },
+    {
+      "title": "Todoist’s app now lets you add tasks to your to-do list by speaking to its AI",
+      "link": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
+      "summary": "The feature, now public, lets you create to-do's and action items by speaking naturally to the app's AI.",
+      "published": "Wed, 21 Jan 2026 22:19:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Ramble-1.png?resize=1200,878"
+    },
+    {
+      "title": "Apple plans to make Siri an AI chatbot, report says",
+      "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+      "summary": "Siri could look more like ChatGPT than its current state as an integrated feature across Apple products.",
+      "published": "Wed, 21 Jan 2026 22:12:50 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness",
+      "link": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+      "summary": "The newly revised document offers a roadmap for what Anthropic says is a safer and more helpful chatbot experience.",
+      "published": "Wed, 21 Jan 2026 22:07:58 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675"
+    },
+    {
+      "title": "Trump FCC threatens to enforce equal-time rule on late-night talk shows",
+      "link": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/",
+      "summary": "FCC disputes long-standing view that the shows are exempt from equal-time rule.",
+      "published": "Wed, 21 Jan 2026 21:50:21 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-return-1152x648-1758739114.jpg"
+    },
+    {
+      "title": "Why adding modern controls to 1996's Tomb Raider simply doesn't work",
+      "link": "https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/",
+      "summary": "For our C:\\ArsGames series, we look at the controls conundrum of early 3D.",
+      "published": "Wed, 21 Jan 2026 21:03:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Tomb-Raider-hero-1152x648.jpg"
+    },
+    {
+      "title": "Apps for boycotting American products surge to the top of the Danish App Store",
+      "link": "https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/",
+      "summary": "The boost in downloads comes as Danish consumers have been organizing a grassroots boycott of American-made products, which also included canceling their U.S. vacations and ditching their subscriptions to U.S.-based streaming services, like Netflix.",
+      "published": "Wed, 21 Jan 2026 20:38:54 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-3.04.55-PM.jpg?resize=1200,836"
+    },
+    {
+      "title": "Kioxia's memory is \"sold out\" for 2026, prolonging a \"high-end and expensive phase\"",
+      "link": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
+      "summary": "Kioxia is spinning up more manufacturing capacity, but relief will come slowly.",
+      "published": "Wed, 21 Jan 2026 20:37:00 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/kioxia-ssds-1152x648.jpg"
+    },
+    {
+      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+      "link": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+      "summary": "Research from startup GPTZero points to the impossible problem prestigious conferences face in the age of AI slop.",
+      "published": "Wed, 21 Jan 2026 20:34:42 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1129660767.jpg?resize=1200,800"
+    },
+    {
+      "title": "Watch a robot swarm \"bloom\" like a garden",
+      "link": "https://arstechnica.com/science/2026/01/watch-a-robot-swarm-bloom-like-a-garden/",
+      "summary": "The Swarm Garden: An array of modular robot agents that adapt to changing conditions for living architecture.",
+      "published": "Wed, 21 Jan 2026 19:47:27 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/swarm1-1152x648.jpg"
+    },
+    {
+      "title": "Spotify won court order against Anna’s Archive, taking down .org domain",
+      "link": "https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/",
+      "summary": "Lawsuit was filed under seal; Anna's Archive wasn't notified until after takedown.",
+      "published": "Wed, 21 Jan 2026 19:34:14 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/spotify-logos-1152x648-1767642275.jpg"
+    },
+    {
+      "title": "Another Jeff Bezos company has announced plans to develop a megaconstellation",
+      "link": "https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/",
+      "summary": "With data speeds of up to 6Tbps, one could stream a lot of HD movies.",
+      "published": "Wed, 21 Jan 2026 18:40:21 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/G_NEl2bbgAAr100-1152x648.jpg"
+    },
+    {
+      "title": "Blue Origin’s satellite internet network TeraWave will move data at 6 Tbps",
       "link": "https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/",
       "summary": "The network will be designed for enterprise, data center, and government customers and could offer an alternative to SpaceX's Starlink service.",
       "published": "Wed, 21 Jan 2026 18:36:48 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/terawave-blue-origin.jpg?resize=1200,891"
-    },
-    {
-      "title": "Zipline charts drone delivery expansion with $600M in new funding",
-      "link": "https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/",
-      "summary": "The startup plans to expand to at least four new U.S. states in 2026.",
-      "published": "Wed, 21 Jan 2026 18:33:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Zipline-P2-drone-Delivering.jpg?resize=1200,800"
-    },
-    {
-      "title": "OpenEvidence hits $12B valuation, with new round led by Thrive, DST",
-      "link": "https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/",
-      "summary": "The medical info database has doubled in valuation since last raise in October, despite encroachment from model makers.",
-      "published": "Wed, 21 Jan 2026 18:01:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1124695995.jpg?resize=1200,800"
     },
     {
       "title": "Here's Volvo's new EX60 $60,000 electric midsize SUV",
@@ -34,76 +154,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/JPG-Full-TIM_1154_EX60_DETAIL_HIGH_FRONT-1152x648.jpg"
     },
     {
-      "title": "Threads rolls out ads to all users worldwide",
-      "link": "https://techcrunch.com/2026/01/21/threads-rolls-out-ads-to-all-users-worldwide/",
-      "summary": "Ads on Threads will roll out gradually to users over the coming months, Meta says.",
-      "published": "Wed, 21 Jan 2026 16:44:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?resize=1200,800"
+      "title": "Sam Altman Lets Loose About AI Psychosis",
+      "link": "https://futurism.com/future-society/sam-altman-ai-psychosis",
+      "summary": "<p>\"Almost a billion people use it and some of them may be in very fragile mental states.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/sam-altman-ai-psychosis\">Sam Altman Lets Loose About AI Psychosis</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Jan 2026 16:12:09 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/01/sam-altman-chatgpt-psychosis.jpg?quality=85"
     },
     {
-      "title": "YouTube TV’s multiview is getting a huge upgrade, letting viewers mix and match channels",
-      "link": "https://techcrunch.com/2026/01/21/youtube-tvs-multiview-is-getting-a-huge-upgrade-letting-viewers-mix-and-match-channels/",
-      "summary": "Soon, YouTube TV will allow viewers  to customize the multiview feature to watch any four channels they want side by side.",
-      "published": "Wed, 21 Jan 2026 16:26:04 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/YTV-Multiview-still.jpg?resize=1200,675"
+      "title": "Man Who Had Managed Mental Illness Effectively for Years Says ChatGPT Sent Him Into Hospitalization for Psychosis",
+      "link": "https://futurism.com/artificial-intelligence/mental-illness-chatgpt-psychosis-lawsuit",
+      "summary": "<p>\"They straight up took my data and used it against me to capture me further and make me even more delusional.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mental-illness-chatgpt-psychosis-lawsuit\">Man Who Had Managed Mental Illness Effectively for Years Says ChatGPT Sent Him Into Hospitalization for Psychosis</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Jan 2026 15:09:01 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/01/mental-illness-chatgpt-psychosis-lawsuit.jpg?quality=85"
     },
     {
-      "title": "We’re not nostalgic for 2016 — we’re nostalgic for the internet before all the slop",
-      "link": "https://techcrunch.com/2026/01/21/were-not-nostalgic-for-2016-were-nostalgic-for-the-internet-before-all-the-slop/",
-      "summary": "At the time, people felt like 2016 was cursed -- but at least we did not yet have a word for \"doomscrolling.\"",
-      "published": "Wed, 21 Jan 2026 16:23:38 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/2016-nostalgia.jpg?resize=1200,675"
-    },
-    {
-      "title": "OpenAI’s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a ‘moat’",
-      "link": "https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/",
-      "summary": "Aliisa Rosenthal has found a new career as a VC. She knows what startups can do to protect themselves from the model makers eating their markets.",
-      "published": "Wed, 21 Jan 2026 16:06:40 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Acrew-Aliisa-Rosenthal.jpeg?w=1017"
-    },
-    {
-      "title": "YouTube will soon let creators make Shorts with their own AI likeness",
-      "link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
-      "summary": "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds.",
-      "published": "Wed, 21 Jan 2026 15:41:15 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?resize=1200,800"
-    },
-    {
-      "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
-      "link": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
-      "summary": "The AI startup is on track to announce its first hardware device in the second half of this year, OpenAI Chief Global Affairs Officer Chris Lehane said during an interview at Davos.",
-      "published": "Wed, 21 Jan 2026 15:20:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000"
-    },
-    {
-      "title": "Has Gemini surpassed ChatGPT? We put the AI models to the test.",
-      "link": "https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/",
-      "summary": "Did Apple make the right choice in partnering with Google for Siri's AI features?",
-      "published": "Wed, 21 Jan 2026 15:03:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/chatgpt-vs-gemini-apple-1152x648.jpg"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year",
-      "link": "https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/",
-      "summary": "TechCrunch Disrupt 2026 tickets are officially on sale. Save up to $680 on your ticket and be among the first 500 registrants to score a plus-one pass at 50% off. Don't miss 10,000 tech leaders, founders, and VCs in San Francisco from October 13-15. Register before these one-time deals vanish.",
-      "published": "Wed, 21 Jan 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799"
-    },
-    {
-      "title": "Zillow removed climate risk scores. This climate expert is restoring them.",
-      "link": "https://arstechnica.com/science/2026/01/zillow-removed-climate-risk-scores-this-climate-expert-is-restoring-them/",
-      "summary": "Real estate website scrubbed data under pressure from California real estate brokers.",
-      "published": "Wed, 21 Jan 2026 14:33:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/floods-1152x648.jpg"
+      "title": "Fury as Amazon Ring Cameras Are Hooked Up to ICE System",
+      "link": "https://futurism.com/future-society/amazon-ring-cameras-ice",
+      "summary": "<p>\"Your Ring camera is an ICE agent.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/amazon-ring-cameras-ice\">Fury as Amazon Ring Cameras Are Hooked Up to ICE System</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Jan 2026 14:02:24 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/01/amazon-ring-cameras-ice.jpg?quality=85"
     },
     {
       "title": "Stunning Footage Shows Space Station Drifting Through Aurora’s Dazzling Lights",
@@ -112,14 +184,6 @@
       "published": "Wed, 21 Jan 2026 13:01:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/footage-space-station-auroras-dazzling-lights.jpg?quality=85"
-    },
-    {
-      "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
-      "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
-      "summary": "The web's best guide to spotting AI writing has become a manual for hiding it.",
-      "published": "Wed, 21 Jan 2026 12:15:23 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-1152x648.jpg"
     },
     {
       "title": "Majority of CEOs Alarmed as AI Delivers No Financial Returns",
@@ -170,76 +234,68 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/palantir-ai-labor-hands.jpg?quality=85"
     },
     {
-      "title": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
-      "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
-      "summary": "The colors show the star’s final breath transforming into the raw ingredients for new worlds.",
-      "published": "Tue, 20 Jan 2026 23:33:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ-1152x648.png"
+      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+      "link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+      "summary": "Should this wearable materialize, it could be released as early as 2027, according to a report on the device.",
+      "published": "Thu, 22 Jan 2026 00:20:18 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-logo-Getty.jpg?resize=1200,800"
     },
     {
-      "title": "Zuck stuck on Trump’s bad side: FTC appeals loss in Meta monopoly case",
-      "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
-      "summary": "FTC will appeal ruling that found Meta has no monopoly in social networking.",
-      "published": "Tue, 20 Jan 2026 23:22:26 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/zuck-the-monopolist-1152x648.jpg"
+      "title": "Future jobs in AI will come with a hardhat and boots, tech bigshots argue",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/future_ai_jobs_tech_bigshots/",
+      "summary": "<h4>Jensen Huang and Alex Karp talk up trade skills as AI datacenters multiply, while Satya Nadella says the real test comes later</h4> <p>The leaders of the AI world descended on Davos, Switzerland, this week for the World Economic Forum, where they took turns lobbing their best guesses about what the next phase of AI would mean for jobs, as well as whether the AI bubble was real and when it may pop.…</p>",
+      "published": "2026-01-22T00:09:44.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/21/hardhats_silhouette.jpg"
     },
     {
-      "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
-      "link": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
-      "summary": "Verizon changed prepaid brands' policy a week after FCC waived unlocking rule.",
-      "published": "Tue, 20 Jan 2026 22:35:32 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg"
+      "title": "AI networking startup Upscale scores $200M to challenge Nvidia's NVSwitch",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/upscale_skyhammer_nvidia/",
+      "summary": "<h4>Plans to swing SkyHammer silicon into UALink switches later this year</h4> <p>AI networking startup Upscale AI on Wednesday announced it has raised $200 million in Series A funding to challenge Nvidia's dominance of switches for rack-scale AI systems, putting it in competition with the likes of Cisco and AMD.…</p>",
+      "published": "2026-01-22T00:07:56.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/07/13/shutterstock_hammeranvil.jpg"
     },
     {
-      "title": "Google temporarily disabled YouTube's advanced captions without warning",
-      "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
-      "summary": "Google says SRV3 captions were causing playback errors, so it has \"temporarily\" disabled them.",
-      "published": "Tue, 20 Jan 2026 22:17:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-1152x648.jpg"
+      "title": "Davos discussion mulls how to keep AI agents from running wild",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/davos_ai_agents_security/",
+      "summary": "<h4>Where the shiny new FOMO object collides with insider-threat reality</h4> <p>AI agents arrived in Davos this week with the question of how to secure them - and prevent agents from becoming the <a href=\"https://www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/\" target=\"_blank\">ultimate insider threat</a> - taking center stage during a panel discussion on cyber threats.…</p>",
+      "published": "2026-01-21T23:04:49.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/07/18/leonardo_ai_agentic_ai_concept.jpg"
     },
     {
-      "title": "Flesh-eating flies are eating their way through Mexico, CDC warns",
-      "link": "https://arstechnica.com/health/2026/01/be-on-the-lookout-for-flesh-eating-flies-cdc-tells-clinicians-in-alert/",
-      "summary": "Eight animal cases in Mexico's Tamaulipas spur CDC to warn doctors of festering wounds.",
-      "published": "Tue, 20 Jan 2026 21:59:38 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
+      "title": "AI hasn't delivered the profits it was hyped for, says Deloitte",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/deloitte_enterprises_adopting_ai_revenue_lift/",
+      "summary": "<h4>Business transformation, but not much remuneration</h4> <p>Making money isn't everything ... at least not when it comes to AI. Research from professional services firm Deloitte shows that, for most companies, adopting AI tools hasn't helped the bottom line at all. But researchers still sing the technology's praises.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-21T21:50:29.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/21/shutterstock_2358965379.jpg"
     },
     {
-      "title": "Macaque facial gestures are more than just a reflex, study finds",
-      "link": "https://arstechnica.com/science/2026/01/macaque-facial-gestures-are-more-than-just-a-reflex-study-finds/",
-      "summary": "Study is first to implant micro-electrode arrays to record neurons as they produce facial gestures.",
-      "published": "Tue, 20 Jan 2026 21:25:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2243934190-1152x648.jpg"
+      "title": "MIT boffins create device that 'paints' iridescent structural color in real time",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/mit_boffins_create_device_that/",
+      "summary": "<h4>From adaptive wearables to light-based signaling ideas, researchers are exploring what comes next</h4> <p>The feathers of a hummingbird, the wings of a butterfly, and the sparkle of an opal are all examples of nature's ability to produce structural, iridescent colors that typically require lab-grade materials and techniques to replicate. An MIT team says it has found a way to make that process far more accessible.…</p>",
+      "published": "2026-01-21T21:22:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/02/04/shuterstock_bubble.jpg"
     },
     {
-      "title": "Scientists Suddenly Discover That Cow Tools Are Real",
-      "link": "https://futurism.com/future-society/scientists-discover-cow-tools-real",
-      "summary": "<p>This is not a drill.</p>\n<p>The post <a href=\"https://futurism.com/future-society/scientists-discover-cow-tools-real\">Scientists Suddenly Discover That Cow Tools Are Real</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 20 Jan 2026 15:09:29 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/01/scientists-discover-cow-tools-real_dbf0c8.jpg?quality=85"
+      "title": "House GOP wants final say on AI chip exports after Trump gives Nvidia a China hall pass",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/house_gop_ai_chip_exports_trump_china_nvidia/",
+      "summary": "<h4>Bill still needs to pass the House and Senate before the president can sign or veto it</h4> <p>President Trump's decision to green-light the sale of Nvidia H200 GPUs to China isn't sitting well with some of his Republican colleagues in the House of Representatives. These GOP politicians have proposed a bill that would give Congress final say over the export of AI chips to China and other countries of concern.…</p>",
+      "published": "2026-01-21T20:53:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/07/21/congress_shutterstock.jpg"
     },
     {
-      "title": "Trump’s HHS Trashes Top African Health Organization as “Fake” and “Powerless”",
-      "link": "https://futurism.com/health-medicine/trump-hhs-africa-cdc",
-      "summary": "<p>\"This is a powerless, fake organization attempting to manufacture credibility by repeating its claims publicly.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/trump-hhs-africa-cdc\">Trump&#8217;s HHS Trashes Top African Health Organization as &#8220;Fake&#8221; and &#8220;Powerless&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 20 Jan 2026 14:01:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/01/trump-hhs-african-cdc.jpg?quality=85"
-    },
-    {
-      "title": "The CEO of Microsoft Suddenly Sounds Extremely Nervous About AI",
-      "link": "https://futurism.com/artificial-intelligence/microsoft-ceo-nervous-ai",
-      "summary": "<p>Not sounding too confident about AI not being a bubble.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/microsoft-ceo-nervous-ai\">The CEO of Microsoft Suddenly Sounds Extremely Nervous About AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 20 Jan 2026 13:15:35 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/01/microsoft-ceo-nervous-ai_1b7ae0.jpg?quality=85"
+      "title": "Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet",
+      "link": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
+      "summary": "SpaceX has the most internet-beaming satellites in its constellation, but the competition is coming, and now Jeff Bezos' space company, Blue Origin, has announced the TeraWave network. It says TeraWave will offer bandwidth of up to 6Tb available anywhere on Earth, for both upload and download. The only wrinkle? Even after satellite deployments are scheduled [&#8230;]",
+      "published": "2026-01-21T18:22:57-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2245978343.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Don't click on the LastPass 'create backup' link - it's a scam",
@@ -248,6 +304,22 @@
       "published": "2026-01-21T18:10:33.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2022/03/21/passwords_password.jpg"
+    },
+    {
+      "title": "Everyone can hear your TV in their headphones using this transmitter",
+      "link": "https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones",
+      "summary": "As we've previously lamented, one of Bluetooth's best modern features isn't being embraced by the tech world, but that's changing. Sennheiser has announced a new pair of wireless headphones and a transmitter designed for private TV watching that both use a Bluetooth feature called Auracast. Like tuning into a radio station broadcast from a tower, [&#8230;]",
+      "published": "2026-01-21T18:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sennheiser_auracast1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Here are the best Kindle deals right now",
+      "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
+      "summary": "When it comes to finding a device to read ebooks, you have a few options to choose from. You can always buy a tablet or use your phone, but those devices are multipurpose and can be used for a ton of things, like surfing the web or doomscrolling on X or Bluesky. If you are [&#8230;]",
+      "published": "2026-01-21T18:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25749784/amazon_kindle_colorsoft_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Trump promises nuclear datacenter permits in 3 weeks, calls Greenland 'big beautiful ice'",
@@ -274,44 +346,28 @@
       "image_url": "https://regmedia.co.uk/2026/01/21/exomars_lander_test.jpg"
     },
     {
-      "title": "We come in peace, OpenAI tells locals near gargantuan Stargate facilities",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/stargate_openai_community_plans/",
-      "summary": "<h4>AI darling on neighborly charm offensive amid datacenter backlash</h4> <p>OpenAI wants every Stargate datacenter campus to come with its own community plan reflecting \"local concerns,\" including a commitment not to cause a hike in electricity prices, minimizing water use, and protecting local ecosystems.…</p>",
-      "published": "2026-01-21T16:47:27.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/22/openai_abilene_texas.jpg"
+      "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+      "link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+      "summary": "Apple is working on an AI-powered wearable pin with cameras and microphones designed to pick up a user's surroundings, according to a report from The Information. The rumored device is reportedly the size of an AirTag, with \"thin, flat, circular\" housing made from aluminium and glass. The Information reports that Apple's rumored AI pin will [&#8230;]",
+      "published": "2026-01-21T16:43:27-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/vpavic_4547_20210421_0058.webp?quality=90&#038;strip=all&#038;crop=4.1931811030994,0,83.260651138956,100"
     },
     {
-      "title": "Palantir CEO claims AI will mean western economies won't need immigration",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/palantir_ceo_karp_claims_ai/",
-      "summary": "<h4>Alex Karp can sniff out a hot potato topic, but what comes next in the act?</h4> <p><strong>Opinion</strong>  Palantir CEO Alex Karp has an inimitable aptitude for sniffing out the politically sensitive topic about which, by his own admission, he should not be speaking, but which will also win him the most attention.…</p>",
-      "published": "2026-01-21T15:31:00.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/21/immigration.jpg"
+      "title": "Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc",
+      "summary": "Anthropic is overhauling Claude's so-called \"soul doc.\" The new missive is a 57-page document titled \"Claude's Constitution,\" which details \"Anthropic's intentions for the model's values and behavior,\" aimed not at outside readers but the model itself. The document is designed to spell out Claude's \"ethical character\" and \"core identity,\" including how it should balance conflicting [&#8230;]",
+      "published": "2026-01-21T15:36:18-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_A_7d58b5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Everest ransomware gang said to be sitting on mountain of Under Armour data",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/under_armour_everest/",
-      "summary": "<h4>Have I Been Pwned reckons 72.7M customer accounts affected, sportswear firm remains silent</h4> <p>Have I Been Pwned (HIBP) says 72.7 million accounts registered with Under Armour were affected by an alleged ransomware attack in November.…</p>",
-      "published": "2026-01-21T15:29:23.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/10/14/everest_shutterstock.jpg"
-    },
-    {
-      "title": "Concorde at 50: Twice the speed of sound, twice the economic trouble",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/50_years_concorde/",
-      "summary": "<h4>Supersonic passenger flight worked technically – but never added up commercially</h4> <p>It is 50 years since Concorde began scheduled passenger flights, with British Airways operating a London-Bahrain service and Air France flying from Paris to Rio de Janeiro.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-21T13:59:25.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/04/27/six_parked_concordes_photo_british_airways.jpg"
-    },
-    {
-      "title": "EU considers whether there's Huawei of axing Chinese kit from networks within 3 years",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/eu_mulls_deadline_of_3_years/",
-      "summary": "<h4>Still dominant in Germany's networks, among others</h4> <p>The European Commission (EC) wants a revised Cybersecurity Act to address any threats posed by IT and telecoms kit from third-country sources, potentially forcing member states to confront the thorny issue of suppliers such Huawei in their national networks.…</p>",
-      "published": "2026-01-21T13:42:21.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/06/07/shutterstock_huawei_europe_copenhagen.jpg"
+      "title": "Apple is turning Siri into an AI bot that&#8217;s more like ChatGPT",
+      "link": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt",
+      "summary": "Apple is planning a big Siri overhaul that will transform the voice assistant into an AI chatbot built directly into its iPhone and Mac, according to Bloomberg reporter Mark Gurman. The update is reportedly coming later this year and will replace the existing Siri interface, allowing users to interact with the assistant by both typing [&#8230;]",
+      "published": "2026-01-21T15:26:47-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Samsung Galaxy S26 battery pack leak points to Qi2 charging support",
@@ -320,14 +376,6 @@
       "published": "2026-01-21T13:11:41-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/qi-2-leak-rumor.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "FTC tries to un-Zuck Meta's grip on the market by dragging it back to court",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/ftc_to_drag_meta_back/",
-      "summary": "<h4>Artist formerly known as Facebook can’t escape the legal-verse</h4> <p>The Federal Trade Commission has doubled down on its belief that Meta maintained a monopoly of social networking by anticompetitive conduct, appealing last year's district court victory for Zuck and co.…</p>",
-      "published": "2026-01-21T13:10:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/03/13/zuckerberg_shutterstock.jpg"
     },
     {
       "title": "Volvo aims for an EV reset with the new EX60 crossover",
@@ -352,54 +400,6 @@
       "published": "2026-01-21T12:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ElevenLabs-AI-Album-Eleven.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Trump is steamrolling global calls for a moratorium on deep-sea mining",
-      "link": "https://www.theverge.com/news/864916/deep-sea-mining-trump-fast-track-permits-battery-minerals",
-      "summary": "The Trump administration took the next step toward unilaterally jumpstarting deep-sea mining this week, announcing a \"consolidated\" permitting process for both searching for and commercially extracting minerals that have so far remained relatively untouched. These minerals are found so deep in the sea that they're beyond any single nation's national jurisdiction - which is why [&#8230;]",
-      "published": "2026-01-21T11:53:29-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2226009528.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "DJI’s Mic Mini is a big upgrade over your phone’s mic, and it&#8217;s on sale for $60",
-      "link": "https://www.theverge.com/tech/864942/dji-mac-mini-starlink-mini-deal-sale",
-      "summary": "If you want better audio than your phone can deliver while creating content on the go but a high-end wireless mic isn’t in the budget, DJI’s Mic Mini is worth a look. It’ll improve your audio without putting much of a dent in your wallet, especially today now you can buy it with a single [&#8230;]",
-      "published": "2026-01-21T11:21:26-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/djimicmini.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "This midrange Android phone also runs Windows and Linux",
-      "link": "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11",
-      "summary": "Nex Computer, a company that makes hardware designed to turn your phone into a laptop, is working on something new: the NexPhone. It's a midrange phone that's designed to double as your computer and comes with Android and Linux installed, both of which will offer desktop experiences when plugged into a monitor. But the NexPhone's [&#8230;]",
-      "published": "2026-01-21T11:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02218_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sony’s first clip-on open earbuds have a quiet mode so others can’t listen in",
-      "link": "https://www.theverge.com/tech/864848/sony-linkbuds-clip-open-earbuds-wireless-headphones-bluetooth",
-      "summary": "Sony is the latest company to announce a pair of open-style wireless earbuds that clip onto the back of your ear instead of resting inside it. The new Sony LinkBuds Clip Open earbuds are similar to the Bose Ultra Open Earbuds, JVC's Nearphones, and Shokz' OpenDots One, with a design that doesn't block the ear [&#8230;]",
-      "published": "2026-01-21T11:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sony_clipon1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Verizon&#8217;s prepaid services add a 365-day wait to unlock phones",
-      "link": "https://www.theverge.com/news/864908/verizon-phone-unlocking-visible-tracfone-straight-talk-fcc",
-      "summary": "It's been just one week since Verizon got permission to lift its 60-day phone unlocking period, and the carrier is already making changes to its policy. Now, Verizon says customers who activate a phone on one of its subbrands, including Visible, TracFone, Straight Talk, and Total Wireless, will have to pay for service for 365 [&#8230;]",
-      "published": "2026-01-21T10:41:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK066_VERIZON-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
-      "link": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
-      "summary": "A glass screen protector is one of a few essential accessories that I strongly recommend to every Switch 2 owner. In fact, it should be a priority to stick one onto the console’s screen as soon as possible to avoid accidental scratches.  To test the candidates below, I installed and removed Switch 2 screen protectors [&#8230;]",
-      "published": "2026-01-21T09:50:19-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossyRAWshowcase.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
