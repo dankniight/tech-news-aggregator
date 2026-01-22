@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="theme-color" content="#22c55e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>The Compiler</title>
     <link rel="icon" href="src/res/logo-light.ico" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -70,19 +73,29 @@
             }
             .btn-filter {
                 @apply px-4 py-2 rounded-lg border border-neutral-300 text-black font-medium transition-all duration-200 ease-in-out hover:bg-neutral-50 shadow-sm hover:shadow;
+                @apply touch-manipulation cursor-pointer;
+                @apply active:scale-95;
             }
             .btn-filter.active {
                 @apply bg-gradient-to-r from-accent-500 to-accent-600 text-white border-transparent hover:from-accent-600 hover:to-accent-700;
             }
-            /* Toggle button styles */
+            /* Toggle button styles - improved for mobile */
             .theme-toggle {
-                @apply flex items-center justify-center w-10 h-10 rounded-full bg-white/20 backdrop-blur-sm shadow-lg transition-all duration-300 ease-in-out;
+                @apply flex items-center justify-center w-12 h-12 md:w-10 md:h-10 rounded-full bg-white/20 backdrop-blur-sm shadow-lg transition-all duration-300 ease-in-out;
+                @apply touch-manipulation; /* Better touch handling */
+                @apply active:scale-95; /* Visual feedback on tap */
+                @apply cursor-pointer;
+                min-width: 48px; /* Minimum touch target size for mobile */
+                min-height: 48px;
             }
             .theme-toggle:hover {
                 @apply bg-white/30;
             }
+            .theme-toggle:active {
+                @apply bg-white/40 scale-95;
+            }
             .theme-toggle .icon {
-                @apply text-white text-lg;
+                @apply text-white text-xl md:text-lg;
             }
             
             /* Loading spinner */
@@ -104,9 +117,16 @@
                 vertical-align: middle;
             }
             
-            /* Clean card design */
+            /* Clean card design - improved for mobile */
             .clean-card {
                 @apply bg-white/90 backdrop-blur-sm rounded-xl shadow-md hover:shadow-xl transition-all duration-300 ease-in-out overflow-hidden border border-white/30;
+            }
+            
+            /* Better card interaction on mobile */
+            @media (max-width: 768px) {
+                .article-card {
+                    @apply active:scale-[0.98];
+                }
             }
             
             /* Title letter spacing */
@@ -128,6 +148,34 @@
                 height: 100%;
                 z-index: -1;
                 transition: opacity 0.3s ease;
+            }
+            
+            /* Reduce particles on mobile for better performance */
+            @media (max-width: 768px) {
+                #particles-js {
+                    opacity: 0.5;
+                }
+            }
+            
+            /* Better mobile spacing */
+            @media (max-width: 640px) {
+                .container {
+                    padding-left: 1rem;
+                    padding-right: 1rem;
+                }
+            }
+            
+            /* Improved touch targets for mobile */
+            @media (max-width: 768px) {
+                .btn-filter {
+                    min-height: 44px;
+                    padding: 0.75rem 1rem;
+                    font-size: 0.875rem;
+                }
+                
+                .article-card {
+                    margin-bottom: 1rem;
+                }
             }
             
             /* Glassmorphism effect */
@@ -300,6 +348,36 @@
             .article-card .flex-col {
                 justify-content: flex-start;
             }
+            
+            /* Smooth scrolling */
+            html {
+                scroll-behavior: smooth;
+            }
+            
+            /* Better text rendering on mobile */
+            body {
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+                text-rendering: optimizeLegibility;
+            }
+            
+            /* Prevent text selection on buttons for better UX */
+            button {
+                -webkit-tap-highlight-color: transparent;
+                user-select: none;
+            }
+            
+            /* Better image loading */
+            img {
+                image-rendering: -webkit-optimize-contrast;
+                image-rendering: crisp-edges;
+            }
+            
+            /* Improved focus states for accessibility */
+            button:focus-visible,
+            a:focus-visible {
+                @apply outline-2 outline-offset-2 outline-accent-500;
+            }
         }
     </style>
 </head>
@@ -308,29 +386,29 @@
     <div id="particles-js"></div>
     
     <!-- Top Controls: Sort Order and Dark Mode Toggle -->
-    <div class="fixed top-4 right-4 z-50 flex gap-2">
+    <div class="fixed top-4 right-4 z-50 flex gap-3 md:gap-2">
         <!-- Sort Order Toggle -->
-        <button id="sort-toggle" class="theme-toggle" aria-label="Toggle sort order">
-            <i class="icon fas fa-clock text-lg"></i>
+        <button id="sort-toggle" class="theme-toggle" aria-label="Toggle sort order" type="button">
+            <i class="icon fas fa-clock"></i>
         </button>
         
         <!-- Dark Mode Toggle -->
-        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
-            <i class="icon fas fa-moon text-lg"></i>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" type="button">
+            <i class="icon fas fa-moon"></i>
         </button>
     </div>
     
-    <div class="container mx-auto px-4 py-8 max-w-6xl relative z-10">
-        <header class="mb-12">
-            <div class="mb-10 header-bg">
+    <div class="container mx-auto px-4 md:px-6 py-6 md:py-8 max-w-6xl relative z-10">
+        <header class="mb-8 md:mb-12">
+            <div class="mb-8 md:mb-10 header-bg">
                 <!-- Logo and Title -->
-                <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-6 mb-8">
+                <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 md:gap-6 mb-6 md:mb-8">
                     <div class="flex items-start pt-2">
                         <!-- Logo placeholder -->
-                        <div class="w-16 h-16 rounded-xl flex items-center justify-center text-white text-2xl font-bold">
+                        <div class="w-12 h-12 md:w-16 md:h-16 rounded-xl flex items-center justify-center text-white text-2xl font-bold flex-shrink-0">
                             <img id="logo-img" src="src/res/logo.svg" alt="The Compiler Logo" class="w-full h-full">
                         </div>
-                        <h1 class="text-5xl md:text-7xl font-bold ml-4 title-spacing font-heading leading-snug overflow-visible pb-4 mb-2 -mt-1">
+                        <h1 class="text-4xl sm:text-5xl md:text-7xl font-bold ml-3 md:ml-4 title-spacing font-heading leading-tight md:leading-snug overflow-visible pb-2 md:pb-4 mb-2 -mt-1">
                             <span class="gradient-text inline-block">
                                 The Compiler
                             </span>
@@ -339,36 +417,36 @@
                 </div>
 
                 <!-- Filter Buttons -->
-                <div class="flex flex-wrap gap-3 mb-6">
-                    <button class="btn-filter active" data-filter="all">All News</button>
-                    <button class="btn-filter" data-filter="ai">AI</button>
-                    <button class="btn-filter" data-filter="cloud">Cloud</button>
-                    <button class="btn-filter" data-filter="consumer">Consumer</button>
-                    <button class="btn-filter" data-filter="fintech">Fintech</button>
-                    <button class="btn-filter" data-filter="security">Security</button>
+                <div class="flex flex-wrap gap-2 md:gap-3 mb-6">
+                    <button class="btn-filter active" data-filter="all" type="button">All News</button>
+                    <button class="btn-filter" data-filter="ai" type="button">AI</button>
+                    <button class="btn-filter" data-filter="cloud" type="button">Cloud</button>
+                    <button class="btn-filter" data-filter="consumer" type="button">Consumer</button>
+                    <button class="btn-filter" data-filter="fintech" type="button">Fintech</button>
+                    <button class="btn-filter" data-filter="security" type="button">Security</button>
                 </div>
                 
                 <!-- Source Links with Icons -->
-                <div class="flex flex-wrap gap-5 pt-6 border-t border-white/10">
-                    <a href="https://www.theverge.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="The Verge">
-                        <img src="src/res/verge.ico" alt="The Veerge" class="source-icon-header">
-                        <span class="text-sm font-medium">The Verge</span>
+                <div class="flex flex-wrap gap-3 md:gap-5 pt-4 md:pt-6 border-t border-white/10">
+                    <a href="https://www.theverge.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="The Verge">
+                        <img src="src/res/verge.ico" alt="The Verge" class="source-icon-header">
+                        <span class="text-xs md:text-sm font-medium">The Verge</span>
                     </a>
-                    <a href="https://www.theregister.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="The Register">
+                    <a href="https://www.theregister.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="The Register">
                         <img src="src/res/register.ico" alt="The Register" class="source-icon-header">
-                        <span class="text-sm font-medium">The Register</span>
+                        <span class="text-xs md:text-sm font-medium">The Register</span>
                     </a>
-                    <a href="https://techcrunch.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="TechCrunch">
+                    <a href="https://techcrunch.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="TechCrunch">
                         <img src="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32" alt="TechCrunch" class="source-icon-header">
-                        <span class="text-sm font-medium">TechCrunch</span>
+                        <span class="text-xs md:text-sm font-medium">TechCrunch</span>
                     </a>
-                    <a href="https://arstechnica.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="Ars Technica">
+                    <a href="https://arstechnica.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="Ars Technica">
                         <img src="https://cdn.arstechnica.net/favicon.ico" alt="Ars Technica" class="source-icon-header">
-                        <span class="text-sm font-medium">Ars Technica</span>
+                        <span class="text-xs md:text-sm font-medium">Ars Technica</span>
                     </a>
-                    <a href="https://futurism.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200" aria-label="Futurism">
+                    <a href="https://futurism.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="Futurism">
                         <img src="src/res/futurism.ico" alt="Futurism" class="source-icon-header">
-                        <span class="text-sm font-medium">Futurism</span>
+                        <span class="text-xs md:text-sm font-medium">Futurism</span>
                     </a>
                 </div>
             </div>
@@ -385,13 +463,13 @@
         </div>
 
         <main>
-            <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+            <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 mb-12">
                 <!-- Articles will be loaded here -->
             </div>
         </main>
 
-        <nav id="pagination" class="flex flex-col sm:flex-row justify-between items-center gap-4 pagination glass rounded-xl p-6 hidden pagination-text">
-            <div class="font-medium">
+        <nav id="pagination" class="flex flex-col sm:flex-row justify-between items-center gap-4 pagination glass rounded-xl p-4 md:p-6 hidden pagination-text">
+            <div class="font-medium text-sm md:text-base">
                 Page <span id="current-page" class="font-bold">1</span> of <span id="total-pages" class="font-bold">1</span>
             </div>
             
@@ -418,10 +496,14 @@
                 const isDarkMode = document.documentElement.classList.contains('dark');
                 const particleColor = isDarkMode ? "#5eead4" : "#9ca3af"; // Mint for dark, grey for light
                 
+                // Reduce particle count on mobile for better performance
+                const isMobile = window.innerWidth <= 768;
+                const particleCount = isMobile ? 40 : 80;
+                
                 particlesJS('particles-js', {
                     "particles": {
                         "number": {
-                            "value": 80,
+                            "value": particleCount,
                             "density": {
                                 "enable": true,
                                 "value_area": 800
@@ -547,18 +629,64 @@
             });
         });
 
-        // Theme toggle functionality
-        const themeToggle = document.getElementById('theme-toggle');
-        const themeIcon = themeToggle.querySelector('.icon');
-        const htmlElement = document.documentElement;
+        // Theme toggle functionality - improved for mobile
+        let themeToggle, themeIcon, htmlElement;
         
-        // Check for saved theme preference or respect OS setting
-        const savedTheme = localStorage.getItem('theme');
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        const initialTheme = savedTheme || (prefersDark ? 'dark' : 'light');
+        // Initialize theme system when DOM is ready
+        function initThemeSystem() {
+            themeToggle = document.getElementById('theme-toggle');
+            if (!themeToggle) {
+                // Retry if element not found
+                setTimeout(initThemeSystem, 100);
+                return;
+            }
+            
+            themeIcon = themeToggle.querySelector('.icon');
+            htmlElement = document.documentElement;
+            
+            // Check for saved theme preference or respect OS setting
+            const savedTheme = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const initialTheme = savedTheme || (prefersDark ? 'dark' : 'light');
+            
+            // Apply initial theme
+            applyTheme(initialTheme);
+            updateThemeIcon(initialTheme);
+            
+            // Set initial logo based on theme
+            const logoImg = document.getElementById('logo-img');
+            if (logoImg) {
+                logoImg.src = initialTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
+            }
+            
+            // Add event listeners - support both click and touch events for mobile
+            let lastTouchTime = 0;
+            const TOUCH_DELAY = 300; // Prevent double-firing
+            
+            const handleToggle = (e) => {
+                // Prevent double-firing on mobile (touch + click)
+                const now = Date.now();
+                if (now - lastTouchTime < TOUCH_DELAY) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    return;
+                }
+                lastTouchTime = now;
+                
+                e.preventDefault();
+                e.stopPropagation();
+                toggleTheme();
+            };
+            
+            // Use both click and touchend for better mobile support
+            themeToggle.addEventListener('click', handleToggle);
+            themeToggle.addEventListener('touchend', handleToggle, { passive: false });
+        }
         
         // Apply initial theme with proper class management
         function applyTheme(theme) {
+            if (!htmlElement) return;
+            
             // Remove both theme classes
             htmlElement.classList.remove('light', 'dark');
             document.body.classList.remove('light', 'dark');
@@ -579,20 +707,10 @@
             });
         }
         
-        // Apply initial theme
-        applyTheme(initialTheme);
-        updateThemeIcon(initialTheme);
-        
-        // Set initial logo based on theme
-        document.addEventListener('DOMContentLoaded', function() {
-            const logoImg = document.getElementById('logo-img');
-            if (logoImg) {
-                logoImg.src = initialTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
-            }
-        });
-        
         // Update theme icon based on current theme
         function updateThemeIcon(theme) {
+            if (!themeIcon) return;
+            
             if (theme === 'dark') {
                 themeIcon.classList.remove('fa-moon');
                 themeIcon.classList.add('fa-sun');
@@ -604,6 +722,8 @@
         
         // Toggle theme function
         function toggleTheme() {
+            if (!htmlElement) return;
+            
             const currentTheme = htmlElement.classList.contains('dark') ? 'dark' : 'light';
             const newTheme = currentTheme === 'light' ? 'dark' : 'light';
 
@@ -623,12 +743,50 @@
             localStorage.setItem('theme', newTheme);
         }
         
-        // Add event listener to toggle button
-        themeToggle.addEventListener('click', toggleTheme);
+        // Initialize theme system
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initThemeSystem);
+        } else {
+            initThemeSystem();
+        }
         
-        // Sort toggle functionality
-        const sortToggle = document.getElementById('sort-toggle');
-        sortToggle.addEventListener('click', toggleSortOrder);
+        // Sort toggle functionality - improved for mobile
+        function initSortToggle() {
+            const sortToggle = document.getElementById('sort-toggle');
+            if (!sortToggle) {
+                setTimeout(initSortToggle, 100);
+                return;
+            }
+            
+            let lastTouchTime = 0;
+            const TOUCH_DELAY = 300;
+            
+            const handleSortToggle = (e) => {
+                // Prevent double-firing
+                const now = Date.now();
+                if (now - lastTouchTime < TOUCH_DELAY) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    return;
+                }
+                lastTouchTime = now;
+                
+                e.preventDefault();
+                e.stopPropagation();
+                toggleSortOrder();
+            };
+            
+            // Support both click and touch events
+            sortToggle.addEventListener('click', handleSortToggle);
+            sortToggle.addEventListener('touchend', handleSortToggle, { passive: false });
+        }
+        
+        // Initialize sort toggle
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initSortToggle);
+        } else {
+            initSortToggle();
+        }
 
         // News loading functionality
         let allArticles = [];
@@ -818,18 +976,18 @@
                             </div>`
                         }
                         
-                        <div class="p-6 flex-1 flex flex-col">
-                            <div class="flex items-center mb-3">
-                                <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-accent-500/10 text-accent-700 border border-accent-500/20">
+                        <div class="p-4 md:p-6 flex-1 flex flex-col">
+                            <div class="flex items-center mb-2 md:mb-3 flex-wrap gap-1 md:gap-0">
+                                <span class="inline-flex items-center px-2 md:px-2.5 py-0.5 rounded-full text-xs font-medium bg-accent-500/10 text-accent-700 border border-accent-500/20">
                                     ${article.source}
                                 </span>
-                                <span class="mx-2 text-neutral-400">•</span>
+                                <span class="mx-1 md:mx-2 text-neutral-400 hidden sm:inline">•</span>
                                 <span class="text-xs text-neutral-500">
                                     ${formatDate(article.published)}
                                 </span>
                             </div>
                             
-                            <h2 class="text-3xl font-semibold text-neutral-900 mb-1 line-clamp-3 leading-tight">
+                            <h2 class="text-xl md:text-2xl lg:text-3xl font-semibold text-neutral-900 mb-1 line-clamp-3 leading-tight">
                                 ${article.title}
                             </h2>
                             
@@ -868,53 +1026,106 @@
             // Previous button
             if (currentPage > 1) {
                 const prevButton = document.createElement('button');
-                prevButton.className = 'px-4 py-2 rounded-lg border border-neutral-300/30 hover:bg-white/20 transition-colors duration-200 flex items-center shadow-sm text-neutral-300 text-sm';
+                prevButton.className = 'px-4 py-2 rounded-lg border border-neutral-300/30 hover:bg-white/20 transition-colors duration-200 flex items-center shadow-sm text-neutral-300 text-sm touch-manipulation active:scale-95 min-h-[44px]';
+                prevButton.type = 'button';
                 prevButton.innerHTML = '<i class="fas fa-chevron-left mr-2"></i> Previous';
-                prevButton.addEventListener('click', () => {
+                let lastTouchTime = 0;
+                const TOUCH_DELAY = 300;
+                const handlePrev = (e) => {
+                    const now = Date.now();
+                    if (now - lastTouchTime < TOUCH_DELAY) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        return;
+                    }
+                    lastTouchTime = now;
+                    
+                    e.preventDefault();
                     currentPage--;
                     renderArticles();
-                    // Scroll to top of the page when going to previous page after content is updated
                     setTimeout(() => {
                         window.scrollTo({ top: 0, behavior: 'smooth' });
                     }, 10);
-                });
+                };
+                prevButton.addEventListener('click', handlePrev);
+                prevButton.addEventListener('touchend', handlePrev, { passive: false });
                 paginationButtons.appendChild(prevButton);
             }
             
             // Next button
             if (currentPage < totalPages) {
                 const nextButton = document.createElement('button');
-                nextButton.className = 'px-4 py-2 rounded-lg bg-gradient-to-r from-accent-500 to-accent-600 text-white hover:from-accent-600 hover:to-accent-700 transition-all duration-200 flex items-center shadow-md hover:shadow-lg text-sm';
+                nextButton.className = 'px-4 py-2 rounded-lg bg-gradient-to-r from-accent-500 to-accent-600 text-white hover:from-accent-600 hover:to-accent-700 transition-all duration-200 flex items-center shadow-md hover:shadow-lg text-sm touch-manipulation active:scale-95 min-h-[44px]';
+                nextButton.type = 'button';
                 nextButton.innerHTML = 'Next <i class="fas fa-chevron-right ml-2"></i>';
-                nextButton.addEventListener('click', () => {
+                let lastTouchTime = 0;
+                const TOUCH_DELAY = 300;
+                const handleNext = (e) => {
+                    const now = Date.now();
+                    if (now - lastTouchTime < TOUCH_DELAY) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        return;
+                    }
+                    lastTouchTime = now;
+                    
+                    e.preventDefault();
                     currentPage++;
                     renderArticles();
-                    // Scroll to top of the page when going to next page after content is updated
                     setTimeout(() => {
                         window.scrollTo({ top: 0, behavior: 'smooth' });
                     }, 10);
-                });
+                };
+                nextButton.addEventListener('click', handleNext);
+                nextButton.addEventListener('touchend', handleNext, { passive: false });
                 paginationButtons.appendChild(nextButton);
             }
         }
 
-        // Filter button functionality
-        document.querySelectorAll('.btn-filter').forEach(button => {
-            button.addEventListener('click', function() {
-                // Update active button
-                document.querySelectorAll('.btn-filter').forEach(btn => {
-                    btn.classList.remove('active');
-                });
-                this.classList.add('active');
+        // Filter button functionality - improved for mobile
+        function initFilterButtons() {
+            document.querySelectorAll('.btn-filter').forEach(button => {
+                let lastTouchTime = 0;
+                const TOUCH_DELAY = 300;
                 
-                // Set current filter
-                currentFilter = this.getAttribute('data-filter');
-                currentPage = 1; // Reset to first page
+                const handleFilter = (e) => {
+                    // Prevent double-firing
+                    const now = Date.now();
+                    if (now - lastTouchTime < TOUCH_DELAY) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        return;
+                    }
+                    lastTouchTime = now;
+                    
+                    e.preventDefault();
+                    e.stopPropagation();
+                    
+                    // Update active button
+                    document.querySelectorAll('.btn-filter').forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+                    button.classList.add('active');
+                    
+                    // Set current filter
+                    currentFilter = button.getAttribute('data-filter');
+                    currentPage = 1; // Reset to first page
+                    
+                    // Render articles with new filter
+                    renderArticles();
+                };
                 
-                // Render articles with new filter
-                renderArticles();
+                button.addEventListener('click', handleFilter);
+                button.addEventListener('touchend', handleFilter, { passive: false });
             });
-        });
+        }
+        
+        // Initialize filter buttons when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initFilterButtons);
+        } else {
+            initFilterButtons();
+        }
 
         
 
