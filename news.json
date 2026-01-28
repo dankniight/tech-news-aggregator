@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-01-28T06:43:55.753118",
+  "lastUpdated": "2026-01-28T13:02:14.496134",
   "articles": [
+    {
+      "title": "Waabi raises $1B and expands into robotaxis with Uber",
+      "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+      "summary": "Waabi has secured a $750 million Series C round to accelerate autonomous trucking, and another roughly $250 million commitment from Uber to deploy 25,000 robotaxis exclusively on its platform.",
+      "published": "Wed, 28 Jan 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Waabi_Road4.png?resize=1200,800"
+    },
+    {
+      "title": "Google pitches Gemini to students studying for India’s most competitive college entrance exam",
+      "link": "https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/",
+      "summary": "Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini.",
+      "published": "Wed, 28 Jan 2026 10:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800"
+    },
     {
       "title": "Google Photos brings its prompt-based editing feature to India, Australia and Japan",
       "link": "https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/",
@@ -106,28 +122,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2015/11/wb5715-1152x648.jpg"
     },
     {
-      "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
-      "link": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
-      "summary": "The lawsuit, filed in 2023, alleged that Amazon caused \"substantial unjustified monetary losses” for consumers who returned an item but were still charged for it.",
-      "published": "Tue, 27 Jan 2026 20:38:03 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/amazon-logo.jpg?resize=1200,653"
-    },
-    {
       "title": "Google Staffers Terrified of ICE After Attempt to Force Entry Into Company Building",
       "link": "https://futurism.com/future-society/google-ice-agents-workers",
       "summary": "<p>The head of security said that an \"officer arrived at reception without notice.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/google-ice-agents-workers\">Google Staffers Terrified of ICE After Attempt to Force Entry Into Company Building</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 27 Jan 2026 20:20:23 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/google-ice-agents-workers.jpg?quality=85"
-    },
-    {
-      "title": "TikTok joins Snap to settle social media addiction lawsuit",
-      "link": "https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/",
-      "summary": "Jury selection begins Tuesday as this case moves closer to trial.",
-      "published": "Tue, 27 Jan 2026 19:40:46 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/parental-controls-evergreen.jpg?resize=1200,683"
     },
     {
       "title": "LG's new subscription program charges up to £277 per month to rent a TV",
@@ -242,6 +242,102 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/01/tesla-kills-autopilot-criticism.jpg?quality=85"
     },
     {
+      "title": "How agentic AI can strain modern memory hierarchies",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/how_agentic_ai_strains_modern_memory_heirarchies/",
+      "summary": "<h4>You can’t cheaply recompute without re-running the whole model – so KV cache starts piling up</h4> <p><strong>Feature</strong>  Large language model inference is often stateless, with each query handled independently and no carryover from previous interactions. A request arrives, the model generates a response, and the computational state gets discarded. In such AI systems, memory grows linearly with sequence length and can become a bottleneck for long contexts. …</p>",
+      "published": "2026-01-28T12:00:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/08/27/shutterstock_general_ai.jpg"
+    },
+    {
+      "title": "Oracle silent over user complaints about OCI London 'wobble' last week",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/oci_access_complaints/",
+      "summary": "<h4>But did it falter? Oracle debuts Schrödinger's cloud</h4> <p>Oracle Cloud Infrastructure (OCI) users reported an outage late last week in its London region, yet despite complaints from <em>Register</em> readers, Big Red is staying quiet.…</p>",
+      "published": "2026-01-28T11:15:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/07/20/shutterstock_schrodinger_cat.jpg"
+    },
+    {
+      "title": "Microsoft Azure OpenAI Service takes an unscheduled day off in Sweden",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/azure_openai_service_sweden/",
+      "summary": "<h4>Cascading backend failures kept users locked out until home time</h4> <p>Microsoft Azure, or at least the part of it that handles the OpenAI service in the Sweden Central region, was down and out for the count yesterday, leaving users facing errors for much of the working day.…</p>",
+      "published": "2026-01-28T10:27:22.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/11/01/shutterstock_kungstradgarden.jpg"
+    },
+    {
+      "title": "UK tax collector plans £2B tech binge as legacy systems refuse to die",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/hmrc_tech_pipeline/",
+      "summary": "<h4>AWS and Capgemini loom large in HMRC's procurement pipeline</h4> <p>The UK's tax collector is budgeting to spend more than £2 billion on new tech deals in the next couple of years, including a contract set for AWS and another for Capgemini to be awarded without competition.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-01-28T10:15:43.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/02/20/shutterstock_hmrc2.jpg"
+    },
+    {
+      "title": "Britain's Ministry of Defence signs on the dotted line with Palantir",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/mod_palantir_deal/",
+      "summary": "<h4>'Follow-on' agreement lasts 3 years as US techies protest vendor's ICE contract Stateside</h4> <p>The UK's Ministry of Defence (MoD) has directly awarded a £240.6 million contract to US technology company Palantir to continue to licence and support its data analytics work.…</p>",
+      "published": "2026-01-28T09:30:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/07/30/military_shutterstock.jpg"
+    },
+    {
+      "title": "ATM flashes a port or two for the enterprising hacker",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/atm_flashes_a_port_bork/",
+      "summary": "<h4>Connection secured. Not so sure about the installation</h4> <p><strong>Bork!Bork!Bork!</strong>  Behold an ATM crying out for a man-in-the-middle attack. An obsolete Microsoft operating system cannot be blamed here. This is all about the hardware.…</p>",
+      "published": "2026-01-28T08:31:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/27/bork12.jpg"
+    },
+    {
+      "title": "Grok is the most antisemitic chatbot according to the ADL",
+      "link": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+      "summary": "Across six top large language models, xAI's Grok performed the worst at identifying and countering antisemitic content, according to a study published Wednesday by the Anti-Defamation League. On the other end of the spectrum, Anthropic's Claude performed the best according to the report's metrics, but the ADL said all models had gaps that required improvement. [&#8230;]",
+      "published": "2026-01-28T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268270_ADL_Grok_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Windows 11&#8217;s ability to resume Android apps on your PC is getting closer",
+      "link": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
+      "summary": "Microsoft is getting ready to improve Windows 11's ability to resume Android apps on a PC. The software giant first introduced its cross-device resume last year, letting Windows 11 users resume OneDrive sessions from their Android device on a PC. Now, it's expanding this to Spotify playback, browsing sessions, and more. The improved cross-device resume [&#8230;]",
+      "published": "2026-01-28T06:18:36-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives",
+      "link": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+      "summary": "A pair of astronomers at the European Space Agency (ESA) discovered more than 800 previously undocumented \"astrophysical anomalies\" hiding in Hubble's archives. To do so, researchers David O'Ryan and Pablo G&#243;mez trained an AI model to comb through Hubble's 35-year dataset, hunting for strange objects and flagging them for manual review. It's \"a treasure trove [&#8230;]",
+      "published": "2026-01-28T06:15:37-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Astrophysical_anomalies_from_Hubble_s_archive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Self-driving truck startup Waabi is teaming up with Uber on robotaxis",
+      "link": "https://www.theverge.com/news/868535/waabi-robotaxi-uber-fundraising-self-driving-truck",
+      "summary": "Waabi, the Toronto-based autonomous trucking startup, is expanding its portfolio to include robotaxis. And it's bringing Uber along for the ride. Raquel Urtasun, the former chief scientist at Uber's now defunct Advanced Technologies Group, founded Waabi in 2021 to be a more \"AI-centric approach\" to autonomous vehicles. That approach initially focused on trucking, with Waabi [&#8230;]",
+      "published": "2026-01-28T06:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25495300/Waabi_Truck__5_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Tim Cook had ‘a good conversation’ with Trump about deescalation",
+      "link": "https://www.theverge.com/news/869155/apple-tim-cook-president-trump-deescalate-minneapolis",
+      "summary": "Apple CEO Tim Cook has spoken out about \"the events in Minneapolis\" after federal agents shot and killed another protester over the weekend, telling employees that he has shared his feelings with President Trump. In an internal memo reported by Bloomberg, Cook said that \"this is a time for deescalation,\" and that he had \"a [&#8230;]",
+      "published": "2026-01-28T05:52:14-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951501/VRG_Illo_STK170_L_Normand_TimCook_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google just leaked a first look at Android for PC in action",
+      "link": "https://www.theverge.com/news/869142/google-leak-aluminium-os-android-pc-bug-report-video",
+      "summary": "We've been waiting months for our first look at Android running on a PC in Google's upcoming ChromeOS / Android hybrid platform, codenamed Aluminium OS. Now we've seen it in action, and have Google to thank for the leak. 9to5Google spotted a bug report related to Chrome Incognito tabs published to the Google Issue Tracker [&#8230;]",
+      "published": "2026-01-28T04:26:01-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/aluminium-os-first-look.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Paranoid WhatsApp users rejoice: Encrypted app gets one-click privacy toggle",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/whatsapp_strict_account_settings_meta_rust/",
       "summary": "<h4>Meta also replaces a legacy C++ media-handling security library with Rust</h4> <p>Users of Meta's WhatsApp messenger looking to simplify the process of protecting themselves are in luck, as the company is rolling out a new feature that combines multiple security settings under a single, toggleable option. …</p>",
@@ -290,14 +386,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/247288_Phone_Buying_Guides_6_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Penguin in your pocket: Nexphone dual boots into Linux, Windows 11",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nex_brax_dualboot_fondleslabs/",
-      "summary": "<h4>An expandable tablet, and a phone that reboots into desktop Windows</h4> <p>For most mobile devices, the OS is either Android or iOS, but a pair of new systems promises a host of additional OS options you can dual boot into. The Android phone can run Linux and boot into Windows 11 where it functions as a PC while the tablet runs a smorgasbord of Google-free OSes.…</p>",
-      "published": "2026-01-27T18:57:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/27/nexphone_windows_desktop.jpg"
-    },
-    {
       "title": "Meta is spending millions to convince people that data centers are cool and you like them",
       "link": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
       "summary": "Over the last few months of 2025, Meta spent $6.4 million on an ad campaign running in cities across the country, from Sacramento to Washington, with a clear mission: win over viewers on the construction of new data centers. As the New York Times reports, the ad campaign is anchored by short, folksy video spotlights [&#8230;]",
@@ -306,100 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951355/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Clawdbot sheds skin to become Moltbot, can't slough off security issues",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/clawdbot_moltbot_security_concerns/",
-      "summary": "<h4>The massively hyped agentic personal assistant has security experts wondering why anyone would install it</h4> <p>Security concerns for the new agentic AI tool formerly known as Clawdbot remain, despite a rebrand prompted by trademark concerns raised by Anthropic. Would you be comfortable handing the keys to your identity kingdom over to a bot, one that might be exposed to the open internet?…</p>",
-      "published": "2026-01-27T18:45:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/03/05/lobsterpot.jpg"
-    },
-    {
       "title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech’s new obsession",
       "link": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent",
       "summary": "An open-source AI agent that \"actually does things\" is taking off, with people across the web sharing how they're using the agent to do a whole bunch of things, like manage reminders, log health and fitness data, and even communicate with clients. The tool, called Moltbot (formerly Clawdbot), runs locally on a variety of devices, [&#8230;]",
       "published": "2026-01-27T18:28:11-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/moltbot-edit.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "European firms push on with AI pilots even as payoff doubts grow",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/emea_ai_idc_lenovo/",
-      "summary": "<h4>IDC and Lenovo say enterprises are pressing ahead with pilot deployments despite mixed evidence on returns</h4> <p>Despite a growing number of reports that AI is not benefiting many businesses, Lenovo and IDC say that firms in EMEA are pushing ahead with pilot deployments and still expect it to drive growth and transform how they operate.…</p>",
-      "published": "2026-01-27T18:15:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/08/23/cyborgbusinessman.jpg"
-    },
-    {
-      "title": "The best budget robot vacuums",
-      "link": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
-      "summary": "Today’s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it’s easy to forget that they can just be simple machines that get us from point A to point B. Yes, some bots blow hot air on their bums (mop pads), deftly navigate dog poop, [&#8230;]",
-      "published": "2026-01-27T18:09:23-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/257645_budget_robovac_guide_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Micron continues fab spending spree with $24B NAND storage plant in Singapore",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/micron_continues_fab_expansion_with/",
-      "summary": "<h4>No salvation from the memory winter, though - plant won't start churning out chips until 2028</h4> <p>Flush with cash from skyrocketing memory prices, Micron continued its fab expansion this week, this time breaking ground on a $24 billion manufacturing complex that will eventually produce chips used in storage devices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-01-27T18:08:01.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/09/18/shutterstock_singapore.jpg"
-    },
-    {
-      "title": "Salesforce signs $5.6B deal to inject agentic AI into the US Army",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/salesforce_5b_deal_agentic_ai_us_army/",
-      "summary": "<h4>Analytics features arrive first; agentic AI comes later</h4> <p>Salesforce is getting cosier with the US Army via a deal worth up to $5.6 billion, selling cloud analytics as the groundwork for a future agentic AI push across the service and the wider DoD.…</p>",
-      "published": "2026-01-27T17:55:19.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/09/26/shutterstock_salesforce.jpg"
-    },
-    {
-      "title": "The winter storm tested power grids straining to accommodate AI data centers",
-      "link": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm",
-      "summary": "The colossal winter storm that swept across 34 states left hundreds of thousands of people without electricity. Bitterly cold temperatures lingering after Winter Storm Fern are still testing power grids, already under stress from a rush of new AI data centers. Over the weekend, wholesale electricity prices soared in Virginia, the state with the most [&#8230;]",
-      "published": "2026-01-27T17:28:58-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2257698805.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best fitness trackers and watches we’ve tested",
-      "link": "https://www.theverge.com/22985108/best-fitness-tracker",
-      "summary": "Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you’ve recovered from a hard bout of training. Even flagship smartwatches, which used to be lackluster trackers, have become pretty adept workout companions. Whatever your fitness [&#8230;]",
-      "published": "2026-01-27T16:51:15-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257835_Fitness_Tracker_Buying_Guide_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Pope warns flock to raise their faces, protect their voices in fightback against AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/pope_warns_flock_to_raise/",
-      "summary": "<h4>Vicar of Rome decries naive and unquestioning reliance on technology</h4> <p>Catholics need to develop critical thinking skills to counter the dark side of AI and counter unnatural attachments to chatbots, the pope said this week in a message marking the Church's social communications day.…</p>",
-      "published": "2026-01-27T16:37:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/19/shutterstock_pope_leo_xiv.jpg"
-    },
-    {
-      "title": "Razer’s testing a new tool for customizing its keyboards in your browser",
-      "link": "https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings",
-      "summary": "Razer has announced the beta release of a new online customization tool compatible with several versions of its Huntsman V3 Pro keyboards at launch. Razer Synapse Web isn't a full replacement for the company's Synapse 4 desktop app. It's instead designed to be a streamlined alternative accessible through a browser for situations where you're not [&#8230;]",
-      "published": "2026-01-27T14:38:19-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/razor1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon shutters all of its physical Go and Fresh stores",
-      "link": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
-      "summary": "Amazon Go and Fresh physical store locations will soon be no more, with Amazon announcing on Tuesday that it's closing the majority of the stores and converting others into Whole Foods Market locations. Customers will still be able to order from Amazon Fresh online, but won't be able to shop at physical stores with the [&#8230;]",
-      "published": "2026-01-27T13:55:55-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252647807.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "A former Netflix game studio went indie to reach more players",
-      "link": "https://www.theverge.com/entertainment/868711/spry-fox-netflix-game-studio-indie-spirit-crossing",
-      "summary": "When Netflix first acquired cozy game developer Spry Fox in 2022, it made a lot of sense. The studio had been around for over a decade and had several hits with mobile games like Triple Town and Alphabear. That approachable style of puzzle game seemed like a good fit for Netflix's mobile-first strategy, and, as [&#8230;]",
-      "published": "2026-01-27T13:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ss_2c6e20c8a935d23e23c214ca5db8306db882c08e.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
