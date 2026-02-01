@@ -604,7 +604,7 @@
                 year: 'numeric',
                 month: 'short',
                 day: 'numeric'
-            }) + ' at ' + date.toLocaleTimeString('en-US', {
+            }) + ' - ' + date.toLocaleTimeString('en-US', {
                 hour: '2-digit',
                 minute: '2-digit'
             });
@@ -699,8 +699,9 @@
             // Remove HTML tags (replace with space to prevent join) and normalize whitespace
             let textContent = htmlContent.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
 
-            // Find sentences: content ending in . ! ? followed by whitespace or end of string
-            const sentences = textContent.match(/.*?[.!?]+(?=\s|$)/g);
+            // Find sentences: content ending in . ! ? followed by whitespace or end of string,
+            // but include closing quotes/parens if they exist
+            const sentences = textContent.match(/.*?[.!?]+['"”’)]*(?=\s|$)/g);
 
             if (sentences && sentences.length > 0) {
                 let summary = sentences[0];
