@@ -88,8 +88,20 @@
                 @apply px-5 py-2.5 rounded-xl font-medium transition-all duration-300 active:scale-95 touch-manipulation;
             }
             
+            .btn-filter {
+                @apply transition-colors duration-200;
+            }
+
+            .btn-filter:hover:not(.active) {
+                @apply bg-white/80 dark:bg-white/10;
+            }
+
             .btn-filter.active {
                 @apply bg-primary-500 text-white shadow-lg shadow-primary-500/25 border-transparent;
+            }
+
+            .btn-filter.active:hover {
+                @apply bg-primary-600;
             }
 
             /* Custom scrollbar */
@@ -194,18 +206,12 @@
 
             <!-- Filter Buttons -->
             <div class="flex flex-wrap items-center gap-3 mb-8">
-                <button class="btn-filter active btn-base glass-panel dark:hover:bg-white/5" data-filter="all"
-                    type="button">All News</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="ai"
-                    type="button">AI</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="cloud"
-                    type="button">Cloud</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="consumer"
-                    type="button">Consumer</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="fintech"
-                    type="button">Fintech</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="security"
-                    type="button">Security</button>
+                <button class="btn-filter active btn-base glass-panel" data-filter="all" type="button">All News</button>
+                <button class="btn-filter btn-base glass-panel" data-filter="ai" type="button">AI</button>
+                <button class="btn-filter btn-base glass-panel" data-filter="cloud" type="button">Cloud</button>
+                <button class="btn-filter btn-base glass-panel" data-filter="consumer" type="button">Consumer</button>
+                <button class="btn-filter btn-base glass-panel" data-filter="fintech" type="button">Fintech</button>
+                <button class="btn-filter btn-base glass-panel" data-filter="security" type="button">Security</button>
             </div>
 
             <!-- Source Links -->
