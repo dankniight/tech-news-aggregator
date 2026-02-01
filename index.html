@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
@@ -12,45 +13,53 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
     <script>
         tailwind.config = {
+            darkMode: 'class',
             theme: {
                 extend: {
                     fontFamily: {
-                        'heading': ['Merriweather', 'serif'],
+                        'heading': ['Space Grotesk', 'sans-serif'],
                         'body': ['Inter', 'sans-serif'],
+                        'serif': ['Merriweather', 'serif'],
                     },
                     colors: {
-                        // Modern mint color palette
                         primary: {
-                            50: '#f0fdf4',
-                            100: '#dcfce7',
-                            200: '#bbf7d0',
-                            300: '#86efac',
-                            400: '#4ade80',
-                            500: '#22c55e', /* Main mint color */
-                            600: '#16a34a',
-                            700: '#15803d',
-                            800: '#166534',
-                            900: '#14532d',
-                        },
-                        accent: {
-                            500: '#2dd4bf', // Teal
+                            50: '#f0fdf9',
+                            100: '#ccfbf1',
+                            200: '#99f6e4',
+                            300: '#5eead4',
+                            400: '#2dd4bf',
+                            500: '#14b8a6',
                             600: '#0d9488',
                             700: '#0f766e',
+                            800: '#115e59',
+                            900: '#134e4a',
+                            950: '#042f2e',
                         },
-                        neutral: {
-                            50: '#fafafa',
-                            100: '#f5f5f5',
-                            200: '#e5e5e5',
-                            300: '#d4d4d4',
-                            400: '#a3a3a3',
-                            500: '#737373',
-                            600: '#525252',
-                            700: '#404040',
-                            800: '#262626',
-                            900: '#171717',
+                        dark: {
+                            900: '#0a0a0a',
+                            800: '#171717',
+                            700: '#262626',
+                            600: '#404040',
+                        }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-out forwards',
+                        'slide-up': 'slideUp 0.5s ease-out forwards',
+                        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' },
+                        },
+                        slideUp: {
+                            '0%': { opacity: '0', transform: 'translateY(20px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
                         }
                     }
                 }
@@ -59,430 +68,212 @@
     </script>
     <style type="text/tailwindcss">
         @layer utilities {
-            .article-card {
-                @apply transition-all duration-300 ease-in-out hover:-translate-y-1 hover:shadow-xl;
+            .glass-panel {
+                @apply bg-white/70 dark:bg-black/40 backdrop-blur-xl border border-white/20 dark:border-white/10;
             }
-            .article-card a {
-                @apply text-inherit no-underline;
+            
+            .card-hover {
+                @apply transition-all duration-500 ease-out hover:-translate-y-2 hover:shadow-2xl hover:shadow-primary-500/20;
             }
-            .btn-primary {
-                @apply bg-gradient-to-r from-accent-500 to-accent-600 hover:from-accent-600 hover:to-accent-700 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 ease-in-out transform hover:-translate-y-0.5 focus:ring-2 focus:ring-accent-500 focus:ring-opacity-50 shadow-md hover:shadow-lg;
+
+            .text-gradient {
+                @apply bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-400;
             }
-            .btn-outline {
-                @apply border border-neutral-300 hover:border-neutral-400 text-neutral-700 font-medium py-2 px-4 rounded-lg transition-all duration-200 ease-in-out hover:bg-neutral-50 shadow-sm hover:shadow-md;
+            
+            .text-gradient-primary {
+                @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-primary-400 dark:from-primary-300 dark:to-primary-500;
             }
-            .btn-filter {
-                @apply px-4 py-2 rounded-lg border border-neutral-300 text-black font-medium transition-all duration-200 ease-in-out hover:bg-neutral-50 shadow-sm hover:shadow;
-                @apply touch-manipulation cursor-pointer;
-                @apply active:scale-95;
+
+            .btn-base {
+                @apply px-5 py-2.5 rounded-xl font-medium transition-all duration-300 active:scale-95 touch-manipulation;
             }
+            
             .btn-filter.active {
-                @apply bg-gradient-to-r from-accent-500 to-accent-600 text-white border-transparent hover:from-accent-600 hover:to-accent-700;
+                @apply bg-primary-500 text-white shadow-lg shadow-primary-500/25 border-transparent;
             }
-            /* Toggle button styles - improved for mobile */
-            .theme-toggle {
-                @apply flex items-center justify-center w-12 h-12 md:w-10 md:h-10 rounded-full bg-white/20 backdrop-blur-sm shadow-lg transition-all duration-300 ease-in-out;
-                @apply touch-manipulation; /* Better touch handling */
-                @apply active:scale-95; /* Visual feedback on tap */
-                @apply cursor-pointer;
-                min-width: 48px; /* Minimum touch target size for mobile */
-                min-height: 48px;
+
+            /* Custom scrollbar */
+            ::-webkit-scrollbar {
+                width: 8px;
             }
-            .theme-toggle:hover {
-                @apply bg-white/30;
+            ::-webkit-scrollbar-track {
+                @apply bg-transparent;
             }
-            .theme-toggle:active {
-                @apply bg-white/40 scale-95;
+            ::-webkit-scrollbar-thumb {
+                @apply bg-gray-300 dark:bg-gray-700 rounded-full;
             }
-            .theme-toggle .icon {
-                @apply text-white text-xl md:text-lg;
+            ::-webkit-scrollbar-thumb:hover {
+                @apply bg-gray-400 dark:bg-gray-600;
             }
             
             /* Loading spinner */
             .spinner {
-                border-top-color: #2dd4bf;
+                border-top-color: currentColor;
                 animation: spin 1s linear infinite;
             }
             @keyframes spin {
                 0% { transform: rotate(0deg); }
                 100% { transform: rotate(360deg); }
             }
-            
-            /* Source icon styles */
-            .source-icon-header {
-                width: 20px;
-                height: 20px;
-                display: inline-block;
-                margin-right: 8px;
-                vertical-align: middle;
-            }
-            
-            /* Clean card design - improved for mobile */
-            .clean-card {
-                @apply bg-white/90 backdrop-blur-sm rounded-xl shadow-md hover:shadow-xl transition-all duration-300 ease-in-out overflow-hidden border border-white/30;
-            }
-            
-            /* Better card interaction on mobile */
-            @media (max-width: 768px) {
-                .article-card {
-                    @apply active:scale-[0.98];
-                }
-            }
-            
-            /* Title letter spacing */
-            .title-spacing {
-                @apply tracking-wide;
-            }
-            
-            /* Article image placeholder */
-            .image-placeholder {
-                @apply bg-gradient-to-br from-neutral-100 to-neutral-200;
-            }
-            
-            /* Particles background */
-            #particles-js {
-                position: fixed;
-                top: 0;
-                left: 0;
-                width: 100%;
-                height: 100%;
-                z-index: -1;
-                transition: opacity 0.3s ease;
-            }
-            
-            /* Reduce particles on mobile for better performance */
-            @media (max-width: 768px) {
-                #particles-js {
-                    opacity: 0.5;
-                }
-            }
-            
-            /* Better mobile spacing */
-            @media (max-width: 640px) {
-                .container {
-                    padding-left: 1rem;
-                    padding-right: 1rem;
-                }
-            }
-            
-            /* Improved touch targets for mobile */
-            @media (max-width: 768px) {
-                .btn-filter {
-                    min-height: 44px;
-                    padding: 0.75rem 1rem;
-                    font-size: 0.875rem;
-                }
-                
-                .article-card {
-                    margin-bottom: 1rem;
-                }
-            }
-            
-            /* Glassmorphism effect */
-            .glass {
-                @apply bg-white/20 backdrop-blur-md border border-white/30;
-            }
-            
-            /* Animated gradient text */
-            .gradient-text {
-                @apply bg-clip-text text-transparent bg-gradient-to-r from-white via-teal-100 to-teal-300;
-            }
-            
-            /* Header background */
-            .header-bg {
-                @apply bg-gradient-to-r from-black/20 to-black/10 backdrop-blur-sm rounded-2xl p-6;
-            }
-            
-            /* Light mode overrides */
-            .light .clean-card {
-                @apply bg-white/80 border-neutral-200/50;
-            }
-            
-            .light .glass {
-                @apply bg-white/30 border-neutral-200/50;
-            }
-            
-            .light .btn-outline {
-                @apply border-neutral-300 hover:border-neutral-400 text-neutral-700;
-            }
-            
-            .light .btn-filter {
-                @apply border-neutral-300 text-black;
-            }
-            
-            .light .btn-filter.active {
-                @apply text-white;
-            }
-            
-            .light .image-placeholder {
-                @apply bg-gradient-to-br from-neutral-100 to-neutral-200;
-            }
-            
-            .light .pagination {
-                @apply text-neutral-600;
-            }
-            
-            .light .theme-toggle .icon {
-                @apply text-neutral-800;
-            }
-            
-            .light .gradient-text {
-                @apply text-neutral-800;
-                background: none !important;
-                -webkit-background-clip: unset !important;
-                background-clip: unset !important;
-            }
-            
-            .light .header-bg {
-                @apply bg-gradient-to-r from-black/5 to-black/5 backdrop-blur-sm rounded-2xl p-6;
-            }
-            
-            .light .gradient-text {
-                @apply text-black bg-none;
-                background: none !important;
-                -webkit-background-clip: unset !important;
-                background-clip: unset !important;
-            }
-            
-            /* Dark mode - using Tailwind's dark: prefix for better mobile support */
-            @media (prefers-color-scheme: dark) {
-                :root {
-                    @apply dark;
-                }
-            }
-            
-            /* Ensure dark mode styles apply correctly on all devices */
-            html.dark body {
-                @apply bg-gradient-to-br from-neutral-900 to-neutral-800 text-white !important;
-            }
-            
-            html.dark .clean-card {
-                @apply bg-neutral-800/90 border-neutral-700/50 text-white !important;
-            }
-            
-            html.dark .header-bg {
-                @apply bg-gradient-to-r from-black/30 to-black/20 !important;
-            }
-            
-            html.dark .text-neutral-600 {
-                @apply text-neutral-300 !important;
-            }
-            
-            html.dark .text-neutral-700 {
-                @apply text-neutral-300 !important;
-            }
-            
-            html.dark .btn-filter {
-                @apply text-white !important;
-            }
-            
-            html.dark .border-t {
-                @apply border-white/10 !important;
-            }
-            
-            html.dark .pagination-text {
-                @apply text-neutral-300 !important;
-            }
-            
-            html.dark .pagination-text .font-bold {
-                @apply text-white !important;
-            }
-            
-            /* Light mode */
-            html.light body {
-                @apply bg-gradient-to-br from-neutral-50 to-neutral-100 text-black !important;
-            }
-            
-            html.light .pagination-text {
-                @apply text-neutral-600 !important;
-            }
-            
-            html.light .pagination-text .font-bold {
-                @apply text-black !important;
-            }
-            
-            /* Additional dark mode text color fixes */
-            html.dark .article-card h2 {
-                @apply text-white !important;
-            }
-            
-            html.dark .article-card p {
-                @apply text-neutral-200 !important;
-            }
-            
-            html.dark #articles-container .clean-card {
-                @apply text-white !important;
-            }
-            
-            html.dark #articles-container .text-neutral-600 {
-                @apply text-neutral-300 !important;
-            }
-            
-            /* Ensure consistent font sizes across all sources */
-            .article-card h2,
-            .article-card p {
-                font-size: inherit;
-            }
-            
-            /* Normalize article summary styling */
-            .article-card p.text-neutral-600 {
-                font-size: 0.875rem; /* text-sm equivalent */
-                line-height: 1.25rem; /* consistent line height */
-            }
-            
-            /* Override any source-specific styling that might affect font size */
-            .article-card p[class*="text-"] {
-                font-size: 0.875rem !important;
-            }
-            
-            /* Article title and summary spacing */
-            .article-card h2 {
-                margin-bottom: 0.25rem; /* Reduced spacing */
-            }
-            
-            .article-card p {
-                margin-top: 0.25rem; /* Reduced spacing */
-            }
-            
-            /* Prevent article content from stretching */
-            .article-card .flex-col {
-                justify-content: flex-start;
-            }
-            
-            /* Smooth scrolling */
-            html {
-                scroll-behavior: smooth;
-            }
-            
-            /* Better text rendering on mobile */
-            body {
-                -webkit-font-smoothing: antialiased;
-                -moz-osx-font-smoothing: grayscale;
-                text-rendering: optimizeLegibility;
-            }
-            
-            /* Prevent text selection on buttons for better UX */
-            button {
-                -webkit-tap-highlight-color: transparent;
-                user-select: none;
-            }
-            
-            /* Better image loading */
-            img {
-                image-rendering: -webkit-optimize-contrast;
-                image-rendering: crisp-edges;
-            }
-            
-            /* Improved focus states for accessibility */
-            button:focus-visible,
-            a:focus-visible {
-                @apply outline-2 outline-offset-2 outline-accent-500;
-            }
         }
+        
+        /* Particle background fixes */
+        #particles-js {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        body {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .article-enter {
+            animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+            opacity: 0;
+        }
+
     </style>
 </head>
-<body class="font-body relative overflow-x-hidden">
+
+<body
+    class="bg-gray-50 dark:bg-dark-900 font-body relative min-h-screen text-gray-800 dark:text-gray-100 transition-colors duration-300">
     <!-- Particles Background -->
-    <div id="particles-js"></div>
-    
-    <!-- Top Controls: Sort Order and Dark Mode Toggle -->
-    <div class="fixed top-4 right-4 z-50 flex gap-3 md:gap-2">
-        <!-- Sort Order Toggle -->
-        <button id="sort-toggle" class="theme-toggle" aria-label="Toggle sort order" type="button">
+    <div id="particles-js" class="opacity-30 dark:opacity-40"></div>
+
+    <!-- Top Controls -->
+    <div class="fixed top-6 right-6 z-50 flex gap-3">
+        <button id="sort-toggle"
+            class="theme-toggle glass-panel text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-white/10"
+            aria-label="Toggle sort order" type="button">
             <i class="icon fas fa-clock"></i>
         </button>
-        
-        <!-- Dark Mode Toggle -->
-        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" type="button">
+
+        <button id="theme-toggle"
+            class="theme-toggle glass-panel text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-white/10"
+            aria-label="Toggle dark mode" type="button">
             <i class="icon fas fa-moon"></i>
         </button>
     </div>
-    
-    <div class="container mx-auto px-4 md:px-6 py-6 md:py-8 max-w-6xl relative z-10">
-        <header class="mb-8 md:mb-12">
-            <div class="mb-8 md:mb-10 header-bg">
-                <!-- Logo and Title -->
-                <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 md:gap-6 mb-6 md:mb-8">
-                    <div class="flex items-start pt-2">
-                        <!-- Logo placeholder -->
-                        <div class="w-12 h-12 md:w-16 md:h-16 rounded-xl flex items-center justify-center text-white text-2xl font-bold flex-shrink-0">
-                            <img id="logo-img" src="src/res/logo.svg" alt="The Compiler Logo" class="w-full h-full">
+
+    <div class="container mx-auto px-4 md:px-8 py-12 md:py-16 max-w-7xl relative z-10">
+        <header class="mb-12 md:mb-16">
+            <!-- Hero Section -->
+            <div class="flex flex-col md:flex-row items-start md:items-end gap-6 mb-10">
+                <div class="flex items-center gap-5">
+                    <div class="p-2 glass-panel rounded-2xl shadow-xl shadow-primary-500/10 shrink-0">
+                        <div
+                            class="w-14 h-14 md:w-16 md:h-16 rounded-xl flex items-center justify-center bg-gradient-to-br from-primary-400 to-primary-600 shadow-lg text-white">
+                            <img id="logo-img" src="src/res/logo.svg" alt="The Compiler Logo"
+                                class="w-8 h-8 md:w-10 md:h-10 brightness-0 invert">
                         </div>
-                        <h1 class="text-4xl sm:text-5xl md:text-7xl font-bold ml-3 md:ml-4 title-spacing font-heading leading-tight md:leading-snug overflow-visible pb-2 md:pb-4 mb-2 -mt-1">
-                            <span class="gradient-text inline-block">
-                                The Compiler
-                            </span>
+                    </div>
+
+                    <div class="flex flex-col">
+                        <h1 class="text-4xl md:text-6xl font-bold font-heading tracking-tight leading-none mb-1">
+                            <span class="text-gradient-primary">The Compiler</span>
                         </h1>
+                        <p class="text-base md:text-lg text-gray-600 dark:text-gray-400 font-light">
+                            Curated tech news for the modern developer.
+                        </p>
                     </div>
                 </div>
+            </div>
 
-                <!-- Filter Buttons -->
-                <div class="flex flex-wrap gap-2 md:gap-3 mb-6">
-                    <button class="btn-filter active" data-filter="all" type="button">All News</button>
-                    <button class="btn-filter" data-filter="ai" type="button">AI</button>
-                    <button class="btn-filter" data-filter="cloud" type="button">Cloud</button>
-                    <button class="btn-filter" data-filter="consumer" type="button">Consumer</button>
-                    <button class="btn-filter" data-filter="fintech" type="button">Fintech</button>
-                    <button class="btn-filter" data-filter="security" type="button">Security</button>
-                </div>
-                
-                <!-- Source Links with Icons -->
-                <div class="flex flex-wrap gap-3 md:gap-5 pt-4 md:pt-6 border-t border-white/10">
-                    <a href="https://www.theverge.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="The Verge">
-                        <img src="src/res/verge.ico" alt="The Verge" class="source-icon-header">
-                        <span class="text-xs md:text-sm font-medium">The Verge</span>
-                    </a>
-                    <a href="https://www.theregister.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="The Register">
-                        <img src="src/res/register.ico" alt="The Register" class="source-icon-header">
-                        <span class="text-xs md:text-sm font-medium">The Register</span>
-                    </a>
-                    <a href="https://techcrunch.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="TechCrunch">
-                        <img src="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32" alt="TechCrunch" class="source-icon-header">
-                        <span class="text-xs md:text-sm font-medium">TechCrunch</span>
-                    </a>
-                    <a href="https://arstechnica.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="Ars Technica">
-                        <img src="https://cdn.arstechnica.net/favicon.ico" alt="Ars Technica" class="source-icon-header">
-                        <span class="text-xs md:text-sm font-medium">Ars Technica</span>
-                    </a>
-                    <a href="https://futurism.com" target="_blank" rel="noopener" class="flex items-center text-neutral-500 hover:text-white transition-colors duration-200 active:opacity-70" aria-label="Futurism">
-                        <img src="src/res/futurism.ico" alt="Futurism" class="source-icon-header">
-                        <span class="text-xs md:text-sm font-medium">Futurism</span>
-                    </a>
-                </div>
+            <!-- Filter Buttons -->
+            <div class="flex flex-wrap items-center gap-3 mb-8">
+                <button class="btn-filter active btn-base glass-panel dark:hover:bg-white/5" data-filter="all"
+                    type="button">All News</button>
+                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="ai"
+                    type="button">AI</button>
+                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="cloud"
+                    type="button">Cloud</button>
+                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="consumer"
+                    type="button">Consumer</button>
+                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="fintech"
+                    type="button">Fintech</button>
+                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="security"
+                    type="button">Security</button>
+            </div>
+
+            <!-- Source Links -->
+            <div class="flex flex-wrap items-center gap-6 opacity-60 hover:opacity-100 transition-opacity duration-300">
+                <a href="https://www.theverge.com" target="_blank" rel="noopener"
+                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
+                    aria-label="The Verge">
+                    <img src="src/res/verge.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70"> The Verge
+                </a>
+                <a href="https://www.theregister.com" target="_blank" rel="noopener"
+                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
+                    aria-label="The Register">
+                    <img src="src/res/register.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70"> The Register
+                </a>
+                <a href="https://techcrunch.com" target="_blank" rel="noopener"
+                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
+                    aria-label="TechCrunch">
+                    <img src="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+                        alt="Icon" class="w-4 h-4 grayscale opacity-70"> TechCrunch
+                </a>
+                <a href="https://arstechnica.com" target="_blank" rel="noopener"
+                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
+                    aria-label="Ars Technica">
+                    <img src="https://cdn.arstechnica.net/favicon.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70">
+                    Ars Technica
+                </a>
+                <a href="https://futurism.com" target="_blank" rel="noopener"
+                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
+                    aria-label="Futurism">
+                    <img src="src/res/futurism.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70"> Futurism
+                </a>
             </div>
         </header>
 
         <!-- Loading indicator -->
-        <div id="loading" class="flex justify-center my-16 hidden">
-            <div class="spinner rounded-full h-12 w-12 border-4 border-neutral-300 border-t-4"></div>
+        <div id="loading" class="flex flex-col items-center justify-center my-32 hidden">
+            <div class="spinner rounded-full h-12 w-12 border-4 text-primary-500 mb-4"></div>
+            <p class="text-gray-500 font-medium animate-pulse">Fetching latest updates...</p>
         </div>
 
         <!-- Error message -->
-        <div id="error-message" class="bg-red-500/20 border border-red-500/30 text-red-200 px-4 py-3 rounded-xl mb-8 hidden">
-            <p>Error loading news articles. Please try again later.</p>
+        <div id="error-message"
+            class="max-w-md mx-auto bg-red-500/10 border border-red-500/20 text-red-500 px-6 py-4 rounded-2xl mb-12 hidden text-center">
+            <i class="fas fa-exclamation-circle text-2xl mb-2 block"></i>
+            <p>Unable to load news data. Please try again later.</p>
         </div>
 
         <main>
-            <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 mb-12">
+            <div id="articles-container"
+                class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-20 perspective-1000">
                 <!-- Articles will be loaded here -->
             </div>
         </main>
 
-        <nav id="pagination" class="flex flex-col sm:flex-row justify-between items-center gap-4 pagination glass rounded-xl p-4 md:p-6 hidden pagination-text">
-            <div class="font-medium text-sm md:text-base">
-                Page <span id="current-page" class="font-bold">1</span> of <span id="total-pages" class="font-bold">1</span>
+        <nav id="pagination" class="flex justify-center items-center gap-6 hidden">
+            <div class="flex gap-4" id="pagination-buttons">
+                <!-- Buttons injected by JS -->
             </div>
-            
-            <div class="flex gap-2" id="pagination-buttons">
-                <!-- Pagination buttons will be added here -->
+            <div class="font-mono text-sm text-gray-500 glass-panel px-4 py-2 rounded-lg">
+                <span id="current-page" class="text-primary-500 font-bold">1</span> / <span id="total-pages">1</span>
             </div>
         </nav>
     </div>
-    
-    <footer class="py-10 text-center text-neutral-400 text-sm border-t border-white/10 mt-12 relative z-10">
-        <div class="container mx-auto px-4 max-w-6xl">
-            <p>Last updated: <span id="last-updated">Loading...</span></p>
-            <p class="mt-2">&copy; <span id="current-year"></span> Dan Knight. All rights reserved.</p>
+
+    <footer
+        class="py-12 text-center text-gray-500 dark:text-gray-600 text-sm mt-20 relative z-10 border-t border-gray-200 dark:border-white/5">
+        <div class="container mx-auto px-4">
+            <p class="mb-2">Last updated: <span id="last-updated" class="font-mono text-primary-500">Syncing...</span>
+            </p>
+            <p>&copy; <span id="current-year"></span> Dan Knight</p>
         </div>
     </footer>
 
@@ -490,16 +281,16 @@
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script>
         // Initialize particles.js
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             // Function to set particles based on theme
             function setParticlesConfig() {
                 const isDarkMode = document.documentElement.classList.contains('dark');
                 const particleColor = isDarkMode ? "#5eead4" : "#9ca3af"; // Mint for dark, grey for light
-                
+
                 // Reduce particle count on mobile for better performance
                 const isMobile = window.innerWidth <= 768;
                 const particleCount = isMobile ? 40 : 80;
-                
+
                 particlesJS('particles-js', {
                     "particles": {
                         "number": {
@@ -589,10 +380,10 @@
                     "retina_detect": true
                 });
             }
-            
+
             // Initialize with correct theme
             setParticlesConfig();
-            
+
             // Adjust particles container style based on theme
             function adjustParticlesStyle() {
                 // Remove existing particles
@@ -600,29 +391,29 @@
                 if (particlesContainer) {
                     particlesContainer.innerHTML = '';
                 }
-                
+
                 // Reinitialize particles with new theme colors
                 setParticlesConfig();
-                
+
                 // Adjust opacity based on theme
                 const isDarkMode = document.documentElement.classList.contains('dark');
                 if (particlesContainer) {
                     particlesContainer.style.opacity = isDarkMode ? '0.4' : '0.3';
                 }
             }
-            
+
             // Initial adjustment
             adjustParticlesStyle();
-            
+
             // Watch for theme changes
-            const observer = new MutationObserver(function(mutations) {
-                mutations.forEach(function(mutation) {
+            const observer = new MutationObserver(function (mutations) {
+                mutations.forEach(function (mutation) {
                     if (mutation.attributeName === 'class') {
                         adjustParticlesStyle();
                     }
                 });
             });
-            
+
             observer.observe(document.documentElement, {
                 attributes: true,
                 attributeFilter: ['class']
@@ -631,7 +422,7 @@
 
         // Theme toggle functionality - improved for mobile
         let themeToggle, themeIcon, htmlElement;
-        
+
         // Initialize theme system when DOM is ready
         function initThemeSystem() {
             themeToggle = document.getElementById('theme-toggle');
@@ -640,29 +431,29 @@
                 setTimeout(initThemeSystem, 100);
                 return;
             }
-            
+
             themeIcon = themeToggle.querySelector('.icon');
             htmlElement = document.documentElement;
-            
+
             // Check for saved theme preference or respect OS setting
             const savedTheme = localStorage.getItem('theme');
             const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
             const initialTheme = savedTheme || (prefersDark ? 'dark' : 'light');
-            
+
             // Apply initial theme
             applyTheme(initialTheme);
             updateThemeIcon(initialTheme);
-            
+
             // Set initial logo based on theme
             const logoImg = document.getElementById('logo-img');
             if (logoImg) {
                 logoImg.src = initialTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
             }
-            
+
             // Add event listeners - support both click and touch events for mobile
             let lastTouchTime = 0;
             const TOUCH_DELAY = 300; // Prevent double-firing
-            
+
             const handleToggle = (e) => {
                 // Prevent double-firing on mobile (touch + click)
                 const now = Date.now();
@@ -672,29 +463,29 @@
                     return;
                 }
                 lastTouchTime = now;
-                
+
                 e.preventDefault();
                 e.stopPropagation();
                 toggleTheme();
             };
-            
+
             // Use both click and touchend for better mobile support
             themeToggle.addEventListener('click', handleToggle);
             themeToggle.addEventListener('touchend', handleToggle, { passive: false });
         }
-        
+
         // Apply initial theme with proper class management
         function applyTheme(theme) {
             if (!htmlElement) return;
-            
+
             // Remove both theme classes
             htmlElement.classList.remove('light', 'dark');
             document.body.classList.remove('light', 'dark');
-            
+
             // Add the correct theme class
             htmlElement.classList.add(theme);
             document.body.classList.add(theme);
-            
+
             // Ensure the theme is applied to all elements
             document.querySelectorAll('.clean-card, .header-bg, .btn-filter, .pagination-text, .article-card h2, .article-card p, .text-neutral-600, .text-neutral-700, .border-t').forEach(element => {
                 if (theme === 'dark') {
@@ -706,11 +497,11 @@
                 }
             });
         }
-        
+
         // Update theme icon based on current theme
         function updateThemeIcon(theme) {
             if (!themeIcon) return;
-            
+
             if (theme === 'dark') {
                 themeIcon.classList.remove('fa-moon');
                 themeIcon.classList.add('fa-sun');
@@ -719,37 +510,37 @@
                 themeIcon.classList.add('fa-moon');
             }
         }
-        
+
         // Toggle theme function
         function toggleTheme() {
             if (!htmlElement) return;
-            
+
             const currentTheme = htmlElement.classList.contains('dark') ? 'dark' : 'light';
             const newTheme = currentTheme === 'light' ? 'dark' : 'light';
 
             // Apply new theme using the helper function
             applyTheme(newTheme);
-            
+
             // Update logo based on theme
             const logoImg = document.getElementById('logo-img');
             if (logoImg) {
                 logoImg.src = newTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
             }
-            
+
             // Update icon
             updateThemeIcon(newTheme);
 
             // Save preference
             localStorage.setItem('theme', newTheme);
         }
-        
+
         // Initialize theme system
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initThemeSystem);
         } else {
             initThemeSystem();
         }
-        
+
         // Sort toggle functionality - improved for mobile
         function initSortToggle() {
             const sortToggle = document.getElementById('sort-toggle');
@@ -757,10 +548,10 @@
                 setTimeout(initSortToggle, 100);
                 return;
             }
-            
+
             let lastTouchTime = 0;
             const TOUCH_DELAY = 300;
-            
+
             const handleSortToggle = (e) => {
                 // Prevent double-firing
                 const now = Date.now();
@@ -770,17 +561,17 @@
                     return;
                 }
                 lastTouchTime = now;
-                
+
                 e.preventDefault();
                 e.stopPropagation();
                 toggleSortOrder();
             };
-            
+
             // Support both click and touch events
             sortToggle.addEventListener('click', handleSortToggle);
             sortToggle.addEventListener('touchend', handleSortToggle, { passive: false });
         }
-        
+
         // Initialize sort toggle
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initSortToggle);
@@ -831,7 +622,7 @@
         function toggleSortOrder() {
             isShuffled = !isShuffled;
             currentPage = 1; // Reset to first page
-            
+
             // Update icon
             const sortIcon = document.querySelector('#sort-toggle .icon');
             if (isShuffled) {
@@ -841,7 +632,7 @@
                 sortIcon.classList.remove('fa-dice');
                 sortIcon.classList.add('fa-clock');
             }
-            
+
             // Re-render articles
             renderArticles();
         }
@@ -849,13 +640,13 @@
         // Check if an article matches the current filter
         function articleMatchesFilter(article, filter) {
             if (filter === 'all') return true;
-            
+
             const filterKeywords = filters[filter] || [];
             const title = article.title.toLowerCase();
             const summary = article.summary.toLowerCase();
-            
-            return filterKeywords.some(keyword => 
-                title.includes(keyword.toLowerCase()) || 
+
+            return filterKeywords.some(keyword =>
+                title.includes(keyword.toLowerCase()) ||
                 summary.includes(keyword.toLowerCase())
             );
         }
@@ -871,27 +662,27 @@
             const loadingElement = document.getElementById('loading');
             const errorMessage = document.getElementById('error-message');
             const articlesContainer = document.getElementById('articles-container');
-            
+
             // Show loading indicator
             loadingElement.classList.remove('hidden');
             errorMessage.classList.add('hidden');
             articlesContainer.innerHTML = '';
-            
+
             try {
                 const response = await fetch('news.json');
                 if (!response.ok) {
                     throw new Error(`Failed to load news: ${response.status}`);
                 }
-                
+
                 const data = await response.json();
                 allArticles = data.articles;
-                
+
                 // Update last updated time
                 document.getElementById('last-updated').textContent = formatDate(data.lastUpdated);
-                
+
                 // Render articles
                 renderArticles();
-                
+
                 // Hide loading indicator
                 loadingElement.classList.add('hidden');
             } catch (error) {
@@ -905,18 +696,18 @@
         function extractFirstSentence(htmlContent) {
             // Remove HTML tags
             const textContent = htmlContent.replace(/<[^>]*>/g, '');
-            
+
             // Find the first sentence (ending with . ! or ? followed by a space or end of string)
             const sentenceMatch = textContent.match(/^[^.!?]*[.!?]/);
-            
+
             if (sentenceMatch) {
                 return sentenceMatch[0].trim();
             }
-            
+
             // If no sentence found, return first 100 characters
             return textContent.substring(0, 100) + (textContent.length > 100 ? '...' : '');
         }
-        
+
         // Process article summary for consistent display
         function processArticleSummary(article) {
             // For all articles, extract just the first sentence to keep summaries concise
@@ -927,79 +718,90 @@
         function renderArticles() {
             const articlesContainer = document.getElementById('articles-container');
             let filteredArticles = filterArticles(allArticles, currentFilter);
-            
+
             // Apply sorting based on current sort order
             if (isShuffled) {
                 filteredArticles = shuffleArray(filteredArticles);
             }
-            
+
             const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
             const startIndex = (currentPage - 1) * articlesPerPage;
             const endIndex = Math.min(startIndex + articlesPerPage, filteredArticles.length);
             const pageArticles = filteredArticles.slice(startIndex, endIndex);
-            
+
             // Clear container
             articlesContainer.innerHTML = '';
-            
+
             if (pageArticles.length === 0) {
                 articlesContainer.innerHTML = `
-                <div class="col-span-full text-center py-16 clean-card">
-                    <i class="fas fa-newspaper text-4xl text-neutral-400 mb-4"></i>
-                    <h3 class="text-xl font-semibold text-neutral-700 mb-2">No Articles Found Right Now</h3>
-                    <p class="text-neutral-500">Try selecting a different filter</p>
+                <div class="col-span-full flex flex-col items-center justify-center py-20 px-6 glass-panel rounded-2xl text-center">
+                    <div class="w-16 h-16 bg-gray-100 dark:bg-white/5 rounded-full flex items-center justify-center mb-6">
+                        <i class="fas fa-newspaper text-3xl text-gray-400 dark:text-gray-500"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-3 font-heading">No Articles Found</h3>
+                    <p class="text-gray-500 dark:text-gray-400 max-w-sm mx-auto">We couldn't find any articles matching your filters. Try selecting a different category.</p>
                 </div>
                 `;
                 return;
             }
-            
+
             // Render articles
-            pageArticles.forEach(article => {
+            pageArticles.forEach((article, index) => {
                 // Process article summary for consistent display
                 const displaySummary = processArticleSummary(article);
-                
+
                 const articleElement = document.createElement('article');
-                articleElement.className = 'article-card clean-card';
+                articleElement.className = 'article-card glass-panel card-hover group h-full flex flex-col rounded-2xl overflow-hidden relative article-enter bg-white dark:bg-gray-800/40 border border-gray-100 dark:border-white/5 shadow-sm';
+                articleElement.style.animationDelay = `${index * 50}ms`;
+
                 articleElement.innerHTML = `
-                    <a href="${article.link}" target="_blank" rel="noopener" class="flex flex-col h-full">
-                        ${article.image_url ? 
-                            `<div class="relative overflow-hidden h-48">
-                                <img 
+                    <a href="${article.link}" target="_blank" rel="noopener" class="flex flex-col h-full group">
+                        <div class="relative h-56 overflow-hidden">
+                             ${article.image_url ?
+                        `<img 
                                     src="${article.image_url}" 
                                     alt="${article.title}" 
-                                    class="w-full h-full object-cover transition-transform duration-700 ease-in-out hover:scale-105"
+                                    class="w-full h-full object-cover transition-transform duration-700 ease-in-out group-hover:scale-105"
                                     loading="lazy"
-                                    onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\\'image-placeholder w-full h-full flex items-center justify-center\\'><i class=\\'fas fa-image text-neutral-400 text-2xl\\'></i></div>';"
-                                >
-                            </div>` : 
-                            `<div class="image-placeholder w-full h-48 flex items-center justify-center">
-                                <i class="fas fa-image text-neutral-400 text-2xl"></i>
-                            </div>`
-                        }
-                        
-                        <div class="p-4 md:p-6 flex-1 flex flex-col">
-                            <div class="flex items-center mb-2 md:mb-3 flex-wrap gap-1 md:gap-0">
-                                <span class="inline-flex items-center px-2 md:px-2.5 py-0.5 rounded-full text-xs font-medium bg-accent-500/10 text-accent-700 border border-accent-500/20">
+                                    onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\\'w-full h-full bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-700 flex items-center justify-center\\'><i class=\\'fas fa-image text-gray-300 dark:text-gray-600 text-3xl\\'></i></div>';"
+                                >` :
+                        `<div class="w-full h-full bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-700 flex items-center justify-center">
+                                    <i class="fas fa-image text-gray-300 dark:text-gray-600 text-3xl"></i>
+                                </div>`
+                    }
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                            
+                            <div class="absolute top-4 left-4 z-10">
+                                <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-white/90 dark:bg-black/80 text-primary-600 dark:text-primary-400 backdrop-blur-md shadow-sm border border-white/20">
                                     ${article.source}
                                 </span>
-                                <span class="mx-1 md:mx-2 text-neutral-400 hidden sm:inline">•</span>
-                                <span class="text-xs text-neutral-500">
-                                    ${formatDate(article.published)}
-                                </span>
+                            </div>
+                        </div>
+                        
+                        <div class="p-6 flex-1 flex flex-col relative z-10">
+                            <div class="flex items-center gap-2 mb-3 text-xs font-semibold text-primary-600 dark:text-primary-400 uppercase tracking-wider">
+                                <span>${formatDate(article.published)}</span>
                             </div>
                             
-                            <h2 class="text-xl md:text-2xl lg:text-3xl font-semibold text-neutral-900 mb-1 line-clamp-3 leading-tight">
+                            <h2 class="text-xl md:text-2xl font-bold text-gray-900 dark:text-white mb-3 line-clamp-3 leading-snug group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors font-heading">
                                 ${article.title}
                             </h2>
                             
-                            <p class="text-neutral-600 text-sm line-clamp-3 mt-1">
+                            <p class="text-gray-600 dark:text-gray-400 text-sm line-clamp-3 mb-6 flex-1 leading-relaxed">
                                 ${displaySummary}
                             </p>
+                            
+                            <div class="mt-auto pt-5 border-t border-gray-100 dark:border-white/5 flex items-center justify-between text-sm">
+                                <span class="font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors flex items-center gap-2">
+                                    Read Article <i class="fas fa-arrow-right text-xs transform group-hover:translate-x-1 transition-transform"></i>
+                                </span>
+                            </div>
                         </div>
                     </a>
                 `;
                 articlesContainer.appendChild(articleElement);
             });
-            
+
             // Update pagination
             updatePagination(totalPages);
         }
@@ -1010,25 +812,25 @@
             const currentPageElement = document.getElementById('current-page');
             const totalPagesElement = document.getElementById('total-pages');
             const paginationButtons = document.getElementById('pagination-buttons');
-            
+
             if (totalPages <= 1) {
                 paginationElement.classList.add('hidden');
                 return;
             }
-            
+
             paginationElement.classList.remove('hidden');
             currentPageElement.textContent = currentPage;
             totalPagesElement.textContent = totalPages;
-            
+
             // Clear existing buttons
             paginationButtons.innerHTML = '';
-            
+
             // Previous button
             if (currentPage > 1) {
                 const prevButton = document.createElement('button');
-                prevButton.className = 'px-4 py-2 rounded-lg border border-neutral-300/30 hover:bg-white/20 transition-colors duration-200 flex items-center shadow-sm text-neutral-300 text-sm touch-manipulation active:scale-95 min-h-[44px]';
+                prevButton.className = 'btn-base glass-panel text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-white/10 flex items-center gap-2';
                 prevButton.type = 'button';
-                prevButton.innerHTML = '<i class="fas fa-chevron-left mr-2"></i> Previous';
+                prevButton.innerHTML = '<i class="fas fa-chevron-left"></i> Previous';
                 let lastTouchTime = 0;
                 const TOUCH_DELAY = 300;
                 const handlePrev = (e) => {
@@ -1039,7 +841,7 @@
                         return;
                     }
                     lastTouchTime = now;
-                    
+
                     e.preventDefault();
                     currentPage--;
                     renderArticles();
@@ -1051,13 +853,13 @@
                 prevButton.addEventListener('touchend', handlePrev, { passive: false });
                 paginationButtons.appendChild(prevButton);
             }
-            
+
             // Next button
             if (currentPage < totalPages) {
                 const nextButton = document.createElement('button');
-                nextButton.className = 'px-4 py-2 rounded-lg bg-gradient-to-r from-accent-500 to-accent-600 text-white hover:from-accent-600 hover:to-accent-700 transition-all duration-200 flex items-center shadow-md hover:shadow-lg text-sm touch-manipulation active:scale-95 min-h-[44px]';
+                nextButton.className = 'btn-base bg-gradient-to-r from-primary-500 to-primary-600 text-white hover:from-primary-600 hover:to-primary-700 shadow-lg shadow-primary-500/20 flex items-center gap-2';
                 nextButton.type = 'button';
-                nextButton.innerHTML = 'Next <i class="fas fa-chevron-right ml-2"></i>';
+                nextButton.innerHTML = 'Next <i class="fas fa-chevron-right"></i>';
                 let lastTouchTime = 0;
                 const TOUCH_DELAY = 300;
                 const handleNext = (e) => {
@@ -1068,7 +870,7 @@
                         return;
                     }
                     lastTouchTime = now;
-                    
+
                     e.preventDefault();
                     currentPage++;
                     renderArticles();
@@ -1087,7 +889,7 @@
             document.querySelectorAll('.btn-filter').forEach(button => {
                 let lastTouchTime = 0;
                 const TOUCH_DELAY = 300;
-                
+
                 const handleFilter = (e) => {
                     // Prevent double-firing
                     const now = Date.now();
@@ -1097,29 +899,29 @@
                         return;
                     }
                     lastTouchTime = now;
-                    
+
                     e.preventDefault();
                     e.stopPropagation();
-                    
+
                     // Update active button
                     document.querySelectorAll('.btn-filter').forEach(btn => {
                         btn.classList.remove('active');
                     });
                     button.classList.add('active');
-                    
+
                     // Set current filter
                     currentFilter = button.getAttribute('data-filter');
                     currentPage = 1; // Reset to first page
-                    
+
                     // Render articles with new filter
                     renderArticles();
                 };
-                
+
                 button.addEventListener('click', handleFilter);
                 button.addEventListener('touchend', handleFilter, { passive: false });
             });
         }
-        
+
         // Initialize filter buttons when DOM is ready
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initFilterButtons);
@@ -1127,13 +929,14 @@
             initFilterButtons();
         }
 
-        
+
 
         // Set current year in copyright
         document.getElementById('current-year').textContent = new Date().getFullYear();
-        
+
         // Load news when page loads
         document.addEventListener('DOMContentLoaded', loadNews);
     </script>
 </body>
+
 </html>
