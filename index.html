@@ -699,27 +699,26 @@
 
         // Extract first sentence from HTML content
         function extractFirstSentence(htmlContent) {
-            // Remove HTML tags and trim
-            const textContent = htmlContent.replace(/<[^>]*>/g, '').trim();
+            // Remove HTML tags (replace with space to prevent join) and normalize whitespace
+            let textContent = htmlContent.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
 
             // Find sentences: content ending in . ! ? followed by whitespace or end of string
-            // formatting: non-greedy match until punctuation, looking ahead for space/end
             const sentences = textContent.match(/.*?[.!?]+(?=\s|$)/g);
 
             if (sentences && sentences.length > 0) {
                 let summary = sentences[0];
 
-                // If the first sentence is very short (e.g. "Wow.", "U.S.A.", "Dr."), add the next one if available
-                // The regex doesn't consume the trailing space, so the next sentence usually starts with one
-                if (summary.length < 25 && sentences.length > 1) {
+                // If the first sentence is very short (< 40 chars) and there is more content,
+                // assume it might be a header or short intro and include the next part.
+                if (summary.length < 40 && sentences.length > 1) {
                     summary += sentences[1];
                 }
 
                 return summary;
             }
 
-            // If no sentence structure found, return first 120 characters
-            return textContent.substring(0, 120) + (textContent.length > 120 ? '...' : '');
+            // If no sentence structure found, return first 140 characters
+            return textContent.substring(0, 140) + (textContent.length > 140 ? '...' : '');
         }
 
         // Process article summary for consistent display
