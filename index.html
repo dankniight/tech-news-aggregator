@@ -188,9 +188,6 @@
                         <h1 class="text-4xl md:text-6xl font-bold font-heading tracking-tight leading-none mb-1">
                             <span class="text-gradient-primary">The Compiler</span>
                         </h1>
-                        <p class="text-base md:text-lg text-gray-600 dark:text-gray-400 font-light">
-                            Curated tech news for the modern developer.
-                        </p>
                     </div>
                 </div>
             </div>
@@ -710,7 +707,7 @@
 
                 // If the first sentence is very short (< 40 chars) and there is more content,
                 // assume it might be a header or short intro and include the next part.
-                if (summary.length < 40 && sentences.length > 1) {
+                if (summary.length < 70 && sentences.length > 1) {
                     summary += sentences[1];
                 }
 
