@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-02-04T07:00:03.014995",
+  "lastUpdated": "2026-02-04T13:11:47.111679",
   "articles": [
+    {
+      "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
+      "link": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
+      "summary": "Fibr AI replaces marketing agency– and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
+      "published": "Wed, 04 Feb 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/fibr-ai-founders-pritam-roy-ankur-goyal.jpg?resize=1200,800"
+    },
+    {
+      "title": "Spotify upgrades its lyrics feature with offline access, more translations",
+      "link": "https://techcrunch.com/2026/02/04/spotify-upgrades-its-lyrics-feature-with-offline-access-more-translations/",
+      "summary": "Spotify is revamping its lyrics feature, adding offline access for Premium users, global lyric translations, and a more prominent placement in the Now Playing view.",
+      "published": "Wed, 04 Feb 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676"
+    },
+    {
+      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+      "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+      "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
+      "published": "Wed, 04 Feb 2026 12:00:37 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-1152x648.jpg"
+    },
+    {
+      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+      "summary": "The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.",
+      "published": "Wed, 04 Feb 2026 08:18:51 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200"
+    },
     {
       "title": "Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’",
       "link": "https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/",
@@ -114,14 +146,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-1152x648.jpg"
     },
     {
-      "title": "Skyryse lands another $300M to make flying, even helicopters, simple and safe",
-      "link": "https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/",
-      "summary": "Skyrsye, now valued at $1.15 billion, is pushing to get FAA certification for its universal operating system for flight.",
-      "published": "Tue, 03 Feb 2026 18:21:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/skyryse-helicopters.jpg?resize=1200,675"
-    },
-    {
       "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
       "link": "https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/",
       "summary": "With Model Context Protocol (MCP), this works with more than Codex/Claude, too.",
@@ -130,36 +154,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-1152x648.png"
     },
     {
-      "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
-      "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
-      "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
-      "published": "Tue, 03 Feb 2026 18:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Apple-Xcode-agentic-coding-hero.jpg?resize=1200,800"
-    },
-    {
-      "title": "Gradient’s heat pumps get new smarts to enable old-building retrofits",
-      "link": "https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/",
-      "summary": "Gradient's heat pumps fit in windows, minimizing installation times. Now, it is introducing software to make those units more intelligent.",
-      "published": "Tue, 03 Feb 2026 17:56:45 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/gradient-heat-pump-installed-nyc.jpeg?resize=1200,811"
-    },
-    {
       "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
       "link": "https://arstechnica.com/gaming/2026/02/wing-commander-iii-the-game-kind-of-sucked-but-the-experience-blew-me-away/",
       "summary": "C:\\ArsGames looks at a vanguard of the multimedia FMV future that never quite came to pass.",
       "published": "Tue, 03 Feb 2026 17:29:16 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/wc3_boxart_sm-1152x648-1770132197.jpg"
-    },
-    {
-      "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
-      "link": "https://arstechnica.com/tech-policy/2026/02/upset-at-reports-that-hed-given-up-trump-now-wants-1b-from-harvard/",
-      "summary": "Hefty \"fine\" comes in wake of NY Times reporting of money-free settlement.",
-      "published": "Tue, 03 Feb 2026 17:08:34 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-578751544-1152x648.jpg"
     },
     {
       "title": "Reddit Mod Deleted Breathtaking Photo Taken by NASA Astronaut From Space Because It Was “Blurry”",
@@ -242,6 +242,62 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/elon-musk-crashing-out-epstein.jpg?quality=85"
     },
     {
+      "title": "EU's fishy digital certificate system leaves exporters floundering",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/catch_eu_fishing_problems/",
+      "summary": "<h4>Catch platform sinks under weight of bugs, missing species, and postal code gaffes while containers pile up at ports</h4> <p>Problems with a new digital European system for certifying fishing catches are hampering producers and delaying exports, according to ministers from several EU member states.…</p>",
+      "published": "2026-02-04T11:53:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/04/fishing_net.jpg"
+    },
+    {
+      "title": "Universal £7,500 payout offered to PSNI staff over major data breach",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/psni_breach_compensation/",
+      "summary": "<h4>Affected police officers squeezed mental health services, relocated over safety fears</h4> <p>Police Service of Northern Ireland (PSNI) employees who had their details exposed in a significant 2023 data breach will each receive £7,500 ($10,279) as part of a universal offer of compensation.…</p>",
+      "published": "2026-02-04T11:41:59.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/08/17/shutterstock_psni.jpg"
+    },
+    {
+      "title": "SpaceX halts Falcon 9 flights after second stage anomaly",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/spacex_halts_falcon_9_flights/",
+      "summary": "<h4>Failed deorbit burn grounds workhorse rocket</h4> <p>SpaceX has paused flights of its workhorse Falcon 9 after a second stage failure resulted in the spent rocket tumbling uncontrollably back to Earth.…</p>",
+      "published": "2026-02-04T11:02:50.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/04/falcon_9_upper_stage.jpg"
+    },
+    {
+      "title": "'The EU runs on Microsoft' – and Uncle Sam could turn it off, claims MEP",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/eu_foss_fears/",
+      "summary": "<h4>Open source gains urgency as Europe reassesses reliance on US tech</h4> <p><strong>Open Source Policy Summit 2026</strong>  European tech leaders are waking up to the risk of the US simply turning off their IT services.…</p>",
+      "published": "2026-02-04T10:49:51.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/12/11/europe_versus_us.jpg"
+    },
+    {
+      "title": "AWS says you're on your own if media codec patent owners come knocking",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_codec_patent_holders/",
+      "summary": "<h4>Service terms update removes infringement cover tied to audio and video encoding tech</h4> <p><strong>Exclusive</strong>  Amazon is warning users of its media services that it will not protect them against patent infringement claims relating to media codec technology supported by those services.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-04T10:43:22.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/04/25/aws_shutterstock.jpg"
+    },
+    {
+      "title": "Lego shrinks NASA's biggest rocket – accuracy sold separately",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/lego_artemis/",
+      "summary": "<h4>Bring your own sound effects to a Technic-enabled Space Launch System</h4> <p>The launch of the Artemis II mission to send humans around the Moon is fast approaching. <i>The Register</i> had a go at building Lego's latest SLS set and found it a lot of fun, particularly making whooshing noises as the rocket \"launches.\"…</p>",
+      "published": "2026-02-04T09:30:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/02/lego_sls.jpg"
+    },
+    {
+      "title": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
+      "link": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
+      "summary": "Sen. Elizabeth Warren (D-MA) is pressing Google for more information about its plans to build a checkout feature into its Gemini AI chatbot. In a letter to Google CEO Sundar Pichai, Warren expresses concerns that the integration could allow Google and retailers \"to exploit sensitive user data\" or \"manipulate consumers into spending more and paying [&#8230;]",
+      "published": "2026-02-04T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "UK to properly probe xAI to test if its revolting robo-smut generator broke the law",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/uk_spain_social_media_regulation/",
       "summary": "<h4>As Spain announces stern laws for social media, and Elon Musk’s response shows regulators keep looking his way</h4> <p>The UK’s Information Commissioner’s Office (ICO) has launched a probe into Elon Musk’s xAI, after its Grok chatbot produced sexual images of real people, without their consent.…</p>",
@@ -274,60 +330,12 @@
       "image_url": "https://regmedia.co.uk/2024/08/19/shutterstock_amd_lisa_su.jpg"
     },
     {
-      "title": "VS Code for Linux may be secretly hoarding trashed files",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/vs_code_for_linux_trash_fail/",
-      "summary": "<h4>Versions installed via Snap don't delete files when users empty system trash</h4> <p>Linux users who installed Microsoft's Visual Studio Code as a Snap package may want to check to see whether files they sent to the trash with the app have actually been deleted.…</p>",
-      "published": "2026-02-04T00:51:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/02/17/shutterstock_recycle_bin.jpg"
-    },
-    {
-      "title": "AI agents can't yet pull off fully autonomous cyberattacks - but they are already very helpful to crims",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/autonomous_cyberattacks_not_real_yet/",
-      "summary": "<h4>Don't relax: This is a 'when, not if' scenario</h4> <p>AI agents and other systems can't yet conduct cyberattacks fully on their own - but they can help criminals in many stages of the attack chain, according to the International AI Safety report.…</p>",
-      "published": "2026-02-03T23:57:55.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/06/24/dependency.jpg"
-    },
-    {
-      "title": "Sudo maintainer, handling utility for more than 30 years, is looking for support",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/sudo_maintainer_asks_for_help/",
-      "summary": "<h4>Many vital open source resources rely on the devotion of a few individuals</h4> <p>It's hard to imagine something as fundamental to computing as the sudo command becoming abandonware, yet here we are: its solitary maintainer is asking for help to keep the project alive.…</p>",
-      "published": "2026-02-03T21:28:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/09/01/shutterstock_sudo_rust.jpg"
-    },
-    {
-      "title": "GitHub ponders kill switch for pull requests to stop AI slop",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/github_kill_switch_pull_requests_ai/",
-      "summary": "<h4>Code community site begins to see that AI could drive people away</h4> <p>GitHub, the Microsoft code-hosting shop that popularized AI-assisted software development, is having some regrets about its Copilot infatuation.…</p>",
-      "published": "2026-02-03T20:32:23.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/26/slop_tank.jpg"
-    },
-    {
       "title": "Adobe actually won’t discontinue Animate",
       "link": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
       "summary": "Adobe is no longer planning to discontinue Adobe Animate on March 1st. In an FAQ, the company now says that Animate will now be in maintenance mode and that it has \"no plans to&#8239;discontinue or remove access\" to the app. Animate will still receive \"ongoing security and bug fixes\" and will still be available for [&#8230;]",
       "published": "2026-02-03T20:28:47-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23624358/acastro_STK124_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon's European datacenter buildout blows a breaker as grid connection wait list hits 7 years",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/amazon_power_europe/",
-      "summary": "<h4>E-commerce giant has watts of bit barns to deploy but nowhere to plug them in</h4> <p>Amazon Web Services' European expansion has hit the buffers as the American cloud provider grapples with aging grid infrastructure and lengthy interconnect delays.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-03T20:07:27.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/04/06/shutterstock_starlink.jpg"
-    },
-    {
-      "title": "'Lethal' and 'magical' Palantir tech is in demand by Pentagon, China, Middle East, CEO says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/palantir_lethal_magical_china_middle_east/",
-      "summary": "<h4>Less popular in Canada and Northern Europe</h4> <p>Palantir is shaping the \"under-the-hood\" practices of the US Defense Department as demand for its software grows across warfighting, shipbuilding, and weapons procurement, CEO Alex Karp said during the company's fourth-quarter earnings call on Monday.…</p>",
-      "published": "2026-02-03T19:41:51.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/03/voldemort_deatheater.jpg"
     },
     {
       "title": "Republicans haul Netflix before Congress for being too ‘woke’",
@@ -392,14 +400,6 @@
       "published": "2026-02-03T15:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
-      "link": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
-      "summary": "Apple is building OpenAI and Anthropic's AI-powered coding agents directly into Xcode. New integrations in Xcode 26.3 will give developers the ability to call upon Anthropic's Claude Agent and OpenAI's Codex to write and edit code, update project settings, search documentation, and more. Xcode is the software developers can use to create and test apps [&#8230;]",
-      "published": "2026-02-03T14:04:09-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_P.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
