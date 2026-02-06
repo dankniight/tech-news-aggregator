@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-02-05T18:56:56.806914",
+  "lastUpdated": "2026-02-06T02:34:31.346525",
   "articles": [
-    {
-      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
-      "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-      "summary": "The window to patch vulnerabilities is shrinking rapidly.",
-      "published": "Wed, 04 Feb 2026 23:08:04 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg"
-    },
-    {
-      "title": "FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone",
-      "link": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/",
-      "summary": "Post reporter was compelled to unlock MacBook Pro with fingerprint, however.",
-      "published": "Wed, 04 Feb 2026 22:41:15 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/iphone-and-macbook-pro-1152x648-1770243377.jpg"
-    },
     {
       "title": "New Site Lets AI Rent Human Bodies",
       "link": "https://futurism.com/artificial-intelligence/ai-rent-human-bodies",
@@ -34,28 +18,124 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/nvidia-100-billion-deal-openai-fallen-apart.jpg?quality=85"
     },
     {
-      "title": "Polymarket CEO Known for Yelling at His Employees, Attending Meetings Shirtless",
-      "link": "https://futurism.com/future-society/polymarket-ceo-betting",
-      "summary": "<p>\"A lot of people wouldn't invest because they thought Shayne was nuts.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/polymarket-ceo-betting\">Polymarket CEO Known for Yelling at His Employees, Attending Meetings Shirtless</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 04 Feb 2026 14:11:55 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/02/polymarket-ceo-betting.jpg?quality=85"
+      "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+      "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+      "summary": "The startup -- with backing from Accel -- is building a financial layer that handles the authentication and micro-payments required for AI agents.",
+      "published": "Thu, 05 Feb 2026 23:53:42 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Ilan_Zerbib-3269-067-p.jpg?resize=1200,800"
     },
     {
-      "title": "If Bitcoin Keeps Tanking, It Could Cause a “Death Spiral” for the Entire Economy",
-      "link": "https://futurism.com/future-society/bitcoin-tanking-death-spiral",
-      "summary": "<p>\"Sickening scenarios have now come within reach.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/bitcoin-tanking-death-spiral\">If Bitcoin Keeps Tanking, It Could Cause a &#8220;Death Spiral&#8221; for the Entire Economy</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 04 Feb 2026 13:03:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/02/bitcoin-tanking-death-spiral.jpg?quality=85"
+      "title": "Reddit looks to AI search as its next big opportunity",
+      "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
+      "summary": "During the company's fourth-quarter earnings call on Thursday, it offered an update on its plans to merge traditional and AI search together and hinted that although search is not yet monetized, \"it's an enormous market and opportunity.\"",
+      "published": "Thu, 05 Feb 2026 23:20:27 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674"
     },
     {
-      "title": "Police in Detroit Suburb Install Hives That Can Instantly Deploy Drones to Fight Crime",
-      "link": "https://futurism.com/robots-and-machines/drone-hive-detroit",
-      "summary": "<p>\"It acts as a force multiplier.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/drone-hive-detroit\">Police in Detroit Suburb Install Hives That Can Instantly Deploy Drones to Fight Crime</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 04 Feb 2026 12:12:32 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/02/drone-hive-detroit.jpg?quality=85"
+      "title": "AWS revenue continues to soar as cloud demand remains high",
+      "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
+      "summary": "AWS recorded its best quarter, in terms of revenue growth, in 13 quarters in Q4 2025 as AI drives AWS adoption.",
+      "published": "Thu, 05 Feb 2026 23:11:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_4752.jpg?resize=1200,797"
+    },
+    {
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+      "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
+      "published": "Thu, 05 Feb 2026 22:47:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/lazy_workers-1-1152x648.jpg"
+    },
+    {
+      "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+      "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+      "summary": "In 2026, Amazon plans to spend $200 billion in capex. Google is just behind at $175 billion to $185 billion. It's a lot of money!",
+      "published": "Thu, 05 Feb 2026 22:43:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800"
+    },
+    {
+      "title": "The Switch 2 is getting a new Virtual Console (kind of)",
+      "link": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
+      "summary": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't.",
+      "published": "Thu, 05 Feb 2026 22:14:34 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/coolboarders-1152x648-1770328338.jpg"
+    },
+    {
+      "title": "With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code",
+      "link": "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/",
+      "summary": "The emphasis is on \"mid-turn steering and frequent progress updates.\"",
+      "published": "Thu, 05 Feb 2026 21:47:06 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Codex-dark-1152x648-1770052639.jpg"
+    },
+    {
+      "title": "The Washington Post is retreating from Silicon Valley when it matters most",
+      "link": "https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/",
+      "summary": "The Bezos-owned newspaper gutted its San Francisco bureau and coverage of tech — including journalists reporting on Amazon and Blue Origin.",
+      "published": "Thu, 05 Feb 2026 21:36:21 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/washington-post-lawyoffs-Getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "a16z VC wants founders to stop stressing over insane ARR numbers",
+      "link": "https://techcrunch.com/2026/02/05/a16z-vc-wants-founders-to-stop-stressing-over-insane-arr-numbers/",
+      "summary": "Andreessen Horowitz VC Jennifer Li⁠, who oversees some of the firm's fastest-growing AI companies, warns founders not to believe every ARR claim made on X.",
+      "published": "Thu, 05 Feb 2026 21:28:46 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1270910681.jpg?resize=1200,772"
+    },
+    {
+      "title": "\"ICE Out of Our Faces Act\" would ban ICE and CBP use of facial recognition",
+      "link": "https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/",
+      "summary": "Senator: ICE and CBP \"have built an arsenal of surveillance technologies.\"",
+      "published": "Thu, 05 Feb 2026 20:54:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ice-1152x648-1770323466.jpg"
+    },
+    {
+      "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+      "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+      "summary": "The new model is built to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+      "published": "Thu, 05 Feb 2026 20:01:39 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837"
+    },
+    {
+      "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+      "link": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
+      "summary": "Microsoft won’t explain why Bing blocked 1.5 million Neocities websites.",
+      "published": "Thu, 05 Feb 2026 19:32:28 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/neo-cities-1152x648.jpg"
+    },
+    {
+      "title": "Watch Kanzi the bonobo pretend to have a tea party",
+      "link": "https://arstechnica.com/science/2026/02/watch-kanzi-the-bonobo-pretend-to-have-a-tea-party/",
+      "summary": "“Kanzi is able to generate an idea of this pretend object and at the same time know it’s not real.”",
+      "published": "Thu, 05 Feb 2026 19:07:15 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/bonobo-1152x648-1770158350.jpg"
+    },
+    {
+      "title": "One of Europe’s largest universities knocked offline for days after cyberattack",
+      "link": "https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/",
+      "summary": "An alleged ransomware attack has taken down the systems of the Sapienza University of Rome.",
+      "published": "Thu, 05 Feb 2026 19:00:46 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/la-sapienza-university-rome-italy.jpg?resize=1200,800"
+    },
+    {
+      "title": "Bad sleep made woman's eyelids so floppy they flipped inside out, got stuck",
+      "link": "https://arstechnica.com/health/2026/02/a-womans-eyelids-flipped-inside-out-on-their-own-the-fix-was-sleep/",
+      "summary": "Never underestimate the value of a good night's sleep.",
+      "published": "Thu, 05 Feb 2026 18:55:22 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg"
     },
     {
       "title": "Elon Musk is getting serious about orbital data centers",
@@ -74,28 +154,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/nasa-spacex-crew-2-return.jpg?resize=1200,674"
     },
     {
-      "title": "OpenAI launches a way for enterprises to build and manage AI agents",
-      "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
-      "summary": "OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.",
-      "published": "Thu, 05 Feb 2026 18:09:50 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800"
-    },
-    {
       "title": "Google hints at big AirDrop expansion for Android \"very soon\"",
       "link": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
       "summary": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026.",
       "published": "Thu, 05 Feb 2026 18:06:56 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-1152x648.jpg"
-    },
-    {
-      "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
-      "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
-      "summary": "The newest version of Anthropic's model is designed to broaden its appeal.",
-      "published": "Thu, 05 Feb 2026 17:51:13 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675"
     },
     {
       "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
@@ -106,30 +170,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/anthropic_ad_2-1152x648.jpg"
     },
     {
-      "title": "Secondary sales shift from founder windfalls to employee-retention tools",
-      "link": "https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/",
-      "summary": "AI startups like Clay and ElevenLabs are using early liquidity to keep their best talent.",
-      "published": "Thu, 05 Feb 2026 17:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1481700067.jpg?resize=1200,821"
-    },
-    {
-      "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
-      "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
-      "summary": "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
-      "published": "Thu, 05 Feb 2026 17:19:01 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024"
-    },
-    {
-      "title": "Pacific Fusion finds a cheaper way to make its fusion reactor work",
-      "link": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
-      "summary": "The fusion power startup recently completed some experiments at Sandia National Laboratory's Z Machine and shared the results exclusively with TechCrunch.",
-      "published": "Thu, 05 Feb 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/pacific-fusion-reactor-illustration.jpeg?resize=1200,652"
-    },
-    {
       "title": "This black hole \"burps\" with Death Star energy",
       "link": "https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/",
       "summary": "Dubbed \"Jetty McJetface,\" the tidal disruption event's energy keeps getting brighter and should peak in 2027.",
@@ -138,60 +178,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/BH-TDE-1152x648.jpg"
     },
     {
-      "title": "Trump’s critical mineral reserve is an admission that the future is electric",
-      "link": "https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/",
-      "summary": "The administration's $12 billion stockpile of critical minerals is aimed at blunting China's influence. But it also revels the direction of the global economy.",
-      "published": "Thu, 05 Feb 2026 15:48:44 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742"
+      "title": "Bitcoin Is Crashing So Hard That Miners Are Unplugging Their Equipment",
+      "link": "https://futurism.com/future-society/bitcoin-crashing-miners-unplugging-equipment",
+      "summary": "<p>Disastrous.</p>\n<p>The post <a href=\"https://futurism.com/future-society/bitcoin-crashing-miners-unplugging-equipment\">Bitcoin Is Crashing So Hard That Miners Are Unplugging Their Equipment</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 05 Feb 2026 15:42:08 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/02/bitcoin-crashing-miners-unplugging-equipment.jpg?quality=85"
     },
     {
-      "title": "NASA changes its mind, will allow Artemis astronauts to take iPhones to the Moon",
-      "link": "https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/",
-      "summary": "\"We are giving our crews the tools to capture special moments.\"",
-      "published": "Thu, 05 Feb 2026 15:46:18 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/Screen-Shot-2019-09-10-at-2.11.26-PM.jpg"
+      "title": "Crypto Guys Who Bought a Huge Gold Trump Statue Now Have a Problem",
+      "link": "https://futurism.com/future-society/trump-crypto-gold-statue",
+      "summary": "<p>\"That statue will not leave my foundry until everything they owe me is paid.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/trump-crypto-gold-statue\">Crypto Guys Who Bought a Huge Gold Trump Statue Now Have a Problem</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 05 Feb 2026 15:04:49 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/02/trump-crypto-gold-statue.jpg?quality=85"
     },
     {
-      "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
-      "link": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
-      "summary": "The ransomware attack at Conduent allowed hackers to steal a \"significant number of individuals’ personal information\" from the govtech giant's systems. Conduent handles personal and health data of more than 100 million people across America.",
-      "published": "Thu, 05 Feb 2026 15:25:38 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675"
-    },
-    {
-      "title": "Tesla slipped behind VW in European EV sales last year",
-      "link": "https://arstechnica.com/cars/2026/02/tesla-slipped-behind-vw-in-european-ev-sales-last-year/",
-      "summary": "Electric vehicle sales increased by 29% in 2025, even as overall sales grew 2.2%.",
-      "published": "Thu, 05 Feb 2026 15:16:50 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/DB2024AU01394_medium-1152x648.jpg"
-    },
-    {
-      "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
-      "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
-      "summary": "Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
-      "published": "Thu, 05 Feb 2026 15:00:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/CEO_3.jpg?resize=1200,800"
-    },
-    {
-      "title": "Steam Machine and Steam Frame delays are the latest product of the RAM crisis",
-      "link": "https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/",
-      "summary": "Valve says it still hopes to ship both devices \"in the first half of the year.\"",
-      "published": "Thu, 05 Feb 2026 14:22:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/valve-steam-machine-desktop-1152x648.jpeg"
-    },
-    {
-      "title": "Increase of AI bots on the Internet sparks arms race",
-      "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
-      "summary": "Publishers are rolling out more aggressive defenses.",
-      "published": "Thu, 05 Feb 2026 14:21:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/botai-1152x648.jpg"
+      "title": "Tesla Stock Plummeting Since Musk Busted in Epstein Files",
+      "link": "https://futurism.com/future-society/tesla-stock-plummeting-musk-epstein-files",
+      "summary": "<p>Coincidence?</p>\n<p>The post <a href=\"https://futurism.com/future-society/tesla-stock-plummeting-musk-epstein-files\">Tesla Stock Plummeting Since Musk Busted in Epstein Files</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 05 Feb 2026 14:18:28 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/02/tesla-stock-plummeting-musk-epstein-files.jpg?quality=85"
     },
     {
       "title": "Elon Laments That in Spite of His Obscene Wealth, He Still Can’t Find Happiness",
@@ -234,12 +242,60 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/anthropic-shockwaves-stock-market.jpg?quality=85"
     },
     {
-      "title": "Museums incorporate \"scent of the afterlife\" into Egyptian exhibits",
-      "link": "https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/",
-      "summary": "“Smell added an emotional and sensory depth that text labels alone could never provide.”",
-      "published": "Thu, 05 Feb 2026 05:01:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/embalm2-1152x648-1770223273.jpg"
+      "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/amazon_earnings_q4_2025/",
+      "summary": "<h4>'As fast as we install this AI capacity, we are monetizing it,' says Amazon CEO Andy Jassy</h4> <p>AWS has an open cash spigot for AI infrastructure, with Amazon CEO Andy Jassy telling investors the company has been monetizing compute capacity as fast as it brings it online and it plans to double capacity by the end of 2027.…</p>",
+      "published": "2026-02-06T02:13:16.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/12/03/andy_jassy_reinvent_2020.jpg"
+    },
+    {
+      "title": "Ad blocking is alive and well, despite Chrome's attempts to make it harder",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/chrome_mv3_no_harm_ad_blocking/",
+      "summary": "<h4>The end isn't nigh after all</h4> <p>Chrome's latest revision of its browser extension architecture, known as Manifest v3 (MV3), was widely expected to make content blocking and privacy extensions less effective than its predecessor, Manifest v2 (MV2).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-06T00:39:52.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/10/06/shutterstock_ads_space.jpg"
+    },
+    {
+      "title": "OpenClaw reveals meaty personal information after simple cracks",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/",
+      "summary": "<h4>Skills marketplace is full of stuff - like API keys and credit card numbers - that crims will find tasty</h4> <p>Another day, another vulnerability (or two, or 200) in the security nightmare that is OpenClaw.…</p>",
+      "published": "2026-02-05T23:32:52.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/05/lobster_on_rock.jpg"
+    },
+    {
+      "title": "OpenAI chases business bucks with confusingly named Frontier platform",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/openai_debuts_frontier_platform/",
+      "summary": "<h4>IPO, we’re halfway there: AI, livin’ on a prayer</h4> <p>OpenAI, a maker of frontier models, has announced a platform called Frontier to help enterprises implement software agents. That's not confusing at all.…</p>",
+      "published": "2026-02-05T20:20:27.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/03/12/conductor.jpg"
+    },
+    {
+      "title": "Substack says intruder lifted emails, phone numbers in months-old breach",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/substack_admit_security_incident/",
+      "summary": "<h4>Contact details were accessed in an intrusion that went undetected for months, the blogging outfit says</h4> <p>Newsletter platform Substack has admitted that an intruder swiped user contact details months before the company noticed, forcing it to warn writers and readers that their email addresses and other account metadata were accessed without permission.…</p>",
+      "published": "2026-02-05T19:54:18.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/05/shutterstock_2669319103.jpg"
+    },
+    {
+      "title": "HBO is turning Baldur’s Gate into a TV show",
+      "link": "https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin",
+      "summary": "HBO is developing a Baldur's Gate TV show that will continue the story of Larian Studios' hit RPG Baldur's Gate 3, according to Deadline. The Last Of Us co-creator Craig Mazin will serve as the show's creator, writer, executive producer, and showrunner. While it's set to feature new protagonists, the plan is for existing characters [&#8230;]",
+      "published": "2026-02-05T19:50:16-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/ss_31c13d137706fb4d9a4210513274a3ed9c3c7c96.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Asia-based government spies quietly broke into critical networks across 37 countries",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/asia_government_spies_hacked_37_critical_networks/",
+      "summary": "<h4>And their toolkit includes a new, Linux kernel rootkit</h4> <p>A state-aligned cyber group in Asia compromised government and critical infrastructure organizations across 37 countries in an ongoing espionage campaign, according to security researchers.…</p>",
+      "published": "2026-02-05T19:21:33.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/05/shutterstockcyberspies.jpg"
     },
     {
       "title": "Stash or splash? Lawmakers ask NASA to find alternatives for International Space Station",
@@ -258,6 +314,14 @@
       "image_url": "https://regmedia.co.uk/2026/02/05/shutterstock_2457318185.jpg"
     },
     {
+      "title": "Roblox is working to pull in adult players",
+      "link": "https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players",
+      "summary": "After rolling out age verification last year, Roblox is aiming to grow the number of players over 18 on its platform. As noted in its 2025 year-end earnings report, 45 percent of Roblox's daily active users have completed an age check as of January 31st. Of those who have verified their age, 27 percent are [&#8230;]",
+      "published": "2026-02-05T18:14:51-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369733/STK146_Roblox.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "SpaceX wants to fill Earth orbit with a million datacenter satellites",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/spacex_1m_satellite_datacenter/",
       "summary": "<h4>The FCC is taking public comments - now’s your chance to tell them this plan is bonkers</h4> <p>Elon Musk's pie-in-the-sky plan to launch a massive orbital datacenter satellite constellation has taken a rapid step closer to reality with the Federal Communications Commission advancing SpaceX's application for public comment, technical feasibility be damned. …</p>",
@@ -274,36 +338,36 @@
       "image_url": "https://regmedia.co.uk/2023/08/30/shutetrstock_migration.jpg"
     },
     {
-      "title": "Betterment breach may expose 1.4M users after social engineering attack",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/betterment_hack/",
-      "summary": "<h4>Breach-tracking site flags dataset following impersonation-based intrusion</h4> <p>Breach-tracking site Have I Been Pwned (HIBP) claims a cyberattack on Betterment affected roughly 1.4 million users – although the investment company has yet to publicly confirm how many customers were affected by January's intrusion.…</p>",
-      "published": "2026-02-05T16:25:00.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/05/hijack_security.jpg"
+      "title": "Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube",
+      "link": "https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing",
+      "summary": "When Netflix co-CEO Ted Sarandos entered the Senate office building on Tuesday, he got thrown a curveball. What started as a standard antitrust hearing relating to the Warner Bros. merger quickly devolved into a performative Republican attack about the spread of \"woke\" ideology on the streaming service. At the same time, arguably a much more [&#8230;]",
+      "published": "2026-02-05T16:40:45-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2259767834.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft declares 'reliability' a priority for Visual Studio AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_visual_studio_ai/",
-      "summary": "<h4>Perhaps a little less focus on AI would help as well?</h4> <p>Microsoft says \"reliability is the priority\" for AI in Visual Studio – a reassurance that may raise eyebrows among developers already living with Copilot's quirks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-05T16:16:28.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/02/18/softwaredude.jpg"
+      "title": "Iron Lung’s path to theaters was unique, even if the movie isn’t",
+      "link": "https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier",
+      "summary": "As a movie, Iron Lung is occasionally thrilling but mostly forgettable. It's a small-budget horror flick that has some cool ideas and pulls them off in an extremely efficient way, creating a sense of tension that unfortunately never turns into outright scares. But the most important thing about it is what it represents. At a [&#8230;]",
+      "published": "2026-02-05T16:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2250452458.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "UK's 'world-first' deepfake detection framework unlikely to stop the fakes, says expert",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_government_deepfake_framework/",
-      "summary": "<h4>Home Office enlists Microsoft to set industry standards as AI-generated forgeries surge from 500K to 8M in two years</h4> <p>The UK government claims it will develop a \"world-first\" framework to evaluate deepfake detection technologies as AI-generated content proliferates.…</p>",
-      "published": "2026-02-05T14:38:44.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/09/03/deepfake_mask.jpg"
+      "title": "The price of Bitcoin drops below $65,000",
+      "link": "https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency",
+      "summary": "On Thursday, Bitcoin's value fell over 10 percent in a single day, dropping to around $64,000, the lowest it has been since the 2024 Presidential election, as CNBC reports. After crossing $100,000 in November 2024 and peaking at over $122,000 in October 2025, the cryptocurrency has been in a steady decline for the last several [&#8230;]",
+      "published": "2026-02-05T15:38:01-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft sets Copilot agents loose on your OneDrive files",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_onedrive_agents/",
-      "summary": "<h4>AI helpers can now rummage through multiple documents</h4> <p>Microsoft has made OneDrive agents generally available, allowing users to query multiple documents simultaneously through Copilot instead of just one at a time.…</p>",
-      "published": "2026-02-05T14:15:53.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/10/21/files_shutterstock.jpg"
+      "title": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
+      "link": "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research",
+      "summary": "One day after The Wall Street Journal published a blockbuster story about Meta's own dismal findings about teen girls' mental health on Instagram, CEO Mark Zuckerberg wondered whether Meta should change how it studies its platforms' potential harms. \"Recent events have made me consider whether we should change our approach to research and analytics around [&#8230;]",
+      "published": "2026-02-05T14:10:35-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "One of the best laptop power banks available is cheaper than ever",
@@ -330,76 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24008751/acastro_STK099_NFL_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Curse of AI to push up PC prices as memory and CPU shortages bite",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/pc_prices_rising/",
-      "summary": "<h4>Component supply is being diverted toward datacenters, squeezing the consumer market</h4> <p>PC buyers can expect price hikes as chipmakers continue to prioritize AI production over all else, restricting the supply of key components across the tech industry.…</p>",
-      "published": "2026-02-05T13:14:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/06/21/drought.jpg"
-    },
-    {
       "title": "Who’s who and what’s what in TVs in 2026",
       "link": "https://www.theverge.com/tech/874138/tv-manufacturer-technology-2026",
       "summary": "Each TV company has its own distinct personality and direction. These change over the years, with new technological breakthroughs or at least new business deals. New aspirations shake up the natural order. This year, for example, nearly every company has decided to make and heavily promote RGB LED TVs. Some of them, like Hisense, seem [&#8230;]",
       "published": "2026-02-05T13:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268300_The_personality_of_each_TV_company_and_the_tech_they_use_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Claude has been having a moment — can it keep it up?",
-      "link": "https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment",
-      "summary": "Boris Cherny gets recognized in public relatively often. At the bar, at the airport, and in generally any public space, people want to take selfies with the creator and head of Claude Code. For the last couple of months, Anthropic's Claude and its coding platform have been having a moment - on social media, in [&#8230;]",
-      "published": "2026-02-05T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268317_Claude_has_been_having_a_moment_%E2%80%94-can_it_keep_it_up__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic debuts new model with hopes to corner the market beyond coding",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude",
-      "summary": "Anthropic's \"smartest model\" is getting a major boost, the company said in a blog post announcing Claude Opus 4.6. It called the new model a \"direct upgrade\" from its predecessor in a release, noting that it can better take on complex, multi-step tasks and get \"much closer to production-ready quality on the first try than [&#8230;]",
-      "published": "2026-02-05T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_B_e941dd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Here’s what Xbox is working on for 2026",
-      "link": "https://www.theverge.com/tech/874303/microsoft-xbox-roadmap-2026-notepad",
-      "summary": "Microsoft has a big year ahead for Xbox as it marks its 25-year milestone. After the tough decision to release more Xbox games on rival consoles two years ago, 2026 is a chance to refocus on the platform and celebrate some of Xbox's biggest franchises. It's also an opportunity for Microsoft to define its vision [&#8230;]",
-      "published": "2026-02-05T12:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25480192/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Why Waymo is having a hard time time stopping for school buses",
-      "link": "https://www.theverge.com/transportation/874385/waymo-school-bus-austin-safety-robotaxi",
-      "summary": "For years, Alphabet-owned Waymo has tried to set itself apart from other self-driving startups by emphasizing a culture of caution and safety. Now, just ahead of major planned rollouts across the country, it is facing a recurring failure in one of the most sensitive places imaginable: school zones. In December, the National Highway Traffic Safety [&#8230;]",
-      "published": "2026-02-05T12:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268319_Waymos_school_bus_problem_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Italy claims cyberattacks 'of Russian origin' are pelting Winter Olympics",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/winter_olympics_russian_attacks/",
-      "summary": "<h4>Right on cue, petulant hacktivists attempt to disrupt yet another global sporting event</h4> <p>Italy's foreign minister says the country has already started swatting away cyberattacks from Russia targeting the Milano Cortina Winter Olympics.…</p>",
-      "published": "2026-02-05T11:49:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/10/20/skier.jpg"
-    },
-    {
-      "title": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
-      "link": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
-      "summary": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chips instead due to the limited supply of RAM currently available. On top [&#8230;]",
-      "published": "2026-02-05T11:33:27-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "PlayStation’s live service push continues with a co-op Horizon spinoff",
-      "link": "https://www.theverge.com/games/874434/playstation-sony-horizon-hunters-gathering-live-service-ps5-pc",
-      "summary": "Sony is expanding its Horizon universe again with Horizon Hunters Gathering, a \"cooperative action game\" in development by franchise creator Guerrilla for PS5 and PC. Horizon Hunters Gathering lets \"up to three players team up as heroic Hunters to protect a world under threat from deadly machines,\" according to a blog post. \"Combat is tactical, [&#8230;]",
-      "published": "2026-02-05T11:31:24-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_cb3b2ef782d0b7096a3f81276eca28467c09e03c.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
