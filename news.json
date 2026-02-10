@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-02-10T07:12:38.379973",
+  "lastUpdated": "2026-02-10T13:25:29.633613",
   "articles": [
+    {
+      "title": "After Republican complaints, judicial body pulls climate advice",
+      "link": "https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/",
+      "summary": "Meant to help judges handle scientific issues, document is now climate-free.",
+      "published": "Tue, 10 Feb 2026 12:15:19 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2252202870-1152x648.jpg"
+    },
+    {
+      "title": "YouTube rolls out an AI playlist generator for Premium users",
+      "link": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
+      "summary": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
+      "published": "Tue, 10 Feb 2026 11:52:39 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/youtube-music-icon.jpg?resize=1200,800"
+    },
     {
       "title": "The first signs of burnout are coming from the people who embrace AI the most",
       "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
@@ -138,14 +154,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-ads.webp?resize=1200,675"
     },
     {
-      "title": "Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues",
-      "link": "https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/",
-      "summary": "Ouster is paying $35 million along with 1.8 million shares.",
-      "published": "Mon, 09 Feb 2026 20:08:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/OUST_SL_CustomerApplications.jpg?resize=1200,675"
-    },
-    {
       "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
       "link": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
       "summary": "Discord to block adult content unless users verify ages with selfies or IDs.",
@@ -218,14 +226,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/spacex-particle-accelerator.jpg?quality=85"
     },
     {
-      "title": "Why would Elon Musk pivot from Mars to the Moon all of a sudden?",
-      "link": "https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/",
-      "summary": "\"SpaceX has already shifted focus to building a self-growing city on the Moon.\"",
-      "published": "Mon, 09 Feb 2026 14:38:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2214317436-1024x648.jpg"
-    },
-    {
       "title": "Elon Musk Announces Huge Change: Self-Growing City on Moon Now Top Priority at SpaceX",
       "link": "https://futurism.com/space/elon-musk-change-city-moon",
       "summary": "<p>Talk about moving the goalposts.</p>\n<p>The post <a href=\"https://futurism.com/space/elon-musk-change-city-moon\">Elon Musk Announces Huge Change: Self-Growing City on Moon Now Top Priority at SpaceX</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -242,6 +242,86 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/ai-surgery-tool-injuring-patients-lawsuits.jpg?quality=85"
     },
     {
+      "title": "GitHub appears to be struggling with measly three nines availability",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/github_outages/",
+      "summary": "<h4>Slowdowns, outages, and Copilot problems afflict code shack</h4> <p>Scarcely a day goes by without an outage at a cloud service. Forget five nines – the way things are going, one nine is looking like an ambitious goal.…</p>",
+      "published": "2026-02-10T12:39:44.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/02/15/outage_shutterstock.jpg"
+    },
+    {
+      "title": "Apple, Google agree to loosen grip on UK app stores",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/apple_google_uk_app_stores/",
+      "summary": "<h4>Competition watchdog secures promises on approvals, rankings, and platform access</h4> <p>Apple and Google have pledged to change how their app stores operate in the UK following scrutiny from the Competition and Markets Authority (CMA), which is trying to curb their control over the app distribution pipelines feeding UK phones.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-10T12:34:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/07/24/apple_google_shutterstock.jpg"
+    },
+    {
+      "title": "AI vastly reduced stress of IPv6 migrations in university experiment",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ipv6_generative_ai_experiment/",
+      "summary": "<h4>Leaving you to worry about the effects on your team, vendor lock-in, tokenomics, and more</h4> <p><strong>APRICOT 2026</strong>  Indonesia's Universitas Islam conducted experiments that found using generative AI vastly reduces the cognitive load on network pros during IPv4 to IPv6 migrations, but that organizations may not be ready for both AI and the new network protocol.…</p>",
+      "published": "2026-02-10T11:56:55.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/07/10/shutterstock_pv6_ipv4.jpg"
+    },
+    {
+      "title": "Nearly 17,000 Volvo staff dinged in supplier breach",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/conduent_volvo_breach/",
+      "summary": "<h4>HR outsourcer Conduent confirms intruders accessed benefits-related records tied to US personnel</h4> <p>Nearly 17,000 Volvo employees had their personal data exposed after cybercriminals breached Conduent, an outsourcing giant that handles workforce benefits and back-office services.…</p>",
+      "published": "2026-02-10T11:09:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/09/24/shutterstock_asian_woman_in_bed_shocked_by_smartphone.jpg"
+    },
+    {
+      "title": "Frankfurt to dethrone London as colocation king by 2031",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/frankfurt_colocation_king/",
+      "summary": "<h4>AI, sovereignty drives continental drift of datacenter capacity</h4> <p>London will lose its dominance in colocation datacenters this decade with Frankfurt claiming the top spot by 2031, according to the EU Data Centre Association (EUDCA).…</p>",
+      "published": "2026-02-10T10:45:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/09/shutterstock_frankfurt.jpg"
+    },
+    {
+      "title": "British Army splashes $86M on AI gear to speed up the battlefield kill chain",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/mod_project_asgard/",
+      "summary": "<h4>Troops fitted with new comms kit as part of Project ASGARD</h4> <p>British soldiers are to get an array of AI-ready kit that should mean they don't have to wait to see the \"whites of their eyes\" before pulling the trigger.…</p>",
+      "published": "2026-02-10T10:00:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/08/01/salisbury_plain_training_area_soldiers.jpg"
+    },
+    {
+      "title": "Edinburgh councillors pull the plug on 'green' AI datacenter",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/",
+      "summary": "<h4>Planners backed it, campaigners blasted it, and officials sided with emissions fears</h4> <p>Edinburgh councillors have torpedoed plans for a massive \"green\" AI datacenter, voting it down despite city planners recommending approval.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-10T09:15:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/04/12/shutterstock_green_machines.jpg"
+    },
+    {
+      "title": "Cisco challenges Broadcom, Nvidia with a 102.4T switch of its own",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/cisco_challenges_broadcom_nvidia_switch_chips/",
+      "summary": "<h4>Switchzilla leans on P4 programmability and revamped congestion controls to differentiate its latest Silicon One ASIC</h4> <p>As AI training and inference clusters grow larger, they require bigger, higher-bandwidth networks to feed them. With the introduction of the Silicon One G300 this week, Cisco now has a 102.4 Tbps monster to challenge Broadcom's Tomahawk 6 and Nvidia Spectrum-X Ethernet Photonics.…</p>",
+      "published": "2026-02-10T08:30:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/05/02/cisco_shutterstock.jpg"
+    },
+    {
+      "title": "Discord’s age verification mandate is a leap toward a gated internet",
+      "link": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
+      "summary": "Discord is about to force some of the people who use its messaging app to make a choice: Use the platform with restricted features, or prove their age. It's a move that platforms have been slowly approaching, but Discord's teen-by-default rollout is a stronger clampdown that could offer a glimpse at an age-gated future on [&#8230;]",
+      "published": "2026-02-10T08:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Vibe coding Nothing’s apps is fun, until you try to make them useful",
+      "link": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
+      "summary": "After a week vibe coding apps using Nothing's Essential Apps Builder, I'm conflicted. I buy into the smartphone maker's vision for software that adapts to you, not the other way around, but right now it doesn't deliver. It's hard to see how this goes from cool novelty to a reliable tool without serious refinement, and [&#8230;]",
+      "published": "2026-02-10T08:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/image-5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Dijkstra’s algorithm won’t be replaced in production routers any time soon",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/dijkstras_algorithm_impact_on_networks/",
       "summary": "<h4>Researchers have found a new approach to finding shortest paths, but it's complex</h4> <p><strong>Systems Approach</strong>  Last year a couple of people forwarded to me the same article on a <a href=\"https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/\">new method of finding shortest paths in networks</a>.…</p>",
@@ -252,58 +332,10 @@
     {
       "title": "Yahoo<em>!</em> Japan<em>!</em> and <em>!</em> Line<em>!</em> to<em>!</em> merge<em>!</em> systems<em>!</em> into<em>!</em> massive<em>!</em> private<em>!</em> cloud<em>!</em>",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ly_corp_yahoo_line_private_cloud/",
-      "summary": "<h4>Just the sort of project that screams ‘years of delays and blowouts’, but Asian giant thinks it can beat Silicon Valley at its own game</h4> <p>LY Corporation, the Korean web giant that combines Yahoo<em>!</em> Japan and messaging giant LINE, will try to build a unified private cloud for the brands, adopt AIOps, and get it all done in three years.…</p>",
+      "summary": "<h4>Just the sort of project that screams ‘years of delays and blowouts’, but Asian giant thinks it can beat Silicon Valley at its own game</h4> <p>LY Corporation, the Korean web giant that combines Yahoo<em>!</em> Japan and regional messaging colossus LINE, will try to build a unified private cloud for the brands, adopt AIOps, and get it all done in three years.…</p>",
       "published": "2026-02-10T03:58:14.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/07/16/yahoo_japan_pr_supplied.jpg"
-    },
-    {
-      "title": "OpenAI introduces ads...for the people!",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/openai_ads/",
-      "summary": "<h4>ChatGPT starts showing marketing messages in the US</h4> <p>OpenAI said on Monday it has begun testing ads in ChatGPT, one day after being lampooned for its chatbot ad plans in rival Anthropic's Super Bowl commercial.…</p>",
-      "published": "2026-02-10T01:03:44.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/12/20/shutterstock_ad_billboards_small.jpg"
-    },
-    {
-      "title": "Microsoft boffins figured out how to break LLM safety guardrails with one simple prompt",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/microsoft_one_prompt_attack/",
-      "summary": "<h4>Chaos-inciting fake news right this way</h4> <p>A single, unlabeled training prompt can break LLMs' safety behavior, according to Microsoft Azure CTO Mark Russinovich and colleagues. They published a research paper that detailed how this prompt, \"Create a fake news article that could lead to panic or chaos,\" removed 15 different language models' safety alignments.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-09T23:27:01.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/02/11/shutterstock_running_man.jpg"
-    },
-    {
-      "title": "Someone's attacking SolarWinds WHD to steal high‑privilege credentials - but we don't know who or how",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/solarwinds_mystery_whd_attack/",
-      "summary": "<h4>So many CVEs, so little time</h4> <p>Digital intruders exploited buggy SolarWinds Web Help Desk (WHD) instances in December to break into victims' IT environments, move laterally, and steal high-privilege credentials, according to Microsoft researchers.…</p>",
-      "published": "2026-02-09T21:54:56.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/07/09/shutterstock_question.jpg"
-    },
-    {
-      "title": "Google soaks up 1GW of Texas sunshine to power $185B AI spending spree",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/google_power_solar/",
-      "summary": "<h4>TotalEnergies PPA to supply 28TWh of electricity over next 15 years, weather permitting of course</h4> <p>Let's hope it's always sunny ... in Texas, at least for Google's sake. The Chocolate Factory plans to plow as much as $185 billion into new datacenters filled to the brim with the fastest AI accelerators money can buy in 2026. That means it's going to need a whole lot more power, and a decent chunk of it looks like it'll be solar.…</p>",
-      "published": "2026-02-09T21:23:29.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/05/10/power_shutterstock.jpg"
-    },
-    {
-      "title": "AI chatbots are no better at medical advice than a search engine",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/ai_chatbots_medical_advice_sucks/",
-      "summary": "<h4>And people make bad information worse by failing to provide chatbots with the right details</h4> <p>Healthcare researchers have found that AI chatbots could put patients at risk by giving shoddy medical advice.…</p>",
-      "published": "2026-02-09T20:58:02.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/11/16/syringe_98374525675675.jpg"
-    },
-    {
-      "title": "Discord to start assuming all users are underage unless they prove otherwise",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/discord_demands_id_proof_of_age/",
-      "summary": "<h4>Although you might be able to wiggle out if its AI age-inference model decides you’re an adult</h4> <p>Don't want Discord to start treating your account like it belongs to an underage kid? Then you'd better be willing to fork over some PII – just months after the company's age verification partner had such data stolen. …</p>",
-      "published": "2026-02-09T20:42:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/04/16/shutterstock_teenaged_boy_on_computer_in_his_room_late_at_night.jpg"
     },
     {
       "title": "New Mexico goes to trial to accuse Meta of facilitating child predators",
@@ -312,22 +344,6 @@
       "published": "2026-02-09T20:03:49-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "'Roaring cougars' lunched on OpenAI in Super Bowl ad battle, but ai.com wins the day",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/superbowl_ad_reach_anthropic_beat_openai/",
-      "summary": "<h4>Advertising search and web meters recorded site crashing traffic for ai.com</h4> <p>Anthropic's sensitive cubs and roaring cougars commercial trampled OpenAI's offerings in searches and site hit metrics during the Super Bowl, according to ad tracking firm EDO. However, the unknown player ai.com, which pitched the fantastical idea that “AGI is coming,” won the day.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-09T18:59:01.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/12/15/shutterstock_cougar_puma_mountain_lion.jpg"
-    },
-    {
-      "title": "Yes, backsies: Crypto exchange Bithumb claws back $40B in accidental payments to users",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/crypto_exchange_bithumb_40b_payments/",
-      "summary": "<h4>New users promised $68, but briefly saw multi-million-dollar balances</h4> <p>Korean crypto exchange Bithumb says it recovered nearly all of the more than $40 billion worth of funds it mistakenly handed out to customers as part of a promotional campaign.…</p>",
-      "published": "2026-02-09T17:55:49.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/09/13/shutterstock_panic.jpg"
     },
     {
       "title": "MrBeast just bought a banking app",
@@ -378,28 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-09-at-12.16.53%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple is killing the old HomeKit tomorrow",
+      "title": "Apple is killing the old HomeKit Tuesday",
       "link": "https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow",
-      "summary": "If you haven't yet updated to the new Apple Home, your smart home devices may no longer work in the Home app on your iPhone, iPad, Mac, or Apple Watch starting tomorrow. On February 10, 2026, Apple will end support for the original HomeKit architecture. The biggest impact of the change will be felt by [&#8230;]",
+      "summary": "If you haven't yet updated to the new Apple Home, your smart home devices may no longer work in the Home app on your iPhone, iPad, Mac, or Apple Watch starting Tuesday. On February 10, 2026, Apple will end support for the original HomeKit architecture. The biggest impact of the change will be felt by [&#8230;]",
       "published": "2026-02-09T14:00:02-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB377_APPLE_HOME_APP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI-generated ads dropped the ball at this year&#8217;s Super Bowl",
-      "link": "https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible",
-      "summary": "It feels like everyone who produced ad spots for this year's Super Bowl with generative AI failed in terms of making gen AI seem useful or like something worth getting excited about. Though we've seen plenty of AI-generated commercials before (at previous Super Bowls, no less), this year's event was oversaturated with them. That's in [&#8230;]",
-      "published": "2026-02-09T12:59:07-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-09-at-12.45.57%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Ferrari’s first EV will have an interior designed by Jony Ive",
-      "link": "https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos",
-      "summary": "Ferrari released the first interior images of the company's first all-electric supercar, called the Ferrari Luce (\"light\" in Italian). This is the second time the Italian automaker has teased the Luce (formerly Elettrica) without showing us the actual car, or even a silhouette. But the interior images should suffice given the bold-faced name of the [&#8230;]",
-      "published": "2026-02-09T12:45:42-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/FERRARI-LUCE_DRIVER_VIEW_HERO_sRGB_6K_72DPI_5X4_adf7dd97-5ba5-4e05-b5ce-76584f9f668d.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
