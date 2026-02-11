@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-02-11T02:48:16.434252",
+  "lastUpdated": "2026-02-11T07:08:51.270656",
   "articles": [
+    {
+      "title": "Samsung to hold its Galaxy S26 event on February 25",
+      "link": "https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/",
+      "summary": "Samsung is going to launch S26 lineup just before Mobile World Congress (MWC).",
+      "published": "Wed, 11 Feb 2026 07:06:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799"
+    },
+    {
+      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
+      "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
+      "summary": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.",
+      "published": "Wed, 11 Feb 2026 05:23:26 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024"
+    },
     {
       "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
       "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
@@ -82,14 +98,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/r2-lidar.jpeg?resize=1200,900"
     },
     {
-      "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
-      "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
-      "summary": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add  backgrounds to text posts.",
-      "published": "Tue, 10 Feb 2026 19:34:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Animate-Your-Facebook-Profile-Picture-With-Meta-AI_Header.jpg?w=1200"
-    },
-    {
       "title": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
       "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/",
       "summary": "DDoS hit blog that tried to uncover Archive.today founder's identity in 2023.",
@@ -128,14 +136,6 @@
       "published": "Tue, 10 Feb 2026 16:59:25 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg"
-    },
-    {
-      "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
-      "link": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
-      "summary": "The startup claims that it has developed a \"hack-proof\" chip that can't be bypassed by devices like Flipper Zero, a widely available hacking tool that can be used to tamper with wireless systems. These chips are linked with digital certificates to verify the authenticity of the products.",
-      "published": "Tue, 10 Feb 2026 16:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Veritas-feat-photo.jpg?w=1200"
     },
     {
       "title": "The Kia PV5 electric van combines futuristic looks and thoughtful design",
@@ -242,6 +242,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/sport-smash-future_fdf628.jpg?quality=85"
     },
     {
+      "title": "Open Compute taps IOWN to help design distributed datacenters and a 'computing continuum'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/iown_ocp_ai_computing_continuum/",
+      "summary": "<h4>Because AI won’t only run in Big Tech’s giant GPU garages, and won't tolerate slow connections</h4> <p>The Open Compute Project (OCP) wants to develop specs for distributed datacenters and has decided the all-optical Innovative Optical and Wireless Network (IOWN) stack can make them possible.…</p>",
+      "published": "2026-02-11T03:46:58.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/02/11/shutterstock_distributed_training.jpg"
+    },
+    {
       "title": "Cisco looses Splunk to probe and tame its growing agentic menagerie",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/cisco_agentic_ai_update/",
       "summary": "<h4>Just change the name to C<em>AI</em>sco already, Chuck</h4> <p>Cisco is on track to deliver its unified management tool Cloud Control later in 2026, but while its users wait for that moment it’s pumping out plenty more agentic tools to manage their networks – and make sure agents behave.…</p>",
@@ -308,7 +316,7 @@
     {
       "title": "Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance",
       "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-      "summary": "Ring's new Search Party feature has once again drawn backlash for the company. A 30-second ad that aired during Sunday's Super Bowl showed Ring cameras \"surveilling\" neighborhoods to locate a lost dog. In the current political climate, a prime-time ad celebrating neighborhood surveillance struck a nerve People voiced concerns across social media that the AI-powered [&#8230;]",
+      "summary": "Ring's new Search Party feature has once again drawn backlash for the company. A 30-second ad that aired during Sunday's Super Bowl showed Ring cameras \"surveilling\" neighborhoods to locate a lost dog. In the current political climate, a prime-time ad celebrating neighborhood surveillance struck a nerve. People voiced concerns across social media that the AI-powered [&#8230;]",
       "published": "2026-02-10T20:17:36-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-10-at-7.36.46%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -368,14 +376,6 @@
       "published": "2026-02-10T17:25:14.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2018/08/20/hikerfreefall.jpg"
-    },
-    {
-      "title": "AFRINIC says it's back on track and will soon deliver the plan that proves it",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/afrinic_turnaround/",
-      "summary": "<h4>As the governance policy designed to protect regional internet registries nears completion</h4> <p><strong>APRICOT 2026</strong>  After years of strife, the African Network Information Centre (AFRINIC) is weeks away from signing off on a budget and action plan, activity that one of the organization’s newly appointed executives believes demonstrates it is back on track.…</p>",
-      "published": "2026-02-10T16:55:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/06/26/shutterstock_africa_impacts_the_digital_world.jpg"
     },
     {
       "title": "Fitbit’s AI health coach is now available on your iPhone",
