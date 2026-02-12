@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T02:43:47.526622",
+  "lastUpdated": "2026-02-12T07:08:26.812917",
   "articles": [
     {
       "title": "El Paso airport closed after military used new anti-drone laser to zap party balloon",
@@ -130,14 +130,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Nest-Doorbell-2024-1-1152x648.jpg"
     },
     {
-      "title": "US decides SpaceX is like an airline, exempting it from Labor Relations Act",
-      "link": "https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/",
-      "summary": "US labels SpaceX a common carrier by air, will regulate firm under railway law.",
-      "published": "Wed, 11 Feb 2026 20:05:44 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/musk-and-trump-1152x648-1770838070.jpg"
-    },
-    {
       "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
       "link": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
       "summary": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
@@ -234,12 +226,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/what-happens-workplaces-embrace-ai.jpg?quality=85"
     },
     {
+      "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
+      "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
+      "summary": "SpaceX's crew missions will now launch from Cape Canaveral Space Force Station.",
+      "published": "Thu, 12 Feb 2026 02:23:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-1152x648.jpg"
+    },
+    {
       "title": "Trump orders the military to make agreements with coal power plants",
       "link": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/",
       "summary": "The administration's \"reasoning\" for doing so has little connection to reality.",
       "published": "Thu, 12 Feb 2026 00:02:53 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-1152x648.jpg"
+    },
+    {
+      "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/",
+      "summary": "<h4>Meanwhile, IP-stealing 'distillation attacks' on the rise</h4> <p>A Chinese government hacking group that has been sanctioned for targeting America's critical infrastructure used Google's AI chatbot, Gemini, to auto-analyze vulnerabilities and plan cyberattacks against US organizations, the company says.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-12T07:00:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/09/16/shutterstock_china_digital_eyeball.jpg"
+    },
+    {
+      "title": "Starlink speeds past terrestrial networks – and regulators",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/starlink_challenges/",
+      "summary": "<h4>Low-earth orbit broadband is a no-brainer for remote area connectivity, but a brain teaser for lawmakers and networkers</h4> <p><strong>APRICOT 2026</strong>  Starlink can sometimes shift data more quickly than is possible on terrestrial networks, and improves connectivity in remote areas. But the space broadband service also presents new technical and regulatory challenges, according to speakers who took to the stage on Tuesday at the Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT) in Jakarta, Indonesia.…</p>",
+      "published": "2026-02-12T06:03:29.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/02/27/shutterstock_broadband_satellite_train.jpg"
+    },
+    {
+      "title": "Cisco hikes prices to cover memory cost rises, says you don’t much care",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/cisco_q2_2026/",
+      "summary": "<h4>Switchzilla is only getting a small slice of the AI boom, but sees a campus refresh wave cresting</h4> <p>Cisco has increased the prices for its hardware to cover the increased cost of memory and says the resulting bigger bills are not changing customers’ buying habits.…</p>",
+      "published": "2026-02-12T04:45:45.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/11/13/shuterstock_cisco_editorial_only.jpg"
     },
     {
       "title": "Microsoft warns that poisoned AI buttons and links may betray your trust",
@@ -306,14 +330,6 @@
       "image_url": "https://regmedia.co.uk/2022/03/17/shutterstock_nuisancecall.jpg"
     },
     {
-      "title": "Posting AI-generated caricatures on social media is risky, infosec killjoys warn",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_caricatures_social_media_bad_security/",
-      "summary": "<h4>The more you share online, the more you open yourself to social engineering</h4> <p>If you've seen the viral AI work pic trend where people are asking ChatGPT to \"create a caricature of me and my job based on everything you know about me\" and sharing it to social, you might think it's harmless. You'd be wrong.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-11T18:56:40.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/11/jess-caricature.jpg"
-    },
-    {
       "title": "Two more xAI co-founders are among those leaving after the SpaceX merger",
       "link": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
       "summary": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long departure announcements online. Some also [&#8230;]",
@@ -338,28 +354,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268264_Valentines_Day_gift_guide_for_him_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Attending GTC? Join The Register for an exclusive dinner on scaling AI data platforms",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/attending_gtc_join_register/",
-      "summary": "<h4>Learn about how tech leaders are scaling AI in practice</h4> <p><strong>Promo</strong>  AI projects fail at scale not because models don't work or GPUs lack performance. They fail because data can't keep pace.…</p>",
-      "published": "2026-02-11T17:50:33.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/12/shutterstock_ai_chip.jpg"
-    },
-    {
       "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
       "summary": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids. \"This includes the shares of these costs [&#8230;]",
       "published": "2026-02-11T17:37:02-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Fukushima's radioactive hybrid terror pig boom was driven by amorous mothers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/amorous_radioactive_hybrid_terror_pig_mums/",
-      "summary": "<h4>Genetic study finds domestic pigs’ year-round breeding sped gene flow into wild boar</h4> <p>Back in 2021, in the thick of pandemic mania, <em>The Register</em> gleefully reported that \"radioactive hybrid terror pigs\" were thriving in Japan's Fukushima exclusion zone.…</p>",
-      "published": "2026-02-11T16:57:26.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/07/05/shutterstock_sus_scrofa.jpg"
     },
     {
       "title": "Why I wish I hadn’t bought my Samsung OLED TV",
