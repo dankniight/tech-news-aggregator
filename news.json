@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T07:08:26.812917",
+  "lastUpdated": "2026-02-12T13:21:05.728120",
   "articles": [
     {
       "title": "El Paso airport closed after military used new anti-drone laser to zap party balloon",
@@ -122,14 +122,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/win11-24h2-1152x648-1770839207.jpg"
     },
     {
-      "title": "Google recovers \"deleted\" Nest video in high-profile abduction case",
-      "link": "https://arstechnica.com/google/2026/02/google-recovers-deleted-nest-video-in-high-profile-abduction-case/",
-      "summary": "Users only get three hours of free Nest video storage, but Google can retrieve videos much later.",
-      "published": "Wed, 11 Feb 2026 20:15:54 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Nest-Doorbell-2024-1-1152x648.jpg"
-    },
-    {
       "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
       "link": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
       "summary": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
@@ -226,6 +218,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/what-happens-workplaces-embrace-ai.jpg?quality=85"
     },
     {
+      "title": "We let Chrome's Auto Browse agent surf the web for us—here's what happened",
+      "link": "https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/",
+      "summary": "Auto Browse is capable of some impressive things, but it can also crash and burn spectacularly.",
+      "published": "Thu, 12 Feb 2026 12:00:14 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-1152x648.jpg"
+    },
+    {
       "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
       "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
       "summary": "SpaceX's crew missions will now launch from Cape Canaveral Space Force Station.",
@@ -242,6 +242,62 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-1152x648.jpg"
     },
     {
+      "title": "NASA pauses most Swift science ops to buy time for reboost mission",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/nasa_swift_reboost/",
+      "summary": "<h4>Anticipated summer launch is cutting it fine</h4> <p>NASA has ended most science operations on its Swift observatory to keep the spacecraft in orbit a little longer.…</p>",
+      "published": "2026-02-12T12:35:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/01/20/nasa_swift.jpg"
+    },
+    {
+      "title": "Supply chain attacks now fuel a 'self-reinforcing' cybercrime economy",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/supply_chain_attacks/",
+      "summary": "<h4>Researchers say breaches link identity abuse, SaaS compromise, and ransomware into a cascading cycle</h4> <p>Cybercriminals are turning supply chain attacks into an industrial-scale operation, linking breaches, credential theft, and ransomware into a \"self-reinforcing\" ecosystem, researchers say.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-12T11:59:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/03/29/chain_shutterstock.jpg"
+    },
+    {
+      "title": "The big FOSS vendors don't eat their own dogfood – they pay for proprietary groupware",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/suse_runs_ms/",
+      "summary": "<h4>That's not a good idea</h4> <p><strong>Open Source Policy Summit 2026</strong>  SUSE recommends that companies should run on FOSS – but an accidental revelation from a company exec, live on stage, reveals it doesn't practice what it preaches. It's not alone.…</p>",
+      "published": "2026-02-12T11:30:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/09/shutterstock_dogbowl.jpg"
+    },
+    {
+      "title": "UK unveils telecoms charter to curb mid-contract bill shocks",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/uk_telco_charter/",
+      "summary": "<h4>Legal teeth sold separately</h4> <p>The UK government claims a new Telecoms Consumer Charter will stop customers being hit by unexpected bill increases and offer clearer pricing when signing up to deals.…</p>",
+      "published": "2026-02-12T10:58:19.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/08/22/surprise_shutterstock.jpg"
+    },
+    {
+      "title": "Feeling brave? Ministry of Defence seeks £300K digital boss to manage £4.6B spend",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/mod_recruits_tech_head/",
+      "summary": "<h4>Whoever gets it will steer UK department's IT, AI strategy, and megabucks vendor deals</h4> <p>The UK Ministry of Defence (MoD) is offering between £270,000 to £300,000 for a senior digital leader who will oversee more than £4.6 billion in spending and more than 3,000 specialist staff.…</p>",
+      "published": "2026-02-12T10:15:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/11/20/shutterstock_ministry_of_defence_editorial_only.jpg"
+    },
+    {
+      "title": "The UK government isn't spending much taxpayer cash on X",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/uk_government_x_spend/",
+      "summary": "<h4>Department for Education dropped £27,118. The rest, little to nothing</h4> <p>Most UK government departments have spent little or nothing with social media platform X since July 2024 following an unpublished 2023 evaluation by the Cabinet Office. But the Department for Education has bucked the trend, spending £27,118.…</p>",
+      "published": "2026-02-12T09:29:20.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/01/15/shutterstock_editorial_only_elon_musk_silhouette_twitter_x_logos.jpg"
+    },
+    {
+      "title": "This $7,999 robot will fold (some of) your laundry",
+      "link": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
+      "summary": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and needs [&#8230;]",
+      "published": "2026-02-12T07:59:06-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/isaac-0-thumbnail.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/",
       "summary": "<h4>Meanwhile, IP-stealing 'distillation attacks' on the rise</h4> <p>A Chinese government hacking group that has been sanctioned for targeting America's critical infrastructure used Google's AI chatbot, Gemini, to auto-analyze vulnerabilities and plan cyberattacks against US organizations, the company says.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -250,12 +306,28 @@
       "image_url": "https://regmedia.co.uk/2024/09/16/shutterstock_china_digital_eyeball.jpg"
     },
     {
+      "title": "HP ZBook Ultra G1a review: a business-class workstation that’s got game",
+      "link": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
+      "summary": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's easy to see it as another gray boring-book for spendy business types, until you notice a [&#8230;]",
+      "published": "2026-02-12T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Starlink speeds past terrestrial networks – and regulators",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/starlink_challenges/",
       "summary": "<h4>Low-earth orbit broadband is a no-brainer for remote area connectivity, but a brain teaser for lawmakers and networkers</h4> <p><strong>APRICOT 2026</strong>  Starlink can sometimes shift data more quickly than is possible on terrestrial networks, and improves connectivity in remote areas. But the space broadband service also presents new technical and regulatory challenges, according to speakers who took to the stage on Tuesday at the Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT) in Jakarta, Indonesia.…</p>",
       "published": "2026-02-12T06:03:29.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2023/02/27/shutterstock_broadband_satellite_train.jpg"
+    },
+    {
+      "title": "ICE is pushing Minneapolis underground",
+      "link": "https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid",
+      "summary": "Minneapolis was not the war zone I expected to find. Depending on who you are and where you live, things can seem, for a few fleeting moments, almost normal, like a few blocks or neighborhoods over people aren't being tear gassed or rounded up by ICE or, in two tragic cases, being gunned down by [&#8230;]",
+      "published": "2026-02-12T06:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268288_Minneapolis_General_Strike_JCalifano_0040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Cisco hikes prices to cover memory cost rises, says you don’t much care",
@@ -274,60 +346,12 @@
       "image_url": "https://regmedia.co.uk/2020/02/21/shutterstock_poison_pills.jpg"
     },
     {
-      "title": "Anthropic promises its datacenters totally won't drive up your utility bill",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/anthropic_power_promises/",
-      "summary": "<h4>Compute it leases from Amazon, MIcrosoft, and Google... that's another story</h4> <p>Model-maker and SaaS-y AI outfit Anthropic has committed to covering any increases in energy prices paid by consumers caused by its power-hungry datacenters.…</p>",
-      "published": "2026-02-12T00:47:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/12/electric_meter.jpg"
-    },
-    {
-      "title": "Devilish devs spawn 287 Chrome extensions to flog your browser history to data brokers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/security_researcher_287_chrome_extensions_data_leak/",
-      "summary": "<h4>Add-ons with 37M installs leak visited URLs to 30+ recipients, researcher says</h4> <p>They know where you've been and they're going to share it. A security researcher has identified 287 Chrome extensions that allegedly exfiltrate browsing history data for an estimated 37.4 million installations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-11T21:23:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/04/19/shutterstock_spying.jpg"
-    },
-    {
-      "title": "Meta will let users tweak Threads algorithms as long as they ask nicely",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/meta_threads_algo_tweak/",
-      "summary": "<h4>Only for three days, though, then it's back to the misery feed</h4> <p>Meta has decided to let Threads users make custom tweaks to its all-important algorithm, but don't expect your preferences to stick and do expect to bring your best manners.…</p>",
-      "published": "2026-02-11T20:50:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/08/14/robot_writing.jpg"
-    },
-    {
-      "title": "Lawmakers demand great wall to keep advanced chipmaking gear out of China",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/lawmakers_china_cut_off_advaced_chipmaking/",
-      "summary": "<h4>Allies that don’t align on chip controls could face US component curbs, they argue</h4> <p>Banning sales to Chinese-government-affiliated companies, apparently, is not enough. A bipartisan group of American lawmakers this week called on the Trump administration to enact a blanket ban on the sale of equipment used in the production of advanced semiconductors to all of China.…</p>",
-      "published": "2026-02-11T20:09:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/03/24/us_china_shutterstock.jpg"
-    },
-    {
-      "title": "AI spurs employees to work harder, faster, and with fewer breaks, study finds",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_makes_employees_work_harder/",
-      "summary": "<h4>Like a puppy, a fun new toy soon turns into an unrelenting taskmaster</h4> <p>A <a href=\"https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it\" rel=\"nofollow\" target=\"_blank\">Harvard Business Review</a> study is answering the question ‘what will employees do if AI saves them time at work?’ The answer: more work.…</p>",
-      "published": "2026-02-11T19:51:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/07/25/work_shutterstock.jpg"
-    },
-    {
       "title": "Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch",
       "link": "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
       "summary": "Highguard, a new multiplayer shooter from developers who worked on games like Apex Legends and Call of Duty, launched just over two weeks ago, but developer Wildlight Entertainment is already cutting jobs at the company, according to posts from affected staffers on LinkedIn. Former Wildlight level designer Alex Graner says that \"most of the team [&#8230;]",
       "published": "2026-02-11T19:30:53-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_6a0272b3cd10c3ffa73b8b8e7855817f3ab75d50.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "T-Mobile announces its network is now full of AI by rolling out real-time translation",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/tmobile_network_ai_translate_live_calls/",
-      "summary": "<h4>This AI is so network native, the telco tells us, that it all works on existing hardware - no datacenters involved</h4> <p>T-Mobile is claiming it's now the first wireless carrier to integrate generative AI \"directly into a wireless network,\" and it's rolling out real-time call translation as the first feature delivered on top of its new AI-filled cellular network. …</p>",
-      "published": "2026-02-11T19:28:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/03/17/shutterstock_nuisancecall.jpg"
     },
     {
       "title": "Two more xAI co-founders are among those leaving after the SpaceX merger",
@@ -376,30 +400,6 @@
       "published": "2026-02-11T16:15:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Volvo-VNL-Autonomous-powered-by-the-Aurora-Driver.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple keeps hitting bumps with its overhauled Siri",
-      "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
-      "summary": "Apple had been reportedly pushing to introduce some big changes to Siri with iOS 26.4, but now the company is planning to introduce them in later versions of iOS, including iOS 26.5 and iOS 27, Bloomberg reports. Nearly a year ago, Apple delayed planned features for Siri that would let it understand your personal context [&#8230;]",
-      "published": "2026-02-11T16:08:36-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC02178-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung’s offering up to $900 of trade-in credit toward its new phones",
-      "link": "https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai",
-      "summary": "Samsung’s next Unpacked event is happening on February 25th, and we anticipate the company will announce the Galaxy S26 lineup of phones. There may be some new wearables and earbuds announced, too. In addition to the showing off the new hardware, Galaxy AI software is likely to be a big part of the show, since [&#8230;]",
-      "published": "2026-02-11T13:55:36-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/galaxyai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
-      "link": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
-      "summary": "Microsoft has fixed a serious security vulnerability affecting Markdown files in Notepad. In the company's Tuesday patch notes, Microsoft says a bad actor could carry out a remote code execution attack by tricking users \"into clicking a malicious link inside a Markdown file opened in Notepad,\" as reported earlier by The Register. Clicking the link [&#8230;]",
-      "published": "2026-02-11T13:06:36-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
