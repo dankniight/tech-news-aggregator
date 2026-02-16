@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T02:40:42.090746",
+  "lastUpdated": "2026-02-16T07:10:57.844496",
   "articles": [
     {
       "title": "OpenClaw creator Peter Steinberger joins OpenAI",
@@ -242,6 +242,22 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/verizon-jerks-locked-phone-1152x648-1765486982.jpg"
     },
     {
+      "title": "Cisco set to release home-brew hypervisor as a VMware alternative",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/cisco_nfvis_for_uc_hypervisor/",
+      "summary": "<h4>Only for its own comms apps – whose users can probably do without a full private cloud</h4> <p>Cisco is getting close to releasing its own hypervisor, as an alternative to VMware for users of its calling applications – software like the Unified Communications Manager it suggests as an alternative to PBXs and other telephony hardware.…</p>",
+      "published": "2026-02-16T05:39:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/16/shutterstock_editorial_only_cisco.jpg"
+    },
+    {
+      "title": "US appears open to reversing some China tech bans",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/asia_tech_news_roundup/",
+      "summary": "<h4>PLUS: India demands two-hour deepfake takedowns; Singapore embraces AI; Japanese robot wolf gets cuddly; And more</h4> <p><strong>Asia In Brief</strong>  The United States may be about to change its policies regarding Chinese technology companies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-16T04:35:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/03/shutterstock_editorial_only_china_xi_usa_trump.jpg"
+    },
+    {
       "title": "OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/open_ai_grabs_openclaw/",
       "summary": "<h4>Whatever comes next will be ‘core to OpenAI product offerings’</h4> <p>Peter Steinberger, the creator of the tantalizing-but-risky personal AI agent OpenClaw, is joining OpenAI.…</p>",
@@ -384,22 +400,6 @@
       "published": "2026-02-14T09:01:11.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2021/10/07/shutterstock_data_disappearing.jpg"
-    },
-    {
-      "title": "Amazon-backed X-Energy gets green light for mini reactor fuel production",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/x_energy_smr_fuel/",
-      "summary": "<h4>Startup expects to complete construction of its first fuel plant later this year</h4> <p>Amazon inched closer to its atomic datacenter dream on Friday after the Nuclear Regulatory Commission (NRC) licensed its small modular reactor partner X-energy to make nuclear fuel for advanced reactors at a facility in Oak Ridge, Tennessee.…</p>",
-      "published": "2026-02-14T00:54:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/10/16/x-energy_smr_model.jpg"
-    },
-    {
-      "title": "ServiceNow can't seem to keep its wallet closed, snaps up small AI analytics company",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/servicenow_buys_pyramid_analytics_to/",
-      "summary": "<h4>News of the deal came about two weeks after CEO Bill McDermott swore off any “large scale” M&amp;A this year. A spokesperson called this deal a “tuck in.”</h4> <p>Despite its CEO's insistence that it wasn't doing any \"large scale\" deals soon, ServiceNow has acquired yet another company. This time, the software firm has scooped up Pyramid Analytics, an Israeli corporation with data science and preparation expertise. The goal is to build additional context and semantics into its software stack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-14T00:12:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/13/shutterstock_2684331851.jpg"
     }
   ]
 }
