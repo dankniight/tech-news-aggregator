@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T02:36:45.108055",
+  "lastUpdated": "2026-02-17T07:05:47.112092",
   "articles": [
     {
       "title": "OpenClaw creator Peter Steinberger joins OpenAI",
@@ -242,12 +242,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1156074432.jpg?resize=1200,800"
     },
     {
+      "title": "Passive RFIDs can now stream telemetry data from sensors",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/ambient_iot_japan_standard/",
+      "summary": "<h4>To advance the ‘ambient internet of things’ – no batteries required</h4> <p>A quartet of Japanese organisations plan to build “advanced ambient internet of things systems” using a newly approved ISO standard.…</p>",
+      "published": "2026-02-17T05:39:45.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/17/shutterstock_rfids.jpg"
+    },
+    {
       "title": "AWS adds nested virtualization option for handful of EC2 instances",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/nested_virtualization_aws_ec2/",
       "summary": "<h4>Your chance to run a VM inside a VM, inside a cloud – which can mean WSL on a cloudy Windows PC</h4> <p>Amazon Web Services has enabled nested virtualization for a handful of EC2 instances.…</p>",
       "published": "2026-02-17T01:36:29.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/02/17/shutterstock_cloud_migration.jpg"
+    },
+    {
+      "title": "Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis",
+      "link": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+      "summary": "Valve has updated the Steam Deck website to say that the Steam Deck OLED may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The PC gaming handheld has been out of stock in the US and other parts of the world for a few days, and thanks to this [&#8230;]",
+      "published": "2026-02-16T21:57:56-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Canada Goose ruffles feathers over 600K record dump, says leak is old news",
@@ -330,14 +346,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986636/acastro_STK461_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Why AI writing is so generic, boring, and dangerous: Semantic ablation",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-      "summary": "<h4>The subtractive bias we're ignoring</h4> <p><strong>opinion</strong>  Just as the community adopted the term \"hallucination\" to describe additive errors, we must now codify its far more insidious counterpart: semantic ablation.…</p>",
-      "published": "2026-02-16T14:02:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/04/23/dog.jpg"
-    },
-    {
       "title": "Here are 50 Presidents Day deals actually worth shopping for",
       "link": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
       "summary": "Deals have been admittedly pretty dry since the holidays, but now that February is in full swing, we’re starting to see strong discounts return across a range of categories. In fact, thanks to Valentine’s Day, the Super Bowl, and — as of this week — Presidents Day, retailers are once again offering a slew of [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2026-02-16T06:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268353_A_Star_Is_Born_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenClaw founder Peter Steinberger is joining OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
-      "summary": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that this ability for agents [&#8230;]",
-      "published": "2026-02-15T17:56:16-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
