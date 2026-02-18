@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-02-18T02:40:31.909718",
+  "lastUpdated": "2026-02-18T07:07:35.574704",
   "articles": [
+    {
+      "title": "U.S. court bars OpenAI from using ‘Cameo’",
+      "link": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
+      "summary": "OpenAI has renamed its feature in Sora from \"Cameo\" to \"Characters.\"",
+      "published": "Wed, 18 Feb 2026 06:40:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024"
+    },
+    {
+      "title": "Tesla dodges 30-day suspension in California after removing ‘Autopilot’",
+      "link": "https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/",
+      "summary": "The decision comes a month after Tesla discontinued Autopilot, its basic driver-assistance system.",
+      "published": "Wed, 18 Feb 2026 04:07:15 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/tesla-autopiot-Getty.jpg?resize=1200,800"
+    },
     {
       "title": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
       "link": "https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/",
@@ -114,28 +130,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg"
     },
     {
-      "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
-      "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
-      "summary": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
-      "published": "Tue, 17 Feb 2026 17:22:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2020/10/koyeb-team01.jpg?resize=1200,800"
-    },
-    {
       "title": "Warner Bros. rejects Paramount again but asks for \"best and final offer\"",
       "link": "https://arstechnica.com/tech-policy/2026/02/warner-bros-gives-paramount-one-more-week-to-beat-netflix-merger-offer/",
       "summary": "WB board officially recommends Netflix deal but asks Paramount to increase price.",
       "published": "Tue, 17 Feb 2026 17:17:17 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-1024x648.jpg"
-    },
-    {
-      "title": "SpaceX vets raise $50M Series A for data center links",
-      "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
-      "summary": "Mesh aims to mass-produce optical transceivers for AI data centers.",
-      "published": "Tue, 17 Feb 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-16-at-11.06.38-AM.png?resize=1200,679"
     },
     {
       "title": "There's a lot of big talk about sovereign launch—who is doing something about it?",
@@ -242,6 +242,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/obama-aliens.jpg?quality=85"
     },
     {
+      "title": "Qualcomm set to triumph in UK smartphone ‘patent tax’ case",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/qualcomm_wins_uk_competition_case/",
+      "summary": "<h4>Consumer group Which? brought the case and now plans to bail after court indicated it would lose</h4> <p>The UK’s Competition Appeal Tribunal has indicated that it will find Qualcomm did not abuse its market power, leading consumer advocacy group Which? to withdraw a case it hoped would see Brits compensated for increased smartphone prices.…</p>",
+      "published": "2026-02-18T06:09:47.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/18/shutterstock_smartphone_repair.jpg"
+    },
+    {
+      "title": "Palo Alto CEO says AI isn’t great for business, yet",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/palo_alto_q2_26/",
+      "summary": "<h4>Sees little enterprise AI adoption other than coding assistants, buys Koi for what comes next</h4> <p>If enterprises are implementing AI, they’re not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer take-up by at least a couple of years – except for coding assistants.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-18T04:52:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/18/shutterstock_editorial_only_palo_alto_networks.jpg"
+    },
+    {
       "title": "Indian conglomerate Adani plans very slow $100 billion AI datacenter build",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/india_ai_summit_adani_datacenters/",
       "summary": "<h4>PM Modi tells citizens AI will lift them up, not take their jobs</h4> <p>Giant Indian industrial conglomerate Adani has said it will spend up to $100 billion on AI datacenters to equip the nation with sovereign infrastructure, but will do so at slower pace than Big Tech tech companies plan to bring their own bit barns to Bharat.…</p>",
@@ -306,28 +322,12 @@
       "image_url": "https://regmedia.co.uk/2022/03/22/nvidia_grace_cpu_superchip.jpg"
     },
     {
-      "title": "AI gets all the good stuff, including Micron's speedy 28 GB/s PCIe 6.0 SSD",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/micron_pcie_6/",
-      "summary": "<h4>Consumers have a long wait ahead of them before they can bring that kind of performance home</h4> <p>It's time for a new generation of faster flash storage, but not on your laptop or desktop. Micron's first PCIe 6.0 SSDs have entered mass production and promise eye-watering transfer rates of up to 28 GB/s. However, unless you're building flash storage arrays for AI, you won't have a use for them.…</p>",
-      "published": "2026-02-17T19:55:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/17/micron_9650_ssds.jpg"
-    },
-    {
       "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
       "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
       "summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] [&#8230;]",
       "published": "2026-02-17T19:27:08-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI bit barns grow climate emergency by turning up the gas",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/ai_datacenters_driving_up_emissions/",
-      "summary": "<h4>Companies talk renewables while firing up gas turbines as fast as they can</h4> <p>Bit barns need a lot of power to operate and, as hyperscalers look for ways to generate it, they are adding more dirty energy in the form of new gas turbines. One estimate says that these new power sources could add another 44 million tons of carbon dioxide to the atmosphere by 2030, equivalent to the annual emissions of 10 million private cars.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-17T18:54:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/17/shutterstock_1206773239.jpg"
     },
     {
       "title": "Stephen Colbert says CBS banned him from airing this James Talarico interview",
