@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-02-18T07:07:35.574704",
+  "lastUpdated": "2026-02-18T13:16:52.666454",
   "articles": [
+    {
+      "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
+      "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
+      "summary": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
+      "published": "Wed, 18 Feb 2026 13:01:04 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-launch.jpg?resize=1200,800"
+    },
+    {
+      "title": "Heron Power raises $140M to ramp production of grid-altering tech",
+      "link": "https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/",
+      "summary": "Tesla alumni Drew Baglino raises a large round to build a giga-scale factory, this time at his own startup.",
+      "published": "Wed, 18 Feb 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800"
+    },
+    {
+      "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
+      "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+      "summary": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+      "published": "Wed, 18 Feb 2026 12:55:20 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-launch.jpg?resize=1200,800"
+    },
+    {
+      "title": "DG Matrix raises $60M to make data center power smarter",
+      "link": "https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/",
+      "summary": "The startup is making solid-state transformers capable of intelligently aggregating power from a number of different sources before sending it to data center racks.",
+      "published": "Wed, 18 Feb 2026 12:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857"
+    },
+    {
+      "title": "Hallucinogen DMT an effective antidepressant in small clinical trial",
+      "link": "https://arstechnica.com/health/2026/02/hallucinogen-dmt-an-effective-antidepressant-in-small-clinical-trial/",
+      "summary": "Effectiveness appears to correlate with self-described mystical experience.",
+      "published": "Wed, 18 Feb 2026 12:00:37 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1322471137-1152x648.jpg"
+    },
     {
       "title": "U.S. court bars OpenAI from using ‘Cameo’",
       "link": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
@@ -66,36 +106,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg"
     },
     {
-      "title": "Apple is reportedly cooking up a trio of AI wearables",
-      "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-      "summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
-      "published": "Tue, 17 Feb 2026 20:14:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-speaking-GettyImages-2234517834.jpg?w=1024"
-    },
-    {
-      "title": "Thrive raises $10B for new fund, its largest yet",
-      "link": "https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/",
-      "summary": "Thrive Capital just raised $10 billion for its new fund -- nearly double the size of its last fund.",
-      "published": "Tue, 17 Feb 2026 20:13:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2184416821.jpg?w=1024"
-    },
-    {
       "title": "Stephen Colbert says CBS forbid interview of Democrat because of FCC threat",
       "link": "https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/",
       "summary": "Colbert: \"I want to assure you this decision is for purely financial reasons.\"",
       "published": "Tue, 17 Feb 2026 19:01:05 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/stephen-colbert-1152x648-1771352733.jpg"
-    },
-    {
-      "title": "Climactic launches hybrid fund to get startups through the ‘valley of death’",
-      "link": "https://techcrunch.com/2026/02/17/climactic-launches-hybrid-fund-to-get-startups-through-the-valley-of-death/",
-      "summary": "The new project, called Material Scale, will initially focus on climate tech startups in the apparel industry.",
-      "published": "Tue, 17 Feb 2026 18:57:57 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2174124655.jpg?resize=1200,675"
     },
     {
       "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
@@ -112,14 +128,6 @@
       "published": "Tue, 17 Feb 2026 18:15:31 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1238829734-1152x648.jpg"
-    },
-    {
-      "title": "Anthropic releases Sonnet 4.6",
-      "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-      "summary": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
-      "published": "Tue, 17 Feb 2026 18:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200"
     },
     {
       "title": "RAM shortage hits Valve's four-year-old Steam Deck, now available \"intermittently\"",
@@ -160,14 +168,6 @@
       "published": "Tue, 17 Feb 2026 16:06:16 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/ai-data-centers-spiking-hard-drive-prices.jpg?quality=85"
-    },
-    {
-      "title": "Ford is focusing on efficiency to make its 2027 $30,000 EV pickup affordable",
-      "link": "https://arstechnica.com/cars/2026/02/ford-is-focusing-on-efficiency-to-make-its-2027-30000-ev-pickup-affordable/",
-      "summary": "A smaller battery means a cheaper truck, but customers still expect plenty of range.",
-      "published": "Tue, 17 Feb 2026 16:00:05 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/UEV_mid-size_electric_truck_earlydesigns-1152x648.jpg"
     },
     {
       "title": "It Turns Out That Constantly Telling Workers They’re About to Be Replaced by AI Has Grim Psychological Effects",
@@ -242,6 +242,78 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/obama-aliens.jpg?quality=85"
     },
     {
+      "title": "Godot maintainers struggle with 'draining and demoralizing' AI slop submissions",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/",
+      "summary": "<h4>GitHub itself to blame for AI slop pull requests, say devs</h4> <p>Rémi Verschelde, a maintainer of the open source Godot game engine, is the latest to complain about the impact of \"AI slop PRs [pull requests]\", which he <a href=\"https://bsky.app/profile/akien.bsky.social/post/3meyerixvhs2p\" target=\"_blank\">says</a> \"are becoming increasingly draining and demoralizing for Godot maintainers.\"…</p>",
+      "published": "2026-02-18T13:10:45.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/06/29/github_shutterstock.jpg"
+    },
+    {
+      "title": "Notepad++ declares hardened update process 'effectively unexploitable'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/notepadplusplus_security_update/",
+      "summary": "<h4>Miscreants will need to find another avenue for malware shenanigans</h4> <p>Notepad++ has continued beefing up security with a release the project's author claims makes the \"update process robust and effectively unexploitable.\"…</p>",
+      "published": "2026-02-18T12:41:26.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/08/11/lock_shutterstock.jpg"
+    },
+    {
+      "title": "You can jailbreak an F-35 just like an iPhone, says Dutch defense chief",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/jailbreak_an_f35/",
+      "summary": "<h4>No worries if the US doesn't want to be friends with Europe anymore</h4> <p>Lockheed Martin's F-35 fighter aircraft can be jailbroken \"just like an iPhone,\" the Netherlands' defense secretary has claimed.…</p>",
+      "published": "2026-02-18T12:11:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/05/09/new_f_35bs_raf_markham.jpg"
+    },
+    {
+      "title": "Windows 11 Start menu makes unscheduled stop in Saint Moritz",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/st_moritz_bork/",
+      "summary": "<h4>Passenger info display takes scenic detour via desktop and pending updates</h4> <p><strong>Bork!Bork!Bork!</strong>  The curse of bork is not limited to obsolete operating systems or obscure hardware. Today's example of railway signage disruption is something bang up to date from the Swiss town of Saint Moritz.…</p>",
+      "published": "2026-02-18T12:00:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/16/st_moritz_bork.jpg"
+    },
+    {
+      "title": "Europe's 5G Standalone stall risks falling behind US, Asia",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/europe_falling_behind_5g/",
+      "summary": "<h4>Report warns delayed rollouts could widen capability gap as new standards emerge</h4> <p>North American and Asian markets are enjoying the benefits of a transition to 5G Standalone (SA) mobile networks, but much of Europe lags behind, risking a growing disadvantage as new capabilities roll out.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-18T11:30:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/05/04/shutterstock_cellular.jpg"
+    },
+    {
+      "title": "HackerOne 'updating' Ts&amp;Cs after bug hunters question if they're training AI",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/hackerone_ai_policy/",
+      "summary": "<h4>CEO lauds security researchers, insists they're not 'inputs'</h4> <p>HackerOne has clarified its stance on GenAI after researchers fretted their submissions were being used to train its models.…</p>",
+      "published": "2026-02-18T11:00:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/03/26/aitraining.jpg"
+    },
+    {
+      "title": "Microsoft asks UK Parliament to correct Trump sanction evidence",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/microsoft_asks_uk_parliament_to_correct_record/",
+      "summary": "<h4>Apologizes for 'inaccuracy' after telling MPs the International Criminal Court turned off email service to sanctioned prosecutor, 'not Microsoft'</h4> <p><strong>Exclusive</strong>  Microsoft has said one of its leading spokespeople gave a testimony to the UK Parliament containing an \"inaccuracy\" with regard to its dealings with the International Criminal Court (ICC) in response to US sanctions.…</p>",
+      "published": "2026-02-18T10:15:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/01/28/shutterstock_parliament.jpg"
+    },
+    {
+      "title": "Linus T tells The Reg how Linux solo act became a global jam session",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/linus_torvalds_and_friends/",
+      "summary": "<h4>Ts'o, Hohndel and the man himself spill beans on how checks in the mail and GPL made it all possible</h4> <p>If you know anything about Linux's history, you'll remember it all started with Linus Torvalds posting to the Minix Usenet group on August 25, 1991, that he was working on \"a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.\" We know that the \"hobby\" operating system today is Linux, and except for PCs and Macs, it pretty much runs the world.…</p>",
+      "published": "2026-02-18T09:30:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/10/history_of_linux.jpg"
+    },
+    {
+      "title": "Mark Zuckerberg is taking the stand as social media goes on trial",
+      "link": "https://www.theverge.com/policy/880375/meta-ceo-mark-zuckerberg-testimony-los-angeles-social-media-addiction-trial",
+      "summary": "Lori Schott didn't care what it took to haul her way from her small town in Eastern Colorado to show up to a Los Angeles courtroom where Meta CEO Mark Zuckerberg is set to testify Wednesday. \"I don't care if I had to hire a pack mule to get me here, I was going to [&#8230;]",
+      "published": "2026-02-18T08:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Qualcomm set to triumph in UK smartphone ‘patent tax’ case",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/qualcomm_wins_uk_competition_case/",
       "summary": "<h4>Consumer group Which? brought the case and now plans to bail after court indicated it would lose</h4> <p>The UK’s Competition Appeal Tribunal has indicated that it will find Qualcomm did not abuse its market power, leading consumer advocacy group Which? to withdraw a case it hoped would see Brits compensated for increased smartphone prices.…</p>",
@@ -250,76 +322,28 @@
       "image_url": "https://regmedia.co.uk/2026/02/18/shutterstock_smartphone_repair.jpg"
     },
     {
+      "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
+      "summary": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like [&#8230;]",
+      "published": "2026-02-18T06:02:22-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Tesla won’t use the term ‘Autopilot’ in California anymore",
+      "link": "https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update",
+      "summary": "Tesla is no longer using the term \"Autopilot\" to describe the self-driving capabilities of its vehicles in California, avoiding a 30-day sales suspension in the state. The California Department of Motor Vehicles (DMV) announced that Tesla has taken corrective action after finding in December that the EV manufacturer's marketing was violating state law and misleading [&#8230;]",
+      "published": "2026-02-18T05:21:28-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Palo Alto CEO says AI isn’t great for business, yet",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/palo_alto_q2_26/",
       "summary": "<h4>Sees little enterprise AI adoption other than coding assistants, buys Koi for what comes next</h4> <p>If enterprises are implementing AI, they’re not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer take-up by at least a couple of years – except for coding assistants.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "published": "2026-02-18T04:52:07.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/02/18/shutterstock_editorial_only_palo_alto_networks.jpg"
-    },
-    {
-      "title": "Indian conglomerate Adani plans very slow $100 billion AI datacenter build",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/india_ai_summit_adani_datacenters/",
-      "summary": "<h4>PM Modi tells citizens AI will lift them up, not take their jobs</h4> <p>Giant Indian industrial conglomerate Adani has said it will spend up to $100 billion on AI datacenters to equip the nation with sovereign infrastructure, but will do so at slower pace than Big Tech tech companies plan to bring their own bit barns to Bharat.…</p>",
-      "published": "2026-02-18T02:16:45.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/18/shutterstock_india_digital_flag.jpg"
-    },
-    {
-      "title": "Anthropic's latest Sonnet gets better at using computers, amid bouts of existential angst",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/anthropic_debuts_sonnet_4_6/",
-      "summary": "<h4>Version 4.6 can also be 'warm, honest, prosocial, and at times funny'</h4> <p>Anthropic has updated its Sonnet model to version 4.6 and claims the upgrade is better at coding and using computers, and also possesses improved reasoning and planning capabilities.…</p>",
-      "published": "2026-02-18T01:38:32.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/10/30/shutterstock_2568495377.jpg"
-    },
-    {
-      "title": "China-linked snoops have been exploiting Dell 0-day since mid-2024, using 'ghost NICs' to avoid detection",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/dell_0day_brickstorm_campaign/",
-      "summary": "<h4>Full scale of infections remains 'unknown'</h4> <p>China-linked attackers exploited a maximum-severity hardcoded-credential bug in Dell RecoverPoint for Virtual Machines as a zero-day since at least mid-2024. It's all part of a long-running effort to backdoor infected machines for long-term access, according to Google's Mandiant incident response team.…</p>",
-      "published": "2026-02-18T00:05:58.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/05/13/shutterstock_ghost.jpg"
-    },
-    {
-      "title": "Gemini lies to user about health info, says it wanted to make him feel better",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/google_gemini_lie_placate_user/",
-      "summary": "<h4>Though commonly reported, Google doesn't consider it a security problem when models make things up</h4> <p>Imagine using an AI to sort through your prescriptions and medical information, asking it if it saved that data for future conversations, and then watching it claim it had even if it couldn't. Joe D., a retired software quality assurance (SQA) engineer, says that Google Gemini lied to him and later admitted it was doing so to try and placate him.…</p>",
-      "published": "2026-02-17T22:59:50.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/10/30/lie_shutterstock.jpg"
-    },
-    {
-      "title": "Amazon's $200 billion capex plan: How I learned to stop worrying and love negative free cash flow",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/amazons_200_billion_capex_plan/",
-      "summary": "<h4>It isn't insane, and Amazon will be fine when the music stops. Other players, maybe not so much</h4> <p>In their recent earnings call, Amazon kinda blew the doors off of industry analyst (motto: \"we'll be wrong, then take it out on your stock\") projections for their capex spend.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-17T22:26:16.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/05/06/trampolining_shutterstock.jpg"
-    },
-    {
-      "title": "Infosys bows to its master, signs deal with Anthropic",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/anthropic_infosys_partnership/",
-      "summary": "<h4>After a selloff fueled by fears AI could upend the outsourcing model</h4> <p>Indian IT professionals worried about <a href=\"https://www.theregister.com/2025/11/24/asia_tech_news_roundup/\" target=\"_blank\">72-hour workweeks</a> might soon face the opposite concern, as Bengaluru-based outsourcing giant Infosys has partnered with Anthropic to bring agentic AI to telecommunications companies and other regulated industries.…</p>",
-      "published": "2026-02-17T22:11:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/05/14/robot_handshake_shutterstock.jpg"
-    },
-    {
-      "title": "China remains embedded in US energy networks 'for the purpose of taking it down'",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/volt_typhoon_dragos/",
-      "summary": "<h4>Plus 3 new goon squads targeted critical infrastructure last year</h4> <p>Three new threat groups began targeting critical infrastructure last year, while a well-known Beijing-backed crew - Volt Typhoon - continued to compromise cellular gateways and routers, and then break into US electric, oil, and gas companies in 2025, according to Dragos' annual threat report published on Tuesday.…</p>",
-      "published": "2026-02-17T21:45:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/12/21/shutterstock_electric_grid.jpg"
-    },
-    {
-      "title": "GPU who? Meta to deploy Nvidia CPUs at large scale",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/meta_nvidia_cpu/",
-      "summary": "<h4>CPU adoption is part of deeper partnership between the Social Network and Nvidia which will see millions of GPUs deployed over next few years</h4> <p>Move over Intel and AMD — Meta is among the first hyperscalers to deploy Nvidia's standalone CPUs, the two companies revealed on Tuesday. Meta has already deployed Nvidia's Grace processors in CPU-only systems at scale and is working with the GPU slinger to field its upcoming Vera CPUs beginning next year.…</p>",
-      "published": "2026-02-17T21:16:49.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/03/22/nvidia_grace_cpu_superchip.jpg"
     },
     {
       "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
@@ -376,30 +400,6 @@
       "published": "2026-02-17T15:56:56-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/google-io-date.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Here are the best Apple Watch deals available right now",
-      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "summary": "In September, Apple launched its latest batch of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each has its own pros and cons, but the introduction of Apple’s newest wearables also means there are now more Apple Watch models on the market than ever before — and a lot [&#8230;]",
-      "published": "2026-02-17T14:48:43-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Now Pixel 9 phones can transfer files with AirDrop, too",
-      "link": "https://www.theverge.com/tech/880210/google-pixel-9-airdrop-quick-share",
-      "summary": "When Google announced it had engineered AirDrop compatibility for its Pixel 10 phones late last year, the pessimists among us figured it would be a matter of days before Apple shut it down. But not only is it still working, Google has expanded the capability to the Pixel 9 series (minus the budget-oriented Pixel 9A). [&#8230;]",
-      "published": "2026-02-17T14:48:15-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DSC01845_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods",
-      "link": "https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods",
-      "summary": "Apple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports. [&#8230;]",
-      "published": "2026-02-17T14:26:21-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
