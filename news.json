@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T07:12:23.916414",
+  "lastUpdated": "2026-02-23T13:17:25.812752",
   "articles": [
     {
       "title": "Apple might take a new approach to announcing its next products",
@@ -114,14 +114,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/54717981613_dab21dfbc3_k-1152x648.jpg"
     },
     {
-      "title": "The 9,000-pound monster I don’t want to give back",
-      "link": "https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/",
-      "summary": "I thought: other than hotels that use SUVs like the Escalade IQL to ferry guests around, what kind of monster chooses a car like this?",
-      "published": "Sun, 22 Feb 2026 10:59:08 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-2.19.29-AM.png?resize=1200,767"
-    },
-    {
       "title": "Cities Are Shredding Their AI Surveillance Contracts en Masse",
       "link": "https://futurism.com/artificial-intelligence/ai-surveillance-flock-contracts",
       "summary": "<p>\"We are seeing a lot more momentum.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-surveillance-flock-contracts\">Cities Are Shredding Their AI Surveillance Contracts en Masse</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -202,6 +194,22 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/nist-1152x648.jpg"
     },
     {
+      "title": "The first cars bold enough to drive themselves",
+      "link": "https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/",
+      "summary": "Quevedo's telekino of 1904 was the first step on the road to autonomous Waymos.",
+      "published": "Mon, 23 Feb 2026 12:00:45 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/radio-controlled-vintage-cars-1152x648.jpg"
+    },
+    {
+      "title": "Wispr Flow launches an Android app for AI-powered dictation",
+      "link": "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/",
+      "summary": "AI-powered dictation startup Wispr Flow has launched its Android app today. The company released its app for Mac and Windows first, then launched on iOS in June 2025. On iOS, users could use Wispr Flow through a dedicated keyboard. On Android, the interface is a bit different, as you can access the dictionary through a [&#8230;]",
+      "published": "Mon, 23 Feb 2026 08:01:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718"
+    },
+    {
       "title": "After fueling test, optimism grows for March launch of Artemis II to the Moon",
       "link": "https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/",
       "summary": "“We’re now targeting March 6 as our earliest launch attempt ... there is still pending work.\"",
@@ -234,12 +242,76 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2260552299-1024x648.jpg"
     },
     {
-      "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
-      "link": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-      "summary": "Brendan Carr wants \"patriotic\" shows for Trump's yearlong America 250 celebration.",
-      "published": "Fri, 20 Feb 2026 22:00:59 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg"
+      "title": "Altman: You think AI is inefficient? Try raising 100 billion humans",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/sam_altman_ai_efficiency/",
+      "summary": "<h4>OpenAI CEO takes really, really long view on energy efficiency</h4> <p>AI is being unfairly targeted over its energy use, OpenAI CEO Sam Altman claims, as the naysayers ignore the vast amount of resources humans have consumed over millennia – not least to avoid being eating by predators.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-23T12:56:30.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/02/22/shutterstock_sam_altman.jpg"
+    },
+    {
+      "title": "Suspected Anonymous members detained in Spain over post-flood DDoS blitz",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/anonymous_arrests_spain/",
+      "summary": "<h4>Quartet accused of attacking public institutions, claiming the government was responsible for 2024 tragedy</h4> <p>Spanish police say four self-proclaimed members of Anonymous are in custody after allegedly carrying out several cyberattacks on public authorities in the wake of the 2024 DANA floods.…</p>",
+      "published": "2026-02-23T12:26:30.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/06/07/shutterstock_anonymous_mask_editorial_only.jpg"
+    },
+    {
+      "title": "AWS says more than 600 FortiGate firewalls hit in AI-augmented campaign",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/aws_fortigate_firewalls/",
+      "summary": "<h4>Off-the-shelf tools helped Russian-speaking cybercrime group run riot</h4> <p>Cybercriminals armed with off-the-shelf generative AI tools compromised more than 600 internet-exposed FortiGate firewalls across 55 countries in just over a month, according to a new incident report from AWS.…</p>",
+      "published": "2026-02-23T11:41:47.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/03/04/firewall_shutterstock.jpg"
+    },
+    {
+      "title": "Feeling the burn: When open source developers decide to take a break",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/open_source_devs_column/",
+      "summary": "<h4>A week off for vacation? The nerve of some people</h4> <p><strong>Opinion</strong>  If you want to see the definition of \"workaholic,\" you can't do better than to look at your typical senior open source developer or maintainer. I should know, I'm a workaholic too. I know my kind.…</p>",
+      "published": "2026-02-23T11:00:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/02/06/asleep_on_keyboard_shutterstock.jpg"
+    },
+    {
+      "title": "Hotel's rotary switchboard so retro it predates the concept of crashing",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/bork_goes_retro_with_a/",
+      "summary": "<h4>Analog curio nestled between fax and typewriter - this is a very different definition of 'legacy support'</h4> <p><strong>Bork!Bork!Bork!</strong>  There are occasions when flicking a power switch can send a user into a world of bork-related pain, so it is sometimes worth taking a step back and reconsidering one's life choices.…</p>",
+      "published": "2026-02-23T10:15:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/17/retro_switchboard.jpg"
+    },
+    {
+      "title": "Every day in every way, passwords are getting worse and worse",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/password_opinion/",
+      "summary": "<h4>The only good password is no password at all</h4> <p>Passwords turn 65 this year. They became a feature of computer users' lives in 1961, with MIT's Compatible Time-Sharing System (CTSS). Before then, sysops were real sysops. All jobs went through them, one at a time, and access by others was forbidden by laws written on blocks of stone.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-23T09:30:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/07/12/password_shutterstock.jpg"
+    },
+    {
+      "title": "Nothing couldn’t wait to show off the Phone 4A",
+      "link": "https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar",
+      "summary": "After teasing the upcoming launch of its midrange Phone 4A last week, Nothing has now revealed what the rear of the device looks like. An official render of the Phone 4A shared on X shows off the brand's familiar transparent-industrial stylings, alongside a new \"Glyph Bar\" lighting feature located to the right of the triple [&#8230;]",
+      "published": "2026-02-23T08:01:33-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Nothing-Phone-4A-rear-design.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Uber launches robotaxi support project to aid AV partners",
+      "link": "https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners",
+      "summary": "Uber is moving aggressively into robotaxis, striking deals with new partners and promising big investments to support future fleets - basically everything it can do except design and build the vehicles itself. (It tried that once, unsuccessfully.) Now, the ridehail giant is launching a new initiative to support its third-party robotaxi partners called Uber Autonomous [&#8230;]",
+      "published": "2026-02-23T08:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23252598/acastro_220216_STK003_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Work experience kids messed with manager's PC to send him to Ctrl-Alt-Del hell",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/who_me/",
+      "summary": "<h4>Rogue user showed them an excellent prank, which they put into production</h4> <p><strong>Who, Me?</strong>  Welcome to another installment of Who, Me? It's <i>The Register's</i> Monday column in which you confess to crises you caused, and the course corrections that cured the chaos.…</p>",
+      "published": "2026-02-23T07:30:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/20/shutterstock_typing_ctrl_alt_del_sm.jpg"
     },
     {
       "title": "NASA repurposes Mars Helicopter’s ancient Snapdragon SoC to help Perseverance rover navigate",
@@ -248,6 +320,22 @@
       "published": "2026-02-23T06:15:47.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/07/30/nasa_perseverance_rover.jpg"
+    },
+    {
+      "title": "Taara Beam provides 25Gbps connectivity over invisible beams of light",
+      "link": "https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light",
+      "summary": "Light-based internet provider Taara, which spun out of Alphabet's \"moonshot\" incubator last year, just launched Taara Beam to provide 25Gbps connectivity within cities over invisible beams of light - line of sight permitting. Unlike last year's Taara Lightbridge, which connects communities separated by water and mountains at distances up to 20km (over 12 miles), the [&#8230;]",
+      "published": "2026-02-23T06:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Taara-Beam-mounted.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "How many AIs does it take to read a PDF?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+      "summary": "Last November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice [&#8230;]",
+      "published": "2026-02-23T06:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PDFs-AI-still.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Infosys chair says AI will clean up legacy systems – then make more of them",
@@ -264,14 +352,6 @@
       "published": "2026-02-23T00:56:17.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/10/08/shutterstock_linus.jpg"
-    },
-    {
-      "title": "Attacker gets into France's database listing all bank accounts, makes off with 1.2 million records",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/22/french_bank_hack/",
-      "summary": "<h4>PLUS: Unpatched Ivanti boxes under attack; 0APT might not be a scam; AI gets better at helping cyber-scum; And more</h4> <p><strong>Infosec In Brief</strong>  An unknown attacker accessed the French government’s database listing every bank account in the country and made off with 1.2 million records.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-22T23:26:50.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/22/shutterstock_digitized_french_flag.jpg"
     },
     {
       "title": "Samsung is adding Perplexity to Galaxy AI",
@@ -298,14 +378,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1702800938.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "UK council faces data breach claim after mishandling trans complaints",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/22/cornwall_council_complaints_breach/",
-      "summary": "<h4>Confidential complainant details passed to local politician following debate</h4> <p>A UK councillor has dubbed her local authority's data breach \"crazy\" after the personal details of individuals behind a series of complaints were revealed to her.…</p>",
-      "published": "2026-02-22T09:34:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/04/12/shutterstock_cornwall.jpg"
-    },
-    {
       "title": "This magazine plays Tetris — here’s how",
       "link": "https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display",
       "summary": "Tetris has been immortalized in a playable McDonald's plastic chicken nugget, a playable fake 7-Eleven Slurpee cup, and a playable wristwatch. But the most intriguing way to play Tetris yet is encased in paper. Last year the Tetris Company partnered with Red Bull for a gaming tournament that culminated in the 150-meter-tall Dubai Frame landmark [&#8230;]",
@@ -328,78 +400,6 @@
       "published": "2026-02-22T08:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268363_Camp_Snap_Pro_Flashback_One35_V2_camera_review_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
-      "link": "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
-      "summary": "Arturia launched a new version of its flagship effects suite, FX Collection, which includes two new plugins, EFX Ambient and Pitch Shifter-910. FX Collection 6 also marks the introduction of an Intro version with a selection of six effects covering the basics for $99. That pales in comparison to the 39 effects in the full [&#8230;]",
-      "published": "2026-02-21T16:10:01-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/function.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Georgia says Elon Musk’s America PAC violated election law",
-      "link": "https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
-      "summary": "For all his bluster about voter fraud, Elon Musk has been one of the most flagrant flouters of US election law. Now his America PAC has been slapped with a reprimand by the Georgia State Election Board for sending out pre-filled absentee ballot applications. State law prohibits anyone, other than an authorized relative, from sending [&#8230;]",
-      "published": "2026-02-21T11:55:36-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK022_ELON_MUSK_4_CVIRGINIA_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Government upgrades drones, deploys joystick tweakers to catch illegal dumpers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/21/head/",
-      "summary": "<h4>Electronic eyes are watching from above, ready to catch dumpers of smashed up couches in the act</h4> <p>The UK government is pulling together an elite squad of drone operators to crack down on the scourge of fly tippers and unauthorized dumpers across this ever less green and pleasant land.…</p>",
-      "published": "2026-02-21T11:03:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/20/shutterstock_2664539081.jpg"
-    },
-    {
-      "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
-      "summary": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could [&#8230;]",
-      "published": "2026-02-21T10:22:57-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Pixel 10A and Soundcore Space One are just two of the best deals this week",
-      "link": "https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale",
-      "summary": "Welcome to the weekend, folks! The Reviews and Guides team here at The Verge is gearing up for all things Unpacked, but Samsung isn’t the only one readying new phones. Google just announced the Pixel 10A, which, for you early adopters, is already up for preorder with a $100 gift card. Elsewhere in deal land, [&#8230;]",
-      "published": "2026-02-21T09:45:21-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Google-Pixel-10A-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Ofcom's grumble-o-meter lights up for EE, TalkTalk, Vodafone",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/21/ofcom_q3_2025_complaints/",
-      "summary": "<h4>Q3 figures show the trio drawing the most broadband complaints per 100,000 customers</h4> <p>The UK's telecoms regulator has named and shamed the companies it receives the most customer complaints about, with certain brands cropping up more than others.…</p>",
-      "published": "2026-02-21T08:27:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/20/shutterstock_complaint.jpg"
-    },
-    {
-      "title": "SerpApi says Google is the pot calling the kettle black when it comes to scraping",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/21/serpapi_google_scraping_lawsuit/",
-      "summary": "<h4>'The DMCA was not designed to create walled gardens for tech giants'</h4> <p>SerpApi, a Texas-based web scraping company, has asked a California court to dismiss Google's claim that that it bypassed digital locks to gather copyrighted content in Google Search results.…</p>",
-      "published": "2026-02-21T00:56:04.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/21/pot_kettle_black_cauldron.jpg"
-    },
-    {
-      "title": "The idea of using a Raspberry Pi to run OpenClaw makes no sense",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/raspberry_pi_meme_stock_disorder/",
-      "summary": "<h4>The micro-computer maker’s shares surged this week after an X post tied the AI agent to Pi demand</h4> <p><strong>opinion</strong>  Beloved British single-board computer maker Raspberry Pi has achieved meme stock stardom, as its share price surged 90 percent over the course of a couple of days earlier this week. It's settled since, but it’s still up more than 30 percent on the week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-20T23:31:20.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/06/23/raspberry_image_via_shutterstock.jpg"
-    },
-    {
-      "title": "PayPal app code error leaked personal info and a 'few' unauthorized transactions",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/paypal_app_code_error_leak/",
-      "summary": "<h4>About 100 customers affected</h4> <p>PayPal has notified about 100 customers that their personal information was exposed online during a code change gone awry, and in a few of these cases, people saw unauthorized transactions on their accounts.…</p>",
-      "published": "2026-02-20T22:10:32.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/01/19/paypalsecurity.jpg"
     }
   ]
 }
