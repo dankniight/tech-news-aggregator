@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T02:40:56.528585",
+  "lastUpdated": "2026-02-23T07:12:23.916414",
   "articles": [
     {
       "title": "Apple might take a new approach to announcing its next products",
@@ -48,6 +48,14 @@
       "published": "Sun, 22 Feb 2026 17:05:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801"
+    },
+    {
+      "title": "All the important news from the ongoing India AI Impact Summit",
+      "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+      "published": "Sun, 22 Feb 2026 17:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200"
     },
     {
       "title": "China’s brain-computer interface industry is racing ahead",
@@ -128,14 +136,6 @@
       "published": "Sun, 22 Feb 2026 10:00:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/ai-filmmaker-begs-for-ideas.jpg?quality=85"
-    },
-    {
-      "title": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere",
-      "link": "https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/",
-      "summary": "A list of some of the alternative app stores iPhone users in the EU can try today.",
-      "published": "Sun, 22 Feb 2026 09:00:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/altstore.png?resize=1200,490"
     },
     {
       "title": "Hackers Working on Method to Make Ring Cameras Store Footage Locally, Never Giving It to Amazon",
@@ -240,6 +240,22 @@
       "published": "Fri, 20 Feb 2026 22:00:59 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg"
+    },
+    {
+      "title": "NASA repurposes Mars Helicopter’s ancient Snapdragon SoC to help Perseverance rover navigate",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/perseverance_rover_soc_navigation_upgrade/",
+      "summary": "<h4>Upgrade allows robot to travel ‘potentially unlimited distances’ without phoning home for help</h4> <p>NASA has revealed it repurposed the processor the Perseverance rover used to communicate with the Ingenuity Mars Helicopter, to help the rolling robot navigate the Red Planet autonomously “for potentially unlimited distances.”…</p>",
+      "published": "2026-02-23T06:15:47.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/07/30/nasa_perseverance_rover.jpg"
+    },
+    {
+      "title": "Infosys chair says AI will clean up legacy systems – then make more of them",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/asia_tech_news_roundup/",
+      "summary": "<h4>PLUS: China’s sword-wielding humanoid robots; Australian court swamped by AI filings; Vietnam’s 25km overwater drone delivery; And more!</h4> <p><strong>Asia In Brief</strong>  Infosys chairman Nandan Nilekani has said the advent of AI means organizations no longer have any excuse to retain their legacy systems.…</p>",
+      "published": "2026-02-23T04:13:36.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/23/screenshot_china_swordbot.jpg"
     },
     {
       "title": "Linus Torvalds: Someone ‘more competent who isn't afraid of numbers past the teens’ will take over Linux one day",
@@ -384,22 +400,6 @@
       "published": "2026-02-20T22:10:32.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2023/01/19/paypalsecurity.jpg"
-    },
-    {
-      "title": "Anthropic: No, absolutely not, you may not use third-party harnesses with Claude subs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/anthropic_clarifies_ban_third_party_claude_access/",
-      "summary": "<h4>Legal language change aims to make longstanding policy clear</h4> <p>Anthropic this week revised its legal terms to clarify its policy forbidding the use of third-party harnesses with Claude subscriptions, as the AI biz attempts to shore up its revenue model.…</p>",
-      "published": "2026-02-20T21:54:40.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/05/22/shutterstock_anthropic_claude.jpg"
-    },
-    {
-      "title": "AI coding assistant Cline compromised to create more OpenClaw chaos",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/openclaw_snuck_into_cline_package/",
-      "summary": "<h4>4K unintended installs in very odd supply chain attack</h4> <p>Someone compromised open source AI coding assistant Cline CLI's npm package earlier this week in an odd <a href=\"https://www.theregister.com/2026/02/12/supply_chain_attacks/\" target=\"_blank\">supply chain attack</a> that secretly installed OpenClaw on developers' machines without their knowledge. …</p>",
-      "published": "2026-02-20T20:05:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/20/lobster_underwater.jpg"
     }
   ]
 }
