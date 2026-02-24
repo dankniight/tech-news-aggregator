@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-02-24T07:07:12.501565",
+  "lastUpdated": "2026-02-24T13:18:18.972256",
   "articles": [
+    {
+      "title": "Canva acquires startups working on animation and marketing",
+      "link": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
+      "summary": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
+      "published": "Tue, 24 Feb 2026 07:39:27 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1258807457.jpg?w=1024"
+    },
     {
       "title": "Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments",
       "link": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
@@ -138,14 +146,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/flock-camera-2259453437.jpg?resize=1200,862"
     },
     {
-      "title": "OpenAI calls in the consultants for its enterprise push",
-      "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
-      "summary": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
-      "published": "Mon, 23 Feb 2026 18:11:08 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800"
-    },
-    {
       "title": "New Microsoft gaming chief has \"no tolerance for bad AI\"",
       "link": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/",
       "summary": "But Asha Sharma faces scrutiny for lack of gaming experience.",
@@ -242,12 +242,76 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/vtuber-waifu-school-japan.jpg?quality=85"
     },
     {
+      "title": "KDE Plasma 6.6 isn't forcing systemd but the arguments rage on",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/kde_plasma_66/",
+      "summary": "<h4>BSD support improves, FreeBSD eyes a desktop option, and the init wars refuse to die</h4> <p>The latest KDE desktop environment is out. Among other things, it comes with a pledge that it won't require systemd, and this version has improved OpenBSD support. FreeBSD 15.1's installer offers KDE too.…</p>",
+      "published": "2026-02-24T12:30:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/02/25/argument_shutterstock.jpg"
+    },
+    {
+      "title": "Korean cops charge teens over bike hire breach that exposed data on 4.62M riders",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/korean_bike_breach_charges/",
+      "summary": "<h4>Public prosecutor mulls sentencing following investigations into two separate attacks</h4> <p>Two South Korean teenagers were this week charged with breaching Seoul's public bike service, Ttareungyi.…</p>",
+      "published": "2026-02-24T11:53:49.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/24/shutterstock_ttareungyi.jpg"
+    },
+    {
+      "title": "West Midlands Police earn red card over Copilot's imaginary football match",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/west_midlands_police_copilot/",
+      "summary": "<h4>Parliament committee finds AI BS helped shape a real-world decision</h4> <p>UK Parliament has delivered the official postmortem on West Midlands Police's Copilot saga, and it reads like a case study in how not to mix generative AI with public order decision-making.…</p>",
+      "published": "2026-02-24T11:32:56.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/06/05/shutterstock_red_card.jpg"
+    },
+    {
+      "title": "Intel backs SambaNova's $350M bid to challenge GPUs in AI inference",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/sambanova_intel_funding/",
+      "summary": "<h4>Upstart's 5th-gen RDU aims to undercut Nvidia's B200 on speed and cost</h4> <p>AI infrastructure company SambaNova has raised $350 million to advance its dataflow architecture, which it pitches as an alternative to GPU-based AI systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-24T11:00:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/24/sambanova_cover_image.jpg"
+    },
+    {
+      "title": "UK tech hit by double trouble: Fewer foreign techies amid skills squeeze",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/brit_tech_firms_face_falling/",
+      "summary": "<h4>Visa applications down, executives emigrating, and AI blamed for the rest</h4> <p>The number of international workers applying for a visa to work in the UK's tech sector dropped 11 percent between Q2 and Q3 2025, and was down 6 percent year-on-year, according to consultancy RSM UK.…</p>",
+      "published": "2026-02-24T10:15:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/23/shutterstock_2183617243.jpg"
+    },
+    {
+      "title": "Euro allies aiming to rapidly build low-cost air defense weapons",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/uk_joins_european_allies_aiming/",
+      "summary": "<h4>We like our surface-to-air weapons affordable</h4> <p>Britain has joined a handful of European allies in a program to develop low-cost air defense systems, including autonomous drones or missiles, with project delivery of the first elements scheduled for as early as 2027.…</p>",
+      "published": "2026-02-24T09:30:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/11/09/shutterstock_657783499.jpg"
+    },
+    {
       "title": "Microsoft teases ‘reimagined SharePoint experience’ landing in April",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/microsoft_365_roadmap_update/",
       "summary": "<h4>Redmond also offers to take the OneDrive name out of your OneDrive</h4> <p>Microsoft has teased a significant upgrade to its SharePoint collaborationware package.…</p>",
       "published": "2026-02-24T07:03:14.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/02/24/shutterstock_editorial_only_microsoft_sharepoint.jpg"
+    },
+    {
+      "title": "Apple will soon make (some) Mac Minis in the US",
+      "link": "https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston",
+      "summary": "Apple is preparing to move some of its Mac Mini production to the US as part of the company's ongoing efforts to appease the Trump administration's push for domestic investment. Manufacturing is set to begin later this year in north Houston, Texas, at a Foxconn facility that currently assembles Apple's AI servers. \"Apple is deeply [&#8230;]",
+      "published": "2026-02-24T06:15:37-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717370/DSC_1249.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Inside Anthropic’s existential negotiations with the Pentagon",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations",
+      "summary": "Anthropic's weekslong battle with the Department of Defense has played out over social media posts, admonishing public statements, and direct quotes from unnamed Pentagon officials to the news media. But the future of the $380 billion AI startup comes down to just three words: \"any lawful use.\" The new terms, which OpenAI and xAI have [&#8230;]",
+      "published": "2026-02-24T06:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Cisco turns to titanium spoons and sand dunes to build a better … box?",
@@ -268,58 +332,10 @@
     {
       "title": "IBM stock dives after Anthropic points out AI can rewrite COBOL fast",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/ibm_share_dive_anthropic_cobol/",
-      "summary": "<h4>Big Blue has been saying this itself since 2013</h4> <p>IBM’s share price slumped by 13 percent on Monday, seemingly caused by investors reacting to an Anthropic blog post that points out its Claude Code tools can accelerate refactoring of apps written in the ancient COBOL language.…</p>",
+      "summary": "<h4>Big Blue has been saying this itself since 2023</h4> <p>IBM’s share price slumped by 13 percent on Monday, seemingly caused by investors reacting to an Anthropic blog post that points out its Claude Code tools can accelerate refactoring of apps written in the ancient COBOL language.…</p>",
       "published": "2026-02-23T23:53:03.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2020/04/05/game_over_green_screen.jpg"
-    },
-    {
-      "title": "ICE watchers say agents used software to threaten and follow them home",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/americans_sue_homeland_security_over/",
-      "summary": "<h4>'This is a warning. We know you live right here'</h4> <p>Two US residents have sued several Homeland Security agencies and officials, including Secretary Kristi Noem, for allegedly using surveillance tools to harass them, branding them as \"domestic terrorists,\" and even showing up at their homes based on license-plate recognition. …</p>",
-      "published": "2026-02-23T22:54:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/05/ice.jpg"
-    },
-    {
-      "title": "Pop music fans literally dying to stream hot new albums - in car crashes, that is",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/pop_album_fatal_car_accidents/",
-      "summary": "<h4>What do Taylor Swift and Drake’s release days have to do with road deaths? More than you’d think</h4> <p>Who doesn’t like streaming music while driving? Unfortunately, new research suggests that when major albums drop and streaming spikes, traffic fatalities rise too.…</p>",
-      "published": "2026-02-23T21:25:31.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/01/17/shutterstock_man_car.jpg"
-    },
-    {
-      "title": "Google Antigravity falls to Earth under OpenClaw-fueled compute load",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/google_antigravity_compute_burden/",
-      "summary": "<h4>Company tries to curb strain by banning customer accounts for 'malicious' usage</h4> <p>Google customers paying $250 per month for AI Ultra subscriptions and less extravagant spenders have been surprised to find their accounts suspended for using the company's Antigravity agent development app and Gemini services with third-party agent tools like OpenClaw and OpenCode.…</p>",
-      "published": "2026-02-23T20:49:37.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/09/12/spacetime_continuum_gravity.jpg"
-    },
-    {
-      "title": "Nvidia superchip infusion finally coming to Windows PCs, report says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/nvidia_soc_pc/",
-      "summary": "<h4>Nv-based integrated graphics for Wintel box also in the works</h4> <p>Your next laptop may have Nvidia inside – not in the form of a GPU, but as a system on a chip, complete with CPU. Team Green could be chipping away at Intel's marketshare and giving people Arm-based systems that compete with Apple's MacBook line.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-23T19:59:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/08/27/gb10_nvidia_superchip.jpg"
-    },
-    {
-      "title": "Infosec community panics as Anthropic rolls out Claude code security checker",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/claude_code_security_panic/",
-      "summary": "<h4>Not the first of its kind</h4> <p><strong>ai-pocalypse</strong>  Anthropic sent the infosec community into a tizzy on Friday when it rolled out Claude Code Security, a new feature that scans codebases for vulnerabilities and suggests patches to fix the issues.…</p>",
-      "published": "2026-02-23T19:50:01.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/01/09/aicoding.jpg"
-    },
-    {
-      "title": "Microsoft execs worry AI will eat entry level coding jobs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/microsoft_ai_entry_level_russinovich_hanselman/",
-      "summary": "<h4>Russinovich and Hanselman say firms must train juniors to fix agent mistakes – not replace them with prompts</h4> <p>Microsoft Azure CTO Mark Russinovich and VP of Developer Community Scott Hanselman have written a paper arguing that senior software engineers must mentor junior developers to prevent AI coding agents from hollowing out the profession's future skills base.…</p>",
-      "published": "2026-02-23T18:01:42.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/23/new_job_no_job_hiring_entry_level.jpg"
     },
     {
       "title": "Will Trump’s DOJ actually take on Ticketmaster?",
@@ -384,22 +400,6 @@
       "published": "2026-02-23T11:00:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Yep, it’s fast: Donut Lab’s solid-state battery gets its first test result",
-      "link": "https://www.theverge.com/transportation/882993/donut-labs-solid-state-battery-charge-speed-vtt-test",
-      "summary": "Since announcing earlier this year that it was on the cusp of a major battery breakthrough, Finnish startup Donut Lab has faced a lot of questions, and plenty of skepticism, about its production-ready, solid-state battery. Could the company really make a fast-charging battery at scale while avoiding some of the theoretical production headaches that have [&#8230;]",
-      "published": "2026-02-23T10:54:06-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Donut-Battery-Module-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AOC’s 27-inch 1440p QD-OLED gaming monitor is down to $380",
-      "link": "https://www.theverge.com/gadgets/883004/qd-oled-27-1440p-gaming-monitor-ghost-yotei-beats-deal-sale",
-      "summary": "It’s tough not to gush about a 27-inch 1440p QD-OLED gaming monitor that costs under $400 (I’ve done it before!). AOC’s G-Sync-compatible model with a 240Hz refresh rate and a near-instant response time is down to $379.99 at Best Buy, which matches the lowest price I’ve ever seen for a model with these specs. This [&#8230;]",
-      "published": "2026-02-23T10:50:02-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/aocgamingmonitordeal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
