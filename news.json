@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-02-24T02:37:27.430454",
+  "lastUpdated": "2026-02-24T07:07:12.501565",
   "articles": [
+    {
+      "title": "Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments",
+      "link": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
+      "summary": "Stripe and PayPal Ventures have participated in Xflow's $16.6 million round that gives it a post-money valuation of $85 million.",
+      "published": "Tue, 24 Feb 2026 05:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/xflow-founders-anand-balaji-ashwin-bhatnagar-abhijit-chandrasekaran.jpg?resize=1200,800"
+    },
     {
       "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
       "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
@@ -138,14 +146,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800"
     },
     {
-      "title": "Guide Labs debuts a new kind of interpretable LLM",
-      "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
-      "published": "Mon, 23 Feb 2026 17:53:28 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-9.31.05-AM.png?resize=1200,639"
-    },
-    {
       "title": "New Microsoft gaming chief has \"no tolerance for bad AI\"",
       "link": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/",
       "summary": "But Asha Sharma faces scrutiny for lack of gaming experience.",
@@ -242,6 +242,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/02/vtuber-waifu-school-japan.jpg?quality=85"
     },
     {
+      "title": "Microsoft teases ‘reimagined SharePoint experience’ landing in April",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/microsoft_365_roadmap_update/",
+      "summary": "<h4>Redmond also offers to take the OneDrive name out of your OneDrive</h4> <p>Microsoft has teased a significant upgrade to its SharePoint collaborationware package.…</p>",
+      "published": "2026-02-24T07:03:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/24/shutterstock_editorial_only_microsoft_sharepoint.jpg"
+    },
+    {
+      "title": "Cisco turns to titanium spoons and sand dunes to build a better … box?",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/cisco_everpure_brand_design/",
+      "summary": "<h4>As Pure Storage adopts a watered-down name for a rebrand</h4> <p><strong>Logowatch</strong>  Cisco and the vendor formerly known as Pure Storage have let their designers and marketers loose on the internet to explain some recent decisions.…</p>",
+      "published": "2026-02-24T04:39:40.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/24/supplied_cisco_roomkit_box.jpg"
+    },
+    {
       "title": "Anthropic accuses China's AI labs of ripping off content - just like it did",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/anthropic_misanthropic_chinese_ai_labs/",
       "summary": "<h4>Says DeepSeek, Moonshot, and MiniMax are using 'distillation' to gin up their own models</h4> <p>Having built a business by remixing content created by others, Anthropic worries that Chinese AI labs are stealing its data.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -304,22 +320,6 @@
       "published": "2026-02-23T18:01:42.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/02/23/new_job_no_job_hiring_entry_level.jpg"
-    },
-    {
-      "title": "Indie web browser Ladybird flutters toward Rust with a little help from AI",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/ladybird_goes_rusty/",
-      "summary": "<h4>Project ditches Swift and translates C++ with LLM assistance</h4> <p>The independent Ladybird web browser project is changing course on its choice of programming languages, with LLM-based coding assistants helping to evaluate the shift.…</p>",
-      "published": "2026-02-23T17:43:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/23/shutterstock_ladybirdflyingaway.jpg"
-    },
-    {
-      "title": "Artemis II headed back to the bay; helium issues force another delay",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/artemis_ii_launch_april_helium_issues/",
-      "summary": "<h4>Sending humans around the Moon in <s>February</s>, er, <s>March</s> - now April 2026, maybe</h4> <p>The quest to return to the Moon has hit another snag. NASA is delaying Artemis II again, as interrupted helium flow to the rocket’s upper stage forces a rollback to the Vehicle Assembly Building (VAB) and wipes out the March launch window.…</p>",
-      "published": "2026-02-23T17:05:31.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/01/19/artemisii.jpg"
     },
     {
       "title": "Will Trump’s DOJ actually take on Ticketmaster?",
