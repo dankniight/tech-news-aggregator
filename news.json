@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T02:33:55.186425",
+  "lastUpdated": "2026-02-26T07:07:01.544648",
   "articles": [
     {
       "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
@@ -242,6 +242,30 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/gushwork-co-founders.jpg?resize=1200,800"
     },
     {
+      "title": "AMD puts $250 million into Nutanix to get it building an AI stack for its GPUs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/nutanix_q2_2026/",
+      "summary": "<h4>Cloudy stack vendor says VMware refugees have started to arrive in large numbers, just in time to collide with supply chain woes</h4> <p>AMD has struck another chips’n’stock deal, this time with software-defined datacenter player Nutanix.…</p>",
+      "published": "2026-02-26T05:55:54.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/26/shutterstock_editorial_only_amd_money.jpg"
+    },
+    {
+      "title": "Microsoft ‘cooperating’ with Japanese antitrust probe",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/microsoft_japan_cloud_monopoly_investigation/",
+      "summary": "<h4>It looks like the same cloudy software licenses that offend Europe may be in play</h4> <p>Microsoft is “fully cooperating” with a probe by Japan’s Fair Trade Commission, which wants to know if the software giant has violated the nation’s anti-monopoly laws.…</p>",
+      "published": "2026-02-26T04:27:45.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/02/26/supplied_japan_fair_trade_commission_mascot_dokkin.jpg"
+    },
+    {
+      "title": "Salesforce CEO 'SaaSquatch' Benioff says his company will monster the SaaSpocalypse",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/salesforce_q4_2026/",
+      "summary": "<h4>Selling so many agents they've cooked up a way to measure what they do</h4> <p>Even by the somewhat offbeat standards of the Salesforce Ohana, the CRM giant just delivered a strange earnings announcement.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-02-26T03:22:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/07/02/shutterstock_benioff.jpg"
+    },
+    {
       "title": "Nvidia hasn't made a cent in China lately - and might not need to given $120 billion profit",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/nvidia_q4_2026/",
       "summary": "<h4>GPU giant sees yet more growth coming soon, most of it in the datacenter</h4> <p>Nearly three months after the Trump administration allowed Nvidia to sell its H200 accelerator in China, the GPU giant is still waiting for Beijing to allow them in and for any revenue to materialize.…</p>",
@@ -298,36 +322,12 @@
       "image_url": "https://regmedia.co.uk/2020/04/13/amd_epyc_7fx2chip.jpg"
     },
     {
-      "title": "OpenAI asks its friends to tell their friends about Frontier",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/openai_asks_its_friends_to/",
-      "summary": "<h4>Agent-making tool that mimics human workers is about to get its enterprise close up.</h4> <p>OpenAI has managed to make a name for itself with ChatGPT. But if it wants its new enterprise AI product Frontier to succeed, it's going to need help. According to an analyst, the company is smart to partner with the world's biggest consultants to push Frontier, which can create and control role-based AI agents throughout an organization.…</p>",
-      "published": "2026-02-25T19:24:04.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/25/whisper_chain_gossip_secrets.jpg"
-    },
-    {
-      "title": "All your bots are belong to US if you don't play ball, DoD tells Anthropic",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/pentagon_threatens_anthropic/",
-      "summary": "<h4>AI firm drops key safety pledge as Pentagon dispute drags on</h4> <p>US Secretary of Defense Pete Hegseth has made Anthropic an offer it may not be able to refuse. The Defense Department and the AI firm held a meeting at the Pentagon on Tuesday, where the government tried to compel the house of Claude to lift some restrictions on military use of its tech. However, recent changes to the company's safety policy suggest it may be willing to be more flexible than it's letting on. …</p>",
-      "published": "2026-02-25T18:43:41.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/04/04/shutterstock_hegseth.jpg"
-    },
-    {
       "title": "New York sues Valve, alleging its loot boxes are ‘quintessential gambling’",
       "link": "https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit",
       "summary": "New York Attorney General Letitia James is suing Valve for \"illegally promoting gambling\" through the loot box systems it has built for video games like Counter-Strike 2, Team Fortress 2, and Dota 2, according to a press release. The attorney general seeks to \"permanently stop Valve from promoting gambling features in its games, disgorge all [&#8230;]",
       "published": "2026-02-25T18:22:18-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Hardly anybody bought Samsung's last smartphones for AI. It hopes this year's models change that",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/samsung_galaxy_s26_launch/",
-      "summary": "<h4>But only Qualcomm can power the most alluring features</h4> <p><strong>hands on</strong>  Just 20 percent of punters who bought Samsung's 2025 flagship smartphone, the Galaxy S25 Ultra, cited AI as the main reason for their purchase. With this year's S26 models, the Korean giant hopes to improve that number.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-02-25T18:00:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/02/25/suplpied_samsung_galaxy_s26_range.jpg"
     },
     {
       "title": "How the new Galaxy S26 phones stack up against each other on paper",
