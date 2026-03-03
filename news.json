@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T02:38:23.628393",
+  "lastUpdated": "2026-03-03T06:59:38.866227",
   "articles": [
     {
       "title": "Cursor has reportedly surpassed $2B in annualized revenue",
@@ -242,6 +242,30 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-1152x648.jpg"
     },
     {
+      "title": "Gamers furious as Brit studio Cloud Imperium quietly admits to data breach",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/",
+      "summary": "<h4>Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well</h4> <p>Gamers are ready to unleash their mightiest virtual weapons and point them at British games studio Cloud Imperium, after it sat on news of a data breach and then announced it without fanfare.…</p>",
+      "published": "2026-03-03T06:24:19.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/02/11/shutterstock_game_over.jpg"
+    },
+    {
+      "title": "Claude having artificially intelligent hiccups and access lockouts for over two hours",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/claude_outage/",
+      "summary": "<h4>Developers ponder the horror of having to actually write code</h4> <p>Anthropic’s AI service Claude is having artificially intelligent hiccups and availability problems across its basic chat service, API, and Claude Code offering.…</p>",
+      "published": "2026-03-03T05:25:52.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/03/screenshot_claude_error_message.jpg"
+    },
+    {
+      "title": "Huawei brings its flatpack AI datacenters, packed full of Chinese chips, to the world",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/huawei_takes_ai_datacenters_global/",
+      "summary": "<h4>Claims it can build and deploy them fast, whether they run at speed is another matter</h4> <p>As the AI boom rages, investors and buyers have thrown cash at anyone that even looks capable of selling them hardware capable of crunching tokens at speed. And now they have a new option: China’s Huawei.…</p>",
+      "published": "2026-03-03T02:49:25.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/06/07/shutterstock_huawei_europe_copenhagen.jpg"
+    },
+    {
       "title": "Phish of the day: Microsoft OAuth scams abuse redirects for malware delivery",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_oauth_scams/",
       "summary": "<h4>Crims hope for payday from malicious payloads rather than stealing access tokens</h4> <p>Microsoft has warned organizations about ongoing OAuth abuse scams that use phishing emails and URL redirects to infect victims' machines with malware and take over their devices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -266,9 +290,9 @@
       "image_url": "https://regmedia.co.uk/2026/03/02/shutterstock_2485892039.jpg"
     },
     {
-      "title": "AWS outages spread as Iran bombards targets across Gulf region",
+      "title": "AWS says drones hit two of its datacenters in UAE, urges users to move resources to different regions",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/amazon_outages_middle_east/",
-      "summary": "<h4>Multiple AWS zones in UAE and Bahrain offline or disrupted</h4> <p>Multiple Amazon Web Services (AWS) availability zones in the Middle East are experiencing outages or degraded connectivity after objects struck a UAE facility, as Iranian retaliatory missile and drone attacks hit targets across the Gulf.…</p>",
+      "summary": "<h4>Multiple zones Middle East in UAE disrupted, with water damage complicating recovery</h4> <p><strong>UPDATED</strong>  Multiple Amazon Web Services (AWS) availability zones in the Middle East are experiencing outages or degraded connectivity after objects struck a UAE facility, as Iranian retaliatory missile and drone attacks hit targets across the Gulf.…</p>",
       "published": "2026-03-02T21:14:19.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2023/10/12/shutterstock_map_of_central_asia_and_middle_east.jpg"
@@ -296,30 +320,6 @@
       "published": "2026-03-02T19:45:11.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/03/02/shutterstock_motorolalogoonphone.jpg"
-    },
-    {
-      "title": "US struck Iran with copies of its own drones",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/us_iran_clone_drones/",
-      "summary": "<h4>Iran's own technology reverse engineered and used against it.</h4> <p>The Pentagon has confirmed that US forces struck Iranian targets using weapons that are copies of Iran's own Shahed 136 suicide drones.…</p>",
-      "published": "2026-03-02T19:17:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/02/shutterstock_2726621377.jpg"
-    },
-    {
-      "title": "UK Businesses told to brace cyber defenses amid Iran conflict risk",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/ncsc_security_iran/",
-      "summary": "<h4>NCSC urges all to review posture as escalating tensions increase risk of indirect digital spillover</h4> <p>The UK's cybersecurity agency is warning British organizations to brace for potential digital blowback as the Middle East conflict spills further into the online world.…</p>",
-      "published": "2026-03-02T18:44:26.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/12/09/shield.jpg"
-    },
-    {
-      "title": "Qualcomm, Nvidia ready for 'AI-native' 6G, if only the world knew what it was",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/qualcomm_nvidia_ai_native_6g/",
-      "summary": "<h4>Meanwhile, formal 6G specs are still in the works</h4> <p>It seems like just yesterday that the 5G rollout started. Now, at Mobile World Congress, major companies are already talking about commercializing 6G. Never mind that binding 6G standards haven't been nailed down yet.…</p>",
-      "published": "2026-03-02T18:17:29.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/02/qualcomm-6g.jpg"
     },
     {
       "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
