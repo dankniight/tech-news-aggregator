@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-03-04T06:56:21.459028",
+  "lastUpdated": "2026-03-04T13:08:04.522407",
   "articles": [
+    {
+      "title": "Who needs data centers in space when they can float offshore?",
+      "link": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+      "summary": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+      "published": "Wed, 04 Mar 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1067"
+    },
+    {
+      "title": "Eight Sleep raises $50M at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/",
+      "summary": "Eight Sleep said it was free-cash-flow positive in 2025, and plans to use the new funding for new products, global expansions, and clinical validation.",
+      "published": "Wed, 04 Mar 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Eight-Sleep-Pod-5-Hero-1.png?resize=1200,674"
+    },
     {
       "title": "Why AI startups are selling the same equity at two different prices",
       "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
@@ -98,28 +114,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152503873.jpg?resize=1200,685"
     },
     {
-      "title": "Claude Code rolls out a voice mode capability",
-      "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-      "summary": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
-      "published": "Tue, 03 Mar 2026 20:02:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=1200"
-    },
-    {
       "title": "There are plenty of great choices if you want to spend less than $15K on an EV",
       "link": "https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/",
       "summary": "There's a lot of good Hyundai and Kia EVs in this price bracket, plus the Bolt and i3.",
       "published": "Tue, 03 Mar 2026 19:58:10 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-15k-1152x648.jpg"
-    },
-    {
-      "title": "Android users can now share tracker tag info with airlines to help locate lost luggage",
-      "link": "https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/",
-      "summary": "More than 10 global airlines now accept Find Hub locations as part of their baggage recovery process.",
-      "published": "Tue, 03 Mar 2026 19:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-1.18.12-PM.png?resize=1200,961"
     },
     {
       "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
@@ -242,12 +242,92 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/meta-contractors-disturbing-smart-glasses.jpg?quality=85"
     },
     {
-      "title": "One vendor is happy RAM prices are high: VMware",
+      "title": "Gram: Zed, but with AI and chat features removed",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/gram_cut_down_zed/",
+      "summary": "<h4>Brand-new stripped-down fork of the Zed all-Rust code editor</h4> <p>Gram is a new text editor written in Rust, created by removing almost all the fancy features from Zed… and it has already seemingly caused Zed Industries to change its terms of <del>use</del> service, according to Gram's developer.…</p>",
+      "published": "2026-03-04T13:06:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/09/23/shutterstock_rust_ship.jpg"
+    },
+    {
+      "title": "UK digital ID brief quietly moves to new minister after resignation",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/new_digital_identity_minister/",
+      "summary": "<h4>James Frith takes reins from Josh Simons, who quit even though he was cleared over journalist vetting scandal</h4> <p>Labour MP James Frith has taken over the ministerial roles held by Josh Simons after he resigned over his handling of a report on journalists while running a think tank.…</p>",
+      "published": "2026-03-04T12:28:20.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/11/28/shutterstock_digitalid.jpg"
+    },
+    {
+      "title": "Doomscrollers despair after Oracle hiccup knocks TikTok offline in US",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/oracle_cloud_outage_tiktok/",
+      "summary": "<h4>Big Red's cloud that 'doesn't go down' goes down again</h4> <p>An Oracle outage knocked parts of TikTok offline this week. The incident affected Oracle Cloud Infrastructure (OCI), which trails AWS, Azure, and Google Cloud in <a href=\"https://holori.com/cloud-market-share-2026-top-cloud-vendors-in-2026/\" rel=\"nofollow\" target=\"_blank\">market share</a> but counts the social media behemoth among its customers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-04T11:44:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/11/02/shutterstock_tiktok_editorial_only.jpg"
+    },
+    {
+      "title": "Capita's £370M Whitehall outsourcing deal challenged as 'abnormally low'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/370m_capita_government_deal/",
+      "summary": "<h4>Rival bidder Sopra Steria launched legal claim over DWP procurement</h4> <p>Capita confirmed today it won a business process outsourcing deal for multiple UK government departments for £370 million over ten years, less than 40 percent of the estimated value outlined during the tender stage.…</p>",
+      "published": "2026-03-04T11:08:49.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/07/05/shutterstock_whitehall.jpg"
+    },
+    {
+      "title": "Users fume over Outlook.com email 'carnage'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+      "summary": "<h4>Email flow slowed or stopped by mysterious forces at Microsoft</h4> <p>Microsoft spent last week rejecting emails to Outlook recipients after what appears to be either a fault or overzealous blocking rules, a situation a source described as \"carnage.\"…</p>",
+      "published": "2026-03-04T10:31:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/02/02/shutterstock_email_overload.jpg"
+    },
+    {
+      "title": "Cloud inquiry chair quits UK competition watchdog over glacial pace of reform",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/cloud_inquiry_chair_quits_cma/",
+      "summary": "<h4>Kip Meeks walked a year early with the overseer of tech markets yet to take action against AWS and Microsoft</h4> <p>The chair of the competition markets authority's cloud inquiry has quit, citing the slow pace of implementing recommendations outlined in a report it published in 2025 to boost market dynamics in Britain's cloud computing market.…</p>",
+      "published": "2026-03-04T09:33:28.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2019/10/08/quit_shutterstock.jpg"
+    },
+    {
+      "title": "How a prize-winning cartoonist brings hand-drawn comics to the web",
+      "link": "https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web",
+      "summary": "Jailed during the 2021 coup in Myanmar, American journalist Danny Fenster spent six months as a political prisoner. For much of his incarceration he battled boredom and fear, subsisting on meditation and podcasts on an SD card smuggled in by mail, sent by his girlfriend, Juliana. Now, nearly five years after his release, he collaborated [&#8230;]",
+      "published": "2026-03-04T07:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Amy-Kurzweil-Burmese-Prison-comic-lede-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "One vendor doesn't mind high RAM prices: VMware",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/one_company_is_very_happy/",
       "summary": "<h4>Memory tiering and pooled memory are having a moment because they offer the chance to use less RAM</h4> <p>The high price of memory and solid-state storage has almost everyone worried – but not VMware, because the most innovative new feature in the Cloud Foundation 9 (VCF 9) private cloud suite it launched last year is memory tiering tech that allows offload of data from RAM to NVMe drives.…</p>",
       "published": "2026-03-04T06:45:24.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/03/04/shutterstock_memory_question.jpg"
+    },
+    {
+      "title": "I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year",
+      "link": "https://www.theverge.com/tech/885941/kobo-wireless-bluetooth-remote-page-turn-clara-libra-sage-elipsa",
+      "summary": "Does anyone really need a remote for a device you’re already either holding or using at arm’s length? E-readers have saved us from the risk of paper cuts and the burden of physically turning pages, but Kobo is making it even easier by releasing a wireless page-turning remote. The Kobo Remote might be indulgent and [&#8230;]",
+      "published": "2026-03-04T06:30:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/kobo_remote1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Inside the secret meeting that led to the AI political resistance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
+      "summary": "In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative academics were sitting next [&#8230;]",
+      "published": "2026-03-04T06:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268379_The_AI_political_resistance_movement_has_arrived_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Activision silences trusted Call of Duty leaker",
+      "link": "https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown",
+      "summary": "One of the most trusted leakers for Call of Duty will no longer share confidential information about the gaming franchise after being hit with a cease and desist order. TheGhostOfHope (also known to the community as \"Hope\") announced on X that he is complying with legal demands from developer Activision to \"stop leaking and disseminating [&#8230;]",
+      "published": "2026-03-04T04:34:38-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24509385/call_of_duty_modern_warfare_2_key_art_1663249948.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "European Space Agency and China both achieve gigabit links to geostationary satellites",
@@ -272,54 +352,6 @@
       "published": "2026-03-04T00:17:28.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2022/03/22/shutterstock_chat_bot.jpg"
-    },
-    {
-      "title": "Nvidia-backed photonics startup Ayar Labs fills its wallet to mass-produce CPO chiplets",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/ayar_labs_500m/",
-      "summary": "<h4>Company aims to stitch tens of thousands of GPUs together for more efficient training and inference</h4> <p>It's a good time to be an AI chip startup, especially if you happen to specialize in silicon photonics.…</p>",
-      "published": "2026-03-03T23:20:28.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/02/04/fiber_optics.jpg"
-    },
-    {
-      "title": "Dev stunned by $82K Gemini bill after unknown API key thief goes to town",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/gemini_api_key_82314_dollar_charge/",
-      "summary": "<h4>Probably not an isolated incident only as researchers have already found 2,863 live API keys exposed</h4> <p>A developer says their company is on the hook for more than $82,000 in unauthorized charges after a stolen Google Gemini API key racked massive usage costs up in just 48 hours.…</p>",
-      "published": "2026-03-03T23:19:03.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/03/stunned_jaw_drop_beard_computer.jpg"
-    },
-    {
-      "title": "Facebook went down for about three hours, interrupting your poking and Meta's ads business",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/facebook_outage/",
-      "summary": "<h4>Go outside and smell some flowers</h4> <p><strong>Updated</strong>  Meta’s flagship service, Facebook, is experiencing an outage.…</p>",
-      "published": "2026-03-03T23:04:37.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/04/05/facebook.jpg"
-    },
-    {
-      "title": "MIT boffins aim to build injectable mini-organs that can fill in for a damaged liver",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/need_more_liver_mit_boffins/",
-      "summary": "<h4>Injected liver cells stayed viable and functional for eight weeks in mice</h4> <p>Can’t keep waiting on the transplant list? How about an injectable “satellite liver” instead? After an MIT research project showed early success, the idea of a mini organ that could be injected into the body to take over for a failing liver doesn’t sound so far-fetched.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-03T22:32:53.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/01/27/pub_teaser.jpg"
-    },
-    {
-      "title": "Chat at your own risk! Data brokers are selling deeply personal bot transcripts",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/",
-      "summary": "<h4>AI conversations for sale include sensitive health and legal details</h4> <p>Your latest chat transcript could be bought and sold. Data brokers are selling access to sensitive personal data captured during chatbot conversations, despite claims that the data is anonymized and obtained with consent.…</p>",
-      "published": "2026-03-03T20:59:17.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/05/27/eye_8736874634.jpg"
-    },
-    {
-      "title": "Apple jacks up MacBook pricing with M5 Pro, Max debut",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/apples_m5_pro_max_macbooks/",
-      "summary": "<h4>No one can hide from the RAMapocalypse, not even Tim Apple</h4> <p>RAM shortages and faster chips have a big impact on Apple's next-gen laptops. On Tuesday, the iGiant unveiled its M5 Pro and Max MacBook Pros and M5 Airs alongside steep price hikes across the lineup.…</p>",
-      "published": "2026-03-03T20:06:17.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/03/apple_m5_pro_max.jpg"
     },
     {
       "title": "Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time",
@@ -368,38 +400,6 @@
       "published": "2026-03-03T15:16:03-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_6a0272b3cd10c3ffa73b8b8e7855817f3ab75d50.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Shark’s latest robot vacuum hunts stains with UV light",
-      "link": "https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review",
-      "summary": "The Shark PowerDetect UV Reveal is SharkNinja's latest robot vacuum and mop. A flagship model with a multifunctional dock that empties the dustbin and refills and washes its mop, the Reveal's signature feature is a UV light designed to \"find\" stains on your floors. It costs $1,299.99 and is available now. Combined with an RGB [&#8230;]",
-      "published": "2026-03-03T15:07:38-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/8A0A5457.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Android’s Find Hub adds iPhone-like luggage tracking links",
-      "link": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
-      "summary": "Google is rolling out an Android update that includes the ability to share the location of your missing luggage with an airline. It's similar to the luggage-tracking feature Apple brought to the iPhone, allowing you to view the location of your Find Hub tag or accessory on a map, and provide your airline with a [&#8230;]",
-      "published": "2026-03-03T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-find-my-device-trackers-12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
-      "link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
-      "summary": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, [&#8230;]",
-      "published": "2026-03-03T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google brings Android’s desktop mode to Pixel devices",
-      "link": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
-      "summary": "Google is bringing a new desktop mode to its Pixel phones and tablets. The feature comes as part of Google's March Pixel drop, allowing users with a Pixel 8 and newer to connect their device to an external monitor via USB-C for a \"desktop-like multi-window experience.\" You can use a mouse and keyboard with the [&#8230;]",
-      "published": "2026-03-03T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKE007_GOOGLE_PIXEL_2025_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
