@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T02:30:56.677856",
+  "lastUpdated": "2026-03-04T06:56:21.459028",
   "articles": [
     {
       "title": "Why AI startups are selling the same equity at two different prices",
@@ -242,6 +242,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/meta-contractors-disturbing-smart-glasses.jpg?quality=85"
     },
     {
+      "title": "One vendor is happy RAM prices are high: VMware",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/one_company_is_very_happy/",
+      "summary": "<h4>Memory tiering and pooled memory are having a moment because they offer the chance to use less RAM</h4> <p>The high price of memory and solid-state storage has almost everyone worried – but not VMware, because the most innovative new feature in the Cloud Foundation 9 (VCF 9) private cloud suite it launched last year is memory tiering tech that allows offload of data from RAM to NVMe drives.…</p>",
+      "published": "2026-03-04T06:45:24.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/04/shutterstock_memory_question.jpg"
+    },
+    {
+      "title": "European Space Agency and China both achieve gigabit links to geostationary satellites",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/gigabit_laser_links_geostationary_satellites/",
+      "summary": "<h4>Raises hopes birds 40,000km away can be reprogrammed, for science or military purposes</h4> <p>The European Space Agency and the Institute of Optoelectronics at China’s Academy of Sciences both claim they’ve achieved gigabit links to satellites in geostationary orbit.…</p>",
+      "published": "2026-03-04T04:31:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/02/06/laser_comms_concept.jpg"
+    },
+    {
       "title": "Google feels the need for security speed, so will ship Chrome updates every two weeks",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/",
       "summary": "<h4>Retains eight-weekly Extended Stable releases but warns fortnightly updates are the best way to stay safe</h4> <p>Google will halve the time between releases of its Chrome browser to two weeks, across versions of the software for desktop operating systems, Android, and iOS.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -306,14 +322,6 @@
       "image_url": "https://regmedia.co.uk/2026/03/03/apple_m5_pro_max.jpg"
     },
     {
-      "title": "Lawmakers take pick to ICE's warrantless location tracking purchases",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/us_lawmakers_ice_data_purchases/",
-      "summary": "<h4>After DHS’s $2.3M PenLink contract gets ‘shady’ label</h4> <p>A group of 70 US lawmakers has called on Homeland Security's inspector general to investigate whether its agencies - including US Immigration and Customs Enforcement (ICE) - illegally purchased Americans' location data without first obtaining warrants.…</p>",
-      "published": "2026-03-03T19:28:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/09/20/shutterstock_us_ice_flag.jpg"
-    },
-    {
       "title": "Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time",
       "link": "https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale",
       "summary": "Bad news: most Americans are about to lose an hour of sleep next week. Good news: if you have trouble falling (or staying asleep), Newegg is currently selling Anker’s Soundcore Sleep A20 earbuds for $113.99 ($66 off) when you use coupon code MMSF88 at checkout, which drops them to just $6 shy of their lowest [&#8230;]",
@@ -328,14 +336,6 @@
       "published": "2026-03-03T18:27:59-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK268_TICKETMASTER_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Cyberwarriors elevated to big leagues in US war with Iran",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/cyberwarriors_us_iran_war/",
-      "summary": "<h4>No more hiding in the server closet: Cyber ops mentioned alongside kinetic warfare as critical to conflict</h4> <p>In what may be the most public acknowledgment of its cyber operations capabilities to date, the Pentagon has admitted that cyber soldiers are playing a key role in its attacks on Iran. …</p>",
-      "published": "2026-03-03T18:23:51.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/05/15/army_shutterstock.jpg"
     },
     {
       "title": "What Trump’s war on Iran means for the US energy crunch",
