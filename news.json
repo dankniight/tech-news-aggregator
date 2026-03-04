@@ -1,125 +1,229 @@
 {
-  "lastUpdated": "2026-03-03T13:09:21.914554",
+  "lastUpdated": "2026-03-04T02:30:56.677856",
   "articles": [
     {
-      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-      "published": "Tue, 03 Mar 2026 12:30:24 +0000",
+      "title": "Why AI startups are selling the same equity at two different prices",
+      "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+      "summary": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+      "published": "Wed, 04 Mar 2026 00:31:25 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675"
+    },
+    {
+      "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals",
+      "link": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/",
+      "summary": "Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for \"secondhand\" exploits.",
+      "published": "Tue, 03 Mar 2026 23:27:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/apple-mac-iphone-security.jpg?resize=1200,797"
+    },
+    {
+      "title": "Alibaba’s Qwen tech lead steps down after major AI push",
+      "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+      "summary": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
+      "published": "Tue, 03 Mar 2026 23:16:36 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/alibaba-qwen-ai.jpg?resize=1200,800"
+    },
+    {
+      "title": "No fooling: NASA targets April 1 for Artemis II launch to the Moon",
+      "link": "https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/",
+      "summary": "\"Engineers are assessing what allowed the seal to become dislodged to prevent the issue from recurring.\"",
+      "published": "Tue, 03 Mar 2026 22:54:21 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/HCgyB1NWMAAkUkb-1152x648-1772577583.jpg"
     },
     {
-      "title": "The candidate that Silicon Valley built is now the one they want to tear down",
-      "link": "https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/",
-      "summary": "Ethan Agarwal, a 40-year-old tech entrepreneur with no political background, told TechCrunch on Monday evening that he is running for California's 17th congressional district.",
-      "published": "Tue, 03 Mar 2026 12:30:00 +0000",
+      "title": "Just three companies dominated the $189B in VC investments last month",
+      "link": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
+      "summary": "Crunchbase data shows a record $189 billion of global venture capital flowed to startups last month, with AI startups nabbing 90% of the capital.",
+      "published": "Tue, 03 Mar 2026 22:38:58 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1145735161.jpg?w=1024"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800"
     },
     {
-      "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
-      "link": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
-      "summary": "Questions remain as Google prepares to lock down Android app distribution in the name of security.",
-      "published": "Tue, 03 Mar 2026 12:00:30 +0000",
+      "title": "TikTok down for some in US, thanks to second Oracle outage since sale",
+      "link": "https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/",
+      "summary": "TikTok experienced a similar outage just days after ByteDance divested the app's U.S. operations.",
+      "published": "Tue, 03 Mar 2026 22:33:57 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2198288850.jpg?resize=1200,800"
+    },
+    {
+      "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
+      "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
+      "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
+      "published": "Tue, 03 Mar 2026 22:20:06 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/app-cops-1-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1795499144-1152x648.jpg"
     },
     {
-      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
-      "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
-      "summary": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
-      "published": "Tue, 03 Mar 2026 01:53:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200"
-    },
-    {
-      "title": "India’s Pronto formalizes house help as its valuation jumps 8x in under a year",
-      "link": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/",
-      "summary": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India's largely offline home services market.",
-      "published": "Tue, 03 Mar 2026 01:15:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/anjali-sardana-pronto.jpg?resize=1200,800"
-    },
-    {
-      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-      "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-      "published": "Tue, 03 Mar 2026 00:03:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
-    },
-    {
-      "title": "James Webb Takes Long, Hard Look Inside Uranus",
-      "link": "https://futurism.com/space/james-webb-looks-inside-uranus",
-      "summary": "<p>The swirling gases are breathtaking.</p>\n<p>The post <a href=\"https://futurism.com/space/james-webb-looks-inside-uranus\">James Webb Takes Long, Hard Look Inside Uranus</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 01 Mar 2026 15:00:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/02/james-webb-inside-uranus.jpg?quality=85"
-    },
-    {
-      "title": "Former Delivery Drivers Are Getting Weird New Jobs as Delivery Robots Take Over",
-      "link": "https://futurism.com/robots-and-machines/robot-wranglers",
-      "summary": "<p>\"They are the kind of jobs that scale with the robots.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/robot-wranglers\">Former Delivery Drivers Are Getting Weird New Jobs as Delivery Robots Take Over</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 01 Mar 2026 14:15:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/02/robot-wranglers.jpg?quality=85"
-    },
-    {
-      "title": "Researchers Get Human Brain Cells Running Doom",
-      "link": "https://futurism.com/health-medicine/doom-human-brain-cells",
-      "summary": "<p>\"If the neurons fire in a specific pattern, the Doom guy shoots.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/doom-human-brain-cells\">Researchers Get Human Brain Cells Running Doom</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 01 Mar 2026 13:30:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/02/doom-human-brain-cells.jpg?quality=85"
-    },
-    {
-      "title": "Stripe wants to turn your AI costs into a profit center",
-      "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
-      "summary": "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees.",
-      "published": "Mon, 02 Mar 2026 23:18:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1289163664.jpg?resize=1200,800"
-    },
-    {
-      "title": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
-      "link": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/",
-      "summary": "The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion).",
-      "published": "Mon, 02 Mar 2026 23:01:57 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2015/01/shutterstock_218423131.jpg?resize=1200,900"
-    },
-    {
-      "title": "No one has a good plan for how AI companies should work with the government",
-      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-      "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
-      "published": "Mon, 02 Mar 2026 22:59:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024"
-    },
-    {
-      "title": "A new app alerts you if someone nearby is wearing smart glasses",
-      "link": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/",
-      "summary": "A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to always-on recording and listening devices that invade people's privacy.",
-      "published": "Mon, 02 Mar 2026 22:40:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/smart-glasses-app-screenshot.jpeg?resize=1200,926"
-    },
-    {
-      "title": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
-      "link": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/",
-      "summary": "South Korean police deeply apologized for preventable loss of seized funds.",
-      "published": "Mon, 02 Mar 2026 22:27:52 +0000",
+      "title": "FCC chair calls Paramount/WBD merger \"a lot cleaner\" than defunct Netflix deal",
+      "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-chair-paramount-warner-bros-merger-likely-to-get-quick-approval/",
+      "summary": "FCC to review foreign debt, but Carr indicates it will be a formality.",
+      "published": "Tue, 03 Mar 2026 22:05:36 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1251331351-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/netflix-paramount-wb-icons-1152x648-1767815429.jpg"
     },
     {
-      "title": "Instagram tracked growing usage while targeting teens, lawyers argue",
-      "link": "https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/",
-      "summary": "The company said usage grew from 40 minutes per day in 2023 to 46 minutes in 2026. Other documents referenced teens as being a top priority for the app before asking existing users for birthdays.",
-      "published": "Mon, 02 Mar 2026 22:23:48 +0000",
+      "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
+      "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
+      "summary": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
+      "published": "Tue, 03 Mar 2026 21:44:09 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024"
+    },
+    {
+      "title": "What we can learn from scientific analysis of Renaissance recipes",
+      "link": "https://arstechnica.com/science/2026/03/renaissance-diy-science-people-tested-tweaked-home-remedy-recipes/",
+      "summary": "Multispectral imaging, proteomics, historical texts yield new insights into 16th-century medical manuals.",
+      "published": "Tue, 03 Mar 2026 20:23:23 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/recipes1CROP-1152x648.jpg"
+    },
+    {
+      "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+      "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+      "summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
+      "published": "Tue, 03 Mar 2026 20:20:56 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anduril aims at $60 billion valuation in new funding round",
+      "link": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "summary": "The funding round would come less than a year after Anduril's Series G, which closed in June with $2.5 billion against a $30 billion valuation.",
+      "published": "Tue, 03 Mar 2026 20:06:45 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152503873.jpg?resize=1200,685"
+    },
+    {
+      "title": "Claude Code rolls out a voice mode capability",
+      "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+      "summary": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
+      "published": "Tue, 03 Mar 2026 20:02:10 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=1200"
+    },
+    {
+      "title": "There are plenty of great choices if you want to spend less than $15K on an EV",
+      "link": "https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/",
+      "summary": "There's a lot of good Hyundai and Kia EVs in this price bracket, plus the Bolt and i3.",
+      "published": "Tue, 03 Mar 2026 19:58:10 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-15k-1152x648.jpg"
+    },
+    {
+      "title": "Android users can now share tracker tag info with airlines to help locate lost luggage",
+      "link": "https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/",
+      "summary": "More than 10 global airlines now accept Find Hub locations as part of their baggage recovery process.",
+      "published": "Tue, 03 Mar 2026 19:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-1.18.12-PM.png?resize=1200,961"
+    },
+    {
+      "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
+      "link": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+      "summary": "Apple is using more chiplets and three types of CPU cores to make the M5 family.",
+      "published": "Tue, 03 Mar 2026 18:41:29 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-12.48.54-PM-1152x648.jpeg"
+    },
+    {
+      "title": "OpenAI Says It Will Let Users Add Trusted Contacts to Alert If They Experience a Mental Health Crisis While Using ChatGPT",
+      "link": "https://futurism.com/artificial-intelligence/openai-contacts-alert-mental-crisis",
+      "summary": "<p>Interesting.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-contacts-alert-mental-crisis\">OpenAI Says It Will Let Users Add Trusted Contacts to Alert If They Experience a Mental Health Crisis While Using ChatGPT</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 16:00:30 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/openai-contacts-alert-mental-crisis.jpg?quality=85"
+    },
+    {
+      "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
+      "link": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
+      "summary": "New Airs leave more room underneath for the rumored low-cost MacBook.",
+      "published": "Tue, 03 Mar 2026 15:58:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg"
+    },
+    {
+      "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+      "link": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+      "summary": "New laptops come with more storage but also higher starting prices.",
+      "published": "Tue, 03 Mar 2026 15:19:43 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303-1152x648.jpeg"
+    },
+    {
+      "title": "Humongous Numbers of People Are Uninstalling ChatGPT as Anti-OpenAI Sentiment Surges",
+      "link": "https://futurism.com/artificial-intelligence/humongous-numbers-uninstall-chatgpt",
+      "summary": "<p>Yikes.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/humongous-numbers-uninstall-chatgpt\">Humongous Numbers of People Are Uninstalling ChatGPT as Anti-OpenAI Sentiment Surges</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 15:03:44 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/humongous-numbers-uninstall-chatgpt.jpg?quality=85"
+    },
+    {
+      "title": "This is why our electricity bills are so high right now",
+      "link": "https://arstechnica.com/tech-policy/2026/03/this-is-why-our-electricity-bills-are-so-high-right-now/",
+      "summary": "New data shows electricity rates rose 5 percent nationwide in 2025.",
+      "published": "Tue, 03 Mar 2026 15:01:44 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/electric-transmission-grid-1000x648.jpg"
+    },
+    {
+      "title": "As Moon interest heats up, two companies unveil plans for a lunar \"harvester\"",
+      "link": "https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/",
+      "summary": "\"Ultimately, we want to build a fleet of electric harvesters.\"",
+      "published": "Tue, 03 Mar 2026 15:00:21 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/FLEX-Exc.4k3_closeup-1152x648.jpg"
+    },
+    {
+      "title": "Government Handing Out Cash Bonuses to Drug Researchers Who Rush Through Regulatory Approvals",
+      "link": "https://futurism.com/health-medicine/drugs-fda-bonus",
+      "summary": "<p>\"If you don't like it, we can get rid of it, but usually everybody loves money.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/drugs-fda-bonus\">Government Handing Out Cash Bonuses to Drug Researchers Who Rush Through Regulatory Approvals</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 14:01:00 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/drugs-fda-bonus.jpg?quality=85"
+    },
+    {
+      "title": "Lead Investor in Music Generation App Suno Deletes Tweet That Contradicts Its Argument in High Stakes Court Cases",
+      "link": "https://futurism.com/future-society/lead-investor-music-generation-suno-tweet-court",
+      "summary": "<p>\"This tweet, from Suno’s lead investor, will surely be used in court one day.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/lead-investor-music-generation-suno-tweet-court\">Lead Investor in Music Generation App Suno Deletes Tweet That Contradicts Its Argument in High Stakes Court Cases</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 13:18:53 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/lead-investor-music-generation-suno-tweet-court.jpg?quality=85"
+    },
+    {
+      "title": "Harvard Professor Says AI Users Are Losing Cognitive Abilities",
+      "link": "https://futurism.com/artificial-intelligence/harvard-avi-loeb-ai",
+      "summary": "<p>\"Regarding AI as similar to the beauty of the human mind is just like putting lipstick on a pig.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/harvard-avi-loeb-ai\">Harvard Professor Says AI Users Are Losing Cognitive Abilities</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 12:25:38 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/harvard-avi-loeb-ai.jpg?quality=85"
+    },
+    {
+      "title": "After Nixing Its Planned Moon Landing, NASA Is Starting to Seriously Lose the Moon Race to China",
+      "link": "https://futurism.com/space/nasa-losing-space-race-china",
+      "summary": "<p>China is providing \"credible competition,\" said NASA head Jared Isaacman in an incredible understatement.</p>\n<p>The post <a href=\"https://futurism.com/space/nasa-losing-space-race-china\">After Nixing Its Planned Moon Landing, NASA Is Starting to Seriously Lose the Moon Race to China</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 11:37:49 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/nasa-losing-space-race-china.jpg?quality=85"
+    },
+    {
+      "title": "Sam Altman Is Realizing He Made a Gigantic Mistake",
+      "link": "https://futurism.com/artificial-intelligence/sam-altman-admits-huge-mistake",
+      "summary": "<p>\"Opportunistic and sloppy.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sam-altman-admits-huge-mistake\">Sam Altman Is Realizing He Made a Gigantic Mistake</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 10:44:44 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/sam-altman-admits-huge-mistake.jpg?quality=85"
+    },
+    {
+      "title": "Waymo Says It Has Nothing to Say After Its Self-Driving Taxi Blocked an Ambulance Responding to a Mass Shooting",
+      "link": "https://futurism.com/advanced-transport/waymo-blocks-ambulance-mass-shooting",
+      "summary": "<p>\"Come on! Go!\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/waymo-blocks-ambulance-mass-shooting\">Waymo Says It Has Nothing to Say After Its Self-Driving Taxi Blocked an Ambulance Responding to a Mass Shooting</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 03 Mar 2026 09:45:25 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/waymo-blocks-ambulance-mass-shooting.jpg?quality=85"
     },
     {
       "title": "Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes",
@@ -130,276 +234,172 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?quality=85"
     },
     {
-      "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
-      "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-      "summary": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
-      "published": "Mon, 02 Mar 2026 18:42:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024"
-    },
-    {
-      "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
-      "link": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
-      "summary": "FCC rejects protests because Charter and Cox don't compete directly in most places.",
-      "published": "Mon, 02 Mar 2026 18:19:03 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cox-truck-1152x648-1772475039.jpg"
-    },
-    {
-      "title": "AI Tools Are Supercharging Hackers",
-      "link": "https://futurism.com/artificial-intelligence/ai-tools-hackers",
-      "summary": "<p>\"It’s like an AI-powered assembly line for cybercrime, helping less skilled workers produce at scale.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-tools-hackers\">AI Tools Are Supercharging Hackers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 02 Mar 2026 17:01:56 -0500",
+      "title": "Meta Workers Say They’re Seeing Disturbing Things Through Users’ Smart Glasses",
+      "link": "https://futurism.com/artificial-intelligence/meta-disturbing-smart-glasses",
+      "summary": "<p>\"In some videos you can see someone going to the toilet, or getting undressed.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-disturbing-smart-glasses\">Meta Workers Say They&#8217;re Seeing Disturbing Things Through Users&#8217; Smart Glasses</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 02 Mar 2026 17:23:35 -0500",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/03/ai-tools-hackers.jpg?quality=85"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/meta-contractors-disturbing-smart-glasses.jpg?quality=85"
     },
     {
-      "title": "Sam Altman in Damage Control Mode as ChatGPT Users Are Mass Cancelling Subscriptions Because OpenAI Is “Training a War Machine”",
-      "link": "https://futurism.com/artificial-intelligence/sam-altman-damage-control-mass-cancellation",
-      "summary": "<p>\"The optics don't look good.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sam-altman-damage-control-mass-cancellation\">Sam Altman in Damage Control Mode as ChatGPT Users Are Mass Cancelling Subscriptions Because OpenAI Is &#8220;Training a War Machine&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 02 Mar 2026 15:50:50 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/03/sam-altman-damage-control-mass-cancellation.jpg?quality=85"
-    },
-    {
-      "title": "Iowa county adopts strict zoning rules for data centers, but residents still worry",
-      "link": "https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/",
-      "summary": "Though the rules are among the strictest in the US, locals say they aren't enough.",
-      "published": "Mon, 02 Mar 2026 15:34:42 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iowadatacenter-1152x648.jpg"
-    },
-    {
-      "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
-      "summary": "Unexpected RAM upgrade is the highlight of an otherwise straightforward refresh.",
-      "published": "Mon, 02 Mar 2026 15:06:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ipad-air-m4-1152x648.jpg"
-    },
-    {
-      "title": "US Military Using Claude to Select Targets in Iran Strikes",
-      "link": "https://futurism.com/artificial-intelligence/claude-anthropic-military-iran",
-      "summary": "<p>\"America is in such steep decline that we don't even make Oppenheimers like we used to.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/claude-anthropic-military-iran\">US Military Using Claude to Select Targets in Iran Strikes</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 02 Mar 2026 14:46:52 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/03/claude-anthropic-military-iran.jpg?quality=85"
-    },
-    {
-      "title": "Research roundup: Six cool science stories we almost missed",
-      "link": "https://arstechnica.com/science/2026/03/research-roundup-six-cool-science-stories-we-almost-missed/",
-      "summary": "Smart underwear measures farts, brain cells play <em>Doom</em>, and AI discovers rules of an ancient game.",
-      "published": "Mon, 02 Mar 2026 14:45:05 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/blackhole-1152x648.jpg"
-    },
-    {
-      "title": "Apple's new iPhone 17e has an A19 chip, MagSafe, and 256GB of storage for $599",
-      "link": "https://arstechnica.com/gadgets/2026/03/apples-new-iphone-17e-has-an-a19-chip-magsafe-and-256gb-of-storage-for-599/",
-      "summary": "New just-the-basics phone replaces the year-old iPhone 16e at the same price.",
-      "published": "Mon, 02 Mar 2026 14:34:52 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-iPhone-17e-family-lineup-260302-1152x648-1772463997.jpg"
-    },
-    {
-      "title": "It's almost a station wagon: The 2026 Subaru Trailseeker, driven",
-      "link": "https://arstechnica.com/cars/2026/03/2026-subaru-trailseeker-first-drive-the-most-quintessentially-subaru-ev-yet/",
-      "summary": "Despite the Toyota platform, there's plenty of Subaru DNA in this one.",
-      "published": "Mon, 02 Mar 2026 14:00:01 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026_Subaru_Trailerseeker_16-1152x648.jpg"
-    },
-    {
-      "title": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding",
-      "link": "https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/",
-      "summary": "America succeeds in space when American companies compete.",
-      "published": "Mon, 02 Mar 2026 13:58:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-20200119-PH-KLS01_0182medium-1152x648.jpg"
-    },
-    {
-      "title": "White House Responds as Scabby Mark Appears on Trump’s Neck",
-      "link": "https://futurism.com/health-medicine/mark-trump-neck",
-      "summary": "<p>Questions abound.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/mark-trump-neck\">White House Responds as Scabby Mark Appears on Trump&#8217;s Neck</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 02 Mar 2026 13:52:05 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/03/weird-mark-trump-neck.jpg?quality=85"
-    },
-    {
-      "title": "Microsoft Bans the Word “Microslop” on Copilot Discord, Gets So Humiliated That It Locks Down the Whole Server",
-      "link": "https://futurism.com/artificial-intelligence/microsoft-bans-word-microslop-discord-lock",
-      "summary": "<p>\"Streisand effect in full swing.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/microsoft-bans-word-microslop-discord-lock\">Microsoft Bans the Word &#8220;Microslop&#8221; on Copilot Discord, Gets So Humiliated That It Locks Down the Whole Server</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 02 Mar 2026 12:11:47 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/03/microsoft-bans-word-microslop-discord-lock.jpg?quality=85"
-    },
-    {
-      "title": "Anonymous Polymarket Accounts Won $1.2 Million on Trump’s Iran Strikes in Suspicious Bets",
-      "link": "https://futurism.com/future-society/anonymous-polymarket-trump-iran",
-      "summary": "<p>\"It's insane this is legal. People around Trump are profiting off war and death.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/anonymous-polymarket-trump-iran\">Anonymous Polymarket Accounts Won $1.2 Million on Trump&#8217;s Iran Strikes in Suspicious Bets</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 02 Mar 2026 10:25:46 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/03/anonymous-polymarket-trump-iran.jpg?quality=85"
-    },
-    {
-      "title": "Bootleg Windows, Office scheme crashes, triggers 22-month lockup for Florida woman",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/windows_office_software_scalper/",
-      "summary": "<h4>Heidi Richards paid more than $5M for certificate of authenticity labels in five years</h4> <p>A Florida woman will spend nearly two years behind bars after being found guilty of fraudulently acquiring Microsoft certificate of authenticity (COA) labels and selling them in bulk.…</p>",
-      "published": "2026-03-03T12:47:26.00Z",
+      "title": "Google feels the need for security speed, so will ship Chrome updates every two weeks",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/",
+      "summary": "<h4>Retains eight-weekly Extended Stable releases but warns fortnightly updates are the best way to stay safe</h4> <p>Google will halve the time between releases of its Chrome browser to two weeks, across versions of the software for desktop operating systems, Android, and iOS.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-04T02:01:55.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/07/01/court1_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2023/10/26/speed_shutterstock.jpg"
     },
     {
-      "title": "Microsoft reportedly eyes E7 tier to make AI agents pay their way - like the humans they'll replace",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_365_e7_rumors/",
-      "summary": "<h4>Redmond wants a monthly cut from every digital worker on your payroll. Agents don't need dental, they will need a SKU</h4> <p>Microsoft is reportedly planning to license AI agents like employees - and charge accordingly.…</p>",
-      "published": "2026-03-03T12:39:55.00Z",
+      "title": "OpenAI says its latest model is less likely to beat around the bush",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/openai_dow_reset_gpt53_instant/",
+      "summary": "<h4>The AI giant is also trying to walk back some terms of its deal with the Defense Department</h4> <p>OpenAI says GPT‑5.3 Instant, the latest addition to its GPT-5.3 family of models, is less inclined to moralize.…</p>",
+      "published": "2026-03-04T00:17:28.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/09/20/shutterstock_robot_call_centre.jpg"
+      "image_url": "https://regmedia.co.uk/2022/03/22/shutterstock_chat_bot.jpg"
     },
     {
-      "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
-      "summary": "<h4>High-severity flaw let malicious add-ons access system via browser's embedded AI feature</h4> <p>Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.…</p>",
-      "published": "2026-03-03T11:39:09.00Z",
+      "title": "Nvidia-backed photonics startup Ayar Labs fills its wallet to mass-produce CPO chiplets",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/ayar_labs_500m/",
+      "summary": "<h4>Company aims to stitch tens of thousands of GPUs together for more efficient training and inference</h4> <p>It's a good time to be an AI chip startup, especially if you happen to specialize in silicon photonics.…</p>",
+      "published": "2026-03-03T23:20:28.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/09/18/chromegemini.jpg"
+      "image_url": "https://regmedia.co.uk/2015/02/04/fiber_optics.jpg"
     },
     {
-      "title": "Cybercriminals swipe 15.8M medical records from French doctors ministry",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/french_medical_leak/",
-      "summary": "<h4>Third-party software supplier breached leading to leak of notes</h4> <p>Around 15.8 million administrative files were stolen after attackers breached a software supplier to France's health ministry.…</p>",
-      "published": "2026-03-03T11:00:07.00Z",
+      "title": "Dev stunned by $82K Gemini bill after unknown API key thief goes to town",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/gemini_api_key_82314_dollar_charge/",
+      "summary": "<h4>Probably not an isolated incident only as researchers have already found 2,863 live API keys exposed</h4> <p>A developer says their company is on the hook for more than $82,000 in unauthorized charges after a stolen Google Gemini API key racked massive usage costs up in just 48 hours.…</p>",
+      "published": "2026-03-03T23:19:03.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/04/30/doctor_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2026/03/03/stunned_jaw_drop_beard_computer.jpg"
     },
     {
-      "title": "Vodafone to use Amazon sats for cell backhaul in remote parts of Europe, Africa",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/vodafone_to_use_amazon_leo/",
-      "summary": "<h4>From Bavarian Alps to Congo basin and other places where laying cable is a PITA</h4> <p>Vodafone has signed a deal with Amazon Leo to use its satellites as a backhaul connection for cellular base stations in remote areas of Europe and Africa, saving it from having to cable them up to its core network.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-03T10:15:16.00Z",
+      "title": "Facebook went down for about three hours, interrupting your poking and Meta's ads business",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/facebook_outage/",
+      "summary": "<h4>Go outside and smell some flowers</h4> <p><strong>Updated</strong>  Meta’s flagship service, Facebook, is experiencing an outage.…</p>",
+      "published": "2026-03-03T23:04:37.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/02/shutterstock_2382185225.jpg"
+      "image_url": "https://regmedia.co.uk/2021/04/05/facebook.jpg"
     },
     {
-      "title": "Brussels urged to pay 'sovereignty premium' to narrow China battery gap",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/eu_battery_production_costs/",
-      "summary": "<h4>Analysis claims €500 per EV could secure local production and cut reliance on foreign supply chains</h4> <p>Europe's EV battery cost gap with China – currently around 90 percent – could shrink to roughly 30 percent by 2030 if Brussels is willing to pay what campaigners call a \"sovereignty premium.\"…</p>",
-      "published": "2026-03-03T09:30:15.00Z",
+      "title": "MIT boffins aim to build injectable mini-organs that can fill in for a damaged liver",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/need_more_liver_mit_boffins/",
+      "summary": "<h4>Injected liver cells stayed viable and functional for eight weeks in mice</h4> <p>Can’t keep waiting on the transplant list? How about an injectable “satellite liver” instead? After an MIT research project showed early success, the idea of a mini organ that could be injected into the body to take over for a failing liver doesn’t sound so far-fetched.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-03T22:32:53.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/06/09/shutterstock_419382643.jpg"
+      "image_url": "https://regmedia.co.uk/2016/01/27/pub_teaser.jpg"
     },
     {
-      "title": "Gamers furious as Brit studio Cloud Imperium quietly admits to data breach",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/",
-      "summary": "<h4>Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well</h4> <p>Gamers are ready to unleash their mightiest virtual weapons and point them at British games studio Cloud Imperium, after it sat on news of a data breach and then announced it without fanfare.…</p>",
-      "published": "2026-03-03T06:24:19.00Z",
+      "title": "Chat at your own risk! Data brokers are selling deeply personal bot transcripts",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/",
+      "summary": "<h4>AI conversations for sale include sensitive health and legal details</h4> <p>Your latest chat transcript could be bought and sold. Data brokers are selling access to sensitive personal data captured during chatbot conversations, despite claims that the data is anonymized and obtained with consent.…</p>",
+      "published": "2026-03-03T20:59:17.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/02/11/shutterstock_game_over.jpg"
+      "image_url": "https://regmedia.co.uk/2015/05/27/eye_8736874634.jpg"
     },
     {
-      "title": "Claude having artificially intelligent hiccups and access lockouts for over two hours",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/claude_outage/",
-      "summary": "<h4>Developers ponder the horror of having to actually write code</h4> <p>Anthropic’s AI service Claude is having artificially intelligent hiccups and availability problems across its basic chat service, API, and Claude Code offering.…</p>",
-      "published": "2026-03-03T05:25:52.00Z",
+      "title": "Apple jacks up MacBook pricing with M5 Pro, Max debut",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/apples_m5_pro_max_macbooks/",
+      "summary": "<h4>No one can hide from the RAMapocalypse, not even Tim Apple</h4> <p>RAM shortages and faster chips have a big impact on Apple's next-gen laptops. On Tuesday, the iGiant unveiled its M5 Pro and Max MacBook Pros and M5 Airs alongside steep price hikes across the lineup.…</p>",
+      "published": "2026-03-03T20:06:17.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/03/screenshot_claude_error_message.jpg"
+      "image_url": "https://regmedia.co.uk/2026/03/03/apple_m5_pro_max.jpg"
     },
     {
-      "title": "Big Google Home update lets Gemini describe live camera feeds",
-      "link": "https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds",
-      "summary": "Google Home chief Anish Kattukaran announced several updates to the smart home platform that fix a long list of annoyances and idiosyncrasies. There's also one noteworthy new addition: the introduction of \"Live Search\" for your cameras. So, instead of Gemini only knowing about things that have already happened, it now understands what it sees in [&#8230;]",
-      "published": "2026-03-03T04:55:29-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2025-05-22-at-11.35.57%E2%80%AFAM.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Huawei brings its flatpack AI datacenters, packed full of Chinese chips, to the world",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/huawei_takes_ai_datacenters_global/",
-      "summary": "<h4>Claims it can build and deploy them fast, whether they run at speed is another matter</h4> <p>As the AI boom rages, investors and buyers have thrown cash at anyone that even looks capable of selling them hardware capable of crunching tokens at speed. And now they have a new option: China’s Huawei.…</p>",
-      "published": "2026-03-03T02:49:25.00Z",
+      "title": "Lawmakers take pick to ICE's warrantless location tracking purchases",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/us_lawmakers_ice_data_purchases/",
+      "summary": "<h4>After DHS’s $2.3M PenLink contract gets ‘shady’ label</h4> <p>A group of 70 US lawmakers has called on Homeland Security's inspector general to investigate whether its agencies - including US Immigration and Customs Enforcement (ICE) - illegally purchased Americans' location data without first obtaining warrants.…</p>",
+      "published": "2026-03-03T19:28:13.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/06/07/shutterstock_huawei_europe_copenhagen.jpg"
+      "image_url": "https://regmedia.co.uk/2019/09/20/shutterstock_us_ice_flag.jpg"
     },
     {
-      "title": "Phish of the day: Microsoft OAuth scams abuse redirects for malware delivery",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_oauth_scams/",
-      "summary": "<h4>Crims hope for payday from malicious payloads rather than stealing access tokens</h4> <p>Microsoft has warned organizations about ongoing OAuth abuse scams that use phishing emails and URL redirects to infect victims' machines with malware and take over their devices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-03T00:33:15.00Z",
+      "title": "Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time",
+      "link": "https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale",
+      "summary": "Bad news: most Americans are about to lose an hour of sleep next week. Good news: if you have trouble falling (or staying asleep), Newegg is currently selling Anker’s Soundcore Sleep A20 earbuds for $113.99 ($66 off) when you use coupon code MMSF88 at checkout, which drops them to just $6 shy of their lowest [&#8230;]",
+      "published": "2026-03-03T18:29:06-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25337452/soundcore_Sleep_A20_Lifestyle_image1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?",
+      "link": "https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements",
+      "summary": "In a downtown Manhattan courtroom on Monday, lawyers for the US Justice Department and 40 state and district attorneys general warned a jury that the concert industry was being squeezed by a monopolist: Live Nation-Tickemaster. After amassing dominance over ticketing and artists' use of large amphitheaters, lead DOJ counsel David Dahlquist alleged, Live Nation constructed [&#8230;]",
+      "published": "2026-03-03T18:27:59-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK268_TICKETMASTER_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Cyberwarriors elevated to big leagues in US war with Iran",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/cyberwarriors_us_iran_war/",
+      "summary": "<h4>No more hiding in the server closet: Cyber ops mentioned alongside kinetic warfare as critical to conflict</h4> <p>In what may be the most public acknowledgment of its cyber operations capabilities to date, the Pentagon has admitted that cyber soldiers are playing a key role in its attacks on Iran. …</p>",
+      "published": "2026-03-03T18:23:51.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/01/20/scam.jpg"
+      "image_url": "https://regmedia.co.uk/2024/05/15/army_shutterstock.jpg"
     },
     {
-      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
-      "summary": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT [&#8230;]",
-      "published": "2026-03-02T17:29:46-05:00",
+      "title": "What Trump’s war on Iran means for the US energy crunch",
+      "link": "https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch",
+      "summary": "Fuel prices surged after the Trump administration launched strikes against Iran on Saturday, immediately raising questions about whether the war would increase energy costs for Americans, put more pressure on power grids, and push companies to pump out more oil and gas in the US. If conflict drags on, that could potentially play into Donald [&#8230;]",
+      "published": "2026-03-03T16:41:25-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK269_ANTHROPIC_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263827023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple’s cheapest AirPods have hit $89",
-      "link": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
-      "summary": "It’s a good day for Apple fans on a budget. Not only did the company introduce a new budget phone, its entry-level AirPods 4 are also on sale. Right now, you can snag a pair of Apple’s AirPods 4 starting at just $89 ($30 off) at Walmart. The model with active noise-cancellation are also down [&#8230;]",
-      "published": "2026-03-02T17:03:09-05:00",
+      "title": "The best AirPods deals you can get right now",
+      "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+      "summary": "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Max and AirPods 4 (with and without ANC) now consistently receive discounts, as do the newer AirPods Pro 3. And while more recent shopping events like Black Friday and Cyber Monday delivered some of the steepest [&#8230;]",
+      "published": "2026-03-03T16:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF0048.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "How the new iPhone 17E stacks up against Apple’s pricier phones",
-      "link": "https://www.theverge.com/gadgets/887570/iphone-17e-vs-17-pro-max-air-spec-comparison-price-features",
-      "summary": "The iPhone 17 lineup now has a “budget” option. Announced this week, the iPhone 17E will hit stores on Wednesday, March 11th, starting at $599, with preorders opening on March 4th. The 6.1-inch phone joins the rest of Apple’s iPhone 17 lineup, which includes the iPhone 17 ($799), the more powerful iPhone 17 Pro ($1,099), [&#8230;]",
-      "published": "2026-03-02T15:41:50-05:00",
+      "title": "Another Oracle outage is messing up US TikTok",
+      "link": "https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
+      "summary": "The US version of TikTok is once again experiencing issues due to an Oracle outage, just a month after coming back online from a similar outage in February. The service disruption, impacting Oracle's Ashburn, Virginia data center, began early Tuesday afternoon, with Downdetector reports spiking around 1PM Eastern. TikTok USDS confirmed in a post on [&#8230;]",
+      "published": "2026-03-03T15:26:21-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-iPhone-17e-accessories-260302.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_7_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
-      "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
-      "summary": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple [&#8230;]",
-      "published": "2026-03-02T15:22:33-05:00",
+      "title": "Highguard is shutting down this month",
+      "link": "https://www.theverge.com/games/880206/highguard-shut-down",
+      "summary": "Another high-profile live-service game is shutting down soon after launch: this time it's the free-to-play squad shooter Highguard. Developer Wildlight Entertainment says that, even though Highguard reached 2 million players, the game will be shut down permanently on March 12th. That's less than two months after the game debuted on January 26th. \"Despite the passion [&#8230;]",
+      "published": "2026-03-03T15:16:03-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_6a0272b3cd10c3ffa73b8b8e7855817f3ab75d50.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Mastodon now has a button for sharing content from other websites",
-      "link": "https://www.theverge.com/tech/887791/mastodon-official-share-button-widget",
-      "summary": "Sharing content to Mastodon is getting easier with the addition of a universal \"Share to Mastodon\" button for the decentralized social media platform. Announced on Monday, the widget allows users to share content on any Mastodon server by connecting your Mastodon account and redirecting you to the server that account is on. The blog post [&#8230;]",
-      "published": "2026-03-02T15:18:58-05:00",
+      "title": "Shark’s latest robot vacuum hunts stains with UV light",
+      "link": "https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review",
+      "summary": "The Shark PowerDetect UV Reveal is SharkNinja's latest robot vacuum and mop. A flagship model with a multifunctional dock that empties the dustbin and refills and washes its mop, the Reveal's signature feature is a UV light designed to \"find\" stains on your floors. It costs $1,299.99 and is available now. Combined with an RGB [&#8230;]",
+      "published": "2026-03-03T15:07:38-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/mastodon-stk.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/8A0A5457.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "You could be an influencer without even realizing it",
-      "link": "https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers",
-      "summary": "In late February, Puck reported on a strange case: An influencer with more than a million followers was inadvertently promoting products on Instagram. On some of Julia Berolzheimer's posts, a \"Shop the look\" button hovered in the corner. When followers clicked it, they were fed similar items to what Berolzheimer was wearing. Her job is [&#8230;]",
-      "published": "2026-03-02T13:42:32-05:00",
+      "title": "Android’s Find Hub adds iPhone-like luggage tracking links",
+      "link": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
+      "summary": "Google is rolling out an Android update that includes the ability to share the location of your missing luggage with an airline. It's similar to the luggage-tracking feature Apple brought to the iPhone, allowing you to view the location of your Find Hub tag or accessory on a map, and provide your airline with a [&#8230;]",
+      "published": "2026-03-03T14:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268380_You_could_be_an_influencer_without_even_realizing_it_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-find-my-device-trackers-12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Donut Lab’s solid-state battery can handle the (extreme) heat, test says",
-      "link": "https://www.theverge.com/transportation/887552/donut-lab-solid-state-battery-extreme-heat-test",
-      "summary": "Finnish startup Donut Lab is out to prove that its solid-state battery is all that it claims to be. Last week, the test was about fast charging. This week is where things get hot. Like the first test, this one was also conducted by state-owned VTT Technical Research Centre of Finland. The team set out [&#8230;]",
-      "published": "2026-03-02T13:00:18-05:00",
+      "title": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
+      "link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
+      "summary": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, [&#8230;]",
+      "published": "2026-03-03T14:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Donut-Battery-Module-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
-      "link": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
-      "summary": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright [&#8230;]",
-      "published": "2026-03-02T12:58:05-05:00",
+      "title": "Google brings Android’s desktop mode to Pixel devices",
+      "link": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
+      "summary": "Google is bringing a new desktop mode to its Pixel phones and tablets. The feature comes as part of Google's March Pixel drop, allowing users with a Pixel 8 and newer to connect their device to an external monitor via USB-C for a \"desktop-like multi-window experience.\" You can use a mouse and keyboard with the [&#8230;]",
+      "published": "2026-03-03T14:00:00-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Here&#8217;s the upgrade to my favorite phone camera of last year",
-      "link": "https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage",
-      "summary": "Vivo rarely has a presence at MWC, but this year it bucked that trend in a big way, with the reveal of its next flagship phone, the X300 Ultra, alongside an upgraded telephoto extender lens and professional camera cage. The company isn't ready to launch the handset just yet - or even reveal very many [&#8230;]",
-      "published": "2026-03-02T12:31:25-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02810_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKE007_GOOGLE_PIXEL_2025_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
