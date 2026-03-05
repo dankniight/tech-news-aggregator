@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T02:33:57.584121",
+  "lastUpdated": "2026-03-05T06:59:55.572112",
   "articles": [
     {
       "title": "TerraPower gets OK to start construction of its first nuclear plant",
@@ -242,6 +242,22 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
     },
     {
+      "title": "Google embraces third party app stores and payments to put Epic Games case behind it",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/google_play_store_concessios/",
+      "summary": "<h4>Lower app store fees are on the way, plus an on-ramp for third party digital bazaars</h4> <p>Google has spelled out changes it will make to the fees it charges developers who use its app store and payment services, and says they represent the end of its long legal battle with Epic Games.…</p>",
+      "published": "2026-03-05T04:48:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/04/05/shutterstock_fortnite_battle_royale_editorial_only.jpg"
+    },
+    {
+      "title": "Broadcom says AI companies can’t make their own silicon any time soon",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/broadcom_q1_2026/",
+      "summary": "<h4>Offers booming customer accelerator biz as evidence, while VMware props up its software business</h4> <p>Broadcom will soon deploy multiple gigawatts worth of custom accelerators at Meta, OpenAI, and Anthropic, a feat it says shows AI companies and hyperscalers can’t successfully develop and deploy their own silicon any time soon.…</p>",
+      "published": "2026-03-05T04:03:45.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/11/21/shutterstock_broadcom.jpg"
+    },
+    {
       "title": "Intel numbers boss swears big Foundry wins are coming soon",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/intel_advanced_packaging_wins/",
       "summary": "<h4>Meanwhile Chipzilla's 18A process tech could see external deployment after all</h4> <p>Intel's Foundry division is near to sealing a deal for its advanced packaging technology that would contribute billions of dollars a year to the struggling chipmaker, CFO David Zinsner said on Wednesday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -354,14 +370,6 @@
       "image_url": "https://regmedia.co.uk/2023/07/21/data_shutterstock.jpg"
     },
     {
-      "title": "Ex-NASA chief gives Isaacman's Moon reboot a thumbs up, stays schtum on the awkward bits",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/former_nasa_administrator_endorses_artemis/",
-      "summary": "<h4>Jim Bridenstine says 'adjustments' to Artemis program were needed</h4> <p>NASA Administrator Jared Isaacman has won an endorsement from his predecessor Jim Bridenstine, who praised Isaacman's shake-up of the perpetually delayed Artemis program.…</p>",
-      "published": "2026-03-04T15:34:03.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/21/shutterstock_bridenstine.jpg"
-    },
-    {
       "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
       "link": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
       "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2026-03-04T15:15:00-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_ea8b45bb65d05fafa911387df16399ead11e6878.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Flex appeal: UK datacenter cuts AI power draw 40% on command",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/demo_shows_datacenters_can_reduce/",
-      "summary": "<h4>London GPU farm dances to National Grid's tune in five-day trial, critical workloads not disrupted</h4> <p>A UK datacenter has successfully demonstrated it can reduce the amount of power drawn by AI infrastructure in response to grid events, without disrupting critical workloads.…</p>",
-      "published": "2026-03-04T14:37:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/04/shutterstock_2680908197.jpg"
     }
   ]
 }
