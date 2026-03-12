@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T02:35:38.555686",
+  "lastUpdated": "2026-03-12T07:03:25.322594",
   "articles": [
     {
       "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
@@ -122,14 +122,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/rog-xbox-ally-1152x648.jpeg"
     },
     {
-      "title": "Quince hits $10B valuation with giant $500M round led by Iconiq",
-      "link": "https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/",
-      "summary": "E-commerce company Quince has raised another massive round, less than a year after its previous raise.",
-      "published": "Wed, 11 Mar 2026 20:50:17 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Quince.jpeg?w=1000"
-    },
-    {
       "title": "\"Use a gun\" or \"beat the crap out of him\": AI chatbot urged violence, study finds",
       "link": "https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/",
       "summary": "Character.AI deemed \"uniquely unsafe\" among 10 chatbots tested by CCDH.",
@@ -242,9 +234,33 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/amazon-ai-tools-business.jpg?quality=85"
     },
     {
+      "title": "Chinese brain interface startup Gestala raises $21M just two months after launch",
+      "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
+      "summary": "This is the largest early-stage funding in China’s brain computer interface industry.",
+      "published": "Thu, 12 Mar 2026 04:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800"
+    },
+    {
+      "title": "Microsoft adding Xbox mode to Windows 11",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/xbox_mode_windows_11/",
+      "summary": "<h4>Out of the Copilot and into the fire</h4> <p>Please let there be ‘Xbork’ as this appears in all the wrong places Organizations that rely on consumer-grade PCs or allow staff to bring their own devices to work, have something new to worry about: a virtual Xbox lurking inside Windows 11.…</p>",
+      "published": "2026-03-12T06:10:40.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/12/shutterstock_game_over.jpg"
+    },
+    {
+      "title": "Meta reveals four Broadcom-built custom AI chips, claims some outperform commercial silicon",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/meta_custom_chips/",
+      "summary": "<h4>Deploying them by the gigawatt but still can’t flag obvious AI slop</h4> <p>Social networking giant Meta has revealed details of four previously unknown custom chips powering its AI services.…</p>",
+      "published": "2026-03-12T04:49:37.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/12/supplied_meta_mtia_chip.jpg"
+    },
+    {
       "title": "China’s CERT warns OpenClaw can inflict nasty wounds",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/china_cert_openclaw_security_warning/",
-      "summary": "<h4>Like deleting data, exposing keys, and loading malicious content, perhaps leading to government ban</h4> <p>China’s National Computer Network Emergency Response Technical Team has warned locals that the OpenClaw agentic AI tool poses significant security risks.…</p>",
+      "summary": "<h4>Like deleting data, exposing keys, and loading malicious content - which may be why Beijing has reportedly banned it</h4> <p>China’s National Computer Network Emergency Response Technical Team has warned locals that the OpenClaw agentic AI tool poses significant security risks.…</p>",
       "published": "2026-03-12T01:37:09.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/03/12/shutterstock_china_cyber_danger.jpg"
@@ -352,22 +368,6 @@
       "published": "2026-03-11T14:45:50-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "DR-DOS rises again – rebuilt from scratch, not open source",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/drdos_9/",
-      "summary": "<h4>Project claims legal clarity and zero legacy code, but offers binaries only</h4> <p>DR-DOS is back, and there is already a test version you can download. But as of yet, it's not finished, not FOSS – and not based on the original code.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-11T14:37:45.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/01/14/shutterstock_wall_build_wet.jpg"
-    },
-    {
-      "title": "ICO fines Police Scotland over data-sharing debacle in gross misconduct case",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/ico_fines_police_scotland_over/",
-      "summary": "<h4>Blue-on-blue internal investigation lands force £66k fine</h4> <p>The UK's data protection watchdog has fined Police Scotland £66,000 ($88,000) for what it calls a \"serious failure\" in handling an alleged victim's sensitive data.…</p>",
-      "published": "2026-03-11T14:06:01.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/08/09/police_scotland_shutterstock.jpg"
     },
     {
       "title": "Microsoft&#8217;s ‘Xbox mode’ is coming to every Windows 11 PC",
