@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-03-13T07:02:03.658894",
+  "lastUpdated": "2026-03-13T13:11:08.859353",
   "articles": [
-    {
-      "title": "Character.AI Still Hasn’t Fixed Its School Shooter Problem We Identified in 2024",
-      "link": "https://futurism.com/artificial-intelligence/character-ai-school-shooter-problem",
-      "summary": "<p>We can't stress enough how easy it is to find this stuff.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/character-ai-school-shooter-problem\">Character.AI Still Hasn&#8217;t Fixed Its School Shooter Problem We Identified in 2024</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 11 Mar 2026 16:39:26 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/03/character-ai-school-shooter-problem.jpg?quality=85"
-    },
     {
       "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
       "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
@@ -226,6 +218,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/ai-forcing-employees-work-harder.jpg?quality=85"
     },
     {
+      "title": "FBI Memo Warns Iran Could Attack California Using Drones",
+      "link": "https://futurism.com/robots-and-machines/california-iran-drones",
+      "summary": "<p>Uh-oh.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/california-iran-drones\">FBI Memo Warns Iran Could Attack California Using Drones</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 13 Mar 2026 09:01:27 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/california-iran-drones.jpg?quality=85"
+    },
+    {
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
       "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
       "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
@@ -242,68 +242,108 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Family-Protection-Hero.jpg?resize=1200,675"
     },
     {
-      "title": "AI Burning Man happens next week – here's what <i>The Register</i> expects at GTC 2026",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register/",
-      "summary": "<h4>From Groq-ing about tokenomics to OpenClaw and the silicon that powers it, our predictions for the hottest ticket in town</h4> <p>Nvidia has a bit of a problem. Popular generative AI workloads like code assistants and agentic systems generate massive quantities of tokens and need to move them at speed. But the GPU giant's chips currently struggle to deliver.…</p>",
-      "published": "2026-03-13T06:30:06.00Z",
+      "title": "RAM is getting expensive, so squeeze the most from it",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/zram_vs_zswap/",
+      "summary": "<h4>Zram versus zswap – two ways to get a quart into a pint pot</h4> <p>Linux has two ways to do memory compression – zram and zswap – but you rarely hear about the second. <em>The Register</em> compares and contrasts them.…</p>",
+      "published": "2026-03-13T13:02:49.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/09/01/jensen_huang.jpg"
+      "image_url": "https://regmedia.co.uk/2024/01/11/shutterstock_memory.jpg"
     },
     {
-      "title": "Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/",
-      "summary": "<h4>Didn’t say why, but for once AI may not be the reason for a lost job</h4> <p>Adobe CEO Shantanu Narayen has announced he intends to depart the company after 18 years as the prince of PDFs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-13T04:22:47.00Z",
+      "title": "NASA pencils in fresh Artemis II Moon launch attempt for April 1",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nasa_aims_for_an_april_artemis_ii_launch/",
+      "summary": "<h4>'When we tank the vehicle ... I would like it to be on a day that we could actually launch'</h4> <p>NASA has set April 1 for the Artemis II launch, with engineers preparing the Space Launch System (SLS) for a rollout to the pad on March 19.…</p>",
+      "published": "2026-03-13T12:48:22.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/03/17/shantanu-narayen.jpg"
+      "image_url": "https://regmedia.co.uk/2023/03/13/moon_shutterstock.jpg"
     },
     {
-      "title": "Apple takes a bite out of app store fees in China",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/apple_china_appstore_commissions_fall/",
-      "summary": "<h4>Beijing hinted it wasn’t happy with Cupertino, which weeks later made a change</h4> <p>Apple has cut the fees it charges Chinese developers to sell their apps and other digital goodies.…</p>",
-      "published": "2026-03-13T03:22:56.00Z",
+      "title": "Interpol cybercrime crackdown leads to 94 arrests, 45,000 IP takedowns",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/interpol_operation_synergia/",
+      "summary": "<h4>Operation Synergia's third season is the most productive to date</h4> <p>Ninety-four people were arrested as part of a global, multi-month cybercrime crackdown, Interpol revealed today.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-13T12:39:54.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/03/17/chinaapple.jpg"
+      "image_url": "https://regmedia.co.uk/2017/08/24/arrest_shutterstock.jpg"
     },
     {
-      "title": "Pentagon AI chief praises Palantir tech for speeding battlefield strikes",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/",
-      "summary": "<h4>Going from eight systems to one means fewer people make decisions to unleash Epic Fury</h4> <p>As the US continues its strikes on Iran as part of Operation Epic Fury, speakers at Palantir's AIPCON event on Thursday said the company’s Maven Smart System product has shortened the time it takes the Department of Defense to select and hit targets on the battlefield during the conflict.…</p>",
-      "published": "2026-03-13T01:00:30.00Z",
+      "title": "Nanny state discovers Linux, demands it check kids' IDs before booting",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/opinion_os_verification/",
+      "summary": "<h4>Age-verification laws target operating systems because apparently teenagers having root access is now a safeguarding crisis</h4> <p><strong>Opinion</strong>  A new wave of age verification laws requires kids and teenagers to register before they can use a computer.…</p>",
+      "published": "2026-03-13T12:23:15.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/06/02/shutterstock_drone.jpg"
+      "image_url": "https://regmedia.co.uk/2022/02/14/shutterstock_penguin_and_young.jpg"
     },
     {
-      "title": "Rogue AI agents can work together to hack systems and steal secrets",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/rogue_ai_agents_worked_together/",
-      "summary": "<h4>Prompt like a hard-ass boss who won't tolerate failure and bots will find ways to breach policy</h4> <p>AI agents work together to bypass security controls and stealthily steal sensitive data from within the enterprise systems in which they operate, according to tests carried out by frontier security lab Irregular.…</p>",
-      "published": "2026-03-12T23:49:32.00Z",
+      "title": "Atomic Britain: UK plans regulatory reset to boost nuclear power",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/uk_to_push_nuclear_reset/",
+      "summary": "<h4>It wants 'safe, cost effective, and rapid.' We say: 'Good, fast, cheap – you can have 2'</h4> <p>Britain's government is pushing ahead with nuclear planning and regulatory reforms, aiming to accelerate atomic projects that will power homes and datacenters.…</p>",
+      "published": "2026-03-13T12:18:25.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/12/shutterstock_edited.jpg"
+      "image_url": "https://regmedia.co.uk/2024/03/25/nuclear_shutterstock.jpg"
     },
     {
-      "title": "Perplexity: Everything is Computer, everything is AI, Computer is everything, AI is us",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/perplexity_extends_cloud_computer_to_enterprise/",
-      "summary": "<h4>Everything extends its cloud Computer to enterprises, your computer</h4> <p>Perplexity is ready to have enterprises use its AI service even if enterprises may still be wary of delegating tasks to software agents.…</p>",
-      "published": "2026-03-12T22:39:04.00Z",
+      "title": "NanoClaw latches onto Docker Sandboxes for safer AI agents",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nanoclaw_latches_onto_docker_sandboxes/",
+      "summary": "<h4>Take your YOLO and box it up</h4> <p><strong>exclusive</strong>  NanoClaw, an open source agent platform, can now run inside Docker Sandboxes, furthering the project's commitment to security.…</p>",
+      "published": "2026-03-13T11:50:11.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/12/shutterstock_developer_working_on_ai.jpg"
+      "image_url": "https://regmedia.co.uk/2026/03/13/lobster-in-cage.jpg"
     },
     {
-      "title": "District denies enrollment to child based on license plate reader data",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/district_denies_enrollment_to_child/",
-      "summary": "<h4>Automated checks raised doubts, though key questions remain unanswered</h4> <p>American parents of school-aged children may want to pay attention to where their cars are parked and for how long, as license plate reader data is now being cited by at least one school district when challenging whether students live where they say they do.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-12T20:32:01.00Z",
+      "title": "Google rushes Chrome update fixing two zero-days already under attack",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/google_zeroday_chrome_update/",
+      "summary": "<h4>Skia graphics lib and V8 JavaScript engine brings browser's tally of actively exploited bugs to three in 2026</h4> <p>Google has pushed out an emergency Chrome update to fix two previously unknown vulnerabilities that attackers were already exploiting before the patches landed.…</p>",
+      "published": "2026-03-13T11:25:14.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/10/11/reviver-digital-plate.jpg"
+      "image_url": "https://regmedia.co.uk/2021/01/26/chrome.jpg"
     },
     {
-      "title": "Microsoft Copilot now boarding your health information",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/microsoft_copilot_health/",
-      "summary": "<h4>It's safe and secure, Redmond insists, but don't expect medical advice</h4> <p>Microsoft wants to store your healthcare data so that its AI \"delivers personalized health insights that you can act on,\" but without the liability that comes with actual medical advice.…</p>",
-      "published": "2026-03-12T19:17:10.00Z",
+      "title": "Windows pays tribute to Britain's creaking rail network with a BSOD",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/windows_railway_bork/",
+      "summary": "<h4>Grappling with UK trains will send humans into Recovery too sometimes</h4> <p><strong>Bork!Bork!Bork!</strong>  Today we visit the south of England, where Windows has fallen over, briefly granting unrestricted rail travel to one and all.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-13T11:00:08.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/03/29/health_shutterstock.jpg"
+      "image_url": "https://regmedia.co.uk/2026/03/11/bork_2.jpg"
+    },
+    {
+      "title": "Openreach: Fiber can sniff out leaky water pipes – if anyone bothers fixing them",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/openreach_fiber_water_leaks/",
+      "summary": "<h4>Distributed Acoustic Sensing tech uses broadband cables to pinpoint plumbing faults</h4> <p>Openreach claims its fiber network infrastructure can detect leaks in nearby water supply pipes, which could save millions of liters of the precious fluid... if the water companies can be bothered to fix them.…</p>",
+      "published": "2026-03-13T10:15:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/12/openreachdasexchangekit.jpg"
+    },
+    {
+      "title": "PSA: Don’t buy a $4,400 gray market Samsung TriFold on eBay",
+      "link": "https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay",
+      "summary": "I had to buy Samsung's Galaxy Z TriFold from eBay for $4,399 and I'm pretty sure that's because Samsung doesn't want anyone to actually have this phone. I'm also afraid to turn it on. Not that turning it on does much good. Whenever I tap \"start\" to set it up, a prompt to supply a [&#8230;]",
+      "published": "2026-03-13T09:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03092_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "PC makers are not ready for the MacBook Neo",
+      "link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth",
+      "summary": "The MacBook Neo is here, and it took no time at all for an executive from a major PC manufacturer to put their foot in their mouth trying to discuss this new competition from Apple's $600 laptop. On Asus' latest earnings call, CFO Nick Wu said that the Neo and its aggressive entry-level pricing were [&#8230;]",
+      "published": "2026-03-13T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Blustering Blackbeard's PC was all at sea, sysadmin got him shipshape in seconds",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/on_call/",
+      "summary": "<h4>Have you tried turning it on, never mind off and on again?</h4> <p><strong>On Call</strong>  Arrr! How is it Friday already? <i>The Register</i> can't explain where the week went, but we can deliver a new installment of On Call, the reader-contributed column that shares your stories of tech support SNAFUs.…</p>",
+      "published": "2026-03-13T07:30:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/12/20/shutterstock_switchoff.jpg"
+    },
+    {
+      "title": "Apple reduces App Store fees in China to ward off regulators",
+      "link": "https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust",
+      "summary": "Apple is cutting App Store developer fees in China from March 15th, dropping its typical commission on purchases from 30 percent down to 25 percent. The decision was made following \"discussions with the Chinese regulator,\" according to Apple's announcement, suggesting that the reduction aims to avoid regulatory intervention after China reportedly considered opening a formal [&#8230;]",
+      "published": "2026-03-13T07:16:12-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The best Bluetooth trackers for Apple and Android phones",
@@ -320,22 +360,6 @@
       "published": "2026-03-12T17:33:04-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_02.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "White House activates Yu-Gi-Oh's trap card by using anime clip for war comms",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/yugioh_us_propaganda/",
-      "summary": "<h4>Franchise isn't the only one unhappy about its IP appearing in propaganda</h4> <p>Anime mainstay Yu-Gi-Oh has criticized the White House for using a clip from the TV show in videos promoting US military action.…</p>",
-      "published": "2026-03-12T17:01:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/12/shutterstock_yugioh.jpg"
-    },
-    {
-      "title": "Medical equipment techs beg for right-to-repair lifeline",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/medical_equipment_techs_right_to_repair/",
-      "summary": "<h4>OEM delays have become patient care delays</h4> <p>When patient care is delayed in a hospital because something is broken, biomedical technicians would like you to understand that it's not usually their fault.…</p>",
-      "published": "2026-03-12T16:41:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/05/13/shutterstock_hospital_healthcare.jpg"
     },
     {
       "title": "What it was like to watch grieving parents stare down Mark Zuckerberg in court",
@@ -376,30 +400,6 @@
       "published": "2026-03-12T12:59:43-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03087_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale",
-      "link": "https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale",
-      "summary": "Between March Madness and the Oscars, now might be a good time to improve your TV setup. Google’s TV Streamer 4K is currently on sale for $79.99 ($20 off) at Amazon, Target, and Walmart, which is its second-best price to date and only $5 more than its all-time low. As a streaming device, it’s terrific. [&#8230;]",
-      "published": "2026-03-12T12:37:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25631667/247278_Google_TV_Streamer_4K_JTuohy_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
-      "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel. As an example, Anthropic says a conversation about [&#8230;]",
-      "published": "2026-03-12T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meta exec hopes VR teens will stick around",
-      "link": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris Pruett did not mince words when he returned to GDC for his annual [&#8230;]",
-      "published": "2026-03-12T11:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
