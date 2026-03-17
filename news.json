@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-17T02:35:24.820338",
+  "lastUpdated": "2026-03-17T07:11:31.196744",
   "articles": [
+    {
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "published": "Tue, 17 Mar 2026 04:01:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Agents-Hero-Image.png?w=1200"
+    },
     {
       "title": "SEC eyes shift to twice-yearly earnings reports",
       "link": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
@@ -146,14 +154,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/nvidia-dlss-5.jpeg?resize=1200,675"
     },
     {
-      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
-      "link": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
-      "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
-      "published": "Mon, 16 Mar 2026 18:36:42 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-lifestyle-01-260304_big.jpg.medium_2x.jpg?resize=1200,676"
-    },
-    {
       "title": "OpenAI’s own mental health experts unanimously opposed “naughty” ChatGPT launch",
       "link": "https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/",
       "summary": "OpenAI draws a line between AI “smut” and porn. Experts fear it’s all unhealthy.",
@@ -242,6 +242,38 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/meta-firing-percentage-staff-zuckerberg.jpg?quality=85"
     },
     {
+      "title": "BBC World Service digital switch backfires as online audience drops",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/bbc_world_service_digital_pivot/",
+      "summary": "<h4>MPs say the Beeb closed broadcast services expecting audiences to migrate online, but digital reach has fallen instead</h4> <p>Britain's push to drag the BBC World Service into the digital age hasn't gone quite to plan, with MPs warning the broadcaster's \"digital-first\" strategy has shrunk audiences rather than growing them.…</p>",
+      "published": "2026-03-17T07:00:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/04/26/bbc_broadcasting_house_photo_via_shutterstock.jpg"
+    },
+    {
+      "title": "Everything needed to make DNA and RNA found in asteroid sample",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/everything_needed_to_make_dna/",
+      "summary": "<h4>Results from Ryugu suggest the the Solar System produced the building blocks of life</h4> <p>Scientists have found that all five of the substances that make up DNA and RNA in samples from Ryugu, the asteroid Japan’s Aerospace Exploration Agency visited in 2020.…</p>",
+      "published": "2026-03-17T06:29:16.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/12/07/jaxa_hayabusa2_sample.jpg"
+    },
+    {
+      "title": "Gartner suggests Friday afternoon Copilot ban because tired users may be too lazy to check its mistakes",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/gartner_copilot_security_mitigations/",
+      "summary": "<h4>Admins may be even more exhausted by then, because securing Microsoft’s AI helper is not a trivial job</h4> <p>Gartner analyst Dennis Xu has half-jokingly suggested banning use of Microsoft’s Copilot AI on Friday afternoons, because he fears at that time of week users may be too lazy to properly check its possibly offensive output.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-17T04:37:40.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/17/shutterstock_yawning_at_work.jpg"
+    },
+    {
+      "title": "Bank built its own threat hunting agent because vendors can’t keep pace with new threats",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/commonwealth_bank_ai_defense/",
+      "summary": "<h4>AI helped send weekly threat signal count from 80 million to 400 billion, then helped response time shrink from two days to 30 minutes</h4> <p>Australia’s Commonwealth Bank built its own agentic AI threat hunting tools, because vendors are too slow to develop tools that can cope with emerging AI-powered threats, according to General Manager of Cyber Defence Operations Andrew Pade.…</p>",
+      "published": "2026-03-17T02:37:16.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/17/shutterstock_cybersecurity_burnout_small.jpg"
+    },
+    {
       "title": "AI still doesn't work very well, businesses are faking it, and a reckoning is coming",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/",
       "summary": "<h4>Codestrap founders say we need to dial down the hype and sort through the mess</h4> <p><strong>interview</strong>  Enterprise organizations are still struggling to figure out how AI fits into their business, and that may be for the best because it will take time to understand any problems caused by AI-generated code and content.…</p>",
@@ -298,22 +330,6 @@
       "image_url": "https://regmedia.co.uk/2026/03/16/nvidia_vera_cpu.jpg"
     },
     {
-      "title": "Nvidia slaps $20B Groq tech into massive new LPX racks to speed AI response time",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_lpx_groq_3/",
-      "summary": "<h4>GPUzilla's $20B acquihire paves to way to AI agents that halucinate faster than ever</h4> <p><strong>GTC</strong>  Nvidia will use Groq's language processing units (LPUs), a technology it paid $20 billion for, to boost the inference performance of its newly-announced Vera Rubin rack systems, CEO Jensen Huang revealed during his GTC keynote on Monday. …</p>",
-      "published": "2026-03-16T19:30:56.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/08/05/groq_chip_render.jpg"
-    },
-    {
-      "title": "Cybercrime has skyrocketed 245% since the start of the Iran war",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/cybercrime_iran_war_245_percent_rise/",
-      "summary": "<h4>Hacktivists use proxy services from Russia, China for 'billions of designed-for-abuse connection attempts'</h4> <p>Cybercrime has skyrocketed since the start of the Iran war, according to Akamai, which reports a 245 percent increase in everything from credential harvesting attempts to automated reconnaissance traffic aimed at banks and other critical businesses.…</p>",
-      "published": "2026-03-16T18:40:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/10/13/cyber_shutterstock.jpg"
-    },
-    {
       "title": "DLSS 5 looks like a real-time generative AI filter for video games",
       "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
       "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a [&#8230;]",
@@ -330,28 +346,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Vite team boasts 10-30x faster builds with Rust-powered Rolldown",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/vite_8_rolldown/",
-      "summary": "<h4>Native code build tools now dominate for TypeScript or JavaScript projects</h4> <p>Vite 8.0 has been released, and it uses Rust-built Rolldown as its single bundler, replacing both esbuild and Rollup, to enable faster builds.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-16T17:23:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/07/24/shutterstock_faster.jpg"
-    },
-    {
       "title": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off",
       "link": "https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026",
       "summary": "If you like the idea of spring cleaning but not the part where you actually have to clean, both the Ecovacs Deebot X8 Pro Omni and newer X9 Pro Omni have dropped to their lowest prices to date ahead of Amazon’s Big Spring Sale, which officially kicks off on March 25th. The X8 Pro Omni is available [&#8230;]",
       "published": "2026-03-16T17:21:31-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ecovacsdeebot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Former Microsoft dev trains AI to survive the arcade's most chaotic stress test",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/ai_robotron_dave_plummer/",
-      "summary": "<h4>Robotron: 2084 is the original robot uprising game</h4> <p>A former Microsoft engineer is training AI to beat 1982's Robotron: 2084, an arcade game where a lone human must overcome endless waves of robots following a cybernetic revolt.…</p>",
-      "published": "2026-03-16T16:50:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/05/06/you_win_shutterstock.jpg"
     },
     {
       "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
