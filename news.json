@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T07:18:39.644600",
+  "lastUpdated": "2026-03-23T13:19:46.706621",
   "articles": [
     {
       "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
@@ -194,6 +194,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2153431003-1152x648.jpg"
     },
     {
+      "title": "A unique NASA satellite is falling out of orbit—this team is trying to rescue it",
+      "link": "https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/",
+      "summary": "Katalyst Space Technologies must launch the Swift rescue mission by this summer.",
+      "published": "Mon, 23 Mar 2026 11:00:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-04pd2074orig-1152x648.jpg"
+    },
+    {
       "title": "Jury finds Musk owes damages to Twitter investors for his tweets",
       "link": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
       "summary": "The verdict, while not a complete loss, could still cost him billions.",
@@ -234,49 +242,105 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-1152x648-1774038851.jpg"
     },
     {
-      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
-      "link": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
-      "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
-      "published": "Fri, 20 Mar 2026 20:50:46 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
+      "title": "Intel's Core Ultra 270K, 250K Plus are an appeal to cash-strapped PC enthusiasts",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/intel_arrow_lake_refresh_review/",
+      "summary": "<h4>More cores, higher clocks, <em>and</em> lower prices? What's not to like?</h4> <p><strong>Review</strong>  It's a tough time to be a PC enthusiast. Between the memory crunch and the AI boom driving up prices on storage, DDR5, and GPUs, it's gotten prohibitively expensive to build a PC.…</p>",
+      "published": "2026-03-23T13:00:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/23/intel_core_ultra_200s_plus_cover.jpg"
     },
     {
-      "title": "Elon Musk wants to build 50 times more chips than the world currently produces, using ‘new physics’",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/musk_terafab/",
-      "summary": "<h4>Like his promise to get a million robocabs on the road, this doesn’t add up</h4> <p>Elon Musk has put Tesla, SpaceX, and xAI in harness to build a chip fabrication outfit called “Terafab” capable of producing a terawatt’s worth of computing power each year, then send most of it into space.…</p>",
-      "published": "2026-03-23T06:40:41.00Z",
+      "title": "US chip testing firm shrugged off ransomware hit as minor - then came the data leak",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/us_chip_testing_firm_shrugged/",
+      "summary": "<h4>Trio-Tech International initially said hack wasn’t 'material,' but then stolen data was published</h4> <p>Trio-Tech International initially shrugged off a ransomware attack at a Singapore subsidiary as immaterial, only to reverse course days later after discovering stolen data had been disclosed.…</p>",
+      "published": "2026-03-23T12:33:15.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/04/30/shutterstock_musk_tesla.jpg"
+      "image_url": "https://regmedia.co.uk/2021/01/28/ransomware.jpg"
     },
     {
-      "title": "Microsoft: Removing some Copilots will improve Windows 11",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/windows_quality_commitment/",
-      "summary": "<h4>'Doze boss admits quality is down, promises smaller memory footprint and fixes for many well-known issues</h4> <p>Microsoft has acknowledged that it needs to improve the quality of Windows 11 and outlined its plan to get the job done.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-23T02:34:30.00Z",
+      "title": "RSAC 2026: Uncle Sam backs out, and AI agents are everywhere",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/",
+      "summary": "<h4>Infosec pros descend on San Francisco</h4> <p><strong>kettle</strong>  When El Reg cybersecurity editor Jessica Lyons joins infosec industry colleagues in San Francisco for RSAC 2026 this week, she's expecting agentic AI to be on everyone's lips - at least those who aren't busy gossiping about the lack of presence from any representatives of the US federal government.…</p>",
+      "published": "2026-03-23T12:24:50.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/03/11/fakebsod.jpg"
+      "image_url": "https://regmedia.co.uk/2025/04/29/fbi_cynthia_kaiser.jpg"
     },
     {
-      "title": "Australia to datacenter operators: BYO energy, pay your way, build green, or stay home",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/asia_tech_news_roundup/",
-      "summary": "<h4>PLUS: Singtel’s triple outage; 17,000 counterfeit hard drives seized; Tech wages shift across Asia; And more!</h4> <p><strong>Asia In Brief</strong>  Australia’s government on Monday <a href=\"https://www.industry.gov.au/news/new-data-centre-expectations-help-bring-benefit-ai-all-australians\" rel=\"nofollow\" target=\"_blank\">announced</a> a set of datacenter “expectations” to guide would-be bit barn builders who contemplate breaking ground down under.…</p>",
-      "published": "2026-03-23T00:43:26.00Z",
+      "title": "Microsoft fixes broken Windows update days after vowing fewer broken updates",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/emergency_fix_windows_11/",
+      "summary": "<h4>The era of reliability begins... right after this out-of-band patch</h4> <p>Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-23T11:24:37.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/27/supplied_sydney_operahouse_datacenter.jpg"
+      "image_url": "https://regmedia.co.uk/2021/05/25/shutterstock_rush.jpg"
     },
     {
-      "title": "Russians are posing as Signal support to launch phishing attacks",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/22/russian_messaging_support_phishing_scam/",
-      "summary": "<h4>PLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!</h4> <p><strong>Infosec In Brief</strong>  Russian intelligence-affiliated parties are posing as customer support services on commercial messaging applications such as Signal to compromise accounts and conduct phishing attacks, the FBI and Cybersecurity and Infrastructure Security Agency (CISA) warned last Friday.…</p>",
-      "published": "2026-03-22T22:12:06.00Z",
+      "title": "NASA sets 'impossible' ground rules for relocation of 'flown space vehicle'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/nasa_rfp_shuttle_relocation/",
+      "summary": "<h4>Draft Request for Proposals says you can move shuttle orbiter but you cannot break it</h4> <p>NASA has issued a <a href=\"https://sam.gov/workspace/contract/opp/57ca8b9cc3934dfcac19e1a8d87d3778/view\" rel=\"nofollow\" target=\"_blank\">draft Request for Proposals</a> to move a flown space vehicle, a step some lawmakers see as progress toward relocating Space Shuttle Discovery from the Smithsonian Museum in Virginia to Houston, Texas.…</p>",
+      "published": "2026-03-23T11:01:13.00Z",
       "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/02/23/shutterstock_ukraine_russia.jpg"
+      "image_url": "https://regmedia.co.uk/2023/10/18/spaceshuttlediscovery.jpg"
+    },
+    {
+      "title": "The drone swarm is coming, and NATO air defenses are too expensive to cope",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/nato_air_defenses/",
+      "summary": "<h4>Ukraine's battlefield lessons show quantity and affordability now trump exquisite hardware</h4> <p>NATO is unprepared to deal with attacks by cheap, mass-produced drones and urgently needs layered, affordable air defense systems to counter the threat, taking a cue from the experience gained by Ukrainian forces over the past four years.…</p>",
+      "published": "2026-03-23T10:14:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/04/06/shutterstock_drone_army.jpg"
+    },
+    {
+      "title": "CMA dithers on cloud probe as Microsoft's meter runs on taxpayer dime",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/the_cost_of_inaction_how/",
+      "summary": "<h4>Every month of 'careful consideration' is another month Redmond laughs all the way to the bank</h4> <p>Here's the uncomfortable truth: every week the UK's Competition and Markets Authority (CMA) hesitates on its decision on the outcome of its public cloud services market investigation, the meter keeps running and taxpayers continue to foot the bill.…</p>",
+      "published": "2026-03-23T09:31:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/11/19/shutterstock_broken_clock.jpg"
+    },
+    {
+      "title": "Calling out corporate BS? There's a steaming pile to aim for",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/corporate_bs_opinion/",
+      "summary": "<h4>Your instinctive revulsion is spot on. Follow your nose</h4> <p><strong>Opinion</strong>  Science is at its best when it makes manifest radical ideas that change our worldview. This is the flag all sane people salute, under which we march to war. Yet in our hearts, we know that the very tastiest science is that which confirms our prejudices and validates what we've known all along. Cornell University has just served up a plate of the finest yet. Tuck in.…</p>",
+      "published": "2026-03-23T09:02:32.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/20/shutterstock_2159516843.jpg"
+    },
+    {
+      "title": "When it comes to catastrophic space weather, the UK is holding a cocktail umbrella",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/nao_uk_space_weather/",
+      "summary": "<h4>National Audit Office warns government has little idea of how to respond in the event of a major solar storm</h4> <p>The UK's National Audit Office (NAO) has warned the country is underprepared for a severe space weather event.…</p>",
+      "published": "2026-03-23T08:15:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/05/24/aurora_shutterstock.jpg"
+    },
+    {
+      "title": "Every bulb on Govee’s new outdoor string lights can display multicolor effects",
+      "link": "https://www.theverge.com/tech/897950/govee-outdoor-chromatic-string-lights-weatherproof-color-changing-price-availability",
+      "summary": "Govee has announced a new set of outdoor string lights that allows for more color customization than competitors' products, as well as the company's existing color-changing set. Similar to its Outdoor UpDown Wall Light introduced in July 2025, Govee's new Outdoor Chromatic String Lights don't limit you to just one color per bulb. You can [&#8230;]",
+      "published": "2026-03-23T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/govee_patio_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Junior disobeyed orders and tried untested feature during a live robot demo",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/who_me/",
+      "summary": "<h4>First came the facepalm, then the faceplant, then the loss of face</h4> <p><strong>Who, Me?</strong>  Monday is upon us, but before you use the new week to explore opportunity and adventure, <i>The Register</i> presents a new installment of Who, Me? It's our weekly reader-contributed column that shares your stories of flops, failures, and foul-ups.…</p>",
+      "published": "2026-03-23T07:30:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/02/13/shutterstock_1290555652.jpg"
+    },
+    {
+      "title": "Samsung adds native AirDrop support to Galaxy S26 devices",
+      "link": "https://www.theverge.com/tech/898815/samsung-quick-share-airdrop-support-galaxy-s26",
+      "summary": "Samsung is bringing AirDrop support to the Quick Share feature on Galaxy devices, starting with the S26 series. The new AirDrop feature will begin rolling out in Korea starting today, according to Samsung, with US devices seeing the option sometime later this week. It will arrive in more regions and on more Galaxy devices \"at [&#8230;]",
+      "published": "2026-03-23T05:47:27-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268373_Samsung_Galaxy_Unpacked_Feb_2026_AJohnson_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "AI influencer awards season is upon us",
       "link": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt [&#8230;]",
+      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for legitimacy amid an onslaught of AI slop and grifters and transforms from quirky novelty into a serious and [&#8230;]",
       "published": "2026-03-22T20:01:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -306,15 +370,7 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "CERN eggheads burn AI into silicon to stem data deluge",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/",
-      "summary": "<h4>The operating system of the universe isn’t going to debug itself</h4> <p><strong>feature</strong>  CERN is nothing like today's agentic AI jockeys, who mostly rely on pre-set weights and generic TPUs and GPUs to generate their slop. CERN burns custom nanosecond-speed AI into the silicon itself just to eliminate excess data.…</p>",
-      "published": "2026-03-22T11:11:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/20/cern.jpg"
-    },
-    {
-      "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+      "title": "Musk says he’s building a Terafab chip plant in Austin, Texas",
       "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
       "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability [&#8230;]",
       "published": "2026-03-22T10:06:48-04:00",
@@ -344,62 +400,6 @@
       "published": "2026-03-22T08:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Online age checks came first — a VPN crackdown could be next",
-      "link": "https://www.theverge.com/column/898122/online-age-verification-vpns",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about online age verification and your privacy, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Virtual private networks, or VPNs, weren't always [&#8230;]",
-      "published": "2026-03-22T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268409_Online_ID_checks_came_first_%E2%80%94_your_VPN_could_be_next_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Halide co-founder is suing former partner for bringing source code to Apple",
-      "link": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
-      "summary": "Lux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cult following for its robust pro-level controls. Apple was apparently a big enough fan that it tried to acquire the developer last [&#8230;]",
-      "published": "2026-03-21T17:02:56-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DSC02494_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Turns out your coffee addiction may be doing your brain a favor",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
-      "summary": "<h4>Decades of data suggest people who stick to a couple of brews fare better in terms of gray matter</h4> <p>A decades-long study suggests that your daily caffeine fix might be doing more than jolting you through morning meetings – it could also be quietly helping your brain hold it together.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-21T12:10:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/11/17/coffee_photo_via_shutterstock.jpg"
-    },
-    {
-      "title": "Payment biz pulls plug on open source charity after KYC spat",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/21/fsfe_dropped_by_its_payments/",
-      "summary": "<h4>Free Software Foundation Europe says it was asked for supporters' passwords; Nexi insists it only wanted test credentials to check cancellation flows</h4> <p>The Free Software Foundation Europe says its electronic-payments provider Nexi Group unexpectedly \"cancelled\" its account – cutting the charity off from around 450 donors.…</p>",
-      "published": "2026-03-21T09:30:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/01/30/shutetrstock_argue_meeting.jpg"
-    },
-    {
-      "title": "Cryptographers engage in war of words over RustSec bug reports and subsequent ban",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/",
-      "summary": "<h4>Rust security maintainers contend Nadim Kobeissi's vulnerability claims are too much</h4> <p>Since February, cryptographer Nadim Kobeissi has been trying to get code fixes applied to Rust cryptography libraries to address what he says are critical bugs. For his efforts, he's been dismissed, ignored, and banned from Rust security channels.…</p>",
-      "published": "2026-03-20T21:07:17.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/13/shutterstock_rust.jpg"
-    },
-    {
-      "title": "Sorry, Amazon, you couldn't pick a worse time to bring a phone to market: IDC analyst",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/amazon_phone_worst_possible_time/",
-      "summary": "<h4>The market is contracting</h4> <p>Right product, wrong time? Amazon is reported to be developing a new smartphone, its first since 2014, and, according to industry tracker IDC, it will face entrenched competition with better products and a market that is expected to contract by double digits.…</p>",
-      "published": "2026-03-20T20:20:02.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/04/12/fire_shutterstock.jpg"
-    },
-    {
-      "title": "Salesforce snaps up the team who built calendar app Clockwise to work on Agentforce",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/salesforce_clockwise_team/",
-      "summary": "<h4>Just the team, not the tech</h4> <p>Salesforce's Agentforce team is getting an infusion of new talent by hiring the team behind Clockwise, a calendar scheduling app, but the app itself isn't sticking around.…</p>",
-      "published": "2026-03-20T18:15:34.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/02/22/broken-clock.jpg"
     }
   ]
 }
