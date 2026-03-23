@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T02:44:20.136172",
+  "lastUpdated": "2026-03-23T07:18:39.644600",
   "articles": [
     {
       "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
@@ -242,6 +242,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
     },
     {
+      "title": "Elon Musk wants to build 50 times more chips than the world currently produces, using ‘new physics’",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/musk_terafab/",
+      "summary": "<h4>Like his promise to get a million robocabs on the road, this doesn’t add up</h4> <p>Elon Musk has put Tesla, SpaceX, and xAI in harness to build a chip fabrication outfit called “Terafab” capable of producing a terawatt’s worth of computing power each year, then send most of it into space.…</p>",
+      "published": "2026-03-23T06:40:41.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/04/30/shutterstock_musk_tesla.jpg"
+    },
+    {
       "title": "Microsoft: Removing some Copilots will improve Windows 11",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/windows_quality_commitment/",
       "summary": "<h4>'Doze boss admits quality is down, promises smaller memory footprint and fixes for many well-known issues</h4> <p>Microsoft has acknowledged that it needs to improve the quality of Windows 11 and outlined its plan to get the job done.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -392,14 +400,6 @@
       "published": "2026-03-20T18:15:34.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2017/02/22/broken-clock.jpg"
-    },
-    {
-      "title": "WSL graphics driver update brings better GPU support for Linux apps",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/linux_directx_and_opengl/",
-      "summary": "<h4>Meanwhile, WINE and OpenGL tweaks speed Windows apps on 64-bit hosts</h4> <p>Whatever OS you run, you have a better chance to run non-native apps. Running Linux virtualized on Windows is set to speed up slightly, and so is running Windows apps on top of 64-bit Linux and macOS.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-20T16:40:04.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/06/04/shutterstock_penguin_and_baby.jpg"
     }
   ]
 }
