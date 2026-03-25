@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-25T02:40:58.157610",
+  "lastUpdated": "2026-03-25T07:09:24.855184",
   "articles": [
+    {
+      "title": "\"The last straw\"—RFK Jr.'s anti-vaccine ally angrily quits CDC panel after spat",
+      "link": "https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/",
+      "summary": "Robert Malone quit a vaccine panel, blaming an HHS spokesperson for \"trashing\" him.",
+      "published": "Wed, 25 Mar 2026 03:43:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249521703-1024x648.jpg"
+    },
     {
       "title": "A former Thiel fellow’s startup just launched a drone it says can replace police helicopters",
       "link": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
@@ -154,14 +162,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/AAOS_SDV-1152x648.jpg"
     },
     {
-      "title": "Apple confirms that its Maps app will begin showing ads to users \"this summer\"",
-      "link": "https://arstechnica.com/gadgets/2026/03/apple-confirms-that-its-maps-app-will-begin-showing-ads-to-users-this-summer/",
-      "summary": "Apple Maps ads will look and work a bit like current App Store ads do.",
-      "published": "Tue, 24 Mar 2026 18:04:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-Business-hero-1152x648.jpg"
-    },
-    {
       "title": "OpenAI Is Reportedly Killing Its Disastrous Video AI Slop App",
       "link": "https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop",
       "summary": "<p>OpenAI is turning off the video slop tap.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop\">OpenAI Is Reportedly Killing Its Disastrous Video AI Slop App</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -240,6 +240,22 @@
       "published": "Mon, 23 Mar 2026 18:08:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/polymarket-accounts-iran-ceasefire.jpg?quality=85"
+    },
+    {
+      "title": "Apple pushes Maps ads in free training-wheels business bundle",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/apple_business_free_advertising_maps/",
+      "summary": "<h4>Apple Business combines corporate device management offerings and a way to buy ads</h4> <p>Apple has simplified its business services by combining and rebranding them, and is giving away the reformulated enterprise offering for free.…</p>",
+      "published": "2026-03-25T06:52:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/11/10/apple_shutterstock.jpg"
+    },
+    {
+      "title": "Alibaba delivers RISC-V server chip optimized to run China’s top AI models",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/",
+      "summary": "<h4>Claims its set performance records but looks to be years behind western fare</h4> <p>Alibaba has revealed a new server chip that it says is the most powerful processor ever to use the RISC-V instruction set.…</p>",
+      "published": "2026-03-25T03:52:48.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/25/supplied_xuantie_c950_pic.jpg"
     },
     {
       "title": "HP stuffs OpenAI LLM into new laptops to make them either more useful at work, or a bit creepy",
@@ -338,14 +354,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256133481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Age checks creep into Linux as systemd gets a DOB field",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/foss_age_verification/",
-      "summary": "<h4>Flatpak may be next, and the lobbying behind it is raising eyebrows</h4> <p>After weeks of debate, code to record user age was finally merged into the Linux world's favorite system management daemon.…</p>",
-      "published": "2026-03-24T17:29:06.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/05/06/school_computer_lab.jpg"
-    },
-    {
       "title": "What is ICE actually doing at the airport?",
       "link": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
       "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to think that my good luck is more powerful than a partial government shutdown. Congress [&#8230;]",
@@ -360,14 +368,6 @@
       "published": "2026-03-24T17:08:10-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Arm rolls its own 136-core AGI CPU to chase AI hype train",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/arm_agi_cpu/",
-      "summary": "<h4>Turns out artificial general intelligence was a CPU this whole time</h4> <p>Arm unveiled its first homegrown silicon — yes, an actual chip, not another shake-n-bake blueprint — during an event in San Francisco on Tuesday, and said that flagship customer Meta is set to deploy the 136-core CPU at scale later this year.…</p>",
-      "published": "2026-03-24T17:00:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/11/13/shutterstock_arm.jpg"
     },
     {
       "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
