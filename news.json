@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T07:51:11.785843",
+  "lastUpdated": "2026-03-30T13:45:59.065542",
   "articles": [
     {
       "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
@@ -56,14 +56,6 @@
       "published": "Sun, 29 Mar 2026 14:15:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/ice-todd-lyons-stress.jpg?quality=85"
-    },
-    {
-      "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
-      "link": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
-      "summary": "SXSW made some changes this year, but some founders loved it all the same.",
-      "published": "Sun, 29 Mar 2026 14:01:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/SXSW.jpg?resize=1200,800"
     },
     {
       "title": "Scientists Intrigued by Microbe That That Makes Mice Swole",
@@ -146,30 +138,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/openai-data-centers-trouble.jpg?quality=85"
     },
     {
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-      "published": "Sat, 28 Mar 2026 23:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800"
-    },
-    {
-      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
-      "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
-      "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
-      "published": "Sat, 28 Mar 2026 21:23:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814"
-    },
-    {
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-      "published": "Sat, 28 Mar 2026 20:45:54 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800"
-    },
-    {
       "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
       "link": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
       "summary": "Breathing capacity could have compensated for lower atmospheric oxygen.",
@@ -192,6 +160,38 @@
       "published": "Sat, 28 Mar 2026 11:15:35 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/seaturtle-1152x600.jpg"
+    },
+    {
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+      "published": "Mon, 30 Mar 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671"
+    },
+    {
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+      "published": "Mon, 30 Mar 2026 12:49:51 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024"
+    },
+    {
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "published": "Mon, 30 Mar 2026 12:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2080252145.jpg?resize=1200,800"
+    },
+    {
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "published": "Mon, 30 Mar 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Starcloud-1-deployment-virtical-e1774655359557.png?w=549"
     },
     {
       "title": "Why OpenAI really shut down Sora",
@@ -242,12 +242,140 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2259062605-1024x648.jpg"
     },
     {
+      "title": "South Korea's Rebellions raises $400B to take rack-scale AI platform global",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/rebellions_ai_rackscale/",
+      "summary": "<h4>Funding round comes ahead of planned IPO</h4> <p>SK Telecom-backed AI chip startup Rebellions has raised $400 million in a pre-IPO funding round to support its global expansion with a new rack-scale compute platform aimed at enterprises and sovereign clouds.…</p>",
+      "published": "2026-03-30T13:01:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/27/rebellions_rebel_quad.jpg"
+    },
+    {
+      "title": "Microsoft Fabric Database Hub only a 'partial' solution for admins",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/microsoft_fabric_database_hub_partial_solution/",
+      "summary": "<h4>Could help break silos, but users should take wait-and-see approach to system limited to Microsoft DBs and DBaaS</h4> <p>Microsoft's new Fabric Database Hub is a \"partial solution\" for enterprises relying on systems outside the vendor's portfolio, but within these confines, it could make databases more connected and manageable, say analysts reacting to <a href=\"https://www.theregister.com/2026/03/18/microsoft_fabric_latest/\" target=\"_blank\">the news</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-03-30T12:23:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/02/24/shutterstock_database.jpg"
+    },
+    {
+      "title": "Microsoft yanks Windows 11 preview update after install failures",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/microsoft_faulty_windows_update/",
+      "summary": "<h4>KB5079391 pulled after some devices hit errors, adding to recent quality woes</h4> <p>Microsoft has halted the rollout of a Windows update after some users encountered installation errors.…</p>",
+      "published": "2026-03-30T11:44:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/07/31/shutterstock_167343158.jpg"
+    },
+    {
+      "title": "Humanoid robots one tiny step closer to exterminating autoworkers' jobs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/humanoid_automotive_robots/",
+      "summary": "<h4>Torso on a trolley tries its hands in warehouse role</h4> <p>That's one small step for Humanoid, or rather a short factory floor traversal. The UK-based robotics biz says it has completed a proof-of-concept test showing its rolling robot can be deployed in a production environment to help with automotive manufacturing.…</p>",
+      "published": "2026-03-30T11:00:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/03/27/humanoid_robot.jpg"
+    },
+    {
+      "title": "European Commission admits attackers broke into public web systems, but says little else",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/european_commission_breach/",
+      "summary": "<h4>Brussels notifying 'Union entities' whose data may've been snatched in websites breach</h4> <p>The European Commission has admitted that attackers broke into its public-facing web infrastructure and siphoned off data in a <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748\" rel=\"nofollow\" target=\"_blank\">bare-bones disclosure</a> that answers the what but ducks most of the how.…</p>",
+      "published": "2026-03-30T10:15:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/10/08/european_commission_photo_via_shutterstock.jpg"
+    },
+    {
+      "title": "Xbox’s next big games showcase happens on June 7th",
+      "link": "https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date",
+      "summary": "It may be the end of March, but gaming companies are already getting ready for the summer. First up is Xbox, which just announced that it will be holding its next major showcase event on June 7th. That's a typical window for Microsoft - last year's edition took place on June 8th - and fits [&#8230;]",
+      "published": "2026-03-30T09:18:57-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_69e3d0306642df35e85de5114caea664c516c408.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "For $200 more, you can get a MacBook Air",
+      "link": "https://www.theverge.com/tech/901698/macbook-air-history",
+      "summary": "It was January 2008, and Steve Jobs had just pulled the MacBook Air out of a manila envelope onstage at Macworld. Within minutes, Windows PC executives everywhere lost their minds. They grabbed the nearest office envelope, tried to shove in their plastic laptops, and tore straight through the paper. Engineers were summoned. Assistants were dispatched [&#8230;]",
+      "published": "2026-03-30T09:05:19-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_MACBOOK_AIR_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The mad dash to build the future of multimedia",
+      "link": "https://www.theverge.com/tech/902721/quicktime-history-apple",
+      "summary": "It's 1989. To play a video, listen to a song, or show photos on a desktop computer requires bolting on expensive hardware, built by a different company, using different software. There are no standards, no portability, no sharing. Tyler Peppel, Apple product marketer: It should have been a natural area for Apple to be in, [&#8230;]",
+      "published": "2026-03-30T09:05:17-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_QUICKTIME_2CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple @ 50",
+      "link": "https://www.theverge.com/tech/899623/apple-50-anniversary",
+      "summary": "Fifty years ago, on April 1st, 1976, Apple Computer Company was founded. Today it’s one of the most valuable companies in the world, celebrated for producing ubiquitous products like the iPad and iPhone to now-nostalgia bait like the iPod Mini and PowerBook. Over the last five decades, the company has seen ups and downs but [&#8230;]",
+      "published": "2026-03-30T09:05:16-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_PACKAGE_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google is to journalism what Vikings were to monks. Now their man will run the BBC",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/bbc_opinion/",
+      "summary": "<h4>Canny planning or dangerous compromise? Matt Brittin takes the hotseat at a pivotal moment</h4> <p><strong>Opinion</strong>  The BBC has a new head honcho in waiting, the Director-General designate Matt Brittin. His job: helming one of the world's most famous and oldest international media brands, one with a vast and sensitive domestic position. His last job: President of EMEA Business and Operations at Google. You can imagine a greater culture clash, but you'll have to work at it.…</p>",
+      "published": "2026-03-30T09:03:14.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/11/25/shutterstock_bbc.jpg"
+    },
+    {
+      "title": "The origin story of Apple’s long-running relationship with FoxConn",
+      "link": "https://www.theverge.com/tech/898077/apple-in-china-patrick-mcgee-foxconn",
+      "summary": "In 2025, Patrick McGee published Apple in China: The Capture of the World's Greatest Company, a deeply-reported look at the tech giant's investment in - and growing reliance on - China. The following excerpt, pulled from Chapter 9 of Apple in China, examines the company's relationship with Foxconn, today the infamous builder of iPhones. Foxconn [&#8230;]",
+      "published": "2026-03-30T09:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_FOXCONN_CVirginia_ef8fef.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Vivo launches X300 Ultra flagship ‘designed for professional photography’",
+      "link": "https://www.theverge.com/tech/903250/vivo-x300-ultra-flagship-china-launch-specs",
+      "summary": "Vivo has launched the X300 Ultra in China today, the company's latest flagship that really puts the \"camera\" in cameraphone. The device is \"designed for professional photography,\" according to Vivo's press release, and features a set of Zeiss camera lenses that are optimized for specific shooting styles, including telephoto close-ups, wide-angle, and videography. My colleague [&#8230;]",
+      "published": "2026-03-30T08:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Vivo-X300-Ultra-phone-launch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple II Forever!",
+      "link": "https://www.theverge.com/tech/900677/apple-ii-personal-computer",
+      "summary": "When you think of Apple, you probably think of the iPhone, or maybe the Mac, or perhaps you've got fond memories of the iPod. But Apple's 50-year run of creating tech products that people fall in love with - sometimes a lot of people, sometimes just a hardy few - would never have happened if [&#8230;]",
+      "published": "2026-03-30T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_APPLE_II_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "KitchenAid redesigned its iconic mixer so you can set an exact speed",
+      "link": "https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light",
+      "summary": "KitchenAid calls its new Artisan Plus Stand Mixer the biggest upgrade to the appliance since 1955. If you've ever been frustrated by the limited speed settings on the brand's iconic mixers, you might agree. Not only does the new Artisan Plus introduce an additional half-speed setting for gently folding and incorporating ingredients like egg whites [&#8230;]",
+      "published": "2026-03-30T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/kitchenaid4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Security contractor blew the whistle on support crew's viral indifference",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/who_me/",
       "summary": "<h4>Career-limiting stupidity and rudeness exposed, with terminal consequences</h4> <p><strong>Who, Me?</strong>  The week before Easter may be a short one for many in the <i>Reg</i>-reading world, but that won't stop us from opening it with a fresh installment of Who, Me? It's the reader-contributed column in which you share stories of things you did at work that had interesting consequences.…</p>",
       "published": "2026-03-30T07:30:15.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2022/10/26/virus_shutterstock.jpg"
+    },
+    {
+      "title": "These retractable studded tires might save our roads, ears, and lungs",
+      "link": "https://www.theverge.com/transportation/902561/nokian-hakkapeliitta-tire-retract-stud-winter",
+      "summary": "If you want to feel truly invincible when driving in the snow, you need a set of studded snow tires. They're illegal in some places, typically restricted to the frigid months of the year in others. Spring for a set, though, and they'll see you through the worst, slipperiest, snowiest driving conditions you can imagine. [&#8230;]",
+      "published": "2026-03-30T07:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Nokian-Hakka-01-004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Steve Jobs and the greatest run of products in tech history",
+      "link": "https://www.theverge.com/tech/900655/steve-jobs-imac-ibook-ipod",
+      "summary": "\"I'm pleased to report to you that Apple's back on track.\" It was May of 1998, and Steve Jobs was about 10 months into his second stint leading the company he'd cofounded more than two decades earlier. (It was also a bit more than a decade after that company forced him out.) Jobs took the [&#8230;]",
+      "published": "2026-03-30T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_STEVE_JOBS_RETURN_CVirginia_88b9c9.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "US foreign router ban criticized for being ‘industrial policy disguised as cybersecurity’",
@@ -266,140 +394,12 @@
       "image_url": "https://regmedia.co.uk/2019/12/17/shutterstock_fists.jpg"
     },
     {
-      "title": "AI will write code, but prepare to babysit it - and be sure you speak its language",
+      "title": "AI will write code, but prepare to babysit it – and be sure you speak its language",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/29/ai_will_write_code_but/",
       "summary": "<h4>This week on the Kettle, we predict that AI software development won't make you want to fire your devs anytime soon</h4> <p><strong>kettle</strong>  Tell an AI to write you a poem and it'll do it, just in a way that requires a human touch to perfect; the same goes for writing code.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "published": "2026-03-29T23:00:07.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/05/24/robot_shutterstock.jpg"
-    },
-    {
-      "title": "All the latest in AI &#8216;music&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-      "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]",
-      "published": "2026-03-29T21:32:14-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Bluesky’s new app is an AI for customizing your feed",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]",
-      "published": "2026-03-29T17:44:41-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/attie-ai.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Red Rooms makes online poker as thrilling as its serial killer",
-      "link": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
-      "summary": "It's rare for a movie to get technology right. And it's even rarer for that movie to be a thriller or horror, where realism takes a backseat to scares and tension. But Red Rooms mostly gets it. Nothing takes me out of a film quicker than a tech MacGuffin that might as well be literal [&#8230;]",
-      "published": "2026-03-29T15:45:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/red-rooms-cover-pixelated.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
-      "link": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
-      "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which runs through March 31st, the retail behemoth is hoping to lure in would-be shoppers with the promise of steep(ish) savings and discounts on more seasonal, spring-centric items to hold folks over until [&#8230;]",
-      "published": "2026-03-29T12:30:17-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The first thing vibe coding builds is confidence it will help you succeed",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/29/secret_ceo_column_vibe_coding/",
-      "summary": "<h4>And developers should be confident it won't kill the craft</h4> <p><strong>Secret CEO</strong>  In 1991, when I was 16, a Norwegian Exchange student gave an inspirational performance of the Three Billy Goats Gruff, in the original Norwegian, at my high school talent night. She delivered this performance with such gusto that every word of her performance stuck in my mind and, to this day, I can recite the Three Billy Goats Gruff in Norwegian.…</p>",
-      "published": "2026-03-29T12:15:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/04/01/goats_image_via_shutterstock.jpg"
-    },
-    {
-      "title": "Can my favorite Game Boy gadget tell fake cartridges from real?",
-      "link": "https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection",
-      "summary": "The $50 Epilogue GB Operator has a brand-new trick up its sleeve. In addition to backing up Game Boy, Game Boy Color and Game Boy Advance cartridges and saves to a PC (and writing saves back to carts again!), it can now plug into your phone with a brand-new Retrace app for Android and iOS. [&#8230;]",
-      "published": "2026-03-29T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DJI_20260327180743_0236_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "There is no ethical consumption of HBO’s Harry Potter series",
-      "link": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
-      "summary": "In the coming years, HBO wants its new Harry Potter series to become \"the streaming event of the decade\" as it adapts each of the franchise's seven original books. The show could very well become a hit that captures the imaginations of a new generation of fans who weren't there for the first wave of [&#8230;]",
-      "published": "2026-03-29T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dominic-mclaughlin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Bees and hummingbirds aren't just buzzing – they're sipping trace booze",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/29/bees_hummingbirds_alcohol/",
-      "summary": "<h4>Alcohol turns up in most floral nectar, meaning pollinators are drinking tiny cocktails without ever getting drunk</h4> <p>Bees and hummingbirds are effectively day-drinking on the job because their lunch is quietly fermenting.…</p>",
-      "published": "2026-03-29T09:30:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/02/24/bumble_bee.jpg"
-    },
-    {
-      "title": "Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
-      "link": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals",
-      "summary": "Bird feeders have come a long way since their inception in the early 1900s. These days, it’s not all that surprising to see feeders kitted out with cameras and solar roofs, two marquee features you’ll find on feeders from both BirdBuddy and Netvue. And while modern hoppers can command a pretty penny, Amazon’s Big Spring [&#8230;]",
-      "published": "2026-03-29T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Netvue-Birdfy-Lifestyle-Image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Macintosh changed computers forever",
-      "link": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
-      "summary": "Apple's most legendary computer has two legacies: there's the computer itself, and there's the commercial. That commercial. Only a couple of days before Steve Jobs debuted the computer that would both help cement his legacy and contribute to his unceremonious exile from Apple, the company dropped a Super Bowl ad that is still one of [&#8230;]",
-      "published": "2026-03-29T08:30:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRH_Mac_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple’s long, bitter App Store antitrust war",
-      "link": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal travails of Big Tech, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The year was 1998, and reigning personal computer [&#8230;]",
-      "published": "2026-03-29T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_ANTITRUST_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Suno leans into customization with v5.5",
-      "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
-      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices [&#8230;]",
-      "published": "2026-03-28T14:33:10-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic struggling with Chinese competition, its own safety obsession",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/28/miss_anthropic_not_those_who/",
-      "summary": "<h4>The maker of Claude faces headwinds as it rushes to go public</h4> <p>Anthropic, riding a wave of goodwill after resisting demands from the US Defense Department to soften model safeguards, is reportedly planning to go public as soon as Q4 2026.…</p>",
-      "published": "2026-03-28T14:01:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/05/01/claude1_shutterstock.jpg"
-    },
-    {
-      "title": "To BSOD or not to BSOD? Only Microsoft knows the answer",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/28/rsac_bork/",
-      "summary": "<h4>Famous blue screens remind conference of security pros that this OS sometimes has bad days</h4> <p><strong>Bork!Bork!Bork!</strong>  When is a bork not a bork? Perhaps when it's on a Microsoft stand at a US security conference.…</p>",
-      "published": "2026-03-28T10:51:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/27/bork_2.jpg"
-    },
-    {
-      "title": "Microsoft takes up residence next to OpenAI, Oracle at Crusoe's 900 MW Texas datacenter expansion",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_ai_crusoe/",
-      "summary": "<h4>New campus to include on-site power generation</h4> <p>Bitcoin farmer turned bit barn builder Crusoe revealed plans to add 900 megawatts of capacity to its Abilene Texas datacenter campus on Friday to support Microsoft's AI ambitions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-03-27T20:03:20.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/22/openai_abilene_texas.jpg"
-    },
-    {
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "summary": "<h4>Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it</h4> <p>AI can lead mentally unwell people to some pretty dark places, as a number of recent news stories have taught us. Now researchers think sycophantic AI is actually having a harmful effect on everyone.…</p>",
-      "published": "2026-03-27T18:25:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg"
     }
   ]
 }
