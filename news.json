@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-03-31T02:49:50.288943",
+  "lastUpdated": "2026-03-31T07:23:27.082788",
   "articles": [
+    {
+      "title": "The Silicon Valley congressional race is getting ugly",
+      "link": "https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/",
+      "summary": "The primary isn&#8217;t until June, but the CA-17 race between five-term incumbent Ro Khanna and tech founder Ethan Agarwal is already getting nasty. Agarwal entered the race in March, backed by a roster of prominent tech billionaires largely in response to Khanna&#8217;s public support for a proposed California ballot measure that would impose a one-time [&#8230;]",
+      "published": "Tue, 31 Mar 2026 07:23:06 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1145735161.jpg?w=1024"
+    },
+    {
+      "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.",
+      "link": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
+      "summary": "The collapse of the brand, which was originally venture-backed and that went public in 2021,  has been well-documented.",
+      "published": "Tue, 31 Mar 2026 05:30:20 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1337507283.jpg?w=1024"
+    },
     {
       "title": "Law Seeks to Ban Public Officials From Making Polymarket Bets on Upcoming Bloodshed, Because Apparently We Live in a Complete Dystopia",
       "link": "https://futurism.com/future-society/law-polymarket-gambling-war",
@@ -194,22 +210,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/ai-chatbots-chatgpt-claude-sycophantic.jpg?quality=85"
     },
     {
-      "title": "Apple will hide your email address from apps and websites, but not cops",
-      "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
-      "summary": "Demands for Apple customer records by federal agents in recent months underscore the privacy limitations of email.",
-      "published": "Mon, 30 Mar 2026 15:34:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675"
-    },
-    {
-      "title": "Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering",
-      "link": "https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/",
-      "summary": "It's a notable exit for Blacklane, which has raised more than $100 million from backers like Mercedes-Benz and Sixt.",
-      "published": "Mon, 30 Mar 2026 14:46:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Uber-Blacklane.jpg?resize=1200,675"
-    },
-    {
       "title": "Trump convenes \"God Squad\" to override Endangered Species Act, up oil production",
       "link": "https://arstechnica.com/tech-policy/2026/03/trump-convenes-god-squad-to-override-endangered-species-act-up-oil-production/",
       "summary": "Administration wants to exempt all federally regulated offshore oil from protections.",
@@ -242,6 +242,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/bluesky-users-disgust-new-ai.jpg?quality=85"
     },
     {
+      "title": "Memory-makers’ shares are down. Some RAM prices have eased. Blaming Google is not a good idea",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/google_turboquant_memory_market_impact/",
+      "summary": "<h4>Chocolate Factory boffins have found a way to reduce AI’s memory use, but don’t assume that means less demand for DRAM</h4> <p>The high cost of memory has sideswiped the technology industry, causing server vendors to <a href=\"https://www.theregister.com/2026/02/18/memory_shortage_persists_vendor_change_terms/\" target=\"_blank\">admit their quotes are guesstimates</a> and <a href=\"https://www.theregister.com/2026/03/30/omdia_pc_shipments/\" target=\"_blank\">depressing</a> sales of PCs and smartphones. Nobody is immune: Microsoft used the RAM panic as cover for <a href=\"https://www.theregister.com/2026/03/23/windows_quality_commitment/\" target=\"_blank\">fixing Windows 11’s memory gluttony</a>, and Sony <a href=\"https://www.blocksandfiles.com/flash/2026/03/30/sony-suspends-memory-card-orders-amid-tight-nand-supply/5213470\" rel=\"nofollow\" target=\"_blank\">suspended orders</a> for compact flash and SD cards because it can’t buy the chips to build them.…</p>",
+      "published": "2026-03-31T05:46:40.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/11/06/shutterstock_2236390995.jpg"
+    },
+    {
       "title": "Surprise! Big Tech has been a bit rubbish at enforcing Australia’s kids social media ban",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/australian_social_media_ban_enforcement_report/",
       "summary": "<h4>Regulator ‘moving into an enforcement stance’ and investigating Meta, YouTube, TikTok and Snapchat as millions continue to doomscroll</h4> <p>Australia’s eSafety Commission is “moving into an enforcement stance” after finding that Meta, YouTube, TikTok and Snapchat haven’t done enough to comply with the nation’s social media minimum age (SMMA) obligation, which bans social media outfits from providing their services to children under 16 years of age.…</p>",
@@ -252,7 +260,7 @@
     {
       "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-      "summary": "<h4>Letting Copilot alter others' PRs was the wrong judgment call, says product manager</h4> <p>Microsoft has done a 180. Following backlash from developers, GitHub has removed Copilot's ability to stick ads - what it calls \"tips\" - into any pull request that invokes its name. …</p>",
+      "summary": "<h4>Letting Copilot alter others' PRs was the wrong judgment call, says product manager</h4> <p><strong>Updated</strong>  Microsoft has done a 180. Following backlash from developers, GitHub has removed Copilot's ability to stick ads - what it calls \"tips\" - into any pull request that invokes its name. …</p>",
       "published": "2026-03-30T20:47:24.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg"
@@ -336,14 +344,6 @@
       "published": "2026-03-30T14:36:13.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2015/10/14/handshake_83733535.jpg"
-    },
-    {
-      "title": "Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/citrix_netscaler_flaw/",
-      "summary": "<h4>Researchers say attackers are already looting vulnerable boxes</h4> <p>In-the-wild exploitation of a critical Citrix NetScaler bug has begun less than a week after disclosure, with researchers warning that attackers are already poking and pillaging vulnerable boxes.…</p>",
-      "published": "2026-03-30T13:49:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/06/29/shutterstock_computer_bug.jpg"
     },
     {
       "title": "Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale",
