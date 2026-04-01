@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T03:19:44.998658",
+  "lastUpdated": "2026-04-01T07:41:56.323229",
   "articles": [
     {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
@@ -242,6 +242,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/03/ai-chatbots-chatgpt-claude-sycophantic.jpg?quality=85"
     },
     {
+      "title": "Claude Code source leak reveals how much info Anthropic can hoover up about you and your system",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/",
+      "summary": "<h4>If you loved the data retention of Microsoft Recall, you'll be thrilled with Claude Code</h4> <p>Anthropic's Claude Code lacks the persistent kernel access of a rootkit. But an analysis of its code shows that the agent can exercise far more control over people's computers than even the most clear-eyed reader of contractual terms might suspect. It retains lots of your data and is even willing to hide its authorship from open-source projects that reject AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-01T07:00:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/03/04/claude_shutterstock.jpg"
+    },
+    {
       "title": "Don't open that WhatsApp message, Microsoft warns",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/whatsapp_message_bad_msi_packages/",
       "summary": "<h4>How to avoid social engineering attacks? Employee training tops the list</h4> <p>Be careful what you click on. Miscreants are abusing WhatsApp messages in a multi-stage attack that delivers malicious Microsoft Installer (MSI) packages, allowing criminals to control victims' machines and access all of their data.…</p>",
@@ -392,14 +400,6 @@
       "published": "2026-03-31T15:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/2570_FP_1144441U_00088906.jpg?quality=90&#038;strip=all&#038;crop=1.7231262207031,0,79.172503662109,100"
-    },
-    {
-      "title": "ServiceNow allegedly says salesman 'overachieved' and is not entitled to comp",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/servicenow_says_salesman_overachieved_and/",
-      "summary": "<h4>The 13-year sales vet closed two deals worth $27 million, but ServiceNow has “nullified” his compensation saying he “overachieved” his quota.</h4> <p>ServiceNow is refusing to pay a salesman commissions on more than $27 million in sales, telling the 13-year veteran of the company that he \"overperformed\" his quota and insisting that instead he sign paperwork that retroactively reduces the commission amount, according to a federal lawsuit filed by the salesperson. ServiceNow has denied all his claims.…</p>",
-      "published": "2026-03-31T14:55:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/03/30/shutterstock_2684331853.jpg"
     }
   ]
 }
