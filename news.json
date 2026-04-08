@@ -1,8 +1,64 @@
 {
-  "lastUpdated": "2026-04-07T19:12:16.848238",
+  "lastUpdated": "2026-04-08T02:52:24.552561",
   "articles": [
     {
-      "title": "Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+      "title": "Valve brings native Steam Link app to Apple's Vision Pro",
+      "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
+      "summary": "New app can replace third-party options that were jankier to use.",
+      "published": "Tue, 07 Apr 2026 22:21:21 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-1152x648.jpeg"
+    },
+    {
+      "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
+      "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
+      "summary": "The MacBook Neo is a step in the right direction, though.",
+      "published": "Tue, 07 Apr 2026 22:08:32 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Apple-Self-Service-Repair-iPhone-1152x648.jpg"
+    },
+    {
+      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+      "published": "Tue, 07 Apr 2026 21:35:02 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?resize=1200,802"
+    },
+    {
+      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+      "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "summary": "Eclipse will put some of that money towards incubating, or building startups.",
+      "published": "Tue, 07 Apr 2026 21:24:54 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?resize=1200,800"
+    },
+    {
+      "title": "What the heck is wrong with our AI overlords?",
+      "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+      "summary": "New profile of Sam Altman shines a light on a whole industry.",
+      "published": "Tue, 07 Apr 2026 20:02:25 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2162021307-1152x648-1775587328.jpg"
+    },
+    {
+      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+      "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+      "summary": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
+      "published": "Tue, 07 Apr 2026 19:59:06 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2019/07/iran.jpeg?resize=1200,789"
+    },
+    {
+      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+      "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+      "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
+      "published": "Tue, 07 Apr 2026 19:09:44 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bluesky-vibe-coder-1152x648.jpg"
+    },
+    {
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
       "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
       "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
       "published": "Tue, 07 Apr 2026 18:46:55 +0000",
@@ -66,20 +122,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Gemini-chat-1152x648.png"
     },
     {
-      "title": "Binge is a movie-tracking app that warns you of jump scares in real time",
+      "title": "Hate jump scares? This app warns you before they happen",
       "link": "https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/",
       "summary": "The app uses iPhone Live Activities to alert you when scary scenes are about to happen, while also tracking what to watch and where to stream it.",
       "published": "Tue, 07 Apr 2026 16:51:54 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Mac-Raw-1.png?resize=1200,870"
-    },
-    {
-      "title": "Uber is the latest to be won over by Amazon’s AI chips",
-      "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-      "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
-      "published": "Tue, 07 Apr 2026 16:46:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/AWS-Trainium2-chip-11-29-24-embargo-till-12-3-24-1.jpg?resize=1200,812"
     },
     {
       "title": "Linux kernel maintainers are following through on removing Intel 486 support",
@@ -90,28 +138,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-90739236-1152x648.jpg"
     },
     {
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-      "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
-      "published": "Tue, 07 Apr 2026 16:05:56 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
+      "title": "Sam Altman’s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts",
+      "link": "https://futurism.com/artificial-intelligence/sam-altman-technical-coding",
+      "summary": "<p>\"I think there's a small but real chance he's eventually remembered as a Bernie Madoff- or Sam Bankman-Fried-level scammer.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sam-altman-technical-coding\">Sam Altman&#8217;s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 07 Apr 2026 16:11:14 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/sam-altman-technical-coding.jpg?quality=85"
     },
     {
       "title": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon",
       "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/",
-      "summary": "The Moon, the Earth, and the Sun; oh what fun!",
+      "summary": "The Moon, the Earth, and the Sun—oh what fun!",
       "published": "Tue, 07 Apr 2026 15:54:54 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55193002296_38b8afac3c_k-1152x648.jpg"
     },
     {
-      "title": "Google Maps can now write captions for your photos using AI",
-      "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-      "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
-      "published": "Tue, 07 Apr 2026 15:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800"
+      "title": "We’re In Utter Disbelief About the Photos the Moon Astronauts Just Sent Back",
+      "link": "https://futurism.com/space/photos-moon-astronauts-sent-back",
+      "summary": "<p>Here are some of our favorites.</p>\n<p>The post <a href=\"https://futurism.com/space/photos-moon-astronauts-sent-back\">We&#8217;re In Utter Disbelief About the Photos the Moon Astronauts Just Sent Back</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 07 Apr 2026 15:19:55 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/photos-moon-astronauts-sent-back.jpg?quality=85"
     },
     {
       "title": "The Rivian R2 will launch with 335 miles of range",
@@ -122,9 +170,9 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/R2_GlacierWhiteExterior11-1152x648.jpg"
     },
     {
-      "title": "College Students Losing Ability to Participate in Class Discussions Since They Offloaded Their Thinking to AI",
+      "title": "College Students Losing Ability to Participate in Class Discussions Because They Offloaded Their Thinking to AI",
       "link": "https://futurism.com/artificial-intelligence/ai-college-students-homogenized",
-      "summary": "<p>\"Everyone now kind of sounds the same.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-college-students-homogenized\">College Students Losing Ability to Participate in Class Discussions Since They Offloaded Their Thinking to AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"Everyone now kind of sounds the same.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-college-students-homogenized\">College Students Losing Ability to Participate in Class Discussions Because They Offloaded Their Thinking to AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 07 Apr 2026 14:01:29 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-college-students-homogenized.jpg?quality=85"
@@ -178,38 +226,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/intelfab-1152x648.jpg"
     },
     {
-      "title": "Astronauts set distance record, revealing the Moon as a place to be explored",
-      "link": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
-      "summary": "\"Humans have probably not evolved to see what we’re seeing. It is truly hard to describe. It is amazing.\"",
-      "published": "Tue, 07 Apr 2026 03:50:32 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55193180468_5de0cf977a_o-1152x648.jpg"
-    },
-    {
-      "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
-      "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
-      "summary": "The charter renewal gives Kennedy broad authority to pick anyone for the panel.",
-      "published": "Mon, 06 Apr 2026 22:34:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-1152x648.jpg"
-    },
-    {
-      "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
-      "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-      "summary": "New model can respond to disruptions and figure out moves it wasn't trained for.",
-      "published": "Mon, 06 Apr 2026 22:18:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-1152x648.png"
-    },
-    {
-      "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
-      "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
-      "summary": "Court rules US preempts states from applying gambling laws to prediction markets.",
-      "published": "Mon, 06 Apr 2026 21:56:36 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-1152x648-1775509431.jpg"
-    },
-    {
       "title": "The Entire State of Maine Is Poised to Ban New Data Centers",
       "link": "https://futurism.com/artificial-intelligence/state-maine-ban-new-data-centers",
       "summary": "<p>\"I think Maine is the canary in the coal mine.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/state-maine-ban-new-data-centers\">The Entire State of Maine Is Poised to Ban New Data Centers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -226,20 +242,60 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/sources-sam-altman-sociopath.jpg?quality=85"
     },
     {
-      "title": "Lone Jar of Nutella Drifts Around Cabin of Moon Spacecraft",
-      "link": "https://futurism.com/space/nutella-moon-spacecraft",
-      "summary": "<p>\"This was not a product placement,\" a NASA spokesperson told us.</p>\n<p>The post <a href=\"https://futurism.com/space/nutella-moon-spacecraft\">Lone Jar of Nutella Drifts Around Cabin of Moon Spacecraft</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 06 Apr 2026 15:39:04 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/nutella-moon-astronauts.jpg?quality=85"
+      "title": "Anthropic: All your zero-days are belong to Mythos",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/",
+      "summary": "<h4>Hasn't released it to the public, because it would break the internet - in a bad way</h4> <p>For years, the infosec community’s biggest existential worry has been quantum computers blowing away all classical encryption and revealing the world’s secrets. Now they have a new Big Bad: an AI model that can generate zero-day vulnerabilities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-07T23:50:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2017/05/08/worldserpent.jpg"
     },
     {
-      "title": "The Moon Astronauts Just Broke the Record for the Farthest Any Human Has Ever Traveled From Earth",
-      "link": "https://futurism.com/space/moon-astronauts-record-farthest-from-earth",
-      "summary": "<p>An incredible achievement. </p>\n<p>The post <a href=\"https://futurism.com/space/moon-astronauts-record-farthest-from-earth\">The Moon Astronauts Just Broke the Record for the Farthest Any Human Has Ever Traveled From Earth</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 06 Apr 2026 14:34:16 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/moon-astronauts-record-forfarthest-from-earth.jpg?quality=85"
+      "title": "Iran cyber actors disrupting US water, energy facilities, FBI warns",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/iran_hackers_disrupting_us_water_energy/",
+      "summary": "<h4>Your PLCs aren't internet-connected, right? Right?!</h4> <p>Iranian-affiliated actors have escalated intrusions targeting critical US water and energy facilities, in some cases disrupting operations, the FBI and American cyber defense agencies said on Tuesday.…</p>",
+      "published": "2026-04-07T23:30:24.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2023/11/29/water_shutterstock.jpg"
+    },
+    {
+      "title": "Nutanix thinks some Azure cloud desktops belong on-prem to make them usable",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/nutanix_azure_cloud_desktops/",
+      "summary": "<h4>Also asserts it can beat Cisco's homebrew hypervisor for calling apps</h4> <p><strong>.NEXT</strong>  Nutanix has teamed with Microsoft to bring cloudy desktops on-prem, using its extensive desktop virtualization (VDI) experience to make it work.…</p>",
+      "published": "2026-04-07T23:14:43.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/07/supplied_nutanix_ceo_rajiv_ramaswami_at_next-2026_conference.jpg"
+    },
+    {
+      "title": "Cloudflare, GoDaddy team up to curb AI bot brigades",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cloudflare_godaddy_ai_bot_blocking/",
+      "summary": "<h4>Pair backs scraper blocking and standards to separate trusted agents from bad bots</h4> <p>Citing the need to adapt to an internet increasingly serving the needs of AI agents without considering the needs of site owners, Cloudflare and GoDaddy are partnering on efforts to control how AIs crawl the web and interact with web content.…</p>",
+      "published": "2026-04-07T21:32:59.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/04/02/bot.jpg"
+    },
+    {
+      "title": "AWS CEO: It's funny when people ask me if AI is overhyped",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/aws_garman_humanx_ai_underhyped/",
+      "summary": "<h4>Matt Garman sounds the alarm but plays down the SaaS-pocalypse at Human[X]</h4> <p>Stefan Weitz, CEO and co-founder of the Human[X] conference, welcomed attendees to the AI-focused bitshow in San Francisco with the promise that they would receive no certainty and no playbook.…</p>",
+      "published": "2026-04-07T21:21:28.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/07/matt_garman_aws.jpg"
+    },
+    {
+      "title": "Hundreds of orgs compromised daily in Microsoft device code phishing attacks",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/microsoft_device_code_phishing/",
+      "summary": "<h4>Who needs MFA when you've got EvilTokens?</h4> <p>Hundreds of organizations have been compromised daily by a Microsoft device-code phishing campaign that uses AI and automation at nearly every stage of the attack chain to ultimately snoop through corporate email inboxes and steal financial data.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-07T20:19:42.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/09/27/microsoft_shutterstock.jpg"
+    },
+    {
+      "title": "Intel gets trapped in Elon’s reality distortion field as it joins in megafab delusions",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/intel_elon_space_delusion/",
+      "summary": "<h4>Space is just the next stop on the AI hype train, right after AGI</h4> <p>In the realm of his other unrealistic plans and potentially broken promises, Elon Musk's Terafab stands out as one of the biggest pipedreams, promising to boost semiconductor production by 50x for the benefit of orbital datacenters. But hey, this idea must have legs, because now Intel has announced it is joining the aspiring Bond villain's initiative.…</p>",
+      "published": "2026-04-07T19:36:48.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/07/elon_lip_bu.jpg"
     },
     {
       "title": "Nutanix brings its K8s to bare metal because hardware matters again",
@@ -250,12 +306,28 @@
       "image_url": "https://regmedia.co.uk/2022/07/01/shutterstock_kubernetes_bicycle.jpg"
     },
     {
+      "title": "Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today",
+      "link": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
+      "summary": "It’s not every day you find a decent pair of wireless earbuds with active noise cancellation, a transparency mode, and app support for less than $20, which is why the current lighting deal on the CMF Buds 2A stands out. Now through 11:15PM ET today, April 7th, Nothing’s budget earbuds are available on Amazon in [&#8230;]",
+      "published": "2026-04-07T18:16:21-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Buds-2a-in-Dark-Grey.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "US cybercrime losses pass $20B for first time as AI boosts online fraud",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cybercrime_losses_reach_alltime_high/",
       "summary": "<h4>Bots are now firmly in the toolbox, helping crooks scale old scams</h4> <p>Crims are taking advantage of AI to sharpen old scams. The FBI reported Monday that cybercrime losses hit a record $20.87 billion in 2025, with help from bots.…</p>",
       "published": "2026-04-07T17:59:11.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2016/10/31/shutterstock_fbi_hipster.jpg"
+    },
+    {
+      "title": "Amazon is ending support for older Kindles and Kindle Fires",
+      "link": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
+      "summary": "Amazon has announced that starting on May 20th, 2026, Kindle e-readers and Kindle Fire devices released in 2012 and earlier will \"no longer be able to purchase, borrow, or download new content via the Kindle Store,\" Amazon spokesperson Jackie Burke wrote in an email to The Verge. Users will still be able to read books [&#8230;]",
+      "published": "2026-04-07T17:44:20-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/amazonkindle2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Russia's Fancy Bear still attacking routers to boost fake sites, NCSC warns",
@@ -266,28 +338,12 @@
       "image_url": "https://regmedia.co.uk/2024/04/22/bear_shutterstock.jpg"
     },
     {
-      "title": "Stack Overflow abandons redesign after loyalists criticize it",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/stack_overflow_retires_redesign_beta/",
-      "summary": "<h4>Fabled Q&amp;A site for devs struggles with its future as AI takes over its original purpose</h4> <p>Stack Overflow, the once-popular dev community, has abandoned a planned redesign that was meant to refocus the site more on discussions than the question-and-answer format that built its reputation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-07T16:26:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/07/thumbs_down.jpg"
-    },
-    {
-      "title": "Artemis II snaps eclipse, Earthset shots on first crewed lunar flyby since Apollo",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/artemis_ii_astronauts_snap_pics_moon/",
-      "summary": "<h4>Turns out deep space still looks better without AI helping</h4> <p>The Artemis II mission has produced some stunning imagery as the spacecraft loops around the Moon on its journey from Earth and back.…</p>",
-      "published": "2026-04-07T15:53:39.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/07/moon.jpg"
-    },
-    {
-      "title": "Break, no fix: Apple and Samsung make repairs hard",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/apple_samsung_repairability/",
-      "summary": "<h4>Motorola and Google top PIRG's latest scorecard</h4> <p>Samsung and Apple phones are more difficult to repair than those from other makers, according to a report ranking devices by how easy to fix they are.…</p>",
-      "published": "2026-04-07T15:08:52.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/07/shutterstock_2410521161.jpg"
+      "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+      "link": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music. You can use the feature to effectively generate customized Discover [&#8230;]",
+      "published": "2026-04-07T16:13:23-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "You can now turn 2D apps into 3D while using the Galaxy XR headset",
@@ -322,14 +378,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Only 28% of AI infrastructure projects fully pay off, survey finds",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/ai_returns_gartner/",
-      "summary": "<h4>ITSM the area most likely to offer wins, according to Gartner research</h4> <p>Tech leaders hoping AI might help save money and improve efficiency in IT infrastructure should know that only 28 percent of use cases fully succeed and offer return on investment (ROI).…</p>",
-      "published": "2026-04-07T13:13:36.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2019/07/25/money_shutterstock.jpg"
-    },
-    {
       "title": "The rugged Bose Soundlink Flex is 25 percent off right now",
       "link": "https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale",
       "summary": "We saw a host of excellent Bose discounts during Amazon’s so-called Big Spring Sale last month; however, none of them were quite as steep as the current price drop we’re seeing on the latest Bose Soundlink Flex. Right now, the portable speaker is on sale at Amazon, Walmart, and Best Buy for $119 ($40 off), [&#8230;]",
@@ -346,60 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vertical-Tabs_In-Line-Asset_16x9-216-dragged.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "White House seeks deep NASA cuts as Artemis II breaks spaceflight record",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/nasa_budget/",
-      "summary": "<h4>'Proposal resurrects an existential threat to US leadership in space science and exploration'</h4> <p>First, the good news: the Artemis II crew has successfully swung around the far side of the Moon and surpassed Apollo 13's record for the farthest distance traveled by humans in space. Now the bad news: the White House is sharpening the budget blade once again.…</p>",
-      "published": "2026-04-07T12:27:09.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/02/01/shutterstock_pay_cut_cost_cutting.jpg"
-    },
-    {
       "title": "Suno and major music labels reportedly clash over AI music sharing",
       "link": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
       "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on whether users should be able to share the AI-generated songs they create. \"Universal wants AI-generated tracks to stay inside apps such [&#8230;]",
       "published": "2026-04-07T12:21:22-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "No-Nvidia interconnect club delivers 2.0 spec before v1.0 silicon ships",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/ualink_2_specs/",
-      "summary": "<h4>UALink splits work on physical layer and protocol specs to speed things up, literally and metaphorically</h4> <p>The UALink Consortium, a group of tech giants working on GPU networking standards to provide an alternative to Nvidia's NVLink and NVSwitch, has released new specs, but is still months away from shipping silicon.…</p>",
-      "published": "2026-04-07T12:00:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/03/11/shutterstock_speed.jpg"
-    },
-    {
-      "title": "Satechi’s 3-in-1 travel stand now wirelessly charges your phone at 25W",
-      "link": "https://www.theverge.com/tech/906126/satechi-3-in-1-foldable-travel-qi2-2-stand-wireless-charger-25w-pricing-availability",
-      "summary": "The WPC introduced the Qi2.2 standard in April 2025, but the rollout of faster wireless chargers has been relatively slow. Following companies like Nomad, Belkin, and Kuxiu, Satechi has announced a new charger that supports Qi2.2. The 3-in-1 Foldable Wireless Charging Stand is an updated version of an existing product; the new incarnation boosts wireless [&#8230;]",
-      "published": "2026-04-07T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/satechi1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Moto Pad is Motorola’s first US-bound tablet in over a decade",
-      "link": "https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability",
-      "summary": "Motorola announced two new devices today, including one of its first tablets to be available from a US carrier since Verizon's Xyboard tablets in 2011. The new Moto Pad is joined by the 2026 edition of the Moto G Stylus featuring an upgraded pen that responds to tilt and pressure changes in supported apps. The [&#8230;]",
-      "published": "2026-04-07T11:51:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dsc02695_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
-      "link": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
-      "summary": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling facility, which would supply AI chips to Musk's two companies, SpaceX (newly merged with xAI) and Tesla. Musk needs AI chips to [&#8230;]",
-      "published": "2026-04-07T11:43:17-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Shots fired – literally – over proposal to build datacenter in Indianapolis",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/indianapolis_datacenter_shots_fired/",
-      "summary": "<h4>From a gun into the front door of a councilor who supports plan</h4> <p>Datacenter protests have taken an ugly turn in the US, with gunshots fired at the home of an Indianapolis councilor who recently lent his support to plans for a server farm in the area.…</p>",
-      "published": "2026-04-07T11:09:24.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/07/shutterstock_indianapolis.jpg"
     }
   ]
 }
