@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-04-08T02:52:24.552561",
+  "lastUpdated": "2026-04-08T07:42:47.797103",
   "articles": [
+    {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "published": "Wed, 08 Apr 2026 05:40:19 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800"
+    },
     {
       "title": "Valve brings native Steam Link app to Apple's Vision Pro",
       "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
@@ -122,14 +130,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Gemini-chat-1152x648.png"
     },
     {
-      "title": "Hate jump scares? This app warns you before they happen",
-      "link": "https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/",
-      "summary": "The app uses iPhone Live Activities to alert you when scary scenes are about to happen, while also tracking what to watch and where to stream it.",
-      "published": "Tue, 07 Apr 2026 16:51:54 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Mac-Raw-1.png?resize=1200,870"
-    },
-    {
       "title": "Linux kernel maintainers are following through on removing Intel 486 support",
       "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
       "summary": "Linux devs think even one second spent on 486 support is a second too many.",
@@ -242,6 +242,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/sources-sam-altman-sociopath.jpg?quality=85"
     },
     {
+      "title": "Microsoft hints at bit bunkers for war zones",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/microsoft_armored_datacenters/",
+      "summary": "<h4>President Brad Smith tells an interviewer that Microsoft is reconsidering datacenter design in light of Iran war</h4> <p>Microsoft is reevaluating how it designs and builds datacenters in conflict-prone regions after Iran began targeting Middle Eastern bit barns in retaliation for US military operations.…</p>",
+      "published": "2026-04-08T06:53:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/08/shutterstock_defending_datacenter.jpg"
+    },
+    {
+      "title": "Japan relaxes privacy laws to make itself the ‘easiest country to develop AI’",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/",
+      "summary": "<h4>Opting out of personal data use won't be an option because Minister says that's a 'very big obstacle' to AI adoption</h4> <p>Japan’s Minister for Digital Transformation Hisashi Matsumoto has declared the nation will become the easiest place in the world to develop AI apps, thanks to legal changes that mean organizations won’t need to secure consent to use some personal information.…</p>",
+      "published": "2026-04-08T04:48:21.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/04/26/manga_boy_shutterstock.jpg"
+    },
+    {
       "title": "Anthropic: All your zero-days are belong to Mythos",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/",
       "summary": "<h4>Hasn't released it to the public, because it would break the internet - in a bad way</h4> <p>For years, the infosec community’s biggest existential worry has been quantum computers blowing away all classical encryption and revealing the world’s secrets. Now they have a new Big Bad: an AI model that can generate zero-day vulnerabilities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -314,28 +330,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Buds-2a-in-Dark-Grey.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "US cybercrime losses pass $20B for first time as AI boosts online fraud",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cybercrime_losses_reach_alltime_high/",
-      "summary": "<h4>Bots are now firmly in the toolbox, helping crooks scale old scams</h4> <p>Crims are taking advantage of AI to sharpen old scams. The FBI reported Monday that cybercrime losses hit a record $20.87 billion in 2025, with help from bots.…</p>",
-      "published": "2026-04-07T17:59:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/10/31/shutterstock_fbi_hipster.jpg"
-    },
-    {
       "title": "Amazon is ending support for older Kindles and Kindle Fires",
       "link": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
       "summary": "Amazon has announced that starting on May 20th, 2026, Kindle e-readers and Kindle Fire devices released in 2012 and earlier will \"no longer be able to purchase, borrow, or download new content via the Kindle Store,\" Amazon spokesperson Jackie Burke wrote in an email to The Verge. Users will still be able to read books [&#8230;]",
       "published": "2026-04-07T17:44:20-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/amazonkindle2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Russia's Fancy Bear still attacking routers to boost fake sites, NCSC warns",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/russia_fancy_bear_ncsc_router_attack/",
-      "summary": "<h4>200 orgs and 5,000 devices compromised so far in Vlad's latest intelligence grab, Microsoft reckons</h4> <p>The UK's National Cyber Security Centre (NCSC) has issued a fresh warning about Russia's ongoing targeting of routers to steal passwords and other secrets.…</p>",
-      "published": "2026-04-07T17:02:05.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/04/22/bear_shutterstock.jpg"
     },
     {
       "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
