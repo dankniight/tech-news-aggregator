@@ -1,10 +1,98 @@
 {
-  "lastUpdated": "2026-04-08T19:24:18.240514",
+  "lastUpdated": "2026-04-09T02:47:01.135764",
   "articles": [
+    {
+      "title": "Trump admin makes sweeping request for medical records of federal workers",
+      "link": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+      "summary": "The unprecedented proposal would give the Trump admin access to doctors' notes.",
+      "published": "Wed, 08 Apr 2026 22:00:11 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-92959399-1152x648.jpg"
+    },
+    {
+      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+      "published": "Wed, 08 Apr 2026 21:50:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/tunnel-vpn-v1.jpg?resize=1200,675"
+    },
+    {
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
+      "published": "Wed, 08 Apr 2026 21:19:07 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/avride-uber.jpeg?resize=1200,800"
+    },
+    {
+      "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+      "summary": "LinkedIn says claims fabricated by extension maker suspended for scraping data.",
+      "published": "Wed, 08 Apr 2026 21:08:06 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/linkedin-logo-1152x648-1775680554.jpg"
+    },
+    {
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604"
+    },
+    {
+      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+      "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
+      "published": "Wed, 08 Apr 2026 21:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2263283392.jpg?resize=1200,786"
+    },
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+      "published": "Wed, 08 Apr 2026 20:49:11 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-1152x648.jpg"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "published": "Wed, 08 Apr 2026 20:09:14 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
+    },
+    {
+      "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+      "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+      "summary": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems.",
+      "published": "Wed, 08 Apr 2026 19:59:10 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-1152x648.jpg"
+    },
+    {
+      "title": "Amazon to end support for older Kindle devices",
+      "link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+      "summary": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
+      "published": "Wed, 08 Apr 2026 19:56:16 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?resize=1200,797"
+    },
+    {
+      "title": "How our digital devices are putting our right to privacy at risk",
+      "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+      "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, <em>Your Data Will Be Used Against You</em>.",
+      "published": "Wed, 08 Apr 2026 19:17:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/Google-Maps-CarPlay-Dashboard-1152x648.png"
+    },
     {
       "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
       "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
-      "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former ScaleAI CEO Alexandr Wang.",
+      "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former Scale AI CEO Alexandr Wang.",
       "published": "Wed, 08 Apr 2026 18:53:19 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024"
@@ -18,7 +106,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/09/android-spyware-malloc.jpg?resize=1200,751"
     },
     {
-      "title": "Motorola's budget phones are now up to 50% more expensive as memory shortage drags on",
+      "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
       "link": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
       "summary": "Motorola's budget phones are much less budget-friendly today.",
       "published": "Wed, 08 Apr 2026 18:39:08 +0000",
@@ -58,36 +146,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/MOIA_Uber-Testing-Vehicle.jpg?resize=1200,800"
     },
     {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "published": "Wed, 08 Apr 2026 16:30:53 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800"
-    },
-    {
-      "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
-      "link": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
-      "summary": "Back, a long-time researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin.",
-      "published": "Wed, 08 Apr 2026 16:03:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1088376802-e1682686681720.jpg?resize=1200,675"
-    },
-    {
-      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-      "published": "Wed, 08 Apr 2026 16:01:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/poppy-claude-hero-scaled-1.webp?resize=1200,563"
-    },
-    {
-      "title": "Hackers steal and leak sensitive LAPD police documents",
-      "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
-      "summary": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack.",
-      "published": "Wed, 08 Apr 2026 15:38:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/lapd-car-agents-night.jpg?resize=1200,796"
+      "title": "Student Dies When Hospital Has No ICU Doctors, Calls One on Videochat Who Pronounces Him Dead Remotely, Lawsuit Claims",
+      "link": "https://futurism.com/health-medicine/student-dies-in-telehealth-hospital-no-icu-doctors",
+      "summary": "<p>\"It's a fake ICU.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/student-dies-in-telehealth-hospital-no-icu-doctors\">Student Dies When Hospital Has No ICU Doctors, Calls One on Videochat Who Pronounces Him Dead Remotely, Lawsuit Claims</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 08 Apr 2026 16:29:40 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/student-dies-in-telehealth-hospital-no-icu-doctors.jpg?quality=85"
     },
     {
       "title": "Steam client files point to \"framerate estimator\" feature in the works",
@@ -106,22 +170,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_2469-1152x648.jpeg"
     },
     {
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-      "published": "Wed, 08 Apr 2026 15:23:44 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"
-    },
-    {
-      "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
-      "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
-      "summary": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their computers.",
-      "published": "Wed, 08 Apr 2026 15:21:13 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/blue-screen-error-2162004949.jpg?resize=1200,798"
-    },
-    {
       "title": "Analysis Finds That Google’s AI Overviews Are Providing Misinformation at a Scale Possibly Unprecedented in the History of Human Civilization",
       "link": "https://futurism.com/artificial-intelligence/google-ai-overviews-misinformation",
       "summary": "<p>This is catastrophic.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-ai-overviews-misinformation\">Analysis Finds That Google&#8217;s AI Overviews Are Providing Misinformation at a Scale Possibly Unprecedented in the History of Human Civilization</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -130,36 +178,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/google-ai-overviews-misinformation.jpg?quality=85"
     },
     {
-      "title": "No big trucks for little roads: American OEMs say EU is blocking imports",
-      "link": "https://arstechnica.com/cars/2026/04/no-f-150-in-france-us-automakers-complain-the-eu-blocks-big-trucks/",
-      "summary": "European buyers aren't interested in full-size trucks; US car industry doesn't care.",
-      "published": "Wed, 08 Apr 2026 15:13:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1414665828-1152x648.jpg"
-    },
-    {
-      "title": "With Orion still flying, NASA is nearing key decisions about Artemis III",
-      "link": "https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/",
-      "summary": "\"One of the questions is what the initial orbit will be for Artemis III.\"",
-      "published": "Wed, 08 Apr 2026 14:15:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/lunar-lander-1152x648.jpg"
-    },
-    {
-      "title": "Moon Astronaut Captures Shot of Earth That Lets You See Its Thin Atmosphere Perfectly",
+      "title": "Moon Astronaut Captures Shot of Earth That Lets You See Its Razor-Thin Atmosphere Perfectly",
       "link": "https://futurism.com/space/moon-astronaut-earth-thin-layer-atmosphere",
-      "summary": "<p>\"Hello, World.\"</p>\n<p>The post <a href=\"https://futurism.com/space/moon-astronaut-earth-thin-layer-atmosphere\">Moon Astronaut Captures Shot of Earth That Lets You See Its Thin Atmosphere Perfectly</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"Hello, World.\"</p>\n<p>The post <a href=\"https://futurism.com/space/moon-astronaut-earth-thin-layer-atmosphere\">Moon Astronaut Captures Shot of Earth That Lets You See Its Razor-Thin Atmosphere Perfectly</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 08 Apr 2026 14:03:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/moon-astronaut-earth-thin-layer-atmosphere.jpg?quality=85"
-    },
-    {
-      "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
-      "link": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
-      "summary": "A select group of customers is testing the Claude Mythos Preview.",
-      "published": "Wed, 08 Apr 2026 13:34:17 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/anthropoc_search-1152x648.jpg"
     },
     {
       "title": "Microsoft Mocked for Terms of Service That Admit Copilot Is for “Entertainment Purposes Only”",
@@ -176,14 +200,6 @@
       "published": "Wed, 08 Apr 2026 12:06:42 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/claude-mythos-escaped-sandbox.jpg?quality=85"
-    },
-    {
-      "title": "Thousands of consumer routers hacked by Russia's military",
-      "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-      "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
-      "published": "Wed, 08 Apr 2026 11:00:08 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg"
     },
     {
       "title": "Iran Demanding Huge Bitcoin Payments to Pass Through Strait of Hormuz",
@@ -210,14 +226,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/chatgpt-hypochondria.jpg?quality=85"
     },
     {
-      "title": "Valve brings native Steam Link app to Apple's Vision Pro",
-      "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
-      "summary": "New app can replace third-party options that were jankier to use.",
-      "published": "Tue, 07 Apr 2026 22:21:21 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-1152x648.jpeg"
-    },
-    {
       "title": "Sam Altman’s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts",
       "link": "https://futurism.com/artificial-intelligence/sam-altman-technical-coding",
       "summary": "<p>\"I think there's a small but real chance he's eventually remembered as a Bernie Madoff- or Sam Bankman-Fried-level scammer.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sam-altman-technical-coding\">Sam Altman&#8217;s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -234,12 +242,68 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/photos-moon-astronauts-sent-back.jpg?quality=85"
     },
     {
-      "title": "College Students Losing Ability to Participate in Class Discussions Because They Offloaded Their Thinking to AI",
-      "link": "https://futurism.com/artificial-intelligence/ai-college-students-homogenized",
-      "summary": "<p>\"Everyone now kind of sounds the same.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-college-students-homogenized\">College Students Losing Ability to Participate in Class Discussions Because They Offloaded Their Thinking to AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 07 Apr 2026 14:01:29 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-college-students-homogenized.jpg?quality=85"
+      "title": "Meta's latest model is as open as Zuckerberg's private school",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/meta_muse_spark/",
+      "summary": "<h4>You were the chosen one! It was said that you would destroy the proprietary models, not join them!</h4> <p>Nearly two years after extolling the virtues of open source AI, Meta CEO Mark Zuckerberg is singing a different tune. …</p>",
+      "published": "2026-04-08T23:06:42.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/07/30/screennshot_zuckerberg_siggraph.jpg"
+    },
+    {
+      "title": "Western Union zaps VMware and moves to Nutanix",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/western_union_vmware_nutanix_migration/",
+      "summary": "<h4>South Korea’s biggest theme park is also riding the VM migration roller coaster</h4> <p>Western Union has commenced a migration from VMware to Nutanix after deciding it didn’t want to do business with Broadcom.…</p>",
+      "published": "2026-04-08T22:35:54.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/02/13/western_union_shutterstock.jpg"
+    },
+    {
+      "title": "Atlassian gussies up Confluence for the AI era",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/atlassian_brings_ai_and_agents/",
+      "summary": "<h4>Helps employees present data in Confluence in various ways</h4> <p>Atlassian is modernizing Confluence for the AI era, testing tools and agentic capabilities that give users the chance to turn their written notes into graphics and their ideas into software applications.…</p>",
+      "published": "2026-04-08T22:02:37.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/04/06/atlassian_shutterstock.jpg"
+    },
+    {
+      "title": "Criminal wannabes even more dangerous than the pros, says ex-FBI cyber chief",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/cynthia_kaiser_interview/",
+      "summary": "<h4>If they don't know what they're doing, you might never get your data back</h4> <p><strong>interview</strong>  It's the biggest threat today, but it took her a while to appreciate it. After spending two decades at the FBI and much of that time working to intercept and stop cyber threats from the likes of China and Russia, Halcyon Ransomware Research Center SVP Cynthia Kaiser says she was a \"latercomer to really wanting to focus on ransomware.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-08T21:09:51.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/08/cynthia_kaiser.jpg"
+    },
+    {
+      "title": "DARPA looking for battery that could power a laptop for months",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/darpa_fusion_firm_radioactive_battery/",
+      "summary": "<h4>Drawback: it’s radioactive</h4> <p>Forget recharging or swapping out disposable AAs every day. What if you could power energy-hungry devices for months or even years at a time from a single, reasonably-sized battery? A Washington state-based fusion energy startup is helping to make that dream a reality for DARPA, which wants higher-power radioactive batteries for space. …</p>",
+      "published": "2026-04-08T20:52:10.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/08/rads-to-watts.jpg"
+    },
+    {
+      "title": "Call your existing automation ‘zero-token architecture’ to become an instant agentic AI wiz",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/automation_zerotoken_architecture_ai/",
+      "summary": "<h4>Kubernetes luminary Kelsey Hightower thinks IT pros need to get smart about thriving in a world that’s trying to hide deep tech</h4> <p>As businesses drink the agentic AI Kool-Aid and go looking for productivity enhancements, IT professionals can deliver by rebranding their existing automations as “zero-token architecture,” according to Kelsey Hightower, a former Google distinguished engineer and a notable early promoter of Kubernetes.…</p>",
+      "published": "2026-04-08T20:21:41.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/01/08/rebrand.jpg"
+    },
+    {
+      "title": "Gemini gets notebooks to help you organize projects",
+      "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with [&#8230;]",
+      "published": "2026-04-08T20:06:12-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Dyson made a handheld version of its iconic fans",
+      "link": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
+      "summary": "Nearly 17 years after Dyson first announced its Air Multiplier fans - one of its first big consumer products after vacuums - the company has miniaturized their design to create a handheld personal cooler called the HushJet Mini Cool. Like Dyson's larger Air Multipliers, humidifiers, air purifiers, and heaters, the HushJet Mini Cool doesn't have [&#8230;]",
+      "published": "2026-04-08T20:01:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dyson_hushjet3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Nvidia's Rubin GPU is likely to be late thanks to memory shortage and technical challenges",
@@ -274,12 +338,28 @@
       "image_url": "https://regmedia.co.uk/2016/08/22/robots_image_via_shutterstock.jpg"
     },
     {
-      "title": "Microsoft calls time on ASP.NET Core 2.3 on .NET Framework",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/aspnet_net_framework/",
-      "summary": "<h4>Tangled tale nears end as Redmond classifies it as a tool, not a library</h4> <p>Microsoft has set an end-of-support date of April 7, 2027, for ASP.NET Core 2.3, the only supported version on .NET Framework, even though .NET Framework (and the original ASP.NET) will continue to be supported.…</p>",
-      "published": "2026-04-08T14:43:32.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/08/03/shutterstock_road_block_no_access.jpg"
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart [&#8230;]",
+      "published": "2026-04-08T16:14:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "I finally get the iPhone Air",
+      "link": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
+      "summary": "I saw a lot of weird phones at Mobile World Congress last month: robot phones, cameras disguised as phones, phones for dogs. But the one that caught me most off guard was the one my friend (and Verge alum) Sam Byford brought to dinner: an iPhone Air. \"Ha!\" I said. \"You actually use that thing?\" [&#8230;]",
+      "published": "2026-04-08T15:45:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01695.jpg?quality=90&#038;strip=all&#038;crop=0,3.6399006234473,78.703125,92.565508836076"
+    },
+    {
+      "title": "The AI RAM shortage is also driving up SSD prices",
+      "link": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
+      "summary": "I thought the WD Black SN850X 2TB SSD in my gaming PC was pricey when I bought it for $173 in 2024, but now that same SSD costs $649, more than what I paid for most of the parts in my PC combined. The price on my WD Black drive nearly quadrupled since November 2025, [&#8230;]",
+      "published": "2026-04-08T15:32:49-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The Neo Effect: How Apple&#8217;s cheapest Mac is changing the PC game",
@@ -290,36 +370,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Supermicro launches probe after staff charged with China export violations",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/supermicro_china_chip_smuggling/",
-      "summary": "<h4>Board-led inquiry follows indictment of two employees and a contractor over alleged diversion of Nvidia GPU servers</h4> <p>Supermicro has launched an independent investigation after three people associated with the company were charged with violating US export restrictions on China.…</p>",
-      "published": "2026-04-08T14:15:35.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/08/shutterstock_2645160447.jpg"
-    },
-    {
       "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
       "link": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
       "summary": "Microsoft is losing another veteran executive. Julia Liuson, head of Microsoft's developer division (DevDiv), is resigning from the software giant after 34 years. Liuson spent the past 12 years leading Microsoft's developer business, during a period Microsoft focused more on open source projects and acquired GitHub for $7.5 billion. Liuson will continue as head of [&#8230;]",
       "published": "2026-04-08T12:56:43-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon rewards loyal Kindle devotees by closing the book on old e-readers",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/amazon_kindle_support_discontinued/",
-      "summary": "<h4>To 'minimize disruption,' Bezoscorp offers a 20% discount on new hardware you didn't want</h4> <p><strong>Updated</strong>  Amazon is rewarding long-time Kindle users by ditching support for aging devices, though it is trying to \"minimize disruption\" for existing customers by dangling a 20 percent discount for new models along with an eBook credit.…</p>",
-      "published": "2026-04-08T12:42:51.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/07/21/shutterstock_graves.jpg"
-    },
-    {
-      "title": "Showing the Windows 10 desktop was the yeast they could do",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/windows_desktop_bakery/",
-      "summary": "<h4>Fresh and healthy, just like Windows 11 isn't</h4> <p><strong>Bork!Bork!Bork!</strong>  You might say this bork was bread to fail, but at least it involves a version of Windows that most people actually like.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-08T12:29:43.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/07/bork.jpg"
     },
     {
       "title": "Meta is reentering the AI race with a new model called Muse Spark",
@@ -338,68 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/amazonsmarthermostatdeals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Dutch healthcare software vendor goes dark after ransomware attack",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/chipsoft_ransomware/",
-      "summary": "<h4>ChipSoft's website remains down but emails are functioning</h4> <p>A Dutch healthcare software vendor has been knocked offline following a ransomware attack, officials say.…</p>",
-      "published": "2026-04-08T11:30:48.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/05/21/hospital_shutterstock.jpg"
-    },
-    {
-      "title": "Investors are going nuclear to keep UK's AI datacenters fed",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/nuclear_investors_ai_demand/",
-      "summary": "<h4>Market watcher says money is pouring into British atomic and fusion startups amid massive energy demand</h4> <p>Investors are backing nuclear power as a solution to fuel the UK's datacenter buildout, according to researchers tracking investment activity.…</p>",
-      "published": "2026-04-08T11:21:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/09/08/tokamak.jpg"
-    },
-    {
       "title": "The Miniature Wife was an exercise in visual trickery",
       "link": "https://www.theverge.com/entertainment/905862/the-miniature-wife-was-an-exercise-in-visual-trickery",
       "summary": "In Manuel Gonzales' 2013 short story \"The Miniature Wife,\" a woman starts to become a different kind of person after her husband accidentally shrinks her down to the size of a coffee mug. Because of her new stature, the woman is more physically vulnerable, and it's difficult for her to effectively communicate with normal sized [&#8230;]",
       "published": "2026-04-08T11:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/NUP_206795_00649.jpg?quality=90&#038;strip=all&#038;crop=33.074375915527,14.256578029547,66.925624084473,66.109017967281"
-    },
-    {
-      "title": "The vibes are off at OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-      "summary": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status [&#8230;]",
-      "published": "2026-04-08T09:47:38-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Tractive’s new dog and cat trackers provide more health insights for your pets",
-      "link": "https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location",
-      "summary": "After acquiring its competitor Whistle from Mars Petcare nearly a year ago, Tractive is introducing two new pet trackers today. The Cat 6 Mini features a sleeker design than Tractive's current smart cat tracker and monitors additional vital signs. The Dog 6 XL, specifically designed for larger breeds, is now lighter and more durable with [&#8230;]",
-      "published": "2026-04-08T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/tractive1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Xbox’s new era needs games like Forza Horizon 6",
-      "link": "https://www.theverge.com/games/908305/forza-horizon-6-preview-xbox",
-      "summary": "It's a weird time at Xbox. Microsoft's gaming division is under new management, with its current leadership intent on what it describes as \"a renewed commitment to Xbox.\" But given that no one really knows what an Xbox is at this point, that could mean many things. What Xbox needs is a game to signal [&#8230;]",
-      "published": "2026-04-08T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ss_7775b5046e2fcc717f180577f482b2a5e3cbf0dc.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The only USB-C AA battery I’d buy for myself is the Zepath 3600",
-      "link": "https://www.theverge.com/gadgets/907002/best-usb-c-aa-li-ion-battery-zepath",
-      "summary": "Last September, a company named Lumafield scanned 1,000 cylindrical lithium-ion batteries to shine a light on the hidden risks of cheaping out. At roughly the same time, I found myself testing two awesome new kinds of AA battery that recharge using USB-C cables. It gave me an idea. Could we find the very best USB-C [&#8230;]",
-      "published": "2026-04-08T08:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Insta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies",
-      "link": "https://www.theverge.com/tech/907670/insta360-snap-usb-c-magsafe-screen-selfies-smartphone-rear-camera",
-      "summary": "Insta360 just announced the Snap, a new smartphone accessory designed to improve the quality of your selfies. It works like a digital mirror magnetically attached to the back of your Android or iOS smartphone so you can preview and properly frame shots using its more capable rear cameras, while touchscreen functionality lets you control camera [&#8230;]",
-      "published": "2026-04-08T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/insta360_snap1_d982fb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
