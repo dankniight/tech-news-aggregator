@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T03:28:31.694103",
+  "lastUpdated": "2026-04-13T08:11:47.739688",
   "articles": [
     {
       "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
@@ -162,14 +162,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?resize=1200,800"
     },
     {
-      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
-      "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
-      "summary": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?",
-      "published": "Sat, 11 Apr 2026 20:32:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/audacity.jpeg?resize=1200,800"
-    },
-    {
       "title": "AI models are terrible at betting on soccer—especially xAI Grok",
       "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
       "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
@@ -192,6 +184,14 @@
       "published": "Sat, 11 Apr 2026 01:21:10 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/a2splash1-1152x648.jpg"
+    },
+    {
+      "title": "The largest orbital compute cluster is open for business",
+      "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+      "published": "Mon, 13 Apr 2026 07:01:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/KEPLER-T1-.jpg?w=800"
     },
     {
       "title": "Californians sue over AI tool that records doctor visits",
@@ -240,6 +240,22 @@
       "published": "Fri, 10 Apr 2026 17:57:21 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/oobleck1-1152x625.jpg"
+    },
+    {
+      "title": "France’s digital directorate dumping Windows desktops, adopting Linux instead",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/france_tech_sovereignty_plan/",
+      "summary": "<h4>Après ça, le déluge, as plans call for move away from plenty more American software and hardware</h4> <p>France’s Interministerial Directorate for Digital Affairs (DINUM) will drop Windows desktops, and adopt Linux instead.…</p>",
+      "published": "2026-04-13T08:01:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/05/31/shutterstock_8_bit_france.jpg"
+    },
+    {
+      "title": "IT manager approved downtime over lunch, but made a meal of it",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/who_me/",
+      "summary": "<h4>Optimism is always risky, and defective hardware makes it indigestible</h4> <p><strong>Who, Me?</strong>  The best part of the working day is lunchtime, but <i>The Register</i> tries to start Mondays in a pleasant fashion by bringing you a new installment of \"Who, Me?\" – the reader-contributed column in which you admit to your mistakes and detail your escapes.…</p>",
+      "published": "2026-04-13T07:00:06.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/10/shutterstock_lunchtime_deadline.jpg"
     },
     {
       "title": "China wants AI to prepare school lessons and mark homework",
@@ -384,22 +400,6 @@
       "published": "2026-04-11T11:07:47-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_Google_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Hungarian government creds left in the safe hands of 'FrankLampard'",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/",
-      "summary": "<h4>Nearly 800 state logins surfaced in breach data, including defense and NATO-linked accounts</h4> <p>Hungary's government has discovered the hard way that the biggest threat to national security might just be its own password choices.…</p>",
-      "published": "2026-04-11T08:30:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/07/12/shutterstock_holes_in_bucket.jpg"
-    },
-    {
-      "title": "Snowflake manager explains the 'Spider-Man' theory of AI agent data access",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/ai_agents_spider_man_snowflake/",
-      "summary": "<h4>With access to great data comes great responsibility</h4> <p>Snowflake is betting that the biggest bottleneck to building more and better AI agents isn't the models themselves but whether the data those agents depend on is clean, accessible, and governed, Snowflake’s director of product management James Rowland-Jones told <em>The Register</em>.…</p>",
-      "published": "2026-04-10T22:05:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/10/spider-man.jpg"
     }
   ]
 }
