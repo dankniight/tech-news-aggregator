@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-13T19:20:12.821096",
+  "lastUpdated": "2026-04-14T03:18:27.085929",
   "articles": [
+    {
+      "title": "An Amazon warehouse worker died on the job at Oregon facility",
+      "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+      "summary": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
+      "published": "Tue, 14 Apr 2026 00:26:18 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2248802889.jpg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "published": "Tue, 14 Apr 2026 00:23:33 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800"
+    },
     {
       "title": "CDC Caught Burying Report on Real Effects of COVID Vaccine",
       "link": "https://futurism.com/health-medicine/covid-vaccine-cdc-report",
@@ -34,52 +50,68 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/nikes-ai-designed-world-cup-jerseys.jpg?quality=85"
     },
     {
-      "title": "Elon Musk Says He Could Definitely Build a Public Transit System Better Than Anything In China If He Tried",
-      "link": "https://futurism.com/advanced-transport/elon-musk-public-transit-china",
-      "summary": "<p>Sure.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/elon-musk-public-transit-china\">Elon Musk Says He Could Definitely Build a Public Transit System Better Than Anything In China If He Tried</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 12 Apr 2026 14:15:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/elon-musk-public-transit-china.jpg?quality=85"
-    },
-    {
-      "title": "Heat Waves Are Getting So Brutal That They Just Kill You, Full Stop",
-      "link": "https://futurism.com/science-energy/climate-heat-wave-threshold",
-      "summary": "<p>\"If it's already happening now, then what does a future that is two or three degrees warmer hold?\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/climate-heat-wave-threshold\">Heat Waves Are Getting So Brutal That They Just Kill You, Full Stop</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 12 Apr 2026 13:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/climate-heat-wave-threshold.jpg?quality=85"
-    },
-    {
-      "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
-      "link": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
-      "summary": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
-      "published": "Sun, 12 Apr 2026 11:17:26 +0000",
+      "title": "Retro Rewind re-creates the glorious drudgery of working a '90s video store",
+      "link": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
+      "summary": "What the nostalgic throwback lacks in complexity it makes up for in repetitive charm.",
+      "published": "Mon, 13 Apr 2026 21:58:41 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dieselprices-1024x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/20260413104210_1-1152x648.jpg"
     },
     {
-      "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-      "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-      "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
-      "published": "Sat, 11 Apr 2026 11:15:17 +0000",
+      "title": "Measles takes a plane to Idaho, which has worst vaccination rate in US",
+      "link": "https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/",
+      "summary": "In the 2024-2025 school year, only 78.5% of kindergartners had measles vaccination.",
+      "published": "Mon, 13 Apr 2026 21:32:48 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-1024x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1726660639-1152x648.jpg"
     },
     {
-      "title": "The Artemis II mission has ended. Where does NASA go from here?",
-      "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-      "summary": "\"The work ahead is greater than the work behind us.\"",
-      "published": "Sat, 11 Apr 2026 03:24:21 +0000",
+      "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
+      "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
+      "summary": "Cellular modems are complex black boxes of legacy code, but Google is making them safer with Rust.",
+      "published": "Mon, 13 Apr 2026 21:12:51 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-1152x648.jpg"
     },
     {
-      "title": "Four astronauts are back home after a daring ride around the Moon",
-      "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
-      "summary": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
-      "published": "Sat, 11 Apr 2026 01:21:10 +0000",
+      "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
+      "link": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
+      "summary": "Uber employees can now hail a Lucid robotaxi as part of the testing.",
+      "published": "Mon, 13 Apr 2026 21:11:58 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/uber-lucid.jpg?resize=1200,801"
+    },
+    {
+      "title": "Microsoft is officially killing its Outlook Lite app next month",
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
+      "summary": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already been scheduled for retirement.",
+      "published": "Mon, 13 Apr 2026 20:59:12 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269268389.jpg?resize=1200,800"
+    },
+    {
+      "title": "NZXT agrees to let customers keep their rental PCs in class-action settlement",
+      "link": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/",
+      "summary": "NZXT will forgive up to $5,000 in debt for customers of the Flex program.",
+      "published": "Mon, 13 Apr 2026 20:55:35 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/a2splash1-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/NZXT-1-1152x648.jpg"
+    },
+    {
+      "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
+      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "summary": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes.",
+      "published": "Mon, 13 Apr 2026 20:20:47 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2244156491-1.jpg?resize=1200,800"
+    },
+    {
+      "title": "Your tech support company runs scams. Stop—or disguise with more fraud?",
+      "link": "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/",
+      "summary": "Fake it till you make it.",
+      "published": "Mon, 13 Apr 2026 19:58:33 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2170707494-1152x648-1776109033.jpg"
     },
     {
       "title": "IBM pays $17M fine to end DOJ suit over DEI programs",
@@ -92,7 +124,7 @@
     {
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-      "summary": "The company has also previously introduced agents that are able to complete tasks, Cowork and Copilot Tasks.",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
       "published": "Mon, 13 Apr 2026 19:05:19 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Windows-Claw.png?resize=1200,800"
@@ -114,20 +146,44 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/w3ll-phishing-operation-fbi-takedown.jpg?resize=1200,675"
     },
     {
+      "title": "Sunrise on the Reaping teaser brings us a Second Quarter Quell",
+      "link": "https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/",
+      "summary": "\"You have no idea what's in store for you. Twice the number of tributes, twice the glory.\"",
+      "published": "Mon, 13 Apr 2026 18:15:59 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hunger1-1152x636.jpg"
+    },
+    {
+      "title": "IBM folds to Trump anti-DEI push, admits no misconduct but pays $17M penalty",
+      "link": "https://arstechnica.com/tech-policy/2026/04/ibm-folds-to-trump-anti-dei-push-admits-no-misconduct-but-pays-17m-penalty/",
+      "summary": "IBM is first firm to pay penalty under Trump's \"Civil Rights Fraud Initiative.\"",
+      "published": "Mon, 13 Apr 2026 17:53:46 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/ibm-logo-1152x648-1776101828.jpg"
+    },
+    {
+      "title": "Amazon Accused of Hiding Worker’s Death for a Week, Making Employees Keep Working as Corpse Lay on Floor",
+      "link": "https://futurism.com/future-society/amazon-accused-hiding-death-week",
+      "summary": "<p>\"Let’s get back to work.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/amazon-accused-hiding-death-week\">Amazon Accused of Hiding Worker&#8217;s Death for a Week, Making Employees Keep Working as Corpse Lay on Floor</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 13 Apr 2026 17:08:25 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/amazon-accused-hiding-death-week.jpg?quality=85"
+    },
+    {
       "title": "Booking.com confirms hackers accessed customers’ data",
       "link": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
-      "summary": "The travel giant notified customers that their personal data, including names, emails, email addresses, and phone numbers may have been accessed in a security incident.",
+      "summary": "The travel giant notified customers that their personal data, including names, email addresses, and phone numbers, may have been accessed in a security incident.",
       "published": "Mon, 13 Apr 2026 17:02:31 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/booking.com-logo.jpg?resize=1200,800"
     },
     {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "summary": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference.",
-      "published": "Mon, 13 Apr 2026 15:22:29 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Vercel-founder-Guillermo-Rauch.jpg?resize=1200,800"
+      "title": "Huge Group of Experts Warns Meta That Its Pervert Glasses Will Enable Terrible Crimes",
+      "link": "https://futurism.com/artificial-intelligence/coalition-rights-meta-glasses-facial-recognition",
+      "summary": "<p>The company's latest controversial product \"will harm vulnerable people while further imperiling our democracy.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/coalition-rights-meta-glasses-facial-recognition\">Huge Group of Experts Warns Meta That Its Pervert Glasses Will Enable Terrible Crimes</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 13 Apr 2026 16:16:36 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/coalition-rights-meta-glasses-facial-recognition.jpg?quality=85"
     },
     {
       "title": "Video Shows Humanoid Robot Chasing a Pack of Wild Boars",
@@ -136,14 +192,6 @@
       "published": "Mon, 13 Apr 2026 15:17:11 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/humanoid-robot-chasing-wild-boars.jpg?quality=85"
-    },
-    {
-      "title": "Hack at Anodot leaves over a dozen breached companies facing extortion",
-      "link": "https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/",
-      "summary": "The data breach at Anodot, which affects customers like Rockstar Games, is the latest hack aimed at stealing data from a large number of corporate giants.",
-      "published": "Mon, 13 Apr 2026 14:46:36 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/grand-theft-auto-2213757731.jpg?resize=1200,800"
     },
     {
       "title": "Slate Auto raises $650 million as production gets closer and closer",
@@ -170,28 +218,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1182969866-1152x648.jpg"
     },
     {
-      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
-      "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
-      "summary": "Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter.",
-      "published": "Mon, 13 Apr 2026 13:26:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/Blank-Slate-Profile_web.jpg?resize=1200,800"
-    },
-    {
       "title": "Recent Grads Say AI Is Making It Impossible to Find a Job",
       "link": "https://futurism.com/artificial-intelligence/graduates-college-ai-jobs",
       "summary": "<p>\"I feel helpless.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/graduates-college-ai-jobs\">Recent Grads Say AI Is Making It Impossible to Find a Job</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 13 Apr 2026 13:07:11 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/graduates-college-ai-jobs.jpg?quality=85"
-    },
-    {
-      "title": "Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat",
-      "link": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/",
-      "summary": "Users aged five to nine will be assigned to a \"Roblox Kids\" account, and users aged nine to 15 to will be put in a \"Roblox Select\" account.",
-      "published": "Mon, 13 Apr 2026 12:15:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/roblox-header.jpg?resize=1200,800"
     },
     {
       "title": "Moon Denialists Are So Pathetic That They’re Using AI to Fake Artemis Footage",
@@ -210,36 +242,60 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2228543358-1152x648.jpg"
     },
     {
-      "title": "The largest orbital compute cluster is open for business",
-      "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-      "published": "Mon, 13 Apr 2026 07:01:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/KEPLER-T1-.jpg?w=800"
+      "title": "Japanese rocket part came unglued, leading to mission failure",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/jaxa_rocket_failure_faulty_adhesive/",
+      "summary": "<h4>Tiny variation in temperature weakened a component and when a critical moment arrived, that mattered</h4> <p>Japan’s space exploration agency (JAXA) thinks a manufacturing process that didn’t properly take into account the qualities of an adhesive caused the December 2025 failure of a satellite launch using its locally developed H3 rocket.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-14T03:07:54.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/14/screenshot_jaxa_report.jpg"
     },
     {
-      "title": "Californians sue over AI tool that records doctor visits",
-      "link": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
-      "summary": "Plaintiffs say transcription tool processed confidential chats offsite.",
-      "published": "Fri, 10 Apr 2026 21:43:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2148900484-1152x648-1775856309.jpg"
+      "title": "The votes are in: AI will hurt elections and relationships",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/",
+      "summary": "<h4>Latest report from Stanford's AI boffins finds unsafe usage practices, widespread anxiety about impacts, and China catching up to the USA</h4> <p>Artificial intelligence has achieved mass adoption faster than the personal computer or the internet, reaching 53 percent of the population in just three years. The number of harmful AI incidents has increased correspondingly. And both experts and laypeople believe the impact will be felt in two areas: Elections and relationships.…</p>",
+      "published": "2026-04-14T00:05:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/14/shutterstock_angry_and_afraid_of_laptop.jpg"
     },
     {
-      "title": "New paper argues history, not mantle plume, powers Yellowstone",
-      "link": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
-      "summary": "A now-vanished plate under North America may open the crust below Yellowstone.",
-      "published": "Fri, 10 Apr 2026 20:06:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1187698526-1152x648.jpg"
+      "title": "Zombie Microsoft bugs rise from the dead, pave way for crims and ransomware scum",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/ransomware_gang_other_crims_attacking/",
+      "summary": "<h4>One was patched almost 14 years ago</h4> <p>Crooks are exploiting four Microsoft vulnerabilities - one patched 14 years ago and another tied to ransomware activity - according to America's lead cyber-defense agency, which on Monday gave federal agencies two weeks to patch them.…</p>",
+      "published": "2026-04-13T21:35:36.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/06/01/security_87934569384794837308.jpg"
     },
     {
-      "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
-      "link": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
-      "summary": "Algorithms, not drivers, are deciding how hard to accelerate, and that's no good.",
-      "published": "Fri, 10 Apr 2026 19:07:46 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2268546147-1152x648.jpg"
+      "title": "Cloudflare revamps CLI as agents take over the internet",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/cloudflare_expanding_wrangler_cli_functionality/",
+      "summary": "<h4>What, you think basic usability is improved just for your benefit, human?</h4> <p>Cloudflare is rebuilding Wrangler’s command-line tooling by adding commands for products and interfaces that still lack CLI support. And yes, AI agents are a big reason why.…</p>",
+      "published": "2026-04-13T20:59:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg"
+    },
+    {
+      "title": "Claude is getting worse, according to Claude",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_outage_quality_complaints/",
+      "summary": "<h4>Brief outage follows growing number of quality complaints</h4> <p>Once the AI darling of programmers everywhere, Anthropic's Claude has been stumbling mightily, both in terms of cost and perceived quality. The service was down briefly on Monday with \"a major outage,\" service trouble that only amplifies growing discontent from customers that even a bot can see.…</p>",
+      "published": "2026-04-13T20:35:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/13/ugly_mirror_pig_face.jpg"
+    },
+    {
+      "title": "How ServiceNow gets customers to gorge at the AI trough",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/servicenow_ai_everywhere/",
+      "summary": "<h4>'AI is now infused in every package that we offer to our addressable market,' SVP John Aisien told us</h4> <p>ServiceNow's latest product announcements show how hardcore the company has become about embedding AI across its go-to-market strategy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-13T20:05:02.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2021/04/12/shutterstock_teen_pc.jpg"
+    },
+    {
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]",
+      "published": "2026-04-13T20:02:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/screenshot_2026-04-13_161515_0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Fake Linux leader using Slack to con devs into giving up their secrets",
@@ -250,12 +306,36 @@
       "image_url": "https://regmedia.co.uk/2026/04/01/shutterstock_2585325815_1.jpg"
     },
     {
+      "title": "The Mercedes EQS returns with massive range and charging gains",
+      "link": "https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027",
+      "summary": "A year ago, Mercedes-Benz did the prudent thing and paused its EQ lineup of electric vehicles in the US. With customer demand drying up for luxury EVs, and federal incentives getting axed by vengeful Republicans, Mercedes put its first-generation EVs on ice. But then, in January, Mercedes quietly reintroduced the EQS brand in the US, [&#8230;]",
+      "published": "2026-04-13T18:01:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pre-media-26c0110_003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music",
+      "link": "https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella",
+      "summary": "This past Saturday at the Coachella music festival, Justin Bieber played the first of two headlining sets in a deal reportedly worth $10 million. It was his most significant solo performance in years. But Bieber spent some of his time on stage the way many of us do on Saturday nights: on YouTube. For some [&#8230;]",
+      "published": "2026-04-13T17:19:10-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2270967112.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Attention, gamers: The FAA wants YOU to be an air traffic controller",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/faa_gamers_air_traffic_control/",
       "summary": "<h4>GG noob, who cleared you to land?</h4> <p>The Federal Aviation Administration continues to face an air traffic controller shortage, and it's hoping that a new demographic of potential applicants can fill the ranks: Video gamers. …</p>",
       "published": "2026-04-13T17:12:09.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/12/12/shutterstock_angry_teenage_gamer.jpg"
+    },
+    {
+      "title": "RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop",
+      "link": "https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram",
+      "summary": "Microsoft just raised the prices across its line of Surface devices amid the global RAM shortage. Now, the 13-inch Surface Pro 11 and the 13.8-inch Surface Laptop 7 cost $500 more than their original starting price, going from $999 to $1,499, as reported earlier by Windows Central. Last year, Microsoft stopped selling the $999 versions [&#8230;]",
+      "published": "2026-04-13T16:45:41-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257745_Surface_Pro_AKrales_0329.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "WARNING: Oracle's AI obsession could mean higher prices and worse support",
@@ -266,6 +346,22 @@
       "image_url": "https://regmedia.co.uk/2026/04/13/shutterstock_2680135019.jpg"
     },
     {
+      "title": "NZXT to pay $3.45 million settlement over Flex PC rentals",
+      "link": "https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement",
+      "summary": "NZXT and its business partner Fragile have agreed to pay $3.45 million to settle a class-action lawsuit that accused the companies of attempting to \"scam\" consumers through their Flex PC rental service. The preliminary settlement was filed in a California District Court on April 7th to close a civil RICO case against the Flex program [&#8230;]",
+      "published": "2026-04-13T16:00:58-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25774873/nzxt_pc_case.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AI influencers are ‘everywhere’ at Coachella",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]",
+      "published": "2026-04-13T15:53:46-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ai-label-10.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Claude Code cache chaos creates quota complaints",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_code_cache_confusion/",
       "summary": "<h4>Dev reports suggest long sessions now burn through usage much faster</h4> <p>Anthropic last month reduced the TTL (time to live) for the Claude Code prompt cache from one hour to five minutes for many requests, but said this should not increase costs despite users reporting faster depleting quotas.…</p>",
@@ -274,36 +370,12 @@
       "image_url": "https://regmedia.co.uk/2026/04/13/shutterstock_2734669631.jpg"
     },
     {
-      "title": "Notepad sheds Copilot from toolbar as Microsoft gives subtlety a try",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/microsoft_notepad_copilot_icon/",
-      "summary": "<h4>AI gubbins still there, just tucked under 'Writing Tools'</h4> <p>Copilot is on its way out of Notepad, but a return to the basic text editor is not on the cards.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-13T15:01:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/03/21/copilot_shutterstock.jpg"
-    },
-    {
-      "title": "The Apple Watch Series 11 has returned to best-ever price",
+      "title": "The Apple Watch Series 11 has returned to its best-ever price",
       "link": "https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale",
       "summary": "If you’re still holding onto an older Apple Watch, now might be a good time to upgrade. Right now, the 42mm Apple Watch Series 11 with GPS is on sale for around $299 ($100 off) at Amazon, Best Buy, and Target, which is its best price to date. If you prefer a larger size, the [&#8230;]",
       "published": "2026-04-13T14:48:17-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0053.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Booking.com warns reservation data may have checked out with intruders",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/bookingcom_breach/",
-      "summary": "<h4>Travel giant says names, contact details, dates, and hotel messages potentially exposed</h4> <p>Booking.com is warning customers that their reservation details may have been exposed to unknown attackers, in the latest reminder that the travel giant still can't quite keep a lid on the data flowing through its platform.…</p>",
-      "published": "2026-04-13T14:25:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2018/04/25/keycard.jpg"
-    },
-    {
-      "title": "Microsoft attempts to untangle 'confusing' Windows Insider program",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/microsoft_windows_insider_refresh/",
-      "summary": "<h4>Controlled Feature Rollouts headed for the trash among other changes</h4> <p>Microsoft is giving the Windows Insider program another makeover in the hope of making it less baffling.…</p>",
-      "published": "2026-04-13T14:15:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2020/11/18/windows.jpg"
     },
     {
       "title": "Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
@@ -314,14 +386,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Veterans Affairs has lost track of software licenses amid $985M bill",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/va_software_licensing_gao/",
-      "summary": "<h4>Department putting systems in place to manage 'restrictive licensing practices'</h4> <p>A federal spending watchdog has found the Department of Veterans Affairs (VA) faced \"challenges\" in understanding the correct number of licenses it should hold for the top five vendors in its $985 million annual software expenditure.…</p>",
-      "published": "2026-04-13T13:26:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/02/05/shutterstock_va.jpg"
-    },
-    {
       "title": "You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts",
       "link": "https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor",
       "summary": "If you're having trouble deciding on a color for a new MacBook Neo, you might not have to choose just one. The folks over at MacWorld found that Apple doesn't appear to limit the colors of spare parts you can buy for your Neo, potentially allowing you to deck out your indigo laptop with pink-tinted [&#8230;]",
@@ -330,76 +394,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0312.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "UK defense startup to supply drone interceptors for Britain and allies",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/cambridge_aerospace_skyhammer_interceptor/",
-      "summary": "<h4>MoD plans rapid procurement of Cambridge Aerospace's Skyhammer system at home and abroad</h4> <p>Britain is set to buy interceptors from a homegrown startup to counter Iranian Shahed-style attack drones, equipping both its own armed forces and allies in the Persian Gulf region.…</p>",
-      "published": "2026-04-13T12:42:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/13/skyhammer2.jpg"
-    },
-    {
       "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
       "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
       "published": "2026-04-13T12:21:08-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Adobe finally patches PDF pest after months of abuse",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/adobe_reader_zeroday/",
-      "summary": "<h4>Reader and Acrobat flaw let booby-trapped documents profile targets and hijack machines</h4> <p>Adobe has released a fix for an Acrobat and Reader zero-day that <a href=\"https://www.theregister.com/2026/04/09/monthsold_adobe_reader_zeroday_uses/\" target=\"_blank\">attackers had been exploiting for months</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-13T11:57:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/13/shutterstock_adobe_reader.jpg"
-    },
-    {
-      "title": "Slate raises $650 million to make its budget electric truck",
-      "link": "https://www.theverge.com/transportation/911085/slate-truck-ev-fundraise-twg-global-bezos",
-      "summary": "Slate Auto, the EV startup backed by Jeff Bezos, raised $650 million to fund its effort to build an affordable electric pickup truck expected to start in the mid-$20,000s. The company plans on delivering its first EV later this year. The Series C round was led by TWG Global, headed by Guggenheim Partners founder and [&#8230;]",
-      "published": "2026-04-13T11:45:46-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Slate-Truck-5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
-      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to [&#8230;]",
-      "published": "2026-04-13T11:41:09-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s Pixel 10A is a good midrange phone that’s $50 off",
-      "link": "https://www.theverge.com/gadgets/910966/google-pixel-10a-sony-wf-1000xm6-earbuds-deal-sale",
-      "summary": "If it’s time for you to upgrade your phone, it’s worth considering the Pixel 10A, Google’s latest midrange phone that has some (but not all) of the new software features of the pricier $599 Pixel 10. Every color of the 128GB 10A — including the alluring “berry” tone — is down to $449 ($50 off) [&#8230;]",
-      "published": "2026-04-13T11:41:03-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pixel10apurplebkgd.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Pragmata is just okay, but it could’ve been great",
-      "link": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
-      "summary": "Over the last few years, Capcom has done an exceptional job of solidifying its lineup of big, long-running franchises. The likes of Monster Hunter, Resident Evil, and Street Fighter have all been on strong and consistent runs, an impressive thing given the current strain of uncertainty that runs through the games industry. And now the [&#8230;]",
-      "published": "2026-04-13T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/PRAGMATA_Lunar_Cityscape_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "SwitchBot’s button-pressing robot is now available with a rechargeable battery",
-      "link": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
-      "summary": "SwitchBot is introducing a new version of the tiny button-pressing robot that helped launch the company a decade ago. The functionality of the new SwitchBot Bot is exactly the same as the original that the company will continue to sell, but comes with a rechargeable battery instead of a disposable one. The SwitchBot Bot Rechargeable [&#8230;]",
-      "published": "2026-04-13T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/switchbotbotrechargeable1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Can Puck reinvent the news business for the influencer age?",
-      "link": "https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age",
-      "summary": "Today, I’m talking with Sarah Personette, CEO of Puck, which is a fancy new media company that’s been around for just about five years now. Puck hires big stars and gives them newsletters that are all mostly part of a subscription bundle. These newsletters are often must-reads in their categories — everyone in Hollywood reads [&#8230;]",
-      "published": "2026-04-13T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_Personette_Puck.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
