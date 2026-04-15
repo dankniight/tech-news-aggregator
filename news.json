@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T02:57:18.000793",
+  "lastUpdated": "2026-04-15T07:56:34.761430",
   "articles": [
     {
       "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
@@ -242,6 +242,38 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/amazon-accused-hiding-death-week.jpg?quality=85"
     },
     {
+      "title": "Orbital datacenter startup CEO admits launch economics don't fly, presses ahead regardless",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/orbital_space_datacenter_startup_economics/",
+      "summary": "<h4>Needs SpaceX et al to drop prices and give competitors a ride into space to make it work</h4> <p>A startup called Orbital has revealed a plan to build a 10,000-satellite neocloud in space – if Elon Musk delivers on his ambitious plans to increase launch capacity and reduce costs.…</p>",
+      "published": "2026-04-15T07:27:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/14/shutterstock_money_in_orbit.jpg"
+    },
+    {
+      "title": "The only technology that died more times than VR is AI, and that seems to have worked out",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/hardware_metaverse_will_happen/",
+      "summary": "<h4>The perfect combination of hardware and experiences will arrive, no matter what Zuck and Neal Stephenson think</h4> <p><strong>Opinion</strong>  Could the <a href=\"https://www.theregister.com/2026/03/25/meta_cuts_700/\" target=\"_blank\">recent death</a> of Meta's unloved and unused Horizon Worlds signal the demise of the wider metaverse?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-15T07:03:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/14/shutterstock_using_vr.jpg"
+    },
+    {
+      "title": "Boeing deliveries soar past Airbus for the first time in years, but this is no time to unbuckle your seat belt",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/boeing_airbus_deliveries/",
+      "summary": "<h4>Supply chain and engineering woes keep the supply of new planes sputtering</h4> <p>Boeing has delivered more commercial planes in a quarter than Airbus for the first time in seven years.…</p>",
+      "published": "2026-04-15T05:59:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/02/02/737_max_winglet.jpg"
+    },
+    {
+      "title": "AI-powered mainframe exits are a bubble set to pop: Gartner",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/",
+      "summary": "<h4>Analysts reckon 70 percent of projects will fail, and 75 percent of vendors in the field will go away</h4> <p>Most mainframe users who turn to AI for help migrating legacy code to alternative platforms are going to be very disappointed, according to analyst firm Gartner.…</p>",
+      "published": "2026-04-15T03:00:55.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/15/shutterstock_tech_bubble_bursting.jpg"
+    },
+    {
       "title": "Claude Code routines promise mildly clever cron jobs",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/claude_code_routines/",
       "summary": "<h4>Plus Anthropic has redesigned its Claude app</h4> <p>Anthropic has made it easier to automate Claude-oriented tasks without relying on autonomous agent software.…</p>",
@@ -306,44 +338,12 @@
       "image_url": "https://regmedia.co.uk/2025/07/25/bloom-energy.jpg"
     },
     {
-      "title": "California ghost-gun bill wants 3D printers to play cop, EFF says",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/",
-      "summary": "<h4>Proposed law could lock down open source tools and give vendors fresh reasons to inspect print files</h4> <p>California's proposed legislation to put the burden of blocking 3D-printed firearms onto printer manufacturers could effectively sideline open source tools and create new surveillance concerns, digital rights activists argue.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-14T17:25:36.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/22/fgc9.jpg"
-    },
-    {
-      "title": "GitHub invokes spirit of Phabricator with preview of Stacked PRs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/github_stacked_prs/",
-      "summary": "<h4>Long-familiar workflow lets developers split big code changes into smaller, easier-to-review chunks</h4> <p>GitHub has unveiled Stacked PRs, a new feature aimed at making large pull requests easier to review, manage, and move through the pipeline faster.…</p>",
-      "published": "2026-04-14T17:03:19.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/09/27/documents_image_via_shutterstock.jpg"
-    },
-    {
       "title": "The FCC just saved Netgear from its router ban for no obvious reason",
       "link": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
       "summary": "The United States' foreign router ban didn't make a whole lot of sense, and today may not change that. The FCC has just granted Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1st, 2027 - even though the company builds those devices in [&#8230;]",
       "published": "2026-04-14T16:57:07-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/White-House-internet.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Physicist reckons two-button calculator can do all elementary math",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/two_button_calculator/",
-      "summary": "<h4>Paper says a single binary operator could replace a lot of scientific heavy lifting</h4> <p>Every now and then, a researcher comes up with something that sounds either wrong or unoriginal to outsiders – yet carries just enough of a chance of being correct, novel, and consequential to demand a closer look.…</p>",
-      "published": "2026-04-14T16:06:30.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/14/shutterstock_scientificcalculator.jpg"
-    },
-    {
-      "title": "Amazon pays $11.5B to satisfy satellite-envy while cowering in Musk's shadow",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/amazon_globalstar_satellite_envy/",
-      "summary": "<h4>Deal only comes with 24 operational sats, but also an Apple deal, spectrum licenses, and plenty of IP</h4> <p>Amazon has agreed to pay more than $11.5 billion to expand its satellite constellation by about two dozen units with the acquisition of Globalstar. But it's more about the underlying technology that Amazon hopes will help it catch Elon Musk's Starlink. …</p>",
-      "published": "2026-04-14T15:58:18.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/10/05/kuiper-first-launch.jpg"
     },
     {
       "title": "Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale",
