@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T03:19:06.668784",
+  "lastUpdated": "2026-04-17T07:56:52.185728",
   "articles": [
     {
       "title": "ChatGPT’s “Honest Reaction” to a “Song” Composed Entirely of Gas-Passing Noises Will Make You Question Whether It’s Honestly Evaluating Your Other Brilliant Ideas",
@@ -162,14 +162,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/undersea-cable-1152x648.jpg"
     },
     {
-      "title": "Microsoft and Stellantis want to use AI to help car owners",
-      "link": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
-      "summary": "Digital services for brands from Jeep to Peugeot will feel the presence of AI.",
-      "published": "Thu, 16 Apr 2026 17:29:12 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271011411-1152x648.jpg"
-    },
-    {
       "title": "Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot",
       "link": "https://futurism.com/artificial-intelligence/allbirds-stock-now-crashing",
       "summary": "<p>\"The vast majority of times, these things end in tears.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/allbirds-stock-now-crashing\">Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -234,12 +226,52 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/starbucks-chatgpt-coffee.jpg?quality=85"
     },
     {
+      "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
+      "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+      "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+      "published": "Fri, 17 Apr 2026 03:15:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/PanCam_mast_fitted_to_ExoMars_rover-1-1152x648.jpg"
+    },
+    {
       "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
       "link": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
       "summary": "The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.",
       "published": "Fri, 17 Apr 2026 02:55:06 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649"
+    },
+    {
+      "title": "Support tech caught by 'Technician Aura': the bug that only hides when you're watching",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/on_call/",
+      "summary": "<h4>All that kit, and the fix was simply stepping aside</h4> <p><strong>On Call</strong>  Life is filled with random events, but <i>The Register</i> tries to make readers’ lives just a little more predictable by always using Friday morning to bring you a new instalment of On Call – the reader-contributed column that shares your tech support stories.…</p>",
+      "published": "2026-04-17T07:29:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/15/nano_banana_technician_aura.jpg"
+    },
+    {
+      "title": "Claude Opus wrote a Chrome exploit for $2,283",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
+      "summary": "<h4>Pause your Mythos panic because mainstream models anyone can use already pick holes in popular software</h4> <p>Anthropic withheld its <a href=\"https://www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/\" target=\"_blank\">Mythos</a> bug-finding model from public release due to concerns that it would enable attackers to find and exploit vulnerabilities before anyone could react.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-17T07:02:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2015/04/07/awsnap.png"
+    },
+    {
+      "title": "IOWN Global Forum targets datacenter interconnects to scatter AI infrastructure",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/iown_use_cases/",
+      "summary": "<h4>Fast WAN consortium thinks neoclouds are ripe for hookups</h4> <p>The IOWN Global Forum will likely focus on datacenter interconnect use cases in the, to help diverse providers of AI infrastructure ply their trade.…</p>",
+      "published": "2026-04-17T06:15:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/17/shutterstock_data_flow.jpg"
+    },
+    {
+      "title": "Cisco Wi-Fi boxes are filling their disks with 5MB of undeletable data every day",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisco_wifi_ap_useless_data/",
+      "summary": "<h4>Fix for critical flaw is an OS update you may not be able to make because the junk data uses all memory</h4> <p>More than 230 different models of Cisco Wi-Fi access points may be writing 5MB a day of nonessential data, filling their onboard flash memory to the point at which they lack space for future software updates.…</p>",
+      "published": "2026-04-17T04:35:46.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/17/shutterstock_wifi_death.jpg"
     },
     {
       "title": "IPv6 carried half of internet traffic – for one day, according to Google",
@@ -250,7 +282,7 @@
       "image_url": "https://regmedia.co.uk/2026/04/17/shutterstock_fingers_crossed.jpg"
     },
     {
-      "title": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researcher says",
+      "title": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/",
       "summary": "<h4>Bug or feature?</h4> <p>A design flaw – or expected behavior based on a bad design choice, depending on who is telling the story – baked into Anthropic's official Model Context Protocol (MCP) puts as many as 200,000 servers at risk of complete takeover, according to security researchers.…</p>",
       "published": "2026-04-16T22:45:37.00Z",
@@ -298,22 +330,6 @@
       "image_url": "https://regmedia.co.uk/2021/03/31/shutterstock_maine_house.jpg"
     },
     {
-      "title": "North Korea targets macOS users in latest heist",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/north_korea_social_engineering_macos/",
-      "summary": "<h4>Social engineering: 'low-cost, hard to patch, and scales well'</h4> <p>North Korean criminals set on stealing Apple users' credentials and cryptocurrency are using a combination of social engineering and a fake Zoom software update to trick people into manually running malware on their own computers, according to Microsoft.…</p>",
-      "published": "2026-04-16T18:20:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2016/11/10/shutterstock_worker_mac.jpg"
-    },
-    {
-      "title": "If you want into Anthropic's Claude club, you may have to show ID",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_claude_id_verification_persona/",
-      "summary": "<h4>Worse: Anthropic is using Persona, a privacy checker that rings alarm bells for the paranoids on Reddit</h4> <p>Anthropic may check your ID before letting you access certain Claude features, and the verification vendor it has picked is the same outfit that sparked controversy when Discord tested similar checks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-16T17:49:59.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/16/club_line_bar_bouncer.jpg"
-    },
-    {
       "title": "Gucci-branded Google smart glasses are coming next year",
       "link": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
       "summary": "Google is reportedly partnering with Gucci to make a pair of AI smart glasses stylish enough people might actually want to wear them. According to Reuters, Gucci parent company Kering is planning to launch the glasses sometime in 2027. Google's first pair of Android XR glasses, \"Project Aura,\" are expected to launch this year. They [&#8230;]",
@@ -344,22 +360,6 @@
       "published": "2026-04-16T16:23:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1185998268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "DuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/duckdb_uses_rdbms_lakehouse/",
-      "summary": "<h4>Batching teensy changes in chunks creates massive performance boost, DuckDB Labs team claims</h4> <p>The team behind in-process OLAP database DuckDB has put forward a solution to the \"small changes\" problem that they say plagues lakehouse implementations of the kind based on technologies from Databricks, Snowflake, Google, and others.…</p>",
-      "published": "2026-04-16T16:15:32.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/05/01/shutterstock_data_lake_house.jpg"
-    },
-    {
-      "title": "Iran has something America can only dream of: cheap broadband",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/iran_cheapest_broadband/",
-      "summary": "<h4>Shame about the internet blackouts and airstrikes</h4> <p>North America has some of the world's most expensive broadband, according to a new study, while Iran has the cheapest.…</p>",
-      "published": "2026-04-16T15:49:11.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/14/shutterstock_iran_cloud_computing.jpg"
     },
     {
       "title": "Live Nation says it will fight monopoly suit loss",
