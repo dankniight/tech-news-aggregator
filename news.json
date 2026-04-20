@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T03:28:45.440701",
+  "lastUpdated": "2026-04-20T08:18:07.618841",
   "articles": [
     {
       "title": "OpenAI’s existential questions",
@@ -242,6 +242,30 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dogstar3-1152x648.jpg"
     },
     {
+      "title": "Next.js developer Vercel warns of customer credential compromise",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/",
+      "summary": "<h4>Blames outfit called Context.ai, which reckons an agentic OAuth tangle caused the incident</h4> <p>Vercel, the company that created the open source Next.js web development framework, has a data leak that led to compromise of some customer credentials, and blamed an outfit called Context.ai for the mess.…</p>",
+      "published": "2026-04-20T07:31:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/20/shutterstock_tangled_network.jpg"
+    },
+    {
+      "title": "'Invisible mouse' made a mess of PC rebuild",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/who_me/",
+      "summary": "<h4>You can't fix what you can't see – especially when your workspace is a maelstrom</h4> <p><strong>Who, Me?</strong>  Welcome to yet another Monday, and therefore to this week's edition of Who, Me? For those unfamiliar, it's <i>The Register</i>'s reader-contributed column that shares your stories of workplace messes, and how you tried to clean them up without dirtying your career prospects.…</p>",
+      "published": "2026-04-20T07:01:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/17/shutterstock_editorial_only_computer_repair.jpg"
+    },
+    {
+      "title": "NASA working on ‘Big Bang’ upgrade to keep the Voyagers alive for longer",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/voyager_big_bang_upgrades/",
+      "summary": "<h4>Tests scheduled for May can’t come soon enough after VGER 1 power glitch led to instrument shutdown</h4> <p>NASA has revealed it’s working on a plan called “The Big Bang” that it hopes will extend the working lives of the Voyager probes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-20T05:52:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/05/19/nasa_voyager_probe.jpg"
+    },
+    {
       "title": "Indonesia’s game rating system paused amid claims it leaked developer creds and glimpses of major new titles",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/asia_tech_news_roundup/",
       "summary": "<h4>PLUS: India bins ID app pre-install plan; Robot wins Beijing half-marathon; AI writing Manga speech bubbles; and more!</h4> <p><strong>Asia In Brief</strong>  Indonesia’s Ministry of Communication and Digital Affairs has suspended the nation’s game rating system (IGRS) after claims the service leaked developer creds and video of unreleased games.…</p>",
@@ -376,30 +400,6 @@
       "published": "2026-04-17T21:46:32.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/04/17/core_series_3_chip.jpg"
-    },
-    {
-      "title": "Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/anthropic_debuts_claude_design/",
-      "summary": "<h4>The bar for creating visual assets has been lowered to the ability to converse with a model</h4> <p>Anthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called Claude Design that creates visual assets, potentially putting some folks out of work.…</p>",
-      "published": "2026-04-17T20:38:02.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/10/06/shutterstock_ai_design.jpg"
-    },
-    {
-      "title": "CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/",
-      "summary": "<h4>Bug hiding in plain sight for over a decade lands on KEV list</h4> <p>CISA is sounding the alarm on a newly-exploited Apache ActiveMQ bug, ordering federal agencies to patch within two weeks as attackers circle a flaw that's been quietly lurking for more than a decade.…</p>",
-      "published": "2026-04-17T17:09:51.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/06/16/angle_grinder_image_via_shutterstock.jpg"
-    },
-    {
-      "title": "Opsec oopsie: Dutch navy frigate location outed by mailing it a Bluetooth tracker",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/dutch_navy_frigate_tracked/",
-      "summary": "<h4>Or, how public information and a €5 tracker exposed an avoidable opsec lapse</h4> <p>Militaries around the world spend countless hours training, developing policies, and implementing best operational security practices, so imagine the size of the egg on the face of the Dutch navy when journalists managed to track one of its warships for less than the cost of some hagelslag and a coffee.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-17T16:31:32.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/02/24/radar1.jpg"
     }
   ]
 }
