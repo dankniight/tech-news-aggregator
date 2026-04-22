@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T03:19:12.366389",
+  "lastUpdated": "2026-04-22T07:57:21.885084",
   "articles": [
     {
       "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
@@ -242,6 +242,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-ilearning-fraud-crime.jpg?quality=85"
     },
     {
+      "title": "Mythos found 271 Firefox flaws – but none a human couldn’t spot",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/mozilla_firefox_mythos_future_defenders/",
+      "summary": "<h4>Mozilla CTO says AI means developers finally have a chance to get on top of security</h4> <p>The Mozilla Foundation has revealed it tested Anthropic’s bug-finding “Mythos” AI model and feels the results it experienced represent a watershed moment for software defenders.…</p>",
+      "published": "2026-04-22T04:32:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/22/shutterstock_light_at_the_end_of_the_tunnel.jpg"
+    },
+    {
       "title": "Magnificent irony as Meta staff unhappy about running surveillance software on work PCs",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
       "summary": "<h4>Zuck reportedly needs to capture workers’ keystrokes to build AI</h4> <p>Meta, the company built on watching everything its billions of users do online so it can keep them clicking on ragebait and targeted ads, is reportedly now installing surveillance software on employees’ work computers.…</p>",
@@ -336,14 +344,6 @@
       "published": "2026-04-21T15:50:06.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2016/11/10/shutterstock_worker_mac.jpg"
-    },
-    {
-      "title": "Anthropic bakes memory fixes into Bun 1.1.13 as developers complain of leaks",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/anthropics_bun_1113_released_with_memory_fixes/",
-      "summary": "<h4>Bun is fast as a toolkit but can leak memory in production, causing slowdowns and crashes</h4> <p>A new version of the Bun JavaScript runtime and toolkit is out with enhanced testing support and improved memory management. The latter is a critical issue to devs and follows complaints of memory leaks causing problems in production.…</p>",
-      "published": "2026-04-21T15:27:15.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/01/14/shutterstock_dev.jpg"
     },
     {
       "title": "Tim Cook was an innovator — just not the Jobs kind",
