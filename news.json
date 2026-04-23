@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T03:22:15.312432",
+  "lastUpdated": "2026-04-23T08:03:16.814848",
   "articles": [
     {
       "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
@@ -114,28 +114,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/20260311_QOGS-05229-1152x648.jpg"
     },
     {
-      "title": "France confirms data breach at government agency that manages citizens’ IDs",
-      "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
-      "summary": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
-      "published": "Wed, 22 Apr 2026 19:34:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/france-flag.jpg?resize=1200,900"
-    },
-    {
       "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
       "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
       "summary": "When authentication fails, things can go very, very wrong.",
       "published": "Wed, 22 Apr 2026 19:32:56 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
-    },
-    {
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "summary": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
-      "published": "Wed, 22 Apr 2026 19:13:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-pop-up-notifications.jpg?resize=1200,900"
     },
     {
       "title": "Anthropic tested removing Claude Code from the Pro plan",
@@ -242,9 +226,41 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/prego-pivots-pasta-sauce-microphone.jpg?quality=85"
     },
     {
-      "title": "Kubernetes sets a new standard for release notes with Japanese poetry, also kills Ingress NGINX",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "published": "Thu, 23 Apr 2026 04:38:45 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1230168738.jpg?resize=1200,800"
+    },
+    {
+      "title": "Shade lands $14M to let creative teams search their video libraries in plain English",
+      "link": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
+      "summary": "Shade has its own filesystem that lets you \"stream\" files directly to your local drive",
+      "published": "Thu, 23 Apr 2026 04:17:52 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Brandon_emerson_Shade_feat.jpg?resize=1200,675"
+    },
+    {
+      "title": "Pass the key, passwords have passed their sell-by date",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ncsc_passkey_tech_now_reliable/",
+      "summary": "<h4>NCSC passes judgment: passkeys pass muster, passwords fail</h4> <p>The UK's National Cyber Security Centre (NCSC) has officially endorsed passkeys as the default authentication standard, marking the first time the agency has told consumers to move away from passwords entirely.…</p>",
+      "published": "2026-04-23T08:00:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/05/02/passkey_shutterstock.jpg"
+    },
+    {
+      "title": "Honor’s new phones look like iPhones for Android",
+      "link": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android",
+      "summary": "Honor has announced the 600 and 600 Pro, which it calls \"accessible flagships,\" and they look… familiar. Especially in that orange. The Pro makes the iPhone comparison especially obvious thanks to its triple rear camera - it even has the same flash layout - while the 600 is just a hair subtler because it drops [&#8230;]",
+      "published": "2026-04-23T04:00:57-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/honor-600-pro-orange.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Kubernetes explains the release that kills Ingress NGINX with Japanese poetry and art",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/kubernetes_1_36_haru/",
-      "summary": "<h4>Release team explains links between Version 1.36 and classic print <i>The Great Wave off Kanagawa</i></h4> <p>Kubernetes issued a new release called “Haru” on Wednesday, and the release notes and logo might be more interesting than the software.…</p>",
+      "summary": "<h4>Release team sets new standard for release notes by linking between Version 1.36 and classic print <i>The Great Wave off Kanagawa</i></h4> <p>Kubernetes issued a new release called “Haru” on Wednesday, and the release notes and logo might be more interesting than the software.…</p>",
       "published": "2026-04-23T01:44:41.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2024/02/23/leonardo_ai_japan_ocean_hokusai.jpg"
@@ -362,14 +378,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Thunderbird in hand worth 2 Outlooks as fresh FOSS fave and Firefox arrive",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/ffox_and_tbird_150/",
-      "summary": "<h4>Still here, still changing, still relevant, still your best choice</h4> <p>If you're stuck without access to tech support – say, <a href=\"https://www.theregister.com/2026/04/02/artemis_astronauts_microsoft_outlook_broken/\" target=\"_blank\">half way to the Moon</a> – then you're better off with a single install of Thunderbird than any number of Outlooks.…</p>",
-      "published": "2026-04-22T16:06:22.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/22/sstock_ffox.jpg"
-    },
-    {
       "title": "Alexis Ohanian shocks Washington with pro-immigration remarks",
       "link": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
       "summary": "Hello and welcome to Regulator, a newsletter for Verge readers about tech politics, political tech, and how they're muddying the waters of Washington, DC. My birthday is this week, and if you're not a Verge subscriber but would like to wish me a happy birthday, you should subscribe here, because that would be the best [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2026-04-22T13:58:23-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562170/ember_feb2022_benwaugh_6_EDIT_3000.jpg?quality=90&#038;strip=all&#038;crop=20.4,21.289355322339,64.2,61.619190404798"
-    },
-    {
-      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
-      "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
-      "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them [&#8230;]",
-      "published": "2026-04-22T13:43:38-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/sony_ace_robot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
