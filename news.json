@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T03:35:41.647458",
+  "lastUpdated": "2026-04-27T08:33:37.265638",
   "articles": [
     {
       "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
@@ -242,6 +242,22 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-1152x648.jpg"
     },
     {
+      "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
+      "summary": "<h4>AI vuln-hunter finds what humans taught it to find. Funny that</h4> <p><strong>Opinion</strong>  In retrospect, calling it Mythos made it a hostage to fortune. Anthropic may have hoped that the name implied its AI code security model had mythical god-like powers, but there's an alternate reading. Another definition for Mythos is a set of beliefs of obscure origin which are incompatible with reality.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-27T08:30:15.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2016/08/09/swisscheese.jpg"
+    },
+    {
+      "title": "PowerPoint punishment sent users into an infinite loop after lunch",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/who_me/",
+      "summary": "<h4>There was only one ESC from sneaky screenshots and fake BSODs</h4> <p><strong>Who, Me?</strong>  Welcome to another instalment of Who, Me? It's <em>The Register</em>'s Monday column that shares your stories of mistakes, occasional malice, and how you came out the other side.…</p>",
+      "published": "2026-04-27T07:00:09.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/24/shutterstock_2537240871.jpg"
+    },
+    {
       "title": "Google Cloud Next proves what we suspected: Everything is AI now",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/google_cloud_next_proves_what/",
       "summary": "<h4>Join us for this week's Kettle as we dive into GCN and the latest not-so-alarming revelations about Mythos</h4> <p><strong>KETTLE</strong>  If you needed further evidence that AI comes first in pretty much everything nowadays, look no further than this year's Google Cloud Next show, which happened last week.…</p>",
@@ -384,22 +400,6 @@
       "published": "2026-04-24T17:22:41.00Z",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2026/04/24/shutterstock_1854849526.jpg"
-    },
-    {
-      "title": "Pentagon wants to water down drone program with autonomous subs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/pentagons_deep_sea_drones/",
-      "summary": "<h4>What, you didn't expect autonomous military craft to stay in the sky forever?</h4> <p>Drones: they're not just for the sky anymore. DARPA is seeking compact deep-ocean autonomous craft developed faster, smaller, and cheaper than today's full-ocean-depth AUV systems.…</p>",
-      "published": "2026-04-24T16:34:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2015/07/03/ocean_648.jpg"
-    },
-    {
-      "title": "US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/",
-      "summary": "<h4>Silicon often from US, but the kit from APAC and elsewhere</h4> <p>America's telco regulator has clarified its ban on foreign-made routers also includes mobile hotspots and domestic routers that use a 5G cellular connection to the internet.…</p>",
-      "published": "2026-04-24T16:03:14.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/09/28/shutterstock_router.jpg"
     }
   ]
 }
