@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T14:08:40.632355",
+  "lastUpdated": "2026-04-30T19:40:18.284980",
   "articles": [
-    {
-      "title": "On the stand, Elon Musk can’t escape his own tweets",
-      "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-      "published": "Wed, 29 Apr 2026 23:58:36 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024"
-    },
-    {
-      "title": "Meta is still burning money on AR/VR",
-      "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "published": "Wed, 29 Apr 2026 23:58:26 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/meta-distorted-glitched.jpg?resize=1200,675"
-    },
     {
       "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
       "link": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/",
@@ -50,28 +34,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1258714334-1024x648.jpg"
     },
     {
-      "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-      "link": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
-      "summary": "Uninsurable war damage is forcing tech companies to rethink Middle East plans.",
-      "published": "Wed, 29 Apr 2026 17:27:53 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2244357858-1024x648.jpg"
-    },
-    {
       "title": "OpenAI Just Published an Absolutely Bizarre Blog Post",
       "link": "https://futurism.com/artificial-intelligence/openai-just-published-an-absolutely-bizarre-blog-post",
       "summary": "<p>Mindboggling.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-just-published-an-absolutely-bizarre-blog-post\">OpenAI Just Published an Absolutely Bizarre Blog Post</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 29 Apr 2026 17:01:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-just-published-an-absolutely-bizarre-blog-post.jpg?quality=85"
-    },
-    {
-      "title": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
-      "link": "https://arstechnica.com/gadgets/2026/04/motorola-reveals-2026-razr-lineup-with-modest-upgrades-and-higher-prices/",
-      "summary": "Motorola's foldable lineup is bigger and more spendy than ever.",
-      "published": "Wed, 29 Apr 2026 16:55:58 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/motorola-razr-ultra-2026_-Lifestyle-Imagery_0223-1152x648.jpg"
     },
     {
       "title": "Startup Says It Can Read Your Brain Signals Using a Pair of Headphones",
@@ -82,63 +50,127 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/neurable-startup-brain-signals-headphones.jpg?quality=85"
     },
     {
-      "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
-      "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
-      "summary": "Framework charges nearly double for the 12GB version of the mobile RTX 5070.",
-      "published": "Wed, 29 Apr 2026 16:06:28 +0000",
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+      "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+      "summary": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
+      "published": "Thu, 30 Apr 2026 19:36:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/cpanel-security-flaw-bug.jpeg?resize=1200,784"
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "published": "Thu, 30 Apr 2026 19:27:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
+    },
+    {
+      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+      "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+      "summary": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March.",
+      "published": "Thu, 30 Apr 2026 18:56:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-615658438.jpg?w=1024"
+    },
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "published": "Thu, 30 Apr 2026 18:20:03 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/OopenAI-how-to-1.jpg?resize=1200,600"
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+      "published": "Thu, 30 Apr 2026 18:03:57 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801"
+    },
+    {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+      "published": "Thu, 30 Apr 2026 17:53:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/bms2e11-featured.png?resize=1200,675"
+    },
+    {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "published": "Thu, 30 Apr 2026 17:46:54 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200"
+    },
+    {
+      "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
+      "link": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/",
+      "summary": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer.",
+      "published": "Thu, 30 Apr 2026 17:24:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795"
+    },
+    {
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      "published": "Thu, 30 Apr 2026 17:15:19 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/link-2026-04-30-at-1.04.31-PM.jpg?resize=1200,659"
+    },
+    {
+      "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
+      "link": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
+      "summary": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
+      "published": "Thu, 30 Apr 2026 16:20:45 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg"
     },
     {
-      "title": "Head of NASA Calls for Pluto to Be Made a Planet Again",
-      "link": "https://futurism.com/space/head-nasa-pluto-planet",
-      "summary": "<p>\"Make Pluto A Planet Again.\"</p>\n<p>The post <a href=\"https://futurism.com/space/head-nasa-pluto-planet\">Head of NASA Calls for Pluto to Be Made a Planet Again</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 29 Apr 2026 15:11:20 -0400",
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+      "published": "Thu, 30 Apr 2026 16:06:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/Salesforce_logo-e1672835031758.jpg?resize=1200,675"
+    },
+    {
+      "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
+      "link": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
+      "summary": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
+      "published": "Thu, 30 Apr 2026 15:37:41 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png"
+    },
+    {
+      "title": "OpenAI Strangely Concerned About Goblins",
+      "link": "https://futurism.com/artificial-intelligence/openai-concerned-about-goblins",
+      "summary": "<p>Tackling the real issues.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-concerned-about-goblins\">OpenAI Strangely Concerned About Goblins</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 30 Apr 2026 15:27:22 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/head-nasa-pluto-planet.jpg?quality=85"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-concerned-about-goblins.jpg?quality=85"
     },
     {
-      "title": "AI Spy Cameras Suddenly Blanketing America",
-      "link": "https://futurism.com/future-society/ai-cameras-surveillance-usa",
-      "summary": "<p>Be on your best behavior.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-cameras-surveillance-usa\">AI Spy Cameras Suddenly Blanketing America</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 29 Apr 2026 14:13:34 -0400",
+      "title": "If You Bet on Polymarket, This New Study May Cause You Physical Pain",
+      "link": "https://futurism.com/future-society/polymarket-gambling-sharks",
+      "summary": "<p>Who could've guessed?</p>\n<p>The post <a href=\"https://futurism.com/future-society/polymarket-gambling-sharks\">If You Bet on Polymarket, This New Study May Cause You Physical Pain</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 30 Apr 2026 14:24:09 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-cameras-surveillance-usa.jpg?quality=85"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/polymarket-gambling-sharks.jpg?quality=85"
     },
     {
-      "title": "Uninstalls of ChatGPT Are Spiking at the Worst Time Imaginable for OpenAI",
-      "link": "https://futurism.com/artificial-intelligence/downloads-chatgpt-slowing-worst-time-openai",
-      "summary": "<p>It's not looking good.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/downloads-chatgpt-slowing-worst-time-openai\">Uninstalls of ChatGPT Are Spiking at the Worst Time Imaginable for OpenAI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 29 Apr 2026 12:58:51 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/downloads-chatgpt-slowing-worst-time-openai.jpg?quality=85"
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "summary": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
+      "published": "Thu, 30 Apr 2026 14:20:29 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg"
     },
     {
-      "title": "Another Military UFO Guy Just Died",
-      "link": "https://futurism.com/space/another-military-ufo-guy-died",
-      "summary": "<p>The plot thickens.</p>\n<p>The post <a href=\"https://futurism.com/space/another-military-ufo-guy-died\">Another Military UFO Guy Just Died</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 29 Apr 2026 11:54:32 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/another-military-ufo-guy-died.jpg?quality=85"
-    },
-    {
-      "title": "Man Trapped in Dystopian Nightmare Thanks to AI Surveillance Cameras Flagging His Every Move",
-      "link": "https://futurism.com/future-society/flock-ai-surveillance-colorado",
-      "summary": "<p>\"All I know is I'm in the system now. And there's really no easy way to get out of the system once you're in it.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/flock-ai-surveillance-colorado\">Man Trapped in Dystopian Nightmare Thanks to AI Surveillance Cameras Flagging His Every Move</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 29 Apr 2026 10:57:23 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/flock-ai-surveillance-colorado.jpg?quality=85"
-    },
-    {
-      "title": "Dark Cloud Gathers as Bill Comes Due for AI Industry",
-      "link": "https://futurism.com/artificial-intelligence/dark-cloud-bill-comes-due-ai-industry",
-      "summary": "<p>Cheap AI access is \"no longer sustainable.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/dark-cloud-bill-comes-due-ai-industry\">Dark Cloud Gathers as Bill Comes Due for AI Industry</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 29 Apr 2026 10:13:13 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/dark-cloud-bill-comes-due-ai-industry.jpg?quality=85"
-    },
-    {
-      "title": "More than half of all \"long shot\" bets on Polymarket pay off",
+      "title": "More than half of all  Polymarket \"long shot\" bets on military action pay off",
       "link": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
       "summary": "Sensitive information and the prediction markets can be a winning combination.",
       "published": "Thu, 30 Apr 2026 13:16:04 +0000",
@@ -146,36 +178,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-1152x648.jpg"
     },
     {
-      "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
-      "link": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/",
-      "summary": "As AI-generated artists and tracks flood music streaming platforms, Spotify is rolling out a new “Verified by Spotify” badge to help listeners more easily identify authentic human artists. To receive the badge, artists must meet certain criteria. Spotify looks for an identifiable artist presence both on and off platform, like concert dates, merch, and linked [&#8230;]",
-      "published": "Thu, 30 Apr 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/S4A_Verified_Header_Ravyn.jpg?resize=1200,683"
+      "title": "If OpenAI Loses This Trial, It Could Effectively Be Eliminated in Its Current Form",
+      "link": "https://futurism.com/future-society/openai-collapse-weeks-elon-musk-lawsuit",
+      "summary": "<p>The timing of Elon Musk's lawsuit couldn't be worse for OpenAI.</p>\n<p>The post <a href=\"https://futurism.com/future-society/openai-collapse-weeks-elon-musk-lawsuit\">If OpenAI Loses This Trial, It Could Effectively Be Eliminated in Its Current Form</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 30 Apr 2026 13:10:57 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-collapse-weeks.jpg?quality=85"
     },
     {
-      "title": "Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed",
-      "link": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
-      "summary": "Netflix is redesigning its mobile app and introducing Clips, a vertical video feed intended to help users discover new content by sharing highlights from original Netflix programming.",
-      "published": "Thu, 30 Apr 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/en-US-VVF-UI-Still.jpg?resize=1200,675"
+      "title": "D4vd Bought Chainsaws and Body Bag on Amazon After Murder, Prosecutors Say, in the Most Grisly Case of Internet Brain Rot We’ve Ever Heard",
+      "link": "https://futurism.com/future-society/tesla-driver-d4vd-chainsaws-body-bag-amazon",
+      "summary": "<p>This is incredibly dark.</p>\n<p>The post <a href=\"https://futurism.com/future-society/tesla-driver-d4vd-chainsaws-body-bag-amazon\">D4vd Bought Chainsaws and Body Bag on Amazon After Murder, Prosecutors Say, in the Most Grisly Case of Internet Brain Rot We&#8217;ve Ever Heard</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 30 Apr 2026 12:20:13 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/tesla-driver-d4vd-chainsaws-body-bag-amazon.jpg?quality=85"
     },
     {
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
-      "published": "Thu, 30 Apr 2026 12:08:45 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024"
-    },
-    {
-      "title": "Instagram cracks down on content aggregators",
-      "link": "https://techcrunch.com/2026/04/30/instagram-restricts-reach-of-content-aggregators-in-new-crackdown/",
-      "summary": "The update targets content aggregators that don't post original content and instead simply re-upload others' posts.",
-      "published": "Thu, 30 Apr 2026 12:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801"
+      "title": "How to Get Rid of Reddit’s Giant App-Shilling Popup That Breaks Its Entire Mobile Site",
+      "link": "https://futurism.com/future-society/how-to-get-rid-of-reddit-app-popup",
+      "summary": "<p>Here's how to fix it.</p>\n<p>The post <a href=\"https://futurism.com/future-society/how-to-get-rid-of-reddit-app-popup\">How to Get Rid of Reddit&#8217;s Giant App-Shilling Popup That Breaks Its Entire Mobile Site</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 30 Apr 2026 11:40:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/how-to-get-rid-of-reddit-app-popup.jpg?quality=85"
     },
     {
       "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
@@ -184,6 +208,14 @@
       "published": "Thu, 30 Apr 2026 11:15:43 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-1024x648.jpg"
+    },
+    {
+      "title": "There’s a Hidden Shortcut to Mars, Scientific Paper Finds",
+      "link": "https://futurism.com/space/hidden-shortcut-mars",
+      "summary": "<p>This could cut down the length of a round trip significantly.</p>\n<p>The post <a href=\"https://futurism.com/space/hidden-shortcut-mars\">There&#8217;s a Hidden Shortcut to Mars, Scientific Paper Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 30 Apr 2026 11:00:41 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/hidden-shortcut-mars.jpg?quality=85"
     },
     {
       "title": "The hidden cost of Google's AI defaults and the illusion of choice",
@@ -202,44 +234,124 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/mark-zuckerberg-shot-down-by-china_dd2f40.jpg?quality=85"
     },
     {
-      "title": "Users Furious as Reddit Intentionally Breaks Its Mobile Website, Demanding Users Download Its App Instead",
+      "title": "Reddit Intentionally Breaks Its Mobile Website, Demanding Users Download Its App Instead",
       "link": "https://futurism.com/future-society/reddit-breaks-mobile-website-download-app",
-      "summary": "<p>\"Thanks, Reddit. Now it'll be easier for me to quit you!\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/reddit-breaks-mobile-website-download-app\">Users Furious as Reddit Intentionally Breaks Its Mobile Website, Demanding Users Download Its App Instead</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"Thanks, Reddit. Now it'll be easier for me to quit you!\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/reddit-breaks-mobile-website-download-app\">Reddit Intentionally Breaks Its Mobile Website, Demanding Users Download Its App Instead</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 30 Apr 2026 08:42:46 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/reddit-breaks-mobile-website-download-app.jpg?quality=85"
     },
     {
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-      "published": "Thu, 30 Apr 2026 03:58:22 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800"
+      "title": "FBI cyber boss: China's hacker-for-hire ecosystem 'out of control'",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/fbi_cyber_boss_chinas_hackerforhire/",
+      "summary": "<h4>One alleged cyber contractor was extradited to the US over the weekend</h4> <p>China's \"hacker-for-hire ecosystem has gotten out of control,\" according to Brett Leatherman, assistant director of the FBI's cyber division.…</p>",
+      "published": "2026-04-30T19:30:53.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/09/21/hacker_shutterstock.jpg"
     },
     {
-      "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
-      "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
-      "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
-      "published": "Thu, 30 Apr 2026 01:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1213174164.jpg?resize=1200,800"
+      "title": "Phone users know when to hold ’em, delay upgrades amid inflation",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/phone_buyers_opt_to_wait/",
+      "summary": "<h4>Analyst says handsets now stay in pockets for 4.2 years on average</h4> <p>Remember the early days of the smartphone revolution when, even after six months, your phone felt outdated? Not anymore. Smartphone replacement cycles are getting longer as discretionary household budgets come under pressure from inflation, with demand for new devices expected to fall for the rest of this year.…</p>",
+      "published": "2026-04-30T18:54:07.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2025/10/28/shutterstock_2576345183.jpg"
     },
     {
-      "title": "Amazon’s cloud business is surging — and so is its capital spending",
-      "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-      "published": "Thu, 30 Apr 2026 00:14:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800"
+      "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/",
+      "summary": "<h4>Networking kit arrives just in time for Nvidia's 1.6 Tbps ConnectX-9 NICs</h4> <p>If you thought 800 Gbps Ethernet was fast, just wait. Celestica's latest switches cram 64 1.6 Tbps ports into a single chassis.…</p>",
+      "published": "2026-04-30T18:18:26.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/02/23/shutterstock_wifi_speed.jpg"
     },
     {
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-      "published": "Thu, 30 Apr 2026 00:07:15 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800"
+      "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
+      "summary": "<h4>This CVSS 10.0 RCE vuln has been patched, automatically for some, so better check those workflows</h4> <p>If you use Gemini CLI, watch out: Google has patched a CVSS 10.0 vulnerability in its command-line AI tool and is warning anyone running it in headless mode, or through GitHub Actions, to review their workflows.…</p>",
+      "published": "2026-04-30T17:15:13.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/30/shutterstock_2652360739.jpg"
+    },
+    {
+      "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
+      "summary": "<h4>Two computer crime allegations follow up to 18M lines of data surfacing online</h4> <p>French prosecutors say police detained a 15-year-old on April 25 over the alleged theft of millions of records from France Titres (ANTS), the agency handling secure documents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-30T16:39:22.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/02/10/shutterstock_paris_france.jpg"
+    },
+    {
+      "title": "Zed team releases version 1.0 of Rust-built editor: Traditional editor and AI tool",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/zed_team_releases_version_10/",
+      "summary": "<h4>Team wins praise for adding 'disable all AI features' setting for devs who want a code editor to be only a code editor</h4> <p>The Rust-built Zed editor has reached version 1.0, released yesterday, with development led by former members of the Atom team at GitHub.…</p>",
+      "published": "2026-04-30T16:17:46.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/30/shutterstock_2769110807.jpg"
+    },
+    {
+      "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+      "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+      "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will be able [&#8230;]",
+      "published": "2026-04-30T15:14:23-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmode_d8bb69.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
+      "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+      "summary": "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. After winning a $375 million jury award against Meta in a trial that argued the company misled [&#8230;]",
+      "published": "2026-04-30T15:05:01-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AWS says acute server memory shortage is driving customers to the cloud",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/server_memory_shortage_pushing_you/",
+      "summary": "<h4>When you can't get 'em with a 'transformation plan,' supply chain pain will do the job</h4> <p>The great memory shortage is having yet another effect, pushing enterprises into the waiting arms of the cloud operators as they can't secure enough on-prem compute themselves.…</p>",
+      "published": "2026-04-30T15:02:53.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2018/08/10/shutterstock_690171136.jpg"
+    },
+    {
+      "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+      "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+      "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then said work may [&#8230;]",
+      "published": "2026-04-30T15:00:45-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SAROS_KEYART_HORIZONTAL_nologo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
+      "published": "2026-04-30T15:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Survey says no, American workers are not keen on Microsoft's AI",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/survey_us_workers_e7_ms_ai/",
+      "summary": "<h4>Lock-in worries threaten to dampen the E7 launch party</h4> <p>The Coalition for Fair Software Licensing has published research showing that US workers reckon Microsoft is using its productivity tools to lock their employers into the company's AI services.…</p>",
+      "published": "2026-04-30T14:19:08.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/30/shutterstock_2522929613.jpg"
+    },
+    {
+      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
+      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller [&#8230;]",
+      "published": "2026-04-30T14:16:57-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Xbox owners can now disable Quick Resume for specific games",
+      "link": "https://www.theverge.com/games/921504/xbox-update-quick-resume-disable",
+      "summary": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. Quick Resume, which lets you swap between your games with minimal wait time, is one of the best features on the Xbox Series X / S consoles. But it can also [&#8230;]",
+      "published": "2026-04-30T13:51:26-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "SAP user group slams 'uncertainty' in ERP giant's API policy",
@@ -258,148 +370,36 @@
       "image_url": "https://regmedia.co.uk/2024/03/19/shutterstock_nadella.jpg"
     },
     {
-      "title": "Fewer users, fatter wallets is why Anthropic tops OpenAI in LLM revenue stakes",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/openai_anthropic_top_lines_research_counterpoint/",
-      "summary": "<h4>AI boom splits between companies hoarding eyeballs and those actually charging for them</h4> <p>Anthropic is pulling in more LLM revenue than OpenAI, despite having a fraction of the users.…</p>",
-      "published": "2026-04-30T12:20:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/05/16/leonardo_ai_llm_battle.jpg"
-    },
-    {
-      "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
-      "summary": "<h4>Turns out the real problem is not AI but staff still clicking on dodgy emails from 'IT support'</h4> <p>Nearly half of UK businesses are still getting breached, and in many cases, the attacker's big breakthrough is an employee clicking \"sure, why not\" on a fake login page.…</p>",
-      "published": "2026-04-30T11:35:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/07/07/shutterstock_login.jpg"
-    },
-    {
-      "title": "What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/chinese_spies_lurking_networks/",
-      "summary": "<h4>Just in time for the Trump-Xi summit</h4> <p><strong>Exclusive</strong>  A novel China-linked threat group infiltrated more than a dozen critical networks in Poland, Asian countries, and possibly beyond, beginning in December 2024 and with activity uncovered as recently as this month.…</p>",
-      "published": "2026-04-30T11:00:08.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/10/29/shutterstock_china_flag_code.jpg"
-    },
-    {
-      "title": "Bug of the year (so far): Nasty cPanel vulnerability probably exploited as a 0-day",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/cpanel_whn_cves/",
-      "summary": "<h4>Emergency patches out now for those managing the millions of domains assumed to be affected</h4> <p>Emergency patches are available for a critical vulnerability in cPanel and WHM that allows attackers to bypass authentication and gain root access to servers managed using it.…</p>",
-      "published": "2026-04-30T10:14:07.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2023/05/16/cables_shutterstock.jpg"
-    },
-    {
-      "title": "How to win — and lose — Decoder",
-      "link": "https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview",
-      "summary": "This interview has been lightly edited for length and clarity.&#160; Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer, and I&#8217;m joined by host and very occasional guest, Nilay Patel. Nilay, welcome back to your own show. Hello. I hate being the guest. Now, you [&#8230;]",
-      "published": "2026-04-30T10:00:00-04:00",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
+      "published": "2026-04-30T12:57:14-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Trophy_gif.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Samsung says the RAM shortage could get even worse next year",
-      "link": "https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027",
-      "summary": "There may be a long wait before the end of the RAM shortage that's driving up prices on everything from phones to gaming handhelds. During an earnings call on Thursday, Samsung predicted that the severe memory shortage, driven by demand from AI data centers, will not only continue next year, but likely get worse, as [&#8230;]",
-      "published": "2026-04-30T09:48:59-04:00",
+      "title": "Meta is running get-rich-quick ads for its AI tools",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+      "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to build [&#8230;]",
+      "published": "2026-04-30T12:48:13-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK075_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/get-rich-quick_70fa93.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds",
-      "link": "https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds",
-      "summary": "Blaze Entertainment, the company behind the cartridge-based Evercade consoles, has announced two new handhelds that reimagine iconic '80s personal computers as portable gaming machines. The Spectrum Handheld and The C64 Handheld eschew the productivity aspects of the Commodore 64 and ZX Spectrum to focus on gaming, with each portable coming with its own collection of [&#8230;]",
-      "published": "2026-04-30T09:45:46-04:00",
+      "title": "Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale",
+      "link": "https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale",
+      "summary": "If you’ve ever thought about making your own stickers for Etsy or just for fun but don’t know where to begin, I’d recommend taking a look at the Cricut Joy 2. I’ve been testing one for a couple of weeks now, and as someone completely new to the Cricut ecosystem, I’ve found it to be [&#8230;]",
+      "published": "2026-04-30T12:45:06-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/c64handheld_93a43d.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/cricut2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "OpenAI talks about not talking about goblins",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-      "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as [&#8230;]",
-      "published": "2026-04-30T09:42:29-04:00",
+      "title": "Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld",
+      "link": "https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview",
+      "summary": "Microsoft is starting to test its Automatic Super Resolution (Auto SR) feature with the Xbox Ally X. Auto SR first debuted on some Copilot Plus PCs nearly two years ago, improving visual quality and frame rates in select games. Now, Microsoft is testing it for docked play on the Xbox Ally X, allowing the 7-inch [&#8230;]",
+      "published": "2026-04-30T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Met Police's Palantir deployment has its own officers watching their backs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/met_police_palantir_deployment_cop_probe/",
-      "summary": "<h4>Federation warns members to ditch work devices off duty as force uses AI to probe 600+ cops</h4> <p>London cops are being told by their staff association to be \"extremely cautious\" about carrying work devices off duty, after the Metropolitan Police Service (MPS) deployed Palantir's technology to investigate hundreds of its own officers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-30T09:29:10.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/09/19/shutterstock_met_police.jpg"
-    },
-    {
-      "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
-      "link": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
-      "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas [&#8230;]",
-      "published": "2026-04-30T09:08:23-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/S4A_Verified_Header_Ravyn.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Here’s what Netflix’s new vertical video feed is like",
-      "link": "https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui",
-      "summary": "Netflix is starting to roll out a big revamp of its mobile app, and a central feature is a new vertical video feed called \"Clips\" where you can scroll through clips of shows, movies, and other Netflix content. The idea of the Clips feed is that it can help you discover new things to watch [&#8230;]",
-      "published": "2026-04-30T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/en-US-VVF-UI-Still.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Britain's £6B armoured sickener Ajax cleared for duty despite injuring troops",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/ajax_armored_vehicle_cleared/",
-      "summary": "<h4>Investigation finds no single cause for soldiers falling ill, just bad bolts, cold air, and apparently the soldiers themselves</h4> <p>Britain's notorious Ajax armored vehicles are being accepted back from the manufacturer after investigations found no single cause for the symptoms plaguing crews, meaning soldiers will need to grin and bear it.…</p>",
-      "published": "2026-04-30T08:45:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2025/11/10/ajax_mod_crown_copyright.jpg"
-    },
-    {
-      "title": "Finance company stores DB credentials in helpfully labeled spreadsheet",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/finance_company_stored_their_db_pwned_column/",
-      "summary": "<h4>Great idea, guys. Let's keep all of the data in an Excel file with weak password protection</h4> <p><strong>PWNED</strong>  Welcome, once again, to PWNED, the weekly column where we recount the adventures of IT explorers who found their own pile of quicksand and then jumped right into it. This week's story involves keeping sensitive information in a very vulnerable place and then not protecting it adequately.…</p>",
-      "published": "2026-04-30T08:00:12.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/29/shutterstock_2380487729.jpg"
-    },
-    {
-      "title": "Instagram says it doesn’t want your tweet round ups",
-      "link": "https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups",
-      "summary": "The internet is full of copycat, stolen, reposted, and low-effort content - and Meta, at least publicly, has said it is working to cut off some of the reach. Beginning in 2024, the company has made incremental announcements saying it would begin limiting \"unoriginal\" content from being recommended on Instagram. It meant that if you [&#8230;]",
-      "published": "2026-04-30T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK070__02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Is this ‘de-extinction’ project actually onto something?",
-      "link": "https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction",
-      "summary": "Dallas-based genetics and biotech startup Colossal has raised hundreds of millions of dollars from venture capitalists, the CIA, and Peter Thiel, among others. Its buzzy \"de-extinction\" projects aim to \"bring back\" lost animals like the woolly mammoth, the Tasmanian tiger, and the dire wolf - although it isn't creating copies of extinct creatures from ancient [&#8230;]",
-      "published": "2026-04-30T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268465_Colossal_is_back_bringing_back_bluebuck_antelope_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meta lost 20 million users last quarter",
-      "link": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
-      "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective users of Facebook, Instagram, WhatsApp, or [&#8230;]",
-      "published": "2026-04-30T07:38:26-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546026/STK043_META_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
-      "summary": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their cyberdefenses. The limited rollout will take place \"in [&#8230;]",
-      "published": "2026-04-30T07:09:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft levels up Azure Local to make it fit for large-scale sovereign clouds",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/azure_local_upgrade/",
-      "summary": "<h4>Can now use SANs for storage, and adds a local control plane and key management</h4> <p>Microsoft has given its Azure Local on-prem cloud a major makeover to make it fit for duty powering large-scale sovereign infrastructure.…</p>",
-      "published": "2026-04-30T06:59:19.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/30/shutterstock_us_flag_blowing_away_in_the_clouds.jpg"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0092.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
