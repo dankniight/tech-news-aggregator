@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T03:39:23.570426",
+  "lastUpdated": "2026-04-30T08:28:32.607685",
   "articles": [
     {
       "title": "On the stand, Elon Musk can’t escape his own tweets",
@@ -48,14 +48,6 @@
       "published": "Wed, 29 Apr 2026 20:59:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
-    },
-    {
-      "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
-      "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
-      "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
-      "published": "Wed, 29 Apr 2026 20:53:56 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/Zap-Energy-Century-reaction-chamber.jpg?resize=1200,800"
     },
     {
       "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
@@ -218,6 +210,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-school-shooter-tumbler-ridge-lawsuits.jpg?quality=85"
     },
     {
+      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "published": "Thu, 30 Apr 2026 03:58:22 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800"
+    },
+    {
       "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
       "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
       "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
@@ -240,6 +240,30 @@
       "published": "Thu, 30 Apr 2026 00:07:15 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800"
+    },
+    {
+      "title": "Finance company stores DB credentials in helpfully labeled spreadsheet",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/finance_company_stored_their_db_pwned_column/",
+      "summary": "<h4>Great idea, guys. Let's keep all of the data in an Excel file with weak password protection</h4> <p><strong>PWNED</strong>  Welcome, once again, to PWNED, the weekly column where we recount the adventures of IT explorers who found their own pile of quicksand and then jumped right into it. This week's story involves keeping sensitive information in a very vulnerable place and then not protecting it adequately.…</p>",
+      "published": "2026-04-30T08:00:12.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/29/shutterstock_2380487729.jpg"
+    },
+    {
+      "title": "Microsoft levels up Azure Local to make it fit for large-scale sovereign clouds",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/azure_local_upgrade/",
+      "summary": "<h4>Can now use SANs for storage, and adds a local control plane and key management</h4> <p>Microsoft has given its Azure Local on-prem cloud a major makeover to make it fit for duty powering large-scale sovereign infrastructure.…</p>",
+      "published": "2026-04-30T06:59:19.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/30/shutterstock_us_flag_blowing_away_in_the_clouds.jpg"
+    },
+    {
+      "title": "Google to sell its TPUs to some customers, who also fancy big-G GPUs",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/alphabet_google_q1_fy26/",
+      "summary": "<h4>AI is driving more searches and ads</h4> <p>Google Cloud will start selling its custom tensor processing units to some customers, because they want them and the search giant wants to diversify its revenues.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-04-30T03:49:05.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/04/30/nano_banana_google_enterprise_hardware_store.jpg"
     },
     {
       "title": "Microsoft lifts 2026 AI spend by $25 billion to cover component price rises",
@@ -314,36 +338,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2273020723.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Fedora 44 is out – countless versions of it",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/fedora_44_countless_versions/",
-      "summary": "<h4>New sealed bootable container images and Stratis storage, too</h4> <p>Fedora Linux 44 has arrived – in multiple formats and for several CPU families, including some new container formats and storage options.…</p>",
-      "published": "2026-04-29T17:38:43.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/05/12/shutterstock_fedoras.jpg"
-    },
-    {
       "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
       "link": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
       "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, is available for preorder ahead of its July 23rd release for $49.99 digitally or $59.99 for the physical edition. However, Walmart is the exception in [&#8230;]",
       "published": "2026-04-29T17:19:39-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SplatoonRaiders_00.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Cloudflare says autocrats, wars and elections caged the internet in Q1",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/autocrats_war_elections_caused_internet/",
-      "summary": "<h4>Iran went dark twice, AWS got droned, oh and TalkTalk broke something it refuses to talk about</h4> <p>The first quarter of 2026 saw a surge in severe and prolonged internet disruptions, from government shutdowns to power outages to the occasional mystery incident.…</p>",
-      "published": "2026-04-29T17:05:55.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2017/08/11/shutterstock_cables.jpg"
-    },
-    {
-      "title": "Yet another experiment proves it's too damn simple to poison large language models",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/",
-      "summary": "<h4>There is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was</h4> <p>Unlike search engines that let you judge competing sources, search-backed AI chatbots can turn shaky web material into confident answers. Case in point: A security engineer convinced several bots that he was the reigning world champion of a popular German card game, even though no such championship exists.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-29T17:00:18.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/12/16/shutterstock_house_of_cards.jpg"
     },
     {
       "title": "Microsoft reports sinking Xbox revenue as its cloud business climbs",
