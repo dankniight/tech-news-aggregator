@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T03:51:55.018108",
+  "lastUpdated": "2026-05-01T08:19:21.775241",
   "articles": [
     {
       "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
@@ -242,6 +242,30 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800"
     },
     {
+      "title": "User found the perfect formula to make Excel misbehave",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/on_call/",
+      "summary": "<h4>For once, Oracle ERP wasn’t the problem</h4> <p><strong>On Call</strong>  Fridays can be a drag, but <em>The Register</em> has a formula to inject a little fun by delivering a new instalment of On Call – the reader-contributed column in which we share your tech support stories.…</p>",
+      "published": "2026-05-01T07:00:11.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2022/12/20/shutterstock_editorial_only_excel_and_flames.jpg"
+    },
+    {
+      "title": "Qualcomm teases ‘dedicated CPU for agentic experiences’ and ‘agentic smartphones’",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/qualcomm_q2_fy_26/",
+      "summary": "<h4>Enters the custom AI silicon business with secret silicon for an un-named hyperscaler</h4> <p>Qualcomm has quietly entered the market for custom hyperscale silicon, and datacenter CPUs…</p>",
+      "published": "2026-05-01T06:43:19.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2020/11/05/shutterstock_qualcomm_editorial_only.jpg"
+    },
+    {
+      "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/fujitsu_future_strategy/",
+      "summary": "<h4>In talks with Japan, the UK, and Australia on defense tech that can ‘contribute to global stability’</h4> <p>Japanese tech giant Fujitsu has confirmed the demise of its mainframe business in the year 2035 and hinted it’s working on significant defense projects.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "published": "2026-05-01T04:55:52.00Z",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2026/05/01/shutterstock_2035.jpg"
+    },
+    {
       "title": "ICANN opens applications for new generic top-level domains for the first time since 2012",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/icann_new_gtld_applications/",
       "summary": "<h4>$227k gets you a hearing for your dot.vanity project, or strings in one of 27 scripts</h4> <p>The Internet Corporation for Assigned Names and Numbers (ICANN) on Thursday kicked off a new application process for generic top-level domains (gTLDs), its first since 2012.…</p>",
@@ -306,28 +330,12 @@
       "image_url": "https://regmedia.co.uk/2025/10/28/shutterstock_2576345183.jpg"
     },
     {
-      "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/",
-      "summary": "<h4>Networking kit arrives just in time for Nvidia's 1.6 Tbps ConnectX-9 NICs</h4> <p>If you thought 800 Gbps Ethernet was fast, just wait. Celestica's latest switches cram 64 1.6 Tbps ports into a single chassis.…</p>",
-      "published": "2026-04-30T18:18:26.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2024/02/23/shutterstock_wifi_speed.jpg"
-    },
-    {
       "title": "Roblox’s daily users continue to drop as age checks slow growth",
       "link": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
       "summary": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last year, which was a drop from 152 million in Q3 [&#8230;]",
       "published": "2026-04-30T17:25:15-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
-      "summary": "<h4>This CVSS 10.0 RCE vuln has been patched, automatically for some, so better check those workflows</h4> <p>If you use Gemini CLI, watch out: Google has patched a CVSS 10.0 vulnerability in its command-line AI tool and is warning anyone running it in headless mode, or through GitHub Actions, to review their workflows.…</p>",
-      "published": "2026-04-30T17:15:13.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2026/04/30/shutterstock_2652360739.jpg"
     },
     {
       "title": "Congress keeps kicking surveillance reform down the road",
@@ -344,14 +352,6 @@
       "published": "2026-04-30T16:58:22-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC_5479.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
-      "summary": "<h4>Two computer crime allegations follow up to 18M lines of data surfacing online</h4> <p>French prosecutors say police detained a 15-year-old on April 25 over the alleged theft of millions of records from France Titres (ANTS), the agency handling secure documents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "published": "2026-04-30T16:39:22.00Z",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2022/02/10/shutterstock_paris_france.jpg"
     },
     {
       "title": "Rivian’s revenue is up as R2 production kicks into gear",
