@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-05-06T19:52:13.561976",
+  "lastUpdated": "2026-05-07T03:38:34.777146",
   "articles": [
+    {
+      "title": "Young evil genius forces hamster to run on wheel to power his gadgets",
+      "link": "https://www.theregister.com/offbeat/2026/05/06/youtuber-turns-hamster-wheel-into-phone-charger/5231293",
+      "summary": "Okay, the rodent was a willing participant - after all, who turns down treats for a spin that charges a phone?",
+      "published": "Wed, 06 May 2026 22:49:51 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5231314&width=800"
+    },
+    {
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+      "published": "Wed, 06 May 2026 22:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/anjali-sardana-pronto.jpg?resize=1200,800"
+    },
+    {
+      "title": "SpaceX is starting to move on from the world's most successful rocket",
+      "link": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+      "summary": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
+      "published": "Wed, 06 May 2026 22:28:47 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2211835635-1152x648.jpg"
+    },
+    {
+      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+      "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+      "summary": "Deal follows others with Microsoft, Amazon, and more.",
+      "published": "Wed, 06 May 2026 22:09:14 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
+    },
+    {
+      "title": "Claude hitches ride on SpaceX's datacenter capacity",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252",
+      "summary": "Compute from Colossus leads to relaxed limits",
+      "published": "Wed, 06 May 2026 22:01:45 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5222549&width=800"
+    },
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "published": "Wed, 06 May 2026 21:57:56 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/barry-diller.jpg?resize=1200,679"
+    },
+    {
+      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+      "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+      "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+      "published": "Wed, 06 May 2026 21:47:27 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hai-Long-wind-turbine-1152x648.jpg"
+    },
+    {
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "published": "Wed, 06 May 2026 21:43:24 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800"
+    },
+    {
+      "title": "Court strikes down FCC anti-discrimination rule opposed by Internet providers",
+      "link": "https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/",
+      "summary": "Chairman Brendan Carr celebrates FCC court loss in case over Biden-era rule.",
+      "published": "Wed, 06 May 2026 21:33:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg"
+    },
+    {
+      "title": "Is xAI a neocloud now?",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "published": "Wed, 06 May 2026 21:32:55 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024"
+    },
+    {
+      "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+      "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+      "summary": "Trump forced to admit Biden was right on AI safety testing.",
+      "published": "Wed, 06 May 2026 21:20:14 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194583448-1024x648.jpg"
+    },
     {
       "title": "Musk has never built a wafer fab, but he wants to burn $119B on one anyway",
       "link": "https://www.theregister.com/systems/2026/05/06/spacex-plots-119b-wafer-fab-to-make-elons-orbital-ai-dream-come-true/5231202",
@@ -8,6 +96,14 @@
       "published": "Wed, 06 May 2026 20:43:38 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5231238&width=800"
+    },
+    {
+      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+      "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+      "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
+      "published": "Wed, 06 May 2026 20:39:16 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/684390721_3997395577063643_7223681298262866214_n.jpg?w=901"
     },
     {
       "title": "Arctic Wolf kicks 250 employees out of the pack to save money for AI",
@@ -24,6 +120,14 @@
       "published": "Wed, 06 May 2026 19:58:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=106069&width=800"
+    },
+    {
+      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+      "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
+      "published": "Wed, 06 May 2026 19:57:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674"
     },
     {
       "title": "Mars rover hits rocky snag with power tool",
@@ -82,44 +186,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/09/BraintrustTeamPhoto.jpg?resize=1200,900"
     },
     {
-      "title": "Iran cybersnoops still LARPing as ransomware crooks in espionage ops",
-      "link": "https://www.theregister.com/security/2026/05/06/iran-cyberspies-larping-as-ransomware-crims-in-espionage-ops/5230993",
-      "summary": "MOIS-linked cyber outfit puts on a ransomware show to disguise the wide-open backdoor behind the scenes",
-      "published": "Wed, 06 May 2026 18:03:12 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5222295&width=800"
-    },
-    {
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-      "published": "Wed, 06 May 2026 17:23:08 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1240619050.jpg?resize=1200,800"
-    },
-    {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-      "published": "Wed, 06 May 2026 17:20:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024"
-    },
-    {
       "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
       "link": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
       "summary": "Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.",
       "published": "Wed, 06 May 2026 17:20:06 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2217854935-1024x648.jpg"
-    },
-    {
-      "title": "AI layoffs backfire as cutting staff doesn't cut it, firms warned",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/ai-layoffs-backfire-as-cutting-staff-doesnt-cut-it-firms-warned/5230631",
-      "summary": "Replacing meatbags with failure prone agents isn't the gold mine some CEOs hoped for",
-      "published": "Wed, 06 May 2026 16:59:03 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5231052&width=800"
     },
     {
       "title": "Google DeepMind partners with EVE Online for AI model testing",
@@ -138,6 +210,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/earth1-1152x648.jpg"
     },
     {
+      "title": "SpaceX Bombarded With Lawsuits to Accusing Starship of Damaging Homes",
+      "link": "https://futurism.com/space/spacex-lawsuits-starship-damage-homes",
+      "summary": "<p>\"A relentless, daily bombardment.\"</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-lawsuits-starship-damage-homes\">SpaceX Bombarded With Lawsuits to Accusing Starship of Damaging Homes</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 06 May 2026 16:34:32 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/spacex-lawsuits-starship-damage-homes.jpg?quality=85"
+    },
+    {
       "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots",
       "link": "https://arstechnica.com/health/2026/05/trump-admin-censors-more-studies-conflicting-with-rfk-jr-s-anti-vaccine-views/",
       "summary": "FDA has suppressed studies on COVID-19 vaccines and Shingrix, a shingles vaccine.",
@@ -154,84 +234,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Claude-Managed-Agents-Blog-Followup-Dreaming-1152x648-1778041638.png"
     },
     {
-      "title": "Chrome on Android now supports approximate instead of precise location sharing",
-      "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
-      "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
-      "published": "Wed, 06 May 2026 15:54:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024"
-    },
-    {
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "published": "Wed, 06 May 2026 15:49:39 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800"
-    },
-    {
-      "title": "Ruby inventor Matz working on native compiler with AI help",
-      "link": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
-      "summary": "Matz gets together with Anthropic's Claude to create an experimental ahead-of-time compiler for Ruby – though with many limitations",
-      "published": "Wed, 06 May 2026 15:49:38 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1618980&width=800"
-    },
-    {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-      "published": "Wed, 06 May 2026 15:46:38 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Genesis-AI-Rubiks-Cube-Solve-A-Cam.jpg?resize=1200,675"
-    },
-    {
-      "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
-      "link": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-      "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
-      "published": "Wed, 06 May 2026 15:44:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-1152x648.jpg"
-    },
-    {
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
-      "published": "Wed, 06 May 2026 15:27:36 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674"
-    },
-    {
       "title": "FBI Director Kash Patel Says AI Has Stopped Numerous Violent Attacks Against America. We’d Love to See a Single Whiff of Evidence",
       "link": "https://futurism.com/artificial-intelligence/fbi-kash-patel-ai-violent-attacks",
       "summary": "<p>\"I'm using it everywhere.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/fbi-kash-patel-ai-violent-attacks\">FBI Director Kash Patel Says AI Has Stopped Numerous Violent Attacks Against America. We&#8217;d Love to See a Single Whiff of Evidence</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 06 May 2026 15:19:42 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/fbi-kash-patel-ai-violent-attacks.jpg?quality=85"
-    },
-    {
-      "title": "IBM tried to kill Tab navigation. Microsoft told it Bill Gates' mother wasn't interested",
-      "link": "https://www.theregister.com/offbeat/2026/05/06/ibm-tried-to-kill-tab-navigation-microsoft-told-it-bill-gates-mother-wasnt-interested/5230592",
-      "summary": "Big Blue escalated the OS/2 keyboard squabble through seven layers of management. Redmond's answer? Nope",
-      "published": "Wed, 06 May 2026 15:15:55 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5230584&width=800"
-    },
-    {
-      "title": "Here's what has to happen if NASA wants to land on the Moon every month",
-      "link": "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
-      "summary": "NASA is serious about taking more shots on goal, but some of them need to start landing.",
-      "published": "Wed, 06 May 2026 14:56:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/54362872324_50b58cd770_o-1152x648.jpg"
-    },
-    {
-      "title": "Infants are bleeding out after parents decline vitamin K shots given at birth",
-      "link": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
-      "summary": "Hospitals report more parents are declining vitamin K shots for their newborns.",
-      "published": "Wed, 06 May 2026 14:30:47 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/saddoctor-1152x648.jpg"
     },
     {
       "title": "Sam Altman Frets That Frontier AI Models Are Acting Strange, Asking for Favors",
@@ -242,28 +250,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/sam-altman-frontier-ai-models-favors.jpg?quality=85"
     },
     {
-      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
-      "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
-      "published": "Wed, 06 May 2026 13:32:47 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/terminal-hotness-1152x648.jpg"
-    },
-    {
       "title": "Scientists Detect Atmosphere on Planet-Like Object Beyond Pluto",
       "link": "https://futurism.com/space/scientists-detect-atmosphere-minor-planet-beyond-pluto",
       "summary": "<p>This could change everything.</p>\n<p>The post <a href=\"https://futurism.com/space/scientists-detect-atmosphere-minor-planet-beyond-pluto\">Scientists Detect Atmosphere on Planet-Like Object Beyond Pluto</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 06 May 2026 12:58:03 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/scientists-detect-atmosphere-minor-planet-beyond-pluto.jpg?quality=85"
-    },
-    {
-      "title": "More than just an SUV? Rivian is working on more R2 variants.",
-      "link": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
-      "summary": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
-      "published": "Wed, 06 May 2026 12:48:53 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/R2_HERO_SHOT_SLATE_BLUEjpg_2880x1920_t2aluk-1152x648.jpg"
     },
     {
       "title": "Video Shows Amazon Drone Dropping Package Into Pond",
@@ -314,12 +306,52 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/two-shootings-openai-stopped.jpg?quality=85"
     },
     {
-      "title": "Explosion Reported on Site as SpaceX Prepares Starship for Another Launch",
-      "link": "https://futurism.com/space/explosion-spacex-prepares-starship-launch",
-      "summary": "<p>Another setback?</p>\n<p>The post <a href=\"https://futurism.com/space/explosion-spacex-prepares-starship-launch\">Explosion Reported on Site as SpaceX Prepares Starship for Another Launch</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 05 May 2026 13:54:17 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/explosion-spacex-prepares-starship-launch.jpg?quality=85"
+      "title": "Datacenter to become Arm’s biggest business ‘soon’",
+      "link": "https://www.theregister.com/systems/2026/05/07/datacenter-to-become-arms-biggest-business-soon/5231612",
+      "summary": "Someone other than Meta is buying $1bn of its new AGI chips",
+      "published": "Thu, 07 May 2026 03:59:50 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5231632&width=800"
+    },
+    {
+      "title": "Using AI to click around on a website burns 45x as many tokens as just using APIs",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/07/ai-vision-agents-use-45x-more-tokens-than-apis-in-benchmark/5231346",
+      "summary": "For AI agents, seeing is expensive",
+      "published": "Thu, 07 May 2026 01:04:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5221063&width=800"
+    },
+    {
+      "title": "Musk’s biggest loyalist became his biggest liability",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to [&#8230;]",
+      "published": "2026-05-06T19:37:02-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nintendo announces a new Star Fox for the Switch 2",
+      "link": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
+      "summary": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, simply, Star Fox, and it's out very soon, launching on June 25th. Nintendo says that it's \"based\" on the [&#8230;]",
+      "published": "2026-05-06T18:07:46-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DirectSF_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google shuts down Project Mariner",
+      "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology [&#8230;]",
+      "published": "2026-05-06T17:21:45-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/project-mariner-logo.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "How David Sacks crashed and burned in the White House",
+      "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "summary": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct link to do so! And do you think I should [&#8230;]",
+      "published": "2026-05-06T16:18:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2268643920.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The latest Tile Pro is down to $25 — its best price of the year",
@@ -368,38 +400,6 @@
       "published": "2026-05-06T12:37:40-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Komplete-26-hero-no-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best beauty tech you can still grab in time for Mother’s Day",
-      "link": "https://www.theverge.com/gadgets/923581/best-mothers-day-beauty-tech-gift-ideas-2026",
-      "summary": "If you’re looking to indulge mom this Mother’s Day, a gift that makes her feel a little more taken care of is a good place to start. Fortunately, if you’re looking for something to make her feel pampered, we know a thing or two about beauty tech, which can deliver on that front. Some of [&#8230;]",
-      "published": "2026-05-06T12:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25719693/247354_L_Oreal_ColorSonic_AKrales_0161.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "This slim ice cream maker could fit in my already crowded kitchen",
-      "link": "https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker",
-      "summary": "For the past few months, I've defiantly walked past the Ninja Creami at Costco as I think about our air fryer, toaster oven, breadmaker, rice cooker, and stand mixer already vying for limited counter space. Nutribullet's new Chill ice cream maker could finally break my resolve with its smaller footprint. While the Creami's base measures [&#8230;]",
-      "published": "2026-05-06T12:07:43-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/nutribullet1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]",
-      "published": "2026-05-06T11:37:32-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Xbox changes continue with new console boot animation",
-      "link": "https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation",
-      "summary": "It feels like not a day goes by at the moment without some Xbox news, and today is no different. Xbox CEO Asha Sharma just announced that Xbox owners will get a new boot up sound and animation on May 13th. The console boot animation is the new Xbox logo, complete with a slight twist [&#8230;]",
-      "published": "2026-05-06T11:35:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
