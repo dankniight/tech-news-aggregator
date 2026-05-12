@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-05-12T03:41:47.744862",
+  "lastUpdated": "2026-05-12T08:46:44.931546",
   "articles": [
+    {
+      "title": "Britain pays Starlink millions despite Musk's calls to overthrow UK government",
+      "link": "https://www.theregister.com/networks/2026/05/12/britain-pays-starlink-millions-despite-musks-calls-to-overthrow-uk-government/5238122",
+      "summary": "Satellite service supports troops and Ukraine, but payments may raise eyebrows after boss's political broadsides",
+      "published": "Tue, 12 May 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238177&width=800"
+    },
+    {
+      "title": "Japan’s PM orders cybersecurity review to stop Mythos going full CyberZilla",
+      "link": "https://www.theregister.com/security/2026/05/12/japans-pm-orders-cybersecurity-review-to-defend-against-anthropic-mythos/5238501",
+      "summary": "Fears exponential increase in attack scale and speed",
+      "published": "Tue, 12 May 2026 07:40:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238519&width=800"
+    },
+    {
+      "title": "Veteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6",
+      "link": "https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474",
+      "summary": "Giving v4 an ‘area code’ based on ASNs to give operators more addresses to play with, without upgrades",
+      "published": "Tue, 12 May 2026 06:44:16 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238497&width=800"
+    },
+    {
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "published": "Tue, 12 May 2026 04:52:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879"
+    },
     {
       "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
       "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
@@ -146,30 +178,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2191236730-1152x648.jpg"
     },
     {
-      "title": "OpenAI can't have incompetent AI consultants ruining the market, so bought its own",
-      "link": "https://www.theregister.com/ai-ml/2026/05/11/openai-buys-ai-consultancy-to-sell-enterprises-on-its-models/5238213",
-      "summary": "By which we mean it bought someone else's with other people's money",
-      "published": "Mon, 11 May 2026 20:33:11 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=101558&width=800"
-    },
-    {
-      "title": "Debian 14 cracks down on unreproducible packages",
-      "link": "https://www.theregister.com/oses/2026/05/11/debian-14-cracks-down-on-unreproducible-packages/5238094",
-      "summary": "Dull but important … so, a bit like Debian itself, really",
-      "published": "Mon, 11 May 2026 19:04:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238260&width=800"
-    },
-    {
-      "title": "Anthropic’s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator",
-      "link": "https://www.theregister.com/security/2026/05/11/anthropics-bug-hunting-mythos-was-greatest-marketing-stunt-ever-says-curl-creator/5238111",
-      "summary": "After all that hype, AI scanner found one low-severity cURL flaw",
-      "published": "Mon, 11 May 2026 18:30:53 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238164&width=800"
-    },
-    {
       "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
       "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
       "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
@@ -298,14 +306,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795"
     },
     {
-      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-      "published": "Mon, 11 May 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Cowbow-Space-Company-photo.jpeg?resize=1200,960"
-    },
-    {
       "title": "New Data Center Equivalent to Setting Off 23 Nuclear Bombs Per Day, Professor Finds",
       "link": "https://futurism.com/artificial-intelligence/data-center-atom-bombs",
       "summary": "<p>Unfathomable.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/data-center-atom-bombs\">New Data Center Equivalent to Setting Off 23 Nuclear Bombs Per Day, Professor Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -320,6 +320,14 @@
       "published": "Mon, 11 May 2026 11:04:40 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/openai-sued-mass-shooting.jpg?quality=85"
+    },
+    {
+      "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
+      "link": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+      "summary": "Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with performance upgrades [&#8230;]",
+      "published": "2026-05-12T02:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sony_ac1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "OpenAI just released its answer to Claude Mythos",
@@ -392,14 +400,6 @@
       "published": "2026-05-11T12:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meari-baby-monitor-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "7 of our favorite deals from Amazon’s Pet Days sale",
-      "link": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
-      "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on food, litter, and other supplies for our two cats. Sad, but true. If your life is [&#8230;]",
-      "published": "2026-05-11T11:45:32-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/bisselllead.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
