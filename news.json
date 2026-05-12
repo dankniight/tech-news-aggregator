@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-11T19:54:23.162517",
+  "lastUpdated": "2026-05-12T03:41:47.744862",
   "articles": [
+    {
+      "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
+      "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
+      "summary": "Code hosting biz is trimming its global footprint and flattening its management layer",
+      "published": "Tue, 12 May 2026 03:58:07 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238106&width=800"
+    },
+    {
+      "title": "Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter",
+      "link": "https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373",
+      "summary": "Orbital compute platform, which launched on a mission to the ISS last year, gets an immutable upgrade alongside refreshed container images",
+      "published": "Tue, 12 May 2026 02:14:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238398&width=800"
+    },
+    {
+      "title": "Quit VMware and you’ll emerge with more complex and less capable infrastructure",
+      "link": "https://www.theregister.com/virtualization/2026/05/12/quit-vmware-and-youll-emerge-with-more-complex-and-less-capable-infrastructure/5238442",
+      "summary": "Analyst says modernizing applications is probably a better use of your time than hypervisor migration",
+      "published": "Tue, 12 May 2026 01:59:06 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5229528&width=800"
+    },
+    {
+      "title": "Double Canvas breach acknowledged as ShinyHunters sets new pay-or-leak deadline",
+      "link": "https://www.theregister.com/security/2026/05/12/double-canvas-intrusion-confirmed-as-shinyhunters-resets-leak-deadline/5238361",
+      "summary": "UPDATED: Sorry, kids, everything's back up so get to work on your new assignment - An essay on the ethics of paying ransoms, because it looks like that's what happened here",
+      "published": "Tue, 12 May 2026 01:16:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238393&width=800"
+    },
+    {
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "published": "Tue, 12 May 2026 00:09:01 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/vlad-tenev-robinhood-GettyImages-2272038864.jpg?w=1024"
+    },
     {
       "title": "The Military Base Home to Air Force One Leaked 32,000 Gallons of Jet Fuel Into the Potomac River Over the Last Few Months",
       "link": "https://futurism.com/science-energy/potomac-fuel-spill-military",
@@ -26,14 +66,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/japan-cardboard-drones.jpg?quality=85"
     },
     {
-      "title": "Do you take after your dad’s RNA?",
-      "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
-      "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
-      "published": "Sun, 10 May 2026 11:15:44 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1918986158-1152x648.jpg"
-    },
-    {
       "title": "ChatGPT Is Saying Weird Things in Chinese",
       "link": "https://futurism.com/artificial-intelligence/chatpgt-weird-chinese",
       "summary": "<p>\"We don't know how to say: 'this is good writing, but if we do this good writing thing 10 times, then it's no longer good writing.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/chatpgt-weird-chinese\">ChatGPT Is Saying Weird Things in Chinese</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -42,28 +74,76 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/chatpgt-weird-chinese_b13548.jpg?quality=85"
     },
     {
-      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
-      "link": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
-      "summary": "Fortunately, it happened early in the morning, so nobody was around.",
-      "published": "Sun, 10 May 2026 11:00:53 +0000",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+      "published": "Mon, 11 May 2026 23:04:10 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Rodent-obsessed developer creates Ratty to bring 3D graphics to the command line",
+      "link": "https://www.theregister.com/software/2026/05/11/ratty-terminal-emulator-brings-3d-graphics-to-the-command-line/5238299",
+      "summary": "Inspired by TempleOS, this terminal emulator is just about as bonkers",
+      "published": "Mon, 11 May 2026 22:54:30 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238345&width=800"
+    },
+    {
+      "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+      "link": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+      "summary": "An intern who failed this much would be shown the door",
+      "published": "Mon, 11 May 2026 22:50:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238321&width=800"
+    },
+    {
+      "title": "Linux bitten by second severe vulnerability in as many weeks",
+      "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "summary": "Production-version patches are coming online and should be installed pronto.",
+      "published": "Mon, 11 May 2026 22:28:19 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1421333093-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
     },
     {
-      "title": "Oracle Forced to Cancel Incredibly Polluting Natural Gas Plant to Power AI Data Center",
-      "link": "https://futurism.com/science-energy/oracle-data-center-gas",
-      "summary": "<p>\"I don't know that this is the clean energy solution that they're saying it's going to be.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/oracle-data-center-gas\">Oracle Forced to Cancel Incredibly Polluting Natural Gas Plant to Power AI Data Center</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 10 May 2026 10:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/oracle-data-center-gas.jpg?quality=85"
+      "title": "Cookie thieves caught stealing dev secrets via fake Claude Code installers",
+      "link": "https://www.theregister.com/security/2026/05/11/cookie-thieves-caught-stealing-dev-secrets/5238248",
+      "summary": "New IElevator2 COM interface? No problem",
+      "published": "Mon, 11 May 2026 22:21:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238330&width=800"
     },
     {
-      "title": "Researchers Alarmed by AI That Can Self-Replicate Into Another Machine",
-      "link": "https://futurism.com/artificial-intelligence/researchers-teach-ai-self-replicate",
-      "summary": "<p>\"We're rapidly approaching the point where no one would be able to shut down a rogue AI.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/researchers-teach-ai-self-replicate\">Researchers Alarmed by AI That Can Self-Replicate Into Another Machine</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 10 May 2026 09:45:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/researchers-teach-ai-self-replicate_12e67e.jpg?quality=85"
+      "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+      "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+      "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
+      "published": "Mon, 11 May 2026 22:01:57 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A260907_large-1-1152x648.jpg"
+    },
+    {
+      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+      "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+      "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
+      "published": "Mon, 11 May 2026 21:59:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2194681867.jpg?resize=1200,700"
+    },
+    {
+      "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
+      "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
+      "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
+      "published": "Mon, 11 May 2026 20:48:33 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/eero-wi-fi-router-1152x648-1778529597.jpg"
+    },
+    {
+      "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+      "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+      "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
+      "published": "Mon, 11 May 2026 20:37:00 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2191236730-1152x648.jpg"
     },
     {
       "title": "OpenAI can't have incompetent AI consultants ruining the market, so bought its own",
@@ -106,6 +186,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-1024x648.jpg"
     },
     {
+      "title": "Grok Just Issued a Brutal Beatdown to Elon Musk",
+      "link": "https://futurism.com/future-society/grok-beatdown-musk-socialism",
+      "summary": "<p>\"More than one thing can be true, but this isn't one.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/grok-beatdown-musk-socialism\">Grok Just Issued a Brutal Beatdown to Elon Musk</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 11 May 2026 17:38:32 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/grok-beatdown-musk-socialism.jpg?quality=85"
+    },
+    {
       "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
       "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
       "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
@@ -132,7 +220,7 @@
     {
       "title": "Bravo is creating unscripted microdramas for the Peacock app",
       "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-      "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
+      "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
       "published": "Mon, 11 May 2026 17:14:01 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2205537583.jpg?resize=1200,800"
@@ -140,34 +228,18 @@
     {
       "title": "Digg tries again, this time as an AI news aggregator",
       "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-      "summary": "Digg returns (again) as another place to read AI news.",
+      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
       "published": "Mon, 11 May 2026 17:02:35 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/digg-ver2-at-10.40.29-AM.jpg?resize=1200,888"
     },
     {
-      "title": "Gtk2-NG, next generation of Gtk 2, comes back to life",
-      "link": "https://www.theregister.com/oses/2026/05/11/gtk2-ng-next-generation-of-gtk-2-comes-back-to-life/5237970",
-      "summary": "Debian 14 plans to ax Gtk2 – and hard pruning stimulates fresh growth",
-      "published": "Mon, 11 May 2026 16:54:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238016&width=800"
-    },
-    {
-      "title": "BWH Hotels guests warned after reservation data checks out with cybercrooks",
-      "link": "https://www.theregister.com/security/2026/05/11/best-western-hotels-confirms-web-app-data-breach/5238020",
-      "summary": "Customers urged to keep an eye out for phisherfolk",
-      "published": "Mon, 11 May 2026 16:34:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238042&width=800"
-    },
-    {
-      "title": "Feature freeze for Python 3.15 as first beta released",
-      "link": "https://www.theregister.com/devops/2026/05/11/feature-freeze-for-python-315-as-first-beta-released/5237934",
-      "summary": "JIT compiler much improved, but no reinstatement for leaky incremental garbage collector",
-      "published": "Mon, 11 May 2026 16:14:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=232569&width=800"
+      "title": "Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack",
+      "link": "https://futurism.com/artificial-intelligence/google-ai-cyberattack",
+      "summary": "<p>\"It's a taste of what's to come.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-ai-cyberattack\">Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 11 May 2026 16:40:37 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/google-ai-cyberattack.jpg?quality=85"
     },
     {
       "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
@@ -176,22 +248,6 @@
       "published": "Mon, 11 May 2026 16:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/redwood-materials-lithium.jpg?resize=1200,900"
-    },
-    {
-      "title": "Google says criminals used AI-built zero-day in planned mass hack spree",
-      "link": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
-      "summary": "GTIG says AI-powered hacking has moved well beyond phishing emails and chatbot tricks",
-      "published": "Mon, 11 May 2026 15:38:22 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237994&width=800"
-    },
-    {
-      "title": "SoftBank bets on battery building to back bit barns",
-      "link": "https://www.theregister.com/on-prem/2026/05/11/softbank-bets-on-battery-building-to-back-bit-barns/5237886",
-      "summary": "Tech investment giant wants batteries for its own AI datacenters, and lots of them",
-      "published": "Mon, 11 May 2026 15:37:20 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=101488&width=800"
     },
     {
       "title": "Pirates are already playing Forza Horizon 6 days before its launch",
@@ -218,14 +274,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-130014339-1-1152x648.jpg"
     },
     {
-      "title": "Water company's leaky security earns near-£1M fine",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/11/ico-fines-south-staffordshire-963k-over-2022-breach/5237875",
-      "summary": "Utility provider failed to detect Cl0p ransomware attack for nearly two years",
-      "published": "Mon, 11 May 2026 14:52:48 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237950&width=800"
-    },
-    {
       "title": "NYT’s Wordle to become a TV game show",
       "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
       "summary": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline.",
@@ -242,28 +290,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/graduation-speaker-booed-ai.jpg?quality=85"
     },
     {
-      "title": "Checkmarx tackles another TeamPCP intrusion as Jenkins plugin sabotaged",
-      "link": "https://www.theregister.com/devops/2026/05/11/checkmarx-tackles-another-teampcp-intrusion-as-jenkins-plugin-sabotaged/5237780",
-      "summary": "Cybercrooks ruin engineers' weekends with Saturday attack",
-      "published": "Mon, 11 May 2026 14:11:21 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237931&width=800"
-    },
-    {
       "title": "TikTok launches an ad-free subscription plan in the UK",
       "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
       "summary": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
       "published": "Mon, 11 May 2026 14:05:47 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795"
-    },
-    {
-      "title": "A promising Indian launch startup nears its first orbital test flight",
-      "link": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-      "summary": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
-      "published": "Mon, 11 May 2026 13:53:24 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1449559103-1024x648.jpg"
     },
     {
       "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
@@ -274,28 +306,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Cowbow-Space-Company-photo.jpeg?resize=1200,960"
     },
     {
-      "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
-      "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
-      "summary": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands.",
-      "published": "Mon, 11 May 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Discord-Nitro-Rewards-1200x630-1.png?w=1200"
-    },
-    {
       "title": "New Data Center Equivalent to Setting Off 23 Nuclear Bombs Per Day, Professor Finds",
       "link": "https://futurism.com/artificial-intelligence/data-center-atom-bombs",
       "summary": "<p>Unfathomable.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/data-center-atom-bombs\">New Data Center Equivalent to Setting Off 23 Nuclear Bombs Per Day, Professor Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 11 May 2026 12:29:39 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/data-center-atom-boms.jpg?quality=85"
-    },
-    {
-      "title": "Venmo’s biggest makeover in years comes at a very interesting time",
-      "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
-      "summary": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a stand-alone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
-      "published": "Mon, 11 May 2026 12:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/venmo-app.jpg?resize=1200,800"
     },
     {
       "title": "OpenAI Sued for Mass Shooting: “If ChatGPT Were a Person, It Would Be Facing Murder Charges”",
@@ -306,20 +322,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/openai-sued-mass-shooting.jpg?quality=85"
     },
     {
-      "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
-      "summary": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
-      "published": "Mon, 11 May 2026 11:00:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/thomas-and-sotomayor-1152x648-1778188334.jpg"
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
+      "published": "2026-05-11T19:05:01-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
-      "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-      "summary": "Instead of building robots themselves, the team is focused on a simpler goal — providing data that robots need to learn and operate. They believe that better data will be key to making robots more useful.",
-      "published": "Mon, 11 May 2026 10:58:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704"
+      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+      "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]",
+      "published": "2026-05-11T18:40:20-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]",
+      "published": "2026-05-11T18:19:15-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Govee’s new portable smart lamp is on sale for the first time",
+      "link": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+      "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), [&#8230;]",
+      "published": "2026-05-11T15:56:28-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Palantir&#8217;s true believers are wearing this jacket",
@@ -368,38 +400,6 @@
       "published": "2026-05-11T11:45:32-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/bisselllead.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]",
-      "published": "2026-05-11T11:27:12-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "GM settles California lawsuit claiming it sold driving habit data to insurance companies",
-      "link": "https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies",
-      "summary": "General Motors has agreed to pay $12.75 million to settle a California data privacy lawsuit that accused the automaker of selling driver location and driver data, as reported earlier by Reuters. In a proposed settlement filed on Friday, GM agreed to stop selling customer information to data brokers for five years and must give California [&#8230;]",
-      "published": "2026-05-11T11:11:23-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988525/acastro_STK057_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Matter and OpenADR team up to connect smart homes to the grid",
-      "link": "https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management",
-      "summary": "Smart energy management just took a step closer to becoming simpler. This week, the organizations behind Matter, the smart-home interoperability standard, and the OpenADR protocol, which sends signals between the grid and the home, announced an agreement to work together. This should make it easier for connected appliances to participate in demand response programs (DR) [&#8230;]",
-      "published": "2026-05-11T10:40:28-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-11-at-10.24.55AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Joanna Stern is not a robot, but she lived with them",
-      "link": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
-      "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that because Joanna [&#8230;]",
-      "published": "2026-05-11T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_joanna_stern.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
