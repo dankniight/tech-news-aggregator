@@ -1,6 +1,142 @@
 {
-  "lastUpdated": "2026-05-12T08:46:44.931546",
+  "lastUpdated": "2026-05-12T14:37:32.675201",
   "articles": [
+    {
+      "title": "Frontier AI safety tests may be creating the very risks they're meant to stop",
+      "link": "https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734",
+      "summary": "Think tank warns outsider access to powerful models is governed by patchy controls and a hope nobody dangerous gets in",
+      "published": "Tue, 12 May 2026 14:56:16 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093112&width=800"
+    },
+    {
+      "title": "Cache-poisoning caper turns TanStack npm packages toxic",
+      "link": "https://www.theregister.com/cyber-crime/2026/05/12/cache-poisoning-caper-turns-tanstack-npm-packages-toxic/5238650",
+      "summary": "Six-minute supply chain blitz pushed 84 malicious versions with credential theft and disk-wiping code",
+      "published": "Tue, 12 May 2026 14:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257723&width=800"
+    },
+    {
+      "title": "Instructure strikes deal with hackers who breached it twice",
+      "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+      "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
+      "published": "Tue, 12 May 2026 13:34:04 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/shiny-extortion.jpg?resize=1200,849"
+    },
+    {
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
+      "published": "Tue, 12 May 2026 13:33:05 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-amazon-warehouse-1152x648.jpg"
+    },
+    {
+      "title": "EU browser choice rules send millions more users Firefox's way",
+      "link": "https://www.theregister.com/software/2026/05/12/eu-law-bestows-6m-more-firefox-users-upon-us-moz-says/5238623",
+      "summary": "Mozilla claims the Digital Markets Act delivered lasting bump, invites Britain to do similar",
+      "published": "Tue, 12 May 2026 13:29:42 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5225400&width=800"
+    },
+    {
+      "title": "Dessn raises $6M for its production focused design tool",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-6.45.13-PM.jpeg?resize=1200,560"
+    },
+    {
+      "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
+      "link": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "summary": "TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners.",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800"
+    },
+    {
+      "title": "AI is turning connected cars into pothole-finding machines",
+      "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
+      "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1239765581.jpg?resize=1200,785"
+    },
+    {
+      "title": "Microsoft makes Copilot easier to summon, harder to ignore in Office",
+      "link": "https://www.theregister.com/personal-tech/2026/05/12/microsoft-makes-copilot-easier-to-summon-harder-to-ignore-in-office/5238612",
+      "summary": "It looks like you're trying to get more Microsoft 365 users to engage with your assistant. Would you like help?",
+      "published": "Tue, 12 May 2026 12:59:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5230512&width=800"
+    },
+    {
+      "title": "Spotify’s launches a Wrapped-style recap of your entire listening history",
+      "link": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
+      "summary": "Spotify's new feature will show you the number of unique songs that you listened to until now",
+      "published": "Tue, 12 May 2026 12:44:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Spotify-20_2-1.jpg?resize=1200,683"
+    },
+    {
+      "title": "Windows update prompt joins the Post Office queue",
+      "link": "https://www.theregister.com/offbeat/2026/05/12/windows-update-prompt-joins-the-post-office-queue/5238531",
+      "summary": "Customers left staring at restart plea with no keyboard, mouse, or hope",
+      "published": "Tue, 12 May 2026 12:28:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238543&width=800"
+    },
+    {
+      "title": "Apple, Google drag cross-platform texting into the encrypted age",
+      "link": "https://www.theregister.com/security/2026/05/12/apple-google-drag-cross-platform-texting-into-the-encrypted-age/5238556",
+      "summary": "After years of stopping dead at the green bubble border, iPhone and Android users can finally send E2EE messages without relying on third-party apps",
+      "published": "Tue, 12 May 2026 11:46:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238581&width=800"
+    },
+    {
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "published": "Tue, 12 May 2026 11:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/vapi-founders-jordan-dearsley-nikhil-gupta.jpg?resize=1200,800"
+    },
+    {
+      "title": "ZTE and Claro launch next-generation 4K Ultra HD IP STB in Brazil",
+      "link": "https://www.theregister.com/networks/2026/05/12/zte-and-claro-launch-next-generation-4k-ultra-hd-ip-stb-in-brazil/5238584",
+      "summary": "Device delivers smoother streaming and simpler interaction, elevating home entertainment",
+      "published": "Tue, 12 May 2026 11:22:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093083&width=800"
+    },
+    {
+      "title": "FleetWave outage takes another turn. Chevin confirms crooks accessed customer data",
+      "link": "https://www.theregister.com/cyber-crime/2026/05/12/fleetwave-outage-takes-another-turn-chevin-confirms-crooks-accessed-customer-data/5238046",
+      "summary": "A month after bringing systems back online, SaaS vendor tells customers attackers potentially walked off with operational data, contact details, and payroll numbers",
+      "published": "Tue, 12 May 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238067&width=800"
+    },
+    {
+      "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
+      "link": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+      "summary": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
+      "published": "Tue, 12 May 2026 11:00:34 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12wdr1-1152x648-1778542487.jpg"
+    },
+    {
+      "title": "Unitree Shows Off Fully Functional Mecha Suit",
+      "link": "https://futurism.com/artificial-intelligence/unitree-mecha-suit",
+      "summary": "<p>\"We kindly request hat all users refrain from making any dangerous modifications or using the robot in a hazardous manner.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/unitree-mecha-suit\">Unitree Shows Off Fully Functional Mecha Suit</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 12 May 2026 10:31:29 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/unitree-mecha-suit.jpg?quality=85"
+    },
     {
       "title": "Britain pays Starlink millions despite Musk's calls to overthrow UK government",
       "link": "https://www.theregister.com/networks/2026/05/12/britain-pays-starlink-millions-despite-musks-calls-to-overthrow-uk-government/5238122",
@@ -8,6 +144,30 @@
       "published": "Tue, 12 May 2026 10:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5238177&width=800"
+    },
+    {
+      "title": "Amazon launches 30-minute delivery across the U.S.",
+      "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+      "summary": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.",
+      "published": "Tue, 12 May 2026 10:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024"
+    },
+    {
+      "title": "Husband Alarmed as Wife Starts Whispering Quietly to Her Computer",
+      "link": "https://futurism.com/artificial-intelligence/husband-alarmed-wife-whispering",
+      "summary": "<p>\"I'm talking to my computer all the time now.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/husband-alarmed-wife-whispering\">Husband Alarmed as Wife Starts Whispering Quietly to Her Computer</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 12 May 2026 09:55:36 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/husband-alarmed-wife-whispering.jpg?quality=85"
+    },
+    {
+      "title": "AI Is Giving Your Boss Tools to Be More Monstrous Than Ever Before",
+      "link": "https://futurism.com/artificial-intelligence/ai-boss-surveillance",
+      "summary": "<p>\"Many jobs will remain in the future, but they will be more pressured, more fragmented and less human.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-boss-surveillance\">AI Is Giving Your Boss Tools to Be More Monstrous Than Ever Before</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 12 May 2026 09:06:41 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/ai-boss-surveillance.jpg?quality=85"
     },
     {
       "title": "Japan’s PM orders cybersecurity review to stop Mythos going full CyberZilla",
@@ -18,52 +178,12 @@
       "image_url": "https://image.theregister.com/?imageId=5238519&width=800"
     },
     {
-      "title": "Veteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6",
-      "link": "https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474",
-      "summary": "Giving v4 an ‘area code’ based on ASNs to give operators more addresses to play with, without upgrades",
-      "published": "Tue, 12 May 2026 06:44:16 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238497&width=800"
-    },
-    {
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
       "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
       "published": "Tue, 12 May 2026 04:52:35 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879"
-    },
-    {
-      "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
-      "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
-      "summary": "Code hosting biz is trimming its global footprint and flattening its management layer",
-      "published": "Tue, 12 May 2026 03:58:07 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238106&width=800"
-    },
-    {
-      "title": "Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter",
-      "link": "https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373",
-      "summary": "Orbital compute platform, which launched on a mission to the ISS last year, gets an immutable upgrade alongside refreshed container images",
-      "published": "Tue, 12 May 2026 02:14:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238398&width=800"
-    },
-    {
-      "title": "Quit VMware and you’ll emerge with more complex and less capable infrastructure",
-      "link": "https://www.theregister.com/virtualization/2026/05/12/quit-vmware-and-youll-emerge-with-more-complex-and-less-capable-infrastructure/5238442",
-      "summary": "Analyst says modernizing applications is probably a better use of your time than hypervisor migration",
-      "published": "Tue, 12 May 2026 01:59:06 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5229528&width=800"
-    },
-    {
-      "title": "Double Canvas breach acknowledged as ShinyHunters sets new pay-or-leak deadline",
-      "link": "https://www.theregister.com/security/2026/05/12/double-canvas-intrusion-confirmed-as-shinyhunters-resets-leak-deadline/5238361",
-      "summary": "UPDATED: Sorry, kids, everything's back up so get to work on your new assignment - An essay on the ethics of paying ransoms, because it looks like that's what happened here",
-      "published": "Tue, 12 May 2026 01:16:25 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238393&width=800"
     },
     {
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
@@ -82,52 +202,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/potomac-fuel-spill-military.jpg?quality=85"
     },
     {
-      "title": "Residents Furious After Their Town Board Rejected an OpenAI Data Center, But a Billionaire Developer Forced It Through Anyway",
-      "link": "https://futurism.com/artificial-intelligence/data-center-openai-residents",
-      "summary": "<p>\"I feel like I'm playing by a different rule book. Like I'm playing baseball and they're playing football.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/data-center-openai-residents\">Residents Furious After Their Town Board Rejected an OpenAI Data Center, But a Billionaire Developer Forced It Through Anyway</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 10 May 2026 12:45:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/data-center-openai-residents.jpg?quality=85"
-    },
-    {
-      "title": "Japan Deploying Combat Drones Made of Cardboard",
-      "link": "https://futurism.com/robots-and-machines/japan-cardboard-drones",
-      "summary": "<p>\"This model can be manufactured at any cardboard plant, ensuring high mass production capability and a robust supply chain.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/japan-cardboard-drones\">Japan Deploying Combat Drones Made of Cardboard</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 10 May 2026 12:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/japan-cardboard-drones.jpg?quality=85"
-    },
-    {
-      "title": "ChatGPT Is Saying Weird Things in Chinese",
-      "link": "https://futurism.com/artificial-intelligence/chatpgt-weird-chinese",
-      "summary": "<p>\"We don't know how to say: 'this is good writing, but if we do this good writing thing 10 times, then it's no longer good writing.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/chatpgt-weird-chinese\">ChatGPT Is Saying Weird Things in Chinese</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 10 May 2026 11:15:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/chatpgt-weird-chinese_b13548.jpg?quality=85"
-    },
-    {
       "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
       "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
       "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
       "published": "Mon, 11 May 2026 23:04:10 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800"
-    },
-    {
-      "title": "Rodent-obsessed developer creates Ratty to bring 3D graphics to the command line",
-      "link": "https://www.theregister.com/software/2026/05/11/ratty-terminal-emulator-brings-3d-graphics-to-the-command-line/5238299",
-      "summary": "Inspired by TempleOS, this terminal emulator is just about as bonkers",
-      "published": "Mon, 11 May 2026 22:54:30 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238345&width=800"
-    },
-    {
-      "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
-      "link": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
-      "summary": "An intern who failed this much would be shown the door",
-      "published": "Mon, 11 May 2026 22:50:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238321&width=800"
     },
     {
       "title": "Linux bitten by second severe vulnerability in as many weeks",
@@ -138,28 +218,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
     },
     {
-      "title": "Cookie thieves caught stealing dev secrets via fake Claude Code installers",
-      "link": "https://www.theregister.com/security/2026/05/11/cookie-thieves-caught-stealing-dev-secrets/5238248",
-      "summary": "New IElevator2 COM interface? No problem",
-      "published": "Mon, 11 May 2026 22:21:09 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238330&width=800"
-    },
-    {
       "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
       "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
       "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
       "published": "Mon, 11 May 2026 22:01:57 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A260907_large-1-1152x648.jpg"
-    },
-    {
-      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-      "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-      "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
-      "published": "Mon, 11 May 2026 21:59:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2194681867.jpg?resize=1200,700"
     },
     {
       "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
@@ -170,7 +234,7 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/eero-wi-fi-router-1152x648-1778529597.jpg"
     },
     {
-      "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+      "title": "Data center guzzled 30 million gallons of water, and nobody noticed for months",
       "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
       "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
       "published": "Mon, 11 May 2026 20:37:00 +0000",
@@ -202,14 +266,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/grok-beatdown-musk-socialism.jpg?quality=85"
     },
     {
-      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-      "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-      "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-      "published": "Mon, 11 May 2026 17:38:32 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Helsing.jpg?resize=1200,962"
-    },
-    {
       "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
       "link": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
       "summary": "Probably the last big updates we'll see before the next versions appear at WWDC.",
@@ -226,44 +282,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/unnamed-1-1152x648.jpg"
     },
     {
-      "title": "Bravo is creating unscripted microdramas for the Peacock app",
-      "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-      "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
-      "published": "Mon, 11 May 2026 17:14:01 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2205537583.jpg?resize=1200,800"
-    },
-    {
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-      "published": "Mon, 11 May 2026 17:02:35 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/digg-ver2-at-10.40.29-AM.jpg?resize=1200,888"
-    },
-    {
       "title": "Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack",
       "link": "https://futurism.com/artificial-intelligence/google-ai-cyberattack",
       "summary": "<p>\"It's a taste of what's to come.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-ai-cyberattack\">Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 11 May 2026 16:40:37 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/google-ai-cyberattack.jpg?quality=85"
-    },
-    {
-      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-      "link": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
-      "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-      "published": "Mon, 11 May 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/redwood-materials-lithium.jpg?resize=1200,900"
-    },
-    {
-      "title": "Pirates are already playing Forza Horizon 6 days before its launch",
-      "link": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
-      "summary": "Crackers take advantage of unencrypted files that briefly appeared on Steam.",
-      "published": "Mon, 11 May 2026 15:29:16 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/forza2.jpg"
     },
     {
       "title": "Angry Mom Defeats Entire AI Data Center",
@@ -274,36 +298,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/wisconsin-mom-ai-data-center.jpg?quality=85"
     },
     {
-      "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
-      "link": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
-      "summary": "Rather than dig in, the sport is being proactive about fixing the problem.",
-      "published": "Mon, 11 May 2026 15:20:09 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-130014339-1-1152x648.jpg"
-    },
-    {
-      "title": "NYT’s Wordle to become a TV game show",
-      "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-      "summary": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline.",
-      "published": "Mon, 11 May 2026 14:23:25 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/02/wordle-sells-1.webp?resize=1200,674"
-    },
-    {
       "title": "Graduation Speaker Shocked When She’s Loudly Booed by Students for Saying AI Is the Future",
       "link": "https://futurism.com/artificial-intelligence/graduation-speaker-booed-ai",
       "summary": "<p>\"What happened?\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/graduation-speaker-booed-ai\">Graduation Speaker Shocked When She’s Loudly Booed by Students for Saying AI Is the Future</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 11 May 2026 14:20:55 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/graduation-speaker-booed-ai.jpg?quality=85"
-    },
-    {
-      "title": "TikTok launches an ad-free subscription plan in the UK",
-      "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
-      "summary": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
-      "published": "Mon, 11 May 2026 14:05:47 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795"
     },
     {
       "title": "New Data Center Equivalent to Setting Off 23 Nuclear Bombs Per Day, Professor Finds",
@@ -322,6 +322,70 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/openai-sued-mass-shooting.jpg?quality=85"
     },
     {
+      "title": "There’s an internet choke point in the Middle East — is the solution in the North Pole?",
+      "link": "https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect",
+      "summary": "The vast majority of the world's data - emails, financial transactions, the internet - is carried by fiber optic cables that run along the ocean floor and converge at a few narrow choke points. Periodically, policymakers will release reports noting that this arrangement seems risky, but these routes are the shortest, often in use since [&#8230;]",
+      "published": "2026-05-12T10:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2215296865.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
+      "link": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
+      "summary": "Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now also widely available in Atlanta and Dallas-Fort Worth, but will soon be expanding to [&#8230;]",
+      "published": "2026-05-12T09:34:12-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/amazon_now.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Waymo recalls robotaxis for driving on flooded roads",
+      "link": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
+      "summary": "Waymo is recalling its autonomous driving software that allowed its vehicles to drive on flooded roads. The recall affects 3,791 vehicles that operate using Waymo's fifth and sixth generation systems. In documents filed with the National Highway Traffic Safety Administration, the Alphabet-owned company said that an unoccupied Waymo robotaxi \"encountered an untraversable flooded section of [&#8230;]",
+      "published": "2026-05-12T09:32:39-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2258017037.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Canvas owner reaches &#8216;agreement&#8217; with hackers to secure stolen data",
+      "link": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
+      "summary": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online. The ShinyHunters hacking group claimed responsibility for the attack before Canvas was briefly taken offline. The group threatened to publish 3.5 terabytes of student [&#8230;]",
+      "published": "2026-05-12T09:23:10-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Spotify’s latest ‘Wrapped’ covers your entire music history",
+      "link": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
+      "summary": "Spotify is celebrating its 20th anniversary by giving listeners a \"fully personalized look at their entire music history.\" Starting today, Spotify mobile app users can access a new Wrapped-like experience that features \"never-before-shared data\" going back to when they first joined the service. The \"Spotify 20: Your Party of the Year(s)\" experience will allow users [&#8230;]",
+      "published": "2026-05-12T08:15:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Spotify-20th-anniversary-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "How to watch Google’s Android Show: I/O Edition today",
+      "link": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
+      "summary": "Google I/O is still a week away, but Google's big announcements kick off today with the \"Android Show: I/O Edition,\" where it's expected to announce the major Android ecosystem highlights coming to its annual developer conference. When the Android Show will happen and where you can watch it Android Show: I/O Edition will be streaming [&#8230;]",
+      "published": "2026-05-12T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "eBay rejects GameStop’s $56 billion acquisition bid",
+      "link": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
+      "summary": "eBay has officially rejected GameStop's offer to buy the online marketplace for $56 billion, citing concerns around \"operational risks\" and how the acquisition will be financed. In a letter to GameStop CEO Ryan Cohen on Tuesday, eBay's board of directors said it has \"concluded that your proposal is neither credible nor attractive.\" \"We have taken [&#8230;]",
+      "published": "2026-05-12T06:55:02-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2274483669.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "These new Roombas are smaller and cheaper",
+      "link": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "summary": "iRobot has announced a new line of Roombas, a year after it debuted its first lidar-based robot vacuums. This week, it introduced eight robot vacuums that improve on its current lineup and feature lower prices, some up to &#163;200 (about $270) cheaper. Key changes include higher suction power, a smaller overall size to better navigate [&#8230;]",
+      "published": "2026-05-12T05:02:25-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Roomba_Plus_575_Combo_AutoWash_White_Photo_Lifestyle_Docked_Livingroom_Overlay.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
       "link": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
       "summary": "Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with performance upgrades [&#8230;]",
@@ -336,70 +400,6 @@
       "published": "2026-05-11T19:05:01-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-      "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-      "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]",
-      "published": "2026-05-11T18:40:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]",
-      "published": "2026-05-11T18:19:15-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Govee’s new portable smart lamp is on sale for the first time",
-      "link": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
-      "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), [&#8230;]",
-      "published": "2026-05-11T15:56:28-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Palantir&#8217;s true believers are wearing this jacket",
-      "link": "https://www.theverge.com/report/928026/palantir-chore-coat",
-      "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. At $239 and in bright [&#8230;]",
-      "published": "2026-05-11T14:26:04-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268519_Why_would_Palantir_make_a_chore_coat__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple brings encrypted RCS chats to iPhone",
-      "link": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
-      "summary": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. With iOS 26.5, you'll see a [&#8230;]",
-      "published": "2026-05-11T13:57:56-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.medium_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
-      "link": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
-      "summary": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in [&#8230;]",
-      "published": "2026-05-11T13:04:22-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]",
-      "published": "2026-05-11T12:09:42-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "A million baby monitors and security cameras were easily viewable by hackers",
-      "link": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
-      "summary": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty [&#8230;]",
-      "published": "2026-05-11T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meari-baby-monitor-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
