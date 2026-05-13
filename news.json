@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-12T19:59:40.125654",
+  "lastUpdated": "2026-05-13T03:52:00.262986",
   "articles": [
+    {
+      "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs",
+      "link": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224",
+      "summary": "The good news: no 0-days. The bad news: busy week ahead for Microsoft admins",
+      "published": "Wed, 13 May 2026 01:51:20 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239252&width=800"
+    },
+    {
+      "title": "Google users fight for refunds as unauthorized API usage bills soar",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/google-users-fight-for-refunds-as-unauthorized-api-usage-bills-soar/5239160",
+      "summary": "'What the hell is going on? It's just draining my money'",
+      "published": "Wed, 13 May 2026 01:03:33 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239198&width=800"
+    },
+    {
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "published": "Wed, 13 May 2026 00:26:48 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800"
+    },
+    {
+      "title": "Foxconn confirms cyberattack after ransomware crew claims it stole confidential Apple, Nvidia files",
+      "link": "https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144",
+      "summary": "Affected factories back up and running, we're told",
+      "published": "Wed, 13 May 2026 00:02:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239187&width=800"
+    },
+    {
+      "title": "Google launches line of Android laptops festooned with Gemini AI",
+      "link": "https://www.theregister.com/personal-tech/2026/05/12/google-launches-line-of-android-laptops-festooned-with-gemini-ai/5239091",
+      "summary": "If you're not a fan of having AI baked into your OS, look elsewhere",
+      "published": "Tue, 12 May 2026 23:15:17 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239111&width=800"
+    },
+    {
+      "title": "Hollywood A-listers back proposed standard that would pay them when AI uses their likeness or work",
+      "link": "https://www.theregister.com/ai-ml/2026/05/12/actors-new-spec-aims-to-defeat-attack-of-the-ai-clones/5239115",
+      "summary": "RSL Media expands machine-readable licensing rules to cover AI use of identities and creative works",
+      "published": "Tue, 12 May 2026 22:57:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239184&width=800"
+    },
+    {
+      "title": "The newest AI boom pitch: Host a mini data center at your home",
+      "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+      "summary": "The plan aims to speed up AI compute deployment while compensating residents.",
+      "published": "Tue, 12 May 2026 21:59:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/XFRA-SPAN-Lifestyle-Brown-house-1152x648.png"
+    },
+    {
+      "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
+      "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
+      "summary": "Makary reportedly spent his year bucking Trump admin and making industry enemies.",
+      "published": "Tue, 12 May 2026 21:26:47 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2271357224-1152x648.jpg"
+    },
+    {
+      "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+      "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "summary": "A case study in why credentials are revoked before firings.",
+      "published": "Tue, 12 May 2026 19:12:07 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472540653-1152x648-1778610381.jpg"
+    },
     {
       "title": "US Army goes green-ish, wants soldiers munching on plant proteins",
       "link": "https://www.theregister.com/offbeat/2026/05/12/us-army-eyes-alternative-proteins-for-soldiers-in-the-field/5238969",
@@ -26,9 +98,9 @@
       "image_url": "https://image.theregister.com/?imageId=5239018&width=800"
     },
     {
-      "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
       "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
+      "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
       "published": "Tue, 12 May 2026 18:45:05 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_9680.jpeg?w=1170"
@@ -52,7 +124,7 @@
     {
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
       "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
       "published": "Tue, 12 May 2026 18:05:15 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800"
@@ -76,7 +148,7 @@
     {
       "title": "Anthropic warns investors against secondary platforms offering access to its shares",
       "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
       "published": "Tue, 12 May 2026 17:36:34 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024"
@@ -140,18 +212,10 @@
     {
       "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
       "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
       "published": "Tue, 12 May 2026 17:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800"
-    },
-    {
-      "title": "Android adds a feature to stop you from doomscrolling",
-      "link": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
-      "summary": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
-      "published": "Tue, 12 May 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/doomscrolling-GettyImages-2197384352.jpg?resize=1200,800"
     },
     {
       "title": "US bank reports itself after slinging customer data at 'unauthorized AI app'",
@@ -162,36 +226,12 @@
       "image_url": "https://image.theregister.com/?imageId=5238826&width=800"
     },
     {
-      "title": "SpaceX Starship completes Wet Dress Rehearsal, gets ready for launch",
-      "link": "https://www.theregister.com/science/2026/05/12/spacex-starship-completes-wet-dress-rehearsal-gets-ready-for-launch/5238767",
-      "summary": "Launch of Musk's monster rocket could be in May",
-      "published": "Tue, 12 May 2026 16:22:49 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238835&width=800"
-    },
-    {
-      "title": "Lawsuit brought by former store operators missing from Vodafone results",
-      "link": "https://www.theregister.com/networks/2026/05/12/lawsuit-brought-by-former-store-operators-missing-from-vodafone-results/5238690",
-      "summary": "Former franchise operators claim telco unfairly cut commission and other payments",
-      "published": "Tue, 12 May 2026 15:34:53 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238750&width=800"
-    },
-    {
-      "title": "NHS England confirms: Palantir staff can access patient data",
-      "link": "https://www.theregister.com/databases/2026/05/12/nhs-england-confirms-palantir-staff-can-access-patient-data/5238712",
-      "summary": "Tech firm's employees can get an 'admin' role letting them into the National Data Integration Tenant...  and its identifiable information",
-      "published": "Tue, 12 May 2026 15:26:20 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238831&width=800"
-    },
-    {
-      "title": "Frontier AI safety tests may be creating the very risks they're meant to stop",
-      "link": "https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734",
-      "summary": "Think tank warns outsider access to powerful models is governed by patchy controls and a hope nobody dangerous gets in",
-      "published": "Tue, 12 May 2026 14:56:16 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093112&width=800"
+      "title": "Large Study Finds That Replacing Workers With AI Is Backfiring Badly",
+      "link": "https://futurism.com/artificial-intelligence/layoffs-ai-automation-backfire",
+      "summary": "<p>Oops.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/layoffs-ai-automation-backfire\">Large Study Finds That Replacing Workers With AI Is Backfiring Badly</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 12 May 2026 16:32:54 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/layoffs-ai-automation-backfire.jpg?quality=85"
     },
     {
       "title": "OpenAI Sued Over ChatGPT Medical Advice That Allegedly Killed College Student",
@@ -202,14 +242,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/openai-sued-chatgpt-medical-advice-killed-student.jpg?quality=85"
     },
     {
-      "title": "Cache-poisoning caper turns TanStack npm packages toxic",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/12/cache-poisoning-caper-turns-tanstack-npm-packages-toxic/5238650",
-      "summary": "Six-minute supply chain blitz pushed 84 malicious versions with credential theft and disk-wiping code",
-      "published": "Tue, 12 May 2026 14:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257723&width=800"
-    },
-    {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
       "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
@@ -218,9 +250,9 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-amazon-warehouse-1152x648.jpg"
     },
     {
-      "title": "New York Times Issues Stern Warning About AI Use to Its Freelance Writers",
+      "title": "New York Times Issues Stern Warning to Its Freelance Writers About AI Use",
       "link": "https://futurism.com/artificial-intelligence/new-york-times-freelancers-ai-rules",
-      "summary": "<p>\"To be clear on AI...\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/new-york-times-freelancers-ai-rules\">New York Times Issues Stern Warning About AI Use to Its Freelance Writers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"To be clear on AI...\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/new-york-times-freelancers-ai-rules\">New York Times Issues Stern Warning to Its Freelance Writers About AI Use</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 12 May 2026 13:24:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/new-york-times-freelancers-ai-rules_f13567.jpg?quality=85"
@@ -274,30 +306,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/ai-boss-surveillance.jpg?quality=85"
     },
     {
-      "title": "Linux bitten by second severe vulnerability in as many weeks",
-      "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-      "summary": "Production-version patches are coming online and should be installed pronto.",
-      "published": "Mon, 11 May 2026 22:28:19 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
-    },
-    {
-      "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
-      "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
-      "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
-      "published": "Mon, 11 May 2026 22:01:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A260907_large-1-1152x648.jpg"
-    },
-    {
-      "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
-      "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
-      "published": "Mon, 11 May 2026 20:48:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/eero-wi-fi-router-1152x648-1778529597.jpg"
-    },
-    {
       "title": "Grok Just Issued a Brutal Beatdown to Elon Musk",
       "link": "https://futurism.com/future-society/grok-beatdown-musk-socialism",
       "summary": "<p>\"More than one thing can be true, but this isn't one.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/grok-beatdown-musk-socialism\">Grok Just Issued a Brutal Beatdown to Elon Musk</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -314,12 +322,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/google-ai-cyberattack.jpg?quality=85"
     },
     {
-      "title": "Angry Mom Defeats Entire AI Data Center",
-      "link": "https://futurism.com/artificial-intelligence/wisconsin-mom-ai-data-center",
-      "summary": "<p>“When you speak about wanting changes for cleaner air, and you have a child who's impacted, it hits differently.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/wisconsin-mom-ai-data-center\">Angry Mom Defeats Entire AI Data Center</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 11 May 2026 15:26:06 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/wisconsin-mom-ai-data-center.jpg?quality=85"
+      "title": "Sony’s new Xperia phone gets an overdue redesign",
+      "link": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+      "summary": "Sony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what should be a substantially improved telephoto camera, along with an AI camera assistant that looks like an improved version of [&#8230;]",
+      "published": "2026-05-12T22:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sony-xperia-1-viii-colors.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Sam Altman was winning on the stand, but it might not be enough",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+      "summary": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, [&#8230;]",
+      "published": "2026-05-12T19:23:14-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "iOS 27 might add a lot more customization to the Camera app",
+      "link": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
+      "summary": "Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be \"fully customizable\" in iOS 27 and users will be able to \"pick their own set of controls - called widgets - that run along [&#8230;]",
+      "published": "2026-05-12T17:36:11-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Meta won’t let you block its AI account on Threads",
+      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people [&#8230;]",
+      "published": "2026-05-12T16:35:23-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
@@ -368,38 +400,6 @@
       "published": "2026-05-12T13:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini_intell.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Panasonic’s new Lumix L10 is a compact camera with a focus on photography",
-      "link": "https://www.theverge.com/tech/928767/panasonic-lumix-l10-four-thirds-sensor-digital-camera-price-availability",
-      "summary": "Panasonic has announced a new addition to its Lumix camera line with a compact body and fixed lens that's targeted at photographers instead of creators making video content. The Lumix L10 is available for preorder today with a black or silver finish for $1,499.99. To celebrate the 25th anniversary of the Lumix brand, the L10 [&#8230;]",
-      "published": "2026-05-12T12:56:54-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/panasonic_lumix1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical professional would have recognized as deadly,\" resulting in his [&#8230;]",
-      "published": "2026-05-12T12:30:33-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Android Show 2026: all the news and announcements",
-      "link": "https://www.theverge.com/tech/928624/android-show-2026-all-the-news-and-announcements",
-      "summary": "Google I/O is just days away, and that means it’s time for another Android Show event to unpack all the Android ecosystem highlights Google has in store.&#160; The highlight of this year’s Android Show was Googlebooks, a new line of laptops running Android. They can cast apps from Android phones, pull files directly from a [&#8230;]",
-      "published": "2026-05-12T12:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO20262_v4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sam Altman takes the stand in trial against Elon Musk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-      "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team at OpenAI, with Musk investing up [&#8230;]",
-      "published": "2026-05-12T12:05:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
