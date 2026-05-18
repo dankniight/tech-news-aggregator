@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-17T19:15:20.228866",
+  "lastUpdated": "2026-05-18T04:08:06.041269",
   "articles": [
+    {
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "published": "Sun, 17 May 2026 20:15:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800"
+    },
+    {
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "published": "Sun, 17 May 2026 19:46:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800"
+    },
     {
       "title": "Agent harnesses, like OpenClaw, are changing how we build and run AI models",
       "link": "https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530",
@@ -202,22 +218,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800"
     },
     {
-      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-      "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
-      "published": "Sat, 16 May 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
-    },
-    {
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
-      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
-      "published": "Sat, 16 May 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2017/11/2007-kindle-1st-gen-angle-gettyimages-93559279.jpg?resize=1200,791"
-    },
-    {
       "title": "Europe built sovereign clouds to escape US control. Then forgot about the processors",
       "link": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
       "summary": "Intel ME and AMD PSP: The silicon layer nobody certifies",
@@ -234,28 +234,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-1152x648.jpg"
     },
     {
-      "title": "One in seven Brits swapped their GP for ChatGPT, study finds",
-      "link": "https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514",
-      "summary": "Patients are using chatbots for medical advice, while the NHS is still debating where AI belongs",
-      "published": "Sat, 16 May 2026 10:33:00 +0200",
+      "title": "Samsung’s weather app sparks storm of controversy by handing territory to North Korea",
+      "link": "https://www.theregister.com/personal-tech/2026/05/18/samsungs-weather-app-sparks-storm-of-controversy-by-handing-territory-to-north-korea/5241656",
+      "summary": "PLUS: China-linked cyber-attack on central Asian oil sector; Bottom falls out of Indian smartphone sales; And more!",
+      "published": "Mon, 18 May 2026 04:47:09 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5240526&width=800"
+      "image_url": "https://image.theregister.com/?imageId=4093112&width=800"
     },
     {
-      "title": "Google reimburses Register sources who were victims of API fraud",
-      "link": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429",
-      "summary": "But it's holding fast on auto-expanding customers' budgets",
-      "published": "Fri, 15 May 2026 23:26:32 +0200",
+      "title": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’",
+      "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "summary": "Multiple researchers using the same tools to find the same bugs are creating ‘unnecessary pain and pointless work’",
+      "published": "Mon, 18 May 2026 01:39:47 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5241525&width=800"
+      "image_url": "https://image.theregister.com/?imageId=234872&width=800"
     },
     {
-      "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
-      "link": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
-      "summary": "BYO power for AI bit barns may be the best way to ease the problem, says energy watchdog",
-      "published": "Fri, 15 May 2026 23:02:01 +0200",
+      "title": "Surprise AI bills leave AWS and Google Cloud users aghast",
+      "link": "https://www.theregister.com/ai-ml/2026/05/18/surprise-ai-bills-leave-aws-and-google-cloud-users-aghast/5241348",
+      "summary": "Stuck with an AI bill for tens of thousands of dollars? You're not alone by a long shot",
+      "published": "Mon, 18 May 2026 01:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254320&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5240671&width=800"
     },
     {
       "title": "Russia pressures university students to become wartime drone pilots",
@@ -320,6 +320,14 @@
       "published": "Fri, 15 May 2026 18:51:43 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-1152x648.jpg"
+    },
+    {
+      "title": "Microsoft is retiring Teams’ Together Mode",
+      "link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI [&#8230;]",
+      "published": "2026-05-17T17:15:28-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20073111/togethermode.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Revamped Siri will reportedly offer auto-deleting chats",
@@ -392,14 +400,6 @@
       "published": "2026-05-16T11:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ManoushZomorodi4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
-      "link": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res [&#8230;]",
-      "published": "2026-05-16T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
