@@ -1,13 +1,53 @@
 {
-  "lastUpdated": "2026-05-19T04:01:35.082333",
+  "lastUpdated": "2026-05-19T09:55:12.984884",
   "articles": [
+    {
+      "title": "Windows Firewall stands between you and greasy delight",
+      "link": "https://www.theregister.com/oses/2026/05/19/windows-firewall-stands-between-you-and-greasy-delight/5241050",
+      "summary": "You don't really want that entering your system, do you?",
+      "published": "Tue, 19 May 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5241184&width=800"
+    },
+    {
+      "title": "The class of 2026 has heard enough about AI, thanks",
+      "link": "https://www.theregister.com/ai-ml/2026/05/19/the-class-of-2026-has-heard-enough-about-ai-thanks/5242080",
+      "summary": "From campus ceremonies to Linux communities and academic journals, resistance to LLM evangelism is getting louder",
+      "published": "Tue, 19 May 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5242126&width=800"
+    },
+    {
+      "title": "Baidu says the quiet part out loud – you can’t build AI infrastructure, so clouds can cash in",
+      "link": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
+      "summary": "CFO says GPU rentals are ‘structurally higher margin than CPU cloud’",
+      "published": "Tue, 19 May 2026 08:52:46 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230838&width=800"
+    },
+    {
+      "title": "Iran hints it could interfere with submarine cables in the Strait of Hormuz",
+      "link": "https://www.theregister.com/networks/2026/05/19/iran-hints-it-could-interfere-with-submarine-cables-in-the-strait-of-hormuz/5242319",
+      "summary": "Threatens unspecified ‘fees’ and warns of economic consequences – yet only major kinetic action could stop data flows entirely",
+      "published": "Tue, 19 May 2026 06:27:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094156&width=800"
+    },
+    {
+      "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+      "link": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+      "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
+      "published": "Tue, 19 May 2026 05:50:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-18-at-10.39.47-PM.png?w=1012"
+    },
     {
       "title": "VMware quietly debuts Arm hypervisor tech preview",
       "link": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
       "summary": "Supports Nvidia Grace and Ampere processors",
       "published": "Tue, 19 May 2026 04:02:24 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=238469&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5242317&width=800"
     },
     {
       "title": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them",
@@ -32,14 +72,6 @@
       "published": "Tue, 19 May 2026 00:07:59 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5242247&width=800"
-    },
-    {
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "published": "Sun, 17 May 2026 20:15:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800"
     },
     {
       "title": "James Webb Spots Strange Structure at Core of Distant Galaxy",
@@ -98,14 +130,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1126690759-1152x648-1779132662.jpg"
     },
     {
-      "title": "Yes, you can serve a website from a $1 microcontroller",
-      "link": "https://www.theregister.com/offbeat/2026/05/18/yes-you-can-serve-a-website-from-a-1-microcontroller/5242096",
-      "summary": "Well, page is more accurate, but the source code is available if you want to try doing something even crazier",
-      "published": "Mon, 18 May 2026 20:00:57 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242134&width=800"
-    },
-    {
       "title": "One Mars spacecraft, two senators, and a cloud of questions",
       "link": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
       "summary": "\"I think there's plenty of fire lit under them already.\"",
@@ -128,14 +152,6 @@
       "published": "Mon, 18 May 2026 18:37:55 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Excavation.-Photo-BQ-1131x648.jpg"
-    },
-    {
-      "title": "Linux kernel flaw opens root-only files to unprivileged users",
-      "link": "https://www.theregister.com/security/2026/05/18/linux-kernel-flaw-opens-root-only-files-to-unprivileged-users/5241950",
-      "summary": "Plus ModuleJail, a radical proposal for minimizing the impact of similar bugs",
-      "published": "Mon, 18 May 2026 18:20:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683625&width=800"
     },
     {
       "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
@@ -162,14 +178,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pompeii1-1-1152x648.jpg"
     },
     {
-      "title": "Europe tests laser links as satellite comms outgrow radio",
-      "link": "https://www.theregister.com/networks/2026/05/18/europe-tests-laser-links-as-satellite-comms-outgrow-radio/5242012",
-      "summary": "Greek mountaintop ground station aims infrared beams at CubeSats in ESA-backed optical networking trial",
-      "published": "Mon, 18 May 2026 17:38:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242044&width=800"
-    },
-    {
       "title": "Guy Gardner makes a cameo in new Lanterns teaser",
       "link": "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
       "summary": "\"This ring? It's the greatest weapon in the Universe. When and if to use it, that's the whole ball game.\"",
@@ -192,14 +200,6 @@
       "published": "Mon, 18 May 2026 17:26:15 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/unnamed-1-1-1152x648.jpg"
-    },
-    {
-      "title": "Dutch cops’ shame game works wonders as most wanted scammers now turned in",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/18/dutch-cops-shame-games-nets-74-wanted-fraudsters/5241980",
-      "summary": "Game Over?! gamified the identification of scammers who sought thrills from terrorising the elderly",
-      "published": "Mon, 18 May 2026 17:09:25 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5220456&width=800"
     },
     {
       "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
