@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-05-20T04:02:23.037546",
+  "lastUpdated": "2026-05-20T09:42:57.835435",
   "articles": [
+    {
+      "title": "PostgreSQL backup tool gets some backup of its own after sole maintainer sounds alarm",
+      "link": "https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822",
+      "summary": "AWS, Percona, Supabase, pgEdge, and Tiger Data rally round pgBackRest with funding pledge",
+      "published": "Wed, 20 May 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5242864&width=800"
+    },
+    {
+      "title": "ZTE releases Sustainability Report 2025: driving a new chapter in sustainable development through AI",
+      "link": "https://www.theregister.com/networks/2026/05/20/zte-releases-sustainability-report-2025-driving-a-new-chapter-in-sustainable-development-through-ai/5243185",
+      "summary": "Through its \"All in AI, AI for All\" vision, ZTE surpasses climate targets, bridges the global digital divide, and strengthens governance resilience",
+      "published": "Wed, 20 May 2026 10:23:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243191&width=800"
+    },
+    {
+      "title": "Space factories edge closer after experimental capsule survives hypersonic landing",
+      "link": "https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140",
+      "summary": "Varda hails success of autonomous touchdown tech and celebrates heat data haul",
+      "published": "Wed, 20 May 2026 08:21:07 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243152&width=800"
+    },
+    {
+      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
+      "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
+      "summary": "Volvo is coming for its competitors with more efficient production and newer tech.",
+      "published": "Wed, 20 May 2026 07:00:57 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/33-1152x648-1779202622.jpg"
+    },
+    {
+      "title": "Google Cloud suspended major customer Railway.com without cause, causing outage",
+      "link": "https://www.theregister.com/off-prem/2026/05/20/google-cloud-suspended-major-customer-railwaycom-without-cause-causing-outage/5243111",
+      "summary": "This is the service we get when we spend $10m plus? asks automated code deployment outfit",
+      "published": "Wed, 20 May 2026 06:37:43 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257741&width=800"
+    },
+    {
+      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+      "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
+      "published": "Wed, 20 May 2026 05:45:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png?resize=1200,665"
+    },
     {
       "title": "AI sackings reach New Zealand, which will use it to eject 14 percent of government staff",
       "link": "https://www.theregister.com/public-sector/2026/05/20/ai-sackings-reach-new-zealand-which-will-use-it-to-eject-14-percent-of-government-staff/5243076",
@@ -122,14 +170,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/jpegPIA10500.jpg"
     },
     {
-      "title": "Firefox 151 helps you edit PDFs – and switch OSes",
-      "link": "https://www.theregister.com/software/2026/05/19/firefox-151-helps-you-edit-pdfs-and-switch-oses/5242888",
-      "summary": "Export a profile on Windows, restore it on Linux. Extensions and themes too",
-      "published": "Tue, 19 May 2026 20:20:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242942&width=800"
-    },
-    {
       "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
       "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
       "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
@@ -144,22 +184,6 @@
       "published": "Tue, 19 May 2026 19:52:01 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-1152x648.jpg"
-    },
-    {
-      "title": "America's top cyber-defense agency left a GitHub repo open with with passwords, keys, tokens – and incredibly obvious filenames",
-      "link": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915",
-      "summary": "I wonder what's in 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'?",
-      "published": "Tue, 19 May 2026 19:49:17 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242949&width=800"
-    },
-    {
-      "title": "Shadow AI invades the workplace, up 4x in the last year",
-      "link": "https://www.theregister.com/ai-ml/2026/05/19/shadow-ai-surges-in-the-workplace/5242868",
-      "summary": "Employers increasingly blind to unauthorized AI use and where their staff are sending proprietary files",
-      "published": "Tue, 19 May 2026 19:24:46 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254972&width=800"
     },
     {
       "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
@@ -202,14 +226,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221902591-1152x648.jpg"
     },
     {
-      "title": "Airbus gets HPC-as-a-service supercomputer from Bull",
-      "link": "https://www.theregister.com/hpc/2026/05/19/airbus-gets-hpc-as-a-service-supercomputer-from-bull/5242756",
-      "summary": "Aerospace giant rents new system over 5 years to help develop new aircraft",
-      "published": "Tue, 19 May 2026 18:12:14 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242796&width=800"
-    },
-    {
       "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
       "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
       "summary": "Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.",
@@ -224,22 +240,6 @@
       "published": "Tue, 19 May 2026 17:51:39 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662"
-    },
-    {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-      "published": "Tue, 19 May 2026 17:51:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900"
-    },
-    {
-      "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
-      "link": "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
-      "summary": "LG's latest hits one frame per millisecond at a full 1080p resolution.",
-      "published": "Tue, 19 May 2026 16:26:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/1000hz-1152x648-1779205912.webp"
     },
     {
       "title": "Pizza Hut’s AI Store Control System Is Such a Disaster That It’s Wasted $100 Million, Lawsuit Alleges",
@@ -322,6 +322,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/starship-explodes-derail-spacex-ipo.jpg?quality=85"
     },
     {
+      "title": "Samsung workers set to strike at worst possible time",
+      "link": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+      "summary": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday, and will be limited to Samsung's domestic chipmaking plants, raising concerns around the already constrained production of memory chips amid the ongoing shortage. [&#8230;]",
+      "published": "2026-05-20T04:49:01-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272034850.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
       "link": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
       "summary": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made history by driving 24,901 miles in under 8 days at Nard&#242; Ring in southern Italy. With the production model, Mercedes [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2026-05-19T16:25:09-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/jbl_charge6_flip7_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Democrats preview how they’d go after the Ticketmaster settlement if they regain power",
-      "link": "https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement",
-      "summary": "A handful of Democrats called an unofficial hearing on Capitol Hill Monday to slam the Department of Justice's \"trivial\" and \"pathetic\" settlement with Live Nation-Ticketmaster, previewing how they might go after Trump administration antitrust deals if they win back congressional power in November. While the DOJ settlement with Live Nation, which came one week into [&#8230;]",
-      "published": "2026-05-19T16:13:14-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK268_TICKETMASTER_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
