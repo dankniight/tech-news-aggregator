@@ -1,10 +1,146 @@
 {
-  "lastUpdated": "2026-05-20T15:34:36.143498",
+  "lastUpdated": "2026-05-20T20:24:04.624946",
   "articles": [
+    {
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+      "published": "Wed, 20 May 2026 19:47:20 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Arnold-Jeffrey-Andrew-Ng36.jpg?resize=1200,900"
+    },
+    {
+      "title": "Fedora: Microsoft is all aboard, but Deepin is dumped",
+      "link": "https://www.theregister.com/oses/2026/05/20/microsoft-rebases-azure-linux-on-fedora-as-fedora-drops-deepin/5243629",
+      "summary": "Red Hat’s free distro loses a desktop, but makes an important new friend",
+      "published": "Wed, 20 May 2026 19:24:12 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243659&width=800"
+    },
+    {
+      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
+      "published": "Wed, 20 May 2026 19:19:44 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0216-1-1152x648.jpeg"
+    },
+    {
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+      "published": "Wed, 20 May 2026 19:10:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg"
+    },
+    {
+      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
+      "summary": "President asks $1B from taxpayers to secure his $400M privately funded ballroom.",
+      "published": "Wed, 20 May 2026 18:59:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277112253-1152x648.jpg"
+    },
+    {
+      "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
+      "link": "https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/",
+      "summary": "Disney still has a lot of tech to unite and bundles to push.",
+      "published": "Wed, 20 May 2026 18:48:41 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg"
+    },
+    {
+      "title": "Bye-bye, Gemini CLI; Google's gone and swapped you for a closed-source AI",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/bye-bye-gemini-cli-google-nudges-devs-toward-antigravity/5243605",
+      "summary": "Most users lose access June 18 - unless you’ve got enterprise creds or paid API keys",
+      "published": "Wed, 20 May 2026 18:44:43 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259329&width=800"
+    },
+    {
+      "title": "Chickens without eggs? De-extinction company creates artificial egg.",
+      "link": "https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/",
+      "summary": "In the process, Colossal may have handed a useful tool to developmental biology.",
+      "published": "Wed, 20 May 2026 18:38:05 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/EmbryoDevelopment-1152x648.jpeg"
+    },
+    {
+      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
+      "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+      "summary": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
+      "published": "Wed, 20 May 2026 18:32:06 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1513214947.jpg?resize=1200,801"
+    },
+    {
+      "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
+      "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
+      "summary": "State law makes it a felony to create, operate, or advertise prediction markets.",
+      "published": "Wed, 20 May 2026 18:20:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-1152x648-1775509431.jpg"
+    },
+    {
+      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+      "summary": "Airbnb will soon let you book luggage storage and car rental services on its app.",
+      "published": "Wed, 20 May 2026 18:14:04 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/en-US-Homepage.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Plex appeal fades as Lifetime Pass jumps to $750",
+      "link": "https://www.theregister.com/saas/2026/05/20/plex-appeal-fades-as-lifetime-pass-jumps-to-750/5243480",
+      "summary": "How many times would you have to watch Lord of the Rings to cover that?",
+      "published": "Wed, 20 May 2026 17:51:38 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5240227&width=800"
+    },
+    {
+      "title": "Global EV market goes K-shaped as the US gets left behind",
+      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
+      "summary": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
+      "published": "Wed, 20 May 2026 17:34:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GM-chevy-EV-blazer-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+      "published": "Wed, 20 May 2026 17:31:04 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-1152x648.jpg"
+    },
+    {
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "published": "Wed, 20 May 2026 17:24:24 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800"
+    },
+    {
+      "title": "Jeff Bezos, you were so close to making a good point",
+      "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
+      "summary": "\"Why is a nurse in Queens who makes $75,000 a year paying more than $1,000 a month in taxes?\" Bezos said Wednesday morning on CNBC. \"That's $1,000 that could help with rent, or groceries, or anything.\"",
+      "published": "Wed, 20 May 2026 17:10:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/bezos-cnbc.jpg?resize=1200,701"
+    },
+    {
+      "title": "Why Is Mark Zuckerberg Taunting His Employees Before Firing Them?",
+      "link": "https://futurism.com/artificial-intelligence/zuckerberg-meta-taunting-employees-firing",
+      "summary": "<p>\"In general, the average intelligence of the people who are at this company is significantly higher than the average set of people.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/zuckerberg-meta-taunting-employees-firing\">Why Is Mark Zuckerberg Taunting His Employees Before Firing Them?</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 20 May 2026 16:02:06 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/zuckerberg-meta-taunting-employees-firing.jpg?quality=85"
+    },
     {
       "title": "Customers say Trump Mobile is leaking their personal information",
       "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-      "summary": "Trump Mobile is leaking customers’ email and home addresses, but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
+      "summary": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
       "published": "Wed, 20 May 2026 15:28:55 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/trump-mobile-t1-phone-3000px.jpg?resize=1200,338"
@@ -34,15 +170,23 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800"
     },
     {
-      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "title": "New Data Suggests That AI Really Is Already Replacing Human Jobs",
+      "link": "https://futurism.com/artificial-intelligence/jobs-replacement-ai-unemployment",
+      "summary": "<p>Ominous.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/jobs-replacement-ai-unemployment\">New Data Suggests That AI Really Is Already Replacing Human Jobs</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 20 May 2026 15:04:07 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/jobs-replacement-ai-unemployment.jpg?quality=85"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
       "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
       "published": "Wed, 20 May 2026 15:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800"
     },
     {
-      "title": "Man wins $835K after sheriff jailed him for a month over Charlie Kirk post",
+      "title": "Man jailed for posting Trump meme wins $835,000 settlement",
       "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
       "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
       "published": "Wed, 20 May 2026 14:50:40 +0000",
@@ -82,20 +226,12 @@
       "image_url": "https://image.theregister.com/?imageId=5243418&width=800"
     },
     {
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
-      "published": "Wed, 20 May 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708"
-    },
-    {
-      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
-      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
-      "published": "Wed, 20 May 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800"
+      "title": "Top Literary Magazine Offers Bizarre Response to Accusations That It Published an AI-Generated Short Story",
+      "link": "https://futurism.com/artificial-intelligence/top-literary-magazine-granta-ai-short-story",
+      "summary": "<p>Nothing is sacred.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/top-literary-magazine-granta-ai-short-story\">Top Literary Magazine Offers Bizarre Response to Accusations That It Published an AI-Generated Short Story</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 20 May 2026 13:57:38 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/top-literary-magazine-granta-ai-short-story.jpg?quality=85"
     },
     {
       "title": "ESA boss tires of being dragged around by NASA mood swings",
@@ -114,36 +250,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-1152x648.jpg"
     },
     {
-      "title": "GitHub says hackers stole data from thousands of internal repositories",
-      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
-      "summary": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft.",
-      "published": "Wed, 20 May 2026 13:25:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/08/IMG_20190506_125609.jpg?resize=1200,812"
-    },
-    {
-      "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
-      "link": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
-      "summary": "The chip was added to a list of banned goods at China’s customs checkpoints last Friday.",
-      "published": "Wed, 20 May 2026 13:10:15 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2212801534-1024x648.jpg"
-    },
-    {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "summary": "Figma's new AI assistant will be first available on Figma Design",
-      "published": "Wed, 20 May 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Agent-On-Canvas-Entrypoint.png?resize=1200,675"
-    },
-    {
-      "title": "Quartermaster is building a maritime hive mind",
-      "link": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
-      "summary": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
-      "published": "Wed, 20 May 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/quartermaster-smartmast-1.jpg?resize=1200,899"
+      "title": "NOAA Issues Stark Warning About Upcoming El Niño",
+      "link": "https://futurism.com/science-energy/noaa-warning-el-nino",
+      "summary": "<p>Beware.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/noaa-warning-el-nino\">NOAA Issues Stark Warning About Upcoming El Niño</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 20 May 2026 13:22:25 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/noaa-warning-el-nino.jpg?quality=85"
     },
     {
       "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
@@ -152,6 +264,14 @@
       "published": "Wed, 20 May 2026 12:27:44 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5241973&width=800"
+    },
+    {
+      "title": "Worker Dies at Starbase as SpaceX Rushes Toward Starship Launch",
+      "link": "https://futurism.com/space/worker-dies-spacex-starbase",
+      "summary": "<p>Grim.</p>\n<p>The post <a href=\"https://futurism.com/space/worker-dies-spacex-starbase\">Worker Dies at Starbase as SpaceX Rushes Toward Starship Launch</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 20 May 2026 12:06:43 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/worker-dies-spacex-starbase.jpg?quality=85"
     },
     {
       "title": "Smaller suppliers invited to pitch for £2.9B UK defense tech framework",
@@ -170,38 +290,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/robot-michael-jackson-wiping-out-illustrates-industry-problem.jpg?quality=85"
     },
     {
-      "title": "PostgreSQL backup tool gets some backup of its own after sole maintainer sounds alarm",
-      "link": "https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822",
-      "summary": "AWS, Percona, Supabase, pgEdge, and Tiger Data rally round pgBackRest with funding pledge",
-      "published": "Wed, 20 May 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242864&width=800"
-    },
-    {
-      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-      "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-      "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-      "published": "Wed, 20 May 2026 11:00:34 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-1.15.37-PM-1152x648.png"
-    },
-    {
-      "title": "London's police asked Big Tech for comms data over 700,000 times last year",
-      "link": "https://www.theregister.com/databases/2026/05/20/londons-police-asked-big-tech-for-comms-data-over-700000-times-last-year/5242590",
-      "summary": "A Freedom of Information Act request shows the extent of the surveillance",
-      "published": "Wed, 20 May 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230518&width=800"
-    },
-    {
-      "title": "ZTE releases Sustainability Report 2025: driving a new chapter in sustainable development through AI",
-      "link": "https://www.theregister.com/networks/2026/05/20/zte-releases-sustainability-report-2025-driving-a-new-chapter-in-sustainable-development-through-ai/5243185",
-      "summary": "Through its \"All in AI, AI for All\" vision, ZTE surpasses climate targets, bridges the global digital divide, and strengthens governance resilience",
-      "published": "Wed, 20 May 2026 10:23:48 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243191&width=800"
-    },
-    {
       "title": "xAI Employees Say Elon Musk Promised Them $420 to Feed Their Taxes Into Grok, But Stiffed Them on the Payment",
       "link": "https://futurism.com/future-society/xai-employees-elon-musk-promised-420",
       "summary": "<p>Death, taxes, and Elon breaking his promises.</p>\n<p>The post <a href=\"https://futurism.com/future-society/xai-employees-elon-musk-promised-420\">xAI Employees Say Elon Musk Promised Them $420 to Feed Their Taxes Into Grok, But Stiffed Them on the Payment</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -216,54 +304,6 @@
       "published": "Wed, 20 May 2026 08:49:54 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/made-america-trump-phone-chinese.jpg?quality=85"
-    },
-    {
-      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
-      "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
-      "summary": "Volvo is coming for its competitors with more efficient production and newer tech.",
-      "published": "Wed, 20 May 2026 07:00:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/33-1152x648-1779202622.jpg"
-    },
-    {
-      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-      "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
-      "published": "Wed, 20 May 2026 05:45:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png?resize=1200,665"
-    },
-    {
-      "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
-      "summary": "FBI will pay vendors to help it track and search for vehicles nationwide.",
-      "published": "Tue, 19 May 2026 21:29:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
-    },
-    {
-      "title": "Spider-Noir final trailer gives us a classic villain",
-      "link": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
-      "summary": "It's never too late to become a hero.",
-      "published": "Tue, 19 May 2026 20:58:51 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/spidernoir1-1152x648-1779222432.jpg"
-    },
-    {
-      "title": "\"I'll buy 10 of those\"—NASA science chief yearns for mass-produced satellites",
-      "link": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
-      "summary": "\"How in the hell do I get more science into space? That is my goal.\"",
-      "published": "Tue, 19 May 2026 20:43:31 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/jpegPIA10500.jpg"
-    },
-    {
-      "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
-      "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
-      "summary": "Plex says that it has considered getting rid of Lifetime Passes.",
-      "published": "Tue, 19 May 2026 19:52:01 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-1152x648.jpg"
     },
     {
       "title": "Pizza Hut’s AI Store Control System Is Such a Disaster That It’s Wasted $100 Million, Lawsuit Alleges",
@@ -282,44 +322,76 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/mark-zuckerberg-cruel-game-meta-employees.jpg?quality=85"
     },
     {
-      "title": "Book About AI’s Effects on the “Future of Truth” Found to Contain Slew of AI-Hallucinated Quotations",
-      "link": "https://futurism.com/artificial-intelligence/book-ai-truth-ai-hallucinated-quotes",
-      "summary": "<p>Poetic, really.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/book-ai-truth-ai-hallucinated-quotes\">Book About AI&#8217;s Effects on the &#8220;Future of Truth&#8221; Found to Contain Slew of AI-Hallucinated Quotations</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 19 May 2026 13:53:29 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/book-ai-truth-ai-hallucinated-quotes.jpg?quality=85"
+      "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
+      "link": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer [&#8230;]",
+      "published": "2026-05-20T16:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Garmin-Fenix-8-Lifestyle-Press-Image-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Elon Musk Compares His Work to Miracles Performed by Jesus Christ",
-      "link": "https://futurism.com/future-society/elon-musk-compares-jesus",
-      "summary": "<p>\"They’re sort of what I might call Jesus-level technologies.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-compares-jesus\">Elon Musk Compares His Work to Miracles Performed by Jesus Christ</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 19 May 2026 13:05:45 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/elon-musk-compares-jesus.jpg?quality=85"
+      "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+      "link": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+      "summary": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm headphone jack for private listening, not to mention great-feeling [&#8230;]",
+      "published": "2026-05-20T14:14:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/257964_Switch_2_controllers_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Students Boo and Jeer as AI Name-Reader Flops Spectacularly at College Graduation Ceremony",
-      "link": "https://futurism.com/artificial-intelligence/ai-name-reader-flops-college-graduation",
-      "summary": "<p>\"That is a lesson learned for us.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-name-reader-flops-college-graduation\">Students Boo and Jeer as AI Name-Reader Flops Spectacularly at College Graduation Ceremony</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 19 May 2026 12:04:36 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/ai-name-reader-flops-college-graduation_60a93e.jpg?quality=85"
+      "title": "Anthropic and OpenAI take their beef to the midterm elections",
+      "link": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the car crashes piling up on a daily basis at the Washington-based intersection of technology and politics. If you're not a subscriber, sign up for our fine editorial enterprise today, especially as we process the end of Musk v. Altman. And if you have [&#8230;]",
+      "published": "2026-05-20T13:50:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Trump Caught Buying Tech Stocks and Then Pumping Their Value by Publicly Praising Them",
-      "link": "https://futurism.com/future-society/trump-buying-tech-stocks-pumping-value",
-      "summary": "<p>Unbelievably believable.</p>\n<p>The post <a href=\"https://futurism.com/future-society/trump-buying-tech-stocks-pumping-value\">Trump Caught Buying Tech Stocks and Then Pumping Their Value by Publicly Praising Them</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 19 May 2026 11:10:40 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/trump-buying-tech-stocks-pumping-value.jpg?quality=85"
+      "title": "Vibe coding is coming to your phone",
+      "link": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+      "summary": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps [&#8230;]",
+      "published": "2026-05-20T13:40:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Mark Zuckerberg Used Shell Companies to Bully Native Hawaiians",
-      "link": "https://futurism.com/future-society/mark-zuckerberg-bully-native-hawaiians",
-      "summary": "<p>\"These f**king oligarchs need to be taken down a peg.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/mark-zuckerberg-bully-native-hawaiians\">Mark Zuckerberg Used Shell Companies to Bully Native Hawaiians</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 19 May 2026 10:25:15 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/mark-zuckerberg-bully-native-hawaiians.jpg?quality=85"
+      "title": "Volvo is trying to put its EV stumbles in the rearview",
+      "link": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
+      "summary": "Volvo once had ambitions to fully exit the gas car business. Now it's trying to keep its tenuous foothold in the EV market. It's not an understatement to say that Volvo's EV journey has been a bumpy one. The compact EX40 has been a consistent winner, but the Swedish brand's other EVs have been plagued [&#8230;]",
+      "published": "2026-05-20T13:30:56-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2234208839.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "You can now remix other people’s YouTube Shorts with AI",
+      "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into [&#8230;]",
+      "published": "2026-05-20T12:41:40-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Samsung has a tentative deal with workers to avoid a memory chip strike",
+      "link": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+      "summary": "More than 47,000 Samsung Electronics workers were gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike was set to start on Thursday at Samsung's domestic chipmaking plants, raising concerns around the already constrained production of memory chips amid the ongoing shortage. Later on Wednesday, both [&#8230;]",
+      "published": "2026-05-20T12:35:25-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272034850.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Xbox hires game industry analyst Matthew Ball to lead strategy",
+      "link": "https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire",
+      "summary": "Microsoft has recruited game industry analyst Matthew Ball as Xbox chief strategy officer. Ball publishes an annual state of video gaming report, which is a popular read across the game industry, and he's \"widely respected across gaming, media, and technology,\" according to Xbox CEO Asha Sharma. Sharma announced Ball is joining Microsoft in a memo [&#8230;]",
+      "published": "2026-05-20T12:03:21-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283723/STK048_XBOX_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google Search’s AI evolution includes more ads",
+      "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a new Search box for larger, [&#8230;]",
+      "published": "2026-05-20T12:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
@@ -328,78 +400,6 @@
       "published": "2026-05-20T11:33:08-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Anker-Laptop-Power-Bank-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "A feature-packed MagSafe power bank is 20 percent off for Memorial Day",
-      "link": "https://www.theverge.com/gadgets/934553/anker-magsafe-power-bank-usbc-deal-sale-memorial-day",
-      "summary": "Having personally recently tested a bunch of MagSafe power banks for an upcoming piece, let me tell you that it’s tough to find a low-cost model that offers a bunch of features. Anker’s 10,000mAh Zolo power bank is an exception to the rule, with its built-in, braided USB-C cable, MagSafe magnets to stay attached to [&#8230;]",
-      "published": "2026-05-20T11:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/zoloblack.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Verge’s 2026 high school graduation gift guide",
-      "link": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
-      "summary": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at college. Either way, they'll be taking on more responsibility, meaning it's up [&#8230;]",
-      "published": "2026-05-20T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268496_2026_Graduation_Gift_Guides_CVirginia_HS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "It&#8217;s make or break time for AI labeling systems",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the [&#8230;]",
-      "published": "2026-05-20T10:12:54-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Trump Mobile may be leaking customer addresses",
-      "link": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses",
-      "summary": "Just as the T1 Phone is seemingly on the verge of release, Trump Mobile has been accused of insecurely storing customer data, leaving addresses and phone numbers vulnerable. The alleged leak has also revealed how many T1 Phone orders were apparently placed, and it's far fewer than viral figures have claimed. YouTuber Coffeezilla was the [&#8230;]",
-      "published": "2026-05-20T10:06:19-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Insta360’s Mic Pro uses a three microphone array for improved recordings",
-      "link": "https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array",
-      "summary": "After initially revealing its unique design at NAB 2026 last month with few technical details, Insta360 has announced and launched its new wireless Mic Pro system featuring a couple of industry firsts. While the Mic Pro transmitters that can directly connect to devices over Bluetooth are available individually for $99.99, a more elaborate kit with [&#8230;]",
-      "published": "2026-05-20T10:04:42-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/insta3601.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Trump is waging a silent war on legal immigration",
-      "link": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
-      "summary": "When the member states of the United Nations reviewed their Global Compact on Migration earlier this month, one country was conspicuously absent from the discussions: the United States. In a post on X explaining its reasoning, the State Department said it objects to global \"efforts to facilitate replacement migration to the United States and our [&#8230;]",
-      "published": "2026-05-20T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268535_Trump_is_waging_a_silent_war_on_legal_immigration_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "If Google can’t make AI agents useful, maybe no one can",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly [&#8230;]",
-      "published": "2026-05-20T09:24:22-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO2026_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The biggest data center ever is becoming a huge problem in Utah",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed to establish American AI dominance, but potentially at the [&#8230;]",
-      "published": "2026-05-20T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans",
-      "link": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
-      "summary": "Apple TV is best known for its lineup of science fiction shows and feel-good sitcoms, but of late the streaming service has veered in a different direction. A pair of its current buzziest shows explore the world of OnlyFans creators and cam models, and they're timed up near perfectly; just as one ends (Margo's Got [&#8230;]",
-      "published": "2026-05-20T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Margos_Got_Money_Troubles_Photo_010802.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
