@@ -1,13 +1,125 @@
 {
-  "lastUpdated": "2026-05-20T20:24:04.624946",
+  "lastUpdated": "2026-05-21T04:11:36.977859",
   "articles": [
     {
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-      "published": "Wed, 20 May 2026 19:47:20 +0000",
+      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+      "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
+      "published": "Wed, 20 May 2026 23:03:02 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Arnold-Jeffrey-Andrew-Ng36.jpg?resize=1200,900"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801"
+    },
+    {
+      "title": "Famously secret about its finances, SpaceX opens its books for the first time",
+      "link": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
+      "summary": "\"We believe we have identified the largest TAM in human history.\"",
+      "published": "Wed, 20 May 2026 23:02:49 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11pre1-1152x648.jpg"
+    },
+    {
+      "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
+      "link": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
+      "summary": "Another day, another AI bug silently fixed with no CVE and no public disclosure",
+      "published": "Wed, 20 May 2026 22:34:15 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=224154&width=800"
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "published": "Wed, 20 May 2026 22:30:45 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/CLOUTED-TEAM-PHOTOS-2.jpg?resize=1200,765"
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "published": "Wed, 20 May 2026 22:26:08 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
+    },
+    {
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "published": "Wed, 20 May 2026 22:03:51 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
+    },
+    {
+      "title": "Intel's CEO reveals early hiring challenges as bankruptcy concerns deterred top talent",
+      "link": "https://www.theregister.com/systems/2026/05/20/intels-ceo-reveals-early-hiring-challenges-as-bankruptcy-concerns-deterred-top-talent/5243546",
+      "summary": "Recovering chipmaker looks beyond 14A to 10A and 7A process nodes in foundry comeback bid",
+      "published": "Wed, 20 May 2026 22:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257335&width=800"
+    },
+    {
+      "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
+      "link": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
+      "summary": "Officials denied refusing entry, but dodged questions on why Americans didn't return.",
+      "published": "Wed, 20 May 2026 21:58:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276659165-1152x648.jpg"
+    },
+    {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "published": "Wed, 20 May 2026 21:55:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI floats buy-before-your-try AI availability guarantee",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
+      "summary": "Nice AI workloads you have going, it'd be a shame we ran out of stock",
+      "published": "Wed, 20 May 2026 21:51:28 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5223736&width=800"
+    },
+    {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "published": "Wed, 20 May 2026 21:29:22 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800"
+    },
+    {
+      "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
+      "link": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+      "summary": "\"As a bonus, it captured Mars images from a rare perspective.\"",
+      "published": "Wed, 20 May 2026 21:26:57 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-1152x648-1779310114.jpg"
+    },
+    {
+      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+      "link": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+      "summary": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+      "published": "Wed, 20 May 2026 21:23:02 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800"
+    },
+    {
+      "title": "Masters of the Universe final trailer brings the '80s nostalgia",
+      "link": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
+      "summary": "\"You are he who will restore peace to Eternia.\"",
+      "published": "Wed, 20 May 2026 20:29:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-1152x648.jpg"
+    },
+    {
+      "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
+      "link": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
+      "summary": "The 0–60 time is impressive, the miles/kWh number even more so.",
+      "published": "Wed, 20 May 2026 19:53:34 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/26C0129_030-1152x648.jpg"
     },
     {
       "title": "Fedora: Microsoft is all aboard, but Deepin is dumped",
@@ -66,68 +178,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/EmbryoDevelopment-1152x648.jpeg"
     },
     {
-      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
-      "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
-      "summary": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
-      "published": "Wed, 20 May 2026 18:32:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1513214947.jpg?resize=1200,801"
-    },
-    {
-      "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
-      "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
-      "summary": "State law makes it a felony to create, operate, or advertise prediction markets.",
-      "published": "Wed, 20 May 2026 18:20:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-1152x648-1775509431.jpg"
-    },
-    {
-      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-      "summary": "Airbnb will soon let you book luggage storage and car rental services on its app.",
-      "published": "Wed, 20 May 2026 18:14:04 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/en-US-Homepage.jpeg?resize=1200,800"
-    },
-    {
       "title": "Plex appeal fades as Lifetime Pass jumps to $750",
       "link": "https://www.theregister.com/saas/2026/05/20/plex-appeal-fades-as-lifetime-pass-jumps-to-750/5243480",
       "summary": "How many times would you have to watch Lord of the Rings to cover that?",
       "published": "Wed, 20 May 2026 17:51:38 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5240227&width=800"
-    },
-    {
-      "title": "Global EV market goes K-shaped as the US gets left behind",
-      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-      "summary": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
-      "published": "Wed, 20 May 2026 17:34:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GM-chevy-EV-blazer-getty.jpg?resize=1200,800"
-    },
-    {
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
-      "published": "Wed, 20 May 2026 17:31:04 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-1152x648.jpg"
-    },
-    {
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-      "published": "Wed, 20 May 2026 17:24:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800"
-    },
-    {
-      "title": "Jeff Bezos, you were so close to making a good point",
-      "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
-      "summary": "\"Why is a nurse in Queens who makes $75,000 a year paying more than $1,000 a month in taxes?\" Bezos said Wednesday morning on CNBC. \"That's $1,000 that could help with rent, or groceries, or anything.\"",
-      "published": "Wed, 20 May 2026 17:10:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/bezos-cnbc.jpg?resize=1200,701"
     },
     {
       "title": "Why Is Mark Zuckerberg Taunting His Employees Before Firing Them?",
@@ -138,92 +194,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/zuckerberg-meta-taunting-employees-firing.jpg?quality=85"
     },
     {
-      "title": "Customers say Trump Mobile is leaking their personal information",
-      "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-      "summary": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
-      "published": "Wed, 20 May 2026 15:28:55 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/trump-mobile-t1-phone-3000px.jpg?resize=1200,338"
-    },
-    {
-      "title": "Those spared latest Meta job cuts forcibly reassigned to AI roles",
-      "link": "https://www.theregister.com/ai-ml/2026/05/20/meta-axes-thousands-of-roles-forcibly-transfers-7000-more/5243365",
-      "summary": "Staff protest overhaul and mouse tracking at 'Employee Data Extraction Factory'",
-      "published": "Wed, 20 May 2026 15:27:38 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=224816&width=800"
-    },
-    {
-      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "summary": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
-      "published": "Wed, 20 May 2026 15:14:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024"
-    },
-    {
-      "title": "AI search startups are blowing up",
-      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
-      "published": "Wed, 20 May 2026 15:04:45 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800"
-    },
-    {
       "title": "New Data Suggests That AI Really Is Already Replacing Human Jobs",
       "link": "https://futurism.com/artificial-intelligence/jobs-replacement-ai-unemployment",
       "summary": "<p>Ominous.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/jobs-replacement-ai-unemployment\">New Data Suggests That AI Really Is Already Replacing Human Jobs</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 20 May 2026 15:04:07 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/jobs-replacement-ai-unemployment.jpg?quality=85"
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-      "published": "Wed, 20 May 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800"
-    },
-    {
-      "title": "Man jailed for posting Trump meme wins $835,000 settlement",
-      "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-      "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
-      "published": "Wed, 20 May 2026 14:50:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Larry-Bushart-via-FIRE.jpg-1152x648-1779285875.jpeg"
-    },
-    {
-      "title": "Datacenter builds could be shielded from judicial review in UK planning reforms",
-      "link": "https://www.theregister.com/systems/2026/05/20/datacenter-builds-could-be-shielded-from-judicial-review-in-uk-planning-reforms/5243354",
-      "summary": "British government wants to ensure no hold-ups for critical energy and infrastructure projects",
-      "published": "Wed, 20 May 2026 14:49:37 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5226654&width=800"
-    },
-    {
-      "title": "Microsoft says cu l8r to text message security",
-      "link": "https://www.theregister.com/on-prem/2026/05/20/microsoft-says-cu-l8r-to-text-message-security/5243304",
-      "summary": "Old, busted, insecure authentication to be replaced with something shinier and safer",
-      "published": "Wed, 20 May 2026 14:33:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243350&width=800"
-    },
-    {
-      "title": "Russia's plan to advertise on rockets and spacecraft takes off",
-      "link": "https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/",
-      "summary": "We now pause for a word from our sponsors.",
-      "published": "Wed, 20 May 2026 14:28:57 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coffee-1152x648.png"
-    },
-    {
-      "title": "'Workforce rebalancing' comes for Kyndryl, and delivery teams are in the firing line",
-      "link": "https://www.theregister.com/on-prem/2026/05/20/workforce-rebalancing-comes-for-kyndryl-and-delivery-teams-are-in-the-firing-line/5243327",
-      "summary": "Big Blue spinout eyes up to $500M in savings and agentic AI while insiders grumble it's still 'IBM without the hardware'",
-      "published": "Wed, 20 May 2026 14:15:28 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243418&width=800"
     },
     {
       "title": "Top Literary Magazine Offers Bizarre Response to Accusations That It Published an AI-Generated Short Story",
@@ -234,36 +210,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/top-literary-magazine-granta-ai-short-story.jpg?quality=85"
     },
     {
-      "title": "ESA boss tires of being dragged around by NASA mood swings",
-      "link": "https://www.theregister.com/science/2026/05/20/esa-boss-tires-of-being-dragged-around-by-nasa-mood-swings/5243235",
-      "summary": "Are we pilots or are we passengers? Aschbacher asks",
-      "published": "Wed, 20 May 2026 13:34:36 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=245798&width=800"
-    },
-    {
-      "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
-      "link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
-      "summary": "Access to TV OS's source code could allow users to limit ads, tracking.",
-      "published": "Wed, 20 May 2026 13:32:49 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-1152x648.jpg"
-    },
-    {
       "title": "NOAA Issues Stark Warning About Upcoming El Niño",
       "link": "https://futurism.com/science-energy/noaa-warning-el-nino",
       "summary": "<p>Beware.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/noaa-warning-el-nino\">NOAA Issues Stark Warning About Upcoming El Niño</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 20 May 2026 13:22:25 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/noaa-warning-el-nino.jpg?quality=85"
-    },
-    {
-      "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
-      "link": "https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206",
-      "summary": "Initial assessment says customer data spared while users wonder what else may have slipped out",
-      "published": "Wed, 20 May 2026 12:27:44 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5241973&width=800"
     },
     {
       "title": "Worker Dies at Starbase as SpaceX Rushes Toward Starship Launch",
@@ -274,17 +226,9 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/worker-dies-spacex-starbase.jpg?quality=85"
     },
     {
-      "title": "Smaller suppliers invited to pitch for £2.9B UK defense tech framework",
-      "link": "https://www.theregister.com/public-sector/2026/05/20/smaller-suppliers-invited-to-pitch-for-29b-uk-defense-tech-framework/5243217",
-      "summary": "Government Commercial Agency wants DIPS 2 to reach beyond MoD buyers and the usual big-name suppliers",
-      "published": "Wed, 20 May 2026 11:54:25 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243266&width=800"
-    },
-    {
-      "title": "This Robot Trying to Dance Like Michael Jackson But Wiping Out Pathetically in Front of a Crowd Perfectly Illustrates the Industry’s Deep-Seated Problem",
+      "title": "This Robot Trying to Dance Like Michael Jackson But Wiping Out Pathetically in Front of a Crowd Perfectly Illustrates a Deep-Seated Problem in the Sector",
       "link": "https://futurism.com/robots-and-machines/robot-michael-jackson-wiping-out-illustrates-industry-problem",
-      "summary": "<p>Painful — and telling.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/robot-michael-jackson-wiping-out-illustrates-industry-problem\">This Robot Trying to Dance Like Michael Jackson But Wiping Out Pathetically in Front of a Crowd Perfectly Illustrates the Industry&#8217;s Deep-Seated Problem</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>Painful — and telling.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/robot-michael-jackson-wiping-out-illustrates-industry-problem\">This Robot Trying to Dance Like Michael Jackson But Wiping Out Pathetically in Front of a Crowd Perfectly Illustrates a Deep-Seated Problem in the Sector</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 20 May 2026 11:18:13 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/robot-michael-jackson-wiping-out-illustrates-industry-problem.jpg?quality=85"
@@ -320,6 +264,86 @@
       "published": "Tue, 19 May 2026 14:58:57 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/mark-zuckerberg-cruel-game-meta-employees.jpg?quality=85"
+    },
+    {
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+      "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+      "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+      "published": "Thu, 21 May 2026 04:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/L-R-1st-row-Sim-Singh–Landa-Andrew-Currin-Andy-Almond-Timothy-Eyes-L-R-2nd-row-Guy-Levy-Yurista-Rob-Wilson-Dr-Kath-Mackay-2.jpg?resize=1200,800"
+    },
+    {
+      "title": "Nvidia on track to be worlds leading CPU supplier claims CFO",
+      "link": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
+      "summary": "GPUzilla forecasts $20 billion in CPU revenues this year",
+      "published": "Thu, 21 May 2026 02:23:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259022&width=800"
+    },
+    {
+      "title": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+      "link": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755",
+      "summary": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+      "published": "Thu, 21 May 2026 02:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243591&width=800"
+    },
+    {
+      "title": "Intuit axes 3,000 – without blaming AI",
+      "link": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807",
+      "summary": "'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals",
+      "published": "Thu, 21 May 2026 01:35:24 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=252298&width=800"
+    },
+    {
+      "title": "AI code accelerates production failures and spending, study finds",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787",
+      "summary": "CloudBees survey exposes verification gap",
+      "published": "Thu, 21 May 2026 00:43:51 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243818&width=800"
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "published": "Thu, 21 May 2026 00:28:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "published": "Thu, 21 May 2026 00:21:21 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800"
+    },
+    {
+      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident [&#8230;]",
+      "published": "2026-05-20T23:42:45-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2270729873.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "SpaceX just filed for what could be the biggest IPO ever",
+      "link": "https://www.theverge.com/business/902219/spacex-ipo-details",
+      "summary": "Elon Musk's final frontier is officially open for business now that SpaceX has formally filed its S-1 prospectus with the SEC. That kicks off what could be the largest initial public offering ever when it lists on the Nasdaq stock exchange with the ticker SPCX. SpaceX generated $18.67 billion in revenue in 2025, driven largely [&#8230;]",
+      "published": "2026-05-20T17:29:05-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "‘Solve all diseases,’ you say?",
+      "link": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time [&#8230;]",
+      "published": "2026-05-20T17:06:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/demishassabis.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
@@ -376,30 +400,6 @@
       "published": "2026-05-20T12:35:25-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272034850.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Xbox hires game industry analyst Matthew Ball to lead strategy",
-      "link": "https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire",
-      "summary": "Microsoft has recruited game industry analyst Matthew Ball as Xbox chief strategy officer. Ball publishes an annual state of video gaming report, which is a popular read across the game industry, and he's \"widely respected across gaming, media, and technology,\" according to Xbox CEO Asha Sharma. Sharma announced Ball is joining Microsoft in a memo [&#8230;]",
-      "published": "2026-05-20T12:03:21-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283723/STK048_XBOX_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google Search’s AI evolution includes more ads",
-      "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a new Search box for larger, [&#8230;]",
-      "published": "2026-05-20T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
-      "link": "https://www.theverge.com/gadgets/934288/anker-laptop-power-bank-soundcore-sleep-a20-earbuds-deal-sale",
-      "summary": "Whether you’re heading out for a quick Memorial Day getaway or preparing for summer travel, a reliable power bank can come in handy when there’s no outlet in sight. Fortunately, Anker’s Laptop Power Bank can keep all your essential gadgets charged, and it’s currently on sale at&#160;Amazon,&#160;Best Buy, and&#160;Walmart for $95.99 ($24 off), which is [&#8230;]",
-      "published": "2026-05-20T11:33:08-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Anker-Laptop-Power-Bank-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
