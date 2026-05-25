@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-24T19:23:19.547278",
+  "lastUpdated": "2026-05-25T04:16:50.733623",
   "articles": [
+    {
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "summary": "We're in the transition period -- all of us.",
+      "published": "Sun, 24 May 2026 21:39:21 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024"
+    },
     {
       "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
       "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
@@ -170,14 +178,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/image-2.jpg?resize=1200,847"
     },
     {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-      "published": "Sat, 23 May 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275592313.jpg?resize=1200,800"
-    },
-    {
       "title": "AI eyes scanning for bugs create a worrisome Linux security trend",
       "link": "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742",
       "summary": "Dirty Frag, Copy Fail, and Fragesia show the new reality",
@@ -242,6 +242,22 @@
       "image_url": "https://image.theregister.com/?imageId=241517&width=800"
     },
     {
+      "title": "Linus Torvalds to ‘start being more hardnosed’ about ‘pointless pull requests’ – some of which come from AIs",
+      "link": "https://www.theregister.com/oses/2026/05/25/linus-torvalds-to-start-being-more-hardnosed-about-pointless-pull-requests-some-of-which-come-from-ais/5245549",
+      "summary": "Warns large release candidates ‘are *not* conducive to long-term stability’",
+      "published": "Mon, 25 May 2026 01:45:49 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1684046&width=800"
+    },
+    {
+      "title": "Google has seriously leaned into AI enshittification lately",
+      "link": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
+      "summary": "Could the Chocolate Factory's mission to reshape the web backfire?",
+      "published": "Mon, 25 May 2026 01:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243010&width=800"
+    },
+    {
       "title": "Minor edits to AI skills can make agents go rogue",
       "link": "https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413",
       "summary": "Text is the new attack",
@@ -256,14 +272,6 @@
       "published": "Fri, 22 May 2026 23:18:53 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=229879&width=800"
-    },
-    {
-      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
-      "link": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
-      "summary": "Limping Llama model needs a crutch made of surveillance tools",
-      "published": "Fri, 22 May 2026 22:55:41 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=250238&width=800"
     },
     {
       "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
@@ -296,14 +304,6 @@
       "published": "Fri, 22 May 2026 21:10:46 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg"
-    },
-    {
-      "title": "Megalodon chums the waters in 5.5K+ GitHub repo poisonings",
-      "link": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
-      "summary": "Will Jason Statham save us?",
-      "published": "Fri, 22 May 2026 20:57:14 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=227881&width=800"
     },
     {
       "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
