@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T04:16:50.733623",
+  "lastUpdated": "2026-05-25T10:18:45.627574",
   "articles": [
     {
       "title": "Everyone is navigating AI security in real time — even Google",
@@ -210,14 +210,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/news-051626b-lg-1152x648.jpg"
     },
     {
-      "title": "UK MPs slam digital ID rollout as a 'fiasco' after botched launch",
-      "link": "https://www.theregister.com/public-sector/2026/05/23/uk-mps-slam-digital-id-rollout-as-a-fiasco-after-botched-launch/5245124",
-      "summary": "Government's 'rushed' plans damaged public confidence before ministers had even explained how the system would work",
-      "published": "Sat, 23 May 2026 11:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=244169&width=800"
-    },
-    {
       "title": "China’s shark finning could lead to US seafood sanctions",
       "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
       "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
@@ -226,20 +218,44 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-1152x648.jpg"
     },
     {
-      "title": "The Virtual OS Museum opens its doors",
-      "link": "https://www.theregister.com/oses/2026/05/23/the-virtual-os-museum-opens-its-doors/5243459",
-      "summary": "A massive compilation of historic OSes and the emulators to run them",
-      "published": "Sat, 23 May 2026 10:30:00 +0200",
+      "title": "Digital sovereignty, the musical: One engineer’s bizarre crusade against hyperscalers",
+      "link": "https://www.theregister.com/offbeat/2026/05/25/digital-sovereignty-the-musical-one-engineers-bizarre-crusade-against-hyperscalers/5245148",
+      "summary": "A French engineer has declared war on AWS, Google and Microsoft using AI-generated sea shanties, satirical poetry, and a multilingual protest campaign",
+      "published": "Mon, 25 May 2026 11:38:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243566&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5245171&width=800"
     },
     {
-      "title": "Feds unwittingly leak pilots' pre-crash conversation",
-      "link": "https://www.theregister.com/science/2026/05/23/feds-unwittingly-leak-pilots-pre-crash-conversation/5245462",
-      "summary": "Release of spectrogram of cockpit recorder audio allows conversation recovery with 'emerging' decades-old tech",
-      "published": "Sat, 23 May 2026 01:20:02 +0200",
+      "title": "Under-trained techie didn't claim overtime for mistakenly failing to phone it in",
+      "link": "https://www.theregister.com/networks/2026/05/25/under-trained-techie-didnt-claim-overtime-for-mistakenly-failing-to-phone-it-in/5242388",
+      "summary": "After making a medical clinic's network rather ill, she 'kept working until I somewhat knew what I was doing'",
+      "published": "Mon, 25 May 2026 10:09:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=241517&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5242408&width=800"
+    },
+    {
+      "title": "OpenBSD 7.9 arrives, a diamond in the rough proud of every sharp edge",
+      "link": "https://www.theregister.com/software/2026/05/25/openbsd-79-arrives-a-diamond-in-the-rough-proud-of-every-sharp-edge/5244877",
+      "summary": "Sixtieth release adds more cores, delayed hibernation, and basic Wi-Fi 6 without losing its ascetic streak",
+      "published": "Mon, 25 May 2026 09:33:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5244954&width=800"
+    },
+    {
+      "title": "Anthropic to release Mythos-class models to the public",
+      "link": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
+      "summary": "AI flaw-finder still under lock and key for now while company figures out guardrails, but extends access to more users including governments",
+      "published": "Mon, 25 May 2026 09:09:26 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230774&width=800"
+    },
+    {
+      "title": "Samsung memory workers call off strike and may score six-figure bonuses",
+      "link": "https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573",
+      "summary": "PLUS: Huawei says it’s replaced Moore’s Law; Chinese mobile plans add token allowances; Singtel slinging Optus; And more!",
+      "published": "Mon, 25 May 2026 06:14:46 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=195862&width=800"
     },
     {
       "title": "Linus Torvalds to ‘start being more hardnosed’ about ‘pointless pull requests’ – some of which come from AIs",
@@ -256,22 +272,6 @@
       "published": "Mon, 25 May 2026 01:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5243010&width=800"
-    },
-    {
-      "title": "Minor edits to AI skills can make agents go rogue",
-      "link": "https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413",
-      "summary": "Text is the new attack",
-      "published": "Fri, 22 May 2026 23:37:20 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252635&width=800"
-    },
-    {
-      "title": "A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/22/jailbroken-gemini-helped-russian-speaking-fraudster-target-maga-crypto-users/5245390",
-      "summary": "Hey, Gemini, how much can we earn from one pump-and-dump cycle?",
-      "published": "Fri, 22 May 2026 23:18:53 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=229879&width=800"
     },
     {
       "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
