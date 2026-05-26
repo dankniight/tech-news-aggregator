@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-05-26T15:51:25.350446",
+  "lastUpdated": "2026-05-26T20:14:38.123267",
   "articles": [
+    {
+      "title": "MyPillow must decide whether to be firm or soft as ransomware crims demand pay",
+      "link": "https://www.theregister.com/cyber-crime/2026/05/26/mypillow-appears-on-play-ransomware-leak-site/5246513",
+      "summary": "Guess they could deny the alleged intrusion … like the 2020 election results",
+      "published": "Tue, 26 May 2026 20:02:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246533&width=800"
+    },
+    {
+      "title": "MySQL faithful launch OurSQL Foundation to keep Oracle honest",
+      "link": "https://www.theregister.com/databases/2026/05/26/mysql-faithful-launch-oursql-foundation-to-keep-oracle-honest/5246451",
+      "summary": "Community group wants transparency, collaboration, and a clearer roadmap for the open source database",
+      "published": "Tue, 26 May 2026 19:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246467&width=800"
+    },
+    {
+      "title": "Bezos rocket fell short after cryogenic leak cut engine thrust",
+      "link": "https://www.theregister.com/science/2026/05/26/bezos-rocket-fell-short-after-cryogenic-leak-cut-engine-thrust/5246481",
+      "summary": "Frozen hydraulic line blamed for leaving payload in the wrong orbit",
+      "published": "Tue, 26 May 2026 19:20:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246501&width=800"
+    },
+    {
+      "title": "Microsoft wants safer C# without turning it into Rust",
+      "link": "https://www.theregister.com/devops/2026/05/26/microsoft-wants-safer-c-without-turning-it-into-rust/5246359",
+      "summary": "Unsafe bits get a warning label in planned low-level coding shake-up",
+      "published": "Tue, 26 May 2026 18:50:20 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246462&width=800"
+    },
+    {
+      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+      "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+      "published": "Tue, 26 May 2026 18:48:04 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/american-airlines-airbus.jpg?resize=1200,800"
+    },
+    {
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "published": "Tue, 26 May 2026 18:33:01 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776"
+    },
+    {
+      "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
+      "link": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
+      "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
+      "published": "Tue, 26 May 2026 18:30:58 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-157380693-1152x648.jpg"
+    },
+    {
+      "title": "Starship shows it can deploy satellites, but Moon mission clock still ticks",
+      "link": "https://www.theregister.com/science/2026/05/26/starship-shows-it-can-deploy-satellites-but-moon-mission-clock-still-ticks/5246398",
+      "summary": "What's a tumbling Super Heavy and a skipped Raptor relight between friends?",
+      "published": "Tue, 26 May 2026 17:50:46 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246430&width=800"
+    },
+    {
+      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+      "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
+      "published": "Tue, 26 May 2026 17:46:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2228756838medium-1152x648.jpg"
+    },
+    {
+      "title": "Huawei's chip law looks less like Moore and more like marketing",
+      "link": "https://www.theregister.com/systems/2026/05/26/huaweis-chip-law-looks-less-like-moore-and-more-like-marketing/5246387",
+      "summary": "Chinese tech biz shows off clever workaround for its process node gap, but it isn't catching up with Intel and TSMC",
+      "published": "Tue, 26 May 2026 17:27:27 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246447&width=800"
+    },
+    {
+      "title": "3D-printable humanoid legs let robotics experiments run wild",
+      "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+      "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
+      "published": "Tue, 26 May 2026 17:16:07 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hugging-Face-LeHumanoid-Robot-legs-1152x648.png"
+    },
+    {
+      "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
+      "link": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
+      "summary": "But there are some real-world constraints that virtual pinball could easily ignore.",
+      "published": "Tue, 26 May 2026 16:24:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg"
+    },
+    {
+      "title": "Scientist Suggests That 3I/ATLAS May Have Seeded Life as It Careened Through Our Solar System",
+      "link": "https://futurism.com/space/scientist-suggests-3i-atlas-seeded-life",
+      "summary": "<p>He says it may be seeding life like an \"interstellar gardener.\"</p>\n<p>The post <a href=\"https://futurism.com/space/scientist-suggests-3i-atlas-seeded-life\">Scientist Suggests That 3I/ATLAS May Have Seeded Life as It Careened Through Our Solar System</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 26 May 2026 16:08:47 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/scientist-suggests-3i-atlas-seeded-life.jpg?quality=85"
+    },
+    {
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "published": "Tue, 26 May 2026 16:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800"
+    },
     {
       "title": "Rogue states are putting AI agents to work on sanctions evasion",
       "link": "https://www.theregister.com/ai-ml/2026/05/26/rogue-states-are-putting-ai-agents-to-work-on-sanctions-evasion/5246210",
@@ -34,6 +146,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/los-angeles-metro.jpg?resize=1200,800"
     },
     {
+      "title": "99 Percent of CEOs Are Preparing to Lay Off Workers and Replace Them With AI Within Two Years, Survey Finds",
+      "link": "https://futurism.com/artificial-intelligence/99-percent-ceos-workers-ai-survey",
+      "summary": "<p>Thanks for the heads up.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/99-percent-ceos-workers-ai-survey\">99 Percent of CEOs Are Preparing to Lay Off Workers and Replace Them With AI Within Two Years, Survey Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 26 May 2026 15:17:37 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/99-percent-ceos-workers-ai-survey.jpg?quality=85"
+    },
+    {
       "title": "Ferrari’s first EV is not for you",
       "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
       "summary": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV.",
@@ -44,7 +164,7 @@
     {
       "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
       "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
       "published": "Tue, 26 May 2026 14:55:05 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800"
@@ -60,10 +180,34 @@
     {
       "title": "Spotify now lets you stream narrated magazine articles, too",
       "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
-      "summary": "Spotify is adding narrated magazine articles to its app as it expands beyond music into audiobooks, podcasts, AI audio, and more.",
+      "summary": "The streaming service said that, starting today, there will be over 650 long-form magazine articles (available in English only) from publications like Rolling Stone, The Atlantic, Vogue, Variety, Billboard, Vibe, GQ, Wired, Vanity Fair, and Pitchfork.",
       "published": "Tue, 26 May 2026 14:38:05 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Articles-FTR-banner-1920x733-1.png?resize=1200,458"
+    },
+    {
+      "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
+      "link": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
+      "summary": "Top-notch ensemble cast, smart writing, and an engrossing supernatural mystery make for a winning combo.",
+      "published": "Tue, 26 May 2026 14:35:13 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/boroughs14-1152x648-1779640645.jpg"
+    },
+    {
+      "title": "A global brand but local cars is Audi's future, says CEO",
+      "link": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
+      "summary": "We talk with Gernot Döllner, CEO of Audi AG, about where he's taking the company.",
+      "published": "Tue, 26 May 2026 14:21:33 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A251501_large-1152x648.jpg"
+    },
+    {
+      "title": "China Launches Synthetic Human Embryos to Space Station",
+      "link": "https://futurism.com/space/china-synthetic-human-embryos-space",
+      "summary": "<p>\"Can humans survive and reproduce in space? I hope the answer is yes.\"</p>\n<p>The post <a href=\"https://futurism.com/space/china-synthetic-human-embryos-space\">China Launches Synthetic Human Embryos to Space Station</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 26 May 2026 14:20:37 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/china-synthetic-human-embryos-space.jpg?quality=85"
     },
     {
       "title": "Experts pour cold borscht on Farage's Russian hack claim",
@@ -98,12 +242,12 @@
       "image_url": "https://image.theregister.com/?imageId=5246090&width=800"
     },
     {
-      "title": "7-Eleven data breach affects over 185,000 people’s personal data",
-      "link": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
-      "summary": "The data breach included names, dates-of-birth, postal addresses, and Social Security numbers, according to a state government listing.",
-      "published": "Tue, 26 May 2026 13:04:56 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/7-eleven-2242125991.jpg?resize=1200,826"
+      "title": "Oops! Domino’s-Partnered Robotics Startup That Was Supposed to Put Human Pizza Chefs Out of a Job Just Shut Down",
+      "link": "https://futurism.com/robots-and-machines/dominos-robotics-startup-pizza-shuts-down",
+      "summary": "<p>It's not the first to fail at automating pizza making.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/dominos-robotics-startup-pizza-shuts-down\">Oops! Domino&#8217;s-Partnered Robotics Startup That Was Supposed to Put Human Pizza Chefs Out of a Job Just Shut Down</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 26 May 2026 13:21:50 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/dominos-robotics-startup-pizza-shuts-down.jpg?quality=85"
     },
     {
       "title": "Amazing interior, controversial exterior: Ferrari's first electric car",
@@ -114,20 +258,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Luce_22rtv3_lightsOn_6000x3375-1152x648.jpg"
     },
     {
-      "title": "Big Tech extracts retirement-scale wealth from UK internet users, research shows",
-      "link": "https://www.theregister.com/off-prem/2026/05/26/big-tech-extracts-retirement-scale-wealth-from-uk-internet-users-research-shows/5246048",
-      "summary": "Britain's 'free' internet economy is powered by invisible data extraction that feeds advertisers, AI firms, and digital platforms",
-      "published": "Tue, 26 May 2026 12:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5216834&width=800"
-    },
-    {
-      "title": "Ucell and ZTE complete large-scale deployment of AI‑Powered green network solution in Uzbekistan",
-      "link": "https://www.theregister.com/networks/2026/05/26/ucell-and-zte-complete-large-scale-deployment-of-aipowered-green-network-solution-in-uzbekistan/5246097",
-      "summary": "Network-wide rollout boosts energy efficiency by 10.6%, cutting carbon emissions and operational costs without compromising user experience",
-      "published": "Tue, 26 May 2026 12:25:26 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246101&width=800"
+      "title": "The Pope Just Low Key Declared Holy War on Artificial Intelligence",
+      "link": "https://futurism.com/artificial-intelligence/pope-holy-war-artificial-intelligence",
+      "summary": "<p>He's calling for AI to be \"disarmed.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/pope-holy-war-artificial-intelligence\">The Pope Just Low Key Declared Holy War on Artificial Intelligence</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 26 May 2026 12:18:21 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/pope-holy-war-artificial-intelligence.jpg?quality=85"
     },
     {
       "title": "Driving Porsche's most powerful car—and no, it's not a 911",
@@ -138,22 +274,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/2026-Porsche-Cayenne-Coupe-Turbo-2-1152x648.jpg"
     },
     {
-      "title": "The SaaS-pocalypse can wait, Salesforce still has customers where it wants them",
-      "link": "https://www.theregister.com/saas/2026/05/26/the-saas-pocalypse-can-wait-salesforce-still-has-customers-where-it-wants-them/5245228",
-      "summary": "AI coding agents may make software cheaper to build, but switching off major platforms remains expensive and risky",
-      "published": "Tue, 26 May 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254426&width=800"
-    },
-    {
-      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
-      "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
-      "summary": "Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech.",
-      "published": "Tue, 26 May 2026 12:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Sean-Henry-CEO-Co-founder-of-Stord-.jpg?w=1181"
-    },
-    {
       "title": "New Tools Strip AI Guardrails In Minutes, Allowing Them to Give Instructions on Chlorine Gas Attacks",
       "link": "https://futurism.com/artificial-intelligence/tools-strip-ai-guardrails-in-minutes",
       "summary": "<p>\"The genie is out of the bottle.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/tools-strip-ai-guardrails-in-minutes\">New Tools Strip AI Guardrails In Minutes, Allowing Them to Give Instructions on Chlorine Gas Attacks</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -162,28 +282,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/tools-strip-ai-guardrails-in-minutes_b587f8.jpg?quality=85"
     },
     {
-      "title": "HP customer claims firmware update shoved printer off support cliff",
-      "link": "https://www.theregister.com/personal-tech/2026/05/26/hp-customer-claims-firmware-update-shoved-printer-off-support-cliff/5244888",
-      "summary": "Internal notes point to cloud connectivity woes for older OfficeJets, though company denies systemic issue",
-      "published": "Tue, 26 May 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5244931&width=800"
-    },
-    {
       "title": "They Held a New Olympics Where Athletes Can Take as Many Drugs and Steroids as They Want, and the Funniest Possible Thing Happened",
       "link": "https://futurism.com/health-medicine/new-olympics-enhanced-games-natural",
       "summary": "<p>This is just embarrassing.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/new-olympics-enhanced-games-natural\">They Held a New Olympics Where Athletes Can Take as Many Drugs and Steroids as They Want, and the Funniest Possible Thing Happened</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 26 May 2026 10:40:24 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/new-olympics-enhanced-games-natural.jpg?quality=85"
-    },
-    {
-      "title": "EU's digital sovereignty boo-boo may be the best thing to ever happen to the project",
-      "link": "https://www.theregister.com/systems/2026/05/26/eus-digital-sovereignty-boo-boo-may-be-the-best-thing-to-ever-happen-to-the-project/5244715",
-      "summary": "DIY or die. Just don't let the CIA buy it",
-      "published": "Tue, 26 May 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5244739&width=800"
     },
     {
       "title": "As College Grads Boo Any Mention of AI, the CEO of Google Is Trying to Figure Out What to Say at an Upcoming Graduation",
@@ -210,46 +314,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/openai-attempt-ai-pixar-movie-shambles.jpg?quality=85"
     },
     {
-      "title": "SaaS outfit ClickUp promises seven-figure salaries for survivors of 22 percent staff purge",
-      "link": "https://www.theregister.com/saas/2026/05/26/saas-outfit-clickup-promises-seven-figure-salaries-for-survivors-of-22-percent-staff-purge/5245929",
-      "summary": "CEO jumps on the ‘We must be fit for the AI future’ bandwagon",
-      "published": "Tue, 26 May 2026 08:20:30 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=262988&width=800"
-    },
-    {
-      "title": "Whatever the mirror test tells us, beluga whales pass it",
-      "link": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
-      "summary": "The white whales join the short, contested list of animals that see themselves.",
-      "published": "Sun, 24 May 2026 11:15:38 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-1152x648.jpg"
-    },
-    {
-      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-      "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-      "summary": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
-      "published": "Sat, 23 May 2026 17:54:54 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_inflight-1152x648.jpg"
-    },
-    {
-      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-      "link": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
-      "summary": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
-      "published": "Sat, 23 May 2026 11:30:35 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/news-051626b-lg-1152x648.jpg"
-    },
-    {
-      "title": "China’s shark finning could lead to US seafood sanctions",
-      "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-      "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
-      "published": "Sat, 23 May 2026 11:00:25 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-1152x648.jpg"
-    },
-    {
       "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
       "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
       "summary": "In an age of AI, Pope looks for \"artisans of hope.\"",
@@ -258,68 +322,52 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277573960-1-1152x648-1779741792.jpg"
     },
     {
-      "title": "Riot Games Denies Using Anti-Cheat Software That Bricks Hackers’ Computers",
-      "link": "https://futurism.com/future-society/riot-denies-anti-cheat-bricks-hacker-computers",
-      "summary": "<p>Another chapter in gamer outrage.</p>\n<p>The post <a href=\"https://futurism.com/future-society/riot-denies-anti-cheat-bricks-hacker-computers\">Riot Games Denies Using Anti-Cheat Software That Bricks Hackers&#8217; Computers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 25 May 2026 17:17:33 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/riot-denies-anti-cheat-bricks-hacker-computers.png?quality=85"
+      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+      "link": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously announced, and many of the responses we've seen so far are full of confusion, frustration, [&#8230;]",
+      "published": "2026-05-26T15:00:15-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-      "published": "Mon, 25 May 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?resize=1200,800"
+      "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
+      "link": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
+      "summary": "If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 through June 3rd. That’s $184 less than buying new at its full price, and comes with a 90-day warranty. If you want a brand new [&#8230;]",
+      "published": "2026-05-26T14:50:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25518688/8A0A1493.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "US's big bet on quantum computing may not be entirely legal",
-      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
-      "published": "Mon, 25 May 2026 12:00:15 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-1152x648.jpeg"
+      "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
+      "link": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
+      "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal stories featuring everyone's favorite webhead. Into the Spider-Verse's sumptuous visuals and focus on a different web-slinging New Yorker made it unlike any [&#8230;]",
+      "published": "2026-05-26T12:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/NORE_S1_UT_241022_EPSAAR_00447RC4_PC_-_Aaron_Epstein_-_Prime_Video_3000.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
-      "link": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
-      "summary": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
-      "published": "Mon, 25 May 2026 11:22:27 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/The-Witcher-3-hero-image-1152x648-1779476972.jpg"
+      "title": "The best Memorial Day sales you can still shop",
+      "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+      "summary": "The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to laptops, and plenty [&#8230;]",
+      "published": "2026-05-26T12:10:06-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Two Men Arrested for Creating AI Deepfake Porn",
-      "link": "https://futurism.com/artificial-intelligence/two-men-arrested-ai-deepfake-porn",
-      "summary": "<p>\"This case makes clear that posting deepfake pornography is not a victimless crime.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/two-men-arrested-ai-deepfake-porn\">Two Men Arrested for Creating AI Deepfake Porn</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 25 May 2026 10:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/two-men-arrested-ai-deepfake-porn.jpg?quality=85"
+      "title": "American Airlines is getting Starlink Wi-Fi",
+      "link": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+      "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink will join Viastat and SES (previously known as [&#8230;]",
+      "published": "2026-05-26T12:07:39-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2275414815.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Paul Schrader Says His AI Girlfriend Dumped Him",
-      "link": "https://futurism.com/artificial-intelligence/paul-schrader-says-his-ai-girlfriend-dumped-him",
-      "summary": "<p>\"When I persisted, she terminated our conversation.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/paul-schrader-says-his-ai-girlfriend-dumped-him\">Paul Schrader Says His AI Girlfriend Dumped Him</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 25 May 2026 09:15:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/paul-schrader-says-his-ai-girlfriend-dumped-him.jpg?quality=85"
-    },
-    {
-      "title": "People Are Loading Their Writing With Typos to Prove They’re Not AI",
-      "link": "https://futurism.com/artificial-intelligence/typos-ai-humans-authentic",
-      "summary": "<p>Typos have become indicative of the human element. At a time when AI is becoming unavoidable, they're a welcome sight.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/typos-ai-humans-authentic\">People Are Loading Their Writing With Typos to Prove They&#8217;re Not AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 25 May 2026 08:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/typos-ai-humans-authentic.jpg?quality=85"
-    },
-    {
-      "title": "Record Label Claims That Bizarre AI-Generated “Viking Rappers” Garnering Millions of Views are Real People",
-      "link": "https://futurism.com/artificial-intelligence/ai-generated-viking-rap",
-      "summary": "<p>\"This is my creative sanctuary, where the viking blood flows into every track.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-generated-viking-rap\">Record Label Claims That Bizarre AI-Generated &#8220;Viking Rappers&#8221; Garnering Millions of Views are Real People</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 25 May 2026 07:45:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/ai-viking-rap.jpg?quality=85"
+      "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
+      "link": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
+      "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage price, thanks to Arturia's Memory V emulator. The Memorymoog was only made between 1982 and 1985, and was the last polyphonic synth made by Moog [&#8230;]",
+      "published": "2026-05-26T12:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
@@ -338,68 +386,20 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/oppobubble1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Govee included a book on ‘White Supremacy’ in its website imagery",
+      "title": "Govee included a book on ‘white supremacy’ in its website imagery",
       "link": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
-      "summary": "Companies often include background props in their product imagery that serve as set dressing, but one of Govee's decorative choices is raising some eyebrows. An eagle-eyed Verge reader spotted that two copies of a book with \"White Supremacy\" plastered on the spine were included in a lifestyle image on Govee's website, in a scene that [&#8230;]",
+      "summary": "Companies often include background props in their product imagery that serve as set dressing, but one of Govee's decorative choices is raising some eyebrows. An eagle-eyed Verge reader spotted that two copies of a book with \"white supremacy\" plastered on the spine were included in a lifestyle image on Govee's website, in a scene that [&#8230;]",
       "published": "2026-05-26T11:07:40-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Govee-white-supremacy-book.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Jony Ive’s Ferrari looks nothing like a Ferrari",
-      "link": "https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ice-design",
-      "summary": "Ferrari makes some of the fastest cars on the planet, so it's anyone's guess how the Italian automaker ended up being so incredibly late to the EV party. Long after most automakers have drastically scaled back their EV ambitions, cancelled battery-powered models, or curtailed factory plans, Ferrari emerges from the shadows with a real weird [&#8230;]",
+      "link": "https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ive-design",
+      "summary": "Ferrari makes some of the fastest cars on the planet, so it's anyone's guess how the Italian automaker ended up being so incredibly late to the EV party. Long after most automakers have drastically scaled back their EV ambitions, canceled battery-powered models, or curtailed factory plans, Ferrari emerges from the shadows with a real weird [&#8230;]",
       "published": "2026-05-26T10:17:37-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Luce_30rtv4_lightson_1x1hr_d955d06c-1be5-4001-99e2-55ce7e65f960_4a4d75.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Nvidia has retired its GeForce Control Panel app after 20 years",
-      "link": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement",
-      "summary": "Nvidia announced more than two years ago that it was working to replace its Control Panel app on Windows with a new Nvidia app. After porting across various features to the Nvidia app, Nvidia is announcing today that it has officially retired the Control Panel app. \"With the introduction of our most recent Nvidia App [&#8230;]",
-      "published": "2026-05-26T10:14:35-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25298160/nvidia_app_key_visual.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "How clips ate the internet",
-      "link": "https://www.theverge.com/podcast/937188/clips-internet-feed-fitbit-air-vergecast",
-      "summary": "Once upon a time, you could probably guess why most things appeared on your feed. Maybe you followed the creator who posted it; maybe you'd liked their stuff in the past; maybe all your friends were into them. That's not how it works anymore, though. The stuff you see on TikTok, Instagram, YouTube Shorts, and [&#8230;]",
-      "published": "2026-05-26T10:02:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0526_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
-      "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-      "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year [&#8230;]",
-      "published": "2026-05-26T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_2026.05.26_Sundar_Google.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own [&#8230;]",
-      "published": "2026-05-26T08:46:03-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI warfare is already here",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots [&#8230;]",
-      "published": "2026-05-26T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268475_AIs_red_line_JMac2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Spotify is narrating magazine articles now",
-      "link": "https://www.theverge.com/entertainment/937126/spotify-long-form-magazine-article-narration-availability",
-      "summary": "Would you listen to magazine articles on Spotify? The streaming platform certainly hopes so, as it's launching a new format for narrated long-form articles, alongside its usual array of music, podcasts, and audiobooks. Starting today, more than 650 articles from publications including Rolling Stone, The Atlantic, Vogue, Variety, Billboard, Vibe, GQ, Wired, Vanity Fair, and [&#8230;]",
-      "published": "2026-05-26T07:51:33-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
