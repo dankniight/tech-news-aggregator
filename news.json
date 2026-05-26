@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-05-26T04:02:26.977696",
+  "lastUpdated": "2026-05-26T10:04:56.884196",
   "articles": [
+    {
+      "title": "The SaaS-pocalypse can wait, Salesforce still has customers where it wants them",
+      "link": "https://www.theregister.com/saas/2026/05/26/the-saas-pocalypse-can-wait-salesforce-still-has-customers-where-it-wants-them/5245228",
+      "summary": "AI coding agents may make software cheaper to build, but switching off major platforms remains expensive, risky, and deeply annoying",
+      "published": "Tue, 26 May 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254426&width=800"
+    },
+    {
+      "title": "HP customer claims firmware update shoved printer off support cliff",
+      "link": "https://www.theregister.com/personal-tech/2026/05/26/hp-customer-claims-firmware-update-shoved-printer-off-support-cliff/5244888",
+      "summary": "Internal notes point to cloud connectivity woes for older OfficeJets, though company denies systemic issue",
+      "published": "Tue, 26 May 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5244931&width=800"
+    },
+    {
+      "title": "EU's digital sovereignty boo-boo may be the best thing to ever happen to the project",
+      "link": "https://www.theregister.com/systems/2026/05/26/eus-digital-sovereignty-boo-boo-may-be-the-best-thing-to-ever-happen-to-the-project/5244715",
+      "summary": "DIY or die. Just don't let the CIA buy it",
+      "published": "Tue, 26 May 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5244739&width=800"
+    },
+    {
+      "title": "SaaS outfit ClickUp promises seven-figure salaries for survivors of 22 percent staff purge",
+      "link": "https://www.theregister.com/saas/2026/05/26/saas-outfit-clickup-promises-seven-figure-salaries-for-survivors-of-22-percent-staff-purge/5245929",
+      "summary": "CEO jumps on the ‘We must be fit for the AI future’ bandwagon",
+      "published": "Tue, 26 May 2026 08:20:30 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262988&width=800"
+    },
+    {
+      "title": "Japanese Space Agency names arrival date for BepiColombo Mercury mission",
+      "link": "https://www.theregister.com/science/2026/05/26/japanese-space-agency-names-arrival-date-for-bepicolombo-mercury-mission/5245906",
+      "summary": "Due on November 21, eleven months late - but on time to do science!",
+      "published": "Tue, 26 May 2026 06:10:38 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=242727&width=800"
+    },
+    {
+      "title": "Pope Leo warns AI boom can give Big Tech and the people who run it too much power",
+      "link": "https://www.theregister.com/ai-ml/2026/05/26/pope-leo-warns-ai-boom-can-give-big-tech-and-the-people-who-run-it-too-much-power/5245883",
+      "summary": "Worries change may be ‘governed only by technocratic thinking and presented as necessary and inevitable’",
+      "published": "Tue, 26 May 2026 04:10:55 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259632&width=800"
+    },
     {
       "title": "Everyone is navigating AI security in real time — even Google",
       "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -50,14 +98,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/nintendo-ignoring-ai-fine.jpg?quality=85"
     },
     {
-      "title": "HP investigating BIOS updates that leave premium laptop users in boot loop limbo",
-      "link": "https://www.theregister.com/personal-tech/2026/05/24/hp-investigating-bios-updates-that-leave-premium-laptop-users-in-boot-loop-limbo/5244769",
-      "summary": "Slowdowns, crashes, BSODs reported on pricey mobile workstations",
-      "published": "Sun, 24 May 2026 12:28:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093804&width=800"
-    },
-    {
       "title": "Top AI Models Showing Disturbing Behavior as They Become More Advanced",
       "link": "https://futurism.com/artificial-intelligence/ai-rogue-disturbing-advanced",
       "summary": "<p>\"Given rapidly advancing capabilities, we expect the plausible robustness of rogue deployments to increase substantially in the coming months.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-rogue-disturbing-advanced\">Top AI Models Showing Disturbing Behavior as They Become More Advanced</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -88,14 +128,6 @@
       "published": "Sun, 24 May 2026 10:30:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/scientists-say-huge-dam-blocking-the-bering-strait-could-slow-effects-of-climate-change.jpg?quality=85"
-    },
-    {
-      "title": "No captain, my captain: Navantia floats crewless warship",
-      "link": "https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332",
-      "summary": "Spanish shipbuilder's 75-meter drone vessel comes with sensors, modular payloads, and no room for sailors",
-      "published": "Sun, 24 May 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5244357&width=800"
     },
     {
       "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
@@ -172,7 +204,7 @@
     {
       "title": "Google is cannibalizing the web to feed AI",
       "link": "https://www.theregister.com/ai-ml/2026/05/25/google-is-cannibalizing-the-web-to-feed-ai/5244641",
-      "summary": "Google Search used to direct users to web sites; AI Mode will keep them in Google's garden",
+      "summary": "Google Search used to direct users to websites; AI Mode will keep them in Google's garden",
       "published": "Mon, 25 May 2026 14:25:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5245335&width=800"
@@ -242,14 +274,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/paul-schrader-says-his-ai-girlfriend-dumped-him.jpg?quality=85"
     },
     {
-      "title": "Anthropic to release Mythos-class models to the public",
-      "link": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
-      "summary": "AI flaw-finder still under lock and key for now while company figures out guardrails, but extends access to more users including governments",
-      "published": "Mon, 25 May 2026 09:09:26 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230774&width=800"
-    },
-    {
       "title": "People Are Loading Their Writing With Typos to Prove They’re Not AI",
       "link": "https://futurism.com/artificial-intelligence/typos-ai-humans-authentic",
       "summary": "<p>Typos have become indicative of the human element. At a time when AI is becoming unavoidable, they're a welcome sight.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/typos-ai-humans-authentic\">People Are Loading Their Writing With Typos to Prove They&#8217;re Not AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -274,30 +298,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/students-cheer-steve-wozniak-intelligence.jpg?quality=85"
     },
     {
-      "title": "Samsung memory workers call off strike and may score six-figure bonuses",
-      "link": "https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573",
-      "summary": "PLUS: Huawei says it’s replaced Moore’s Law; Chinese mobile plans add token allowances; Singtel slinging Optus; And more!",
-      "published": "Mon, 25 May 2026 06:14:46 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=195862&width=800"
-    },
-    {
-      "title": "Linus Torvalds to ‘start being more hardnosed’ about ‘pointless pull requests’ – some of which come from AIs",
-      "link": "https://www.theregister.com/oses/2026/05/25/linus-torvalds-to-start-being-more-hardnosed-about-pointless-pull-requests-some-of-which-come-from-ais/5245549",
-      "summary": "Warns large release candidates ‘are *not* conducive to long-term stability’",
-      "published": "Mon, 25 May 2026 01:45:49 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1684046&width=800"
-    },
-    {
-      "title": "Google has seriously leaned into AI enshittification lately",
-      "link": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
-      "summary": "Could the Chocolate Factory's mission to reshape the web backfire?",
-      "published": "Mon, 25 May 2026 01:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243010&width=800"
-    },
-    {
       "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
       "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
       "summary": "\"This capability is not common for satellites conducting typical missions.\"",
@@ -320,6 +320,22 @@
       "published": "Fri, 22 May 2026 21:42:59 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg"
+    },
+    {
+      "title": "Uber president says AI spending is getting ‘harder to justify’",
+      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more [&#8230;]",
+      "published": "2026-05-26T05:55:09-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "A battery-powered Starlink Mini is likely on the way",
+      "link": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
+      "summary": "Code in recent Starlink firmware suggests that SpaceX might soon release a version of its smallest internet dish with an integrated battery. A battery-powered Starlink Mini would offer untethered portability for vanlifers, emergency responders, and anyone who wants fast, low-latency internet from almost anywhere on the planet. University researcher Jinwei Zhao spotted a number of [&#8230;]",
+      "published": "2026-05-26T04:55:51-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/IMG_1637_edit.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
@@ -384,22 +400,6 @@
       "published": "2026-05-24T11:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-      "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]",
-      "published": "2026-05-24T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0005_3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
-      "link": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
-      "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better? Nuro, the [&#8230;]",
-      "published": "2026-05-24T07:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Photo-4.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
