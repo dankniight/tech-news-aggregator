@@ -1,125 +1,229 @@
 {
-  "lastUpdated": "2026-05-27T10:02:40.619018",
+  "lastUpdated": "2026-05-27T15:56:38.298546",
   "articles": [
     {
-      "title": "6G: The next gen of wireless tech nobody's ready to pay for",
-      "link": "https://www.theregister.com/networks/2026/05/27/6g-the-next-gen-of-wireless-tech-nobodys-ready-to-pay-for/5246136",
-      "summary": "Standards body on track for 2028 specs drop. Telcos on track for 2028 existential crisis about 5G ROI",
-      "published": "Wed, 27 May 2026 12:00:00 +0200",
+      "title": "4 in 10 AI agents headed for demotion or the rubbish bin",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/4-in-10-ai-agents-headed-for-demotion-or-the-rubbish-bin/5246964",
+      "summary": "Gartner predicts governance struggles to plague rollout of this year’s much-hyped technology",
+      "published": "Wed, 27 May 2026 16:32:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=235716&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5226945&width=800"
     },
     {
-      "title": "AWS whips out Graviton-powered Redshift instances, claims 7x speed for data warehouse",
-      "link": "https://www.theregister.com/databases/2026/05/27/aws-whips-out-graviton-powered-redshift-instances-claims-7x-speed-for-data-warehouse/5246148",
-      "summary": "AI agents asking questions in natural language apparently issue a lot more queries than your average SQL jockey",
-      "published": "Wed, 27 May 2026 11:15:00 +0200",
+      "title": "India's cyber agency sets clock at 12 hours to tackle exploited bugs as AI turns up the heat",
+      "link": "https://www.theregister.com/security/2026/05/27/cert-in-professes-12-hour-patching-for-ai-assisted-attacks/5247009",
+      "summary": "CERT-In says internet-facing or critical systems should be patched, mitigated, or cut off within half a day where feasible",
+      "published": "Wed, 27 May 2026 16:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246249&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5247056&width=800"
     },
     {
-      "title": "InPost locker caught shipping unactivated Windows",
-      "link": "https://www.theregister.com/offbeat/2026/05/27/inpost-locker-caught-shipping-unactivated-windows/5245256",
-      "summary": "Contactless collection meets Microsoft's licensing reminder",
-      "published": "Wed, 27 May 2026 10:30:00 +0200",
+      "title": "Windows 11 update preview promises faster launches, puts Task Manager on NPU patrol",
+      "link": "https://www.theregister.com/personal-tech/2026/05/27/windows-11-update-preview-promises-faster-launches-puts-task-manager-on-npu-patrol/5246940",
+      "summary": "Just mind the known issue that can still send installs rolling back",
+      "published": "Wed, 27 May 2026 15:30:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5245291&width=800"
+      "image_url": "https://image.theregister.com/?imageId=1682093&width=800"
     },
     {
-      "title": "Explainer: Edge AI",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/explainer-edge-ai/5246783",
-      "summary": "You can run AI at the edge, if your infrastructure supports it",
-      "published": "Wed, 27 May 2026 10:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246787&width=800"
-    },
-    {
-      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
-      "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
-      "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with Austin. The new investment reflects a [&#8230;]",
-      "published": "Wed, 27 May 2026 08:00:00 +0000",
+      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+      "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+      "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
+      "published": "Wed, 27 May 2026 15:20:16 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/WeRoad-Travellers-5.jpg?w=1200"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800"
     },
     {
-      "title": "Iran slowly reconnects to the global internet",
-      "link": "https://www.theregister.com/storage/2026/05/27/iran-slowly-reconnects-to-the-global-internet/5246803",
-      "summary": "Traffic floods back, without much of an explanation",
-      "published": "Wed, 27 May 2026 07:57:18 +0200",
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
+      "published": "Wed, 27 May 2026 15:06:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg"
+    },
+    {
+      "title": "Broadcom gets early start on WiFi 8 with next-gen wireless routing kit",
+      "link": "https://www.theregister.com/networks/2026/05/27/broadcom-gets-early-start-on-wifi-8-with-new-routing-kit/5246623",
+      "summary": "Better, more reliable, and cheaper? Isn't that the story every generation?",
+      "published": "Wed, 27 May 2026 15:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5224613&width=800"
+      "image_url": "https://image.theregister.com/?imageId=253637&width=800"
     },
     {
-      "title": "Cisco making SONiC available to all customers – not just hyperscalers",
-      "link": "https://www.theregister.com/networks/2026/05/27/cisco-making-sonic-available-to-all-customers-not-just-hyperscalers/5246733",
-      "summary": "Hardened version of open-source NOS coming to Nexus 9000s",
-      "published": "Wed, 27 May 2026 05:41:58 +0200",
+      "title": "Broadcom's custom ASIC biz adds South Korea's FuriosaAI to its empire",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/broadcom-lands-furiosaai-as-latest-custom-ai-chip-partner/5246536",
+      "summary": "Third-gen chips to use Broadzilla's advanced packaging, networking tech",
+      "published": "Wed, 27 May 2026 15:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246778&width=800"
+      "image_url": "https://image.theregister.com/?imageId=252467&width=800"
     },
     {
-      "title": "Alibaba gets Android 16 running on RISC-V",
-      "link": "https://www.theregister.com/systems/2026/05/27/alibaba-gets-android-16-running-on-risc-v/5246710",
-      "summary": "Beijing’s sovereign stack ambitions strengthen",
-      "published": "Wed, 27 May 2026 04:19:27 +0200",
+      "title": "Volvo gets US government approval to bypass Chinese connected-car ban",
+      "link": "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
+      "summary": "The ban for model year 2027 onward began under Biden and has been enacted by Trump.",
+      "published": "Wed, 27 May 2026 14:44:07 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/EX60-Global-media-drive-in-Barcelona-1152x648.jpg"
+    },
+    {
+      "title": "Tony Blair and the Reform party both want AI in government, though they can't agree on what for",
+      "link": "https://www.theregister.com/public-sector/2026/05/27/tony-blair-and-the-reform-party-both-want-ai-in-government-though-they-cant-agree-on-what-for/5246983",
+      "summary": "Former UK PM demands modernization, and right wing party channels inner Musk to call for mass job cuts in public sector",
+      "published": "Wed, 27 May 2026 14:30:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261431&width=800"
+      "image_url": "https://image.theregister.com/?imageId=247383&width=800"
     },
     {
-      "title": "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
-      "summary": "The nature of AI is unnatural. It's not intelligent. It's not human",
-      "published": "Wed, 27 May 2026 02:38:57 +0200",
+      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+      "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+      "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stage.",
+      "published": "Wed, 27 May 2026 14:15:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800"
+    },
+    {
+      "title": "UK armed forces aims for secure comms via optical satellite links",
+      "link": "https://www.theregister.com/networks/2026/05/27/uk-armed-forces-aims-for-secure-comms-via-optical-satellite-links/5246994",
+      "summary": "Brit military boffins test ground station with infra-red lasers to deliver multi-gigabyte downloads",
+      "published": "Wed, 27 May 2026 14:14:58 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246691&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5230051&width=800"
     },
     {
-      "title": "NASA to pull an IKEA by dropping tons of plastic, metal, and glass on the Moon",
-      "link": "https://www.theregister.com/science/2026/05/27/nasa-plans-moon-base-buildout-with-rovers-drones-cargo-landers/5246638",
-      "summary": "Astronauts will get to self-assemble lunar base",
-      "published": "Wed, 27 May 2026 02:04:17 +0200",
+      "title": "ElevenLabs’s new music generation model can switch genres mid-track",
+      "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track",
+      "published": "Wed, 27 May 2026 14:14:10 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+    },
+    {
+      "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
+      "link": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
+      "summary": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.",
+      "published": "Wed, 27 May 2026 14:05:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/FTR-Header-1920x733-1.png?resize=1200,458"
+    },
+    {
+      "title": "How to guarantee a speaker gig: Hack the system. Literally",
+      "link": "https://www.theregister.com/security/2026/05/27/pretalx-xss-flaw-exposed-conference-cfp-systems/5246598",
+      "summary": "Make your mark on the call-for-proposal platform",
+      "published": "Wed, 27 May 2026 14:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246668&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5246620&width=800"
     },
     {
-      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
-      "link": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
-      "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
-      "published": "Tue, 26 May 2026 23:49:05 +0000",
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
+      "published": "Wed, 27 May 2026 14:00:00 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/uk-visa-2186517355.jpg?resize=1200,800"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Travel-Sleeping-2000px.jpg?resize=1200,800"
     },
     {
-      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
-      "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
-      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
-      "published": "Tue, 26 May 2026 22:55:01 +0000",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+      "link": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+      "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in your pass before rates go up again.",
+      "published": "Wed, 27 May 2026 14:00:00 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?resize=1200,800"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_3Days-16X9-Dark.png?resize=1200,675"
     },
     {
-      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
-      "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
-      "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
-      "published": "Tue, 26 May 2026 22:55:01 +0000",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+      "published": "Wed, 27 May 2026 13:48:41 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?resize=1200,900"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801"
     },
     {
-      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
-      "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
-      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
-      "published": "Tue, 26 May 2026 22:37:46 +0000",
+      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "summary": "The database provider is eyeing a public debut within the next few years.",
+      "published": "Wed, 27 May 2026 13:04:20 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?resize=1200,800"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-5.53.09-AM.png?resize=1200,788"
     },
     {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-      "published": "Tue, 26 May 2026 22:32:56 +0000",
+      "title": "GitHub Actions outage told devs 'your account is suspended'",
+      "link": "https://www.theregister.com/devops/2026/05/27/github-actions-outage-told-devs-your-account-is-suspended/5246867",
+      "summary": "Another day, another GitHub wobble - but the service keeps growing",
+      "published": "Wed, 27 May 2026 13:04:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258962&width=800"
+    },
+    {
+      "title": "YouTube will now automatically label AI videos",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
+      "published": "Wed, 27 May 2026 13:00:00 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "published": "Wed, 27 May 2026 12:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857"
+    },
+    {
+      "title": "Microsoft Excel esports champ proves he still has the formula",
+      "link": "https://www.theregister.com/offbeat/2026/05/27/microsoft-excel-esports-champ-proves-he-still-has-the-formula/5246891",
+      "summary": "Diarmuid Early dominates Amsterdam qualifier as competitive spreadsheeting sets sights on Vegas finals",
+      "published": "Wed, 27 May 2026 12:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246919&width=800"
+    },
+    {
+      "title": "NASA Releases Sweeping Plans for Moon Base",
+      "link": "https://futurism.com/space/nasa-releases-sweeping-plans-moon-base",
+      "summary": "<p>Ambitious, or unrealistic?</p>\n<p>The post <a href=\"https://futurism.com/space/nasa-releases-sweeping-plans-moon-base\">NASA Releases Sweeping Plans for Moon Base</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 27 May 2026 11:13:31 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/nasa-releases-sweeping-plans-moon-base_329491.jpg?quality=85"
+    },
+    {
+      "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
+      "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+      "summary": "Pretty little phones with pretty big price tags.",
+      "published": "Wed, 27 May 2026 11:00:28 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-1152x648.jpg"
+    },
+    {
+      "title": "Uber Says Its AI Costs Just Aren’t Worth It",
+      "link": "https://futurism.com/artificial-intelligence/uber-ai-costs-arent-worth-it",
+      "summary": "<p>\"AI is not free.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/uber-ai-costs-arent-worth-it\">Uber Says Its AI Costs Just Aren&#8217;t Worth It</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 27 May 2026 10:57:39 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/nasa-releases-sweeping-plans-moon-base_588558.jpg?quality=85"
+    },
+    {
+      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+      "summary": "The feds are raising the alarm about a new category of threat.",
+      "published": "Wed, 27 May 2026 10:30:28 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2263649204-1152x648.jpg"
+    },
+    {
+      "title": "Companies That Adopted AI Agents Alarmed to Discover They’re Botching Incredibly Important Tasks",
+      "link": "https://futurism.com/artificial-intelligence/companies-ai-agents-botching-important-tasks",
+      "summary": "<p>\"The blast radius of that agent action was not the service restart. It was everything downstream of the restart, in a system state the agent had no complete picture of.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/companies-ai-agents-botching-important-tasks\">Companies That Adopted AI Agents Alarmed to Discover They&#8217;re Botching Incredibly Important Tasks</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 27 May 2026 10:00:19 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/companies-ai-agents-botching-important-tasks.jpg?quality=85"
+    },
+    {
+      "title": "Anthropic Cofounder Travels to Vatican, Tells Pope They’re Finding “Unsettling” Things Inside AI Models",
+      "link": "https://futurism.com/artificial-intelligence/anthropic-cofounder-vatican-pope-unsettling",
+      "summary": "<p>The double standard is hard to miss.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-cofounder-vatican-pope-unsettling\">Anthropic Cofounder Travels to Vatican, Tells Pope They&#8217;re Finding &#8220;Unsettling&#8221; Things Inside AI Models</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 27 May 2026 08:49:29 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/anthropic-cofounder-vatican-pope-unsettling.jpg?quality=85"
     },
     {
       "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
@@ -130,28 +234,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-1152x648-1779832466.jpg"
     },
     {
-      "title": "California may let Linux bypass age check",
-      "link": "https://www.theregister.com/software/2026/05/26/california-may-let-linux-bypass-age-check/5246575",
-      "summary": "Exemption in amendment offers relief to open source software makers",
-      "published": "Tue, 26 May 2026 21:49:21 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254050&width=800"
-    },
-    {
       "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
       "link": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
       "summary": "Musk says drones used Starlink instead of Starshield, blames military contractor.",
       "published": "Tue, 26 May 2026 21:23:56 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/lucas-drone-1152x648-1779827554.jpg"
-    },
-    {
-      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
-      "link": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
-      "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
-      "published": "Tue, 26 May 2026 21:03:56 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-11.33.33-AM.png?resize=1200,743"
     },
     {
       "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
@@ -178,52 +266,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
     },
     {
-      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-      "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
-      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
-      "published": "Tue, 26 May 2026 18:48:04 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/american-airlines-airbus.jpg?resize=1200,800"
-    },
-    {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "published": "Tue, 26 May 2026 18:33:01 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776"
-    },
-    {
       "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
       "link": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
       "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
       "published": "Tue, 26 May 2026 18:30:58 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-157380693-1152x648.jpg"
-    },
-    {
-      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-      "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
-      "published": "Tue, 26 May 2026 17:46:01 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2228756838medium-1152x648.jpg"
-    },
-    {
-      "title": "3D-printable humanoid legs let robotics experiments run wild",
-      "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-      "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
-      "published": "Tue, 26 May 2026 17:16:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hugging-Face-LeHumanoid-Robot-legs-1152x648.png"
-    },
-    {
-      "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
-      "link": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
-      "summary": "But there are some real-world constraints that virtual pinball could easily ignore.",
-      "published": "Tue, 26 May 2026 16:24:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg"
     },
     {
       "title": "Scientist Suggests That 3I/ATLAS May Have Seeded Life as It Careened Through Our Solar System",
@@ -234,28 +282,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/scientist-suggests-3i-atlas-seeded-life.jpg?quality=85"
     },
     {
-      "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-      "published": "Tue, 26 May 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800"
-    },
-    {
       "title": "99 Percent of CEOs Are Preparing to Lay Off Workers and Replace Them With AI Within Two Years, Survey Finds",
       "link": "https://futurism.com/artificial-intelligence/99-percent-ceos-workers-ai-survey",
       "summary": "<p>Thanks for the heads up.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/99-percent-ceos-workers-ai-survey\">99 Percent of CEOs Are Preparing to Lay Off Workers and Replace Them With AI Within Two Years, Survey Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 26 May 2026 15:17:37 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/99-percent-ceos-workers-ai-survey.jpg?quality=85"
-    },
-    {
-      "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
-      "link": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
-      "summary": "Top-notch ensemble cast, smart writing, and an engrossing supernatural mystery make for a winning combo.",
-      "published": "Tue, 26 May 2026 14:35:13 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/boroughs14-1152x648-1779640645.jpg"
     },
     {
       "title": "China Launches Synthetic Human Embryos to Space Station",
@@ -290,116 +322,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/tools-strip-ai-guardrails-in-minutes_b587f8.jpg?quality=85"
     },
     {
-      "title": "They Held a New Olympics Where Athletes Can Take as Many Drugs and Steroids as They Want, and the Funniest Possible Thing Happened",
-      "link": "https://futurism.com/health-medicine/new-olympics-enhanced-games-natural",
-      "summary": "<p>This is just embarrassing.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/new-olympics-enhanced-games-natural\">They Held a New Olympics Where Athletes Can Take as Many Drugs and Steroids as They Want, and the Funniest Possible Thing Happened</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 26 May 2026 10:40:24 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/new-olympics-enhanced-games-natural.jpg?quality=85"
-    },
-    {
-      "title": "As College Grads Boo Any Mention of AI, the CEO of Google Is Trying to Figure Out What to Say at an Upcoming Graduation",
-      "link": "https://futurism.com/artificial-intelligence/google-ceo-speech-stanford-graduation",
-      "summary": "<p>We suggest not mindlessly praising AI.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-ceo-speech-stanford-graduation\">As College Grads Boo Any Mention of AI, the CEO of Google Is Trying to Figure Out What to Say at an Upcoming Graduation</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 26 May 2026 10:16:58 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/google-ceo-speech-stanford-graduation.jpg?quality=85"
-    },
-    {
-      "title": "Man Humiliated by His AI Use Says He Just Can’t Quit",
-      "link": "https://futurism.com/artificial-intelligence/man-humiliated-by-ai-cant-quit",
-      "summary": "<p>\"It's strangely creative and crafty and unusual in all these ways... and then it betrays you in ways that are just really quite horrible.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/man-humiliated-by-ai-cant-quit\">Man Humiliated by His AI Use Says He Just Can&#8217;t Quit</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 26 May 2026 09:19:50 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/man-humiliated-by-ai-cant-quit.jpg?quality=85"
-    },
-    {
-      "title": "OpenAI’s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles",
-      "link": "https://futurism.com/artificial-intelligence/openai-attempt-ai-pixar-movie-shambles",
-      "summary": "<p>Making movies ain't so easy after all.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-attempt-ai-pixar-movie-shambles\">OpenAI&#8217;s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 26 May 2026 08:36:14 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/openai-attempt-ai-pixar-movie-shambles.jpg?quality=85"
-    },
-    {
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
-      "published": "2026-05-26T20:38:11-04:00",
+      "title": "AI tried to bury this politician — now people have actually heard of him",
+      "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud [&#8230;]",
+      "published": "2026-05-27T11:40:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2271137268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
-      "link": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
-      "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon Base missions NASA says are \"the first of more than a dozen missions that will be announced this year.\" In addition to the [&#8230;]",
-      "published": "2026-05-26T18:24:53-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ltv-concept-nasa.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
-      "link": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously announced, and many of the responses we've seen so far are full of confusion, frustration, [&#8230;]",
-      "published": "2026-05-26T15:00:15-04:00",
+      "title": "Here&#8217;s how Google is responding to Fitbit users who don&#8217;t like the new Health app",
+      "link": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
+      "summary": "After a flood of complaints about the Google Health app that just replaced Fitbit, Google has responded with a list of changes that will roll out starting this week. Google is addressing some of the biggest complaints users had, like the Today dashboard that can only show users' chosen health metrics in the top half [&#8230;]",
+      "published": "2026-05-27T11:28:43-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
-      "link": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
-      "summary": "If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 through June 3rd. That’s $184 less than buying new at its full price, and comes with a 90-day warranty. If you want a brand new [&#8230;]",
-      "published": "2026-05-26T14:50:35-04:00",
+      "title": "Sony’s DualSense controllers are almost 30 percent off",
+      "link": "https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale",
+      "summary": "Sony has a tradition of marking down its PlayStation 5 hardware a couple of times a year, and one of those opportunities to save is here through June 10th. Its latest Days of Play sale is happening at multiple retailers, including Amazon, Best Buy, GameStop, Walmart, and at Sony’s site as well. It loops in [&#8230;]",
+      "published": "2026-05-27T10:38:05-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25518688/8A0A1493.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24302793/226463_DualSense_Edge_VPavic_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
-      "link": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
-      "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal stories featuring everyone's favorite webhead. Into the Spider-Verse's sumptuous visuals and focus on a different web-slinging New Yorker made it unlike any [&#8230;]",
-      "published": "2026-05-26T12:30:00-04:00",
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders [&#8230;]",
+      "published": "2026-05-27T10:36:10-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/NORE_S1_UT_241022_EPSAAR_00447RC4_PC_-_Aaron_Epstein_-_Prime_Video_3000.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The best Memorial Day sales you can still shop",
-      "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-      "summary": "The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to laptops, and plenty [&#8230;]",
-      "published": "2026-05-26T12:10:06-04:00",
+      "title": "This smart bird feeder captures more of my backyard drama",
+      "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+      "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a [&#8230;]",
+      "published": "2026-05-27T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6250.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "American Airlines is getting Starlink Wi-Fi",
-      "link": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
-      "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink will join Viastat and SES (previously known as [&#8230;]",
-      "published": "2026-05-26T12:07:39-04:00",
+      "title": "This Ferrari should have been a Volkswagen",
+      "link": "https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen",
+      "summary": "It may be the NBA playoffs but right now Ferrari is getting dunked on more than anyone. Whether they own a Ferrari or just have a poster of a Testarossa on their wall, fans in the Ferrari-verse are frothy about the Luce, the company's first all-electric vehicle. According to one highly rated Verge commenter: \"looks [&#8230;]",
+      "published": "2026-05-27T09:55:37-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2275414815.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Luce_22rtv3_lightsOn_1x1hr_586eaab5-e92d-4b41-a865-f395a335cf75.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
-      "link": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
-      "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage price, thanks to Arturia's Memory V emulator. The Memorymoog was only made between 1982 and 1985, and was the last polyphonic synth made by Moog [&#8230;]",
-      "published": "2026-05-26T12:00:00-04:00",
+      "title": "007 First Light is like a James Bond movie in the best way possible",
+      "link": "https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox",
+      "summary": "The James Bond franchise is nothing if not a spectacle: Aside from the explosions and gunfights, even its calmer moments are dripping in the pomp and glamour of elite ostentation and luxury locales. Bond, however, has always been an odd mascot for the espionage profession, which ordinarily operates under silence and shadows. With 007 First [&#8230;]",
+      "published": "2026-05-27T09:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/007FirstLight_Screenshots_04.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
-      "link": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
-      "summary": "If you foresee a bunch of Nintendo purchases in your future, Newegg’s deal on Nintendo gift cards might just help save your wallet. The retailer is offering a deal that lets gamers get $200 worth of credit towards games, consoles, and accessories for just $170. Best of all, the gift cards can stack in your [&#8230;]",
-      "published": "2026-05-26T11:33:42-04:00",
+      "title": "Win cool gadgets we can’t keep because The Verge has ethics",
+      "link": "https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets",
+      "summary": "When people learn I work for The Verge, they inevitably ask: “Do you get to keep the gadgets?” Now that I film Today I’m Toying With, a video series where I share the joy of tech, I get that question more than ever. The answer is no, we don’t keep them! Our ethics policy is [&#8230;]",
+      "published": "2026-05-27T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/switch2deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/verge-titw-giveaway-1-10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
-      "link": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
-      "summary": "Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. The Bubble offers similar functionality to the recently announced Insta360 Snap with a screen providing live camera previews so you can properly frame shots, plus remote camera controls and [&#8230;]",
-      "published": "2026-05-26T11:07:45-04:00",
+      "title": "The best part of Mina the Hollower is how it randomizes the Zelda formula",
+      "link": "https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview",
+      "summary": "After rolling credits on Mina the Hollower, I did something unusual for me and immediately started a new file. I'm not typically one to replay games right after I beat them. But Mina, a new action-adventure title from Shovel Knight creators Yacht Club Games, offers something that got me to jump right back into a [&#8230;]",
+      "published": "2026-05-27T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/oppobubble1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/minascreenshot_01_steam.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "YouTube is putting AI labels where you’ll actually see them",
+      "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and labeling AI-generated content on the platform. For [&#8230;]",
+      "published": "2026-05-27T09:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-updated-AI-labels.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
