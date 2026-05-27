@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-05-27T04:16:15.241233",
+  "lastUpdated": "2026-05-27T10:02:40.619018",
   "articles": [
+    {
+      "title": "6G: The next gen of wireless tech nobody's ready to pay for",
+      "link": "https://www.theregister.com/networks/2026/05/27/6g-the-next-gen-of-wireless-tech-nobodys-ready-to-pay-for/5246136",
+      "summary": "Standards body on track for 2028 specs drop. Telcos on track for 2028 existential crisis about 5G ROI",
+      "published": "Wed, 27 May 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=235716&width=800"
+    },
+    {
+      "title": "AWS whips out Graviton-powered Redshift instances, claims 7x speed for data warehouse",
+      "link": "https://www.theregister.com/databases/2026/05/27/aws-whips-out-graviton-powered-redshift-instances-claims-7x-speed-for-data-warehouse/5246148",
+      "summary": "AI agents asking questions in natural language apparently issue a lot more queries than your average SQL jockey",
+      "published": "Wed, 27 May 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246249&width=800"
+    },
+    {
+      "title": "InPost locker caught shipping unactivated Windows",
+      "link": "https://www.theregister.com/offbeat/2026/05/27/inpost-locker-caught-shipping-unactivated-windows/5245256",
+      "summary": "Contactless collection meets Microsoft's licensing reminder",
+      "published": "Wed, 27 May 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5245291&width=800"
+    },
+    {
+      "title": "Explainer: Edge AI",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/explainer-edge-ai/5246783",
+      "summary": "You can run AI at the edge, if your infrastructure supports it",
+      "published": "Wed, 27 May 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5246787&width=800"
+    },
+    {
+      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+      "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+      "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with Austin. The new investment reflects a [&#8230;]",
+      "published": "Wed, 27 May 2026 08:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/WeRoad-Travellers-5.jpg?w=1200"
+    },
+    {
+      "title": "Iran slowly reconnects to the global internet",
+      "link": "https://www.theregister.com/storage/2026/05/27/iran-slowly-reconnects-to-the-global-internet/5246803",
+      "summary": "Traffic floods back, without much of an explanation",
+      "published": "Wed, 27 May 2026 07:57:18 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5224613&width=800"
+    },
     {
       "title": "Cisco making SONiC available to all customers – not just hyperscalers",
       "link": "https://www.theregister.com/networks/2026/05/27/cisco-making-sonic-available-to-all-customers-not-just-hyperscalers/5246733",
       "summary": "Hardened version of open-source NOS coming to Nexus 9000s",
       "published": "Wed, 27 May 2026 05:41:58 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246756&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5246778&width=800"
     },
     {
       "title": "Alibaba gets Android 16 running on RISC-V",
@@ -18,9 +66,9 @@
       "image_url": "https://image.theregister.com/?imageId=261431&width=800"
     },
     {
-      "title": "Anthropic cofounder hallucinates ghost in the machine after hearing the Pope speak about AI",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-cofounder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
-      "summary": "The nature of AI is unnatural. It's not intelligent. It's not human.",
+      "title": "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
+      "summary": "The nature of AI is unnatural. It's not intelligent. It's not human",
       "published": "Wed, 27 May 2026 02:38:57 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5246691&width=800"
@@ -122,44 +170,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg"
     },
     {
-      "title": "MyPillow must decide whether to be firm or soft as ransomware crims demand pay",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/26/mypillow-appears-on-play-ransomware-leak-site/5246513",
-      "summary": "Guess they could deny the alleged intrusion … like the 2020 election results",
-      "published": "Tue, 26 May 2026 20:02:48 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246533&width=800"
-    },
-    {
       "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
       "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
       "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
       "published": "Tue, 26 May 2026 19:50:33 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
-    },
-    {
-      "title": "MySQL faithful launch OurSQL Foundation to keep Oracle honest",
-      "link": "https://www.theregister.com/databases/2026/05/26/mysql-faithful-launch-oursql-foundation-to-keep-oracle-honest/5246451",
-      "summary": "Community group wants transparency, collaboration, and a clearer roadmap for the open source database",
-      "published": "Tue, 26 May 2026 19:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246467&width=800"
-    },
-    {
-      "title": "Bezos rocket fell short after cryogenic leak cut engine thrust",
-      "link": "https://www.theregister.com/science/2026/05/26/bezos-rocket-fell-short-after-cryogenic-leak-cut-engine-thrust/5246481",
-      "summary": "Frozen hydraulic line blamed for leaving payload in the wrong orbit",
-      "published": "Tue, 26 May 2026 19:20:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246501&width=800"
-    },
-    {
-      "title": "Microsoft wants safer C# without turning it into Rust",
-      "link": "https://www.theregister.com/devops/2026/05/26/microsoft-wants-safer-c-without-turning-it-into-rust/5246359",
-      "summary": "Unsafe bits get a warning label in planned low-level coding shake-up",
-      "published": "Tue, 26 May 2026 18:50:20 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246462&width=800"
     },
     {
       "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
@@ -184,14 +200,6 @@
       "published": "Tue, 26 May 2026 18:30:58 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-157380693-1152x648.jpg"
-    },
-    {
-      "title": "Starship shows it can deploy satellites, but Moon mission clock still ticks",
-      "link": "https://www.theregister.com/science/2026/05/26/starship-shows-it-can-deploy-satellites-but-moon-mission-clock-still-ticks/5246398",
-      "summary": "What's a tumbling Super Heavy and a skipped Raptor relight between friends?",
-      "published": "Tue, 26 May 2026 17:50:46 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246430&width=800"
     },
     {
       "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
@@ -232,14 +240,6 @@
       "published": "Tue, 26 May 2026 16:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800"
-    },
-    {
-      "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
-      "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
-      "summary": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
-      "published": "Tue, 26 May 2026 15:44:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/passport-fake-KYC.jpg?resize=1200,675"
     },
     {
       "title": "99 Percent of CEOs Are Preparing to Lay Off Workers and Replace Them With AI Within Two Years, Survey Finds",
