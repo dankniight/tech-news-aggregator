@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-05-27T20:24:06.939967",
+  "lastUpdated": "2026-05-28T04:04:40.142406",
   "articles": [
+    {
+      "title": "Snowflake to burn $6B on AWS Graviton CPUs and AI accelerators",
+      "link": "https://www.theregister.com/off-prem/2026/05/27/snowflake-to-burn-6b-on-aws-graviton-cpus-ai-infra/5247475",
+      "summary": "Dataware house gambles cloud conveniences, AI accelerated insights will justify the cost.",
+      "published": "Wed, 27 May 2026 23:20:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227469&width=800"
+    },
+    {
+      "title": "FAA grounds SpaceX’s Starship after another launch mishap",
+      "link": "https://www.theregister.com/offbeat/2026/05/27/faa-grounds-spacexs-starship-after-another-launch-mishap/5247446",
+      "summary": "IPO? More like IP-uh-oh",
+      "published": "Wed, 27 May 2026 22:57:38 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238835&width=800"
+    },
+    {
+      "title": "Malware dev tries to steal Claude users' secrets, writes npm slop, leaks own GitHub private token",
+      "link": "https://www.theregister.com/cyber-crime/2026/05/27/supply-chain-brain-drain-npm-attacker-foolishly-leaks-own-github-private-token/5247424",
+      "summary": "Script kiddies these days",
+      "published": "Wed, 27 May 2026 22:33:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5247468&width=800"
+    },
+    {
+      "title": "Argonne flexes spare supercompute to build private AI inference service",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/argonne-flexes-spare-supercompute-to-build-private-ai-inference-servic/5247362",
+      "summary": "Think ChatDoE",
+      "published": "Wed, 27 May 2026 22:15:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=232762&width=800"
+    },
+    {
+      "title": "ICANN again intervenes to defend AFRINIC",
+      "link": "https://www.theregister.com/networks/2026/05/27/icann-again-intervenes-to-defend-afrinic/5246790",
+      "summary": "Africa’s regional internet registry and its longtime antagonist are fighting on old and new fronts",
+      "published": "Wed, 27 May 2026 22:00:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=263294&width=800"
+    },
+    {
+      "title": "AI hiring algorithms reject Black, Asian job seekers at higher rates",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387",
+      "summary": "Stanford researchers argue need for transparency and independent testing",
+      "published": "Wed, 27 May 2026 21:39:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5247407&width=800"
+    },
+    {
+      "title": "Rivian will deliver the first R2 SUVs on June 9",
+      "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+      "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
+      "published": "Wed, 27 May 2026 21:15:04 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/R2_CatalinaBlueExterior8.jpg?resize=1200,800"
+    },
+    {
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "summary": "The Series B round was led by Battery Ventures.",
+      "published": "Wed, 27 May 2026 21:11:15 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/Triomics-co-founders-Sarim-Khan-and-Hrituraj-Singh-1.jpg?resize=1200,900"
+    },
+    {
+      "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+      "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+      "summary": "California civil rights agency hails win over Tesla, anticipates trial in July.",
+      "published": "Wed, 27 May 2026 21:08:51 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/tesla-fremont-1152x648-1779913505.jpg"
+    },
+    {
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+      "published": "Wed, 27 May 2026 20:56:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-1152x648.jpg"
+    },
+    {
+      "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
+      "link": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
+      "summary": "NASA science satellites show dual use in locating sources of GPS interference.",
+      "published": "Wed, 27 May 2026 20:43:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/NISAR-1152x648.jpg"
+    },
+    {
+      "title": "Mina the Hollower is the best old-school action adventure I've played in a while",
+      "link": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
+      "summary": "Smooth movement, compelling combat, and tons of secrets make for an innovative throwback.",
+      "published": "Wed, 27 May 2026 20:22:04 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mina1-1152x648.webp"
+    },
     {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
@@ -8,6 +104,14 @@
       "published": "Wed, 27 May 2026 20:10:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024"
+    },
+    {
+      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
+      "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+      "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”",
+      "published": "Wed, 27 May 2026 19:59:40 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2212801534-2-1024x648.jpg"
     },
     {
       "title": "CrowdStrike, Google shatter Glassworm botnet",
@@ -58,14 +162,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277709807-1-1024x648.jpg"
     },
     {
-      "title": "AIs don't like religion - particularly Jehovah's Witnesses, study claims",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/ais-dont-like-religion-particularly-jehovahs-witnesses-study-claims/5247286",
-      "summary": "LLMs prefer secular, rational reasoning, and while they'll still get religious on occasion, they have a negative view of Jehovah's Witnesses",
-      "published": "Wed, 27 May 2026 18:49:57 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5247306&width=800"
-    },
-    {
       "title": "\"Little red dot\" in early Universe is a naked supermassive black hole",
       "link": "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
       "summary": "The black hole accounts for over two-thirds the mass of the object it inhabits.",
@@ -90,14 +186,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/9467712-1152x648-1779903261.jpg"
     },
     {
-      "title": "Extortion crews are visiting law firms pretending to be tech support, FBI warns",
-      "link": "https://www.theregister.com/security/2026/05/27/fbi-crooks-enter-legal-offices-and-steal-data-via-usb-drive/5247212",
-      "summary": "Cybercriminals still allowed to walk into office blocks and convince staff to let them plug in their own thumb drives",
-      "published": "Wed, 27 May 2026 18:15:52 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4094162&width=800"
-    },
-    {
       "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
       "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
       "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
@@ -114,60 +202,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/Thea-Eos-With-Plasma.jpg?resize=1200,675"
     },
     {
-      "title": "Disclosure Day final trailer features Spielberg himself",
-      "link": "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
-      "summary": "Director describes how his views on existence of aliens have changed, interspersed with footage from film.",
-      "published": "Wed, 27 May 2026 17:51:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/disclosure2-1152x648.jpg"
+      "title": "New Website Detects Apocalypse If Billionaire Jets Start Fleeing en Masse",
+      "link": "https://futurism.com/future-society/website-apocalypse-billionaire-jets-fleeing",
+      "summary": "<p>Always follow the money.</p>\n<p>The post <a href=\"https://futurism.com/future-society/website-apocalypse-billionaire-jets-fleeing\">New Website Detects Apocalypse If Billionaire Jets Start Fleeing en Masse</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 27 May 2026 17:38:02 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/website-apocalypse-billionaire-jets-fleeing.jpg?quality=85"
     },
     {
-      "title": "Researchers find all big-name bots bomb EU compliance tests",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/researchers-find-all-big-name-bots-bomb-eu-compliance-tests/5247176",
-      "summary": "Given a chance, AI will be breaking the law, breaking the law",
-      "published": "Wed, 27 May 2026 17:37:38 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5247261&width=800"
-    },
-    {
-      "title": "YouTube to begin automatically labeling AI videos",
-      "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
-      "published": "Wed, 27 May 2026 17:36:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/youtube-logo-1024x648.jpg"
-    },
-    {
-      "title": "Swift thinking buys NASA observatory a little more time before re-entry",
-      "link": "https://www.theregister.com/science/2026/05/27/swift-thinking-buys-nasa-observatory-a-little-more-time-before-re-entry/5247165",
-      "summary": "Rescue mission might have until the end of summer after science operations halted",
-      "published": "Wed, 27 May 2026 17:07:18 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237915&width=800"
-    },
-    {
-      "title": "Smart light company Govee apologizes for “white supremacy” marketing imagery",
-      "link": "https://arstechnica.com/gadgets/2026/05/govee-says-it-mistakenly-licensed-white-supremacy-book-pic-to-sell-smart-lights/",
-      "summary": "PR exec says Govee \"did not meet the standard required.\"",
-      "published": "Wed, 27 May 2026 17:00:50 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/PC-1_ffbd8ec7-f183-40e0-acdb-89add26bcfa3-1152x648-1779898329.jpg"
-    },
-    {
-      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
       "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
       "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
       "published": "Wed, 27 May 2026 16:59:19 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/source-code-on-screen.jpg?resize=1200,704"
-    },
-    {
-      "title": "4 in 10 AI agents headed for demotion or the rubbish bin",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/4-in-10-ai-agents-headed-for-demotion-or-the-rubbish-bin/5246964",
-      "summary": "Gartner predicts governance struggles to plague rollout of this year’s much-hyped technology",
-      "published": "Wed, 27 May 2026 16:32:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5226945&width=800"
     },
     {
       "title": "Debt Collectors Are Being Replaced With AI Agents",
@@ -178,84 +226,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/debt-collectors-replaced-ai-agents.jpg?quality=85"
     },
     {
-      "title": "India's cyber agency sets clock at 12 hours to tackle exploited bugs as AI turns up the heat",
-      "link": "https://www.theregister.com/security/2026/05/27/cert-in-professes-12-hour-patching-for-ai-assisted-attacks/5247009",
-      "summary": "CERT-In says internet-facing or critical systems should be patched, mitigated, or cut off within half a day where feasible",
-      "published": "Wed, 27 May 2026 16:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5247056&width=800"
-    },
-    {
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "published": "Wed, 27 May 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645"
-    },
-    {
-      "title": "Windows 11 update preview promises faster launches, puts Task Manager on NPU patrol",
-      "link": "https://www.theregister.com/personal-tech/2026/05/27/windows-11-update-preview-promises-faster-launches-puts-task-manager-on-npu-patrol/5246940",
-      "summary": "Just mind the known issue that can still send installs rolling back",
-      "published": "Wed, 27 May 2026 15:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682093&width=800"
-    },
-    {
-      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
-      "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
-      "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
-      "published": "Wed, 27 May 2026 15:20:16 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800"
-    },
-    {
-      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
-      "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
-      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
-      "published": "Wed, 27 May 2026 15:06:01 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg"
-    },
-    {
-      "title": "Broadcom gets early start on WiFi 8 with next-gen wireless routing kit",
-      "link": "https://www.theregister.com/networks/2026/05/27/broadcom-gets-early-start-on-wifi-8-with-new-routing-kit/5246623",
-      "summary": "Better, more reliable, and cheaper? Isn't that the story every generation?",
-      "published": "Wed, 27 May 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=253637&width=800"
-    },
-    {
       "title": "Elon Musk Furious at Starlink Being Used for American Suicide Drones",
       "link": "https://futurism.com/space/elon-musk-furious-starlink-suicide-drones",
       "summary": "<p>It's not what you think.</p>\n<p>The post <a href=\"https://futurism.com/space/elon-musk-furious-starlink-suicide-drones\">Elon Musk Furious at Starlink Being Used for American Suicide Drones</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 27 May 2026 14:51:12 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/elon-musk-furious-starlink-suicide-drones.jpg?quality=85"
-    },
-    {
-      "title": "Volvo gets US government approval to bypass Chinese connected-car ban",
-      "link": "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
-      "summary": "The ban for model year 2027 onward began under Biden and has been enacted by Trump.",
-      "published": "Wed, 27 May 2026 14:44:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/EX60-Global-media-drive-in-Barcelona-1152x648.jpg"
-    },
-    {
-      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-      "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-      "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stage.",
-      "published": "Wed, 27 May 2026 14:15:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800"
-    },
-    {
-      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
-      "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
-      "published": "Wed, 27 May 2026 14:14:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
     },
     {
       "title": "The MyPillow Guy’s Entire Business is Being Held Hostage by Hackers",
@@ -314,12 +290,52 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/anthropic-cofounder-vatican-pope-unsettling.jpg?quality=85"
     },
     {
-      "title": "Scientist Suggests That 3I/ATLAS May Have Seeded Life as It Careened Through Our Solar System",
-      "link": "https://futurism.com/space/scientist-suggests-3i-atlas-seeded-life",
-      "summary": "<p>He says it may be seeding life like an \"interstellar gardener.\"</p>\n<p>The post <a href=\"https://futurism.com/space/scientist-suggests-3i-atlas-seeded-life\">Scientist Suggests That 3I/ATLAS May Have Seeded Life as It Careened Through Our Solar System</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 26 May 2026 16:08:47 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/scientist-suggests-3i-atlas-seeded-life.jpg?quality=85"
+      "title": "Bare metal cloud servers now cheaper and more readily available than on-prem hardware, says Nutanix CEO",
+      "link": "https://www.theregister.com/virtualization/2026/05/28/bare-metal-cloud-servers-now-cheaper-and-more-readily-available-than-on-prem-hardware-says-nutanix-ceo/5247599",
+      "summary": "Hyperscalers can get hardware before enterprise vendors and buyers don't much care where they land",
+      "published": "Thu, 28 May 2026 03:59:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=223151&width=800"
+    },
+    {
+      "title": "Salesforce waves bye-bye to UI in 'headless' embrace",
+      "link": "https://www.theregister.com/saas/2026/05/28/salesforce-waves-bye-bye-to-ui-in-headless-embrace/5247587",
+      "summary": "Anthropic's use of Sales Cloud increased five-fold as its workers access Salesforce through Claude and Slack",
+      "published": "Thu, 28 May 2026 02:20:29 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5223048&width=800"
+    },
+    {
+      "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+      "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+      "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+      "published": "Thu, 28 May 2026 00:45:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800"
+    },
+    {
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "summary": "Google is embarrassing itself, again.",
+      "published": "Thu, 28 May 2026 00:17:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675"
+    },
+    {
+      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
+      "link": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint, prosecutors allege that Michele Spagnuolo \"knew the outcome of these wagers before the trading public did because he had accessed Google's confidential, [&#8230;]",
+      "published": "2026-05-27T18:30:02-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS527_PREDICTION_MARKETS_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
+      "link": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
+      "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11-inch Air with 128GB of storage and Wi-Fi connectivity is available at Amazon starting at $519.99 [&#8230;]",
+      "published": "2026-05-27T17:08:41-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0112.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "All the news about Ferrari&#8217;s polarizing Luce EV",
@@ -384,22 +400,6 @@
       "published": "2026-05-27T12:42:46-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sony is offering up to 50 percent off some of our favorite PS5 games",
-      "link": "https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal",
-      "summary": "Even without E3, the transition from spring to summer is a busy time for the gaming industry. Summer Game Fest is right around the corner, and Sony is kicking things off with a State of Play on June 2nd with an extended look at Insomniac’s upcoming Wolverine game. To mark the occasion, Sony is also hosting [&#8230;]",
-      "published": "2026-05-27T12:41:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/LaunchTrailer_Full_R6_FD.00_00_50_49.Still021.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sony’s first RGB TV is a statement piece",
-      "link": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
-      "summary": "The first wave of RGB LED TVs are fighting for their spot in the TV hierarchy. They need to outperform OLED TVs in brightness and color (because they'll never match OLED's contrast), and they need to outperform regular LED TVs in everything (because their price is so much higher). It's now time for Sony to [&#8230;]",
-      "published": "2026-05-27T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268544_Sony_Bravia_7_II_RGB_LED_TV_JHiggins_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
