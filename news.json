@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T20:29:30.515184",
+  "lastUpdated": "2026-05-29T04:06:55.887240",
   "articles": [
     {
       "title": "New Website Detects Apocalypse If Billionaire Jets Start Fleeing en Masse",
@@ -18,12 +18,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/debt-collectors-replaced-ai-agents.jpg?quality=85"
     },
     {
+      "title": "Troops’ phones gave away location data to foreign adversaries",
+      "link": "https://www.theregister.com/security/2026/05/28/troops-phones-leaked-location-data-to-foreign-adversaries/5248108",
+      "summary": "Lawmakers push DoD to tighten smartphone controls after adversaries exploited commercial tracking data",
+      "published": "Thu, 28 May 2026 23:35:36 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=225434&width=800"
+    },
+    {
+      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+      "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "published": "Thu, 28 May 2026 23:01:52 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?resize=1200,800"
+    },
+    {
+      "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops",
+      "link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "summary": "Six 0-days, three under active exploitation, more to come on July 14?",
+      "published": "Thu, 28 May 2026 22:19:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254471&width=800"
+    },
+    {
+      "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
+      "link": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
+      "summary": "Audi has developed an entirely new electric torque-vectoring rear differential.",
+      "published": "Thu, 28 May 2026 22:01:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/RS5Austria203-1152x648.jpg"
+    },
+    {
+      "title": "Snowflake buys Natoma to help freeze out rogue agents",
+      "link": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
+      "summary": "It is the database titan’s sixth acquisition announcement since June 2025",
+      "published": "Thu, 28 May 2026 21:52:47 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5248082&width=800"
+    },
+    {
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+      "published": "Thu, 28 May 2026 21:29:43 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg"
+    },
+    {
+      "title": "The internet is being rebuilt for machines",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "published": "Thu, 28 May 2026 21:24:01 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
+    },
+    {
       "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
       "link": "https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028",
       "summary": "Chocolate Factory shifts Tensor Processing Unit Ubuntu support back upstream",
       "published": "Thu, 28 May 2026 21:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=261674&width=800"
+    },
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+      "published": "Thu, 28 May 2026 20:29:53 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg"
+    },
+    {
+      "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+      "link": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+      "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
+      "published": "Thu, 28 May 2026 20:29:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/slate-auto-suv.jpg?resize=1200,800"
     },
     {
       "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
@@ -34,9 +106,9 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1143294153-1-1152x648.jpg"
     },
     {
-      "title": "Asana acquires no-code agent-builder Stack AI",
+      "title": "Asana acquires no-code agent-builder StackAI",
       "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "summary": "Asana will incorporate Stack AI into its growing suite of AI workflow tools.",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
       "published": "Thu, 28 May 2026 20:06:07 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/asana-illustration-getty.jpg?resize=1200,800"
@@ -90,14 +162,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/20260528114910_1-1152x648.jpg"
     },
     {
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-      "published": "Thu, 28 May 2026 18:32:25 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849"
-    },
-    {
       "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
       "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
       "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
@@ -122,76 +186,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HJVyIu2WoAEFclh-1152x648-1779990562.jpg"
     },
     {
-      "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
-      "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-      "summary": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
-      "published": "Thu, 28 May 2026 18:08:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Ariel-Katz_H1-transparent.png?w=1024"
-    },
-    {
-      "title": "How pigeons exploit magnetic fields for navigation",
-      "link": "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
-      "summary": "Iron-rich immune cells in the liver may act as sensors for magnetic fields, serving as an internal compass.",
-      "published": "Thu, 28 May 2026 18:00:22 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pigeon-TOP-1152x648-1779715612.jpg"
-    },
-    {
-      "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
-      "link": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
-      "summary": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
-      "published": "Thu, 28 May 2026 18:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/12/prison-2023.jpg?resize=1200,675"
-    },
-    {
       "title": "Europe told to cool its datacenter boom before water and power run short",
       "link": "https://www.theregister.com/on-prem/2026/05/28/europe-told-to-cool-its-datacenter-boom-before-water-and-power-run-short/5247994",
       "summary": "Get the balance right, Grundfos says, and the region will be a shining example of how to do it without sacrificing the environment",
       "published": "Thu, 28 May 2026 17:45:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5248050&width=800"
-    },
-    {
-      "title": "Why Paris may be the most important AI city outside Silicon Valley",
-      "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-      "summary": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
-      "published": "Thu, 28 May 2026 17:35:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch7.jpeg?w=600"
-    },
-    {
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-      "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
-      "published": "Thu, 28 May 2026 17:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/54599380127_df4ede7c18_c.jpg?w=799"
-    },
-    {
-      "title": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
-      "link": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
-      "summary": "After overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. Nominate a standout startup or apply yours today.",
-      "published": "Thu, 28 May 2026 17:20:53 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?resize=1200,800"
-    },
-    {
-      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
-      "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
-      "summary": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
-      "published": "Thu, 28 May 2026 17:10:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-arc-g-series-1152x648.jpg"
-    },
-    {
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "summary": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing.",
-      "published": "Thu, 28 May 2026 17:01:16 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-1152x648-1779984812.jpg"
     },
     {
       "title": "Zig creator seeks 'uncompromising perfection' before blessing 1.0",
@@ -218,14 +218,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/ceo-receives-threats-ai-layoffs.jpg?quality=85"
     },
     {
-      "title": "Steam Deck sells out in North America within 24 hours of price hike",
-      "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
-      "summary": "Europe, Australia, and Asia can still get it while the getting's good.",
-      "published": "Thu, 28 May 2026 15:43:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg"
-    },
-    {
       "title": "Qualcomm picks bad time to pitch a $300 laptop platform",
       "link": "https://www.theregister.com/systems/2026/05/28/qualcomm-picks-bad-time-to-pitch-a-300-laptop-platform/5247841",
       "summary": "Systems based on Snapdragon C to target students, families, and small businesses",
@@ -250,36 +242,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/nba-commissioner-ai-lazy-referees.jpg?quality=85"
     },
     {
-      "title": "Steam Deck prices go through the roof as Valve blames component shortages",
-      "link": "https://www.theregister.com/personal-tech/2026/05/28/steam-deck-prices-go-through-the-roof-as-valve-blames-component-shortages/5247830",
-      "summary": "Same handheld, same specs, just a much steeper bill",
-      "published": "Thu, 28 May 2026 14:34:42 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5247878&width=800"
-    },
-    {
-      "title": "Carnival confirms ShinyHunters cruised off with 6M customer records after April breach",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/28/carnival-shinyhunters-cruised-off-with-6m-customer-records/5247808",
-      "summary": "Travel and leisure giant was just one of many victims of the cybercrooks' crime spree this year",
-      "published": "Thu, 28 May 2026 14:10:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5225143&width=800"
-    },
-    {
       "title": "Anthropic Customers Creeped Out by Its Newest Models",
       "link": "https://futurism.com/artificial-intelligence/anthropic-customers-creeped-out-models",
       "summary": "<p>They're terrified of being shut out.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-customers-creeped-out-models\">Anthropic Customers Creeped Out by Its Newest Models</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 28 May 2026 14:01:59 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/anthropic-customers-creeped-out-models.jpg?quality=85"
-    },
-    {
-      "title": "ReactOS brings its Windows NT tribute act to ARM64",
-      "link": "https://www.theregister.com/oses/2026/05/28/reactos-brings-its-windows-nt-tribute-act-to-arm64/5247768",
-      "summary": "Experimental build boots on Raspberry Pi 5, but for now the joy is mostly in getting there",
-      "published": "Thu, 28 May 2026 13:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=241996&width=800"
     },
     {
       "title": "Apocalypse Bunker Fails as Wealthy Residents Turn on Each Other",
@@ -320,6 +288,38 @@
       "published": "Thu, 28 May 2026 08:41:48 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/05/ai-clone-stan-lee.jpg?quality=85"
+    },
+    {
+      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+      "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "summary": "New Glenn was due to play a starring role in NASA's Artemis Program.",
+      "published": "Fri, 29 May 2026 02:21:08 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-On-Pad-2-1152x648.jpg"
+    },
+    {
+      "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+      "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+      "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+      "published": "Fri, 29 May 2026 01:22:16 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/blue-origin-new-glenn.jpg?resize=1200,941"
+    },
+    {
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "published": "Fri, 29 May 2026 00:44:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800"
+    },
+    {
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+      "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
+      "published": "Fri, 29 May 2026 00:14:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800"
     },
     {
       "title": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
