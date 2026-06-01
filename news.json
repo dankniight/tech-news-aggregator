@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T04:46:41.816245",
+  "lastUpdated": "2026-06-01T11:44:49.373440",
   "articles": [
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
@@ -178,36 +178,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1927744482.jpg?resize=1200,800"
     },
     {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "published": "Sat, 30 May 2026 16:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200"
-    },
-    {
-      "title": "Wikipedia editors plot strike and banner sabotage after Wikimedia layoffs",
-      "link": "https://www.theregister.com/software/2026/05/30/wikipedia-editors-plot-strike-and-banner-sabotage-after-wikimedia-layoffs/5248491",
-      "summary": "Foundation sparks revolt after disbanding team responsible for many community-requested fixes and moderation tools",
-      "published": "Sat, 30 May 2026 13:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=243499&width=800"
-    },
-    {
       "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
       "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
       "summary": "A new book looks into the long history of people who have opposed vaccines.",
       "published": "Sat, 30 May 2026 11:00:05 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/9798217155002-1-1152x648-1780075269.jpeg"
-    },
-    {
-      "title": "Rocket exhibit at National Space Centre pulls off unintentional NASA SLS impression",
-      "link": "https://www.theregister.com/offbeat/2026/05/30/rocket-exhibit-at-national-space-centre-pulls-off-unintentional-nasa-sls-impression/5248248",
-      "summary": "5, 4, 3, 2, 1... pfft",
-      "published": "Sat, 30 May 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248260&width=800"
     },
     {
       "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
@@ -218,12 +194,76 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/COALASH_HEDGEPETH2-1152x648.jpg"
     },
     {
-      "title": "AWS reportedly to tuck Elon Musk's Grok into Bedrock, despite zero enterprise demand",
-      "link": "https://www.theregister.com/ai-ml/2026/05/29/aws-reportedly-to-tuck-elon-musks-grok-into-bedrock-despite-zero-enterprise-demand/5248832",
-      "summary": "The energy drink of frontier models",
-      "published": "Sat, 30 May 2026 00:23:25 +0200",
+      "title": "Password manager Dashlane suspends customer accounts amid brute-force attacks",
+      "link": "https://www.theregister.com/security/2026/06/01/password-manager-dashlane-suspends-customer-accounts-amid-brute-force-attacks/5248991",
+      "summary": "Engineers' weekends ruined as Dashlane's automatic protections kicked in",
+      "published": "Mon, 01 Jun 2026 13:15:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093846&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5231199&width=800"
+    },
+    {
+      "title": "Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen",
+      "link": "https://www.theregister.com/networks/2026/06/01/putin-sends-submarines-to-survey-britains-subsea-cables-uk-deploys-royal-navy-mobilizes-parliamentary-draftsmen/5248978",
+      "summary": "Proposed legislation threatens fines and prison for reckless damage. Russian Prez must be shaking in his boots",
+      "published": "Mon, 01 Jun 2026 12:48:11 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=243072&width=800"
+    },
+    {
+      "title": "I designed Microsoft's $5B EA channel architecture in 2001. The 2026 transition is missing what made it work",
+      "link": "https://www.theregister.com/oses/2026/06/01/i-designed-microsofts-5b-ea-channel-architecture-in-2001-the-2026-transition-is-missing-what-made-it-work/5248235",
+      "summary": "The man behind Redmond's direct billing model and its geo rollout explains why the new version forgets the channel to its cost",
+      "published": "Mon, 01 Jun 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5248684&width=800"
+    },
+    {
+      "title": "Memory crunch sends PC prices into double-digit climb",
+      "link": "https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525",
+      "summary": "Notebooks up 11%, desktops 10% as chipmakers ditch consumer kit for AI server bling",
+      "published": "Mon, 01 Jun 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5248548&width=800"
+    },
+    {
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "summary": "I tried to explain OpenAI’s solution more clearly than OpenAI did.",
+      "published": "Mon, 01 Jun 2026 11:00:00 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/getty-string-pins-1152x648.jpg"
+    },
+    {
+      "title": "LLMs are closer to religion than they appear. Watch out for those who like it that way",
+      "link": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
+      "summary": "Papal's 40k-word encyclical drops and lawyers already asking if Catholics can refuse workplace AI on religious grounds",
+      "published": "Mon, 01 Jun 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5247306&width=800"
+    },
+    {
+      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+      "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+      "summary": "The Seoul-based rocket startup is developing its own launch vehicles and engines.",
+      "published": "Mon, 01 Jun 2026 10:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-starlink-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Techie expensed a bag of oranges and then juiced up a stupid security incident",
+      "link": "https://www.theregister.com/offbeat/2026/06/01/techie-expensed-a-bag-of-oranges-and-then-juiced-up-a-stupid-security-incident/5243953",
+      "summary": "He knew this was amazingly dumb but couldn’t stop laughing as the fruit went splat",
+      "published": "Mon, 01 Jun 2026 09:32:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243968&width=800"
+    },
+    {
+      "title": "If cores are what agents crave, Intel's new Clearwater Xeon 6+ might just quench their thirst",
+      "link": "https://www.theregister.com/systems/2026/06/01/intel-launches-288-core-clearwater-forest-xeon-6-on-18a-process/5248150",
+      "summary": "Chipzilla’s first 2nm-class Xeon is finally here bristling with 288 cores",
+      "published": "Mon, 01 Jun 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5248175&width=800"
     },
     {
       "title": "Intel Diamond Rapids to boost core counts to 192, but RIP Hyperthreading",
@@ -242,22 +282,6 @@
       "image_url": "https://image.theregister.com/?imageId=5248818&width=800"
     },
     {
-      "title": "Lone attacker published 14 malicious npm packages mimicking popular OpenSearch, Elasticsearch libraries",
-      "link": "https://www.theregister.com/security/2026/05/29/14-malicious-npm-packages-impersonated-opensearch-elasticsearch-libraries/5248792",
-      "summary": "And then Microsoft busted them all",
-      "published": "Fri, 29 May 2026 23:46:34 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248815&width=800"
-    },
-    {
-      "title": "Okta writes its own license to kill rogue AI agents",
-      "link": "https://www.theregister.com/ai-ml/2026/05/29/okta-writes-its-own-license-to-kill-rogue-ai-agents/5248766",
-      "summary": "CEO Todd McKinnon says customers including ServiceNow want an off switch",
-      "published": "Fri, 29 May 2026 23:20:21 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248788&width=800"
-    },
-    {
       "title": "Proposed new US funding rules: We can cancel any grant at any time",
       "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
       "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
@@ -266,28 +290,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg"
     },
     {
-      "title": "ICE to keep an eye on your eyes under $25M biometric scanner deal",
-      "link": "https://www.theregister.com/public-sector/2026/05/29/ice-awards-bi2-25m-contract-for-1570-biometric-scanners/5248733",
-      "summary": "And you thought a face recognition app was intrusive?",
-      "published": "Fri, 29 May 2026 21:35:45 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5225489&width=800"
-    },
-    {
       "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
       "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
       "summary": "The US has previously built specialized facilities just for this purpose.",
       "published": "Fri, 29 May 2026 21:17:09 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278036477-1024x648.jpg"
-    },
-    {
-      "title": "No fix yet for critical RCE bug in open-source Git service Gogs - exploit module is out",
-      "link": "https://www.theregister.com/security/2026/05/29/no-fix-yet-for-critical-gogs-rce-bug-exploit-module-is-out/5248691",
-      "summary": "Researcher reported the vuln in March. Maintainers haven't responded to his messages since",
-      "published": "Fri, 29 May 2026 20:26:48 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248726&width=800"
     },
     {
       "title": "Botnet of more than 17 million devices dismantled",
@@ -314,12 +322,20 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/dragon1-1152x648.jpg"
     },
     {
-      "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
-      "summary": "ABC says early renewal for all stations is unprecedented, has no legitimate purpose.",
-      "published": "Fri, 29 May 2026 18:09:43 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/abc-jimmy-kimmel-1152x648-1780075115.jpg"
+      "title": "These are the first Nvidia RTX Spark laptops",
+      "link": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+      "summary": "Nvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, Lenovo, and Dell are expected to launch RTX Spark laptops sometime this fall, and some of those partner companies have shared details about what we can [&#8230;]",
+      "published": "2026-06-01T07:29:52-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Nvidia-Spark-Laptops.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Asus just announced the OLED Xbox Ally X of my dreams",
+      "link": "https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen",
+      "summary": "If you asked me what I'd change about the Xbox Ally X handheld - aside from fixing Windows, I mean - I'd tell you two key things. First, give me a bigger, better screen. Even a little bit bigger, so games feel less claustrophobic and with less ugly bezel. Second, get rid of the \"Library\" [&#8230;]",
+      "published": "2026-06-01T06:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/xbox-ally-x20-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
@@ -340,7 +356,7 @@
     {
       "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
       "link": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
-      "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: you won't need to buy a new [&#8230;]",
+      "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: You won't need to buy a new [&#8230;]",
       "published": "2026-05-31T20:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/1505974-dr-lisa-su-ryzen.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -384,22 +400,6 @@
       "published": "2026-05-31T15:28:11-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-31-at-3.23.21PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Feeble Little Horse leans into digital weirdness on bitknot",
-      "link": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
-      "summary": "From the opening moments of bitknot, it's obvious that Feeble Little Horse has found an entirely new gear. Where on Girl with Fish the blown-out textures were more '90s indie rock and shoegaze, on their latest LP, there's a more modern edge to the distortion and the riffs cut cleaner. Similarly, where the digital glitchiness [&#8230;]",
-      "published": "2026-05-31T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Feeble-Little-Horse-bitknot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "United flight forced to turn around because of a Bluetooth speaker name",
-      "link": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
-      "summary": "United flight 236 from Newark to Palma de Mallorca on Saturday night was forced to turn around just an hour after takeoff due to security concerns around a Bluetooth signal. Multiple Redditors claimed to be on the flight and reported that the crew repeatedly requested passengers to turn off their Bluetooth. According to one poster, [&#8230;]",
-      "published": "2026-05-31T11:50:02-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-31-at-11.42.47AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
