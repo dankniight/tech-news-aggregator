@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-06-01T17:50:40.508091",
+  "lastUpdated": "2026-06-01T21:38:01.708661",
   "articles": [
-    {
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "summary": "Environmental activist Erin Brockovich has a new mission.",
-      "published": "Sun, 31 May 2026 21:05:14 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
-    },
     {
       "title": "Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI",
       "link": "https://futurism.com/artificial-intelligence/teachers-union-schools-kids-ai",
@@ -34,60 +26,116 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/spacecamp_all_aboard-1152x648.jpg"
     },
     {
-      "title": "Scientists Spot What Appears to Be a Ring-Shaped “Planet Factory” Deep Out in Space",
-      "link": "https://futurism.com/space/scientists-spot-planet-factory",
-      "summary": "<p>Another puzzle piece in how our solar system formed.</p>\n<p>The post <a href=\"https://futurism.com/space/scientists-spot-planet-factory\">Scientists Spot What Appears to Be a Ring-Shaped &#8220;Planet Factory&#8221; Deep Out in Space</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 31 May 2026 11:15:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/scientists-spot-planet-factory.jpg?quality=85"
+      "title": "Election interlopers register 5K+ domains, hope to catch some voting phish",
+      "link": "https://www.theregister.com/security/2026/06/01/5k-election-domains-registered-ahead-of-us-midterms/5249764",
+      "summary": "Hacking voting machines is so 2017. Phishing, impersonation pose the real election risks",
+      "published": "Mon, 01 Jun 2026 21:46:47 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=222504&width=800"
     },
     {
-      "title": "Take-No-Prisoners Professor Will Fail Any Student Who Uses AI",
-      "link": "https://futurism.com/future-society/professor-fail-any-student-uses-ai",
-      "summary": "<p>\"I get paid the same whether I pass you or fail you.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/professor-fail-any-student-uses-ai\">Take-No-Prisoners Professor Will Fail Any Student Who Uses AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 31 May 2026 10:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/professor-fail-any-student-uses-ai.jpg?quality=85"
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
+      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828"
     },
     {
-      "title": "They call it stupid hot for a reason: Heat muddles animal brains",
-      "link": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
-      "summary": "As temperatures rise, some creatures pick fights while others struggle to learn.",
-      "published": "Sun, 31 May 2026 10:00:07 +0000",
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+      "published": "Mon, 01 Jun 2026 20:26:08 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/54889460445_20c033b45a_o-2.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic, now atop the AI bubble, files for its IPO",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/01/anthropic-now-atop-the-ai-bubble-files-for-its-ipo/5249753",
+      "summary": "First it tops OpenAI's valuation, then it beats Altman to the IPO punch",
+      "published": "Mon, 01 Jun 2026 20:12:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093866&width=800"
+    },
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "published": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800"
+    },
+    {
+      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+      "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+      "summary": "Even Danish researchers think it's bizarre.",
+      "published": "Mon, 01 Jun 2026 19:07:58 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2170215342-1024x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
     },
     {
-      "title": "AI Company Paying Random People $2,000 Per Month to Crank the Hog",
-      "link": "https://futurism.com/artificial-intelligence/ai-company-cranking-hog",
-      "summary": "<p>\"Time to go pro.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-company-cranking-hog\">AI Company Paying Random People $2,000 Per Month to Crank the Hog</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 31 May 2026 09:45:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/ai-company-cranking-hog.jpg?quality=85"
-    },
-    {
-      "title": "Random Standard Wi-Fi Routers Can Scan Your Body to Identify Exactly Who You Are, Alarming New Research Finds",
-      "link": "https://futurism.com/future-society/wifi-routers-scan-body-identify-research",
-      "summary": "<p>\"With this hardware making its way into millions of homes, the privacy concerns are severe.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/wifi-routers-scan-body-identify-research\">Random Standard Wi-Fi Routers Can Scan Your Body to Identify Exactly Who You Are, Alarming New Research Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 31 May 2026 09:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/wifi-routers-scan-body-identify-research.jpg?quality=85"
-    },
-    {
-      "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-      "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
-      "summary": "A new book looks into the long history of people who have opposed vaccines.",
-      "published": "Sat, 30 May 2026 11:00:05 +0000",
+      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+      "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+      "summary": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
+      "published": "Mon, 01 Jun 2026 18:52:19 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/9798217155002-1-1152x648-1780075269.jpeg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2265991640-1024x648.jpg"
     },
     {
-      "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
-      "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
-      "summary": "Trump admin wants to rely on states for coal ash monitoring, enforcement, allow them to bypass national standards.",
-      "published": "Sat, 30 May 2026 10:00:38 +0000",
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.",
+      "published": "Mon, 01 Jun 2026 18:34:32 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800"
+    },
+    {
+      "title": "US firms still dominate chip subsidies",
+      "link": "https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668",
+      "summary": "China's support is greater relative to semiconductor industry revenue",
+      "published": "Mon, 01 Jun 2026 18:21:06 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1673877&width=800"
+    },
+    {
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "published": "Mon, 01 Jun 2026 18:19:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
+    },
+    {
+      "title": "A new app, The Mall, is building a universal feed for online shopping",
+      "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+      "summary": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
+      "published": "Mon, 01 Jun 2026 17:50:18 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/0A384627-DAFF-4394-8D24-7526EFE809D9.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Agentic AI arrives for Delphi and C++ Builder",
+      "link": "https://www.theregister.com/devops/2026/06/01/agentic-ai-arrives-for-delphi-and-c-builder/5249638",
+      "summary": "Kai is an extension for RAD Studio (Delphi and C++ Builder) that integrates with external AI providers",
+      "published": "Mon, 01 Jun 2026 17:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5249692&width=800"
+    },
+    {
+      "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+      "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+      "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
+      "published": "Mon, 01 Jun 2026 17:41:47 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/COALASH_HEDGEPETH2-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/CoSim-SG1-1152x648.jpeg"
+    },
+    {
+      "title": "Trump Shovels $4 Billion Directly to Elon Musk, Who Spent a Fortune Getting Him Elected",
+      "link": "https://futurism.com/space/trump-elon-musk-spacex-election",
+      "summary": "<p>It's paying off for him in a big way.</p>\n<p>The post <a href=\"https://futurism.com/space/trump-elon-musk-spacex-election\">Trump Shovels $4 Billion Directly to Elon Musk, Who Spent a Fortune Getting Him Elected</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 01 Jun 2026 17:32:58 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-elon-musk-spacex-election.jpg?quality=85"
     },
     {
       "title": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers",
@@ -96,6 +144,14 @@
       "published": "Mon, 01 Jun 2026 17:22:46 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/grand-theft-auto-v.jpg?resize=1200,800"
+    },
+    {
+      "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+      "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+      "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
+      "published": "Mon, 01 Jun 2026 17:17:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2248542588-1152x648.jpg"
     },
     {
       "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
@@ -114,6 +170,14 @@
       "image_url": "https://image.theregister.com/?imageId=4094165&width=800"
     },
     {
+      "title": "Meta’s AI Support Bot Is Giving Hackers Access to Other People’s Instagram Accounts Just by Asking",
+      "link": "https://futurism.com/future-society/meta-ai-support-bot-hackers-access-instagram-accounts",
+      "summary": "<p>This is wild.</p>\n<p>The post <a href=\"https://futurism.com/future-society/meta-ai-support-bot-hackers-access-instagram-accounts\">Meta&#8217;s AI Support Bot Is Giving Hackers Access to Other People&#8217;s Instagram Accounts Just by Asking</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 01 Jun 2026 16:44:28 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/meta-ai-support-bot-hackers-access-instagram-accounts.jpg?quality=85"
+    },
+    {
       "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
       "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
       "summary": "Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.",
@@ -124,7 +188,7 @@
     {
       "title": "Anthropic files to go public",
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "summary": "The company said Monday it has filed confidentially for an IPO.",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
       "published": "Mon, 01 Jun 2026 16:36:55 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800"
@@ -154,14 +218,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/kv_xbox_ally-1152x648.webp"
     },
     {
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
-      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675"
-    },
-    {
       "title": "California passes bill declaring death-by-algorithm to 3D-printed ghost guns",
       "link": "https://www.theregister.com/personal-tech/2026/06/01/california-passes-ban-on-3d-printed-firearms/5249148",
       "summary": "Last-hour amendments aim to allay privacy concerns, but broad scepticism about feasibility remains",
@@ -170,12 +226,12 @@
       "image_url": "https://image.theregister.com/?imageId=163911&width=800"
     },
     {
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-      "published": "Mon, 01 Jun 2026 14:49:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
+      "title": "Dick’s Sporting Goods Launches AI Personal Trainer to Fix Your Horrible Golf Swing",
+      "link": "https://futurism.com/future-society/dicks-sporting-ai-personal-trainer",
+      "summary": "<p>Users will be able to \"access training pro tips and product education grounded in Dick's sport knowledge.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/dicks-sporting-ai-personal-trainer\">Dick&#8217;s Sporting Goods Launches AI Personal Trainer to Fix Your Horrible Golf Swing</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 01 Jun 2026 14:50:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/dicks-sporting-ai-personal-trainer.jpg?quality=85"
     },
     {
       "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
@@ -184,14 +240,6 @@
       "published": "Mon, 01 Jun 2026 14:47:22 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/nvidia-rtx-spark-1152x648.jpeg"
-    },
-    {
-      "title": "Revolut rolls out services to thousands of users in India ahead of broader launch",
-      "link": "https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/",
-      "summary": "The British fintech has built a waitlist of about 450,000 users in India as it prepares for a broader launch.",
-      "published": "Mon, 01 Jun 2026 14:46:08 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629"
     },
     {
       "title": "Agent-led devs need serverless OpenSearch, Amazon claims",
@@ -208,6 +256,14 @@
       "published": "Mon, 01 Jun 2026 14:15:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5249134&width=800"
+    },
+    {
+      "title": "Sports Betting Scandals Are Tearing College Football Apart",
+      "link": "https://futurism.com/future-society/sports-betting-scandals-college-football",
+      "summary": "<p>\"I never kept track of my betting over time, but I'm pretty sure I lost more than I won.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/sports-betting-scandals-college-football\">Sports Betting Scandals Are Tearing College Football Apart</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 01 Jun 2026 13:57:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/sports-betting-scandals-college-football.jpg?quality=85"
     },
     {
       "title": "Scientists Say They’ve Cracked Mystery Behind a Dozen Strange Signals From Deep Space",
@@ -234,14 +290,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/intel-1152x648.jpg"
     },
     {
-      "title": "Password manager Dashlane suspends customer accounts amid brute-force attacks",
-      "link": "https://www.theregister.com/security/2026/06/01/password-manager-dashlane-suspends-customer-accounts-amid-brute-force-attacks/5248991",
-      "summary": "Engineers' weekends ruined as Dashlane's automatic protections kicked in",
-      "published": "Mon, 01 Jun 2026 13:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5231199&width=800"
-    },
-    {
       "title": "Unfortunate Company Accidentally Blows Half a Billion Dollars on Claude in One Month",
       "link": "https://futurism.com/artificial-intelligence/company-half-billion-dollars-claude-one-month",
       "summary": "<p>Whoops!</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/company-half-billion-dollars-claude-one-month\">Unfortunate Company Accidentally Blows Half a Billion Dollars on Claude in One Month</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -250,44 +298,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/company-half-billion-dollars-claude-one-month.jpg?quality=85"
     },
     {
-      "title": "Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen",
-      "link": "https://www.theregister.com/networks/2026/06/01/putin-sends-submarines-to-survey-britains-subsea-cables-uk-deploys-royal-navy-mobilizes-parliamentary-draftsmen/5248978",
-      "summary": "Proposed legislation threatens fines and prison for reckless damage. Russian Prez must be shaking in his boots",
-      "published": "Mon, 01 Jun 2026 12:48:11 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=243072&width=800"
-    },
-    {
-      "title": "I designed Microsoft's $5B EA channel architecture in 2001. The 2026 transition is missing what made it work",
-      "link": "https://www.theregister.com/oses/2026/06/01/i-designed-microsofts-5b-ea-channel-architecture-in-2001-the-2026-transition-is-missing-what-made-it-work/5248235",
-      "summary": "The man behind Redmond's direct billing model and its geo rollout explains why the new version forgets the channel to its cost",
-      "published": "Mon, 01 Jun 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248684&width=800"
-    },
-    {
-      "title": "Strava declares war on scrapers ahead of IPO",
-      "link": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-      "summary": "Strava will charge a flat monthly fee from developers to access its API.",
-      "published": "Mon, 01 Jun 2026 12:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/orange-shoes-strava.jpg?resize=1200,800"
-    },
-    {
       "title": "Authorities Alarmed as Mysterious Figures Emerge From Sewers",
       "link": "https://futurism.com/future-society/authorities-alarmed-mysterious-figures-emerge-sewers",
       "summary": "<p>From beneath the streets...</p>\n<p>The post <a href=\"https://futurism.com/future-society/authorities-alarmed-mysterious-figures-emerge-sewers\">Authorities Alarmed as Mysterious Figures Emerge From Sewers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 01 Jun 2026 11:15:59 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/authorities-alarmed-mysterious-figures-emerge-sewers.jpg?quality=85"
-    },
-    {
-      "title": "Memory crunch sends PC prices into double-digit climb",
-      "link": "https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525",
-      "summary": "Notebooks up 11%, desktops 10% as chipmakers ditch consumer kit for AI server bling",
-      "published": "Mon, 01 Jun 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248548&width=800"
     },
     {
       "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
@@ -306,20 +322,52 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/neighbors-horrified-data-center-utah.jpg?quality=85"
     },
     {
-      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
-      "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-      "summary": "The Seoul-based rocket startup is developing its own launch vehicles and engines.",
-      "published": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-starlink-getty.jpg?resize=1200,800"
+      "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+      "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+      "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint Martin, as reported earlier [&#8230;]",
+      "published": "2026-06-01T16:59:14-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
-      "published": "Fri, 29 May 2026 22:58:29 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg"
+      "title": "Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50",
+      "link": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
+      "summary": "If you&#8217;re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you&#8217;ll be exploring on your own. The Pebblebee Halo combines those two gadgets into one, and it&#8217;s currently on sale for $49.99 ($10 off) at Amazon, which is the best price we’ve seen. [&#8230;]",
+      "published": "2026-06-01T16:30:06-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the [&#8230;]",
+      "published": "2026-06-01T16:02:31-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them [&#8230;]",
+      "published": "2026-06-01T16:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has [&#8230;]",
+      "published": "2026-06-01T15:20:47-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/meta-chatbot-support.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Casey Neistat’s guide to posting every day",
+      "link": "https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast",
+      "summary": "Some news: The Vergecast is now a daily podcast! Starting today, we'll be posting every weekday, with even more gadgets and rankings and conversations and feelings and podcasts-within-podcasts. We're excited for all the ways this new schedule lets us tell new kinds of stories, experiment with new tech and new formats, and involve you even [&#8230;]",
+      "published": "2026-06-01T15:07:03-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Daily_Verge_Post.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Anthropic has officially filed to go public",
@@ -352,54 +400,6 @@
       "published": "2026-06-01T11:24:32-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/finetrack2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The next big career move for young Hollywood? Reading audio smut",
-      "link": "https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus",
-      "summary": "Though Gen Z has developed a reputation for being so disinterested in sex that they don't even want to see it on TV, the popularity of series like Heated Rivalry and The Summer I Turned Pretty has made it very clear that more than a few young people do, in fact, like their entertainment a [&#8230;]",
-      "published": "2026-06-01T11:00:12-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/RentFree.jpg?quality=90&#038;strip=all&#038;crop=6.1831253051758,0,93.816874694824,100"
-    },
-    {
-      "title": "Your guide to June’s biggest gaming events",
-      "link": "https://www.theverge.com/games/939238/video-game-gaming-events-summer-game-fest-schedule-2026",
-      "summary": "It's early June, which means it's video game event season once again. Now that E3 has been gone for a few years, a bunch of showcases and presentations have started to fill the void, including big productions like Summer Game Fest Live and smaller affairs like Wholesome Games Direct. If you love following gaming news, [&#8230;]",
-      "published": "2026-06-01T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/wolverine-screenshot-02-en-30sept25.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-      "link": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build [&#8230;]",
-      "published": "2026-06-01T10:39:03-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/MS_BUILD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Computex 2026: All the news and announcements",
-      "link": "https://www.theverge.com/tech/940844/computex-2026",
-      "summary": "Computex 2026 is kicking off in Taipei, Taiwan this week, where Nvidia, AMD, Qualcomm, Intel, and other tech brands are announcing new laptops, handhelds, chips, and more.&#160; Nvidia unveiled RTX Spark, its first family of consumer PC chips, arriving in laptops and mini PCs starting this fall. Intel is launching two new custom chips made [&#8230;]",
-      "published": "2026-06-01T10:33:02-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "AI is blowing up music. How should the Grammys handle it?",
-      "link": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.&#160; Well, it’s been [&#8230;]",
-      "published": "2026-06-01T10:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260601_Mason_Grammys.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
-      "link": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-      "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its developer hub, Strava [&#8230;]",
-      "published": "2026-06-01T10:06:44-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB305_STRAVA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
