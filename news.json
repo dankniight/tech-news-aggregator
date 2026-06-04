@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T04:39:57.774351",
+  "lastUpdated": "2026-06-04T10:03:13.984420",
   "articles": [
     {
       "title": "Bend the beam like Beckham to defeat anti-jamming tech",
@@ -138,14 +138,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/trump-terminator-monkey-cymbals-1152x648.jpg"
     },
     {
-      "title": "Don’t repeat 5G mistakes with 6G, plead mobile operators",
-      "link": "https://www.theregister.com/networks/2026/06/03/dont-repeat-5g-mistakes-with-6g-plead-mobile-operators/5250572",
-      "summary": "NGMN wants a clear migration path before next-gen network rollouts begin",
-      "published": "Wed, 03 Jun 2026 18:09:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252706&width=800"
-    },
-    {
       "title": "New social features further Plex’s evolution from media server business",
       "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
       "summary": "Plex is increaingly focusing on content discovery and streaming rentals.",
@@ -162,36 +154,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/uh-ring-air-hand.jpg?resize=1200,924"
     },
     {
-      "title": "The tech that could make Marvell the next trillion dollar company",
-      "link": "https://www.theregister.com/networks/2026/06/03/the-tech-that-could-make-marvell-the-next-trillion-dollar-company/5250472",
-      "summary": "CU later, rivals? That's if Broadzilla doesn't eat its lunch first",
-      "published": "Wed, 03 Jun 2026 17:24:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=253714&width=800"
-    },
-    {
-      "title": "AI agents can now manipulate your organization. Are you ready?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/03/ai-agents-can-now-manipulate-your-organization-are-you-ready/5250444",
-      "summary": "SPONSORED POST: Agents with hands require a hands-on policy",
-      "published": "Wed, 03 Jun 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5224165&width=800"
-    },
-    {
       "title": "Bitcoin Is Taking a Nasty Swim",
       "link": "https://futurism.com/future-society/bitcoin-prices-bear-market-swim",
       "summary": "<p>Prices are down over 45 percent from all-time highs — and falling.</p>\n<p>The post <a href=\"https://futurism.com/future-society/bitcoin-prices-bear-market-swim\">Bitcoin Is Taking a Nasty Swim</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 03 Jun 2026 16:51:52 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/bitcoin-prices-bear-market-swim.jpg?quality=85"
-    },
-    {
-      "title": "Another bug hunter leaks Microsoft exploits in defiance of company’s handling of vulnerability disclosures",
-      "link": "https://www.theregister.com/security/2026/06/03/another-bug-hunter-leaks-microsoft-exploits-in-defiance-of-companys-handling-of-vulnerability-disclosures/5250590",
-      "summary": "Researchers follow in Nightmare Eclipse’s footsteps, flipping off Redmond in favor of insta-leaks",
-      "published": "Wed, 03 Jun 2026 16:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5244797&width=800"
     },
     {
       "title": "United Nations Issues Grave Warning About El Niño",
@@ -290,6 +258,38 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/film-community-aghast-as-martin-scorsese-extolls-ai-startup.jpg?quality=85"
     },
     {
+      "title": "GOV.UK goes Dutch on payments as it dumps Stripe",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "summary": "Means residents can skip the credit card and use 'pay by bank' for local authorities and services",
+      "published": "Thu, 04 Jun 2026 11:47:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=252660&width=800"
+    },
+    {
+      "title": "UK tax collector hands Capgemini £600M contact center deal, delays start of £2.4B CRM contract",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/uk-tax-collector-hands-capgemini-600m-contact-center-deal-delays-start-of-24b-crm-contract/5250650",
+      "summary": "Another monster tech contract in the works for one of the usual suspects",
+      "published": "Thu, 04 Jun 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5250749&width=800"
+    },
+    {
+      "title": "Nobody needs Mythos or 0-days to build a chaos-causing computer worm – free open source models work just fine",
+      "link": "https://www.theregister.com/research/2026/06/04/free-ai-model-powers-self-spreading-worm-in-enterprise-test-network/5250918",
+      "summary": "'Attackers can now cheaply operationalize known vulnerabilities at scale,' boffins tell The Reg",
+      "published": "Thu, 04 Jun 2026 09:09:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258863&width=800"
+    },
+    {
+      "title": "All the passwords were stored in Active Directory description fields",
+      "link": "https://www.theregister.com/security/2026/06/04/all-the-passwords-were-stored-in-active-directory-description-fields/5250820",
+      "summary": "It was far too easy for a hacker to get the information",
+      "published": "Thu, 04 Jun 2026 07:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261457&width=800"
+    },
+    {
       "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
       "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
       "summary": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.",
@@ -320,6 +320,22 @@
       "published": "Thu, 04 Jun 2026 00:30:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/firstclub.jpg?resize=1200,800"
+    },
+    {
+      "title": "Amazon develops a warehouse robot workers can speak to",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign [&#8230;]",
+      "published": "2026-06-04T05:31:14-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Shokz upgraded its open earbuds with better sound and a lighter design",
+      "link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "summary": "Shokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both designed to be worn clipped to the back of your ear with their drivers positioned to project sound toward your ear canals without blocking them. [&#8230;]",
+      "published": "2026-06-04T03:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/shokz_open2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
@@ -384,22 +400,6 @@
       "published": "2026-06-03T12:07:31-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "PlayStation is getting back to what it’s good at",
-      "link": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
-      "summary": "PlayStation used its most recent State of Play showcase to make it clear where its focus is. After a series of costly live-service stumbles, it's getting back to focusing on premium, narrative-driven, single-player games. That statement was made clear with how it started and ended the hourlong show. The showcase began with an extended look [&#8230;]",
-      "published": "2026-06-03T11:30:15-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/7fa631fcc57afee84f351918717a3cdab924a583a409f14d.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Supernatural isn’t dead after all",
-      "link": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-      "summary": "A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural is getting a second chance. Today, [&#8230;]",
-      "published": "2026-06-03T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_DeeDee_MShannon_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
