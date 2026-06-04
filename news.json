@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-06-03T21:20:39.183214",
+  "lastUpdated": "2026-06-04T04:39:57.774351",
   "articles": [
+    {
+      "title": "Bend the beam like Beckham to defeat anti-jamming tech",
+      "link": "https://www.theregister.com/networks/2026/06/03/curving-beams-could-fool-anti-jamming-tech/5250872",
+      "summary": "It's hard to stop a signal jammer if you can't locate the source, say Rice University researchers",
+      "published": "Wed, 03 Jun 2026 22:57:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=244838&width=800"
+    },
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "published": "Wed, 03 Jun 2026 22:56:51 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800"
+    },
+    {
+      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "summary": "Some quantum computing companies we've covered have done recent progress updates.",
+      "published": "Wed, 03 Jun 2026 22:09:41 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1152x648.jpeg"
+    },
+    {
+      "title": "Grep this: Microsoft grafts (most) Linux commands onto Windows",
+      "link": "https://www.theregister.com/os-platforms/2026/06/03/grep-this-microsoft-grafts-most-linux-commands-onto-windows/5250796",
+      "summary": "Coreutils serves over 75 Unix commands in Windows and PowerShell command lines",
+      "published": "Wed, 03 Jun 2026 21:04:28 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5250857&width=800"
+    },
     {
       "title": "Defense tech is flooded with money, but who’s built to last?",
       "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
@@ -10,12 +42,36 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2220498811.jpg?resize=1200,686"
     },
     {
+      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+      "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+      "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
+      "published": "Wed, 03 Jun 2026 20:26:51 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg"
+    },
+    {
       "title": "Uber to put 500 data-collection vehicles on the road this year",
       "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
       "summary": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
       "published": "Wed, 03 Jun 2026 20:08:28 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/uber-hyundai.jpeg?resize=1200,679"
+    },
+    {
+      "title": "Ring gets buzzed by class action for collecting visitors' faces without consent",
+      "link": "https://www.theregister.com/personal-tech/2026/06/03/ring-faces-class-action-over-facial-recognition-feature/5250661",
+      "summary": "The latest in a series of raised eyebrows over Familiar Faces and other AI ventures",
+      "published": "Wed, 03 Jun 2026 20:06:47 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=251982&width=800"
+    },
+    {
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "published": "Wed, 03 Jun 2026 19:53:14 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/dashlane-app-1152x648-1780514208.webp"
     },
     {
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
@@ -32,6 +88,14 @@
       "published": "Wed, 03 Jun 2026 19:22:53 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/hero-mr.png.jpeg?w=1200"
+    },
+    {
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+      "published": "Wed, 03 Jun 2026 19:10:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-1152x648.jpg"
     },
     {
       "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
@@ -66,6 +130,14 @@
       "image_url": "https://image.theregister.com/?imageId=5250760&width=800"
     },
     {
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "summary": "Critics say Trump plan to test AI models is short-sighted, performative.",
+      "published": "Wed, 03 Jun 2026 18:11:15 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/trump-terminator-monkey-cymbals-1152x648.jpg"
+    },
+    {
       "title": "Don’t repeat 5G mistakes with 6G, plead mobile operators",
       "link": "https://www.theregister.com/networks/2026/06/03/dont-repeat-5g-mistakes-with-6g-plead-mobile-operators/5250572",
       "summary": "NGMN wants a clear migration path before next-gen network rollouts begin",
@@ -74,20 +146,20 @@
       "image_url": "https://image.theregister.com/?imageId=252706&width=800"
     },
     {
+      "title": "New social features further Plex’s evolution from media server business",
+      "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+      "summary": "Plex is increaingly focusing on content discovery and streaming rentals.",
+      "published": "Wed, 03 Jun 2026 17:35:06 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-1152x648.jpg"
+    },
+    {
       "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
       "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
       "summary": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop.",
       "published": "Wed, 03 Jun 2026 17:30:52 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/uh-ring-air-hand.jpg?resize=1200,924"
-    },
-    {
-      "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
-      "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
-      "summary": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.",
-      "published": "Wed, 03 Jun 2026 17:25:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-ev-truck.jpg?resize=1200,800"
     },
     {
       "title": "The tech that could make Marvell the next trillion dollar company",
@@ -122,14 +194,6 @@
       "image_url": "https://image.theregister.com/?imageId=5244797&width=800"
     },
     {
-      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
-      "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
-      "summary": "Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.",
-      "published": "Wed, 03 Jun 2026 16:12:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-smartphone-laptop.jpg?resize=1200,800"
-    },
-    {
       "title": "United Nations Issues Grave Warning About El Niño",
       "link": "https://futurism.com/science-energy/united-nations-warning-el-nino",
       "summary": "<p>\"El Niño conditions will pour fuel on the fire of a warming world.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/united-nations-warning-el-nino\">United Nations Issues Grave Warning About El Niño</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -138,20 +202,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/united-nations-warning-el-nino.jpg?quality=85"
     },
     {
-      "title": "Amazon will show AI product images when you search for some reason",
-      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "published": "Wed, 03 Jun 2026 15:50:26 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.16.52-AM.jpg?resize=1200,695"
-    },
-    {
-      "title": "Microsoft Build: Surface RTX Spark Dev Box, Coreutils for Windows, air-gapped GitHub and more",
-      "link": "https://www.theregister.com/os-platforms/2026/06/03/microsoft-build-surface-rtx-spark-dev-box-coreutils-for-windows-air-gapped-github-and-more/5250501",
-      "summary": "Execution Containers provide safe environment for running AI agents, while Windows Developer Config aims to make Windows less unpleasant for developers",
-      "published": "Wed, 03 Jun 2026 15:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248005&width=800"
+      "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
+      "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
+      "summary": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive.",
+      "published": "Wed, 03 Jun 2026 15:13:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2267133850-1152x648.jpg"
     },
     {
       "title": "College Professors Say Incoming Students No Longer Understand Middle School Math and Science",
@@ -162,22 +218,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/professors-incoming-students-dont-understand-math.jpg?quality=85"
     },
     {
-      "title": "Listen up, England. The Health Secretary is going to be data controller for everyone's Single Patient Record",
-      "link": "https://www.theregister.com/public-sector/2026/06/03/listen-up-england-the-health-secretary-is-going-to-be-data-controller-for-everyones-single-patient-record/5250626",
-      "summary": "No, public bucket policy doesn't mean everyone gets a bucket for themselves. Please let Tech do it. Don't go into Settings... NOOOOOO!",
-      "published": "Wed, 03 Jun 2026 14:52:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5250647&width=800"
-    },
-    {
-      "title": "Citation, please! UK regulator slaps Google with new publishing rules for search",
-      "link": "https://www.theregister.com/legal/2026/06/03/citation-please-uk-regulator-slaps-google-with-new-publishing-rules-for-search/5250544",
-      "summary": "Action follows Chocolate Factory's changes to AI search results",
-      "published": "Wed, 03 Jun 2026 14:05:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243010&width=800"
-    },
-    {
       "title": "SpaceX Is Massively Overvalued Ahead of Its IPO, Analysts Find",
       "link": "https://futurism.com/space/spacex-overvalued-ipo-analysts",
       "summary": "<p>Some are advising to stay far away.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-overvalued-ipo-analysts\">SpaceX Is Massively Overvalued Ahead of Its IPO, Analysts Find</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -186,20 +226,20 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-overvalued-ipo-analysts.jpg?quality=85"
     },
     {
+      "title": "Inside Meta's attempts to play catch-up with AI",
+      "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+      "summary": "Doubts linger over whether Meta can close the gap with rivals.",
+      "published": "Wed, 03 Jun 2026 13:35:58 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bluealexandr-1152x648.jpg"
+    },
+    {
       "title": "In Leaked Document, Microsoft Plots How to Get People “Addicted” to Its AI",
       "link": "https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai",
       "summary": "<p>Might want to rethink how you phrase that one, guys.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai\">In Leaked Document, Microsoft Plots How to Get People &#8220;Addicted&#8221; to Its AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 03 Jun 2026 13:04:04 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/microsoft-plots-addicted-to-its-ai.jpg?quality=85"
-    },
-    {
-      "title": "UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion",
-      "link": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450",
-      "summary": "150 new organizations inducted to cyber’s Soho House, including the first outside the US",
-      "published": "Wed, 03 Jun 2026 13:04:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5250568&width=800"
     },
     {
       "title": "State of Florida Sues OpenAI, Saying Sam Altman Showed “Utter Disregard for the Risk to Human Life”",
@@ -226,14 +266,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/amazon-ai-generated-series-canceled.jpg?quality=85"
     },
     {
-      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-      "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-      "summary": "\"Everyone is in a place where it’s no fun to be there.\"",
-      "published": "Wed, 03 Jun 2026 10:00:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/amos-6-1152x648.jpg"
-    },
-    {
       "title": "Anthropic and DeepMind Now Actively Investigating AI Consciousness",
       "link": "https://futurism.com/artificial-intelligence/anthropic-deemind-ai-consciousness",
       "summary": "<p>\"We think the question is serious enough to study carefully.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-deemind-ai-consciousness\">Anthropic and DeepMind Now Actively Investigating AI Consciousness</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -250,76 +282,60 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/galaxy-scale-ipos-shake-economy-bubble.jpg?quality=85"
     },
     {
-      "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
-      "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-      "summary": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
-      "published": "Tue, 02 Jun 2026 23:05:31 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bower1-1152x648.jpg"
-    },
-    {
-      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-      "summary": "One hardware announcement and several software highlights from Microsoft Build.",
-      "published": "Tue, 02 Jun 2026 22:51:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SRSDB-Desktop-1152x648.jpg"
-    },
-    {
-      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-      "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-      "summary": "Microsoft missed the boat on apps, so get ready for agents.",
-      "published": "Tue, 02 Jun 2026 20:47:54 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-1152x648.png"
-    },
-    {
-      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-      "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-      "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-      "published": "Tue, 02 Jun 2026 20:17:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-1152x648-1780428574.jpg"
-    },
-    {
-      "title": "If I had a hammer... it might actually be a rhino tooth",
-      "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-      "summary": "Neanderthals had some wild stuff in their toolkits.",
-      "published": "Tue, 02 Jun 2026 19:54:14 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-1152x648.jpg"
-    },
-    {
-      "title": "Feds failing in bid to take a supercomputer from a climate research center",
-      "link": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/",
-      "summary": "The National Center for Atmospheric Research won't be losing its supercomputer.",
-      "published": "Tue, 02 Jun 2026 19:02:27 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-1152x648.jpg"
-    },
-    {
-      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-      "link": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-      "summary": "International Mathematical Union endorses warning about tech industry influence.",
-      "published": "Tue, 02 Jun 2026 18:19:06 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg"
-    },
-    {
-      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-      "published": "Tue, 02 Jun 2026 18:00:46 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
-    },
-    {
       "title": "Film Community Aghast as Martin Scorsese Extolls AI Startup, Says He Now Uses AI for Storyboards",
       "link": "https://futurism.com/artificial-intelligence/film-community-aghast-as-martin-scorsese-extolls-ai-startup",
       "summary": "<p>\"Cannot stress enough how disappointing it is that Martin Scorsese is collaborating with an AI company and putting a stain on his name so late in his life and career.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/film-community-aghast-as-martin-scorsese-extolls-ai-startup\">Film Community Aghast as Martin Scorsese Extolls AI Startup, Says He Now Uses AI for Storyboards</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 02 Jun 2026 17:04:16 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/film-community-aghast-as-martin-scorsese-extolls-ai-startup.jpg?quality=85"
+    },
+    {
+      "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+      "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+      "summary": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.",
+      "published": "Thu, 04 Jun 2026 03:52:15 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2014/10/docker-peter-fenton-4.jpg?resize=1200,800"
+    },
+    {
+      "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
+      "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
+      "summary": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
+      "published": "Thu, 04 Jun 2026 02:46:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
+    },
+    {
+      "title": "Commvault says it's time to rethink resiliency as AI crooks leave victims in a 'dark, dead' state",
+      "link": "https://www.theregister.com/security/2026/06/03/commvault-says-its-time-to-rethink-resiliency-as-ai-crooks-leave-victims-in-a-dark-dead-state/5250894",
+      "summary": "Those backup plans need backup testing",
+      "published": "Thu, 04 Jun 2026 00:31:29 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5250915&width=800"
+    },
+    {
+      "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+      "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+      "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+      "published": "Thu, 04 Jun 2026 00:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/firstclub.jpg?resize=1200,800"
+    },
+    {
+      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+      "link": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "summary": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measures to comply with these requirements [&#8230;]",
+      "published": "2026-06-03T20:04:04-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_0ea1cb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple is bringing age verification to Texas this week",
+      "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a [&#8230;]",
+      "published": "2026-06-03T17:49:51-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697384/STK071_APPLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "WiiM expands its whole-home ecosystem with a new soundbar",
@@ -384,22 +400,6 @@
       "published": "2026-06-03T11:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_DeeDee_MShannon_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280",
-      "link": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
-      "summary": "The Dreame L20 Ultra isn’t the company&#8217;s newest model, but it&#8217;s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever price right now. Originally $1,400 when it launched in 2023, [&#8230;]",
-      "published": "2026-06-03T10:53:10-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dreamel20ultra.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's [&#8230;]",
-      "published": "2026-06-03T10:04:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
