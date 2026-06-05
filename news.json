@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-06-04T20:10:38.815268",
+  "lastUpdated": "2026-06-05T04:13:31.467221",
   "articles": [
-    {
-      "title": "Microsoft, Atom Computing update their quantum computing progress",
-      "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
-      "summary": "Some quantum computing companies we've covered have done recent progress updates.",
-      "published": "Wed, 03 Jun 2026 22:09:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1152x648.jpeg"
-    },
     {
       "title": "Bitcoin Is Taking a Nasty Swim",
       "link": "https://futurism.com/future-society/bitcoin-prices-bear-market-swim",
@@ -18,12 +10,60 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/bitcoin-prices-bear-market-swim.jpg?quality=85"
     },
     {
-      "title": "United Nations Issues Grave Warning About El Niño",
-      "link": "https://futurism.com/science-energy/united-nations-warning-el-nino",
-      "summary": "<p>\"El Niño conditions will pour fuel on the fire of a warming world.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/united-nations-warning-el-nino\">United Nations Issues Grave Warning About El Niño</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 03 Jun 2026 16:07:09 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/united-nations-warning-el-nino.jpg?quality=85"
+      "title": "Canada wants to make its own AI, break free from US bots",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/canada-wants-its-own-ai-less-reliance-on-us-tech/5251404",
+      "summary": "Another ally questions reliance on American AI",
+      "published": "Thu, 04 Jun 2026 23:56:58 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=246631&width=800"
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "published": "Thu, 04 Jun 2026 22:43:26 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799"
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "published": "Thu, 04 Jun 2026 22:29:50 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024"
+    },
+    {
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+      "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+      "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+      "published": "Thu, 04 Jun 2026 22:23:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279229514-1152x648.jpg"
+    },
+    {
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+      "published": "Thu, 04 Jun 2026 21:44:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/ad-blocker-1609310276.jpg?resize=1200,766"
+    },
+    {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+      "published": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800"
+    },
+    {
+      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+      "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+      "summary": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
+      "published": "Thu, 04 Jun 2026 21:25:19 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/supreme-court-1152x648-1780605704.jpg"
     },
     {
       "title": "OpenAI's agent chained decade-old DoS attacks to crash web servers in seconds",
@@ -32,6 +72,30 @@
       "published": "Thu, 04 Jun 2026 21:08:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5251401&width=800"
+    },
+    {
+      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+      "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+      "summary": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+      "published": "Thu, 04 Jun 2026 20:55:38 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1830095240.jpg?resize=1200,900"
+    },
+    {
+      "title": "These LLMs are the best at resisting Russian propaganda",
+      "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+      "published": "Thu, 04 Jun 2026 20:44:31 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271282507-1024x648.jpg"
+    },
+    {
+      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+      "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+      "published": "Thu, 04 Jun 2026 20:02:04 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg"
     },
     {
       "title": "Elon Musk tries again to escape FTC audits of X data handling",
@@ -44,7 +108,7 @@
     {
       "title": "Meta steals a tactic from Tesla and builds data centers in tents",
       "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "summary": "Meta may have one found one way to slash its massive data center bill: tents.",
+      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
       "published": "Thu, 04 Jun 2026 19:33:09 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800"
@@ -106,28 +170,20 @@
       "image_url": "https://image.theregister.com/?imageId=4094116&width=800"
     },
     {
+      "title": "Data Centers Have Become Shockingly Unpopular, Poll Finds",
+      "link": "https://futurism.com/artificial-intelligence/data-centers-shockingly-unpopular-poll",
+      "summary": "<p>The public's opinion on data centers has swung hard.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/data-centers-shockingly-unpopular-poll\">Data Centers Have Become Shockingly Unpopular, Poll Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 04 Jun 2026 16:56:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/data-centers-shockingly-unpopular-poll.jpg?quality=85"
+    },
+    {
       "title": "Meta’s Oversight Board says account bans lack due process, transparency",
       "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
       "summary": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
       "published": "Thu, 04 Jun 2026 16:47:12 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802"
-    },
-    {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-      "published": "Thu, 04 Jun 2026 16:32:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675"
-    },
-    {
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-      "published": "Thu, 04 Jun 2026 16:31:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980"
     },
     {
       "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
@@ -138,36 +194,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/PIA26304-1152x648.jpg"
     },
     {
-      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
-      "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
-      "summary": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
-      "published": "Thu, 04 Jun 2026 16:16:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259268884.jpg?resize=1200,800"
-    },
-    {
       "title": "People Are Not Happy About Google’s Plan to Release Millions of Bioengineered Mosquitoes Into the Wild",
       "link": "https://futurism.com/science-energy/google-mosquitoes",
       "summary": "<p>\"Ask yourself who is to benefit most from this, and why is it being done?\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/google-mosquitoes\">People Are Not Happy About Google&#8217;s Plan to Release Millions of Bioengineered Mosquitoes Into the Wild</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 04 Jun 2026 16:04:28 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/google-mosquitoes-plans-million-usa.jpg?quality=85"
-    },
-    {
-      "title": "Cash App launches a wand for tap-and-pay",
-      "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-      "summary": "Cash App plans to launch more tap-to-pay tags.",
-      "published": "Thu, 04 Jun 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Cash-App-Wand-Handheld-16x9-1.jpeg?resize=1200,784"
-    },
-    {
-      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
-      "link": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
-      "summary": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.",
-      "published": "Thu, 04 Jun 2026 15:48:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/waymo-mesa.jpg?resize=1200,675"
     },
     {
       "title": "'Please do not vibe f--- up this software': Broken backups spark AI coding row in rsync project",
@@ -184,14 +216,6 @@
       "published": "Thu, 04 Jun 2026 15:43:51 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Subaru-Solterra-1-1152x648.jpg"
-    },
-    {
-      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
-      "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
-      "summary": "Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
-      "published": "Thu, 04 Jun 2026 15:08:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2212147195.jpg?resize=1200,800"
     },
     {
       "title": "Intel's mysterious new datacenter GPU is what Nvidia's Rubin CPX nearly was",
@@ -226,36 +250,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-1024x648.jpg"
     },
     {
-      "title": "Five Eyes: Watch out for odd LinkedIn connection requests, China's back on the hunt for state secrets",
-      "link": "https://www.theregister.com/security/2026/06/04/five-eyes-china-expanding-state-secret-recruitment-campaign/5250978",
-      "summary": "Cash-for-intel tradecraft continues to concern intelligence officials years after it was first spotted",
-      "published": "Thu, 04 Jun 2026 13:57:22 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=258591&width=800"
-    },
-    {
       "title": "Mayor Caught on Camera Saying the Only Voters Who Oppose Data Centers Are Disgusting Poor People",
       "link": "https://futurism.com/artificial-intelligence/mayor-calls-data-center-critics-disgusting-poor-people",
       "summary": "<p>It's never been more obvious that the pro data center camp is completely out of touch.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mayor-calls-data-center-critics-disgusting-poor-people\">Mayor Caught on Camera Saying the Only Voters Who Oppose Data Centers Are Disgusting Poor People</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 04 Jun 2026 13:50:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/mayor-calls-data-center-critics-disgusting-poor-people.jpg?quality=85"
-    },
-    {
-      "title": "My SSN was exposed in a breach at Columbia—a school I have no connection with",
-      "link": "https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/",
-      "summary": "Columbia admits last year’s data breach exposed victims beyond its students, staff.",
-      "published": "Thu, 04 Jun 2026 13:48:51 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/columbia-social-security-1152x648.jpg"
-    },
-    {
-      "title": "Duo who sold car crash victims' data must repay £118k",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/04/duo-who-sold-car-crash-victims-data-must-repay-118k/5251075",
-      "summary": "Fresh penalties secured after initial prison, community service sentences for RAC double act",
-      "published": "Thu, 04 Jun 2026 13:13:05 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=232641&width=800"
     },
     {
       "title": "We Are Intrigued by This Man Taking His Pet Octopus for a Walk Around His Neighborhood",
@@ -272,22 +272,6 @@
       "published": "Thu, 04 Jun 2026 12:11:47 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/woman-gps-drives-car-elevated-seattle-rail-track.jpg?quality=85"
-    },
-    {
-      "title": "GOV.UK goes Dutch on payments as it dumps Stripe",
-      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "summary": "Means residents can skip the credit card and use 'pay by bank' for local authorities and services",
-      "published": "Thu, 04 Jun 2026 11:47:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252660&width=800"
-    },
-    {
-      "title": "Used Waymo robotaxi batteries become backup storage for power grids",
-      "link": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
-      "summary": "Used Waymo batteries will bolster California and Texas energy storage projects.",
-      "published": "Thu, 04 Jun 2026 11:00:45 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Rachel-Harper-inspecting-B24-at-Lancaster-1152x648.jpg"
     },
     {
       "title": "Robot in Clown Wig Roundhouse Kicks Small Child",
@@ -314,12 +298,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/ai-bubble-surreal-toilet-industry-toto.jpg?quality=85"
     },
     {
-      "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
-      "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
-      "summary": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
-      "published": "Thu, 04 Jun 2026 02:46:35 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
+      "title": "'It would be good for the world' to slow down AI sprints, Anthropic says",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/05/it-would-be-good-for-the-world-to-slow-down-ai-sprints-anthropic-says/5251460",
+      "summary": "The plea for caution comes the same week it beat AI archrival OpenAI to filing for an IPO",
+      "published": "Fri, 05 Jun 2026 01:46:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257058&width=800"
+    },
+    {
+      "title": "Pink is the latest goon squad to use fake helpdesk calls to steal creds",
+      "link": "https://www.theregister.com/cyber-crime/2026/06/04/pink-is-the-latest-goon-squad-to-use-fake-helpdesk-calls-to-steal-creds/5251434",
+      "summary": "A familiar tactic popularized by chaotic crime crew Lapsus$",
+      "published": "Fri, 05 Jun 2026 00:16:55 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251457&width=800"
+    },
+    {
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+      "published": "Fri, 05 Jun 2026 00:06:47 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655123.jpg?resize=1200,787"
+    },
+    {
+      "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
+      "link": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+      "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles on the new Steam hardware once they [&#8230;]",
+      "published": "2026-06-04T18:48:53-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0058.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
@@ -392,14 +400,6 @@
       "published": "2026-06-04T10:15:44-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "We’re giving away a Prime Day grab bag loaded with over $800 of free tech",
-      "link": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
-      "summary": "We’re always testing out new products here The Verge, which presents a bit of a problem for our inventory closet in New York City. It’s literally overflowing with gadgets, new and old, so we’re restoring order by giving some of it away to one lucky person. We’ve stuffed over $800 worth of tech into a [&#8230;]",
-      "published": "2026-06-04T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/P6031295.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
