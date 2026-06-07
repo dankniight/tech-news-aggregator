@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-06-07T09:22:08.341037",
+  "lastUpdated": "2026-06-07T14:04:32.602172",
   "articles": [
+    {
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "published": "Sun, 07 Jun 2026 14:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/water-dam-spill-2263108794.jpg?resize=1200,801"
+    },
+    {
+      "title": "Brit maritime agency heralds fresh global rules for crewless cargo ships",
+      "link": "https://www.theregister.com/offbeat/2026/06/07/brit-maritime-agency-heralds-fresh-global-rules-for-crewless-cargo-ships/5251616",
+      "summary": "If you thought driverless cars were bad, imagine a 200,000 ton container ship",
+      "published": "Sun, 07 Jun 2026 13:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251647&width=800"
+    },
+    {
+      "title": "Home Office ditches legacy asylum database, keeps the spreadsheets",
+      "link": "https://www.theregister.com/public-sector/2026/06/07/home-office-ditches-legacy-asylum-database-keeps-the-spreadsheets/5251780",
+      "summary": "Years into a major IT overhaul, MPs say the department still lacks reliable view of what is happening across the asylum system",
+      "published": "Sun, 07 Jun 2026 12:16:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251800&width=800"
+    },
+    {
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "summary": "How accurate does an AI system need to be?",
+      "published": "Sun, 07 Jun 2026 11:08:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1434414748-1152x648-1780697703.jpg"
+    },
     {
       "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
       "link": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
@@ -8,6 +40,46 @@
       "published": "Sun, 07 Jun 2026 10:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5251523&width=800"
+    },
+    {
+      "title": "Suburbanites Freaked Out by Mysterious Drones Leering Into Their Homes at Night",
+      "link": "https://futurism.com/robots-and-machines/connecticut-drones-homes-surveillance",
+      "summary": "<p>\"It was definitely listening in and provoking us.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/connecticut-drones-homes-surveillance\">Suburbanites Freaked Out by Mysterious Drones Leering Into Their Homes at Night</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 07 Jun 2026 10:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/connecticut-drones-homes-surveillance.jpg?quality=85"
+    },
+    {
+      "title": "Psychiatrists Investigating People Who Get Trapped Inside Vivid Daydreams",
+      "link": "https://futurism.com/health-medicine/trapped-maladaptive-daydreams",
+      "summary": "<p>It can turn into a real problem.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/trapped-maladaptive-daydreams\">Psychiatrists Investigating People Who Get Trapped Inside Vivid Daydreams</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 07 Jun 2026 09:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/trapped-maladaptive-daydreams.jpg?quality=85"
+    },
+    {
+      "title": "Astronomers Say Star Self-Destructed So Catastrophically That It Left Behind No Trace of Its Existence",
+      "link": "https://futurism.com/space/star-explosion-left-no-trace",
+      "summary": "<p>Brutal.</p>\n<p>The post <a href=\"https://futurism.com/space/star-explosion-left-no-trace\">Astronomers Say Star Self-Destructed So Catastrophically That It Left Behind No Trace of Its Existence</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 07 Jun 2026 08:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/star-explosion-left-no-trace.jpg?quality=85"
+    },
+    {
+      "title": "Remember How Sucking Carbon Out of the Air Was Going to Save the Planet? We Have Terrible News",
+      "link": "https://futurism.com/science-energy/carbon-capture-update",
+      "summary": "<p>To say we're way behind schedule is an understatement.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/carbon-capture-update\">Remember How Sucking Carbon Out of the Air Was Going to Save the Planet? We Have Terrible News</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 07 Jun 2026 07:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/carbon-capture-update.jpg?quality=85"
+    },
+    {
+      "title": "Airbnb Host Furious After Startup Trashes His Unit to “Test Robots”",
+      "link": "https://futurism.com/robots-and-machines/airbnb-host-furious-startup-trashes-robots",
+      "summary": "<p>The worst guests imaginable.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/airbnb-host-furious-startup-trashes-robots\">Airbnb Host Furious After Startup Trashes His Unit to &#8220;Test Robots&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 07 Jun 2026 06:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/airbnb-host-furious-startup-trashes-robots.jpg?quality=85"
     },
     {
       "title": "Scientists ejected from diabetes conference for distributing journal reprints",
@@ -106,52 +178,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/nasa-james-webb-3i-atlas-methane.jpg?quality=85"
     },
     {
-      "title": "Chinese Post Office Deploys Humanoid Robots to Sort Mail",
-      "link": "https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail",
-      "summary": "<p>Just a cog in the machine.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail\">Chinese Post Office Deploys Humanoid Robots to Sort Mail</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 06 Jun 2026 09:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/chinese-post-office-humanoid-robot-mail.jpg?quality=85"
-    },
-    {
       "title": "Oxford Uni student data pwned yet again - this time via career platform breach",
       "link": "https://www.theregister.com/security/2026/06/06/oxford-university-data-pwned-again-by-career-platform-breach/5251754",
       "summary": "Totally different attack from the break-in last month. Oh so that's OK then",
       "published": "Sat, 06 Jun 2026 09:28:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=226360&width=800"
-    },
-    {
-      "title": "Researchers Put AI Models in Charge of Analyzing Sports, and They Choked Spectacularly",
-      "link": "https://futurism.com/artificial-intelligence/researchers-ai-models-sports-analysis-basketball",
-      "summary": "<p>\"It cannot tell you why things happen, and it cannot tell you what’s gonna happen next.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/researchers-ai-models-sports-analysis-basketball\">Researchers Put AI Models in Charge of Analyzing Sports, and They Choked Spectacularly</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 06 Jun 2026 08:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/researchers-ai-models-sports-analysis-basketball.jpg?quality=85"
-    },
-    {
-      "title": "It Turns Out Lookmaxxing Has Some Extremely Emasculating Side Effects",
-      "link": "https://futurism.com/health-medicine/lookmaxxing-testosterone-side-effects",
-      "summary": "<p>Oops!</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/lookmaxxing-testosterone-side-effects\">It Turns Out Lookmaxxing Has Some Extremely Emasculating Side Effects</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 06 Jun 2026 07:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/lookmaxxing-testosterone-side-effects.jpg?quality=85"
-    },
-    {
-      "title": "Lads Force Waymo to Play Football",
-      "link": "https://futurism.com/advanced-transport/sports-influencers-waymo-play-football",
-      "summary": "<p>Here's how it did.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/sports-influencers-waymo-play-football\">Lads Force Waymo to Play Football</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 06 Jun 2026 06:45:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/sports-influencers-waymo-play-football.jpg?quality=85"
-    },
-    {
-      "title": "Over 150 Mathematicians Warn Governments Not to “Believe the Hype” About AI",
-      "link": "https://futurism.com/artificial-intelligence/mathematicians-warn-governments-hype-ai",
-      "summary": "<p>\"There is currently a strong commercial incentive on the part of the technology industry to overstate the capabilities of their products.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mathematicians-warn-governments-hype-ai\">Over 150 Mathematicians Warn Governments Not to &#8220;Believe the Hype&#8221; About AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 06 Jun 2026 06:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/mathematicians-warn-governments-hype-ai.jpg?quality=85"
     },
     {
       "title": "Start spreading the news: Datacenters may face one-year ban in NY",
@@ -242,14 +274,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/51751616813_e205d6883e_k-1152x648.jpg"
     },
     {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-      "published": "Fri, 05 Jun 2026 18:57:20 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
-    },
-    {
       "title": "Serious ISS air leak forces NASA astronauts to temporarily take shelter in Dragon capsule",
       "link": "https://www.theregister.com/science/2026/06/05/new-iss-leaks-send-astronauts-to-dragon-safe-haven/5251831",
       "summary": "Business is back to normal in the orbital station, but one of two newly discovered leaks is still unrepaired",
@@ -298,28 +322,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/noirTOP-1152x648.jpg"
     },
     {
-      "title": "China Mobile Jiangsu and ZTE unveil intelligent complaint analysis agent to reshape core network O&M",
-      "link": "https://www.theregister.com/networks/2026/06/05/china-mobile-jiangsu-and-zte-unveil-intelligent-complaint-analysis-agent-to-reshape-core-network-om/5251564",
-      "summary": "PARTNER CONTENT: Leveraging multi-modal LLMs and agent technology to automate signaling analysis and shift core network O&amp;M from experience to knowledge-driven",
-      "published": "Fri, 05 Jun 2026 16:53:49 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5251805&width=800"
+      "title": "Dell&#8217;s new XPS 14 is better in almost every way",
+      "link": "https://www.theverge.com/tech/944360/dell-xps-14-2026-review",
+      "summary": "The 2026 XPS 14 is the best premium laptop we've seen from Dell in a while, with incredible build quality in a thin machine and good performance thanks to Intel's Core Ultra Series 3 \"Panther Lake\" chips. A bonus: Dell killed its lame \"Premium Plus\" naming scheme. XPS is so back! I can't believe how [&#8230;]",
+      "published": "2026-06-07T10:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268580_Dell_XPS_14_2026_laptop_review_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Agentic AI hype races ahead as enterprises remain stuck in pilot mode",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/05/agentic-ai-hype-races-ahead-as-enterprises-remain-stuck-in-pilot-mode/5251711",
-      "summary": "Most orgs remain trapped between flashy demos and real-world deployment, despite 75% saying adoption is racing ahead",
-      "published": "Fri, 05 Jun 2026 16:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5251723&width=800"
+      "title": "Kill some time with these much needed distractions",
+      "link": "https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole",
+      "summary": "Constantly being plugged into the news grind is mentally exhausting. Sometimes we just need to take a break, unwind, and do something fun. That’s why we&#8217;ve built up a collection of distracting time-wasters for when we need a break from being obsessively online. We figured you might enjoy these harmless rabbit holes, mildly addictive browser [&#8230;]",
+      "published": "2026-06-07T09:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268330_Verge_Release_Notes_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Trump admin tries again to revive dying coal industry",
-      "link": "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
-      "summary": "Money would keep coal plants open, build the first new plants in over a decade.",
-      "published": "Fri, 05 Jun 2026 15:55:14 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2167660808-1152x648.jpg"
+      "title": "AI ‘content creators’ are getting harder to spot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to [&#8230;]",
+      "published": "2026-06-07T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GAUYdq3a4AAAlsX.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
@@ -376,30 +400,6 @@
       "published": "2026-06-06T11:05:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
-      "link": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
-      "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take his YouTube channel in a different direction. He didn't stop covering music gear overnight, but as time progressed, his channel became [&#8230;]",
-      "published": "2026-06-06T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/1000033192.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "82-0 is the best basketball game, to hell with NBA 2K",
-      "link": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
-      "summary": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you just had free rein to pick whoever you wanted from throughout history, there would be little challenge. [&#8230;]",
-      "published": "2026-06-06T10:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-06-at-10.14.26AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable [&#8230;]",
-      "published": "2026-06-06T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
