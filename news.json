@@ -1,6 +1,166 @@
 {
-  "lastUpdated": "2026-06-10T10:11:17.191534",
+  "lastUpdated": "2026-06-10T15:48:51.697568",
   "articles": [
+    {
+      "title": "macOS 27 beta boots Asahi Linux off Apple Silicon",
+      "link": "https://www.theregister.com/os-platforms/2026/06/10/macos-27-beta-boots-asahi-linux-off-apple-silicon/5253587",
+      "summary": "Partition's still there, but good luck seeing it and don't upgrade until fix lands, says team",
+      "published": "Wed, 10 Jun 2026 17:36:19 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5253634&width=800"
+    },
+    {
+      "title": "Vercel escapes contempt rap after admitting it botched FBI warrant response",
+      "link": "https://www.theregister.com/legal/2026/06/10/vercel-escapes-contempt-rap-after-admitting-it-botched-fbi-warrant-response/5253563",
+      "summary": "Files sought by feds were sitting in a deletion queue, not gone for good",
+      "published": "Wed, 10 Jun 2026 16:39:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258894&width=800"
+    },
+    {
+      "title": "Linux Lite 8.0 sheds Chrome, slims down, and finds its name fits better than ever",
+      "link": "https://www.theregister.com/os-platforms/2026/06/10/linux-lite-80-sheds-chrome-slims-down-and-finds-its-name-fits-better-than-ever/5253519",
+      "summary": "Firefox is in, Snap and Flatpak are still out, but a default AI helper may raise eyebrows",
+      "published": "Wed, 10 Jun 2026 16:05:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5253534&width=800"
+    },
+    {
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "published": "Wed, 10 Jun 2026 15:41:22 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798"
+    },
+    {
+      "title": "Brit workers waste nearly six hours a week 'botsitting'",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/10/brit-workers-waste-nearly-six-hours-a-week-botsitting/5253483",
+      "summary": "Productivity gains lost as staff spoon-feed AI and correct its cock-ups",
+      "published": "Wed, 10 Jun 2026 15:32:43 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251723&width=800"
+    },
+    {
+      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+      "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+      "summary": "While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life.",
+      "published": "Wed, 10 Jun 2026 15:16:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch1.jpeg?w=600"
+    },
+    {
+      "title": "GitHub pulls pin on npm's auto-run scripts",
+      "link": "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453",
+      "summary": "Shai-Hulud worm exploited exactly this. Better late than never, says everyone except the malware authors",
+      "published": "Wed, 10 Jun 2026 15:11:14 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251931&width=800"
+    },
+    {
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "published": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?resize=1200,970"
+    },
+    {
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "published": "Wed, 10 Jun 2026 14:48:01 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639"
+    },
+    {
+      "title": "Pinterest bets on creators with Amazon Storefront integration",
+      "link": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
+      "summary": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place.",
+      "published": "Wed, 10 Jun 2026 14:34:45 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800"
+    },
+    {
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "published": "Wed, 10 Jun 2026 14:31:30 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/warner-music.jpg?resize=1200,800"
+    },
+    {
+      "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
+      "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
+      "summary": "ServiceNow is used by thousands of enterprises to automate their internal processes, but says several customers had data accessed because of a security bug.",
+      "published": "Wed, 10 Jun 2026 14:13:02 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1782807384.jpg?w=1024"
+    },
+    {
+      "title": "NASA names crew for Artemis III lunar lander rehearsal",
+      "link": "https://www.theregister.com/science/2026/06/10/nasa-names-crew-for-artemis-iii-lunar-lander-rehearsal/5253286",
+      "summary": "Whether any of the spacecraft will be ready in time for H2 2027 remains unanswered",
+      "published": "Wed, 10 Jun 2026 13:41:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5253335&width=800"
+    },
+    {
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "published": "Wed, 10 Jun 2026 13:33:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Jedify-Co-founders.jpg?resize=1200,800"
+    },
+    {
+      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+      "summary": "Violent threats against lawmakers have also surged on Facebook.",
+      "published": "Wed, 10 Jun 2026 13:31:37 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-1152x648.jpg"
+    },
+    {
+      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
+      "summary": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
+      "published": "Wed, 10 Jun 2026 13:13:33 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png"
+    },
+    {
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "published": "Wed, 10 Jun 2026 13:07:56 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Oasis-a.png?resize=1200,677"
+    },
+    {
+      "title": "Ivanti tells Sentry customers to patch now as critical bugs hit 10.0 and 9.9",
+      "link": "https://www.theregister.com/patches/2026/06/10/ivanti-urges-sentry-users-to-patch-two-critical-bugs/5253428",
+      "summary": "Remote, unauthenticated RCE with root privileges is about as bad as it gets",
+      "published": "Wed, 10 Jun 2026 13:04:53 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5244794&width=800"
+    },
+    {
+      "title": "Brussels' datacenter efficiency scorecard may come with a credit warning",
+      "link": "https://www.theregister.com/on-prem/2026/06/10/brussels-datacenter-efficiency-scorecard-may-come-with-a-credit-warning/5253297",
+      "summary": "Moody's says proposed A-to-G green grades for bit barns could affect financing",
+      "published": "Wed, 10 Jun 2026 12:50:45 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1684059&width=800"
+    },
+    {
+      "title": "Snapchat limits users under 16 to sharing Spotlights with friends",
+      "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+      "summary": "Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends that they follow back.",
+      "published": "Wed, 10 Jun 2026 12:46:52 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1239583734.jpg?resize=1200,800"
+    },
     {
       "title": "Node4 CEO Neil Muller found dead at home after suspected stabbing",
       "link": "https://www.theregister.com/channel/2026/06/10/node4-ceo-neil-muller-found-dead-at-home-after-suspected-stabbing/5253315",
@@ -10,92 +170,36 @@
       "image_url": "https://image.theregister.com/?imageId=5253402&width=800"
     },
     {
-      "title": "France and Germany agree to disagree, ditch joint next-gen Euro fighter",
-      "link": "https://www.theregister.com/bootnotes/2026/06/10/france-and-germany-agree-to-disagree-ditch-joint-next-gen-euro-fighter/5252790",
-      "summary": "Aircraft at core of the Future Combat Air System canned as parties could not decide who leads on the work",
-      "published": "Wed, 10 Jun 2026 10:30:00 +0200",
+      "title": "SpacemiT shows off usably quick RISC-V mini desktop",
+      "link": "https://www.theregister.com/systems/2026/06/10/spacemit-shows-off-usably-quick-risc-v-mini-desktop/5252935",
+      "summary": "Actual RVA23 hardware and useful performance – for a certain price",
+      "published": "Wed, 10 Jun 2026 11:33:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5252810&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5252995&width=800"
     },
     {
-      "title": "Logitech knows when to fold 'em",
-      "link": "https://www.theregister.com/personal-tech/2026/06/10/logitech-knows-when-to-fold-em/5253196",
-      "summary": "Meet Mobi Fold - creased popster or clever portable mouse",
-      "published": "Wed, 10 Jun 2026 09:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5253221&width=800"
+      "title": "California Primed for Apocalyptic Earthquake, Geological Research Finds",
+      "link": "https://futurism.com/science-energy/california-primed-earthquake-geological-research",
+      "summary": "<p>Tectonic stresses have been building, and building, and building.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/california-primed-earthquake-geological-research\">California Primed for Apocalyptic Earthquake, Geological Research Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 10 Jun 2026 10:51:37 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/california-primed-earthquake-geological-research.jpg?quality=85"
     },
     {
-      "title": "Waymo says it built a better benchmark for comparing robotaxis to humans",
-      "link": "https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/",
-      "summary": "Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter.",
-      "published": "Wed, 10 Jun 2026 09:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_SIDE.jpg?resize=1200,801"
+      "title": "Scientists Have Detected Something Deeply Alarming at the Bottom of the Ocean",
+      "link": "https://futurism.com/future-society/scientists-alarming-atlantic-ocean-amoc",
+      "summary": "<p>\"It has implications for extreme weather events in North America and Europe.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/scientists-alarming-atlantic-ocean-amoc\">Scientists Have Detected Something Deeply Alarming at the Bottom of the Ocean</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 10 Jun 2026 09:39:04 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/scientists-alarming-atlantic-ocean-amoc.jpg?quality=85"
     },
     {
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "published": "Wed, 10 Jun 2026 07:05:26 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=1200"
-    },
-    {
-      "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
-      "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
-      "summary": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
-      "published": "Wed, 10 Jun 2026 03:35:07 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/lucid-gravity-main.jpg?resize=1200,675"
-    },
-    {
-      "title": "AI is making Patch Tuesday (kinda) fun again",
-      "link": "https://www.theregister.com/patches/2026/06/09/ai-is-making-patch-tuesday-kinda-fun-again/5253225",
-      "summary": "Unless you're an admin or vulnerability manager – then you're totally screwed",
-      "published": "Wed, 10 Jun 2026 00:49:16 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5253245&width=800"
-    },
-    {
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-      "published": "Wed, 10 Jun 2026 00:26:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800"
-    },
-    {
-      "title": "Salesforce cuts staff amid acquisition spree and $50 billion share buyback",
-      "link": "https://www.theregister.com/saas/2026/06/09/salesforce-layoffs-hit-amid-m3ter-acquisition-and-stock-buyback/5253162",
-      "summary": "The layoffs come after CEO Marc Benioff boasted of record revenue and 'incredible cashflow' two weeks ago",
-      "published": "Wed, 10 Jun 2026 00:01:07 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254426&width=800"
-    },
-    {
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-      "published": "Tue, 09 Jun 2026 23:17:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/JustinErnest_TechCrunch.jpg?resize=1200,675"
-    },
-    {
-      "title": "If your sex life is dead, you can blame Steve Jobs",
-      "link": "https://www.theregister.com/personal-tech/2026/06/09/study-links-iphone-rollout-to-decline-in-us-birth-rates/5253138",
-      "summary": "Economists find signs of a ‘large and causal relationship between iPhones and fertility' in AT&amp;T exclusivity-era data",
-      "published": "Tue, 09 Jun 2026 22:49:03 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=229069&width=800"
-    },
-    {
-      "title": "Anthropic spins a Fable of a tamer, safer Mythos",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/09/anthropic-spins-a-fable-of-a-tamer-safer-mythos/5253106",
-      "summary": "Company also changes data retention policy",
-      "published": "Tue, 09 Jun 2026 21:32:13 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5253132&width=800"
+      "title": "College Students Are Rapidly Losing the Ability to Read",
+      "link": "https://futurism.com/future-society/college-students-losing-ability-read",
+      "summary": "<p>\"There is a measurable, generational collapse in sustained reading and writing.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/college-students-losing-ability-read\">College Students Are Rapidly Losing the Ability to Read</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 10 Jun 2026 08:44:39 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/college-students-losing-ability-read.jpg?quality=85"
     },
     {
       "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
@@ -106,36 +210,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg"
     },
     {
-      "title": "GM joins race to build batteries for AI data centers and the grid",
-      "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
-      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
-      "published": "Tue, 09 Jun 2026 21:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800"
-    },
-    {
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
       "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
       "published": "Tue, 09 Jun 2026 20:56:52 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
-    },
-    {
-      "title": "Hey, Siri, here’s what I actually want from AI",
-      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-      "published": "Tue, 09 Jun 2026 20:50:17 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801"
-    },
-    {
-      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-      "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-      "published": "Tue, 09 Jun 2026 20:37:49 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?resize=1200,871"
     },
     {
       "title": "Three key vital signs make up the \"urban pulse\" of a city",
@@ -162,22 +242,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1185995584.jpg"
     },
     {
-      "title": "Miasma worms its way onto GitHub as attack kit goes open source",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/09/miasma-supply-chain-attack-toolkit-goes-public-on-github/5253074",
-      "summary": "As if there weren't enough package poisonings to worry about",
-      "published": "Tue, 09 Jun 2026 20:05:50 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242669&width=800"
-    },
-    {
-      "title": "MIT boffins take electrospray nozzles out of the cleanroom, into the 3D printer",
-      "link": "https://www.theregister.com/science/2026/06/09/mit-3d-prints-electrospray-nozzles-for-three-layer-drug-delivery/5253017",
-      "summary": "Who said sub-millimeter, three-layer science juice had to be expensive to squirt?",
-      "published": "Tue, 09 Jun 2026 19:31:47 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5253040&width=800"
-    },
-    {
       "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
       "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
       "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
@@ -194,14 +258,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
     },
     {
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-      "published": "Tue, 09 Jun 2026 18:56:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675"
-    },
-    {
       "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
       "link": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
       "summary": "\"Artemis III will be an extraordinary demonstration of what is possible.\"",
@@ -210,44 +266,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1-1152x648.jpg"
     },
     {
-      "title": "Apple’s iOS 27 goes all agentic on compromised passwords, promises to change them with one tap",
-      "link": "https://www.theregister.com/personal-tech/2026/06/09/apples-ios-27-goes-all-agentic-on-compromised-passwords/5252957",
-      "summary": "iBiz might not win the AI race, but analysts say it's focusing on features people may actually use",
-      "published": "Tue, 09 Jun 2026 18:13:31 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252544&width=800"
-    },
-    {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "published": "Tue, 09 Jun 2026 18:04:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186"
-    },
-    {
-      "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
-      "link": "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
-      "summary": "The chances are low, but not zero.",
-      "published": "Tue, 09 Jun 2026 17:09:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
-    },
-    {
       "title": "NASA’s Next Moon Mission Is a Rube Goldberg Machine of Corporate Failure Points",
       "link": "https://futurism.com/space/nasa-moon-mission-corporate-failure-points",
       "summary": "<p>It's an extremely ambitious plan.</p>\n<p>The post <a href=\"https://futurism.com/space/nasa-moon-mission-corporate-failure-points\">NASA&#8217;s Next Moon Mission Is a Rube Goldberg Machine of Corporate Failure Points</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 09 Jun 2026 16:55:23 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/nasa-moon-mission-corporate-failure-points.jpg?quality=85"
-    },
-    {
-      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
-      "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
-      "summary": "Meta won't say why or whether it's coming back.",
-      "published": "Tue, 09 Jun 2026 16:31:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/zuck-1152x648.jpg"
     },
     {
       "title": "Sam Altman’s Eyeball Scanning Company Now Laying Off Workers",
@@ -298,108 +322,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/mcdonalds-deploys-ai-powered-drive-thru.jpg?quality=85"
     },
     {
-      "title": "Argentina Moves to Legalize “Non-Human Corporations” Run by AI",
-      "link": "https://futurism.com/artificial-intelligence/argentina-legalize-non-human-corporations-ai",
-      "summary": "<p>\"Keep AI unregulated.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/argentina-legalize-non-human-corporations-ai\">Argentina Moves to Legalize &#8220;Non-Human Corporations&#8221; Run by AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 09 Jun 2026 08:47:16 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/argentina-legalize-non-human-corporations-ai.jpg?quality=85"
-    },
-    {
-      "title": "If You Think AI Companies Are Unethical Now, Wait Until They Go Public",
-      "link": "https://futurism.com/artificial-intelligence/ai-companies-going-public-ethics",
-      "summary": "<p>It's going to get messy.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-companies-going-public-ethics\">If You Think AI Companies Are Unethical Now, Wait Until They Go Public</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 08 Jun 2026 17:13:30 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/ai-companies-going-public-ethics.jpg?quality=85"
-    },
-    {
-      "title": "You Can Now Get a Religious Exemption From Using AI at Work",
-      "link": "https://futurism.com/artificial-intelligence/religious-exemption-ai-work",
-      "summary": "<p>Thank God.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/religious-exemption-ai-work\">You Can Now Get a Religious Exemption From Using AI at Work</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 08 Jun 2026 16:01:05 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/religious-exemption-using-ai-work.jpg?quality=85"
-    },
-    {
-      "title": "Microsoft is disabling Office 2019 for Mac next month",
-      "link": "https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit",
-      "summary": "Microsoft's Office 2019 apps for Mac will stop working next month, because the company isn't renewing a certificate that validates Office licenses. Owners of Office 2019 for Mac are being warned they'll have to purchase Office 2024 or a Microsoft 365 subscription if they want to continue editing documents. Microsoft previously promised that \"all your [&#8230;]",
-      "published": "2026-06-10T05:14:35-04:00",
+      "title": "Boox’s quirky page-turning remote won me over",
+      "link": "https://www.theverge.com/tech/943699/slug-boox-tappy-wireless-bluetooth-remote-page-turn-android-ios-hands-on",
+      "summary": "Following the launch of the surprisingly popular Kobo Remote, Boox has released its own device to ease the burden of reaching for an e-reader’s touchscreen that’s an arm’s length away. The Tappy isn’t Boox’s first page-turning remote, but its design takes a much different approach to the company’s slim but boring B.T. Remoter. The Tappy [&#8230;]",
+      "published": "2026-06-10T11:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxtappy7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Waymo built a virtual driver to study how humans react to surprises on the road",
-      "link": "https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision",
-      "summary": "Waymo has a lot of experience building virtual systems to help its autonomous vehicles better understand the real world. It built realistic 3D worlds to better anticipate natural disasters and unpredictable edge cases. It created a virtual representation of a hyperattentive driver to test against its own autonomous vehicles in a series of simulated scenarios [&#8230;]",
-      "published": "2026-06-10T05:00:00-04:00",
+      "title": "The Apple Watch Series 11 is back to its best price",
+      "link": "https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale",
+      "summary": "Apple&#8217;s upcoming watchOS 27 update will bring Siri AI and other exciting features to the Apple Watch Series 9 and newer Apple Watch models. If you&#8217;re contemplating an upgrade, all colorways of the GPS-enabled 42mm Apple Watch Series 11 — the latest model — are on sale for $299 ($100 off) at Amazon, Walmart, and [&#8230;]",
+      "published": "2026-06-10T10:57:20-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Apple-Watch-Series-11-deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "WhatsApp ordered to host rival AI assistants for free",
-      "link": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
-      "summary": "Meta has been ordered by the European Commission to restore free WhatsApp access for chatbots made by rival AI providers while the regulator finishes its antitrust investigation. The rare interim measure announced on Tuesday was deemed necessary \"to prevent serious and irreparable damage to competition\" in the general-purpose AI assistant market. This is only the [&#8230;]",
-      "published": "2026-06-10T04:40:56-04:00",
+      "title": "Valve is phasing out physical Steam gift cards due to scammers",
+      "link": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers",
+      "summary": "After over a decade, Steam will no longer sell physical gift cards in stores. In a support page spotted earlier by Windows Central, Valve says it will no longer restock its gift cards once they run out, citing scammers who \"continue to have an impact on Steam customers and other unsuspecting individuals.\" In its post, [&#8230;]",
+      "published": "2026-06-10T10:10:38-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK110_whats_app_Kradtke_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK138_Stream_Kradtke_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse",
-      "link": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on",
-      "summary": "Logitech finally announced its new ultraportable travel mouse following leaked marketing images that spoiled the surprise last month. As the name implies, the Mobi Fold is a compact mouse that can  fold in half using a hinge that can pivot about 130 degrees. At $79.99 in graphite, off-white, lilac, and sand color options, the Mobi [&#8230;]",
-      "published": "2026-06-10T03:01:00-04:00",
+      "title": "Five questions for the duo behind The Pelley Minutes",
+      "link": "https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes",
+      "summary": "Websites are so back! Today's website worth visiting is The Pelley Minutes, a clever project that puts the career of longtime 60 Minutes correspondent Scott Pelley into perspective. The show may only be 60 minutes long, but Pelley racked up nearly 37,000 minutes in his 37-year long career, reporting on almost everything humanity has put [&#8230;]",
+      "published": "2026-06-10T10:06:17-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/logitech10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2241234162.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "I tried Siri AI, and so far it actually works",
-      "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After [&#8230;]",
-      "published": "2026-06-09T19:43:00-04:00",
+      "title": "The Social Reckoning trailer gives us our first look at Jeremy Strong as Zuck",
+      "link": "https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook",
+      "summary": "Over 15 years after David Fincher and Aaron Sorkin's The Social Network premiered in theaters, Sony has released the first trailer for The Social Reckoning ahead of its theatrical release on October 9th. The follow-up takes place 17 years after the events portrayed in the original film and follows a young Facebook engineer who enlists [&#8230;]",
+      "published": "2026-06-10T10:02:44-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/zuck.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Congress just gave DHS another $70 billion",
-      "link": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
-      "summary": "Congress narrowly voted to fund President Donald Trump's mass deportation agenda, giving the Department of Homeland Security $70 billion over the next three years. The house voted 214 to 212 in favor of the reconciliation bill Tuesday, following the Senate's 52-47 vote last Friday morning. The vote fell largely along party lines. Sen. Lisa Murkowski [&#8230;]",
-      "published": "2026-06-09T17:34:46-04:00",
+      "title": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
+      "link": "https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale",
+      "summary": "Ahead of Prime Day, Walmart is offering the best price we’ve seen yet on the Apple AirPods 3 wireless earbuds. Originally $249 (though commonly selling somewhere between $200 and $220), they’re $179 at Walmart, presumably for a limited time. If you have an iPhone, these are the best wireless earbuds you can get at this [&#8230;]",
+      "published": "2026-06-10T10:00:06-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The App Store is going to add subscription bundles soon",
-      "link": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
-      "summary": "Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple announced it's expanding App Store bundles so they can include offers from different companies. It's similar to streaming video bundles that have combined offers for Apple TV and Peacock, but it also could put together subscriptions for completely different [&#8230;]",
-      "published": "2026-06-09T17:30:48-04:00",
+      "title": "I’m relieved Siri AI isn’t trying to be a health coach",
+      "link": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's WWDC coverage. You can expect our next issue at its usual time next [&#8230;]",
+      "published": "2026-06-10T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-      "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a [&#8230;]",
-      "published": "2026-06-09T17:00:00-04:00",
+      "title": "Google’s Nest Cam with Floodlight is selling at its lowest price yet",
+      "link": "https://www.theverge.com/gadgets/947264/google-nest-cam-floodlight-deal-sale",
+      "summary": "The Google Nest Cam with Floodlight is marked down to $179.99 ($100 off) at multiple retailers, including Amazon, Best Buy, Home Depot, and directly from Google. This weather-resistant outdoor camera captures 1080p video across a 130-degree diagonal field of view, with snappy notifications and great customization options. Even without a subscription, the camera can store [&#8230;]",
+      "published": "2026-06-10T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23055509/jtuohy_211011_4898_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I [&#8230;]",
-      "published": "2026-06-09T16:24:25-04:00",
+      "title": "AT&#038;T is launching $3 ‘unlimited’ day passes for iPads",
+      "link": "https://www.theverge.com/tech/947574/att-unlimited-day-pass-ipad-data-plan",
+      "summary": "AT&#38;T has introduced a new \"Unlimited Day Pass\" cellular data offer for iPad users who need brief connectivity instead of signing up for a long-term plan. The day pass is available for $3 in the US starting today, providing 24 hours of unlimited data, with no contracts, subscriptions, or credit checks required. This offer is [&#8230;]",
+      "published": "2026-06-10T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/M5-iPad-Pro-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Nintendo is playing things too safe",
-      "link": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
-      "summary": "Tuesday's Nintendo Direct showcase felt like an important moment for the company. With the Switch 2 heading into its second holiday season, one in which the hardware will be even more expensive thanks to a price hike, it was a chance for Nintendo to really sell new audiences on its latest console - but that's [&#8230;]",
-      "published": "2026-06-09T15:01:04-04:00",
+      "title": "Insta360’s Luna Ultra 8K stabilized camera is now available in the US",
+      "link": "https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing",
+      "summary": "Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna Ultra features a pair of 8K cameras atop a 3-axis gimbal, offering an upgrade to DJI's Osmo Pocket 4 and Pocket 4P, which both max [&#8230;]",
+      "published": "2026-06-10T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NintendoSwitch2_TheLegendofZelda_OcarinaofTime_Screenshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/insta360lunaultra1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
