@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T20:26:48.967046",
+  "lastUpdated": "2026-06-12T04:26:39.709655",
   "articles": [
     {
       "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
@@ -10,22 +10,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-1152x648-1780778332.jpg"
     },
     {
-      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
-      "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-      "summary": "Lawsuit: \"Police let an error-prone AI system stand in for an investigation.\"",
-      "published": "Wed, 10 Jun 2026 21:30:44 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-1152x648.jpg"
-    },
-    {
-      "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
-      "link": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
-      "summary": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
-      "published": "Wed, 10 Jun 2026 19:57:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-1152x648.jpg"
-    },
-    {
       "title": "Trump Moves to Deeply Censor the Entire Internet",
       "link": "https://futurism.com/future-society/trump-moves-to-deeply-censor-the-entire-internet",
       "summary": "<p>\"Taken together, these bills would fundamentally change the internet as we know it.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/trump-moves-to-deeply-censor-the-entire-internet\">Trump Moves to Deeply Censor the Entire Internet</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -34,20 +18,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-moves-to-deeply-censor-the-entire-internet.jpg?quality=85"
     },
     {
-      "title": "Google DeepMind Partner Posts Video of Fake Humanoid Robot",
-      "link": "https://futurism.com/robots-and-machines/google-deepmind-partner-video-fake-humanoid-robot",
-      "summary": "<p>\"Isn't that, like, misleading?\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/google-deepmind-partner-video-fake-humanoid-robot\">Google DeepMind Partner Posts Video of Fake Humanoid Robot</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 10 Jun 2026 15:24:19 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/google-deepmind-partner-video-fake-humanoid-robot.jpg?quality=85"
+      "title": "Everyone hates frontier AI labs, says Palantir boss",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/11/everyone-hates-frontier-ai-labs-says-palantir-boss/5254516",
+      "summary": "'Enterprises are fed up,' says Alex Karp, because LLM makers 'want to tokenmax' instead of understanding enterprise needs",
+      "published": "Thu, 11 Jun 2026 22:54:43 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094191&width=800"
     },
     {
-      "title": "ShinyHunters claims it hacked 100 orgs by exploiting an Oracle PeopleSoft 0-day",
+      "title": "Anthropic recruits army to sell Claude to nonprofits",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/11/anthropic-hires-1000-fellows-to-push-claude-into-nonprofits/5254489",
+      "summary": "Join Claude Corps, see the world, spread the gospel of AI",
+      "published": "Thu, 11 Jun 2026 21:29:14 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=178980&width=800"
+    },
+    {
+      "title": "ShinyHunters hacked 100+ orgs by exploiting an Oracle PeopleSoft 0-day",
       "link": "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-claims-oracle-peoplesoft-0-day-hit-100-orgs/5254443",
       "summary": "University of Nottingham is first of many, Shiny tells The Reg",
       "published": "Thu, 11 Jun 2026 21:01:16 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5254486&width=800"
+    },
+    {
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "published": "Thu, 11 Jun 2026 20:33:10 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/spacex-falcon-9.jpeg?resize=1200,675"
     },
     {
       "title": "Google's new open-weights model brings image-generation tricks to AI text generation",
@@ -58,12 +58,20 @@
       "image_url": "https://image.theregister.com/?imageId=5254430&width=800"
     },
     {
+      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+      "published": "Thu, 11 Jun 2026 20:27:25 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/oracle-logo-nyse.jpg?resize=1200,800"
+    },
+    {
       "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
       "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
       "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
       "published": "Thu, 11 Jun 2026 19:58:01 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/spacex-in-brief.jpg?resize=1200,675"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899"
     },
     {
       "title": "Microsoft's worst 'Nightmare' unleashes BitLocker bypass 0-day",
@@ -82,12 +90,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024"
     },
     {
+      "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
+      "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
+      "summary": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
+      "published": "Thu, 11 Jun 2026 19:31:37 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ted-cruz-ron-wyden-1152x648-1781205333.jpg"
+    },
+    {
       "title": "Hand-cranked AI box lets you get a workout while you wait for answers",
       "link": "https://www.theregister.com/offbeat/2026/06/11/hand-cranked-ai-box-lets-you-get-a-workout-while-you-wait-for-answers/5254333",
       "summary": "We're all familiar with AI cranks by now, but what about crank-powered AIs?",
       "published": "Thu, 11 Jun 2026 19:21:30 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5254403&width=800"
+    },
+    {
+      "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
+      "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
+      "summary": "The old app \"still needs to be retired,\" AcuRite tells us.",
+      "published": "Thu, 11 Jun 2026 19:08:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/AcuRite-Optimus-1152x648-1781203140.jpg"
     },
     {
       "title": "Graviton 5 impresses, but please, for the love of all that's holy, stop calling them 'AI chips'",
@@ -130,30 +154,6 @@
       "image_url": "https://image.theregister.com/?imageId=211751&width=800"
     },
     {
-      "title": "VRChat says somebody faked a breach notice with the Maine AG's office",
-      "link": "https://www.theregister.com/security/2026/06/11/24m-vrchat-users-data-accessed-following-cloud-breach/5254246",
-      "summary": "'We have no reason to believe that our data or systems have been compromised. We are in the process of contacting the Maine Attorney General's office to have this removed.'",
-      "published": "Thu, 11 Jun 2026 18:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5254260&width=800"
-    },
-    {
-      "title": "Cost per sample? Try cost per attempt",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/11/cost-per-sample-try-cost-per-attempt/5254313",
-      "summary": "PARTNER CONTENT Your genomics pipeline is probably failing 30% of the time and you're paying for all of it",
-      "published": "Thu, 11 Jun 2026 17:53:56 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093503&width=800"
-    },
-    {
-      "title": "Apple gives Mac devs a WSL-ish thing to call their own",
-      "link": "https://www.theregister.com/devops/2026/06/11/apple-gives-mac-devs-a-wsl-ish-thing-to-call-their-own/5254153",
-      "summary": "Persistent containers promise native tooling and strong isolation, though docs, features, and memory handling need polish",
-      "published": "Thu, 11 Jun 2026 17:46:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682845&width=800"
-    },
-    {
       "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
       "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
       "summary": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
@@ -186,6 +186,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Bridenstine-Quantum-Spcae.jpeg?w=1080"
     },
     {
+      "title": "Bill Gates Offers Bizarre Excuse About Epstein",
+      "link": "https://futurism.com/future-society/bill-gates-offers-bizarre-excuse-about-epstein",
+      "summary": "<p>That's what he's going with?</p>\n<p>The post <a href=\"https://futurism.com/future-society/bill-gates-offers-bizarre-excuse-about-epstein\">Bill Gates Offers Bizarre Excuse About Epstein</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 11 Jun 2026 16:44:43 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/bill-gates-offers-bizarre-excuse-about-epstein.jpg?quality=85"
+    },
+    {
       "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
       "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
       "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
@@ -194,44 +202,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800"
     },
     {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "published": "Thu, 11 Jun 2026 16:17:50 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800"
-    },
-    {
-      "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
-      "link": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
-      "summary": "Members of the program, called \"Waymo Premier,\" will have to pony up $29.99 per month.",
-      "published": "Thu, 11 Jun 2026 16:00:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/waymo-premier.png?resize=1200,675"
-    },
-    {
-      "title": "Pool’s new app turns your screenshots into something useful",
-      "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-      "published": "Thu, 11 Jun 2026 15:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/hero.jpg?resize=1200,704"
-    },
-    {
       "title": "Teardown of Trump Phone Reveals Incredibly Embarrassing Secret",
       "link": "https://futurism.com/advanced-transport/trump-phone-teardown",
       "summary": "<p>\"I’m failing to find any stirring of American pride within me.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/trump-phone-teardown\">Teardown of Trump Phone Reveals Incredibly Embarrassing Secret</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 11 Jun 2026 15:28:29 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-phone-teardown.jpg?quality=85"
-    },
-    {
-      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
-      "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
-      "summary": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.",
-      "published": "Thu, 11 Jun 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?resize=1200,800"
     },
     {
       "title": "These Logs of ChatGPT Allegedly Driving a Suicidal Woman to Her Death Are Deeply Disturbing",
@@ -322,6 +298,46 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/solar-produced-more-electricity-coal-united-states.jpg?quality=85"
     },
     {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "published": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/THEKER-photo-seriesA.jpg?resize=1200,799"
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "published": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024"
+    },
+    {
+      "title": "Claude is ready for its corporate close-up",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/11/claude-is-ready-for-its-corporate-close-up/5254565",
+      "summary": "IDC says recent moves show Anthropic racing to meet enterprise requirements",
+      "published": "Fri, 12 Jun 2026 00:43:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5254628&width=800"
+    },
+    {
+      "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
+      "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and controls on the [&#8230;]",
+      "published": "2026-06-11T18:06:32-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
+      "link": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
+      "summary": "The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year. While it may look like a somewhat ordinary mouse, it has a unique second scroll wheel near the left thumb that’s surprisingly useful for horizontal scrolling in spreadsheets. You [&#8230;]",
+      "published": "2026-06-11T16:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23578031/jporter_220516_5225_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
       "link": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
       "summary": "You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99. The bundle includes a Blink Battery Doorbell 2K+, five Blink Outdoor 2K+ cameras, and a Blink Sync Module Core. The doorbell is typically [&#8230;]",
@@ -384,22 +400,6 @@
       "published": "2026-06-11T12:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268579_Arturia_MiniLab_37_TOBrien_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Elon Musk is encouraging race riots on the eve of SpaceX’s IPO",
-      "link": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
-      "summary": "Elon Musk, on the verge of becoming the world's first trillionaire, is whipping up anti-immigration tensions amid ongoing riots in Belfast, Northern Ireland. Following a knife attack in the city on Monday, Musk declared support for Restore Britain, a hard-right populist political party that advocates for large-scale migrant deportation in the UK. He reposted statements [&#8230;]",
-      "published": "2026-06-11T11:51:27-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Is Apple TV the new HBO?",
-      "link": "https://www.theverge.com/column/948295/apple-tv-new-hbo",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Severance. Pachinko. Silo. Ted Lasso. Over the past couple of years, a number of Apple TV shows have become hits with audiences and critics alike. And yet, compared to the [&#8230;]",
-      "published": "2026-06-11T11:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Severance_Photo_020912.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
