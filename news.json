@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T20:16:28.860672",
+  "lastUpdated": "2026-06-13T04:15:19.837395",
   "articles": [
     {
       "title": "Bill Gates Offers Bizarre Excuse About Epstein",
@@ -18,12 +18,108 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-phone-teardown.jpg?quality=85"
     },
     {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "published": "Sat, 13 Jun 2026 04:14:19 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1487822193.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+      "published": "Sat, 13 Jun 2026 03:00:34 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-1152x648.webp"
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024"
+    },
+    {
+      "title": "NanoClaw now armed with JFrog for safer packages",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/13/nanoclaw-integrates-jfrog-registries-to-secure-ai-agent-downloads/5255189",
+      "summary": "AI agents can't be trusted, so don't give them dangerous powers",
+      "published": "Sat, 13 Jun 2026 01:07:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5255209&width=800"
+    },
+    {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "published": "Fri, 12 Jun 2026 20:04:38 +0000",
+      "published": "Fri, 12 Jun 2026 23:15:14 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801"
+    },
+    {
+      "title": "SK Hynix to boost memory production 3x ... you can wait another 8 years, right?",
+      "link": "https://www.theregister.com/systems/2026/06/12/sk-hynix-to-triple-wafer-capacity-by-2034/5255151",
+      "summary": "We're moving as fast as we can, says SK Group chair",
+      "published": "Fri, 12 Jun 2026 23:05:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257233&width=800"
+    },
+    {
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "published": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024"
+    },
+    {
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
+      "published": "Fri, 12 Jun 2026 22:20:06 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg"
+    },
+    {
+      "title": "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
+      "link": "https://www.theregister.com/software/2026/06/12/github-outages-persist-as-ai-coding-drives-traffic-surge/5255125",
+      "summary": "GitHub caught off guard by customers actually using the AI being evangelized",
+      "published": "Fri, 12 Jun 2026 22:12:17 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5255148&width=800"
+    },
+    {
+      "title": "MX Linux 25.2 provides possible refuge from AI as well as systemd",
+      "link": "https://www.theregister.com/software/2026/06/12/mx-linux-252-arrives-with-switchable-init-and-pi-refresh/5255017",
+      "summary": "Plus, Raspberry Pi edition finally catches up",
+      "published": "Fri, 12 Jun 2026 21:10:33 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5255113&width=800"
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "published": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
+    },
+    {
+      "title": "Fired IT worker jailed for 21 months after sabotaging old school district",
+      "link": "https://www.theregister.com/security/2026/06/12/fired-it-worker-jailed-for-21-months-after-sabotaging-old-school-district/5254983",
+      "summary": "Iowan’s scheme undone after misplacing trust in former coworker",
+      "published": "Fri, 12 Jun 2026 20:21:24 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5252125&width=800"
+    },
+    {
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+      "published": "Fri, 12 Jun 2026 20:20:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800"
     },
     {
       "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
@@ -66,14 +162,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1845540332-1152x648.jpg"
     },
     {
-      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
-      "link": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
-      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
-      "published": "Fri, 12 Jun 2026 18:20:50 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800"
-    },
-    {
       "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
       "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
       "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
@@ -96,14 +184,6 @@
       "published": "Fri, 12 Jun 2026 17:38:11 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
-    },
-    {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "published": "Fri, 12 Jun 2026 17:26:08 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
     },
     {
       "title": "$130 billion in data center projects blocked by protests so far this year",
@@ -146,22 +226,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815"
     },
     {
-      "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
-      "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
-      "summary": "NYT reported Kennedy is disengaged. Kennedy's response seems to show NYT is right.",
-      "published": "Fri, 12 Jun 2026 16:19:44 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277525981-1152x648.jpg"
-    },
-    {
-      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
-      "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-      "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
-      "published": "Fri, 12 Jun 2026 15:55:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789850.jpg?resize=1200,800"
-    },
-    {
       "title": "Novo Nordisk reports cyberattack as UK gives Wegovy pill the nod",
       "link": "https://www.theregister.com/security/2026/06/12/novo-nordisk-says-hackers-stole-clinical-trial-data/5254812",
       "summary": "Clinical trial participant data stolen, but pharma giant says exposed records were pseudonymized",
@@ -176,14 +240,6 @@
       "published": "Fri, 12 Jun 2026 15:48:25 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/elon-musk-rocket-spacex-destroying-homes.jpg?quality=85"
-    },
-    {
-      "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
-      "link": "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
-      "summary": "More than 350,000 spectators will watch 62 cars compete, day and night.",
-      "published": "Fri, 12 Jun 2026 15:34:37 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280229158-1152x648.jpg"
     },
     {
       "title": "Prime Minister of the UK Vows to Unleash AI Tutors on 450,000 Poor Children",
@@ -218,20 +274,12 @@
       "image_url": "https://image.theregister.com/?imageId=263130&width=800"
     },
     {
-      "title": "SpaceX’s IPO Shows That We Weren’t Even Close to Peak AI Bubble",
+      "title": "SpaceX’s IPO Shows That We Aren’t Even Close to Peak AI Bubble",
       "link": "https://futurism.com/future-society/spacex-ipo-ai-bubble",
-      "summary": "<p>We're soaring to even loftier heights.</p>\n<p>The post <a href=\"https://futurism.com/future-society/spacex-ipo-ai-bubble\">SpaceX&#8217;s IPO Shows That We Weren&#8217;t Even Close to Peak AI Bubble</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>We're soaring to even loftier heights.</p>\n<p>The post <a href=\"https://futurism.com/future-society/spacex-ipo-ai-bubble\">SpaceX&#8217;s IPO Shows That We Aren&#8217;t Even Close to Peak AI Bubble</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 12 Jun 2026 13:51:43 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-ipo-ai-bubble.jpg?quality=85"
-    },
-    {
-      "title": "SpaceX's $75B IPO has investors seeing stars",
-      "link": "https://www.theregister.com/offbeat/2026/06/12/spacexs-75b-ipo-has-investors-seeing-stars/5254677",
-      "summary": "It might also make Musk the world's first trillionaire",
-      "published": "Fri, 12 Jun 2026 13:38:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238835&width=800"
     },
     {
       "title": "AI Bro Convinced He Can Vibe Code GTA 6 Before the Real One Comes Out",
@@ -242,52 +290,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/ai-bro-vibe-code-gta-6.jpg?quality=85"
     },
     {
-      "title": "Met Police boss threatens to cut 700 frontline jobs after Palantir deal blocked",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/12/met-police-boss-threatens-to-cut-700-frontline-jobs-after-palantir-deal-blocked/5254722",
-      "summary": "Commissioner Mark Rowley says automation savings are now 'at risk'",
-      "published": "Fri, 12 Jun 2026 12:51:21 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=242353&width=800"
-    },
-    {
-      "title": "Plymouth council exposes hundreds in latest local government email gaffe",
-      "link": "https://www.theregister.com/security/2026/06/12/plymouth-council-exposes-hundreds-in-latest-local-government-email-gaffe/5254707",
-      "summary": "Authority admits mass message to home-schooling families revealed recipients' addresses, prompting ICO report and apology",
-      "published": "Fri, 12 Jun 2026 12:32:49 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5254719&width=800"
-    },
-    {
-      "title": "UK digital ID gets brain trust to 'challenge' ministers on policy",
-      "link": "https://www.theregister.com/public-sector/2026/06/12/uk-digital-id-gets-brain-trust-to-challenge-ministers-on-policy/5254650",
-      "summary": "CEO of Mumsnet among the six-member team",
-      "published": "Fri, 12 Jun 2026 12:13:24 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683988&width=800"
-    },
-    {
       "title": "Nike’s AI-Inspired World Cup Jerseys Are So Messed Up That They’re Turning Into a Scandal",
       "link": "https://futurism.com/future-society/nike-ai-world-cup-jerseys-scandal",
       "summary": "<p>They still look ridiculous.</p>\n<p>The post <a href=\"https://futurism.com/future-society/nike-ai-world-cup-jerseys-scandal\">Nike&#8217;s AI-Inspired World Cup Jerseys Are So Messed Up That They&#8217;re Turning Into a Scandal</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 12 Jun 2026 11:49:37 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/nike-ai-world-cup-jerseys-scandal.jpg?quality=85"
-    },
-    {
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-      "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-      "summary": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-      "published": "Fri, 12 Jun 2026 11:43:32 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2014/07/nsa-red.jpg?resize=1200,675"
-    },
-    {
-      "title": "BOFH: For one ambitious security type, chaos is a ladder",
-      "link": "https://www.theregister.com/bofh/2026/06/12/bofh-for-one-ambitious-security-type-chaos-is-a-ladder/5254638",
-      "summary": "Mission Control sends its regards",
-      "published": "Fri, 12 Jun 2026 11:17:13 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5254661&width=800"
     },
     {
       "title": "Extremely Unflattering Statue of Elon Musk Appears in Times Square, Complete With Horrifying Slogan",
@@ -314,12 +322,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/data-spacex-ipo-wincing.jpg?quality=85"
     },
     {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "published": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?resize=1200,685"
+      "title": "Valve just imported 13 tons of VR headsets in one day",
+      "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribution partner Ceva offloaded nearly 32 metric tons [&#8230;]",
+      "published": "2026-06-12T21:32:18-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0057.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Nothing CEO says phone prices are going to keep going up",
@@ -392,14 +400,6 @@
       "published": "2026-06-12T10:03:39-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "SpaceX is now public",
-      "link": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk",
-      "summary": "SpaceX is now a publicly traded company. In one of the most highly anticipated and controversial public offerings of all time, the rocket venture helmed by Elon Musk started trading on Nasdaq on June 12th at the take-it-or-leave-it price of $135-per-share - though most retail investors will likely pay far more. The IPO is historic [&#8230;]",
-      "published": "2026-06-12T09:54:49-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
