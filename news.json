@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-15T21:09:47.775289",
+  "lastUpdated": "2026-06-16T04:56:41.157528",
   "articles": [
+    {
+      "title": "A modest proposal: Reformat everything to make documents more palatable to AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/5255938",
+      "summary": "What's up, DocLang?",
+      "published": "Tue, 16 Jun 2026 01:23:21 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5255961&width=800"
+    },
     {
       "title": "Woman’s Death Blamed on Hospital’s AI System",
       "link": "https://futurism.com/artificial-intelligence/woman-death-hospital-brazil-ai-icu-beds",
@@ -8,14 +16,6 @@
       "published": "Sun, 14 Jun 2026 18:45:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/woman-death-hospital-brazil-ai-icu-beds.jpg?quality=85"
-    },
-    {
-      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
-      "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-      "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066.",
-      "published": "Sun, 14 Jun 2026 16:02:53 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-1152x648-1781448851.jpg"
     },
     {
       "title": "Humanoid Robot Preparing to Climb Mount Everest",
@@ -34,12 +34,68 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/nasa-moon-rocket-trump-train.jpg?quality=85"
     },
     {
-      "title": "Scientists Investigate Strange Rumbling Beneath Utah",
-      "link": "https://futurism.com/science-energy/strange-rumbling-deep-mantle-earthquakes-utah",
-      "summary": "<p>\"It’s sort of a mystery in terms of fundamental physics.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/strange-rumbling-deep-mantle-earthquakes-utah\">Scientists Investigate Strange Rumbling Beneath Utah</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 14 Jun 2026 11:15:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/strange-rumbling-deep-mantle-earthquakes-utah.jpg?quality=85"
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "published": "Mon, 15 Jun 2026 23:51:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191"
+    },
+    {
+      "title": "Cisco SD-WAN make-me-root bug under attack",
+      "link": "https://www.theregister.com/patches/2026/06/15/cisco-sd-wan-make-me-root-bug-under-attack/5255916",
+      "summary": "Second Catalyst SD-WAN Manager flaw exploited as an 0-day this month",
+      "published": "Mon, 15 Jun 2026 23:48:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5244089&width=800"
+    },
+    {
+      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+      "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+      "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience.",
+      "published": "Mon, 15 Jun 2026 23:40:38 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/spectrumroll-1152x648.jpg"
+    },
+    {
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak, says researcher",
+      "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "summary": "According to the one person who actually read the research paper",
+      "published": "Mon, 15 Jun 2026 23:07:26 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5255863&width=800"
+    },
+    {
+      "title": "DARPA seeks swappable satellites to help with future star wars",
+      "link": "https://www.theregister.com/offbeat/2026/06/15/darpa-seeks-swappable-satellites-to-help-with-future-star-wars/5255839",
+      "summary": "Worried that an unexpected strike could take out critical orbital systems, Pentagon researchers want to know how fast the industry thinks it could launch replacements",
+      "published": "Mon, 15 Jun 2026 22:17:07 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262824&width=800"
+    },
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "published": "Mon, 15 Jun 2026 21:50:21 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/trump-2267050833.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic reserves right to check ID for Claude subs",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/15/anthropic-reserves-right-to-check-id-for-claude-subs/5255804",
+      "summary": "How can I help you today? Present your papers to begin",
+      "published": "Mon, 15 Jun 2026 21:39:42 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5235229&width=800"
+    },
+    {
+      "title": "Heart protection from COVID shots remains amid updates, study finds",
+      "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+      "summary": "Despite continued benefits, anti-vaccine rhetoric has driven down vaccination.",
+      "published": "Mon, 15 Jun 2026 21:04:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1232060072-1152x648.jpeg"
     },
     {
       "title": "HPE offers VMware refugees a year off the meter",
@@ -56,6 +112,14 @@
       "published": "Mon, 15 Jun 2026 20:14:04 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/social-apps-1152x648.jpg"
+    },
+    {
+      "title": "Woman “Seriously and Permanently Injured” by Egg McMuffin, Lawsuit Alleges",
+      "link": "https://futurism.com/future-society/woman-permanently-injured-egg-mcmuffin-lawsuit-mcdonalds",
+      "summary": "<p>“Wholly unfit for human consumption.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/woman-permanently-injured-egg-mcmuffin-lawsuit-mcdonalds\">Woman &#8220;Seriously and Permanently Injured&#8221; by Egg McMuffin, Lawsuit Alleges</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 15 Jun 2026 20:01:54 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/woman-permanently-injured-egg-mcmuffin-lawsuit-mcdonalds.jpg?quality=85"
     },
     {
       "title": "Council of Europe hacked in ShinyHunters' PeopleSoft heist",
@@ -130,28 +194,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1322884883-1152x648-1781545400.jpg"
     },
     {
-      "title": "NASA management wants a word and won't say why",
-      "link": "https://www.theregister.com/science/2026/06/15/nasa-management-wants-a-word-and-wont-say-why/5255702",
-      "summary": "A mystery calendar event is certainly one way to find out about being selected for the Artemis III crew",
-      "published": "Mon, 15 Jun 2026 18:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683213&width=800"
-    },
-    {
       "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
       "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
       "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
       "published": "Mon, 15 Jun 2026 17:55:46 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg"
-    },
-    {
-      "title": "Red Hat gives Ubuntu a bootc up the backside at Canonical shindig",
-      "link": "https://www.theregister.com/software/2026/06/15/red-hat-gives-ubuntu-a-bootc-up-the-backside-at-canonical-shindig/5255608",
-      "summary": "Bootable containers pitch shows how distro can be managed with familiar OCI tooling",
-      "published": "Mon, 15 Jun 2026 17:54:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252893&width=800"
     },
     {
       "title": "These are the countries moving to ban social media for children",
@@ -162,14 +210,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800"
     },
     {
-      "title": "Microsoft site throwing warnings after someone forgot to renew cert",
-      "link": "https://www.theregister.com/security/2026/06/15/microsoft-site-throwing-warnings-after-someone-forgot-to-renew-cert/5255597",
-      "summary": "Connectivity checker trips browser alarms thanks to lapsed security paperwork",
-      "published": "Mon, 15 Jun 2026 17:33:35 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5241525&width=800"
-    },
-    {
       "title": "Scientists Detect Hundreds of Earthquakes Deep Beneath Antarctica",
       "link": "https://futurism.com/future-society/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica",
       "summary": "<p>They say they've figured out what caused them.</p>\n<p>The post <a href=\"https://futurism.com/future-society/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica\">Scientists Detect Hundreds of Earthquakes Deep Beneath Antarctica</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -178,28 +218,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica.jpg?quality=85"
     },
     {
-      "title": "Europe's AI paralysis has a solution - and it starts with a semantic twin",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/15/europes-ai-paralysis-has-a-solution-and-it-starts-with-a-semantic-twin/5255303",
-      "summary": "PARTNER CONTENT: Onix's Wingspan platform promises to move enterprises from pilot purgatory to governed, enterprise-wide AI deployment in weeks, not years",
-      "published": "Mon, 15 Jun 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=237699&width=800"
-    },
-    {
       "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
       "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
       "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
       "published": "Mon, 15 Jun 2026 16:32:14 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-1152x648-1781292898.jpg"
-    },
-    {
-      "title": "Salesforce reels in customer support AI specialist Fin for $3.6B",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/15/salesforce-reels-in-customer-support-ai-specialist-fin-for-36b/5255571",
-      "summary": "Support bot maker claims its AI agents can resolve three-quarters of customer queries without human help",
-      "published": "Mon, 15 Jun 2026 16:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252462&width=800"
     },
     {
       "title": "Good news—we have extra time before the Sun ends life on Earth",
@@ -274,28 +298,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/ceos-reverse-course-ai-spending.jpg?quality=85"
     },
     {
-      "title": "Russia appears set to finally address long-term, serious space station cracks",
-      "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
-      "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
-      "published": "Mon, 15 Jun 2026 13:54:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-1024x648.jpg"
-    },
-    {
       "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
       "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
       "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
       "published": "Mon, 15 Jun 2026 13:46:08 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam.jpg?resize=1200,800"
-    },
-    {
-      "title": "Fox to acquire Roku in $22B deal",
-      "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
-      "summary": "Fox says the deal will create the third-largest television company in the United States.",
-      "published": "Mon, 15 Jun 2026 13:43:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800"
     },
     {
       "title": "Scientists Propose That Entire Universes Can Form Inside Collapsing Stars",
@@ -306,20 +314,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/universe-form-collapsing-star-black-hole.jpg?quality=85"
     },
     {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-      "published": "Mon, 15 Jun 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/newcore-founders.jpg?resize=1200,800"
-    },
-    {
       "title": "Meta’s Super Expensive New AI Team Is Already a Complete Catastrophe",
       "link": "https://futurism.com/artificial-intelligence/meta-new-ai-team-catastrophe",
       "summary": "<p>\"It's literally the gulag.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-new-ai-team-catastrophe\">Meta&#8217;s Super Expensive New AI Team Is Already a Complete Catastrophe</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 15 Jun 2026 10:47:49 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/meta-new-ai-team-catastrophe.jpg?quality=85"
+    },
+    {
+      "title": "Inside the fight over Claude Mythos 5",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 [&#8230;]",
+      "published": "2026-06-15T23:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto [&#8230;]",
+      "published": "2026-06-15T17:15:08-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Xbox is closing down Hellblade creator Ninja Theory",
+      "link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+      "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as \"several\" Xbox studios at Microsoft, including Compulsion Games and Double Fine, are in [&#8230;]",
+      "published": "2026-06-15T17:13:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/hellblade-ii-senuas-sacrifice.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Fox wants to take over your TV — and the tech inside it",
@@ -376,30 +400,6 @@
       "published": "2026-06-15T13:44:10-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Xbox turmoil continues with a studio closure and executive departures",
-      "link": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure",
-      "summary": "Last week, Xbox boss Asha Sharma sent a memo warning of an Xbox \"reset\" ahead of expected layoffs, and today, Kotaku reported that Xbox plans to shut down Compulsion Games, the studio behind South of Midnight. Since taking over in February, Sharma has made some big decisions, including cutting the price of Xbox Game Pass [&#8230;]",
-      "published": "2026-06-15T13:08:35-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Roblox exec says ticking a box for age verification is &#8216;not enough anymore&#8217;",
-      "link": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-      "summary": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC invited a group of kids to try out Roblox's new video selfie [&#8230;]",
-      "published": "2026-06-15T11:52:17-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "My favorite Qi2 power bank is cheaper than ever for Verge readers",
-      "link": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
-      "summary": "I recently published a buying guide on the best Qi2 power banks. Out of seven feature-packed batteries, I really dug the Baseus AM52 10,000mAh power bank that has a built-in USB-C cable. It’s fast at Qi2.2 wireless charging for iPhones, and it’s quick with wired charging, too. And now, it’s an unbeatable value thanks to [&#8230;]",
-      "published": "2026-06-15T10:39:24-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0011.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
