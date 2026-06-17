@@ -1,37 +1,157 @@
 {
-  "lastUpdated": "2026-06-17T11:05:52.095144",
+  "lastUpdated": "2026-06-17T15:49:46.399951",
   "articles": [
     {
-      "title": "Brit competition cops order Google to make search rankings less mysterious",
-      "link": "https://www.theregister.com/personal-tech/2026/06/17/brit-competition-cops-order-google-to-make-search-rankings-less-mysterious/5257506",
-      "summary": "New rules cover organic rankings, AI Overviews, and user-approved search data sharing",
-      "published": "Wed, 17 Jun 2026 13:01:07 +0200",
+      "title": "Smartphone market to shrink 15 percent this year due to memory crisis",
+      "link": "https://www.theregister.com/personal-tech/2026/06/17/smartphone-market-to-shrink-15-percent-this-year-due-to-memory-crisis/5257652",
+      "summary": "Buyers put off by rising prices expected to turn to second-hand phones instead",
+      "published": "Wed, 17 Jun 2026 17:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=258252&width=800"
+      "image_url": "https://image.theregister.com/?imageId=259160&width=800"
     },
     {
-      "title": "Helpdesk scammers are making house calls to make their lies feel more real",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/17/helpdesk-scammers-are-making-house-calls-to-make-their-lies-feel-more-real/5257454",
-      "summary": "15-year-old among six arrested after Dutch cops target suspected bank fraud call center",
-      "published": "Wed, 17 Jun 2026 12:38:35 +0200",
+      "title": "AWS hypes continuous agentic DevOps, puts Kiro in your pocket",
+      "link": "https://www.theregister.com/devops/2026/06/17/aws-hypes-continuous-agentic-devops-puts-kiro-in-your-pocket/5256365",
+      "summary": "Trust is the biggest barrier to AI adoption, says AI chief, claiming that new features in Bedrock AgentCore will prevent bad outcomes",
+      "published": "Wed, 17 Jun 2026 17:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=227005&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5230510&width=800"
     },
     {
-      "title": "Windows update leaves third-party Office document launches in limbo",
-      "link": "https://www.theregister.com/personal-tech/2026/06/17/windows-update-leaves-third-party-office-document-launches-in-limbo/5257425",
-      "summary": "Microsoft won the OLE vs OpenDoc wars. Now it's saying OLE dependencies don't matter",
-      "published": "Wed, 17 Jun 2026 11:56:54 +0200",
+      "title": "Digital sovereignty needs an operating model",
+      "link": "https://www.theregister.com/security/2026/06/17/digital-sovereignty-needs-an-operating-model/5254631",
+      "summary": "PARTNER CONTENT Europe wants control over its own technology, but what does that look like?",
+      "published": "Wed, 17 Jun 2026 17:00:00 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260003&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5237766&width=800"
     },
     {
-      "title": "System76 boss reckons he can liberate the entire PC stack... just give him another 15 years",
-      "link": "https://www.theregister.com/personal-tech/2026/06/17/system76-boss-reckons-he-can-liberate-the-entire-pc-stack-just-give-him-another-15-years/5255258",
-      "summary": "Bootstrapped Linux box-botherer flogs new Thelio kit, talks up COSMIC, and politely declines to bolt AI onto everything",
-      "published": "Wed, 17 Jun 2026 11:15:00 +0200",
+      "title": "Surface tension rises as Microsoft's latest kit starts at a pricey $1,499",
+      "link": "https://www.theregister.com/personal-tech/2026/06/17/surface-tension-rises-as-microsofts-latest-kit-starts-at-a-pricey-1499/5257598",
+      "summary": "Snapdragon X2 silicon and recycled aluminum are nice, the sticker shock less so",
+      "published": "Wed, 17 Jun 2026 16:25:25 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5255300&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5257742&width=800"
+    },
+    {
+      "title": "Cisco adds another SD-WAN box to max-severity bug advisory",
+      "link": "https://www.theregister.com/security/2026/06/17/cisco-adds-another-sd-wan-box-to-max-severity-bug-advisory/5257621",
+      "summary": "Updated at the time? No sweat. Check those logs, though",
+      "published": "Wed, 17 Jun 2026 15:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094206&width=800"
+    },
+    {
+      "title": "Homebrew 6.0 released with new security mechanism, Linux sandbox and more",
+      "link": "https://www.theregister.com/devops/2026/06/17/homebrew-60-released-with-new-security-mechanism-linux-sandbox-and-more/5257570",
+      "summary": "Homebrew was \"less vulnerable 10 years ago than npm is today,\" project lead tells us",
+      "published": "Wed, 17 Jun 2026 15:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5255295&width=800"
+    },
+    {
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+      "published": "Wed, 17 Jun 2026 15:24:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238192342.jpg?resize=1200,800"
+    },
+    {
+      "title": "Apple's WebKit performance tax leaves iOS browsers stuck in the slow lane, says Microsoft",
+      "link": "https://www.theregister.com/software/2026/06/17/apples-webkit-performance-tax-leaves-ios-browsers-stuck-in-the-slow-lane-says-microsoft/5257384",
+      "summary": "Rival rendering engines could make pages load almost 30% faster on iPhones, Redmond claims",
+      "published": "Wed, 17 Jun 2026 15:02:56 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=248852&width=800"
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800"
+    },
+    {
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+      "published": "Wed, 17 Jun 2026 14:15:22 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-9.53.46-AM.jpg?resize=1200,560"
+    },
+    {
+      "title": "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers",
+      "link": "https://www.theregister.com/systems/2026/06/17/intel-starts-cooking-up-enhanced-18a-p-silicon-for-would-be-foundry-customers/5257487",
+      "summary": "Chipzilla claims 9% speed bump without extra power draw but is compatible with designs for 18A",
+      "published": "Wed, 17 Jun 2026 14:14:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5248955&width=800"
+    },
+    {
+      "title": "Windows devs rerolled old code to save precious bytes",
+      "link": "https://www.theregister.com/os-platforms/2026/06/17/windows-devs-rerolled-old-code-to-save-precious-bytes/5256343",
+      "summary": "There really was a time when Microsoft cared about every KB",
+      "published": "Wed, 17 Jun 2026 14:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5256377&width=800"
+    },
+    {
+      "title": "UK.gov links up with LinkedIn for jobs market intel from 40M accounts",
+      "link": "https://www.theregister.com/public-sector/2026/06/17/ukgov-links-up-with-linkedin-for-jobs-market-intel-from-40m-accounts/5257545",
+      "summary": "What anonymized data taught me about B2B sales... and reliance on the private sector for statistical info",
+      "published": "Wed, 17 Jun 2026 13:30:57 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258088&width=800"
+    },
+    {
+      "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+      "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+      "summary": "Critical Energy is turning rocket engines into geothermal power plants, and it wants to build 300 GW per year by 2045.",
+      "published": "Wed, 17 Jun 2026 13:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1452392871.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+      "published": "Wed, 17 Jun 2026 12:38:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857"
+    },
+    {
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+      "published": "Wed, 17 Jun 2026 12:14:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Mixhalo-Billboard-2-1200x627-2.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
+      "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
+      "summary": "The bigger battery is standard and there are now simulated \"E-Shifts.\"",
+      "published": "Wed, 17 Jun 2026 12:00:45 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/m10-1152x648.jpg"
+    },
+    {
+      "title": "SpaceX Stock Now in Rapid Decline",
+      "link": "https://futurism.com/space/spacex-stock-rapid-decline",
+      "summary": "<p>The novelty is wearing off.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-rapid-decline\">SpaceX Stock Now in Rapid Decline</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 17 Jun 2026 11:18:27 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-rapid-decline.jpg?quality=85"
+    },
+    {
+      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+      "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+      "published": "Wed, 17 Jun 2026 11:15:17 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-1000x648.jpg"
     },
     {
       "title": "Uber will bring its premium robotaxi service to Houston in 2027",
@@ -50,44 +170,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/ask-pinterest.jpg?resize=1200,922"
     },
     {
-      "title": "Tesco is sprinting to quit VMware and Broadcom despite rapid migration risks",
-      "link": "https://www.theregister.com/virtualization/2026/06/17/tesco-is-sprinting-to-quit-vmware-and-broadcom-despite-rapid-migration-risks/5256133",
-      "summary": "Supermarket giant has turned to third-party support as court sets date to hear licensing dispute",
-      "published": "Wed, 17 Jun 2026 09:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260306&width=800"
+      "title": "The Funniest Possible Thing Happened After Trump Painted the Lincoln Reflecting Pool Blue",
+      "link": "https://futurism.com/science-energy/trump-lincoln-reflecting-pool-algae",
+      "summary": "<p>Nature had other ideas.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/trump-lincoln-reflecting-pool-algae\">The Funniest Possible Thing Happened After Trump Painted the Lincoln Reflecting Pool Blue</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 17 Jun 2026 10:12:05 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-lincoln-reflecting-pool-algae_f2c531.jpg?quality=85"
     },
     {
-      "title": "Developers build the best tools for developers – and are now defanging the AI menace",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/17/developers-build-the-best-tools-for-developers-and-are-now-defanging-the-ai-menace/5255316",
-      "summary": "Fear and even grief are natural reactions to machines that do your job. The next reactions – acceptance and innovation – are more useful",
-      "published": "Wed, 17 Jun 2026 08:31:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261387&width=800"
-    },
-    {
-      "title": "Cyberattack sees crops kept in the ground",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/17/cyberattack-sees-crops-kept-in-the-ground/5256321",
-      "summary": "Bitter harvest for Australia's Mackay Sugar, attacked in peak cane crushing season",
-      "published": "Wed, 17 Jun 2026 04:16:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5227626&width=800"
-    },
-    {
-      "title": "AMD's Mext buy shows how AI could solve the RAM shortage it created",
-      "link": "https://www.theregister.com/systems/2026/06/16/amds-mext-buy-shows-how-ai-could-solve-the-ram-shortage-it-created/5257352",
-      "summary": "Running low on memory, can't afford more? The House of Zen's latest acquisition puts an AI spin on flash-based memory expansion",
-      "published": "Wed, 17 Jun 2026 00:09:32 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5257373&width=800"
-    },
-    {
-      "title": "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/the-new-siri-makes-one-of-apples-most-convenient-os-features-a-cumbersome-mess/5256591",
-      "summary": "Goodbye, useful Spotlight; hello force-fed Apple intelligence bloatware that feels distressingly like Google AI Overviews",
-      "published": "Tue, 16 Jun 2026 22:47:37 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093949&width=800"
+      "title": "Ohio Police Fire Robocop for Helping Make Zero Arrests and Failing to Issue a Single Ticket",
+      "link": "https://futurism.com/robots-and-machines/ohio-police-fire-robocop-knightscope",
+      "summary": "<p>Good cop, bad bot.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/ohio-police-fire-robocop-knightscope\">Ohio Police Fire Robocop for Helping Make Zero Arrests and Failing to Issue a Single Ticket</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 17 Jun 2026 08:46:54 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/ohio-police-fire-robocop-knightscope.jpg?quality=85"
     },
     {
       "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
@@ -104,14 +200,6 @@
       "published": "Tue, 16 Jun 2026 22:22:44 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
-    },
-    {
-      "title": "Python dev saved from disaster by intuition... and AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuition-and-ai/5256632",
-      "summary": "I'm sorry, Dave. I can't install that repo that will totally hose your system",
-      "published": "Tue, 16 Jun 2026 22:15:06 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683298&width=800"
     },
     {
       "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
@@ -154,36 +242,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-1152x648.jpg"
     },
     {
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-      "published": "Tue, 16 Jun 2026 20:11:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675"
-    },
-    {
       "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
       "link": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
       "summary": "Trump admin green-lighting $111B deal \"reeks of corruption,\" Sen. Warren says.",
       "published": "Tue, 16 Jun 2026 18:48:45 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/larry-ellison-and-trump-1152x648-1781632802.jpg"
-    },
-    {
-      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-      "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-      "summary": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
-      "published": "Tue, 16 Jun 2026 18:22:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/qualcomm-layoff-san-diego.jpg?resize=1200,800"
-    },
-    {
-      "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
-      "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
-      "summary": "A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World Cup match.",
-      "published": "Tue, 16 Jun 2026 18:13:49 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/fifa-world-cup-stadium-tv-camera.jpg?resize=1200,800"
     },
     {
       "title": "Pentagon boasts of using AI to write reports mandated by Congress",
@@ -202,52 +266,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg"
     },
     {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
-      "published": "Tue, 16 Jun 2026 18:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024"
-    },
-    {
-      "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
-      "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
-      "summary": "Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to.",
-      "published": "Tue, 16 Jun 2026 17:50:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/mobileye-robotaxi.jpg?resize=1200,675"
-    },
-    {
-      "title": "Rivian cuts hundreds of workers after R2 deliveries start",
-      "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
-      "summary": "The company said the cuts were part of a restructuring meant to help scale to profitability. Rivian recently pushed back its profitability goal to invest in autonomy.",
-      "published": "Tue, 16 Jun 2026 17:48:20 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/rivian-r2.jpeg?resize=1200,797"
-    },
-    {
       "title": "SpaceX Stock Has Now Started to Fall",
       "link": "https://futurism.com/space/spacex-stock-started-fall",
       "summary": "<p>Sorry, folks.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-started-fall\">SpaceX Stock Has Now Started to Fall</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 16 Jun 2026 16:59:33 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-started-fall.jpg?quality=85"
-    },
-    {
-      "title": "Trump admin abandons fight against wind energy as clean energy output surges",
-      "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
-      "summary": "Legal victories have dampened the Trump admin’s efforts to halt wind and solar power.",
-      "published": "Tue, 16 Jun 2026 16:49:09 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1350384252-1152x648.jpg"
-    },
-    {
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "summary": "Separately, neither could compete. Now they hope they can.",
-      "published": "Tue, 16 Jun 2026 16:37:45 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cursor-1152x648-1781627048.png"
     },
     {
       "title": "Elon Musk Fantasizes About Killing Journalists",
@@ -298,108 +322,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/polymarket-world-cup-backfires.jpg?quality=85"
     },
     {
-      "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
-      "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-employees-fun-hackathon-layoffs",
-      "summary": "<p>\"I’m not sure that this company supports a hackathon culture anymore.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mark-zuckerberg-employees-fun-hackathon-layoffs\">Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 16 Jun 2026 08:35:39 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/mark-zuckerberg-employees-fun-hackathon-layoffs.jpg?quality=85"
-    },
-    {
-      "title": "Woman “Seriously and Permanently Injured” by Egg McMuffin, Lawsuit Alleges",
-      "link": "https://futurism.com/future-society/woman-permanently-injured-egg-mcmuffin-lawsuit-mcdonalds",
-      "summary": "<p>“Wholly unfit for human consumption.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/woman-permanently-injured-egg-mcmuffin-lawsuit-mcdonalds\">Woman &#8220;Seriously and Permanently Injured&#8221; by Egg McMuffin, Lawsuit Alleges</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 15 Jun 2026 20:01:54 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/woman-permanently-injured-egg-mcmuffin-lawsuit-mcdonalds.jpg?quality=85"
-    },
-    {
-      "title": "Scientists Detect Hundreds of Earthquakes Deep Beneath Antarctica",
-      "link": "https://futurism.com/future-society/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica",
-      "summary": "<p>They say they've figured out what caused them.</p>\n<p>The post <a href=\"https://futurism.com/future-society/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica\">Scientists Detect Hundreds of Earthquakes Deep Beneath Antarctica</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 15 Jun 2026 17:02:57 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica.jpg?quality=85"
-    },
-    {
-      "title": "The next humanoid robot might not look human at all",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
-      "published": "2026-06-17T05:46:56-04:00",
+      "title": "SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros",
+      "link": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
+      "summary": "SanDisk has announced an expensive way to boost the PlayStation 5's storage capacity. The company's new Optimus GX PRO 850P NVMe SSD is an officially licensed PS5 accessory in capacities ranging from 1TB to 8TB. The largest option can store up to 200 PS5 games (based on average installation sizes) SanDisk claims, but thanks to [&#8230;]",
+      "published": "2026-06-17T11:34:29-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
-      "link": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
-      "summary": "Father’s Day is nearly here. Hopefully, you already got a gift for dads you care about, but if not, here’s a quick, easy recommendation for anyone who enjoys a good comic strip. The Complete Calvin and Hobbes contains every one of Bill Watterson’s beloved strips made during the comic’s ten-year run from 1985 through 1995, [&#8230;]",
-      "published": "2026-06-16T16:00:00-04:00",
+      "title": "Paramount Plus is two dollars for two months of ad-free viewing",
+      "link": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
+      "summary": "Paramount Plus is offering new and former subscribers a discounted rate until June 25th, 2026. You’ll pay 99 cents per month for the first two months, with the Premium plan automatically renewing for $13.99 per month after that, and the more limited Essential plan renewing for $8.99.&#160; Both plans include some excellent shows, like Freaks [&#8230;]",
+      "published": "2026-06-17T10:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/calvinandhobbesstrip.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24803826/Screenshot_2023_07_22_at_5.52.08_PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-      "link": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-      "summary": "Google’s Android 17 update includes highlights like new floating “Bubble” app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates and better battery life for smart watches, and it prepares connections for new Android XR smart glasses that will [&#8230;]",
-      "published": "2026-06-16T14:30:00-04:00",
+      "title": "In a big year for horror, Widow’s Bay still stands apart",
+      "link": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
+      "summary": "Horror is having a moment. In 2026, the genre is especially well-represented: new blood is dominating the box office through films like Backrooms and Obsession, established names like Sam Raimi and Damian McCarthy are at the top of their game, and long-running franchises like 28 Years Later and Resident Evil continue to stay relevant. But [&#8230;]",
+      "published": "2026-06-17T10:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Widows_Bay_Photo_010903.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Android 17 arrives on Pixel phones today",
-      "link": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
-      "summary": "Following its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the OS at the pre-I/O Android Show is available today, though. Android 17 itself is arriving on Pixel phones today, and Google [&#8230;]",
-      "published": "2026-06-16T14:00:00-04:00",
+      "title": "The best early Amazon Prime Day deals so far",
+      "link": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+      "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s latest battery-powered doorbell for $60 off and it includes a [&#8230;]",
+      "published": "2026-06-17T10:12:57-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/android-17.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
-      "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
-      "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4, adding a new Live Updates feature that tracks live events from your Android smartwatch. Live Updates will now sync with Wear OS devices, so updates like sports scores or an ongoing meal delivery will show up [&#8230;]",
-      "published": "2026-06-16T14:00:00-04:00",
+      "title": "How to find the best deals during Amazon’s Prime Day sale",
+      "link": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+      "summary": "Amazon’s Prime Day is one of the biggest shopping events of the year, and the four-day sale for 2026 begins June 23rd at 3:01AM ET and ends at the same time on June 27th. It will grant Prime members access to some of the best prices of the year on Amazon devices, as well as [&#8230;]",
+      "published": "2026-06-17T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/google-wearos-7-launch-live-updates.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24980084/236765_Prime_Big_Deal_Days_LPham_4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers",
-      "link": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
-      "summary": "Verizon is launching a new Simplicity plan that starts at $30 / month for new customers, or $45 / month for existing ones. In its announcement, Verizon says the plan drops activation and upgrade fees, while offering one flat price for each line. The $30 price for new customers is an \"initial promotional offer\" that [&#8230;]",
-      "published": "2026-06-16T13:19:35-04:00",
+      "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+      "link": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
+      "summary": "The Toy Story franchise began with a story about a vintage doll feeling threatened by the arrival of an electronic action figure. Woody and Buzz's rivalry embodied a shift that was happening in the '90s as children's toys were becoming more technologically sophisticated, and while toys have gotten even more tech-focused in the years since, [&#8230;]",
+      "published": "2026-06-17T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK066_VERIZON.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/TOYSTORY5-ONLINE-USE_t110.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta [&#8230;]",
-      "published": "2026-06-16T13:04:05-04:00",
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8230;]",
+      "published": "2026-06-17T09:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03787_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-      "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-      "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at [&#8230;]",
-      "published": "2026-06-16T13:00:00-04:00",
+      "title": "The best Apple deals you can already get ahead of Prime Day",
+      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "summary": "Amazon&#8217;s Prime Day sale kicks off on June 23rd, but already we’re seeing some notable Apple deals trickle in. Whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, many retailers are offering notable discounts ahead of the shopping event. Walmart and Amazon recently surprised us with a new all-time low on [&#8230;]",
+      "published": "2026-06-17T09:21:15-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/snapdragonreality.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0133.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Google / Xreal Aura XR glasses are now available to preorder",
-      "link": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
-      "summary": "The Project Aura glasses collaboration between Xreal and Google is now one step closer to being something you can buy. Reservations for the second Android XR device, now dubbed the Xreal Aura, are available for $99 starting today, with a full launch in the US, UK, Japan, Canada, and South Korea expected sometime this Fall. [&#8230;]",
-      "published": "2026-06-16T13:00:00-04:00",
+      "title": "Got Thread problems? There’s an app for that",
+      "link": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home",
+      "summary": "The new Thread Networks Diagnostics Tools app from Thread Group, the standards body behind the wireless IoT protocol, officially launches in beta today. The app, which arrives in beta today on iOS and Android, is the first dedicated tool to provide visibility into your Thread-based smart home network. I've been testing the alpha version of [&#8230;]",
+      "published": "2026-06-17T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Xreal-Google-Aura-XR-glasses.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-12-at-10.16.03AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Snap is finally about to ship AR glasses — and they cost a fortune",
-      "link": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
-      "summary": "Snap is finally launching augmented glasses for the public. Specs, which Snap describes as \"a wearable computer built into see-through augmented reality glasses,\" will cost $2,195. You can preorder a pair of Specs now at specs.com with a $200 refundable deposit, and Snap says they're expected to ship \"this fall\" in the US, UK, and [&#8230;]",
-      "published": "2026-06-16T12:50:00-04:00",
+      "title": "Jackery announces ‘world’s slimmest’ fridge battery",
+      "link": "https://www.theverge.com/tech/949683/jackery-fridgeguard-worlds-slimmest-fridge-battery",
+      "summary": "Jackery is jumping on the fridge-battery trend with what it says is the \"world's slimmest.\" FridgeGuard also looks nice; a break from power stations that tend to look more at home at a job site than the kitchen or living room. Measuring just 2.63 inches (67mm) thick, the Jackery FridgeGuard power station is meant to [&#8230;]",
+      "published": "2026-06-17T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/SPECS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Jackery-FridgeGuard-Placement.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
