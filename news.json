@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-06-17T04:43:03.532246",
+  "lastUpdated": "2026-06-17T11:05:52.095144",
   "articles": [
+    {
+      "title": "Brit competition cops order Google to make search rankings less mysterious",
+      "link": "https://www.theregister.com/personal-tech/2026/06/17/brit-competition-cops-order-google-to-make-search-rankings-less-mysterious/5257506",
+      "summary": "New rules cover organic rankings, AI Overviews, and user-approved search data sharing",
+      "published": "Wed, 17 Jun 2026 13:01:07 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258252&width=800"
+    },
+    {
+      "title": "Helpdesk scammers are making house calls to make their lies feel more real",
+      "link": "https://www.theregister.com/cyber-crime/2026/06/17/helpdesk-scammers-are-making-house-calls-to-make-their-lies-feel-more-real/5257454",
+      "summary": "15-year-old among six arrested after Dutch cops target suspected bank fraud call center",
+      "published": "Wed, 17 Jun 2026 12:38:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227005&width=800"
+    },
+    {
+      "title": "Windows update leaves third-party Office document launches in limbo",
+      "link": "https://www.theregister.com/personal-tech/2026/06/17/windows-update-leaves-third-party-office-document-launches-in-limbo/5257425",
+      "summary": "Microsoft won the OLE vs OpenDoc wars. Now it's saying OLE dependencies don't matter",
+      "published": "Wed, 17 Jun 2026 11:56:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260003&width=800"
+    },
+    {
+      "title": "System76 boss reckons he can liberate the entire PC stack... just give him another 15 years",
+      "link": "https://www.theregister.com/personal-tech/2026/06/17/system76-boss-reckons-he-can-liberate-the-entire-pc-stack-just-give-him-another-15-years/5255258",
+      "summary": "Bootstrapped Linux box-botherer flogs new Thelio kit, talks up COSMIC, and politely declines to bolt AI onto everything",
+      "published": "Wed, 17 Jun 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5255300&width=800"
+    },
+    {
+      "title": "Uber will bring its premium robotaxi service to Houston in 2027",
+      "link": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+      "summary": "This will be the second market to have an Uber robotaxi service outfitted with Lucid EVs equipped with a self-driving system from Nuro.",
+      "published": "Wed, 17 Jun 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/uber-robotaxi-houston.jpg?resize=1200,675"
+    },
+    {
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+      "published": "Wed, 17 Jun 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/ask-pinterest.jpg?resize=1200,922"
+    },
+    {
+      "title": "Tesco is sprinting to quit VMware and Broadcom despite rapid migration risks",
+      "link": "https://www.theregister.com/virtualization/2026/06/17/tesco-is-sprinting-to-quit-vmware-and-broadcom-despite-rapid-migration-risks/5256133",
+      "summary": "Supermarket giant has turned to third-party support as court sets date to hear licensing dispute",
+      "published": "Wed, 17 Jun 2026 09:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260306&width=800"
+    },
+    {
+      "title": "Developers build the best tools for developers – and are now defanging the AI menace",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/17/developers-build-the-best-tools-for-developers-and-are-now-defanging-the-ai-menace/5255316",
+      "summary": "Fear and even grief are natural reactions to machines that do your job. The next reactions – acceptance and innovation – are more useful",
+      "published": "Wed, 17 Jun 2026 08:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261387&width=800"
+    },
     {
       "title": "Cyberattack sees crops kept in the ground",
       "link": "https://www.theregister.com/cyber-crime/2026/06/17/cyberattack-sees-crops-kept-in-the-ground/5256321",
@@ -42,9 +106,9 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
     },
     {
-      "title": "Python dev saved from disaster by intuition...and AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuitionand-ai/5256632",
-      "summary": "I'm sorry, Dave. I can't install that repo that will totally hose your system.",
+      "title": "Python dev saved from disaster by intuition... and AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuition-and-ai/5256632",
+      "summary": "I'm sorry, Dave. I can't install that repo that will totally hose your system",
       "published": "Tue, 16 Jun 2026 22:15:06 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=1683298&width=800"
@@ -64,14 +128,6 @@
       "published": "Tue, 16 Jun 2026 22:09:32 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800"
-    },
-    {
-      "title": "Intel-born networking tech resurfaces as InfiniBand alternative for DoE supers",
-      "link": "https://www.theregister.com/hpc/2026/06/16/intel-born-networking-tech-resurfaces-as-infiniband-alternative-for-doe-supers/5256535",
-      "summary": "Omni-Path lights up Lawrence Livermore system at 400 Gbps",
-      "published": "Tue, 16 Jun 2026 22:03:59 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=145706&width=800"
     },
     {
       "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
@@ -98,36 +154,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-1152x648.jpg"
     },
     {
-      "title": "AI and brain-computer interface allow speechless ALS patient to work a full-time job",
-      "link": "https://www.theregister.com/science/2026/06/16/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job/5256492",
-      "summary": "The hardware isn't new, but a UC Davis research team's machine learning-powered method of translating brain activity in an ALS patient into sentences with 92% accuracy is",
-      "published": "Tue, 16 Jun 2026 20:44:12 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5256515&width=800"
-    },
-    {
-      "title": "Three critical Fortinet sandbox bugs splattered by unknown attackers",
-      "link": "https://www.theregister.com/security/2026/06/16/three-critical-fortinet-sandbox-bugs-splattered-by-unknown-attackers/5256461",
-      "summary": "All have patches, so make sure you upgrade to a fixed version",
-      "published": "Tue, 16 Jun 2026 20:27:12 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5256503&width=800"
-    },
-    {
       "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
       "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
       "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
       "published": "Tue, 16 Jun 2026 20:11:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675"
-    },
-    {
-      "title": "Commodore gets into the phone biz with Sailfish-powered retro 'Callback'",
-      "link": "https://www.theregister.com/personal-tech/2026/06/16/commodore-gets-into-the-phone-biz-with-sailfish-powered-retro-callback/5256186",
-      "summary": "Ships sans email, web, or socials, but with plenty of beige plastic",
-      "published": "Tue, 16 Jun 2026 20:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5256209&width=800"
     },
     {
       "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
@@ -170,14 +202,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg"
     },
     {
-      "title": "There's no such thing as an agentic CPU",
-      "link": "https://www.theregister.com/systems/2026/06/16/there-is-no-one-cpu-to-rule-them-all-agents-otherwise/5255964",
-      "summary": "AI agents are a general-purpose workload no different from any other",
-      "published": "Tue, 16 Jun 2026 18:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=225583&width=800"
-    },
-    {
       "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
       "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
       "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
@@ -194,14 +218,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/mobileye-robotaxi.jpg?resize=1200,675"
     },
     {
-      "title": "Firefox 152 understands 'Sssh!'",
-      "link": "https://www.theregister.com/software/2026/06/16/firefox-152-understands-sssh/5256390",
-      "summary": "As Google continues crippling Chrome ad-blockers, it's a good time to try Firefox",
-      "published": "Tue, 16 Jun 2026 17:48:31 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242942&width=800"
-    },
-    {
       "title": "Rivian cuts hundreds of workers after R2 deliveries start",
       "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
       "summary": "The company said the cuts were part of a restructuring meant to help scale to profitability. Rivian recently pushed back its profitability goal to invest in autonomy.",
@@ -210,28 +226,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/rivian-r2.jpeg?resize=1200,797"
     },
     {
-      "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
-      "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
-      "summary": "For over a decade now, Snap has been working on this device. Now the glasses are finally here. So what stands out on first impression?",
-      "published": "Tue, 16 Jun 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675"
-    },
-    {
       "title": "SpaceX Stock Has Now Started to Fall",
       "link": "https://futurism.com/space/spacex-stock-started-fall",
       "summary": "<p>Sorry, folks.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-started-fall\">SpaceX Stock Has Now Started to Fall</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 16 Jun 2026 16:59:33 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-started-fall.jpg?quality=85"
-    },
-    {
-      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-      "published": "Tue, 16 Jun 2026 16:49:44 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675"
     },
     {
       "title": "Trump admin abandons fight against wind energy as clean energy output surges",
@@ -322,6 +322,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica.jpg?quality=85"
     },
     {
+      "title": "The next humanoid robot might not look human at all",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
+      "published": "2026-06-17T05:46:56-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
       "link": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
       "summary": "Father’s Day is nearly here. Hopefully, you already got a gift for dads you care about, but if not, here’s a quick, easy recommendation for anyone who enjoys a good comic strip. The Complete Calvin and Hobbes contains every one of Bill Watterson’s beloved strips made during the comic’s ten-year run from 1985 through 1995, [&#8230;]",
@@ -392,14 +400,6 @@
       "published": "2026-06-16T12:50:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/SPECS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Everything you need to know about Prime Day 2026",
-      "link": "https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions",
-      "summary": "Amazon Prime Day 2026 is getting closer, and it’s possible you might have some questions about the sale. When does it start? Why is it in June instead of July? And, most importantly, when will the deals go live? We have concrete answers to those questions, and we’ll have a lot more Prime Day coverage [&#8230;]",
-      "published": "2026-06-16T12:31:40-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/primedayFAQ.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
