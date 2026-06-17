@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-06-16T20:57:24.247081",
+  "lastUpdated": "2026-06-17T04:43:03.532246",
   "articles": [
+    {
+      "title": "Cyberattack sees crops kept in the ground",
+      "link": "https://www.theregister.com/cyber-crime/2026/06/17/cyberattack-sees-crops-kept-in-the-ground/5256321",
+      "summary": "Bitter harvest for Australia's Mackay Sugar, attacked in peak cane crushing season",
+      "published": "Wed, 17 Jun 2026 04:16:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5227626&width=800"
+    },
+    {
+      "title": "AMD's Mext buy shows how AI could solve the RAM shortage it created",
+      "link": "https://www.theregister.com/systems/2026/06/16/amds-mext-buy-shows-how-ai-could-solve-the-ram-shortage-it-created/5257352",
+      "summary": "Running low on memory, can't afford more? The House of Zen's latest acquisition puts an AI spin on flash-based memory expansion",
+      "published": "Wed, 17 Jun 2026 00:09:32 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5257373&width=800"
+    },
+    {
+      "title": "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/the-new-siri-makes-one-of-apples-most-convenient-os-features-a-cumbersome-mess/5256591",
+      "summary": "Goodbye, useful Spotlight; hello force-fed Apple intelligence bloatware that feels distressingly like Google AI Overviews",
+      "published": "Tue, 16 Jun 2026 22:47:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093949&width=800"
+    },
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "published": "Tue, 16 Jun 2026 22:34:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
+    },
+    {
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+      "published": "Tue, 16 Jun 2026 22:22:44 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
+    },
     {
       "title": "Python dev saved from disaster by intuition...and AI",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuitionand-ai/5256632",
@@ -10,12 +50,52 @@
       "image_url": "https://image.theregister.com/?imageId=1683298&width=800"
     },
     {
+      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+      "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+      "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+      "published": "Tue, 16 Jun 2026 22:11:15 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-1152x648.jpg"
+    },
+    {
+      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+      "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+      "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+      "published": "Tue, 16 Jun 2026 22:09:32 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800"
+    },
+    {
       "title": "Intel-born networking tech resurfaces as InfiniBand alternative for DoE supers",
       "link": "https://www.theregister.com/hpc/2026/06/16/intel-born-networking-tech-resurfaces-as-infiniband-alternative-for-doe-supers/5256535",
       "summary": "Omni-Path lights up Lawrence Livermore system at 400 Gbps",
       "published": "Tue, 16 Jun 2026 22:03:59 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=145706&width=800"
+    },
+    {
+      "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+      "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+      "summary": "Transferring genes across species doesn't just happen in microbes.",
+      "published": "Tue, 16 Jun 2026 21:54:41 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1906194565-1152x648.jpg"
+    },
+    {
+      "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+      "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+      "summary": "\"As for Arianespace, they have definitely stepped up.\"",
+      "published": "Tue, 16 Jun 2026 21:14:08 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo-1152x648.jpg"
+    },
+    {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+      "published": "Tue, 16 Jun 2026 21:00:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-1152x648.jpg"
     },
     {
       "title": "AI and brain-computer interface allow speechless ALS patient to work a full-time job",
@@ -130,20 +210,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/rivian-r2.jpeg?resize=1200,797"
     },
     {
-      "title": "Microsoft faces down sueball, capacity problems in series of challenges",
-      "link": "https://www.theregister.com/systems/2026/06/16/microsoft-faces-down-sueball-capacity-problems-in-series-of-challenges/5256175",
-      "summary": "Misleading statements about Copilot and AI? Surely not!",
-      "published": "Tue, 16 Jun 2026 17:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=253789&width=800"
-    },
-    {
       "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
       "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
       "summary": "For over a decade now, Snap has been working on this device. Now the glasses are finally here. So what stands out on first impression?",
       "published": "Tue, 16 Jun 2026 17:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675"
+    },
+    {
+      "title": "SpaceX Stock Has Now Started to Fall",
+      "link": "https://futurism.com/space/spacex-stock-started-fall",
+      "summary": "<p>Sorry, folks.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-started-fall\">SpaceX Stock Has Now Started to Fall</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 16 Jun 2026 16:59:33 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-started-fall.jpg?quality=85"
     },
     {
       "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
@@ -162,36 +242,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1350384252-1152x648.jpg"
     },
     {
-      "title": "Crooks found a new way to collaborate using Teams – by hiding command-and-control traffic",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/16/crooks-found-a-new-way-to-collaborate-using-teams-by-hiding-command-and-control-traffic/5256296",
-      "summary": "Custom malware routed communications through legitimate Microsoft services, making malicious activity look like routine corporate collaboration",
-      "published": "Tue, 16 Jun 2026 16:41:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=241595&width=800"
-    },
-    {
       "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
       "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
       "summary": "Separately, neither could compete. Now they hope they can.",
       "published": "Tue, 16 Jun 2026 16:37:45 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cursor-1152x648-1781627048.png"
-    },
-    {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.",
-      "published": "Tue, 16 Jun 2026 16:18:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg"
-    },
-    {
-      "title": "Linux kernel 7.1 sends Intel 486 support to silicon heaven",
-      "link": "https://www.theregister.com/os-platforms/2026/06/16/linux-kernel-71-sends-intel-486-support-to-silicon-heaven/5256260",
-      "summary": "More than 140,000 lines of code bite the dust as ancient CPUs, bus mice, and other legacy leftovers face the chop",
-      "published": "Tue, 16 Jun 2026 16:03:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=222528&width=800"
     },
     {
       "title": "Elon Musk Fantasizes About Killing Journalists",
@@ -202,22 +258,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/elon-musk-fantasizes-killing-journalists.jpg?quality=85"
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "published": "Tue, 16 Jun 2026 15:53:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801"
-    },
-    {
-      "title": "India orders temporary ban on Telegram over exam fraud concerns",
-      "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
-      "summary": "The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message-editing feature.",
-      "published": "Tue, 16 Jun 2026 15:49:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/telegram-app-cellphone.jpg?resize=1200,800"
-    },
-    {
       "title": "OpenAI Is Taking the “Crack Cocaine” Approach to Pricing",
       "link": "https://futurism.com/artificial-intelligence/openai-crack-cocaine-approach-token-pricing",
       "summary": "<p>\"They've kind of taken the crack approach to AI. Give it to people for free, get them hooked, then jack up prices.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-crack-cocaine-approach-token-pricing\">OpenAI Is Taking the &#8220;Crack Cocaine&#8221; Approach to Pricing</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -226,28 +266,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/openai-crack-cocaine-approach-pricing.jpg?quality=85"
     },
     {
-      "title": "Mobileye is entering the US robotaxi market with standalone service",
-      "link": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
-      "summary": "The service will leverage its Moovit platform to launch in an a US city in 2027.",
-      "published": "Tue, 16 Jun 2026 14:20:51 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2177874163-1152x648-1781618456.jpg"
-    },
-    {
       "title": "Texas Tech Quarterback’s College Career Over After Getting Caught Betting on His Own Games",
       "link": "https://futurism.com/future-society/texas-tech-quarterback-sorsby-gambling-apps",
       "summary": "<p>\"There is no practical way to resolve all the various pending legal disputes and ensure his eligibility.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/texas-tech-quarterback-sorsby-gambling-apps\">Texas Tech Quarterback&#8217;s College Career Over After Getting Caught Betting on His Own Games</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 16 Jun 2026 13:41:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/texas-tech-quarterback-sorsby-gambling-apps.jpg?quality=85"
-    },
-    {
-      "title": "The Ars Technica 2026 Reader Survey: Let your voice be heard!",
-      "link": "https://arstechnica.com/staff/2026/06/the-ars-technica-2026-reader-survey-let-your-voice-be-heard/",
-      "summary": "Tell us how you read Ars, and what you'd like to see more (or less!) of on the front page.",
-      "published": "Tue, 16 Jun 2026 13:35:55 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ars_2026_survey-1152x648-1781525563.jpg"
     },
     {
       "title": "Consensus Grows That China Is Crushing the United States at AI",
@@ -266,28 +290,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/clavicular-nose-job-looksmaxxing-dangers.jpg?quality=85"
     },
     {
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-      "published": "Tue, 16 Jun 2026 11:15:46 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-    },
-    {
       "title": "$1 Million Polymarket Bet That Spain Will Win First World Cup Game Backfires Epically",
       "link": "https://futurism.com/future-society/polymarket-world-cup-backfires",
       "summary": "<p>Ouch.</p>\n<p>The post <a href=\"https://futurism.com/future-society/polymarket-world-cup-backfires\">$1 Million Polymarket Bet That Spain Will Win First World Cup Game Backfires Epically</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 16 Jun 2026 09:40:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/polymarket-world-cup-backfires.jpg?quality=85"
-    },
-    {
-      "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
-      "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
-      "summary": "Commodore's Callback 8020 is a phone “where the customer is not the product.\"",
-      "published": "Tue, 16 Jun 2026 09:00:51 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Commodore-Callback-8020-BASIC-Beige-005-1152x648.png"
     },
     {
       "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
@@ -312,14 +320,6 @@
       "published": "Mon, 15 Jun 2026 17:02:57 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/scientists-detect-hundreds-of-earthquakes-deep-beneath-antarctica.jpg?quality=85"
-    },
-    {
-      "title": "Student Reading Ability Spikes After Removing Tech From Class",
-      "link": "https://futurism.com/future-society/students-reading-improves-no-tech-class",
-      "summary": "<p>\"Remove all the distractions and we can get our kids back.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/students-reading-improves-no-tech-class\">Student Reading Ability Spikes After Removing Tech From Class</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 15 Jun 2026 16:16:37 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/students-reading-improves-no-tech-class.jpg?quality=85"
     },
     {
       "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
@@ -348,7 +348,7 @@
     {
       "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
       "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
-      "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4 , adding a new Live Updates feature that tracks live events from your Android smart watch. Live Updates will now sync with Wear OS devices, so updates like sports scores or an ongoing meal delivery will [&#8230;]",
+      "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4, adding a new Live Updates feature that tracks live events from your Android smartwatch. Live Updates will now sync with Wear OS devices, so updates like sports scores or an ongoing meal delivery will show up [&#8230;]",
       "published": "2026-06-16T14:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/google-wearos-7-launch-live-updates.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
