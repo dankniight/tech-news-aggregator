@@ -1,38 +1,6 @@
 {
-  "lastUpdated": "2026-06-18T20:31:17.886135",
+  "lastUpdated": "2026-06-19T04:54:09.546138",
   "articles": [
-    {
-      "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
-      "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
-      "summary": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"",
-      "published": "Wed, 17 Jun 2026 22:11:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-829469540-1152x648.jpg"
-    },
-    {
-      "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
-      "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
-      "summary": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
-      "published": "Wed, 17 Jun 2026 20:44:32 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-1152x648.jpeg"
-    },
-    {
-      "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
-      "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
-      "summary": "FCC considers AT&#038;T petitions to preempt state rules and discontinue phone service.",
-      "published": "Wed, 17 Jun 2026 20:07:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/woman-dialing-phone-1152x648-1781724369.jpg"
-    },
-    {
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
-      "published": "Wed, 17 Jun 2026 19:54:31 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
-    },
     {
       "title": "Wall Street Terrified That SpaceX Investors Will Dump Their Stocks",
       "link": "https://futurism.com/space/wall-street-terrified-spacex-dump",
@@ -42,9 +10,57 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/wall-street-terrified-spacex-dump.jpg?quality=85"
     },
     {
+      "title": "2,000 retired Google Pixel phones get a second life as a private cloud",
+      "link": "https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035",
+      "summary": "You might say the system packs two kilapixels of compute",
+      "published": "Thu, 18 Jun 2026 23:39:28 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=228123&width=800"
+    },
+    {
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+      "published": "Thu, 18 Jun 2026 23:28:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
+    },
+    {
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "summary": "In February, a Trump official refused to review the vaccine.",
+      "published": "Thu, 18 Jun 2026 22:08:59 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
+    },
+    {
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
+      "published": "Thu, 18 Jun 2026 21:21:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-1152x648.jpg"
+    },
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "published": "Thu, 18 Jun 2026 21:20:13 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800"
+    },
+    {
+      "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+      "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+      "summary": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
+      "published": "Thu, 18 Jun 2026 20:49:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/jsc2025e036490medium-1152x648.jpg"
+    },
+    {
       "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
       "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be comprised of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
       "published": "Thu, 18 Jun 2026 20:30:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?resize=1200,856"
@@ -66,6 +82,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800"
     },
     {
+      "title": "Android verification is coming: Google confirms timeline and supported app stores",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "summary": "A new system service will roll out this month ahead of big changes starting in September.",
+      "published": "Thu, 18 Jun 2026 19:53:33 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
+    },
+    {
       "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
       "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
       "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
@@ -74,9 +98,17 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/yc-2022-fall-1-e1662566861873-copy.png?w=1000"
     },
     {
+      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+      "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+      "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+      "published": "Thu, 18 Jun 2026 19:41:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-1152x648.jpg"
+    },
+    {
       "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
       "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
-      "summary": "Plaintiffs in the class action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
+      "summary": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
       "published": "Thu, 18 Jun 2026 19:31:45 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/rivian-yellow-truck.jpg?resize=1200,900"
@@ -98,9 +130,9 @@
       "image_url": "https://image.theregister.com/?imageId=252868&width=800"
     },
     {
-      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
       "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
       "published": "Thu, 18 Jun 2026 18:51:46 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800"
@@ -132,18 +164,10 @@
     {
       "title": "Mivo’s new app takes a mindful approach to managing screen time",
       "link": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
-      "summary": "Doomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this issue with strict limits, a new mindful screen time app called Mivo Scrolling is trying to shake things up. Launched last month, Mivo doesn&#8217;t look super different from other [&#8230;]",
+      "summary": "Notably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re using it instead.",
       "published": "Thu, 18 Jun 2026 18:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?resize=1200,789"
-    },
-    {
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-      "published": "Thu, 18 Jun 2026 17:49:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801"
     },
     {
       "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
@@ -168,22 +192,6 @@
       "published": "Thu, 18 Jun 2026 17:21:55 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5258440&width=800"
-    },
-    {
-      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-      "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-      "published": "Thu, 18 Jun 2026 17:16:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238192342.jpg?resize=1200,800"
-    },
-    {
-      "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
-      "link": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
-      "summary": "A data breach involving government-issued ID documents affects over three million people in Texas.",
-      "published": "Thu, 18 Jun 2026 17:12:53 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/passport-fake-KYC.jpg?resize=1200,675"
     },
     {
       "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
@@ -226,36 +234,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/tension-flares-russia-nasa-international-space-station-leak.jpg?quality=85"
     },
     {
-      "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
-      "link": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
-      "summary": "We can't blame the Neolithic Transition for the plague anymore.",
-      "published": "Thu, 18 Jun 2026 15:04:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Artistic-reconstruction-Illustration-by-Kelvin-Wilson-1152x648.jpg"
-    },
-    {
-      "title": "KDE Plasma 6.7 brings the X11 era to a close",
-      "link": "https://www.theregister.com/os-platforms/2026/06/18/kde-plasma-67-brings-the-x11-era-to-a-close/5258247",
-      "summary": "Plenty of new shiny in the service of improved usability",
-      "published": "Thu, 18 Jun 2026 14:57:26 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5258299&width=800"
-    },
-    {
       "title": "Cop Accused of Using AI to Fake Evidence",
       "link": "https://futurism.com/artificial-intelligence/cop-ai-fake-evidence-uk",
       "summary": "<p>The officer allegedly used AI to \"create evidential material in a number of cases.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/cop-ai-fake-evidence-uk\">Cop Accused of Using AI to Fake Evidence</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 18 Jun 2026 14:42:43 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/dirty-cop-using-ai-fake-evidence-uk.jpg?quality=85"
-    },
-    {
-      "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
-      "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
-      "summary": "Two expeditions, two spacewalks, 322 days in space.",
-      "published": "Thu, 18 Jun 2026 14:34:36 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-061726i-lg-1152x648.jpg"
     },
     {
       "title": "Elon Musk’s Conflicts of Interest With the Trump Administration Regulating SpaceX Are So Profound That They Have Grim Implications for Society",
@@ -314,12 +298,52 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/us-military-elon-musk-grok-bomb-iran.jpg?quality=85"
     },
     {
-      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
-      "link": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
-      "summary": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
-      "published": "Thu, 18 Jun 2026 06:37:59 +0000",
+      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "summary": "Telegram argues India should block specific content, not an entire platform used by millions.",
+      "published": "Fri, 19 Jun 2026 01:01:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/telegram-image.jpg?resize=1200,800"
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "published": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760"
+    },
+    {
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
+      "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
+      "published": "Fri, 19 Jun 2026 00:39:30 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/brandnewday-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-1152x648.jpg"
+    },
+    {
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
+      "published": "2026-06-19T00:49:33-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
+      "link": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+      "summary": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by December 2026, or sometime in 2027. The bad [&#8230;]",
+      "published": "2026-06-18T16:26:06-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "You can now use the Game Boy Camera with your phone",
+      "link": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+      "summary": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy Camera into a charmingly awful desktop webcam two years ago, [&#8230;]",
+      "published": "2026-06-18T16:22:46-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
@@ -376,30 +400,6 @@
       "published": "2026-06-18T13:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1425975603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon employees say they’re facing termination for backing data center limits",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
-      "published": "2026-06-18T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "No more lightbulbs, much more sports: Five predictions for Roku’s future",
-      "link": "https://www.theverge.com/column/951850/fox-roku-predictions",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition of Roku earlier this week, executives of both companies were quick to promise that not much would change in the near future. Sure, getting its [&#8230;]",
-      "published": "2026-06-18T11:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google Calendar finally has more color options for events",
-      "link": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
-      "summary": "Running out of color options for events in Google Calendar shouldn't be an issue going forward. The previous limit of 11 predefined colors has now been expanded to give users access to up to 200 custom colors for individual events across the native Calendar web and mobile apps, and the Calendar API. This started rolling [&#8230;]",
-      "published": "2026-06-18T10:32:16-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Calendar-event-color-expansion-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
