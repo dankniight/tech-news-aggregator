@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T15:30:32.031580",
+  "lastUpdated": "2026-06-19T19:54:20.911278",
   "articles": [
     {
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
@@ -66,28 +66,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
     },
     {
-      "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
-      "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-      "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
-      "published": "Thu, 18 Jun 2026 19:52:19 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/yc-2022-fall-1-e1662566861873-copy.png?w=1000"
-    },
-    {
       "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
       "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
       "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
       "published": "Thu, 18 Jun 2026 19:41:35 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-1152x648.jpg"
-    },
-    {
-      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
-      "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
-      "summary": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
-      "published": "Thu, 18 Jun 2026 19:31:45 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/rivian-yellow-truck.jpg?resize=1200,900"
     },
     {
       "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
@@ -122,28 +106,28 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/elon-musk-conflict-of-interest-spacex-implications.jpg?quality=85"
     },
     {
-      "title": "SpaceX Stock Has Officially Fallen All the Way Down to the Low $170s",
-      "link": "https://futurism.com/space/spacex-stock-fallen-down-170s",
-      "summary": "<p>The rocket ride is over. At least for now.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-fallen-down-170s\">SpaceX Stock Has Officially Fallen All the Way Down to the Low $170s</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 18 Jun 2026 12:49:12 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-fallen-down-170s.jpg?quality=85"
-    },
-    {
-      "title": "Anthropic Sued for Allegedly Ripping Off Its Highest-Paying Customers",
-      "link": "https://futurism.com/artificial-intelligence/anthropic-sued-ripping-off-customers",
-      "summary": "<p>The power users strike back.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-sued-ripping-off-customers\">Anthropic Sued for Allegedly Ripping Off Its Highest-Paying Customers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 18 Jun 2026 12:11:32 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/anthropic-sued-ripping-off-customers.jpg?quality=85"
+      "title": "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
+      "link": "https://www.theregister.com/security/2026/06/19/researchers-drop-checkm8-style-bootrom-exploit-for-a12-and-a13-iphones/5259028",
+      "summary": "Owners of affected iPhones can stop checking for patches now: the fix for this SecureROM bug comes in a new handset",
+      "published": "Fri, 19 Jun 2026 18:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5241038&width=800"
     },
     {
       "title": "Tensordyne makes a big bet on log math to beat Nvidia",
       "link": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
-      "summary": "Who needs compute hungry multiplications when you can just add logarithms",
+      "summary": "Who needs compute-hungry multiplications when you can just add logarithms",
       "published": "Fri, 19 Jun 2026 17:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5258676&width=800"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "published": "Fri, 19 Jun 2026 16:50:58 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1455925032.jpg?resize=1200,675"
     },
     {
       "title": "Bcachefs exits experimental status in new 'performance release'",
@@ -152,6 +136,14 @@
       "published": "Fri, 19 Jun 2026 16:47:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=230365&width=800"
+    },
+    {
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+      "published": "Fri, 19 Jun 2026 16:08:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024"
     },
     {
       "title": "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones",
@@ -226,6 +218,14 @@
       "image_url": "https://image.theregister.com/?imageId=227266&width=800"
     },
     {
+      "title": "Grocery Stores Deploying “AI Shopping Carts” Stuffed With Cameras to Track Your Exact Coordinates and Bombard You With Ads",
+      "link": "https://futurism.com/artificial-intelligence/grocery-stores-ai-shopping-carts-surveillance",
+      "summary": "<p>Anything but this.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/grocery-stores-ai-shopping-carts-surveillance\">Grocery Stores Deploying &#8220;AI Shopping Carts&#8221; Stuffed With Cameras to Track Your Exact Coordinates and Bombard You With Ads</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 19 Jun 2026 13:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/grocery-stores-ai-shopping-carts-surveillance.jpg?quality=85"
+    },
+    {
       "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
@@ -234,12 +234,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=1024"
     },
     {
-      "title": "Geopolitical jitters push Europe's internet registry away from cloud-first strategy",
-      "link": "https://www.theregister.com/networks/2026/06/19/geopolitical-jitters-push-europes-internet-registry-away-from-cloud-first-strategy/5258704",
-      "summary": "Members aren't RIPE for a new charging scheme, though",
-      "published": "Fri, 19 Jun 2026 12:24:41 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=234033&width=800"
+      "title": "Out-of-Control Icebergs Are Wreaking Havoc on the Oceans",
+      "link": "https://futurism.com/science-energy/iceberg-havoc-oceans",
+      "summary": "<p>Beware, sailors.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/iceberg-havoc-oceans\">Out-of-Control Icebergs Are Wreaking Havoc on the Oceans</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 19 Jun 2026 12:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/iceberg-havoc-oceans.jpg?quality=85"
     },
     {
       "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
@@ -282,7 +282,7 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/elderly-woman-high-dose-psychedelic-mushrooms.jpg?quality=85"
     },
     {
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
       "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
       "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
       "published": "Fri, 19 Jun 2026 07:59:12 +0000",
@@ -306,9 +306,9 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/telegram-image.jpg?resize=1200,800"
     },
     {
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
       "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
       "published": "Fri, 19 Jun 2026 00:51:11 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760"
@@ -320,6 +320,22 @@
       "published": "Fri, 19 Jun 2026 00:39:30 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-1152x648.jpg"
+    },
+    {
+      "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+      "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+      "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first [&#8230;]",
+      "published": "2026-06-19T14:41:48-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2245341683.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+      "link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+      "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 [&#8230;]",
+      "published": "2026-06-19T13:24:45-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/philips-hue-wandschalter-modul.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
@@ -384,22 +400,6 @@
       "published": "2026-06-18T16:26:06-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "You can now use the Game Boy Camera with your phone",
-      "link": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-      "summary": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy Camera into a charmingly awful desktop webcam two years ago, [&#8230;]",
-      "published": "2026-06-18T16:22:46-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
-      "link": "https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale",
-      "summary": "The easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 percent off any of HBO Max&#8217;s yearly plans, bringing the ad-supported tier down to $78.99 ($31 off) per [&#8230;]",
-      "published": "2026-06-18T15:18:30-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/rev-1-GRC-14350_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
