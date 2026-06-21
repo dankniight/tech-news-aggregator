@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T04:50:06.218451",
+  "lastUpdated": "2026-06-21T09:56:22.994204",
   "articles": [
     {
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
@@ -82,6 +82,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?resize=1200,676"
     },
     {
+      "title": "Why Amazon hates 'human-in-the-loop' AI governance",
+      "link": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
+      "summary": "VP Eric Brandwine explains people aren't all that great, actually",
+      "published": "Sat, 20 Jun 2026 16:25:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5258685&width=800"
+    },
+    {
       "title": "Every new iOS 27 feature that’s worth knowing about",
       "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
       "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
@@ -122,12 +130,28 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/heat-brutal-dean-faints-oregon-graduation.jpg?quality=85"
     },
     {
+      "title": "EU won't force publishers to grant dead video games an afterlife",
+      "link": "https://www.theregister.com/offbeat/2026/06/20/eu-wont-force-publishers-to-grant-dead-video-games-an-afterlife/5258163",
+      "summary": "Stop Killing Games campaign suffers setback as European Commission favors industry code of conduct over legal obligation",
+      "published": "Sat, 20 Jun 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=247124&width=800"
+    },
+    {
       "title": "Microsoft Announces New Feature That Narcs on You to Your Boss",
       "link": "https://futurism.com/future-society/microsoft-teams-wifi-surveillance-workers",
       "summary": "<p>\"Why is Teams designed to tattle on employees at every turn?\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/microsoft-teams-wifi-surveillance-workers\">Microsoft Announces New Feature That Narcs on You to Your Boss</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Sat, 20 Jun 2026 10:00:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/microsoft-teams-wifi-surveillance-workers.jpg?quality=85"
+    },
+    {
+      "title": "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
+      "link": "https://www.theregister.com/offbeat/2026/06/20/britain-sending-ukraine-an-extra-30000-drones-now-150000-all-up/5258833",
+      "summary": "Missiles and radars also included in £752M aid package",
+      "published": "Sat, 20 Jun 2026 09:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=141320&width=800"
     },
     {
       "title": "TikTok Has Been Completely Taken Over by AI Slop",
@@ -186,12 +210,68 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Aura-Ink-Graphite-Lifestyle-Wallmount-Horizontal.png?resize=1200,670"
     },
     {
+      "title": "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
+      "link": "https://www.theregister.com/security/2026/06/19/researchers-drop-checkm8-style-bootrom-exploit-for-a12-and-a13-iphones/5259028",
+      "summary": "Owners of affected iPhones can stop checking for patches now: the fix for this SecureROM bug comes in a new handset",
+      "published": "Fri, 19 Jun 2026 18:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5241038&width=800"
+    },
+    {
+      "title": "Tensordyne makes a big bet on log math to beat Nvidia",
+      "link": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
+      "summary": "Who needs compute-hungry multiplications when you can just add logarithms",
+      "published": "Fri, 19 Jun 2026 17:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5258676&width=800"
+    },
+    {
       "title": "Every fusion startup that has raised over $100M",
       "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
       "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
       "published": "Fri, 19 Jun 2026 16:50:58 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1455925032.jpg?resize=1200,675"
+    },
+    {
+      "title": "Bcachefs exits experimental status in new 'performance release'",
+      "link": "https://www.theregister.com/software/2026/06/19/bcachefs-exits-experimental-status-in-new-performance-release/5258801",
+      "summary": "More Rust, but more trouble with AI slop, too",
+      "published": "Fri, 19 Jun 2026 16:47:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230365&width=800"
+    },
+    {
+      "title": "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones",
+      "link": "https://www.theregister.com/offbeat/2026/06/19/waymo-hits-the-brakes-after-robotaxis-keep-missing-the-signs-for-freeway-construction-zones/5258951",
+      "summary": "Nearly 4,000 vehicles recalled for driving past closure warnings and between cones marking shut lanes",
+      "published": "Fri, 19 Jun 2026 16:03:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=223701&width=800"
+    },
+    {
+      "title": "Telegram founder accuses Meta of sabotaging access in India with BGP hijacks",
+      "link": "https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866",
+      "summary": "Allegations of fake routes are fake news, says Indian telco Jio",
+      "published": "Fri, 19 Jun 2026 15:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094169&width=800"
+    },
+    {
+      "title": "Everything's bigger and better in Texas – even data breaches",
+      "link": "https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815",
+      "summary": "Hunting and fishing license incident catches 3M residents",
+      "published": "Fri, 19 Jun 2026 15:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093857&width=800"
+    },
+    {
+      "title": "Vercel debuts eve open source agent framework, tries to fix shadow AI with Passport",
+      "link": "https://www.theregister.com/devops/2026/06/19/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5258726",
+      "summary": "Cost premium of using AWS indirectly via Vercel is mitigated by more efficient use of compute resources, CTO claims",
+      "published": "Fri, 19 Jun 2026 14:35:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5258776&width=800"
     },
     {
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
