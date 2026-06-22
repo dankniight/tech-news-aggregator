@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T19:50:10.485706",
+  "lastUpdated": "2026-06-22T04:58:25.688936",
   "articles": [
     {
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
@@ -242,6 +242,14 @@
       "image_url": "https://image.theregister.com/?imageId=141320&width=800"
     },
     {
+      "title": "Anthropic's Mythos mess just keeps getting more complicated",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/22/anthropics-mythos-mess-just-keeps-getting-more-complicated/5258577",
+      "summary": "It sure seems a lot like the Trump administration is just bulling Anthropic for not acquiescing to its every move, and its the cybersecurity community who'll suffer for it",
+      "published": "Mon, 22 Jun 2026 01:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5254625&width=800"
+    },
+    {
       "title": "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
       "link": "https://www.theregister.com/security/2026/06/19/researchers-drop-checkm8-style-bootrom-exploit-for-a12-and-a13-iphones/5259028",
       "summary": "Owners of affected iPhones can stop checking for patches now: the fix for this SecureROM bug comes in a new handset",
@@ -288,14 +296,6 @@
       "published": "Fri, 19 Jun 2026 15:01:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=4093857&width=800"
-    },
-    {
-      "title": "Vercel debuts eve open source agent framework, tries to fix shadow AI with Passport",
-      "link": "https://www.theregister.com/devops/2026/06/19/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5258726",
-      "summary": "Cost premium of using AWS indirectly via Vercel is mitigated by more efficient use of compute resources, CTO claims",
-      "published": "Fri, 19 Jun 2026 14:35:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5258776&width=800"
     },
     {
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
