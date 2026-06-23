@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-06-23T03:59:08.737458",
+  "lastUpdated": "2026-06-23T09:51:23.771679",
   "articles": [
+    {
+      "title": "Datacenters dip a toe back into waterborne computing despite obvious challenges",
+      "link": "https://www.theregister.com/systems/2026/06/23/datacenters-dip-a-toe-back-into-waterborne-computing-despite-obvious-challenges/5259331",
+      "summary": "Floating or sub-surface bit barns are all the rage, but unlikely to compete with multi-gigawatt sites",
+      "published": "Tue, 23 Jun 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5230107&width=800"
+    },
+    {
+      "title": "Digital indigestion: Fizzy Coca-Cola display chokes on full storage",
+      "link": "https://www.theregister.com/offbeat/2026/06/23/digital-indigestion-fizzy-coca-cola-display-chokes-on-full-storage/5259124",
+      "summary": "Ubuntu warning bubbles up on an Azores advertising screen",
+      "published": "Tue, 23 Jun 2026 10:27:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5259144&width=800"
+    },
+    {
+      "title": "Five Eyes spooks warn AI means infosec incidents can become ‘major operational and financial crises’",
+      "link": "https://www.theregister.com/security/2026/06/23/five-eyes-spooks-warn-ai-means-infosec-incidents-can-become-major-operational-and-financial-crises/5259916",
+      "summary": "Bosses told to step up and get cybersecurity right",
+      "published": "Tue, 23 Jun 2026 07:29:41 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5259943&width=800"
+    },
+    {
+      "title": "India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1",
+      "link": "https://www.theregister.com/personal-tech/2026/06/23/india-and-china-are-home-to-29-billion-people-and-together-they-bought-just-13-million-pcs-in-q1/5259893",
+      "summary": "PLUS: Indian telco ponders broadband satellites; Samsung goes all-in on OpenAI; Vietnam centrally plans ten tech giants; and more!",
+      "published": "Tue, 23 Jun 2026 06:06:02 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254136&width=800"
+    },
+    {
+      "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+      "link": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+      "summary": "The purpose of Starfall is to support the \"transport and delivery of goods through space.\"",
+      "published": "Tue, 23 Jun 2026 05:25:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg"
+    },
     {
       "title": "Sniff out stale AI override advice with this open source CLI",
       "link": "https://www.theregister.com/security/2026/06/23/sniff-out-stale-ai-override-advice-with-this-open-source-cli/5259853",
@@ -26,9 +66,9 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800"
     },
     {
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "summary": "OpenAI is using AI to help the open source community better protect itself.",
       "published": "Tue, 23 Jun 2026 00:11:31 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800"
@@ -170,28 +210,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/illinois-battered-freak-tornadoes-alley.jpg?quality=85"
     },
     {
-      "title": "The database that refused to die: How Postgres survived its own creators",
-      "link": "https://www.theregister.com/databases/2026/06/22/the-database-that-refused-to-die-how-postgres-survived-its-own-creators/5259716",
-      "summary": "From academic toss-aside to cloud substrate",
-      "published": "Mon, 22 Jun 2026 19:43:36 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682919&width=800"
-    },
-    {
       "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
       "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
       "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
       "published": "Mon, 22 Jun 2026 19:25:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/tata-electronics.jpg?resize=1200,800"
-    },
-    {
-      "title": "Ukraine puts its Russian war trophies online for allies to pick apart",
-      "link": "https://www.theregister.com/offbeat/2026/06/22/ukraine-puts-its-russian-war-trophies-online-for-allies-to-pick-apart/5259688",
-      "summary": "TrophyLab bad for Vlad as battlefield losses spill the secrets they had",
-      "published": "Mon, 22 Jun 2026 19:19:33 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=246096&width=800"
     },
     {
       "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
@@ -224,22 +248,6 @@
       "published": "Mon, 22 Jun 2026 18:30:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/elon-musk-spacex-union-pacific-corruption-fraud.jpg?quality=85"
-    },
-    {
-      "title": "Inspired by musical greeting cards, DARPA demands tiny, cheap, self-modifying systems",
-      "link": "https://www.theregister.com/offbeat/2026/06/22/inspired-by-musical-greeting-cards-darpa-demands-tiny-cheap-self-modifying-systems/5259594",
-      "summary": "One can't help but see a very clear instance of the triple constraint problem in action here",
-      "published": "Mon, 22 Jun 2026 18:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5259624&width=800"
-    },
-    {
-      "title": "The memory crisis is getting so bad that even retro RAM prices are going to the Moon",
-      "link": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
-      "summary": "Some hardware firms redesigning products to use older DDR2 and DDR3 components",
-      "published": "Mon, 22 Jun 2026 18:07:38 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5259665&width=800"
     },
     {
       "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
@@ -282,14 +290,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/1779807626173-1020x648.jpg"
     },
     {
-      "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
-      "link": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
-      "summary": "The high-altitude race is a unique test of car and driver.",
-      "published": "Mon, 22 Jun 2026 15:07:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-1152x648.jpg"
-    },
-    {
       "title": "Desperate AI Startup Now Cleaning Messy Apartments for Free",
       "link": "https://futurism.com/future-society/ai-startups-cleaning-messy-apartments-free",
       "summary": "<p>This is just depressing.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-startups-cleaning-messy-apartments-free\">Desperate AI Startup Now Cleaning Messy Apartments for Free</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -320,6 +320,14 @@
       "published": "Mon, 22 Jun 2026 10:02:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-investors-losing-money.jpg?quality=85"
+    },
+    {
+      "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure",
+      "link": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure",
+      "summary": "Amflow, the e-bike brand spun out of DJI, just announced its TL Carbon, a do-it-all \"eSUV\" suitable for both bikepacking adventures and dropping the kid at daycare on your cycle to work. The TL Carbon is built around Amflow's incredibly compact yet powerful Avinox M2 mid-drive motor. The all-terrain e-bike offers 125Nm of hill-flattening torque [&#8230;]",
+      "published": "2026-06-23T03:00:20-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Child-Safety-Seats.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
@@ -392,14 +400,6 @@
       "published": "2026-06-22T13:05:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Valve explains why it isn&#8217;t subsidizing the Steam Machine",
-      "link": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
-      "summary": "Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations with a bundled Steam Controller cost an extra $79 each. Despite Valve offering a console alternative with the [&#8230;]",
-      "published": "2026-06-22T13:02:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
