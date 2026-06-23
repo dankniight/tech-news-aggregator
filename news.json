@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-06-23T15:11:46.304508",
+  "lastUpdated": "2026-06-23T20:11:27.048657",
   "articles": [
+    {
+      "title": "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
+      "link": "https://www.theregister.com/security/2026/06/23/mythos-discovers-squidbleed-a-memory-leak-thats-gone-undetected-since-clinton-era/5260367",
+      "summary": "Plus more blasts from the past: NetWare, FTP, and HTTP",
+      "published": "Tue, 23 Jun 2026 20:07:44 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5260387&width=800"
+    },
+    {
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
+      "published": "Tue, 23 Jun 2026 19:49:55 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Victory-dollars-dollar-signs.png?resize=1200,960"
+    },
+    {
+      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+      "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+      "summary": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
+      "published": "Tue, 23 Jun 2026 19:43:56 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/03/keys-red-lock-key-1.jpg?resize=1200,800"
+    },
+    {
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+      "summary": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
+      "published": "Tue, 23 Jun 2026 19:19:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800"
+    },
+    {
+      "title": "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch",
+      "link": "https://www.theregister.com/offbeat/2026/06/23/space-force-goes-to-pretend-orbital-war-following-record-fast-rocket-lab-launch/5260277",
+      "summary": "Less than 17 hours after receiving orders, Rocket Lab put Pioneer in orbit for close-range maneuvers with True Anomaly's Jackal satellite",
+      "published": "Tue, 23 Jun 2026 18:23:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5260291&width=800"
+    },
+    {
+      "title": "A curious crossover: The Toyota C-HR review",
+      "link": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
+      "summary": "Although it's on the smaller side, this electric vehicle is not very chill.",
+      "published": "Tue, 23 Jun 2026 18:19:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026_Toyota_C-HR_XSE_Tandoori_108_NR-1152x648.jpg"
+    },
+    {
+      "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
+      "link": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
+      "summary": "\"The FCC wants to control who is allowed on the show,\" ABC ad tells viewers.",
+      "published": "Tue, 23 Jun 2026 17:59:40 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-1152x648-1770666942.jpg"
+    },
+    {
+      "title": "O2 joins UK 2G switch-off with summer 2029 start date",
+      "link": "https://www.theregister.com/networks/2026/06/23/o2-joins-uk-2g-switch-off-with-summer-2029-start-date/5260297",
+      "summary": "It's not just old phones – many smart meters and telecare alarms still use the ancient technology",
+      "published": "Tue, 23 Jun 2026 17:56:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1683951&width=800"
+    },
+    {
+      "title": "Early land animals skipped the tadpole phase",
+      "link": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
+      "summary": "Current amphibian development may not have been typical of early land vertebrates.",
+      "published": "Tue, 23 Jun 2026 17:49:09 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-3-1152x648.jpeg"
+    },
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "published": "Tue, 23 Jun 2026 17:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?resize=1200,687"
+    },
     {
       "title": "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze",
       "link": "https://www.theregister.com/personal-tech/2026/06/23/valve-opens-steam-machine-pre-orders-with-queue-lottery-and-hefty-prices-amid-ai-squeeze/5260242",
@@ -8,6 +88,14 @@
       "published": "Tue, 23 Jun 2026 16:46:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=255001&width=800"
+    },
+    {
+      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
+      "link": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+      "summary": "Public notice of a single \"compassionate use\" case is odd in every way.",
+      "published": "Tue, 23 Jun 2026 16:16:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2244838922-1152x648.jpg"
     },
     {
       "title": "21,000 Oracle jobs vanish amid Big Red's big bets on AI",
@@ -18,6 +106,14 @@
       "image_url": "https://image.theregister.com/?imageId=5225140&width=800"
     },
     {
+      "title": "It Sounds an Awful Lot Like They Gave Trump Early Access to an Incredibly Powerful Experimental Weight Loss Drug",
+      "link": "https://futurism.com/health-medicine/trump-early-access-weight-loss-drug",
+      "summary": "<p>The case \"drew the interest of top health officials.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/trump-early-access-weight-loss-drug\">It Sounds an Awful Lot Like They Gave Trump Early Access to an Incredibly Powerful Experimental Weight Loss Drug</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 23 Jun 2026 15:23:01 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-early-access-weight-loss-drug.jpg?quality=85"
+    },
+    {
       "title": "Bold move, Cotton: Trump administration tells US techies it expects American quantum computer by 2028",
       "link": "https://www.theregister.com/hpc/2026/06/23/bold-move-cotton-trump-administration-tells-us-techies-it-expects-american-quantum-computer-by-2028/5260074",
       "summary": "Ahem. National effort required to kick-start the era of quantum-enabled scientific discovery and keep America ahead of the game",
@@ -26,9 +122,17 @@
       "image_url": "https://image.theregister.com/?imageId=259233&width=800"
     },
     {
+      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+      "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "summary": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
+      "published": "Tue, 23 Jun 2026 15:12:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/lastpass-password-manager.jpg?resize=1200,802"
+    },
+    {
       "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
       "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
-      "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts a braiding assistant for professional stylists.",
+      "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
       "published": "Tue, 23 Jun 2026 15:09:38 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/HaloBraid.jpg?resize=1200,799"
@@ -42,6 +146,14 @@
       "image_url": "https://image.theregister.com/?imageId=5260071&width=800"
     },
     {
+      "title": "Trump Orders Construction of Powerful Quantum Computer",
+      "link": "https://futurism.com/robots-and-machines/trump-powerful-quantum-computer",
+      "summary": "<p>\"We are going to be investing in American quantum leadership like never before.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/trump-powerful-quantum-computer\">Trump Orders Construction of Powerful Quantum Computer</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 23 Jun 2026 14:22:12 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-powerful-quantum-computer.jpg?quality=85"
+    },
+    {
       "title": "Meta debuts new, cheaper smart glasses under its own brand",
       "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
       "summary": "The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
@@ -52,7 +164,7 @@
     {
       "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
       "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
       "published": "Tue, 23 Jun 2026 14:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
@@ -98,12 +210,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Torleif_Svensson-FikaJobsAI.jpeg?w=1200"
     },
     {
+      "title": "AI Companies Are Trying to Seize Control of Elections",
+      "link": "https://futurism.com/artificial-intelligence/ai-companies-elections-midterms",
+      "summary": "<p>\"There was no way as a grassroots person that I could compete with that kind of money.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-companies-elections-midterms\">AI Companies Are Trying to Seize Control of Elections</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 23 Jun 2026 12:45:36 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/ai-companies-elections-midterms.jpg?quality=85"
+    },
+    {
       "title": "Blast from the past as GIMP 0.54 is revived in Flatpak form",
       "link": "https://www.theregister.com/software/2026/06/23/blast-from-the-past-as-gimp-054-is-revived-in-flatpak-form/5259651",
       "summary": "Retro-computing fun for the nostalgic with first (and last) release to use Motif instead of GTK",
       "published": "Tue, 23 Jun 2026 12:45:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5259663&width=800"
+    },
+    {
+      "title": "Amazon Just Pulled Something Absolutely Craven to Avoid Embarrassing Its Friends at OpenAI",
+      "link": "https://futurism.com/future-society/amazon-craven-avoid-embarrassing-friends-openai",
+      "summary": "<p>The untouchable tech elite are closing ranks.</p>\n<p>The post <a href=\"https://futurism.com/future-society/amazon-craven-avoid-embarrassing-friends-openai\">Amazon Just Pulled Something Absolutely Craven to Avoid Embarrassing Its Friends at OpenAI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 23 Jun 2026 12:07:19 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/amazon-craven-avoid-embarrassing-friends-openai.jpg?quality=85"
     },
     {
       "title": "How to burst the AI bubble: Strike at its roots",
@@ -122,28 +250,12 @@
       "image_url": "https://image.theregister.com/?imageId=1681945&width=800"
     },
     {
-      "title": "Datacenters dip a toe back into waterborne computing despite obvious challenges",
-      "link": "https://www.theregister.com/systems/2026/06/23/datacenters-dip-a-toe-back-into-waterborne-computing-despite-obvious-challenges/5259331",
-      "summary": "Floating or sub-surface bit barns are all the rage, but unlikely to compete with multi-gigawatt sites",
-      "published": "Tue, 23 Jun 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5230107&width=800"
-    },
-    {
       "title": "SpaceX Stock Has Officially Fallen Below Its Opening Price",
       "link": "https://futurism.com/space/spacex-stock-fallen-below-opening-price",
       "summary": "<p>Crashing back to Earth.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-fallen-below-opening-price\">SpaceX Stock Has Officially Fallen Below Its Opening Price</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 23 Jun 2026 11:01:17 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-fallen-below-opening-price.jpg?quality=85"
-    },
-    {
-      "title": "Digital indigestion: Fizzy Coca-Cola display chokes on full storage",
-      "link": "https://www.theregister.com/offbeat/2026/06/23/digital-indigestion-fizzy-coca-cola-display-chokes-on-full-storage/5259124",
-      "summary": "Ubuntu warning bubbles up on an Azores advertising screen",
-      "published": "Tue, 23 Jun 2026 10:27:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5259144&width=800"
     },
     {
       "title": "New Paper Proposes What Really Causes AI Psychosis",
@@ -170,52 +282,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/a24-fans-meltdown-google-ai-partnership.jpg?quality=85"
     },
     {
-      "title": "Five Eyes spooks warn AI means infosec incidents can become ‘major operational and financial crises’",
-      "link": "https://www.theregister.com/security/2026/06/23/five-eyes-spooks-warn-ai-means-infosec-incidents-can-become-major-operational-and-financial-crises/5259916",
-      "summary": "Bosses told to step up and get cybersecurity right",
-      "published": "Tue, 23 Jun 2026 07:29:41 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5259943&width=800"
-    },
-    {
       "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
       "link": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
       "summary": "The purpose of Starfall is to support the \"transport and delivery of goods through space.\"",
       "published": "Tue, 23 Jun 2026 05:25:16 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg"
-    },
-    {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "published": "Tue, 23 Jun 2026 01:27:55 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800"
-    },
-    {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "summary": "OpenAI is using AI to help the open source community better protect itself.",
-      "published": "Tue, 23 Jun 2026 00:11:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800"
-    },
-    {
-      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-      "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
-      "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
-      "published": "Mon, 22 Jun 2026 22:59:57 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2202236922.jpg?w=1024"
-    },
-    {
-      "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
-      "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
-      "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
-      "published": "Mon, 22 Jun 2026 22:43:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800"
     },
     {
       "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
@@ -234,52 +306,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057-1152x648.jpg"
     },
     {
-      "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
-      "link": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
-      "summary": "He had retinal tears and bruises from squishing his eyeballs with the gun.",
-      "published": "Mon, 22 Jun 2026 21:02:08 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg"
-    },
-    {
-      "title": "The AI world is getting ‘loopy’",
-      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "published": "Mon, 22 Jun 2026 20:53:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676"
-    },
-    {
-      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
-      "summary": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
-      "published": "Mon, 22 Jun 2026 20:10:34 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg"
-    },
-    {
       "title": "Illinois Is Getting Battered by Freak Tornadoes",
       "link": "https://futurism.com/science-energy/illinois-battered-freak-tornadoes-alley",
       "summary": "<p>Illinois has already withstood more tornadoes in 2026 than any other state, for an entire decade.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/illinois-battered-freak-tornadoes-alley\">Illinois Is Getting Battered by Freak Tornadoes</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 22 Jun 2026 19:50:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/illinois-battered-freak-tornadoes-alley.jpg?quality=85"
-    },
-    {
-      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
-      "published": "Mon, 22 Jun 2026 19:16:52 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
-    },
-    {
-      "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
-      "link": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
-      "summary": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
-      "published": "Mon, 22 Jun 2026 19:02:45 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg"
     },
     {
       "title": "Elon Musk Says SpaceX Is “Like Union Pacific,” Which Is Extremely Funny If You Know What Actually Happened to Union Pacific",
@@ -290,116 +322,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/elon-musk-spacex-union-pacific-corruption-fraud.jpg?quality=85"
     },
     {
-      "title": "Head of Microsoft Rages at His Fellow CEOs for Admitting What They’re Actually Doing to Society With AI",
-      "link": "https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society",
-      "summary": "<p>\"We now have to do the hard work in earning the social permission.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society\">Head of Microsoft Rages at His Fellow CEOs for Admitting What They&#8217;re Actually Doing to Society With AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 22 Jun 2026 16:47:53 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/microsoft-ceo-satya-nadella-ai-society.jpg?quality=85"
-    },
-    {
-      "title": "SpaceX Stock Has Officially Fallen All the Way Down to the $150s",
-      "link": "https://futurism.com/space/spacex-stock-fallen-down-160s",
-      "summary": "<p>The company is having its worst day of trading yet.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-fallen-down-160s\">SpaceX Stock Has Officially Fallen All the Way Down to the $150s</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 22 Jun 2026 15:24:12 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-fallen-down-160s.jpg?quality=85"
-    },
-    {
-      "title": "Desperate AI Startup Now Cleaning Messy Apartments for Free",
-      "link": "https://futurism.com/future-society/ai-startups-cleaning-messy-apartments-free",
-      "summary": "<p>This is just depressing.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-startups-cleaning-messy-apartments-free\">Desperate AI Startup Now Cleaning Messy Apartments for Free</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 22 Jun 2026 14:08:47 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/ai-startups-cleaning-messy-apartments-free.jpg?quality=85"
-    },
-    {
-      "title": "Beloved Grandmother Was Standing in Her Own House When a Tesla, Allegedly on Autopilot, Smashed Through the Wall and Killed Her in Grandchildren’s Playroom",
-      "link": "https://futurism.com/advanced-transport/beloved-grandmother-tesla-death",
-      "summary": "<p>\"She didn't deserve to go that way.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/beloved-grandmother-tesla-death\">Beloved Grandmother Was Standing in Her Own House When a Tesla, Allegedly on Autopilot, Smashed Through the Wall and Killed Her in Grandchildren&#8217;s Playroom</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 22 Jun 2026 12:35:53 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/beloved-grandmother-tesla-death.jpg?quality=85"
-    },
-    {
-      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me [&#8230;]",
-      "published": "2026-06-23T11:00:00-04:00",
+      "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games",
+      "link": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+      "summary": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there’s a better or equivalent price on digital versions, as well [&#8230;]",
+      "published": "2026-06-23T16:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Hoto’s 25-bit electric screwdriver is 40 percent off during Prime Day",
-      "link": "https://www.theverge.com/gadgets/953038/hoto-electric-screwdriver-kit-pro-amazon-deal-sale",
-      "summary": "You knew there’d be a Hoto deal, right? Whether you&#8217;re moving into a new apartment or tackling a growing list of small repairs around the house, a good electric screwdriver can save you time and effort. Hoto’s 3.6V Electric Screwdriver Kit Pro is one we love to recommend, especially because it&#8217;s on sale for $28.49 [&#8230;]",
-      "published": "2026-06-23T10:00:00-04:00",
+      "title": "Prime Day has served up several great deals on 4K TVs",
+      "link": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+      "summary": "There are three times of year that are best for buying a new TV: leading up to the Super Bowl, Black Friday, and of course now, during Amazon Prime Day. Many of the new 2026 models have been released, and while some will be seeing discounts, the majority of the best deals are going to [&#8230;]",
+      "published": "2026-06-23T15:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/hoto.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sony-XR-A95L.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Oura Ring 4 is as low as $226 for Prime Day",
-      "link": "https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale",
-      "summary": "Yes, the Oura Ring 5 just launched. But if you’re looking for a bargain and don’t mind a slightly thicker smart ring, then copping the last-gen Oura Ring 4 is still a smart and savvy move. Especially since the price is as low as $226 in most sizes and color schemes at Amazon for Prime [&#8230;]",
-      "published": "2026-06-23T09:30:00-04:00",
+      "title": "Tesla claims driver &#8216;manually overrode self-driving&#8217; in deadly Texas crash",
+      "link": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
+      "summary": "Tesla is pushing back on claims that its Full Self-Driving (FSD) system caused a fatal Texas crash, where a speeding Model 3 barreled into a home, killing a 76-year-old woman inside. In a reply on X, Tesla AI head Ashok Elluswamy says the driver \"manually overrode self-driving by pressing the accelerator all the way to [&#8230;]",
+      "published": "2026-06-23T15:11:04-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665135/247314_Oura_Ring_4_AKrales_0041.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2233586350.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
-      "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you [&#8230;]",
-      "published": "2026-06-23T09:25:42-04:00",
+      "title": "Here are the best Prime Day deals on the Verge staff’s favorite stuff",
+      "link": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
+      "summary": "While there are several thousand products discounted for Prime Day 2026, most of them aren’t what we’d call winners. We’ve already gathered the best Prime Day deals in our main roundup, but we’re dedicating this page to discounts on Verge-favorite items to help you find useful gear, whether it’s tech-adjacent or not. We’re covering Prime [&#8230;]",
+      "published": "2026-06-23T15:06:37-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-ai-camera-assistant-samples.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25769556/sonosfive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "My go-to Kindle is back at its best price yet for Prime Day",
-      "link": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale",
-      "summary": "If you’ve been thinking about picking up a Kindle, Amazon’s Prime Day sale is a great time to do it. The retailer is currently offering steep discounts on several of its e-readers, including the latest Kindle Paperwhite with 16GB of storage and ads, which is down to $124.99 ($35 off) at Amazon. If you&#8217;d prefer [&#8230;]",
-      "published": "2026-06-23T09:00:00-04:00",
+      "title": "The Lenovo Legion Go S gaming handheld is $549 for Prime Day",
+      "link": "https://www.theverge.com/gadgets/955090/lenovo-legion-go-s-prime-day-deal-sale",
+      "summary": "If gaming hardware prices have you looking for less expensive alternatives, Amazon has the Windows version of the Lenovo Legion Go S on sale for $549.99 (typically around $700) for Prime Day, matching a previous low we spotted at Woot a month or so ago. What it lacks in raw performance, it makes up for [&#8230;]",
+      "published": "2026-06-23T15:00:39-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Kindle-Paperwhite-2024-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/247466_CES_2025_Lenovo_Legion_Go_S_windows_ADiBenedetto_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Valve confirms it&#8217;s working with Intel and Nvidia on SteamOS for more GPUs",
-      "link": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
-      "summary": "MSI's Intel-powered Claw gaming handhelds have so far mostly been Windows machines, meaning that anyone who picks one up has to deal with the crusty experience that is Windows on a handheld gaming PC. But now, both Valve and Intel tell The Verge that they're working with each other, and people like YouTuber ETA Prime [&#8230;]",
-      "published": "2026-06-23T09:00:00-04:00",
+      "title": "Eufy’s Omni C28 is one of the best Prime Day deals on robot vacuums",
+      "link": "https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale",
+      "summary": "If you’re in the market for a robot vacuum, Amazon Prime Day has brought a ton of discounts that we’re tracking, but the Eufy Omni C28 is one of the best deals we&#8217;ve spotted so far. It&#8217;s a great robot vacuum and mop hybrid that offers a number of flagship features without the flagship price. [&#8230;]",
+      "published": "2026-06-23T15:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/msi-claw-8-ai-plus-sean-hollister-verge-331A1260-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "I’m not giving up my Steam Deck for MSI’s new Claw",
-      "link": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
-      "summary": "This is not a review of the MSI Claw 8 EX AI Plus, the first gaming handheld available with Intel's new Arc G3 Extreme handheld gaming chip. Now that my colleague Sean Hollister is done reviewing the Steam Machine, I'll let him go deep on the new Claw at some point in the future. This [&#8230;]",
-      "published": "2026-06-23T09:00:00-04:00",
+      "title": "Cheap stuff that doesn’t suck and is under $25 for Prime Day",
+      "link": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+      "summary": "We at The Verge love a good gadget or tchotchke, especially when it’s not too expensive. But with the rising cost of just about everything these days, many once-cheap gadgets aren’t so affordable anymore. Amazon and other retailers sell all sorts of products from word salad brand names, but only some of it is handy [&#8230;]",
+      "published": "2026-06-23T15:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/verge-msi-claw-ex-sean-hollister-1-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/02-l.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Meta launches cheaper smart glasses without Ray-Ban",
-      "link": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "summary": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite [&#8230;]",
-      "published": "2026-06-23T09:00:00-04:00",
+      "title": "Zuckerberg reportedly wants a Polymarket clone — but without real money",
+      "link": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
+      "summary": "Meta CEO Mark Zuckerberg has tasked a small team at the company with making an app that works like the prediction markets Polymarket and Kalshi, according to The New York Times. The app, internally called \"Arena\" won't let users wager real money, but instead will \"probably rely\" on allowing users to bet with points, the [&#8230;]",
+      "published": "2026-06-23T14:31:25-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&#038;strip=all&#038;crop=8.55,21.565660205136,82.25546875,73.01650212582"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546251/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "These are my favorite Prime Day deals on earbuds and headphones",
+      "link": "https://www.theverge.com/gadgets/952601/earbuds-headphones-deals-prime-day-2026",
+      "summary": "I can’t think of a tech accessory I actively use more than headphones. Whether it’s for music, calls, or just to block out ambient noise so I can focus, I always have a pair close at hand. One of the best times to get some of your own with some big savings attached is during [&#8230;]",
+      "published": "2026-06-23T14:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The best Prime Day deals we found on our favorite gear",
       "link": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
       "summary": "Amazon’s Prime Day is on, and it’s happening for the next four days. Prime members can jump into the deals now until the sale officially ends at 3:01AM ET / 12:01AM PT June 27th. Many discounts will remain the same throughout the duration. We’ve been covering Prime Day in-depth since the shopping event debuted over [&#8230;]",
-      "published": "2026-06-23T08:59:36-04:00",
+      "published": "2026-06-23T14:14:44-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "These are the best smart home deals this Prime Day",
-      "link": "https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell",
-      "summary": "Every Prime Day is a good day to make your home smarter, as deals on connected gear proliferate not just on Amazon but all across the web. And this Prime Day is no different. I sifted through hundreds of offers to find the ones that actually stand out — only the deepest discounts on the [&#8230;]",
-      "published": "2026-06-23T07:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258229_Aqara_U400_Smart_Lock_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
