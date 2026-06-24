@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-06-24T04:01:10.943860",
+  "lastUpdated": "2026-06-24T09:38:50.108267",
   "articles": [
+    {
+      "title": "Alpine Linux 3.24 scales new desktop heights with COSMIC",
+      "link": "https://www.theregister.com/os-platforms/2026/06/24/alpine-linux-324-scales-new-desktop-heights-with-cosmic/5259985",
+      "summary": "Plus interesting news from the Xfce-on-Wayland project",
+      "published": "Wed, 24 Jun 2026 11:35:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5260000&width=800"
+    },
+    {
+      "title": "Ordering a trip back to 2009, with a side of nostalgia",
+      "link": "https://www.theregister.com/offbeat/2026/06/24/ordering-a-trip-back-to-2009-with-a-side-of-nostalgia/5259669",
+      "summary": "A time when Windows 7 was Microsoft's latest and greatest",
+      "published": "Wed, 24 Jun 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5259700&width=800"
+    },
+    {
+      "title": "Explainer: Why your legacy storage is choking your expensive GPU",
+      "link": "https://www.theregister.com/storage/2026/06/24/explainer-why-your-legacy-storage-is-choking-your-expensive-gpu/5260472",
+      "summary": "THE REGISTER EXPLAINER: GPUs idle? Blame your outdated storage, not the silicon sprinters.",
+      "published": "Wed, 24 Jun 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1666144&width=800"
+    },
+    {
+      "title": "Germany went off the rails as wireless outage saw all trains cancelled",
+      "link": "https://www.theregister.com/networks/2026/06/24/germany-went-off-the-rails-as-wireless-outage-saw-all-trains-cancelled/5260580",
+      "summary": "Unexplained GSM-R failure at Deutsche Bahn caused confusion and delay",
+      "published": "Wed, 24 Jun 2026 08:05:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=242567&width=800"
+    },
+    {
+      "title": "You have got to be KDDI-ng – Japanese telco exposes 14.2 million managed email credentials",
+      "link": "https://www.theregister.com/cyber-crime/2026/06/24/you-have-got-to-be-kddi-ng-japanese-telco-exposes-142-million-managed-email-credentials/5260555",
+      "summary": "Five ISPs and plenty of users await their fate",
+      "published": "Wed, 24 Jun 2026 06:56:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238519&width=800"
+    },
+    {
+      "title": "How to invest when everything is moving too fast",
+      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "summary": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating.",
+      "published": "Wed, 24 Jun 2026 06:26:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/LA-by-ChatGPT.png?resize=1200,801"
+    },
+    {
+      "title": "Chinese supercomputer using local processors heads TOP500 list",
+      "link": "https://www.theregister.com/hpc/2026/06/24/chinese-supercomputer-using-local-processors-heads-top500-list/5260532",
+      "summary": "Use of Arm cores and Linux mean Beijing hasn’t broken away from the world",
+      "published": "Wed, 24 Jun 2026 05:34:44 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=229889&width=800"
+    },
     {
       "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
       "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
@@ -130,14 +186,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-1152x648-1770666942.jpg"
     },
     {
-      "title": "O2 joins UK 2G switch-off with summer 2029 start date",
-      "link": "https://www.theregister.com/networks/2026/06/23/o2-joins-uk-2g-switch-off-with-summer-2029-start-date/5260297",
-      "summary": "It's not just old phones – many smart meters and telecare alarms still use the ancient technology",
-      "published": "Tue, 23 Jun 2026 17:56:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683951&width=800"
-    },
-    {
       "title": "Early land animals skipped the tadpole phase",
       "link": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
       "summary": "Current amphibian development may not have been typical of early land vertebrates.",
@@ -152,14 +200,6 @@
       "published": "Tue, 23 Jun 2026 17:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?resize=1200,687"
-    },
-    {
-      "title": "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze",
-      "link": "https://www.theregister.com/personal-tech/2026/06/23/valve-opens-steam-machine-pre-orders-with-queue-lottery-and-hefty-prices-amid-ai-squeeze/5260242",
-      "summary": "Alternatively, you can install SteamOS 3.8 on your own AMD-powered hardware",
-      "published": "Tue, 23 Jun 2026 16:46:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255001&width=800"
     },
     {
       "title": "Meta’s Program That Spies on Every Employee’s Computer Just Blew Up in Its Face in Spectacular Fashion",
@@ -178,28 +218,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2244838922-1152x648.jpg"
     },
     {
-      "title": "21,000 Oracle jobs vanish amid Big Red's big bets on AI",
-      "link": "https://www.theregister.com/databases/2026/06/23/21000-oracle-jobs-vanish-amid-big-reds-big-bets-on-ai/5260086",
-      "summary": "Annual report reveals workforce fell from 162,000 to 141,000 in a year as company pours billions into datacenter expansion",
-      "published": "Tue, 23 Jun 2026 16:12:15 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5225140&width=800"
-    },
-    {
       "title": "White House Pushes Back Against Claim That Trump Was Given Early Access to a Powerful Experimental Weight Loss Drug",
       "link": "https://futurism.com/health-medicine/trump-early-access-weight-loss-drug",
       "summary": "<p>The case \"drew the interest of top health officials.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/trump-early-access-weight-loss-drug\">White House Pushes Back Against Claim That Trump Was Given Early Access to a Powerful Experimental Weight Loss Drug</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 23 Jun 2026 15:23:01 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-early-access-weight-loss-drug.jpg?quality=85"
-    },
-    {
-      "title": "Bold move, Cotton: Trump administration tells US techies it expects American quantum computer by 2028",
-      "link": "https://www.theregister.com/hpc/2026/06/23/bold-move-cotton-trump-administration-tells-us-techies-it-expects-american-quantum-computer-by-2028/5260074",
-      "summary": "Ahem. National effort required to kick-start the era of quantum-enabled scientific discovery and keep America ahead of the game",
-      "published": "Tue, 23 Jun 2026 15:18:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259233&width=800"
     },
     {
       "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
@@ -218,28 +242,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/HaloBraid.jpg?resize=1200,799"
     },
     {
-      "title": "Microsoft Access finally breaks free of its 22-inch form limit",
-      "link": "https://www.theregister.com/databases/2026/06/23/microsoft-access-finally-breaks-free-of-its-22-inch-form-limit/5260005",
-      "summary": "CRT-era restriction dragged into the widescreen age after 34 years",
-      "published": "Tue, 23 Jun 2026 14:36:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5260071&width=800"
-    },
-    {
       "title": "Trump Orders Construction of Powerful Quantum Computer",
       "link": "https://futurism.com/robots-and-machines/trump-powerful-quantum-computer",
       "summary": "<p>\"We are going to be investing in American quantum leadership like never before.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/trump-powerful-quantum-computer\">Trump Orders Construction of Powerful Quantum Computer</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 23 Jun 2026 14:22:12 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/trump-powerful-quantum-computer.jpg?quality=85"
-    },
-    {
-      "title": "Meta debuts new, cheaper smart glasses under its own brand",
-      "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
-      "summary": "The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
-      "published": "Tue, 23 Jun 2026 14:11:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-glasses.png?resize=1200,624"
     },
     {
       "title": "Everyone pays the price as patent holders on seeds stifle innovation",
@@ -256,14 +264,6 @@
       "published": "Tue, 23 Jun 2026 13:55:14 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/klara1-1152x648.jpg"
-    },
-    {
-      "title": "AWS debuts Lambda MicroVMs with up to 8 hours runtime",
-      "link": "https://www.theregister.com/devops/2026/06/23/aws-debuts-lambda-microvms-with-up-to-8-hours-runtime/5260035",
-      "summary": "Suitable for running untrusted code, AI agents, or any long-running task",
-      "published": "Tue, 23 Jun 2026 13:37:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682146&width=800"
     },
     {
       "title": "AI Companies Are Trying to Seize Control of Elections",
