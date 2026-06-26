@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T04:08:55.927886",
+  "lastUpdated": "2026-06-26T09:36:09.882615",
   "articles": [
     {
       "title": "DoorDash Delivery Robot Invades SWAT Scene, Won’t Leave as Cops Flashbang Resident",
@@ -20,7 +20,7 @@
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "published": "Thu, 25 Jun 2026 23:34:39 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800"
@@ -56,14 +56,6 @@
       "published": "Thu, 25 Jun 2026 21:58:23 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5262522&width=800"
-    },
-    {
-      "title": "Perseverance rover finds even more signs of extinct life on Mars",
-      "link": "https://www.theregister.com/offbeat/2026/06/25/perseverance-rover-finds-even-more-signs-of-extinct-life-on-mars/5262477",
-      "summary": "Scientists remain skeptical, plead for someone to bring the rocks home",
-      "published": "Thu, 25 Jun 2026 20:38:12 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=251831&width=800"
     },
     {
       "title": "Microsoft adds another year to Windows 10 extended update program",
@@ -162,22 +154,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
     },
     {
-      "title": "FOSS dev builds a BASIC compiler using LLVM",
-      "link": "https://www.theregister.com/personal-tech/2026/06/25/foss-dev-builds-a-basic-compiler-using-llvm/5262171",
-      "summary": "Not just any old BASIC, either: OS-9’s BASIC09",
-      "published": "Thu, 25 Jun 2026 17:10:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5262245&width=800"
-    },
-    {
-      "title": "Recovery has to keep up with AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/recovery-has-to-keep-up-with-ai/5260452",
-      "summary": "SPONSORED POST: Why an AI-era recovery architecture looks different, with Eon's Gonen Stein",
-      "published": "Thu, 25 Jun 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1604452&width=800"
-    },
-    {
       "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
       "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
@@ -192,14 +168,6 @@
       "published": "Thu, 25 Jun 2026 16:48:11 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615"
-    },
-    {
-      "title": "Apple passes RAMpocalypse costs on to consumers",
-      "link": "https://www.theregister.com/personal-tech/2026/06/25/apple-passes-rampocalypse-costs-on-to-consumers/5262266",
-      "summary": "Fondleslab and Mac prices rise by hundreds; phones safe ... for now",
-      "published": "Thu, 25 Jun 2026 16:48:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=262401&width=800"
     },
     {
       "title": "Peppa Pig Owner Demands Child Actors Sign Away Voice Rights to AI",
@@ -298,6 +266,38 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/software-engineers-crisis-drown-ai-code.jpg?quality=85"
     },
     {
+      "title": "Three FOSS projects for developers, procrastinators, and media wranglers",
+      "link": "https://www.theregister.com/software/2026/06/26/three-foss-projects-for-developers-procrastinators-and-media-wranglers/5261631",
+      "summary": "Prism tracks AI emissions, Super Productivity keeps tasks local, and TAMOSS brings the BBC's media API to Kubernetes",
+      "published": "Fri, 26 Jun 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5261648&width=800"
+    },
+    {
+      "title": "BOFH: Amnesty means never having to say you're sorry",
+      "link": "https://www.theregister.com/bofh/2026/06/26/bofh-amnesty-means-never-having-to-say-youre-sorry/5260833",
+      "summary": "There's no I in team, but there is one in insurance fraud",
+      "published": "Fri, 26 Jun 2026 10:27:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5261295&width=800"
+    },
+    {
+      "title": "Security boss thought MFA would be too much security",
+      "link": "https://www.theregister.com/security/2026/06/26/security-boss-thought-mfa-would-be-too-much-security/5261934",
+      "summary": "One rule for the workers, another for execs",
+      "published": "Fri, 26 Jun 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238981&width=800"
+    },
+    {
+      "title": "Microsoft extends extended updates for Windows 10 in the most muted way imaginable",
+      "link": "https://www.theregister.com/os-platforms/2026/06/26/microsoft-extends-extended-updates-for-windows-10-in-the-most-muted-way-imaginable/5262673",
+      "summary": "Tiny tweak to support page reveals consumers can purchase another year of patch protection",
+      "published": "Fri, 26 Jun 2026 07:35:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5247910&width=800"
+    },
+    {
       "title": "Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder",
       "link": "https://www.theregister.com/security/2026/06/26/chinese-cybersecurity-company-claims-its-built-a-better-than-mythos-bug-finder/5262642",
       "summary": "Qihoo 360, which the US has banned, says it’s needed as a deterrent to weaponized Anthropic models",
@@ -308,7 +308,7 @@
     {
       "title": "AI giants back non-profit to retrain workers left behind by AI",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/26/ai-giants-back-non-profit-to-retrain-workers-left-behind-by-ai/5262601",
-      "summary": "Sorry we spent your wages on data centers, but call us when you're AI-ready",
+      "summary": "Sorry we spent your wages on datacenters, but call us when you're AI-ready",
       "published": "Fri, 26 Jun 2026 01:16:52 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5243418&width=800"
@@ -320,6 +320,14 @@
       "published": "Fri, 26 Jun 2026 00:26:55 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5250915&width=800"
+    },
+    {
+      "title": "Trump Mobile will take your $499 right now",
+      "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a small number [&#8230;]",
+      "published": "2026-06-26T04:40:21-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
@@ -392,14 +400,6 @@
       "published": "2026-06-25T14:47:26-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Roborock-Q10-S5-Plus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "It&#8217;s a bad time to want a new computer",
-      "link": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve",
-      "summary": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to component shortages, it seems unlikely things will get cheaper any [&#8230;]",
-      "published": "2026-06-25T14:20:17-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
