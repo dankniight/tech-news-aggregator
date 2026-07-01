@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-07-01T09:57:59.795761",
+  "lastUpdated": "2026-07-01T14:46:13.341669",
   "articles": [
+    {
+      "title": "Cloudflare to block cynical search-and-scrape bots from ad-supported web pages",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/cloudflare-to-block-cynical-search-and-scrape-bots-from-ad-supported-web-pages/5264727",
+      "summary": "Some crawlers gather data for both search and AI training, so when publishers block them to protect content they risk disappearning from search results ...",
+      "published": "Wed, 01 Jul 2026 15:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=251881&width=800"
+    },
+    {
+      "title": "DRAM it! Cheap PCs being priced out of existence as memory cost bites",
+      "link": "https://www.theregister.com/personal-tech/2026/07/01/dram-it-cheap-pcs-being-priced-out-of-existence-as-memory-cost-bites/5265010",
+      "summary": "AI server gold rush leaves budget laptops starving for chips as sub-$500 machines down nearly a fifth stateside",
+      "published": "Wed, 01 Jul 2026 14:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093179&width=800"
+    },
+    {
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "published": "Wed, 01 Jul 2026 14:25:23 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768"
+    },
+    {
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "published": "Wed, 01 Jul 2026 14:20:19 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611"
+    },
+    {
+      "title": "Sony to end physical PlayStation game disc production in 2028",
+      "link": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
+      "summary": "Sony will stop producing physical discs for all new PlayStation games beginning in 2028, as the company embraces an all-digital future.",
+      "published": "Wed, 01 Jul 2026 14:16:32 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1240552670.jpg?resize=1200,798"
+    },
+    {
+      "title": "Citrix says it's back as a mainstream server virtualization player that won't send scary bills",
+      "link": "https://www.theregister.com/virtualization/2026/07/01/citrix-says-its-back-as-a-mainstream-server-virtualization-player-that-wont-send-scary-bills/5264838",
+      "summary": "But also claims XenServer 9 is great in the DaaS niche it retreated to a decade back",
+      "published": "Wed, 01 Jul 2026 14:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=183829&width=800"
+    },
+    {
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "published": "Wed, 01 Jul 2026 14:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675"
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "published": "Wed, 01 Jul 2026 13:43:07 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024"
+    },
+    {
+      "title": "Brit competition cops fast-track £2B borging of Netomnia into Openreach challenger",
+      "link": "https://www.theregister.com/networks/2026/07/01/brit-competition-cops-fast-track-2b-borging-of-netomnia-into-openreach-challenger/5264986",
+      "summary": "Liberty Global, Telefónica, and InfraVia have grand designs on the UK fiber market",
+      "published": "Wed, 01 Jul 2026 13:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5263102&width=800"
+    },
+    {
+      "title": "UK likely to intervene in Paramount takeover of Warner Bros Discovery",
+      "link": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
+      "summary": "The acquisition was approved without concessions by the Department of Justice in June.",
+      "published": "Wed, 01 Jul 2026 13:24:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-1024x648.jpg"
+    },
+    {
+      "title": "Purism launches supersized 16-inch laptop for buyers who put privacy before price",
+      "link": "https://www.theregister.com/personal-tech/2026/07/01/purism-launches-supersized-16-inch-laptop-for-buyers-who-put-privacy-before-price/5264938",
+      "summary": "Kill switches, Coreboot, and PureOS target the security-conscious with deep pockets",
+      "published": "Wed, 01 Jul 2026 12:59:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5264978&width=800"
+    },
+    {
+      "title": "Boffins peg narcissistic leadership as the real driver behind 'return to office' demands",
+      "link": "https://www.theregister.com/columnists/2026/07/01/boffins-peg-narcissistic-leadership-as-the-real-driver-behind-return-to-office-demands/5264222",
+      "summary": "It's not about productivity; it's about bosses missing their daily ego fix",
+      "published": "Wed, 01 Jul 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5264236&width=800"
+    },
+    {
+      "title": "ZTE honored with two GeSI DWP Global Awards for Signal Reach Program in Africa",
+      "link": "https://www.theregister.com/networks/2026/07/01/zte-honored-with-two-gesi-dwp-global-awards-for-signal-reach-program-in-africa/5264911",
+      "summary": "How the tech giant's \"Rural Ecosystem\" initiative is bridging the digital divide across 20+ nations with green connectivity and inclusive services",
+      "published": "Wed, 01 Jul 2026 11:58:28 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5264982&width=800"
+    },
     {
       "title": "UK.gov vows to cut consultancy spending, then hands up to £350M to consultancies",
       "link": "https://www.theregister.com/public-sector/2026/07/01/ukgov-vows-to-cut-consultancy-spending-then-hands-up-to-350m-to-consultancies/5264864",
@@ -8,6 +112,14 @@
       "published": "Wed, 01 Jul 2026 11:15:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5239198&width=800"
+    },
+    {
+      "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
+      "link": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+      "summary": "After Trump's claims, Tylenol usage dropped during pregnancies.",
+      "published": "Wed, 01 Jul 2026 11:01:38 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
     },
     {
       "title": "Portuguese restaurant kiosk software gives Windows indigestion",
@@ -18,28 +130,28 @@
       "image_url": "https://image.theregister.com/?imageId=5264308&width=800"
     },
     {
+      "title": "Factories Attaches Cameras to Workers, in Hopes of Replacing Them With Robots",
+      "link": "https://futurism.com/robots-and-machines/factory-attaches-cameras-workers-labor-robots",
+      "summary": "<p>\"The way people mount a CCTV camera on a wall, they mounted one on us.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/factory-attaches-cameras-workers-labor-robots\">Factories Attaches Cameras to Workers, in Hopes of Replacing Them With Robots</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 01 Jul 2026 09:45:57 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/factory-attaches-cameras-workers-labor-robots.jpg?quality=85"
+    },
+    {
+      "title": "Boys Are So Unprepared by the Education System That They’re Hitting High School Unable to Read Anything More Challenging That a Children’s Book",
+      "link": "https://futurism.com/future-society/teen-boys-reading-children-books",
+      "summary": "<p>This \"is a clear call to action.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/teen-boys-reading-children-books\">Boys Are So Unprepared by the Education System That They&#8217;re Hitting High School Unable to Read Anything More Challenging That a Children&#8217;s Book</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 01 Jul 2026 08:45:46 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/teen-boys-reading-children-books.jpg?quality=85"
+    },
+    {
       "title": "Japan wants 10 million more robots by 2040, some providing medical care",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/01/japan-wants-10-million-more-robots-by-2040-some-providing-medical-care/5264813",
       "summary": "We’ve learned so much cleaning up after Fukushima, let’s level that up with added AI, says minister",
       "published": "Wed, 01 Jul 2026 08:08:48 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5264835&width=800"
-    },
-    {
-      "title": "Former Indonesian minister and startup hero jailed for Chromebook buys",
-      "link": "https://www.theregister.com/legal/2026/07/01/former-indonesian-minister-and-startup-hero-jailed-for-chromebook-buys/5264779",
-      "summary": "Nadiem Makarim vows to appeal sentence given he was found not to have profited from $600 million laptops-for-schools program",
-      "published": "Wed, 01 Jul 2026 05:59:31 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=262907&width=800"
-    },
-    {
-      "title": "T-Mobile appears to be quitting VMware – and fighting a very familiar battle for support rights on the way out",
-      "link": "https://www.theregister.com/virtualization/2026/07/01/t-mobile-appears-to-be-quitting-vmware-and-fighting-a-very-familiar-battle-for-support-rights-on-the-way-out/5264750",
-      "summary": "303,000 cores that power internal networks headed out the door",
-      "published": "Wed, 01 Jul 2026 03:19:14 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=244972&width=800"
     },
     {
       "title": "The ‘Father of the Internet’ is finally retiring",
@@ -66,14 +178,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675"
     },
     {
-      "title": "Claude Code users complain their chat records are being mysteriously wiped out",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/claude-code-users-complain-their-chat-records-are-being-mysteriously-wiped-out/5264673",
-      "summary": "Got important chats older than 30 days? You'd better be sure the transcripts still exist",
-      "published": "Wed, 01 Jul 2026 00:15:49 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5264709&width=800"
-    },
-    {
       "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
       "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
       "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
@@ -82,28 +186,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?resize=1200,800"
     },
     {
-      "title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
-      "link": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
-      "summary": "With its next-gen AI accelerators, the SoC vendor aims to fly high above the memory wall",
-      "published": "Tue, 30 Jun 2026 22:25:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5249938&width=800"
-    },
-    {
       "title": "June research roundup: 6 cool science stories we almost missed",
       "link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
       "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
       "published": "Tue, 30 Jun 2026 22:11:10 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ballistaspider-1152x648-1782840720.jpg"
-    },
-    {
-      "title": "Changing AI math could reduce the hardware burden, researchers show",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/changing-ai-math-could-reduce-the-hardware-burden-researchers-show/5264609",
-      "summary": "SEMQ promises an abstraction layer for separating semantics from embeddings",
-      "published": "Tue, 30 Jun 2026 22:07:30 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5264648&width=800"
     },
     {
       "title": "OpenClaw is finally available on Android and iOS",
@@ -120,14 +208,6 @@
       "published": "Tue, 30 Jun 2026 21:46:35 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2203349473-1152x648-1782854744.jpg"
-    },
-    {
-      "title": "Infosec professionals sour on automated pentesting tools",
-      "link": "https://www.theregister.com/security/2026/06/30/infosec-professionals-sour-on-automated-pentesting-tools/5264571",
-      "summary": "29% of security pros were open to fully autonomous pentesting last year; now only 9% are",
-      "published": "Tue, 30 Jun 2026 21:38:07 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=262678&width=800"
     },
     {
       "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
@@ -154,14 +234,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-stamp-grain-1152x648.jpg"
     },
     {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-      "published": "Tue, 30 Jun 2026 20:33:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800"
-    },
-    {
       "title": "Apple takes Epic fight over app store fees to the Supreme Court",
       "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
       "summary": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”",
@@ -178,68 +250,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg"
     },
     {
-      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-      "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
-      "published": "Tue, 30 Jun 2026 19:12:43 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/realta-fusion-dec-demo.jpg?resize=1200,675"
-    },
-    {
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "published": "Tue, 30 Jun 2026 19:02:38 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/google-image-models.png?resize=1200,678"
-    },
-    {
-      "title": "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe",
-      "link": "https://www.theregister.com/security/2026/06/30/huntress-ceo-says-threat-hunter-used-poor-judgment-in-alerting-ransomware-crim-about-law-enforcement-probe/5264532",
-      "summary": "Ex-employee claims this 'meets the definition of an insider threat'",
-      "published": "Tue, 30 Jun 2026 18:54:01 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5264558&width=800"
-    },
-    {
       "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
       "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
       "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
       "published": "Tue, 30 Jun 2026 18:36:10 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Nano-Banana-2-Lite-1152x648.jpg"
-    },
-    {
-      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
-      "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
-      "summary": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
-      "published": "Tue, 30 Jun 2026 18:34:22 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/clicks-communicator.jpg?resize=1200,677"
-    },
-    {
-      "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
-      "link": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
-      "summary": "Peptide drugs are popular, but FDA scientists warn they're untested, may be harmful.",
-      "published": "Tue, 30 Jun 2026 18:25:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg"
-    },
-    {
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "published": "Tue, 30 Jun 2026 18:13:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Etched-founder-CEO-Gavin-Uberti.jpg?resize=1200,1029"
-    },
-    {
-      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-      "summary": "A year in, National Design Studio delays plan to update government web standards.",
-      "published": "Tue, 30 Jun 2026 16:59:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/national-design-web-vomit-1152x648.jpg"
     },
     {
       "title": "Top AI Researchers Terrified of a “Chernobyl Moment”: a Mass Casualty Event, or Worse, That Turns the World Against AI Forever",
@@ -306,20 +322,60 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/orbital-data-centers-ai-psychosis.jpg?quality=85"
     },
     {
-      "title": "Madonna Issues Explosive Take on AI",
-      "link": "https://futurism.com/future-society/madonna-take-ai",
-      "summary": "<p>Sorry, AI \"artists.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/madonna-take-ai\">Madonna Issues Explosive Take on AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 29 Jun 2026 18:40:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/madonna-take-ai.jpg?quality=85"
+      "title": "Sony is closing the PS3 and Vita digital stores",
+      "link": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
+      "summary": "It's the end of an era for the PlayStation store on PS3 and PS Vita, with Sony now planning to shut down its digital distribution service on both consoles. The PlayStation store on PS3 will close in select markets later this year, including Mexico, Honduras, and Nicaragua starting in August, with \"additional Latin American and [&#8230;]",
+      "published": "2026-07-01T08:37:52-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19423516/vpavic_191127_untitled_0019_Edit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Grim New Prediction Market Lets Gamblers Bet on Raging Wildfires",
-      "link": "https://futurism.com/future-society/wyldfyre-wildfires-california-prediction-market",
-      "summary": "<p>\"You can't predict fire, but you can trade on it.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/wyldfyre-wildfires-california-prediction-market\">Grim New Prediction Market Lets Gamblers Bet on Raging Wildfires</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 29 Jun 2026 16:39:17 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/wyldfyre-wildfires-california-prediction-market.jpg?quality=85"
+      "title": "Sony is killing all physical PlayStation game discs",
+      "link": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
+      "summary": "Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital versions from the PlayStation Store and other retailers. Games released before January 2028 will still be available on disc. \"This is a natural [&#8230;]",
+      "published": "2026-07-01T08:15:13-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
+      "published": "2026-07-01T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Rhythm Heaven never misses a beat",
+      "link": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
+      "summary": "Rhythm Heaven isn't Nintendo's best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it's out on July 2nd - there were only four previous entries, one of which was exclusive to Japan. The most recent came out more than a decade ago. Even still, [&#8230;]",
+      "published": "2026-07-01T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NintendoSwitch_RhythmHeavenGroove_Screenshot_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Range anxiety",
+      "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
+      "summary": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming tornadoes, one of which landed directly on Rivian’s electric vehicle factory on [&#8230;]",
+      "published": "2026-07-01T07:00:02-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268434_Rivian_Factory_ATahlier_0009_3x4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
+      "link": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
+      "summary": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious humble pie, canceling its Portal-themed Companion Cube [&#8230;]",
+      "published": "2026-07-01T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-dbrand-companion-cube-sean-hollister-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can&#8217;t get enough",
+      "link": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
+      "summary": "Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and White and the $24.75 QuickSnap Active are expected to launch sometime later this fall, to the delight of Gen Z snappers driving the current resurgence in [&#8230;]",
+      "published": "2026-07-01T06:05:28-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Fujifilm-quicksnap-black-and-white-active-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
@@ -344,62 +400,6 @@
       "published": "2026-06-30T20:03:55-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Dish files for bankruptcy, but is not shutting down",
-      "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
-      "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion worth of 5G spectrum to AT&#38;T. Dish TV, Sling [&#8230;]",
-      "published": "2026-06-30T18:46:52-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_STK052_01-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon fined $2.25 million for failing to help identity theft victims",
-      "link": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
-      "summary": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with fraudulent accounts, in violation of the Fair Credit [&#8230;]",
-      "published": "2026-06-30T17:20:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK103__02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Acer&#8217;s Swift Go 16 is a lot of laptop for $900",
-      "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
-      "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep discount from its usual list price of $1,549.99. The well-equipped [&#8230;]",
-      "published": "2026-06-30T16:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Acer-Swift-Go-16-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
-      "published": "2026-06-30T15:24:51-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
-      "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
-      "summary": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originally $599.99). That’s a great deal considering this is one of LG’s Primary RGB Tandem panels built with fourth-generation WOLED [&#8230;]",
-      "published": "2026-06-30T14:42:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/lgoledwoledmain.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
-      "link": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
-      "summary": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has described Project Fantasy as an \"online fantasy RPG\", and Kotaku and Bloomberg report that Microsoft, [&#8230;]",
-      "published": "2026-06-30T14:14:05-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7683959b09f7863c5eb23bfdbcf039269765b5d6.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
-      "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
-      "summary": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola&#8217;s site at a special $19.99 launch price (originally $29.99). There are plenty of trackers for Android owners to consider, but [&#8230;]",
-      "published": "2026-06-30T13:38:23-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/mototag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
