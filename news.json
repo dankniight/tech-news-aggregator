@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T03:59:20.026597",
+  "lastUpdated": "2026-07-02T09:20:24.028647",
   "articles": [
     {
       "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
@@ -10,12 +10,44 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/CMC_8083.jpg?resize=1200,800"
     },
     {
+      "title": "EvilTokens device-code phishing kit totally more evil than we all thought",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/01/eviltokens-device-code-phishing-kit-totally-more-evil-than-we-all-thought/5265409",
+      "summary": "It's a 'complete BEC operations environment,' Talos researcher says",
+      "published": "Wed, 01 Jul 2026 23:50:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5265456&width=800"
+    },
+    {
+      "title": "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy",
+      "link": "https://www.theregister.com/devops/2026/07/01/claude-sonnet-50-heads-straight-down-the-middle-of-the-road-to-dodge-controversy/5265398",
+      "summary": "Safer, cheaper, and nothing to do with cybersecurity",
+      "published": "Wed, 01 Jul 2026 23:33:44 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5265451&width=800"
+    },
+    {
+      "title": "Anthropic is removing its covert code for catching Chinese competitors",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
+      "summary": "Oh, yeah, we've been meaning to disable our secret steganography system",
+      "published": "Wed, 01 Jul 2026 22:56:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5254628&width=800"
+    },
+    {
       "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
       "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
       "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
       "published": "Wed, 01 Jul 2026 22:47:04 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Bending-Spoons_CEO-cofounder_Luca-Ferrari_2-copy.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Godot says bye bye AI, bans vibe-coded contributions",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
+      "summary": "'We can’t trust heavy users of AI to understand their code enough to fix it,' say maintainers who previously called the flood of vibe-coded pull requests 'demoralizing'",
+      "published": "Wed, 01 Jul 2026 22:29:07 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257171&width=800"
     },
     {
       "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
@@ -120,14 +152,6 @@
       "published": "Wed, 01 Jul 2026 18:24:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?resize=1200,780"
-    },
-    {
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-      "published": "Wed, 01 Jul 2026 17:48:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800"
     },
     {
       "title": "“Televised Nervous Breakdown”: CEO of Palantir Suffers a Bit of a Meltdown During Live Interview",
@@ -242,6 +266,70 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/06/ai-chernobyl-moment.jpg?quality=85"
     },
     {
+      "title": "Connect, disconnect, or just have a lovely beer",
+      "link": "https://www.theregister.com/offbeat/2026/07/02/connect-disconnect-or-just-have-a-lovely-beer/5264598",
+      "summary": "Seeking a deeper meaning to a network error",
+      "published": "Thu, 02 Jul 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5264628&width=800"
+    },
+    {
+      "title": "UN warns of need for global governance to avoid an AI-pocalypse",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/un-warns-of-need-for-global-governance-to-avoid-an-ai-pocalypse/5265188",
+      "summary": "Capabilities are racing ahead of rules to ensure tech is used safely and responsibly, Scientific Panel argues",
+      "published": "Thu, 02 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251723&width=800"
+    },
+    {
+      "title": "Hackers shoveled snow for company, were rewarded with network admin access",
+      "link": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
+      "summary": "Fortunately, they were professional red teamers. Unfortunately, they pwned the network",
+      "published": "Thu, 02 Jul 2026 09:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5265252&width=800"
+    },
+    {
+      "title": "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
+      "link": "https://www.theregister.com/legal/2026/07/02/trouble-keeps-finding-supermicro-as-strange-server-shipments-attract-police-attention-in-taiwan-and-singapore/5265520",
+      "summary": "Alleged illicit GPU movements lead to seizure of $42 million house",
+      "published": "Thu, 02 Jul 2026 08:02:32 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=255322&width=800"
+    },
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "published": "Thu, 02 Jul 2026 05:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751"
+    },
+    {
+      "title": "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490",
+      "summary": "They're 90 percent human in some ways, can provide daily companionship psychological support",
+      "published": "Thu, 02 Jul 2026 04:35:26 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5265514&width=800"
+    },
+    {
+      "title": "Oracle outlines all the ways it could lose the farm it bet on AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438",
+      "summary": "Risk factors galore",
+      "published": "Thu, 02 Jul 2026 00:23:52 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5247310&width=800"
+    },
+    {
+      "title": "Amazon has enough satellites to launch its Starlink competitor",
+      "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "summary": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is \"enough to support continuous service across initial latitudes,\" according to Chris Weber, VP heading up business and product for Amazon Leo. That puts the company [&#8230;]",
+      "published": "2026-07-02T05:13:39-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rocket-expand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
       "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
       "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\" The updated MacBook Pro, which will [&#8230;]",
@@ -312,14 +400,6 @@
       "published": "2026-07-01T11:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/killswitch2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sony is killing discs — and showing us why it’s a terrible idea",
-      "link": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
-      "summary": "The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means that from that moment on you can only purchase new PS5 games digitally. At the same time, Sony also announced that it's going to [&#8230;]",
-      "published": "2026-07-01T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717614/247361_PS5_Pro_VPavic_99.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
