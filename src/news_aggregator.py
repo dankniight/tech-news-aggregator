@@ -22,7 +22,7 @@ RSS_FEEDS = {
 }
 
 # Number of articles to fetch per source
-ARTICLES_PER_SOURCE = 10
+ARTICLES_PER_SOURCE = 15
 
 # Timeout for HTTP requests
 REQUEST_TIMEOUT = 10
