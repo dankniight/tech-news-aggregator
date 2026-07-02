@@ -292,9 +292,10 @@
                 <span class="meta-mono text-faint text-xs mr-1 hidden sm:inline">filter:</span>
                 <button class="flag-btn active" data-filter="all" type="button">--all</button>
                 <button class="flag-btn" data-filter="ai" type="button">--ai</button>
-                <button class="flag-btn" data-filter="cloud" type="button">--cloud</button>
                 <button class="flag-btn" data-filter="consumer" type="button">--consumer</button>
-                <button class="flag-btn" data-filter="fintech" type="button">--fintech</button>
+                <button class="flag-btn" data-filter="finance" type="button">--finance</button>
+                <button class="flag-btn" data-filter="infrastructure" type="button">--infrastructure</button>
+                <button class="flag-btn" data-filter="policy" type="button">--policy</button>
                 <button class="flag-btn" data-filter="security" type="button">--security</button>
             </div>
 
@@ -483,11 +484,12 @@
         let isShuffled = false;
 
         const filters = {
-            'ai': ['AI', 'Artificial Intelligence', 'Machine Learning', 'Deep Learning', 'Neural Network', 'ChatGPT', 'GPT', 'LLM'],
-            'consumer': ['Apple', 'Samsung', 'Google', 'Amazon', 'Microsoft', 'iPhone', 'iPad', 'Mac', 'Android', 'Pixel', 'Galaxy', 'Surface', 'Echo', 'Alexa', 'Home', 'Smartphone', 'Tablet', 'Laptop', 'Spotify'],
+            'ai': ['AI', 'Artificial Intelligence', 'Machine Learning', 'Deep Learning', 'Neural Network', 'ChatGPT', 'GPT', 'LLM', 'Claude', 'Qwen', 'Gemini', 'LLaMA', 'Mistral', 'OpenAI', 'Anthropic', 'Cohere', 'Hugging Face'],
+            'consumer': ['Apple', 'Samsung', 'Google', 'Amazon', 'Microsoft', 'iPhone', 'iPad', 'Mac', 'Android', 'Pixel', 'Galaxy', 'Surface', 'Echo', 'Alexa', 'Home', 'Smartphone', 'Tablet', 'Laptop', 'Spotify', 'Netflix', 'Disney+', 'Streaming'],
             'security': ['Security', 'Cybersecurity', 'Hack', 'Vulnerability', 'Encryption', 'Malware', 'Ransomware', 'Firewall', 'Threat', 'Attack', 'Breach', 'Privacy', 'Data Protection', 'Zero Day', 'Exploit', 'Phishing'],
-            'cloud': ['Cloud', 'AWS', 'Azure', 'Amazon Web Services', 'Microsoft Azure', 'Google Cloud', 'Cloud Computing', 'Serverless', 'Kubernetes', 'Docker', 'Container', 'Infrastructure', 'DevOps', 'SaaS', 'PaaS', 'IaaS'],
-            'fintech': ['Fintech', 'Cryptocurrency', 'Crypto', 'Bitcoin', 'Ethereum', 'Blockchain', 'DeFi', 'NFT', 'Digital Currency', 'Payment', 'Banking', 'Finance', 'Trading', 'Investment', 'Stablecoin', 'Smart Contract']
+            'policy': ['Policy', 'Regulation', 'Legislation', 'Government', 'Law', 'Compliance', 'Privacy Policy', 'Data Protection Law', 'Digital Rights', 'Net Neutrality', 'Censorship', 'Freedom of Speech', 'Trump', 'Congress', 'Senate', 'House of Representatives', 'Supreme Court', 'UK', 'EU', 'China', 'Russia', 'India', 'Bill'],
+            'finance': ['Fintech', 'Cryptocurrency', 'Crypto', 'Bitcoin', 'Ethereum', 'Blockchain', 'DeFi', 'NFT', 'Digital Currency', 'Payment', 'Banking', 'Finance', 'Trading', 'Investment', 'Stablecoin', 'Smart Contract'],
+            'infrastructure': ['Infrastructure', 'Data Center', 'Network', 'Server', 'Storage', 'Hardware', 'Software', 'System', 'Platform', 'Environment', 'Cloud', 'Edge', 'IoT', '5G', 'Fiber', 'Satellite', 'Connectivity', 'Telecom', 'ISP', 'Hosting', 'Virtualization']
         };
 
         function formatDate(dateString) {
