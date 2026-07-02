@@ -4,17 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-    <meta name="theme-color" content="#22c55e">
+    <meta name="theme-color" content="#e8a33d">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>The Compiler</title>
+    <title>The Compiler — Tech News, Built Daily</title>
     <link rel="icon" href="src/res/logo-light.ico" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700;8..60,900&family=Inter:wght@400;500;600;700&display=swap"
         rel="stylesheet">
     <script>
         tailwind.config = {
@@ -22,414 +22,348 @@
             theme: {
                 extend: {
                     fontFamily: {
-                        'heading': ['Space Grotesk', 'sans-serif'],
+                        'display': ['Source Serif 4', 'Georgia', 'serif'],
                         'body': ['Inter', 'sans-serif'],
-                        'serif': ['Merriweather', 'serif'],
+                        'mono': ['IBM Plex Mono', 'ui-monospace', 'monospace'],
                     },
-                    colors: {
-                        primary: {
-                            50: '#f0fdf9',
-                            100: '#ccfbf1',
-                            200: '#99f6e4',
-                            300: '#5eead4',
-                            400: '#2dd4bf',
-                            500: '#14b8a6',
-                            600: '#0d9488',
-                            700: '#0f766e',
-                            800: '#115e59',
-                            900: '#134e4a',
-                            950: '#042f2e',
-                        },
-                        dark: {
-                            900: '#0a0a0a',
-                            800: '#171717',
-                            700: '#262626',
-                            600: '#404040',
-                        }
-                    },
-                    animation: {
-                        'fade-in': 'fadeIn 0.5s ease-out forwards',
-                        'slide-up': 'slideUp 0.5s ease-out forwards',
-                        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
-                    },
-                    keyframes: {
-                        fadeIn: {
-                            '0%': { opacity: '0' },
-                            '100%': { opacity: '1' },
-                        },
-                        slideUp: {
-                            '0%': { opacity: '0', transform: 'translateY(20px)' },
-                            '100%': { opacity: '1', transform: 'translateY(0)' },
-                        }
-                    }
                 }
             }
         }
     </script>
-    <style type="text/tailwindcss">
-        @layer utilities {
-            .glass-panel {
-                @apply bg-white/70 dark:bg-black/40 backdrop-blur-xl border border-white/20 dark:border-white/10;
-            }
-            
-            .card-hover {
-                @apply transition-all duration-500 ease-out hover:-translate-y-2 hover:shadow-2xl hover:shadow-primary-500/20;
-            }
-
-            .text-gradient {
-                @apply bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-400;
-            }
-            
-            .text-gradient-primary {
-                @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-primary-400 dark:from-primary-300 dark:to-primary-500;
-            }
-
-            .btn-base {
-                @apply px-5 py-2.5 rounded-xl font-medium transition-all duration-300 active:scale-95 touch-manipulation;
-            }
-            
-            .btn-filter.active {
-                @apply bg-primary-500 text-white shadow-lg shadow-primary-500/25 border-transparent;
-            }
-
-            /* Custom scrollbar */
-            ::-webkit-scrollbar {
-                width: 8px;
-            }
-            ::-webkit-scrollbar-track {
-                @apply bg-transparent;
-            }
-            ::-webkit-scrollbar-thumb {
-                @apply bg-gray-300 dark:bg-gray-700 rounded-full;
-            }
-            ::-webkit-scrollbar-thumb:hover {
-                @apply bg-gray-400 dark:bg-gray-600;
-            }
-            
-            /* Loading spinner */
-            .spinner {
-                border-top-color: currentColor;
-                animation: spin 1s linear infinite;
-            }
-            @keyframes spin {
-                0% { transform: rotate(0deg); }
-                100% { transform: rotate(360deg); }
-            }
-        }
-        
-        /* Particle background fixes */
-        #particles-js {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-            pointer-events: none;
+    <style>
+        :root {
+            --bg: #f2f3f5;
+            --bg-raised: #ffffff;
+            --panel: #ffffff;
+            --border: #dcdee3;
+            --border-strong: #c7cad1;
+            --text: #14161a;
+            --text-dim: #565b66;
+            --text-faint: #8b909b;
+            --amber: #b9761e;
+            --blue: #2258c9;
+            --ok: #1f8a4c;
+            --scrollbar: #c7cad1;
         }
 
-        /* Smooth scrolling */
-        html {
-            scroll-behavior: smooth;
+        html.dark {
+            --bg: #0a0b0e;
+            --bg-raised: #101318;
+            --panel: #12151b;
+            --border: #232833;
+            --border-strong: #323847;
+            --text: #eceef1;
+            --text-dim: #9aa0ac;
+            --text-faint: #656b78;
+            --amber: #e8a33d;
+            --blue: #5b9bf5;
+            --ok: #3ecb7e;
+            --scrollbar: #2a2f3a;
         }
-        
+
+        * { box-sizing: border-box; }
+
+        html { scroll-behavior: smooth; }
+
         body {
+            background-color: var(--bg);
+            color: var(--text);
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
+            background-image:
+                linear-gradient(var(--border) 1px, transparent 1px),
+                linear-gradient(90deg, var(--border) 1px, transparent 1px);
+            background-size: 64px 64px;
+            background-attachment: fixed;
+            background-position: -1px -1px;
+            transition: background-color 0.3s ease, color 0.3s ease;
         }
 
-        @keyframes slideUp {
-            0% { opacity: 0; transform: translateY(20px); }
-            100% { opacity: 1; transform: translateY(0); }
+        html:not(.dark) body { background-image: none; }
+
+        ::-webkit-scrollbar { width: 10px; height: 10px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: var(--scrollbar); border-radius: 6px; }
+
+        .panel {
+            background-color: var(--panel);
+            border: 1px solid var(--border);
+        }
+
+        .hairline { border-color: var(--border); }
+        .hairline-strong { border-color: var(--border-strong); }
+
+        .text-dim { color: var(--text-dim); }
+        .text-faint { color: var(--text-faint); }
+        .text-amber { color: var(--amber); }
+        .text-blue-sig { color: var(--blue); }
+
+        .status-dot {
+            width: 7px; height: 7px; border-radius: 999px;
+            background: var(--ok);
+            box-shadow: 0 0 0 2px color-mix(in srgb, var(--ok) 25%, transparent);
+        }
+
+        .cursor-blink {
+            display: inline-block;
+            width: 8px; height: 1.1em;
+            background: var(--amber);
+            margin-left: 2px;
+            vertical-align: -0.15em;
+            animation: blink 1.1s steps(1) infinite;
+        }
+        @keyframes blink { 50% { opacity: 0; } }
+
+        .icon-btn {
+            width: 42px; height: 42px;
+            display: flex; align-items: center; justify-content: center;
+            background-color: var(--panel);
+            border: 1px solid var(--border);
+            color: var(--text-dim);
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+        .icon-btn:hover { color: var(--text); border-color: var(--border-strong); }
+
+        .flag-btn {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.8rem;
+            font-weight: 500;
+            padding: 0.5rem 0.9rem;
+            border-radius: 6px;
+            border: 1px solid var(--border);
+            background-color: var(--panel);
+            color: var(--text-dim);
+            transition: all 0.18s ease;
+            white-space: nowrap;
+        }
+        .flag-btn:hover { border-color: var(--border-strong); color: var(--text); }
+        .flag-btn.active {
+            background-color: var(--text);
+            color: var(--bg);
+            border-color: var(--text);
+        }
+        html.dark .flag-btn.active {
+            background-color: var(--amber);
+            color: #16130a;
+            border-color: var(--amber);
+        }
+
+        .source-chip {
+            display: inline-flex; align-items: center; gap: 0.4rem;
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.72rem;
+            color: var(--text-dim);
+            text-decoration: none;
+            padding: 0.3rem 0.1rem;
+            border-bottom: 1px solid transparent;
+            transition: color 0.2s ease, border-color 0.2s ease;
+        }
+        .source-chip:hover { color: var(--text); border-color: var(--border-strong); }
+        .source-dot { width: 6px; height: 6px; border-radius: 999px; flex-shrink: 0; }
+
+        .article-card {
+            background-color: var(--panel);
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--card-accent, var(--border));
+            border-radius: 10px;
+            transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+        }
+        .article-card:hover {
+            transform: translateY(-3px);
+            border-color: var(--card-accent, var(--border-strong));
+            box-shadow: 0 12px 28px -12px rgba(0,0,0,0.25);
+        }
+        html:not(.dark) .article-card:hover { box-shadow: 0 14px 30px -14px rgba(20,22,26,0.18); }
+
+        .tag-pill {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.68rem;
+            font-weight: 600;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            padding: 0.28rem 0.55rem;
+            border-radius: 5px;
+            color: #fff;
+        }
+
+        .meta-mono {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.72rem;
+            letter-spacing: 0.01em;
+        }
+
+        .headline-serif {
+            font-family: 'Source Serif 4', Georgia, serif;
         }
 
         .article-enter {
-            animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+            animation: slideUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             opacity: 0;
         }
+        @keyframes slideUp {
+            0% { opacity: 0; transform: translateY(14px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
 
+        .spinner {
+            border-top-color: currentColor;
+            animation: spin 0.9s linear infinite;
+        }
+        @keyframes spin { 100% { transform: rotate(360deg); } }
+
+        .page-num-btn {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.85rem;
+            font-weight: 600;
+            min-width: 36px;
+            height: 36px;
+            display: flex; align-items: center; justify-content: center;
+            border-radius: 6px;
+            color: var(--text-dim);
+            transition: all 0.15s ease;
+            border: 1px solid transparent;
+        }
+        .page-num-btn:hover { color: var(--text); border-color: var(--border); }
+        .page-num-btn.active {
+            background-color: var(--text);
+            color: var(--bg);
+        }
+        html.dark .page-num-btn.active { background-color: var(--amber); color: #16130a; }
+        .page-ellipsis {
+            font-family: 'IBM Plex Mono', monospace;
+            color: var(--text-faint);
+            font-size: 0.85rem;
+            padding: 0 0.15rem;
+        }
+
+        .nav-arrow {
+            width: 40px; height: 40px;
+            display: flex; align-items: center; justify-content: center;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background-color: var(--panel);
+            color: var(--text);
+            transition: all 0.18s ease;
+        }
+        .nav-arrow:hover:not(:disabled) { border-color: var(--border-strong); background-color: var(--bg-raised); }
+        .nav-arrow:disabled { opacity: 0.32; cursor: not-allowed; }
     </style>
 </head>
 
-<body
-    class="bg-gray-50 dark:bg-dark-900 font-body relative min-h-screen text-gray-800 dark:text-gray-100 transition-colors duration-300">
-    <!-- Particles Background -->
-    <div id="particles-js" class="opacity-30 dark:opacity-40"></div>
+<body class="font-body relative min-h-screen transition-colors duration-300">
 
     <!-- Top Controls -->
-    <div class="fixed top-6 right-6 z-50 flex gap-3">
-        <button id="sort-toggle"
-            class="theme-toggle glass-panel text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-white/10"
-            aria-label="Toggle sort order" type="button">
-            <i class="icon fas fa-clock"></i>
+    <div class="fixed top-5 right-5 md:top-6 md:right-6 z-50 flex gap-2.5">
+        <button id="sort-toggle" class="icon-btn" aria-label="Toggle sort order" type="button">
+            <i class="icon fas fa-clock text-sm"></i>
         </button>
-
-        <button id="theme-toggle"
-            class="theme-toggle glass-panel text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-white/10"
-            aria-label="Toggle dark mode" type="button">
-            <i class="icon fas fa-moon"></i>
+        <button id="theme-toggle" class="icon-btn" aria-label="Toggle dark mode" type="button">
+            <i class="icon fas fa-moon text-sm"></i>
         </button>
     </div>
 
-    <div class="container mx-auto px-4 md:px-8 py-12 md:py-16 max-w-7xl relative z-10">
-        <header class="mb-12 md:mb-16">
-            <!-- Hero Section -->
-            <div class="flex flex-col md:flex-row items-start md:items-end gap-6 mb-10">
-                <div class="flex items-center gap-5">
-                    <div class="p-2 glass-panel rounded-2xl shadow-xl shadow-primary-500/10 shrink-0">
-                        <div
-                            class="w-14 h-14 md:w-16 md:h-16 rounded-xl flex items-center justify-center bg-gradient-to-br from-primary-400 to-primary-600 shadow-lg text-white">
-                            <img id="logo-img" src="src/res/logo.svg" alt="The Compiler Logo"
-                                class="w-8 h-8 md:w-10 md:h-10 brightness-0 invert">
-                        </div>
-                    </div>
+    <div class="container mx-auto px-4 md:px-8 py-10 md:py-14 max-w-7xl relative z-10">
 
-                    <div class="flex flex-col">
-                        <h1 class="text-4xl md:text-6xl font-bold font-heading tracking-tight leading-none mb-1">
-                            <span class="text-gradient-primary">The Compiler</span>
-                        </h1>
-                    </div>
-                </div>
+        <header class="mb-10 md:mb-12">
+
+            <!-- Build status strip -->
+            <div class="panel rounded-lg px-4 py-2.5 mb-7 flex flex-wrap items-center gap-x-3 gap-y-1.5 meta-mono">
+                <span class="status-dot"></span>
+                <span class="text-dim">build passed</span>
+                <span class="text-faint hidden sm:inline">·</span>
+                <span class="text-faint hidden sm:inline">last sync <span id="last-updated" class="text-amber">syncing&hellip;</span></span>
+                <span class="text-faint hidden md:inline">·</span>
+                <span class="text-faint hidden md:inline">5 sources linked</span>
             </div>
 
-            <!-- Filter Buttons -->
-            <div class="flex flex-wrap items-center gap-3 mb-8">
-                <button class="btn-filter active btn-base glass-panel dark:hover:bg-white/5" data-filter="all"
-                    type="button">All News</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="ai"
-                    type="button">AI</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="cloud"
-                    type="button">Cloud</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="consumer"
-                    type="button">Consumer</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="fintech"
-                    type="button">Fintech</button>
-                <button class="btn-filter btn-base glass-panel dark:hover:bg-white/5" data-filter="security"
-                    type="button">Security</button>
+            <!-- Masthead -->
+            <div class="mb-8">
+                <h1 class="text-5xl md:text-7xl font-black headline-serif tracking-tight leading-none mb-2">
+                    The Compiler<span class="cursor-blink"></span>
+                </h1>
+                <p class="meta-mono text-dim text-xs md:text-sm tracking-wide">
+                    <span class="text-amber">$</span> tech headlines, aggregated &amp; compiled from five independent feeds
+                </p>
             </div>
 
-            <!-- Source Links -->
-            <div class="flex flex-wrap items-center gap-6 opacity-60 hover:opacity-100 transition-opacity duration-300">
-                <a href="https://www.theverge.com" target="_blank" rel="noopener"
-                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
-                    aria-label="The Verge">
-                    <img src="src/res/verge.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70"> The Verge
+            <!-- Filter Flags -->
+            <div class="flex flex-wrap items-center gap-2 mb-7">
+                <span class="meta-mono text-faint text-xs mr-1 hidden sm:inline">filter:</span>
+                <button class="flag-btn active" data-filter="all" type="button">--all</button>
+                <button class="flag-btn" data-filter="ai" type="button">--ai</button>
+                <button class="flag-btn" data-filter="cloud" type="button">--cloud</button>
+                <button class="flag-btn" data-filter="consumer" type="button">--consumer</button>
+                <button class="flag-btn" data-filter="fintech" type="button">--fintech</button>
+                <button class="flag-btn" data-filter="security" type="button">--security</button>
+            </div>
+
+            <!-- Sources / modules -->
+            <div class="flex flex-wrap items-center gap-x-6 gap-y-2 pt-5 border-t hairline">
+                <a href="https://www.theverge.com" target="_blank" rel="noopener" class="source-chip" aria-label="The Verge">
+                    <span class="source-dot" style="background:#7C5CFC"></span>The Verge
                 </a>
-                <a href="https://www.theregister.com" target="_blank" rel="noopener"
-                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
-                    aria-label="The Register">
-                    <img src="src/res/register.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70"> The Register
+                <a href="https://www.theregister.com" target="_blank" rel="noopener" class="source-chip" aria-label="The Register">
+                    <span class="source-dot" style="background:#E8544E"></span>The Register
                 </a>
-                <a href="https://techcrunch.com" target="_blank" rel="noopener"
-                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
-                    aria-label="TechCrunch">
-                    <img src="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
-                        alt="Icon" class="w-4 h-4 grayscale opacity-70"> TechCrunch
+                <a href="https://techcrunch.com" target="_blank" rel="noopener" class="source-chip" aria-label="TechCrunch">
+                    <span class="source-dot" style="background:#1FBE72"></span>TechCrunch
                 </a>
-                <a href="https://arstechnica.com" target="_blank" rel="noopener"
-                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
-                    aria-label="Ars Technica">
-                    <img src="https://cdn.arstechnica.net/favicon.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70">
-                    Ars Technica
+                <a href="https://arstechnica.com" target="_blank" rel="noopener" class="source-chip" aria-label="Ars Technica">
+                    <span class="source-dot" style="background:#FF8A3D"></span>Ars Technica
                 </a>
-                <a href="https://futurism.com" target="_blank" rel="noopener"
-                    class="flex items-center gap-2 text-sm font-medium hover:text-primary-500 transition-colors"
-                    aria-label="Futurism">
-                    <img src="src/res/futurism.ico" alt="Icon" class="w-4 h-4 grayscale opacity-70"> Futurism
+                <a href="https://futurism.com" target="_blank" rel="noopener" class="source-chip" aria-label="Futurism">
+                    <span class="source-dot" style="background:#2258C9"></span>Futurism
                 </a>
             </div>
         </header>
 
         <!-- Loading indicator -->
         <div id="loading" class="flex flex-col items-center justify-center my-32 hidden">
-            <div class="spinner rounded-full h-12 w-12 border-4 text-primary-500 mb-4"></div>
-            <p class="text-gray-500 font-medium animate-pulse">Fetching latest updates...</p>
+            <div class="spinner rounded-full h-9 w-9 border-2 text-amber mb-4"></div>
+            <p class="meta-mono text-dim text-sm">compiling latest updates&hellip;</p>
         </div>
 
         <!-- Error message -->
-        <div id="error-message"
-            class="max-w-md mx-auto bg-red-500/10 border border-red-500/20 text-red-500 px-6 py-4 rounded-2xl mb-12 hidden text-center">
-            <i class="fas fa-exclamation-circle text-2xl mb-2 block"></i>
-            <p>Unable to load news data. Please try again later.</p>
+        <div id="error-message" class="max-w-md mx-auto panel border-red-500/30 px-6 py-5 rounded-xl mb-12 hidden text-center">
+            <i class="fas fa-triangle-exclamation text-xl mb-2 block text-red-500"></i>
+            <p class="meta-mono text-sm text-dim">build failed &mdash; unable to load news data. try again shortly.</p>
         </div>
 
         <main>
-            <div id="articles-container"
-                class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-20 perspective-1000">
+            <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-14">
                 <!-- Articles will be loaded here -->
             </div>
         </main>
 
-        <nav id="pagination" class="flex justify-center items-center gap-6 hidden">
-            <div class="flex gap-4" id="pagination-buttons">
-                <!-- Buttons injected by JS -->
-            </div>
-            <div class="font-mono text-sm text-gray-500 glass-panel px-4 py-2 rounded-lg">
-                <span id="current-page" class="text-primary-500 font-bold">1</span> / <span id="total-pages">1</span>
-            </div>
+        <nav id="pagination" class="flex justify-center items-center gap-2 hidden" aria-label="Pagination">
+            <!-- Prev arrow, page numbers, next arrow injected by JS in that order -->
         </nav>
     </div>
 
-    <footer
-        class="py-12 text-center text-gray-500 dark:text-gray-600 text-sm mt-20 relative z-10 border-t border-gray-200 dark:border-white/5">
+    <footer class="py-10 text-center mt-16 relative z-10 border-t hairline">
         <div class="container mx-auto px-4">
-            <p class="mb-2">Last updated: <span id="last-updated" class="font-mono text-primary-500">Syncing...</span>
-            </p>
-            <p>&copy; <span id="current-year"></span> Dan Knight</p>
+            <p class="meta-mono text-xs text-faint mb-1.5">exit code 0 &mdash; build complete</p>
+            <p class="meta-mono text-xs text-faint">&copy; <span id="current-year"></span> Dan Knight</p>
         </div>
     </footer>
 
-    <!-- Particles.js library -->
-    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script>
-        // Initialize particles.js
-        document.addEventListener('DOMContentLoaded', function () {
-            // Function to set particles based on theme
-            function setParticlesConfig() {
-                const isDarkMode = document.documentElement.classList.contains('dark');
-                const particleColor = isDarkMode ? "#5eead4" : "#9ca3af"; // Mint for dark, grey for light
+        // Per-source accent colors, used as the log-style left border + tag color on cards
+        const sourceColors = {
+            "The Verge": "#7C5CFC",
+            "The Register": "#E8544E",
+            "TechCrunch": "#1FBE72",
+            "Ars Technica": "#FF8A3D",
+            "Futurism": "#2258C9"
+        };
 
-                // Reduce particle count on mobile for better performance
-                const isMobile = window.innerWidth <= 768;
-                const particleCount = isMobile ? 40 : 80;
-
-                particlesJS('particles-js', {
-                    "particles": {
-                        "number": {
-                            "value": particleCount,
-                            "density": {
-                                "enable": true,
-                                "value_area": 800
-                            }
-                        },
-                        "color": {
-                            "value": particleColor
-                        },
-                        "shape": {
-                            "type": "circle",
-                            "stroke": {
-                                "width": 0,
-                                "color": "#000000"
-                            }
-                        },
-                        "opacity": {
-                            "value": 0.9,
-                            "random": true,
-                            "anim": {
-                                "enable": true,
-                                "speed": 0.5,
-                                "opacity_min": 0.3,
-                                "sync": false
-                            }
-                        },
-                        "size": {
-                            "value": 6,
-                            "random": true,
-                            "anim": {
-                                "enable": true,
-                                "speed": 1,
-                                "size_min": 0.5,
-                                "sync": false
-                            }
-                        },
-                        "line_linked": {
-                            "enable": true,
-                            "distance": 180,
-                            "color": particleColor,
-                            "opacity": 0.6,
-                            "width": 2
-                        },
-                        "move": {
-                            "enable": true,
-                            "speed": 1,
-                            "direction": "none",
-                            "random": true,
-                            "straight": false,
-                            "out_mode": "out",
-                            "bounce": false,
-                            "attract": {
-                                "enable": false,
-                                "rotateX": 600,
-                                "rotateY": 1200
-                            }
-                        }
-                    },
-                    "interactivity": {
-                        "detect_on": "canvas",
-                        "events": {
-                            "onhover": {
-                                "enable": true,
-                                "mode": "grab"
-                            },
-                            "onclick": {
-                                "enable": true,
-                                "mode": "push"
-                            },
-                            "resize": true
-                        },
-                        "modes": {
-                            "grab": {
-                                "distance": 180,
-                                "line_linked": {
-                                    "opacity": 0.9
-                                }
-                            },
-                            "push": {
-                                "particles_nb": 4
-                            }
-                        }
-                    },
-                    "retina_detect": true
-                });
-            }
-
-            // Initialize with correct theme
-            setParticlesConfig();
-
-            // Adjust particles container style based on theme
-            function adjustParticlesStyle() {
-                // Remove existing particles
-                const particlesContainer = document.getElementById('particles-js');
-                if (particlesContainer) {
-                    particlesContainer.innerHTML = '';
-                }
-
-                // Reinitialize particles with new theme colors
-                setParticlesConfig();
-
-                // Adjust opacity based on theme
-                const isDarkMode = document.documentElement.classList.contains('dark');
-                if (particlesContainer) {
-                    particlesContainer.style.opacity = isDarkMode ? '0.4' : '0.3';
-                }
-            }
-
-            // Initial adjustment
-            adjustParticlesStyle();
-
-            // Watch for theme changes
-            const observer = new MutationObserver(function (mutations) {
-                mutations.forEach(function (mutation) {
-                    if (mutation.attributeName === 'class') {
-                        adjustParticlesStyle();
-                    }
-                });
-            });
-
-            observer.observe(document.documentElement, {
-                attributes: true,
-                attributeFilter: ['class']
-            });
-        });
-
-        // Theme toggle functionality - improved for mobile
+        // Theme toggle functionality
         let themeToggle, themeIcon, htmlElement;
 
-        // Initialize theme system when DOM is ready
         function initThemeSystem() {
             themeToggle = document.getElementById('theme-toggle');
             if (!themeToggle) {
-                // Retry if element not found
                 setTimeout(initThemeSystem, 100);
                 return;
             }
@@ -437,27 +371,22 @@
             themeIcon = themeToggle.querySelector('.icon');
             htmlElement = document.documentElement;
 
-            // Check for saved theme preference or respect OS setting
             const savedTheme = localStorage.getItem('theme');
             const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
             const initialTheme = savedTheme || (prefersDark ? 'dark' : 'light');
 
-            // Apply initial theme
             applyTheme(initialTheme);
             updateThemeIcon(initialTheme);
 
-            // Set initial logo based on theme
             const logoImg = document.getElementById('logo-img');
             if (logoImg) {
                 logoImg.src = initialTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
             }
 
-            // Add event listeners - support both click and touch events for mobile
             let lastTouchTime = 0;
-            const TOUCH_DELAY = 300; // Prevent double-firing
+            const TOUCH_DELAY = 300;
 
             const handleToggle = (e) => {
-                // Prevent double-firing on mobile (touch + click)
                 const now = Date.now();
                 if (now - lastTouchTime < TOUCH_DELAY) {
                     e.preventDefault();
@@ -465,45 +394,25 @@
                     return;
                 }
                 lastTouchTime = now;
-
                 e.preventDefault();
                 e.stopPropagation();
                 toggleTheme();
             };
 
-            // Use both click and touchend for better mobile support
             themeToggle.addEventListener('click', handleToggle);
             themeToggle.addEventListener('touchend', handleToggle, { passive: false });
         }
 
-        // Apply initial theme with proper class management
         function applyTheme(theme) {
             if (!htmlElement) return;
-
-            // Remove both theme classes
             htmlElement.classList.remove('light', 'dark');
             document.body.classList.remove('light', 'dark');
-
-            // Add the correct theme class
             htmlElement.classList.add(theme);
             document.body.classList.add(theme);
-
-            // Ensure the theme is applied to all elements
-            document.querySelectorAll('.clean-card, .header-bg, .btn-filter, .pagination-text, .article-card h2, .article-card p, .text-neutral-600, .text-neutral-700, .border-t').forEach(element => {
-                if (theme === 'dark') {
-                    element.classList.remove('light');
-                    element.classList.add('dark');
-                } else {
-                    element.classList.remove('dark');
-                    element.classList.add('light');
-                }
-            });
         }
 
-        // Update theme icon based on current theme
         function updateThemeIcon(theme) {
             if (!themeIcon) return;
-
             if (theme === 'dark') {
                 themeIcon.classList.remove('fa-moon');
                 themeIcon.classList.add('fa-sun');
@@ -513,37 +422,26 @@
             }
         }
 
-        // Toggle theme function
         function toggleTheme() {
             if (!htmlElement) return;
-
             const currentTheme = htmlElement.classList.contains('dark') ? 'dark' : 'light';
             const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-
-            // Apply new theme using the helper function
             applyTheme(newTheme);
-
-            // Update logo based on theme
             const logoImg = document.getElementById('logo-img');
             if (logoImg) {
                 logoImg.src = newTheme === 'light' ? 'src/res/logo-light.svg' : 'src/res/logo.svg';
             }
-
-            // Update icon
             updateThemeIcon(newTheme);
-
-            // Save preference
             localStorage.setItem('theme', newTheme);
         }
 
-        // Initialize theme system
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initThemeSystem);
         } else {
             initThemeSystem();
         }
 
-        // Sort toggle functionality - improved for mobile
+        // Sort toggle functionality
         function initSortToggle() {
             const sortToggle = document.getElementById('sort-toggle');
             if (!sortToggle) {
@@ -555,7 +453,6 @@
             const TOUCH_DELAY = 300;
 
             const handleSortToggle = (e) => {
-                // Prevent double-firing
                 const now = Date.now();
                 if (now - lastTouchTime < TOUCH_DELAY) {
                     e.preventDefault();
@@ -563,18 +460,15 @@
                     return;
                 }
                 lastTouchTime = now;
-
                 e.preventDefault();
                 e.stopPropagation();
                 toggleSortOrder();
             };
 
-            // Support both click and touch events
             sortToggle.addEventListener('click', handleSortToggle);
             sortToggle.addEventListener('touchend', handleSortToggle, { passive: false });
         }
 
-        // Initialize sort toggle
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initSortToggle);
         } else {
@@ -586,9 +480,8 @@
         let currentPage = 1;
         const articlesPerPage = 18;
         let currentFilter = 'all';
-        let isShuffled = false; // Track sort order state
+        let isShuffled = false;
 
-        // Filter definitions
         const filters = {
             'ai': ['AI', 'Artificial Intelligence', 'Machine Learning', 'Deep Learning', 'Neural Network', 'ChatGPT', 'GPT', 'LLM'],
             'consumer': ['Apple', 'Samsung', 'Google', 'Amazon', 'Microsoft', 'iPhone', 'iPad', 'Mac', 'Android', 'Pixel', 'Galaxy', 'Surface', 'Echo', 'Alexa', 'Home', 'Smartphone', 'Tablet', 'Laptop', 'Spotify'],
@@ -597,20 +490,15 @@
             'fintech': ['Fintech', 'Cryptocurrency', 'Crypto', 'Bitcoin', 'Ethereum', 'Blockchain', 'DeFi', 'NFT', 'Digital Currency', 'Payment', 'Banking', 'Finance', 'Trading', 'Investment', 'Stablecoin', 'Smart Contract']
         };
 
-        // Format date for display
         function formatDate(dateString) {
             const date = new Date(dateString);
             return date.toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'short',
-                day: 'numeric'
-            }) + ' - ' + date.toLocaleTimeString('en-US', {
-                hour: '2-digit',
-                minute: '2-digit'
+                year: 'numeric', month: 'short', day: 'numeric'
+            }) + ' · ' + date.toLocaleTimeString('en-US', {
+                hour: '2-digit', minute: '2-digit'
             });
         }
 
-        // Shuffle array using Fisher-Yates algorithm
         function shuffleArray(array) {
             const shuffled = [...array];
             for (let i = shuffled.length - 1; i > 0; i--) {
@@ -620,52 +508,43 @@
             return shuffled;
         }
 
-        // Toggle sort order between chronological and shuffled
         function toggleSortOrder() {
             isShuffled = !isShuffled;
-            currentPage = 1; // Reset to first page
+            currentPage = 1;
 
-            // Update icon
             const sortIcon = document.querySelector('#sort-toggle .icon');
             if (isShuffled) {
                 sortIcon.classList.remove('fa-clock');
-                sortIcon.classList.add('fa-dice');
+                sortIcon.classList.add('fa-shuffle');
             } else {
-                sortIcon.classList.remove('fa-dice');
+                sortIcon.classList.remove('fa-shuffle');
                 sortIcon.classList.add('fa-clock');
             }
 
-            // Re-render articles
             renderArticles();
         }
 
-        // Check if an article matches the current filter
         function articleMatchesFilter(article, filter) {
             if (filter === 'all') return true;
-
             const filterKeywords = filters[filter] || [];
             const title = article.title.toLowerCase();
             const summary = article.summary.toLowerCase();
-
             return filterKeywords.some(keyword =>
                 title.includes(keyword.toLowerCase()) ||
                 summary.includes(keyword.toLowerCase())
             );
         }
 
-        // Filter articles based on current filter
         function filterArticles(articles, filter) {
             if (filter === 'all') return articles;
             return articles.filter(article => articleMatchesFilter(article, filter));
         }
 
-        // Load news from JSON file
         async function loadNews() {
             const loadingElement = document.getElementById('loading');
             const errorMessage = document.getElementById('error-message');
             const articlesContainer = document.getElementById('articles-container');
 
-            // Show loading indicator
             loadingElement.classList.remove('hidden');
             errorMessage.classList.add('hidden');
             articlesContainer.innerHTML = '';
@@ -679,13 +558,9 @@
                 const data = await response.json();
                 allArticles = data.articles;
 
-                // Update last updated time
                 document.getElementById('last-updated').textContent = formatDate(data.lastUpdated);
 
-                // Render articles
                 renderArticles();
-
-                // Hide loading indicator
                 loadingElement.classList.add('hidden');
             } catch (error) {
                 console.error('Error loading news:', error);
@@ -694,213 +569,213 @@
             }
         }
 
-        // Extract first sentence from HTML content
         function extractFirstSentence(htmlContent) {
-            // Remove HTML tags (replace with space to prevent join) and normalize whitespace
             let textContent = htmlContent.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
-
-            // Find sentences: content ending in . ! ? followed by whitespace or end of string,
-            // but include closing quotes/parens if they exist
             const sentences = textContent.match(/.*?[.!?]+['"”’)]*(?=\s|$)/g);
 
             if (sentences && sentences.length > 0) {
                 let summary = sentences[0];
-
-                // If the first sentence is very short (< 40 chars) and there is more content,
-                // assume it might be a header or short intro and include the next part.
                 if (summary.length < 70 && sentences.length > 1) {
                     const nextSentence = sentences[1].trim();
-                    // Avoid adding "The post..." boilerplate from feeds like Futurism
                     if (!nextSentence.startsWith('The post')) {
                         summary += sentences[1];
                     }
                 }
-
                 return summary;
             }
 
-            // If no sentence structure found, return first 140 characters
             return textContent.substring(0, 140) + (textContent.length > 140 ? '...' : '');
         }
 
-        // Process article summary for consistent display
         function processArticleSummary(article) {
-            // For all articles, extract just the first sentence to keep summaries concise
             return extractFirstSentence(article.summary);
         }
 
-        // Render articles for current page
         function renderArticles() {
             const articlesContainer = document.getElementById('articles-container');
             let filteredArticles = filterArticles(allArticles, currentFilter);
 
-            // Apply sorting based on current sort order
             if (isShuffled) {
                 filteredArticles = shuffleArray(filteredArticles);
             }
 
-            const totalPages = Math.ceil(filteredArticles.length / articlesPerPage);
+            const totalPages = Math.ceil(filteredArticles.length / articlesPerPage) || 1;
             const startIndex = (currentPage - 1) * articlesPerPage;
             const endIndex = Math.min(startIndex + articlesPerPage, filteredArticles.length);
             const pageArticles = filteredArticles.slice(startIndex, endIndex);
 
-            // Clear container
             articlesContainer.innerHTML = '';
 
             if (pageArticles.length === 0) {
                 articlesContainer.innerHTML = `
-                <div class="col-span-full flex flex-col items-center justify-center py-20 px-6 glass-panel rounded-2xl text-center">
-                    <div class="w-16 h-16 bg-gray-100 dark:bg-white/5 rounded-full flex items-center justify-center mb-6">
-                        <i class="fas fa-newspaper text-3xl text-gray-400 dark:text-gray-500"></i>
+                <div class="col-span-full flex flex-col items-center justify-center py-20 px-6 panel rounded-2xl text-center">
+                    <div class="w-14 h-14 rounded-full flex items-center justify-center mb-6 border hairline">
+                        <i class="fas fa-terminal text-2xl text-faint"></i>
                     </div>
-                    <h3 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-3 font-heading">No Articles Found</h3>
-                    <p class="text-gray-500 dark:text-gray-400 max-w-sm mx-auto">We couldn't find any articles matching your filters. Try selecting a different category.</p>
+                    <h3 class="text-xl font-bold mb-2 headline-serif">No matching output</h3>
+                    <p class="meta-mono text-dim text-sm max-w-sm mx-auto">This filter returned zero articles. Try a different flag.</p>
                 </div>
                 `;
+                updatePagination(1);
                 return;
             }
 
-            // Render articles
             pageArticles.forEach((article, index) => {
-                // Process article summary for consistent display
                 const displaySummary = processArticleSummary(article);
+                const accent = sourceColors[article.source] || '#8b909b';
 
                 const articleElement = document.createElement('article');
-                articleElement.className = 'article-card glass-panel card-hover group h-full flex flex-col rounded-2xl overflow-hidden relative article-enter bg-white dark:bg-gray-800/40 border border-gray-100 dark:border-white/5 shadow-sm';
-                articleElement.style.animationDelay = `${index * 50}ms`;
+                articleElement.className = 'article-card group h-full flex flex-col overflow-hidden relative article-enter';
+                articleElement.style.animationDelay = `${index * 40}ms`;
+                articleElement.style.setProperty('--card-accent', accent);
 
                 articleElement.innerHTML = `
                     <a href="${article.link}" target="_blank" rel="noopener" class="flex flex-col h-full group">
-                        <div class="relative h-56 overflow-hidden">
+                        <div class="relative h-48 overflow-hidden border-b hairline">
                              ${article.image_url ?
-                        `<img 
-                                    src="${article.image_url}" 
-                                    alt="${article.title}" 
-                                    class="w-full h-full object-cover transition-transform duration-700 ease-in-out group-hover:scale-105"
+                        `<img
+                                    src="${article.image_url}"
+                                    alt="${article.title}"
+                                    class="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.04] grayscale-[15%] group-hover:grayscale-0"
                                     loading="lazy"
-                                    onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\\'w-full h-full bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-700 flex items-center justify-center\\'><i class=\\'fas fa-image text-gray-300 dark:text-gray-600 text-3xl\\'></i></div>';"
+                                    onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\\'w-full h-full flex items-center justify-center\\' style=\\'background:var(--bg-raised)\\'><i class=\\'fas fa-image text-faint text-2xl\\'></i></div>';"
                                 >` :
-                        `<div class="w-full h-full bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-700 flex items-center justify-center">
-                                    <i class="fas fa-image text-gray-300 dark:text-gray-600 text-3xl"></i>
+                        `<div class="w-full h-full flex items-center justify-center" style="background:var(--bg-raised)">
+                                    <i class="fas fa-image text-faint text-2xl"></i>
                                 </div>`
                     }
-                            <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                            
-                            <div class="absolute top-4 left-4 z-10">
-                                <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-white/90 dark:bg-black/80 text-primary-600 dark:text-primary-400 backdrop-blur-md shadow-sm border border-white/20">
-                                    ${article.source}
-                                </span>
+                            <div class="absolute top-3 left-3">
+                                <span class="tag-pill" style="background:${accent}">${article.source}</span>
                             </div>
                         </div>
-                        
-                        <div class="p-6 flex-1 flex flex-col relative z-10">
-                            <div class="flex items-center gap-2 mb-3 text-xs font-semibold text-primary-600 dark:text-primary-400 uppercase tracking-wider">
-                                <span>${formatDate(article.published)}</span>
+
+                        <div class="p-5 flex-1 flex flex-col">
+                            <div class="meta-mono text-faint mb-2.5">
+                                ${formatDate(article.published)}
                             </div>
-                            
-                            <h2 class="text-xl md:text-2xl font-bold text-gray-900 dark:text-white mb-3 line-clamp-3 leading-snug group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors font-heading">
+
+                            <h2 class="headline-serif text-lg font-bold mb-2.5 line-clamp-3 leading-snug group-hover:text-amber transition-colors duration-200">
                                 ${article.title}
                             </h2>
-                            
-                            <p class="text-gray-600 dark:text-gray-400 text-sm line-clamp-3 mb-6 flex-1 leading-relaxed">
+
+                            <p class="text-dim text-sm line-clamp-3 flex-1 leading-relaxed">
                                 ${displaySummary}
                             </p>
+
+                            <div class="mt-4 pt-3 border-t hairline meta-mono text-faint flex items-center gap-1.5 group-hover:text-amber transition-colors duration-200">
+                                read source <i class="fas fa-arrow-right text-[10px] transition-transform duration-200 group-hover:translate-x-0.5"></i>
+                            </div>
                         </div>
                     </a>
                 `;
                 articlesContainer.appendChild(articleElement);
             });
 
-            // Update pagination
             updatePagination(totalPages);
         }
 
-        // Update pagination controls
+        // Build the list of page numbers to display, with ellipses for long ranges
+        function buildPageList(current, total) {
+            const pages = [];
+            if (total <= 7) {
+                for (let i = 1; i <= total; i++) pages.push(i);
+                return pages;
+            }
+            pages.push(1);
+            if (current > 3) pages.push('...');
+            const start = Math.max(2, current - 1);
+            const end = Math.min(total - 1, current + 1);
+            for (let i = start; i <= end; i++) pages.push(i);
+            if (current < total - 2) pages.push('...');
+            pages.push(total);
+            return pages;
+        }
+
+        // Update pagination controls: [ prev ][ page numbers ][ next ], in that fixed order
         function updatePagination(totalPages) {
             const paginationElement = document.getElementById('pagination');
-            const currentPageElement = document.getElementById('current-page');
-            const totalPagesElement = document.getElementById('total-pages');
-            const paginationButtons = document.getElementById('pagination-buttons');
 
             if (totalPages <= 1) {
                 paginationElement.classList.add('hidden');
+                paginationElement.innerHTML = '';
                 return;
             }
 
             paginationElement.classList.remove('hidden');
-            currentPageElement.textContent = currentPage;
-            totalPagesElement.textContent = totalPages;
+            paginationElement.innerHTML = '';
 
-            // Clear existing buttons
-            paginationButtons.innerHTML = '';
-
-            // Previous button
-            if (currentPage > 1) {
-                const prevButton = document.createElement('button');
-                prevButton.className = 'btn-base glass-panel text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-white/10 flex items-center gap-2';
-                prevButton.type = 'button';
-                prevButton.innerHTML = '<i class="fas fa-chevron-left"></i> Previous';
-                let lastTouchTime = 0;
-                const TOUCH_DELAY = 300;
-                const handlePrev = (e) => {
-                    const now = Date.now();
-                    if (now - lastTouchTime < TOUCH_DELAY) {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        return;
-                    }
-                    lastTouchTime = now;
-
+            let lastTouchTime = 0;
+            const TOUCH_DELAY = 300;
+            const debounced = (fn) => (e) => {
+                const now = Date.now();
+                if (now - lastTouchTime < TOUCH_DELAY) {
                     e.preventDefault();
-                    currentPage--;
-                    renderArticles();
-                    setTimeout(() => {
-                        window.scrollTo({ top: 0, behavior: 'smooth' });
-                    }, 10);
-                };
-                prevButton.addEventListener('click', handlePrev);
-                prevButton.addEventListener('touchend', handlePrev, { passive: false });
-                paginationButtons.appendChild(prevButton);
-            }
+                    e.stopPropagation();
+                    return;
+                }
+                lastTouchTime = now;
+                e.preventDefault();
+                fn();
+                renderArticles();
+                setTimeout(() => window.scrollTo({ top: 0, behavior: 'smooth' }), 10);
+            };
 
-            // Next button
-            if (currentPage < totalPages) {
-                const nextButton = document.createElement('button');
-                nextButton.className = 'btn-base bg-gradient-to-r from-primary-500 to-primary-600 text-white hover:from-primary-600 hover:to-primary-700 shadow-lg shadow-primary-500/20 flex items-center gap-2';
-                nextButton.type = 'button';
-                nextButton.innerHTML = 'Next <i class="fas fa-chevron-right"></i>';
-                let lastTouchTime = 0;
-                const TOUCH_DELAY = 300;
-                const handleNext = (e) => {
-                    const now = Date.now();
-                    if (now - lastTouchTime < TOUCH_DELAY) {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        return;
-                    }
-                    lastTouchTime = now;
+            // Previous arrow
+            const prevButton = document.createElement('button');
+            prevButton.className = 'nav-arrow';
+            prevButton.type = 'button';
+            prevButton.setAttribute('aria-label', 'Previous page');
+            prevButton.disabled = currentPage === 1;
+            prevButton.innerHTML = '<i class="fas fa-chevron-left text-xs"></i>';
+            const goPrev = debounced(() => { currentPage = Math.max(1, currentPage - 1); });
+            prevButton.addEventListener('click', goPrev);
+            prevButton.addEventListener('touchend', goPrev, { passive: false });
+            paginationElement.appendChild(prevButton);
 
-                    e.preventDefault();
-                    currentPage++;
-                    renderArticles();
-                    setTimeout(() => {
-                        window.scrollTo({ top: 0, behavior: 'smooth' });
-                    }, 10);
-                };
-                nextButton.addEventListener('click', handleNext);
-                nextButton.addEventListener('touchend', handleNext, { passive: false });
-                paginationButtons.appendChild(nextButton);
-            }
+            // Page numbers, between the two arrows
+            const numbersWrap = document.createElement('div');
+            numbersWrap.className = 'flex items-center gap-1 mx-1 md:mx-2';
+
+            buildPageList(currentPage, totalPages).forEach(p => {
+                if (p === '...') {
+                    const ell = document.createElement('span');
+                    ell.className = 'page-ellipsis';
+                    ell.textContent = '···';
+                    numbersWrap.appendChild(ell);
+                    return;
+                }
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'page-num-btn' + (p === currentPage ? ' active' : '');
+                btn.textContent = p;
+                btn.setAttribute('aria-label', `Page ${p}`);
+                if (p === currentPage) btn.setAttribute('aria-current', 'page');
+                const goTo = debounced(() => { currentPage = p; });
+                btn.addEventListener('click', goTo);
+                btn.addEventListener('touchend', goTo, { passive: false });
+                numbersWrap.appendChild(btn);
+            });
+            paginationElement.appendChild(numbersWrap);
+
+            // Next arrow
+            const nextButton = document.createElement('button');
+            nextButton.className = 'nav-arrow';
+            nextButton.type = 'button';
+            nextButton.setAttribute('aria-label', 'Next page');
+            nextButton.disabled = currentPage === totalPages;
+            nextButton.innerHTML = '<i class="fas fa-chevron-right text-xs"></i>';
+            const goNext = debounced(() => { currentPage = Math.min(totalPages, currentPage + 1); });
+            nextButton.addEventListener('click', goNext);
+            nextButton.addEventListener('touchend', goNext, { passive: false });
+            paginationElement.appendChild(nextButton);
         }
 
-        // Filter button functionality - improved for mobile
         function initFilterButtons() {
-            document.querySelectorAll('.btn-filter').forEach(button => {
+            document.querySelectorAll('.flag-btn').forEach(button => {
                 let lastTouchTime = 0;
                 const TOUCH_DELAY = 300;
 
                 const handleFilter = (e) => {
-                    // Prevent double-firing
                     const now = Date.now();
                     if (now - lastTouchTime < TOUCH_DELAY) {
                         e.preventDefault();
@@ -908,21 +783,15 @@
                         return;
                     }
                     lastTouchTime = now;
-
                     e.preventDefault();
                     e.stopPropagation();
 
-                    // Update active button
-                    document.querySelectorAll('.btn-filter').forEach(btn => {
-                        btn.classList.remove('active');
-                    });
+                    document.querySelectorAll('.flag-btn').forEach(btn => btn.classList.remove('active'));
                     button.classList.add('active');
 
-                    // Set current filter
                     currentFilter = button.getAttribute('data-filter');
-                    currentPage = 1; // Reset to first page
+                    currentPage = 1;
 
-                    // Render articles with new filter
                     renderArticles();
                 };
 
@@ -931,19 +800,14 @@
             });
         }
 
-        // Initialize filter buttons when DOM is ready
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initFilterButtons);
         } else {
             initFilterButtons();
         }
 
-
-
-        // Set current year in copyright
         document.getElementById('current-year').textContent = new Date().getFullYear();
 
-        // Load news when page loads
         document.addEventListener('DOMContentLoaded', loadNews);
     </script>
 </body>
