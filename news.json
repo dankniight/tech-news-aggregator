@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-07-07T03:52:15.720063",
+  "lastUpdated": "2026-07-07T09:50:29.227919",
   "articles": [
+    {
+      "title": "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/mps-tell-brit-government-sort-out-your-tech-sovereignty-or-get-left-out-in-the-cold/5267076",
+      "summary": "Committee says Anthropic's brief US export ban shows UK can't even trust its allies to keep the AI lights on",
+      "published": "Tue, 07 Jul 2026 11:43:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=228284&width=800"
+    },
+    {
+      "title": "Northern Ireland tries (again) to expel Capita from schools IT contract",
+      "link": "https://www.theregister.com/public-sector/2026/07/07/northern-ireland-tries-again-to-expel-capita-from-schools-it-contract/5266887",
+      "summary": "New procurement could be worth £851M after previous Fujitsu award was scrapped",
+      "published": "Tue, 07 Jul 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230531&width=800"
+    },
+    {
+      "title": "UK guts planning red tape so datacenters can bypass the neighbors faster",
+      "link": "https://www.theregister.com/on-prem/2026/07/07/uk-guts-planning-red-tape-so-datacenters-can-bypass-the-neighbors-faster/5266865",
+      "summary": "Overhaul of process could give NIMBYs one year less to complain",
+      "published": "Tue, 07 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1684059&width=800"
+    },
+    {
+      "title": "Brussels shows how to remove friction from collaboration",
+      "link": "https://www.theregister.com/applications/2026/07/07/brussels-shows-how-to-remove-friction-from-collaboration/5267449",
+      "summary": "SPONSORED FEATURE: Flemish Government explores the radical notion that meeting rooms should just work",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261027&width=800"
+    },
+    {
+      "title": "Broadcom and Apple extend custom silicon pact to 2031",
+      "link": "https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491",
+      "summary": "Probably an extension of long-running iThing innards arrangement, not a new custom AI accelerator deal",
+      "published": "Tue, 07 Jul 2026 09:19:27 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1685766&width=800"
+    },
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "summary": "Forterra has deployed more than 100",
+      "published": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080"
+    },
+    {
+      "title": "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why",
+      "link": "https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467",
+      "summary": "Share price down sharply, apparently amid fears the bubble is getting bigger",
+      "published": "Tue, 07 Jul 2026 07:39:13 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093885&width=800"
+    },
+    {
+      "title": "IBM teases new rackable mainframes that ‘complete’ the z17 family",
+      "link": "https://www.theregister.com/systems/2026/07/07/ibm-teases-new-rackable-mainframes-that-complete-the-z17-family/5267423",
+      "summary": "Big Iron remains big business for Big Blue",
+      "published": "Tue, 07 Jul 2026 04:20:34 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=142108&width=800"
+    },
     {
       "title": "AI startup that’s never turned a profit say's it'll totally be around in 2047 to close its $19B lease",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385",
@@ -156,7 +220,7 @@
     {
       "title": "GitHub cuts short offer to burn repos on CD after mockery ensues",
       "link": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113",
-      "summary": "A purported jab of Sony’s physical media phase-out blows up on GitHub itself.",
+      "summary": "A purported jab of Sony's physical media phase-out blows up on GitHub itself",
       "published": "Mon, 06 Jul 2026 20:46:45 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=257311&width=800"
@@ -274,14 +338,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644"
     },
     {
-      "title": "AMD’s Ryzen AI Halo makes local AI look easy, but at $4K, easy doesn't come cheap",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
-      "summary": "128 GB of memory! In this economy?",
-      "published": "Mon, 06 Jul 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5266724&width=800"
-    },
-    {
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
       "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
       "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
@@ -322,14 +378,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/trump-followers-crypto-stock-scams.jpg?quality=85"
     },
     {
-      "title": "Europe's new import rules are coming for your bargains",
-      "link": "https://www.theregister.com/personal-tech/2026/07/06/europes-new-import-rules-are-coming-for-your-bargains/5266899",
-      "summary": "Good news if you're an OEM printer maker, EU retail biz, or a customs official... but hobbyists and others less pleased",
-      "published": "Mon, 06 Jul 2026 15:49:32 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5266957&width=800"
-    },
-    {
       "title": "F1 in Britain: Automated software to blame for crushing expectations",
       "link": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
       "summary": "Sometimes races finish behind a safety car, but it's not always satisfying.",
@@ -362,14 +410,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/20260706-3-01-1152x648.png"
     },
     {
-      "title": "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
-      "summary": "Oracle's down more than 40% this month, the BIS thinks AI could destroy the economy, and we've got the Kettle on for a chat about the whole mess",
-      "published": "Mon, 06 Jul 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5220460&width=800"
-    },
-    {
       "title": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
       "link": "https://futurism.com/health-medicine/meta-ai-data-center-pathogen-bacteria-water",
       "summary": "<p>\"This isn't something we normally test for.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/meta-ai-data-center-pathogen-bacteria-water\">Meta&#8217;s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -384,14 +424,6 @@
       "published": "Mon, 06 Jul 2026 14:43:59 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/09/epik-hack-1.jpg?resize=1200,724"
-    },
-    {
-      "title": "Brit supermarket giant triples down on facial recog to nab shoplifters",
-      "link": "https://www.theregister.com/security/2026/07/06/brit-supermarket-giant-triples-down-on-facial-recog-to-nab-shoplifters/5266935",
-      "summary": "Up to 150 more stores to get the 'Orwellian' tech by year's end",
-      "published": "Mon, 06 Jul 2026 14:35:35 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=233973&width=800"
     },
     {
       "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
@@ -426,28 +458,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800"
     },
     {
-      "title": "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
-      "link": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827",
-      "summary": "ShinyHunters leaks names, addresses, DOBs, and more after Christian college discloses cyberattack",
-      "published": "Mon, 06 Jul 2026 12:47:09 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5266854&width=800"
-    },
-    {
       "title": "Bentley teases its first EV, the Torcal",
       "link": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
       "summary": "The new model will be officially unveiled in late September.",
       "published": "Mon, 06 Jul 2026 11:30:38 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Bentley-Torcal-1152x648.jpg"
-    },
-    {
-      "title": "Secure Unix ancestor KSOS did type safety before Rust made it cool",
-      "link": "https://www.theregister.com/os-platforms/2026/07/06/secure-unix-ancestor-ksos-did-type-safety-before-rust-made-it-cool/5266458",
-      "summary": "Modula-based source code resurfaces after nearly four decades",
-      "published": "Mon, 06 Jul 2026 11:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5266540&width=800"
     },
     {
       "title": "The Czinger 21C might be the wildest car we drive all year",
@@ -458,28 +474,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/DSC_8270-1-1152x648.jpg"
     },
     {
-      "title": "Insert token to continue, says AI. Yeah, about that...",
-      "link": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
-      "summary": "Barney Rubble points to bubble trouble",
-      "published": "Mon, 06 Jul 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5258205&width=800"
-    },
-    {
       "title": "Experts Say Mysterious Metallic Orbs Appear to Have Fallen From the Sky",
       "link": "https://futurism.com/space/mysterious-metallic-orbs-space",
       "summary": "<p>Officials are investigating.</p>\n<p>The post <a href=\"https://futurism.com/space/mysterious-metallic-orbs-space\">Experts Say Mysterious Metallic Orbs Appear to Have Fallen From the Sky</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 06 Jul 2026 10:13:51 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/mysterious-metallic-orbs-space.jpg?quality=85"
-    },
-    {
-      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
-      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
-      "summary": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.",
-      "published": "Mon, 06 Jul 2026 09:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Even-G2-and-R1-with-HUD.jpeg?resize=1200,675"
     },
     {
       "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
