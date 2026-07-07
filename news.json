@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-07-07T09:50:29.227919",
+  "lastUpdated": "2026-07-07T14:47:35.185605",
   "articles": [
+    {
+      "title": "Microsoft flips Windows Backup to on by default unless you're in the EU",
+      "link": "https://www.theregister.com/systems/2026/07/07/microsoft-flips-windows-backup-to-on-by-default-unless-youre-in-the-eu/5267664",
+      "summary": "Everyone else must opt out manually if they don't fancy settings data shipped off-device",
+      "published": "Tue, 07 Jul 2026 15:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251567&width=800"
+    },
+    {
+      "title": "Enterprise AI still smarting from leaping before looking",
+      "link": "https://www.theregister.com/security/2026/07/07/enterprise-ai-still-smarting-from-leaping-before-looking/5267353",
+      "summary": "Majority report AI-related security incidents or vulnerabilities",
+      "published": "Tue, 07 Jul 2026 15:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5267398&width=800"
+    },
+    {
+      "title": "DRAM prices are killing the cheap smartphone",
+      "link": "https://www.theregister.com/personal-tech/2026/07/07/dram-prices-are-killing-the-cheap-smartphone/5267643",
+      "summary": "Now eats 60% of a sub-$400 handset's bill of materials and it's only getting worse",
+      "published": "Tue, 07 Jul 2026 14:42:06 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259160&width=800"
+    },
+    {
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "summary": "AI law startup Norm has raised a $120 million Series C round led by Kholsa Ventures, valuing the startup at $1.2 billion.",
+      "published": "Tue, 07 Jul 2026 14:35:42 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
+    },
+    {
+      "title": "This startup pits dealerships against each other to bid on your used car",
+      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+      "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
+      "published": "Tue, 07 Jul 2026 14:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/bidbus-team.jpg?resize=1200,1200"
+    },
+    {
+      "title": "Fake IT bods on Microsoft Teams coax workers into installing malware",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/07/fake-it-bods-on-microsoft-teams-coax-workers-into-installing-malware/5267610",
+      "summary": "Unit 42 says attackers are posing as helpdesk staff and persuading employees to hand over remote control before dropping EtherRAT trojan",
+      "published": "Tue, 07 Jul 2026 13:21:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254434&width=800"
+    },
+    {
+      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
+      "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
+      "summary": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
+      "published": "Tue, 07 Jul 2026 13:10:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/us-army-2234931369.jpg?resize=1200,800"
+    },
+    {
+      "title": "Spain collars alleged pro-Russia hacktivist after FBI tip-off",
+      "link": "https://www.theregister.com/security/2026/07/07/alleged-pro-russia-hacktivist-arrested-in-palencia/5267569",
+      "summary": "Palencia man suspected of links to CARR, Z-Pentest, and NoName057(16), plus helping a Ukrainian hacker flee to Russia",
+      "published": "Tue, 07 Jul 2026 12:30:50 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093955&width=800"
+    },
+    {
+      "title": "Government's cyber pledge lands 60 signatories, including M&S and, somehow, Capita",
+      "link": "https://www.theregister.com/security/2026/07/07/governments-cyber-pledge-lands-60-signatories-including-ms-and-somehow-capita/5267554",
+      "summary": "Whitehall's latest attempt to boost corporate cyber hygiene has already produced a curious roll call",
+      "published": "Tue, 07 Jul 2026 12:07:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=225093&width=800"
+    },
+    {
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "published": "Tue, 07 Jul 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200"
+    },
     {
       "title": "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/07/mps-tell-brit-government-sort-out-your-tech-sovereignty-or-get-left-out-in-the-cold/5267076",
@@ -10,12 +90,36 @@
       "image_url": "https://image.theregister.com/?imageId=228284&width=800"
     },
     {
+      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+      "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+      "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
+      "published": "Tue, 07 Jul 2026 11:15:15 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/55370181785_141924edbe_4k-1152x648.jpg"
+    },
+    {
       "title": "Northern Ireland tries (again) to expel Capita from schools IT contract",
       "link": "https://www.theregister.com/public-sector/2026/07/07/northern-ireland-tries-again-to-expel-capita-from-schools-it-contract/5266887",
       "summary": "New procurement could be worth £851M after previous Fujitsu award was scrapped",
       "published": "Tue, 07 Jul 2026 11:15:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=230531&width=800"
+    },
+    {
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
+      "published": "Tue, 07 Jul 2026 11:00:18 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg"
+    },
+    {
+      "title": "The Hectic Modern World Is Shredding Your Little Cave Man Brain, Scientists Confirm",
+      "link": "https://futurism.com/health-medicine/modern-world-shredding-brain",
+      "summary": "<p>We weren't built for this.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/modern-world-shredding-brain\">The Hectic Modern World Is Shredding Your Little Cave Man Brain, Scientists Confirm</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 07 Jul 2026 10:46:22 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/modern-world-shredding-brain.jpg?quality=85"
     },
     {
       "title": "UK guts planning red tape so datacenters can bypass the neighbors faster",
@@ -34,6 +138,14 @@
       "image_url": "https://image.theregister.com/?imageId=261027&width=800"
     },
     {
+      "title": "AI “Actor” Will “Star” In a New “Movie”",
+      "link": "https://futurism.com/artificial-intelligence/ai-actor-tilly-norwood-movie",
+      "summary": "<p>Tilly Norwood ain't going away.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-actor-tilly-norwood-movie\">AI &#8220;Actor&#8221; Will &#8220;Star&#8221; In a New &#8220;Movie&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 07 Jul 2026 09:47:12 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/ai-actor-tilly-norwood-movie.jpg?quality=85"
+    },
+    {
       "title": "Broadcom and Apple extend custom silicon pact to 2031",
       "link": "https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491",
       "summary": "Probably an extension of long-running iThing innards arrangement, not a new custom AI accelerator deal",
@@ -44,10 +156,18 @@
     {
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
       "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "summary": "Forterra has deployed more than 100",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
       "published": "Tue, 07 Jul 2026 09:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080"
+    },
+    {
+      "title": "Zuckerberg Admits That AI Is Not Working Out the Way He Imagined",
+      "link": "https://futurism.com/artificial-intelligence/zuckerberg-admits-ai-not-working-out",
+      "summary": "<p>Shocker.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/zuckerberg-admits-ai-not-working-out\">Zuckerberg Admits That AI Is Not Working Out the Way He Imagined</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 07 Jul 2026 08:48:46 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/zuckerberg-admits-ai-not-working-out.jpg?quality=85"
     },
     {
       "title": "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why",
@@ -114,52 +234,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/survey-terrible-truth-mrna-vaccines.jpg?quality=85"
     },
     {
-      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
-      "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
-      "published": "Sun, 05 Jul 2026 10:55:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1.jpeg"
-    },
-    {
       "title": "You’ll Never Guess Why Government Officials Are Sinking a Four-Story Riverboat Casino Into the Abyss",
       "link": "https://futurism.com/science-energy/government-conservation-alabama-riverboat-casino-marine-artificial-reef",
       "summary": "<p>\"You'll start seeing fish on it within a few weeks.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/government-conservation-alabama-riverboat-casino-marine-artificial-reef\">You&#8217;ll Never Guess Why Government Officials Are Sinking a Four-Story Riverboat Casino Into the Abyss</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Sun, 05 Jul 2026 10:02:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/government-conservation-alabama-riverboat-casino-marine-artificial-reef.jpg?quality=85"
-    },
-    {
-      "title": "Something Weird Is Going on With the 66 Billion Trees China Planted in a Huge Wall",
-      "link": "https://futurism.com/science-energy/something-weird-china-tree-wall",
-      "summary": "<p>We weren't seeing the planted forest for the billions of trees.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/something-weird-china-tree-wall\">Something Weird Is Going on With the 66 Billion Trees China Planted in a Huge Wall</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 05 Jul 2026 09:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/something-weird-china-tree-wall.jpg?quality=85"
-    },
-    {
-      "title": "El Niño Already Killing Thousands in Europe",
-      "link": "https://futurism.com/science-energy/el-nino-europe-heatwave-mortality",
-      "summary": "<p>Hot as Hades.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/el-nino-europe-heatwave-mortality\">El Niño Already Killing Thousands in Europe</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 05 Jul 2026 08:02:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/el-nino-europe-heatwave-mortality.jpg?quality=85"
-    },
-    {
-      "title": "Data Center Emits Constant Screeching Noise Directly Into Man’s House",
-      "link": "https://futurism.com/science-energy/data-center-screeching-noise-house",
-      "summary": "<p>\"It's like we're living in a prison in our own yard, in our own house.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/data-center-screeching-noise-house\">Data Center Emits Constant Screeching Noise Directly Into Man&#8217;s House</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 05 Jul 2026 07:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/data-center-screeching-noise-house.jpg?quality=85"
-    },
-    {
-      "title": "Review: Supergirl is not the disaster its low box office suggests",
-      "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
-      "summary": "It’s a pretty good movie, but it needed to be a <em>great</em> movie to thrive in an oversaturated superhero market.",
-      "published": "Sat, 04 Jul 2026 16:49:14 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg"
     },
     {
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
@@ -186,22 +266,6 @@
       "image_url": "https://image.theregister.com/?imageId=226586&width=800"
     },
     {
-      "title": "Software engineers can still rake in big bucks by working for fast-growing companies",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213",
-      "summary": "AI's impact on tech business is complicated",
-      "published": "Mon, 06 Jul 2026 21:57:45 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093988&width=800"
-    },
-    {
-      "title": "Madlad builds homebrew GPU using 8,192 RISC-V chips",
-      "link": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
-      "summary": "The next version will have 32,000 MCUs",
-      "published": "Mon, 06 Jul 2026 21:39:04 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5267263&width=800"
-    },
-    {
       "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
       "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
       "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
@@ -216,14 +280,6 @@
       "published": "Mon, 06 Jul 2026 20:52:42 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864-1152x648.jpg"
-    },
-    {
-      "title": "GitHub cuts short offer to burn repos on CD after mockery ensues",
-      "link": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113",
-      "summary": "A purported jab of Sony's physical media phase-out blows up on GitHub itself",
-      "published": "Mon, 06 Jul 2026 20:46:45 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257311&width=800"
     },
     {
       "title": "What is the oldest American object ever launched into space?",
@@ -258,14 +314,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800"
     },
     {
-      "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
-      "link": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
-      "summary": "Campaigners demand investigation and long-delayed action on PEGA Committee recommendations",
-      "published": "Mon, 06 Jul 2026 19:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093990&width=800"
-    },
-    {
       "title": "Drivers Trapped for Hours in Hopeless Gridlock as Waymos Brick on Major Holiday",
       "link": "https://futurism.com/advanced-transport/waymo-san-francisco-drivers-traffic-gridlock",
       "summary": "<p>\"We realized people were getting out of their cars, yelling and screaming at these Waymos because there were no drivers.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/waymo-san-francisco-drivers-traffic-gridlock\">Drivers Trapped for Hours in Hopeless Gridlock as Waymos Brick on Major Holiday</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -282,28 +330,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800"
     },
     {
-      "title": "Samsung floats 2028 launch for seaborne datacenter",
-      "link": "https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981",
-      "summary": "Korean megacorp sets itself a target date to commercialize watery server farm concept",
-      "published": "Mon, 06 Jul 2026 18:34:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5267025&width=800"
-    },
-    {
       "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
       "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
       "summary": "Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms  and is working on integration.",
       "published": "Mon, 06 Jul 2026 18:12:01 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840"
-    },
-    {
-      "title": "Microsoft says the world is changing faster than it can keep up as it guts commercial, Xbox teams",
-      "link": "https://www.theregister.com/software/2026/07/06/microsoft-says-the-world-is-changing-faster-than-it-can-keep-up-as-it-guts-commercial-xbox-teams/5267032",
-      "summary": "Xbox chief says company can't afford to mistake longevity for inevitability",
-      "published": "Mon, 06 Jul 2026 17:58:24 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5267091&width=800"
     },
     {
       "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
@@ -394,14 +426,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800"
     },
     {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "published": "Mon, 06 Jul 2026 15:22:08 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675"
-    },
-    {
       "title": "There were not one, but two asteroid encounters this weekend",
       "link": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
       "summary": "The Torifune asteroid turns out to be shaped like a peanut.",
@@ -418,14 +442,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/meta-ai-data-center-pathogen-bacteria-water.jpg?quality=85"
     },
     {
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
-      "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
-      "summary": "The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.",
-      "published": "Mon, 06 Jul 2026 14:43:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/09/epik-hack-1.jpg?resize=1200,724"
-    },
-    {
       "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
       "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
       "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
@@ -434,28 +450,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg"
     },
     {
-      "title": "How to reserve and change your WhatsApp username",
-      "link": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
-      "summary": "WhatsApp now lets users reserve usernames ahead of the feature’s full rollout, making it possible to connect without sharing a phone number once usernames go live.",
-      "published": "Mon, 06 Jul 2026 14:15:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/whatsapp-meta-logo.jpg?resize=1200,800"
-    },
-    {
       "title": "Bryan Johnson Spent Tens of Millions Trying Not to Die, Gets Diagnosed With Incurable Disease",
       "link": "https://futurism.com/health-medicine/bryan-johnson-autoimmune-disease",
       "summary": "<p>\"I'm going to try and solve it.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/bryan-johnson-autoimmune-disease\">Bryan Johnson Spent Tens of Millions Trying Not to Die, Gets Diagnosed With Incurable Disease</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 06 Jul 2026 13:51:56 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/bryan-johnson-autoimmune-disease_5f36af.jpg?quality=85"
-    },
-    {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-      "published": "Mon, 06 Jul 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800"
     },
     {
       "title": "Bentley teases its first EV, the Torcal",
@@ -482,84 +482,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/mysterious-metallic-orbs-space.jpg?quality=85"
     },
     {
-      "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
-      "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
-      "summary": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven&#8217;t assembled, Hoto&#8217;s PixelDrive cordless screwdriver can help speed up the process. It&#8217;s currently on sale for $59.99 ($20 off) at Amazon, matching its best price to date.&#160; From tightening loose screws on furniture to repairing electronics, the [&#8230;]",
-      "published": "2026-07-06T16:24:28-04:00",
+      "title": "Anker&#8217;s noise-blocking earbuds for sleeping are nearly half off",
+      "link": "https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale",
+      "summary": "You might have a great bed and a good sleepy time routine, but if you’re still struggling to fall (or stay) asleep, Anker&#8217;s Soundcore Sleep A20 are worth considering. They’re designed to help muffle distracting sounds, and they’ve hit a new all-time low price of $99.99 ($80 off) at Best Buy and Target. In his [&#8230;]",
+      "published": "2026-07-07T10:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/hoto1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VERGE-DEALS-DAILY-IMAGE-27.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "America’s greatest idea is still under threat",
-      "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
-      "summary": "The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had fireworks. French fighter jets flew above New York City with trails of red, white, and blue [&#8230;]",
-      "published": "2026-07-06T14:36:33-04:00",
+      "title": "iRobot’s newest floor cleaner isn’t a robot",
+      "link": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
+      "summary": "iRobot just announced its first-ever non-robotic floor cleaner. The $399 Roomba Electro Plus is a 5-in-1 hard-floor cleaner that combines vacuuming, mopping, and disinfecting, but you have to operate it yourself. The company also announced updates to its line of Roomba robot vacuums, launching five new models with higher suction power, smaller footprints, and lower [&#8230;]",
+      "published": "2026-07-07T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284040155.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Roomba_Electro_Black_Photo_Insitu_Sanitize_Homepage_Banner_Mobile_1500x1500.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
-      "link": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
-      "summary": "Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth. Today I want you to meet one of those highly-trained people, Dr. Zachary Rubin, [&#8230;]",
-      "published": "2026-07-06T13:15:29-04:00",
+      "title": "Microsoft fixes storage-hogging Windows 11 folder",
+      "link": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder",
+      "summary": "Microsoft is addressing a Windows 11 bug that caused a folder to take up several gigabytes of storage space. As spotted earlier by Windows Latest, Microsoft included the patch in its optional June 2026 update (KB5095093), which \"improves disk space usage for the CapabilityAccessManager.db-wal file.\" The CapabilityAccessManager.db-wal file is installed on Windows 11 PCs by [&#8230;]",
+      "published": "2026-07-07T09:52:58-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rbn.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
-      "link": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
-      "summary": "Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today. However, two that are going independent, Double Fine and Compulsion, will get to keep their franchises and games catalogs, according to Xbox CEO Asha Sharma. \"Compulsion [&#8230;]",
-      "published": "2026-07-06T12:22:34-04:00",
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
+      "published": "2026-07-07T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_d78da4dbc35620193f7c14e0e5e68f7020adfd43.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "I spy",
-      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
-      "published": "2026-07-06T12:00:00-04:00",
+      "title": "Google Search lets creators know more about their reach",
+      "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "summary": "Google is going to give content creators and website owners a better idea of how people find their social media profiles and YouTube content through Search. With a new feature in the Google Search Console called \"platform properties,\" Google says that you'll be able to \"easily track which search terms lead people to your Instagram, [&#8230;]",
+      "published": "2026-07-07T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
-      "link": "https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale",
-      "summary": "Initially, I was going to tell you about a good deal happening on the DJI Osmo Pocket 3, which is down from the $500 it’s sold at most of the year to $378 at multiple retailers. But there’s a better deal happening on a nearly identical portable camera, the Xtra Muse, which is $329 (roughly [&#8230;]",
-      "published": "2026-07-06T11:09:18-04:00",
+      "title": "iFixit has a new toolkit for fixing appliances, building furniture, and household repairs",
+      "link": "https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs",
+      "summary": "iFixit is best known for its detailed gadget teardowns and toolkits designed to help you crack open and troubleshoot your own electronics. Today it announced a new toolkit that's instead tailored to household repairs or DIY projects like fixing appliances or assembling flat-packed furniture. iFixit describes its $34.95 Megalodon Driver Kit as a \"compact kit [&#8230;]",
+      "published": "2026-07-07T08:58:50-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/xtramuselead.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ifixit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Inside the big business of the creator economy, with the agents making it happen",
-      "link": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
-      "summary": "We’ve got another special episode of Decoder today, recorded at the Cannes Lions advertising festival in the South of France. I’m talking with Ali Berman and Raina Penchansky, who run the Creators division at United Talent Agency. UTA is an enormous talent agency. Half the people you’ve ever heard speak or perform or who show [&#8230;]",
-      "published": "2026-07-06T10:30:00-04:00",
+      "title": "Marshall upgrades the bass and repairability of two wireless speakers",
+      "link": "https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair",
+      "summary": "Marshall announced new versions of its Acton and Stanmore Bluetooth speakers today with upgraded tweeters, bass ports, and internal designs that improve their ability to fill a room with sound. Both the Acton IV and Stanmore IV replace their four-year-old predecessors with a new focus on repairability. Parts including knobs, feet, and the speakers' front [&#8230;]",
+      "published": "2026-07-07T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-DCD-20260706-RainaPenchansky-AliBerman-Art-v01-KM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/marshall_speaker1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Nintendo will stop selling the original Switch in Europe next year",
-      "link": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued",
-      "summary": "Nintendo is making a new version of the Switch 2 with a replaceable battery in Europe - but its predecessor has a very different future. As part of an updated FAQ about revisions to Nintendo hardware in Europe, the company confirmed that it will stop selling all iterations of the original Switch on the continent [&#8230;]",
-      "published": "2026-07-06T10:15:48-04:00",
+      "title": "Xbox’s bold plan for the future sounds nearly impossible",
+      "link": "https://www.theverge.com/entertainment/961924/xbox-billion-users",
+      "summary": "It's another bad week for the video game industry. Microsoft outlined a series of layoffs on Monday that Xbox CEO Asha Sharma described as \"the most significant restructure in Xbox history.\" But buried in Sharma's memo was a curiously optimistic statement: \"I want Xbox to be one of the few companies that entertains more than [&#8230;]",
+      "published": "2026-07-07T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/SURVIVE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Can Partiful keep the party going?",
-      "link": "https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir",
-      "summary": "One hundred dollars will buy you 8 pounds of glitter; 10 Domino's pizzas; 406 miniature disco balls from Temu; or 100 cans of Coors Light. For a friend's birthday party one year, Ayla D'Silva spent $100 on sour candy and made a \"sour candy salad.\" Even sweeter was that she didn't have to foot the [&#8230;]",
-      "published": "2026-07-06T10:00:00-04:00",
+      "title": "Are you ready for what it takes to stop ghost guns?",
+      "link": "https://www.theverge.com/tech/960802/3d-printed-gun-laws-ghost-guns",
+      "summary": "In the summer of 2024, former Army National Guard member Andrew Scott Hastings spent a sweaty afternoon carefully packing boxes with parts he made using his 3D printer. These weren't novelty figurines or replacement Ikea pieces. The boxes were instead filled with a handful of homemade firearm lower receivers and more than 100 \"switches,\" small [&#8230;]",
+      "published": "2026-07-07T07:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268619_partiful_CVirginia_STILL0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268560_3D_print_gun_AKrales_LEDE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
-      "link": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
-      "summary": "Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every part of Xbox and also involve four game studios being spun off to be run independently from Microsoft. Today's layoffs, which are being described as [&#8230;]",
-      "published": "2026-07-06T09:31:24-04:00",
+      "title": "Nothing’s first B-series phone is also skipping the US",
+      "link": "https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs",
+      "summary": "Nothing is shaking up the branding of its cheapest phones, following up last year's Phone 3A Lite with a new Phone 4B. Combining design elements of the 4A and 4A Pro, it follows Nothing's previous cheaper handsets in skipping the US market. The company already uses the \"A\" branding to market its cheaper tier of [&#8230;]",
+      "published": "2026-07-07T06:30:54-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/nothing-phone-4b-colors.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
