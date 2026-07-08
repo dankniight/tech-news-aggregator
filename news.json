@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-07-08T03:19:08.428785",
+  "lastUpdated": "2026-07-08T08:36:02.677387",
   "articles": [
+    {
+      "title": "NHS told to show its working on Palantir platform benefits",
+      "link": "https://www.theregister.com/public-sector/2026/07/08/nhs-told-to-show-its-working-on-palantir-platform-benefits/5267621",
+      "summary": "Campaigners say ministers repeated claims about FDP despite an admission that the data does not prove cause and effect",
+      "published": "Wed, 08 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094191&width=800"
+    },
+    {
+      "title": "AI's biggest challenge is not compute - it's data storage",
+      "link": "https://www.theregister.com/storage/2026/07/08/ais-biggest-challenge-is-not-compute-its-data-storage/5267453",
+      "summary": "SPONSORED FEATURE: As AI evolves from novelty to autonomy, the real bottleneck isn't processing power—it's where to put all that data.",
+      "published": "Wed, 08 Jul 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093614&width=800"
+    },
+    {
+      "title": "AI is becoming a bargain hunter's market, with a few luxury models on top",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/ai-is-becoming-a-bargain-hunters-market-with-a-few-luxury-models-on-top/5268050",
+      "summary": "Inference is become a commodity except for frontier models",
+      "published": "Wed, 08 Jul 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5268091&width=800"
+    },
+    {
+      "title": "Media Over QUIC can scale real-time streaming and carry the world's vids",
+      "link": "https://www.theregister.com/networks/2026/07/08/media-over-quic-can-scale-real-time-streaming-and-carry-the-worlds-vids/5268101",
+      "summary": "The low latency of WebRTC, the scalability of DASH, and perhaps no need for CDNs",
+      "published": "Wed, 08 Jul 2026 08:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093083&width=800"
+    },
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "published": "Wed, 08 Jul 2026 08:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800"
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "published": "Wed, 08 Jul 2026 07:16:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940"
+    },
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "published": "Wed, 08 Jul 2026 07:00:51 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg"
+    },
+    {
+      "title": "Microsoft intros tech that rebuilds dead PCs without requiring local copies of Windows",
+      "link": "https://www.theregister.com/os-platforms/2026/07/08/microsoft-intros-tech-that-rebuilds-dead-pcs-without-requiring-local-copies-of-windows/5268133",
+      "summary": "No USB stick required if your Win 11 box has a pulse and a network driver",
+      "published": "Wed, 08 Jul 2026 06:28:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=236399&width=800"
+    },
+    {
+      "title": "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/07/windows-is-watching-anti-piracy-tool-fingers-scattered-spider-suspect/5267953",
+      "summary": "Along with other telemetry, Windows GDID makes online activity more traceable",
+      "published": "Tue, 07 Jul 2026 22:47:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5268018&width=800"
+    },
     {
       "title": "Final extension: Startup Battlefield Australia applications now close July 20",
       "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
@@ -18,12 +90,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-700x648.jpg"
     },
     {
+      "title": "Avoid AI atrophy - new tool promises to reverse vibe coding skills decay",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/avoid-ai-atrophy-new-tool-promises-to-reverse-vibe-coding-skills-decay/5267913",
+      "summary": "Want big muscles? Keep working out. Want big coding skillsets? Flex your dev skills with the Atrophy CLI app before they wither away",
+      "published": "Tue, 07 Jul 2026 22:21:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5224005&width=800"
+    },
+    {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
       "published": "Tue, 07 Jul 2026 22:18:10 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930"
+    },
+    {
+      "title": "GitHub AI agent leaks private repos when asked nicely",
+      "link": "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924",
+      "summary": "Per usual, there's no fix - or even any documentation - for GitLost",
+      "published": "Tue, 07 Jul 2026 21:49:01 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5251723&width=800"
     },
     {
       "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
@@ -58,6 +146,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024"
     },
     {
+      "title": "South Korean chip startup FuriosaAI invades European datacenters",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/south-korean-chip-startup-furiosaai-invades-european-datacenters/5267884",
+      "summary": "RNGD accelerators land in Equinix's Lisbon DCs",
+      "published": "Tue, 07 Jul 2026 19:59:40 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=252467&width=800"
+    },
+    {
       "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
       "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
       "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
@@ -82,12 +178,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800"
     },
     {
+      "title": "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/07/cai-cloud-worm-gives-competitors-malware-the-boot-then-steals-secrets-and-mines-for-coin/5267856",
+      "summary": "Dog-eat-dog world for credential-stealing attackers",
+      "published": "Tue, 07 Jul 2026 19:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5267881&width=800"
+    },
+    {
       "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
       "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
       "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
       "published": "Tue, 07 Jul 2026 19:08:34 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pixel-11-event-1152x648.jpg"
+    },
+    {
+      "title": "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
+      "link": "https://www.theregister.com/science/2026/07/07/nasa-calls-time-on-capstone-after-four-years-of-lunar-orbit-lessons/5267820",
+      "summary": "Advanced Space's privately owned probe will keep flying, but the agency's role is over",
+      "published": "Tue, 07 Jul 2026 18:50:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259204&width=800"
     },
     {
       "title": "Google’s Pixel event is set for August 12",
@@ -106,6 +218,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/FigmaBud.jpeg?resize=1200,675"
     },
     {
+      "title": "New tool gives CLIs a warm and GUI feeling instead",
+      "link": "https://www.theregister.com/software/2026/07/07/new-tool-gives-clis-a-warm-and-gui-feeling-instead/5267798",
+      "summary": "Fed up with forgetting flags? Let Instagui read --help output and build a browser GUI instead",
+      "published": "Tue, 07 Jul 2026 18:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5237244&width=800"
+    },
+    {
       "title": "The Weather Channel increases streaming subscription prices by up to $20",
       "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
       "summary": "Livestreaming the channel through its app now starts at $5 per month.",
@@ -122,12 +242,36 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg"
     },
     {
+      "title": "Predatorgate snoopfest victims launch €8M sueball at spyware maker",
+      "link": "https://www.theregister.com/security/2026/07/07/predatorgate-victims-launch-8m-sueball-at-spyware-maker/5267766",
+      "summary": "Greek lawsuit comes as rights campaigners lobby the EU to take firmer stance on spyware abuses",
+      "published": "Tue, 07 Jul 2026 17:59:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230972&width=800"
+    },
+    {
+      "title": "Court tosses Microsoft's appeal in pre-owned software licenses battle",
+      "link": "https://www.theregister.com/software/2026/07/07/court-tosses-microsofts-appeal-in-pre-owned-software-licenses-battle/5267742",
+      "summary": "ValueLicensing celebrates while Redmond considers next steps",
+      "published": "Tue, 07 Jul 2026 17:28:04 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1683836&width=800"
+    },
+    {
       "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
       "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
       "summary": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
       "published": "Tue, 07 Jul 2026 17:24:35 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800"
+    },
+    {
+      "title": "Put all your data and AI to work and get it out of silos and lakehouses",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/put-all-your-data-and-ai-to-work-and-get-it-out-of-silos-and-lakehouses/5267171",
+      "summary": "PARTNER CONTENT: In the agentic era, intelligence has to be where the agents and data are acting, not separated from it.",
+      "published": "Tue, 07 Jul 2026 17:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093076&width=800"
     },
     {
       "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
@@ -218,14 +362,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
     },
     {
-      "title": "This startup pits dealerships against each other to bid on your used car",
-      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-      "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
-      "published": "Tue, 07 Jul 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/bidbus-team.jpg?resize=1200,1200"
-    },
-    {
       "title": "Bank of America Warns That AI Investors Are in for a Nasty Reality Check",
       "link": "https://futurism.com/artificial-intelligence/bank-of-america-ai-investors-reality-check",
       "summary": "<p>\"Speculation is hitting extreme levels.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/bank-of-america-ai-investors-reality-check\">Bank of America Warns That AI Investors Are in for a Nasty Reality Check</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -248,14 +384,6 @@
       "published": "Tue, 07 Jul 2026 13:12:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/open-source-ai-model-scary-mythos.jpg?quality=85"
-    },
-    {
-      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
-      "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
-      "summary": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
-      "published": "Tue, 07 Jul 2026 13:10:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/us-army-2234931369.jpg?resize=1200,800"
     },
     {
       "title": "Workplaces Have Gotten So Bizarre That People Are Just Sending AI Slop Back and Forth at Each Other",
@@ -304,14 +432,6 @@
       "published": "Tue, 07 Jul 2026 08:48:46 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/zuckerberg-admits-ai-not-working-out.jpg?quality=85"
-    },
-    {
-      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-      "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
-      "published": "Mon, 06 Jul 2026 21:13:37 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-1152x648-1783369462.jpg"
     },
     {
       "title": "There’s an Urgent Sign of an Impending Market Collapse",
