@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-07-08T08:36:02.677387",
+  "lastUpdated": "2026-07-08T14:25:33.347417",
   "articles": [
+    {
+      "title": "Bug in top AI coding agents shows that Unix-era security headaches never really die",
+      "link": "https://www.theregister.com/security/2026/07/08/bug-in-top-ai-coding-agents-shows-that-unix-era-security-headaches-never-really-die/5268025",
+      "summary": "'GhostApproval' problem highlights human-in-the-loop fails",
+      "published": "Wed, 08 Jul 2026 16:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5263225&width=800"
+    },
+    {
+      "title": "China tells devs to ditch Claude Code over 'backdoor code' fears",
+      "link": "https://www.theregister.com/security/2026/07/08/china-ditch-older-claude-versions-with-backdoor-code/5268371",
+      "summary": "National vulnerability database claims monitoring mechanism can forward Chinese users' data to remote servers",
+      "published": "Wed, 08 Jul 2026 15:58:07 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5254628&width=800"
+    },
+    {
+      "title": "Ex-NASA boss points out small flaw in Moon landing plan: No lander",
+      "link": "https://www.theregister.com/science/2026/07/08/ex-nasa-boss-points-out-small-flaw-in-moon-landing-plan-no-lander/5268341",
+      "summary": "Jim Bridenstine says Artemis 'extraordinarily complicated' compared to the days of Apollo and the Saturn V",
+      "published": "Wed, 08 Jul 2026 14:50:02 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5228580&width=800"
+    },
+    {
+      "title": "Unexpected Windows bloat is due to bug, not by design",
+      "link": "https://www.theregister.com/storage/2026/07/08/unexpected-windows-bloat-is-due-to-bug-not-by-design/5268215",
+      "summary": "Mystery of the disappearing storage solved (for some)",
+      "published": "Wed, 08 Jul 2026 14:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=235426&width=800"
+    },
+    {
+      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+      "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+      "summary": "Build a new kind of rocket engine, and the world will beat a path to your door.",
+      "published": "Wed, 08 Jul 2026 14:07:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/VenusAero_RDRE_Flight_05.jpg?resize=939,1200"
+    },
+    {
+      "title": "Blue Origin reportedly raising $10B at $130B valuation",
+      "link": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "summary": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself and other big-name investors, the New York Times reported.",
+      "published": "Wed, 08 Jul 2026 14:04:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/blue-origin-new-glenn-launch.jpg?resize=1200,909"
+    },
+    {
+      "title": "Telstra outage: Failed emergency services calls, train chaos, payment systems down",
+      "link": "https://www.theregister.com/networks/2026/07/08/telstra-outage-downs-000-calls-trains-payment-systems/5268265",
+      "summary": "Telco says issues all sorted, but transport networks expected to be disrupted well into Thursday",
+      "published": "Wed, 08 Jul 2026 13:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5268295&width=800"
+    },
+    {
+      "title": "Tech divorce from Walmart cost Brit retail giant Asda £1.22B",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/07/08/tech-divorce-from-walmart-cost-brit-retail-giant-asda-122b/5268298",
+      "summary": "Project which included new SAP system saw delays and costs rise from an £800m estimate while causing financial disruptions",
+      "published": "Wed, 08 Jul 2026 13:31:59 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=223376&width=800"
+    },
+    {
+      "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
+      "link": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
+      "summary": "With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.",
+      "published": "Wed, 08 Jul 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1186874953.jpg?resize=1200,800"
+    },
+    {
+      "title": "Clingy Virgin Media fined £28M for refusing to take the hint",
+      "link": "https://www.theregister.com/networks/2026/07/08/clingy-virgin-media-fined-28m-for-refusing-to-take-the-hint/5268203",
+      "summary": "Ofcom: Telco encouraged staff to drop calls and put customers on hold for no reason when they wanted to cancel",
+      "published": "Wed, 08 Jul 2026 12:51:36 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=242867&width=800"
+    },
+    {
+      "title": "Blue Origin, for the first time, is expected to raise private capital",
+      "link": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
+      "summary": "The company is raising $10 billion, leading to a valuation of $130 billion.",
+      "published": "Wed, 08 Jul 2026 12:47:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-520716332-1152x648.jpg"
+    },
+    {
+      "title": "Another German state heads down the open source sovereignty road",
+      "link": "https://www.theregister.com/software/2026/07/08/another-german-state-heads-down-the-open-source-sovereignty-road/5268192",
+      "summary": "Mecklenburg-Vorpommern ditches SharePoint while Bavaria also mulls Microsoft alternatives",
+      "published": "Wed, 08 Jul 2026 12:03:33 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5268244&width=800"
+    },
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/kw_2019-1.jpg?resize=1198,1200"
+    },
+    {
+      "title": "Home Office's glitchy eVisa rollout lands UK privacy regulator in campaigners' crosshairs",
+      "link": "https://www.theregister.com/software/2026/07/08/home-offices-glitchy-evisa-rollout-lands-uk-privacy-regulator-in-campaigners-crosshairs/5267712",
+      "summary": "Coalition says ICO failed to act despite hundreds of complaints about bug-plagued digital immigration status scheme",
+      "published": "Wed, 08 Jul 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239796&width=800"
+    },
     {
       "title": "NHS told to show its working on Palantir platform benefits",
       "link": "https://www.theregister.com/public-sector/2026/07/08/nhs-told-to-show-its-working-on-palantir-platform-benefits/5267621",
@@ -16,6 +128,22 @@
       "published": "Wed, 08 Jul 2026 10:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=4093614&width=800"
+    },
+    {
+      "title": "Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free",
+      "link": "https://futurism.com/future-society/executives-corporations-ai-bills-metered-billing",
+      "summary": "<p>\"Many organizations are still building the capabilities required to forecast, monitor, and manage AI spending effectively.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/executives-corporations-ai-bills-metered-billing\">Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 08 Jul 2026 09:57:18 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/executives-corporations-ai-bills-metered-billing.jpg?quality=85"
+    },
+    {
+      "title": "Scientists Identify Most Degenerate Known ChatGPT User",
+      "link": "https://futurism.com/artificial-intelligence/scientists-degenerate-chatgpt-user",
+      "summary": "<p>Unashamedly debauched.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/scientists-degenerate-chatgpt-user\">Scientists Identify Most Degenerate Known ChatGPT User</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 08 Jul 2026 08:45:46 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/scientists-degenerate-chatgpt-user.jpg?quality=85"
     },
     {
       "title": "AI is becoming a bargain hunter's market, with a few luxury models on top",
@@ -90,28 +218,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-700x648.jpg"
     },
     {
-      "title": "Avoid AI atrophy - new tool promises to reverse vibe coding skills decay",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/avoid-ai-atrophy-new-tool-promises-to-reverse-vibe-coding-skills-decay/5267913",
-      "summary": "Want big muscles? Keep working out. Want big coding skillsets? Flex your dev skills with the Atrophy CLI app before they wither away",
-      "published": "Tue, 07 Jul 2026 22:21:35 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5224005&width=800"
-    },
-    {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
       "published": "Tue, 07 Jul 2026 22:18:10 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930"
-    },
-    {
-      "title": "GitHub AI agent leaks private repos when asked nicely",
-      "link": "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924",
-      "summary": "Per usual, there's no fix - or even any documentation - for GitLost",
-      "published": "Tue, 07 Jul 2026 21:49:01 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5251723&width=800"
     },
     {
       "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
@@ -146,14 +258,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024"
     },
     {
-      "title": "South Korean chip startup FuriosaAI invades European datacenters",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/south-korean-chip-startup-furiosaai-invades-european-datacenters/5267884",
-      "summary": "RNGD accelerators land in Equinix's Lisbon DCs",
-      "published": "Tue, 07 Jul 2026 19:59:40 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252467&width=800"
-    },
-    {
       "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
       "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
       "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
@@ -178,28 +282,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800"
     },
     {
-      "title": "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin",
-      "link": "https://www.theregister.com/cyber-crime/2026/07/07/cai-cloud-worm-gives-competitors-malware-the-boot-then-steals-secrets-and-mines-for-coin/5267856",
-      "summary": "Dog-eat-dog world for credential-stealing attackers",
-      "published": "Tue, 07 Jul 2026 19:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5267881&width=800"
-    },
-    {
       "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
       "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
       "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
       "published": "Tue, 07 Jul 2026 19:08:34 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pixel-11-event-1152x648.jpg"
-    },
-    {
-      "title": "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
-      "link": "https://www.theregister.com/science/2026/07/07/nasa-calls-time-on-capstone-after-four-years-of-lunar-orbit-lessons/5267820",
-      "summary": "Advanced Space's privately owned probe will keep flying, but the agency's role is over",
-      "published": "Tue, 07 Jul 2026 18:50:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259204&width=800"
     },
     {
       "title": "Google’s Pixel event is set for August 12",
@@ -218,14 +306,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/FigmaBud.jpeg?resize=1200,675"
     },
     {
-      "title": "New tool gives CLIs a warm and GUI feeling instead",
-      "link": "https://www.theregister.com/software/2026/07/07/new-tool-gives-clis-a-warm-and-gui-feeling-instead/5267798",
-      "summary": "Fed up with forgetting flags? Let Instagui read --help output and build a browser GUI instead",
-      "published": "Tue, 07 Jul 2026 18:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237244&width=800"
-    },
-    {
       "title": "The Weather Channel increases streaming subscription prices by up to $20",
       "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
       "summary": "Livestreaming the channel through its app now starts at $5 per month.",
@@ -242,36 +322,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg"
     },
     {
-      "title": "Predatorgate snoopfest victims launch €8M sueball at spyware maker",
-      "link": "https://www.theregister.com/security/2026/07/07/predatorgate-victims-launch-8m-sueball-at-spyware-maker/5267766",
-      "summary": "Greek lawsuit comes as rights campaigners lobby the EU to take firmer stance on spyware abuses",
-      "published": "Tue, 07 Jul 2026 17:59:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230972&width=800"
-    },
-    {
-      "title": "Court tosses Microsoft's appeal in pre-owned software licenses battle",
-      "link": "https://www.theregister.com/software/2026/07/07/court-tosses-microsofts-appeal-in-pre-owned-software-licenses-battle/5267742",
-      "summary": "ValueLicensing celebrates while Redmond considers next steps",
-      "published": "Tue, 07 Jul 2026 17:28:04 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683836&width=800"
-    },
-    {
       "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
       "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
       "summary": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
       "published": "Tue, 07 Jul 2026 17:24:35 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800"
-    },
-    {
-      "title": "Put all your data and AI to work and get it out of silos and lakehouses",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/put-all-your-data-and-ai-to-work-and-get-it-out-of-silos-and-lakehouses/5267171",
-      "summary": "PARTNER CONTENT: In the agentic era, intelligence has to be where the agents and data are acting, not separated from it.",
-      "published": "Tue, 07 Jul 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093076&width=800"
     },
     {
       "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
@@ -298,14 +354,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/anthropic-caught-secretly-spying-on-users.jpg?quality=85"
     },
     {
-      "title": "Claude Cowork expands to mobile and web",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "published": "Tue, 07 Jul 2026 16:27:18 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Cowork-Web-Mobile-Press-alt-Claude-logo-1920x1080-1.png?resize=1200,675"
-    },
-    {
       "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
       "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
       "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
@@ -330,36 +378,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/freak-tornado-12-floor-apartment-hubei-province.jpg?quality=85"
     },
     {
-      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
-      "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
-      "summary": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
-      "published": "Tue, 07 Jul 2026 15:19:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832"
-    },
-    {
-      "title": "VC firm Chemistry is raising $500M for its second fund",
-      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
-      "summary": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
-      "published": "Tue, 07 Jul 2026 15:02:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/Social-Media-GPs-TWITTER.jpg?resize=1200,800"
-    },
-    {
       "title": "Tripadvisor’s AI Is Telling Vacationers That Gruesome Horror Grottos Are Wonderful Holiday Retreats",
       "link": "https://futurism.com/artificial-intelligence/ai-whitewashing-bad-reviews-holiday-resorts",
       "summary": "<p>Need to whitewash a horribly reviewed hotel or resort? Sounds like a job for AI!</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-whitewashing-bad-reviews-holiday-resorts\">Tripadvisor&#8217;s AI Is Telling Vacationers That Gruesome Horror Grottos Are Wonderful Holiday Retreats</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 07 Jul 2026 14:43:28 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/ai-whitewashing-bad-reviews-holiday-resorts.jpg?quality=85"
-    },
-    {
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
-      "published": "Tue, 07 Jul 2026 14:35:42 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
     },
     {
       "title": "Bank of America Warns That AI Investors Are in for a Nasty Reality Check",
@@ -400,14 +424,6 @@
       "published": "Tue, 07 Jul 2026 11:15:15 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/55370181785_141924edbe_4k-1152x648.jpg"
-    },
-    {
-      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-      "published": "Tue, 07 Jul 2026 11:00:18 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg"
     },
     {
       "title": "The Hectic Modern World Is Shredding Your Little Cave Man Brain, Scientists Confirm",
@@ -466,20 +482,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/rich-people-education-ai-slop.jpg?quality=85"
     },
     {
-      "title": "Trump Fans Confused by How Their Investments in His Crypto and Stock Are Now Worth a Tiny Fraction While He’s Getting Richer",
-      "link": "https://futurism.com/future-society/trump-followers-crypto-stock-scams",
-      "summary": "<p>\"I was on board since day one… I'm now broke.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/trump-followers-crypto-stock-scams\">Trump Fans Confused by How Their Investments in His Crypto and Stock Are Now Worth a Tiny Fraction While He&#8217;s Getting Richer</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 06 Jul 2026 15:55:45 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/trump-followers-crypto-stock-scams.jpg?quality=85"
+      "title": "Fi&#8217;s Starlink-enabled pet tracker found my dog when LTE couldn&#8217;t",
+      "link": "https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date",
+      "summary": "Fi Ultra is the first Starlink-enabled pet tracker you can buy. It expands on GPS and LTE trackers, adding automatic failover to T-Mobile's T-Satellite-branded direct-to-cell service when venturing into cellular dead zones. That lets owners tap into SpaceX's constellation of low Earth orbit Starlink satellites to track their pets anywhere in the US. But it [&#8230;]",
+      "published": "2026-07-08T09:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268623_Fi_Tracker_JTuohy_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
-      "link": "https://futurism.com/health-medicine/meta-ai-data-center-pathogen-bacteria-water",
-      "summary": "<p>\"This isn't something we normally test for.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/meta-ai-data-center-pathogen-bacteria-water\">Meta&#8217;s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 06 Jul 2026 14:45:56 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/meta-ai-data-center-pathogen-bacteria-water.jpg?quality=85"
+      "title": "The Steam Machine fits my TV, my desk, and my life",
+      "link": "https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life",
+      "summary": "For the last couple weeks, I've been in an extremely lucky position: I've been spending a lot of time playing games on Valve's Steam Machine. We gave the Steam Machine a 6, and I don't disagree with my colleague Sean Hollister's review. But even though I already own a PS5 and an Xbox Series X, [&#8230;]",
+      "published": "2026-07-08T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The robotaxi law that could ban Tesla",
+      "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+      "summary": "For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, overlapping sensors like lidar and radar to navigate the world reliably? Tesla has bet billions of dollars that artificial intelligence and cameras are [&#8230;]",
+      "published": "2026-07-08T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268625_A_New_Jersey_bill_would_keep_Tesla_Robotaxis_out_of_the_state__and_decide_how_AVs_are_built_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Samsung will launch its new wide foldable on July 22nd",
+      "link": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
+      "summary": "Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: \"A new shape unfolds.\" It's long been rumored that Samsung is about to expand its foldable phone line to a third format, with a shorter and wider version of its big book-style foldables, to match Huawei's [&#8230;]",
+      "published": "2026-07-08T04:13:52-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-unpacked-invite-wide-fold.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
@@ -528,38 +560,6 @@
       "published": "2026-07-07T13:52:51-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/240701_AMBLE_iiii0132_d6a13c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "ABC tells the government to get out of its newsrooms",
-      "link": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
-      "summary": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's actions pose a risk to editorial independence by targeting programs \"perceived as unfriendly to the current administration,\" as reported earlier [&#8230;]",
-      "published": "2026-07-07T13:47:38-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283341764.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
-      "published": "2026-07-07T13:46:59-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google announces Pixel 11 launch event in August",
-      "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
-      "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM ET that day. The email also includes a brief animation teasing [&#8230;]",
-      "published": "2026-07-07T13:22:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-07-at-10.21.32-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
-      "link": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
-      "summary": "As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication that the cuts equate to more than 90 redundancies. Another source said that id's QA department was significantly impacted. The report was published the [&#8230;]",
-      "published": "2026-07-07T12:09:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_4b9b93f38fb65007e7a6410264b2f7fdac0d3586.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
