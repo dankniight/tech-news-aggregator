@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-14T02:50:41.285801",
+  "lastUpdated": "2026-07-14T08:16:18.703951",
   "articles": [
+    {
+      "title": "Anthropic's extravagant tokenizer complicates AI pricing",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/anthropics-extravagant-tokenizer-complicates-ai-pricing/5270792",
+      "summary": "Token consumption doesn't tell the whole tale but it shouldn't be ignored",
+      "published": "Tue, 14 Jul 2026 08:28:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5248818&width=800"
+    },
+    {
+      "title": "Big Blue thinks small, again, with POWER tower",
+      "link": "https://www.theregister.com/systems/2026/07/14/big-blue-thinks-small-again-with-power-tower/5270851",
+      "summary": "The last proprietary minicomputer, now in ‘deskside’ form if you fancy that",
+      "published": "Tue, 14 Jul 2026 07:01:17 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1682856&width=800"
+    },
+    {
+      "title": "India’s tech services giant HCL is getting into the AI datacenter business",
+      "link": "https://www.theregister.com/off-prem/2026/07/14/indias-tech-services-giant-hcl-is-getting-into-the-ai-datacenter-business/5270827",
+      "summary": "Starting small with $37m and maybe 50MW but reckons full-stack service plan can succeed",
+      "published": "Tue, 14 Jul 2026 04:18:45 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=228571&width=800"
+    },
     {
       "title": "Gobi X: Creating more energy for AI, not taking it from society",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
@@ -394,28 +418,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024"
     },
     {
-      "title": "Lucky 13: SpaceX aims for July 16 Starship flight test",
-      "link": "https://www.theregister.com/offbeat/2026/07/13/lucky-13-spacex-aims-for-july-16-starship-flight-test/5270434",
-      "summary": "Hopefully, the rocket won't go in the same direction as the company's share price",
-      "published": "Mon, 13 Jul 2026 15:32:01 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5246434&width=800"
-    },
-    {
       "title": "Now, defenders are embracing the prompt injection, too",
       "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
       "published": "Mon, 13 Jul 2026 15:06:34 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg"
-    },
-    {
-      "title": "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year",
-      "link": "https://www.theregister.com/os-platforms/2026/07/13/microsoft-emails-windows-10-holdouts-fine-keep-your-old-pc-another-year/5270336",
-      "summary": "Consumer security updates now run to October 2027, and Redmond doesn't mention Windows 11 once",
-      "published": "Mon, 13 Jul 2026 15:02:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5270429&width=800"
     },
     {
       "title": "The Economics of Data Centers Creating Jobs Are So Bad That They Sound Like a Joke",
@@ -432,14 +440,6 @@
       "published": "Mon, 13 Jul 2026 14:19:44 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899"
-    },
-    {
-      "title": "World Cup grudge attackers may have scored Argentine FA access via year-old infostealer infection",
-      "link": "https://www.theregister.com/security/2026/07/13/world-cup-grudge-attackers-may-have-scored-argentine-fa-access-via-year-old-infostealer-infection/5270302",
-      "summary": "Footie fans? Overreacting? There's a first time for everything",
-      "published": "Mon, 13 Jul 2026 14:02:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5270414&width=800"
     },
     {
       "title": "SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap",
