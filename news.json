@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-07-14T08:16:18.703951",
+  "lastUpdated": "2026-07-14T13:55:05.044028",
   "articles": [
+    {
+      "title": "'The bots are alive!' Jailbroken Gemini spun up new C2 server for Russian fraudster in just 6 minutes",
+      "link": "https://www.theregister.com/research/2026/07/14/the-bots-are-alive-jailbroken-gemini-spun-up-new-c2-server-for-russian-fraudster-in-just-6-minutes/5270131",
+      "summary": "Human did 10% of the job,\nAI did 90%",
+      "published": "Tue, 14 Jul 2026 14:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5270164&width=800"
+    },
+    {
+      "title": "Hands off our VPNs, privacy groups tell UK ministers",
+      "link": "https://www.theregister.com/networks/2026/07/14/hands-off-our-vpns-privacy-groups-tell-uk-ministers/5271070",
+      "summary": "Mozilla, Proton, Tor warn ministers that targeting the tech risks creating more problems than it solves",
+      "published": "Tue, 14 Jul 2026 13:59:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094065&width=800"
+    },
+    {
+      "title": "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
+      "link": "https://www.theregister.com/security/2026/07/14/baddies-caught-exploiting-extensions-bugs-with-perfect-10-scores-on-vulnerable-joomla-websites/5271001",
+      "summary": "Flaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide",
+      "published": "Tue, 14 Jul 2026 13:06:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5271025&width=800"
+    },
+    {
+      "title": "Frame: A new X11 server – implemented directly in assembly",
+      "link": "https://www.theregister.com/software/2026/07/14/frame-a-new-x11-server-implemented-directly-in-assembly/5270498",
+      "summary": "Joins yserver, Phoenix, and of course XLibre – and outlier Arcan",
+      "published": "Tue, 14 Jul 2026 12:37:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5270573&width=800"
+    },
+    {
+      "title": "India's crewed space mission is ready for splashdown, but not launch",
+      "link": "https://www.theregister.com/science/2026/07/14/indias-crewed-space-mission-is-ready-for-splashdown-but-not-launch/5270879",
+      "summary": "Gaganyaan was supposed to fly in 2022 and make the country only the fourth to put people into orbit",
+      "published": "Tue, 14 Jul 2026 11:57:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256299&width=800"
+    },
+    {
+      "title": "How do you solve a problem like Capita?",
+      "link": "https://www.theregister.com/columnists/2026/07/14/how-do-you-solve-a-problem-like-capita/5270368",
+      "summary": "Bringing troubled contracts in-house requires skills Whitehall is already struggling to recruit",
+      "published": "Tue, 14 Jul 2026 11:14:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230531&width=800"
+    },
+    {
+      "title": "Ministers arm under-16s social media ban with least surprising study of the year",
+      "link": "https://www.theregister.com/personal-tech/2026/07/14/ministers-arm-under-16s-social-media-ban-with-least-surprising-study-of-the-year/5270924",
+      "summary": "Boffins confirm: taking away teens' phone makes them act like humans again",
+      "published": "Tue, 14 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5254823&width=800"
+    },
+    {
+      "title": "A Majority of Americans Now Support Seizing Wealth From AI Industry",
+      "link": "https://futurism.com/artificial-intelligence/majority-americans-seize-wealth-ai",
+      "summary": "<p>\"AI sovereign funds are seen as a tool to distribute the gains from the AI industry back to broader society.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/majority-americans-seize-wealth-ai\">A Majority of Americans Now Support Seizing Wealth From AI Industry</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 14 Jul 2026 09:49:21 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/majority-americans-seize-wealth-ai.jpg?quality=85"
+    },
+    {
+      "title": "Pinwheel launches a retro-inspired landline phone for kids",
+      "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+      "summary": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
+      "published": "Tue, 14 Jul 2026 09:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Pinwheel-Home_Classic_White-w-Stickers-on-Table.png?w=1200"
+    },
     {
       "title": "Anthropic's extravagant tokenizer complicates AI pricing",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/14/anthropics-extravagant-tokenizer-complicates-ai-pricing/5270792",
@@ -66,9 +138,9 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starship_raptor3s-1152x648.jpg"
     },
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
       "published": "Tue, 14 Jul 2026 00:45:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024"
@@ -136,14 +208,6 @@
       "published": "Sun, 12 Jul 2026 09:01:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/dimming-sun-combat-el-nino.jpg?quality=85"
-    },
-    {
-      "title": "Christopher Nolan Unloads on AI Slop",
-      "link": "https://futurism.com/artificial-intelligence/christopher-nolan-ai-slop",
-      "summary": "<p>The younger generations see AI slop \"for what it is.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/christopher-nolan-ai-slop\">Christopher Nolan Unloads on AI Slop</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 12 Jul 2026 07:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/christopher-nolan-ai-slop.jpg?quality=85"
     },
     {
       "title": "X just tweaked its algorithm to make it more friendly, less battleground",
@@ -226,14 +290,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-157308908-1152x648.jpg"
     },
     {
-      "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
-      "summary": "Lock it down, warns Satya Nadella, seemingly forgetting the billions Redmond chipped in to OpenAI back in the good old days",
-      "published": "Mon, 13 Jul 2026 19:20:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5270652&width=800"
-    },
-    {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
       "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
@@ -248,14 +304,6 @@
       "published": "Mon, 13 Jul 2026 19:00:47 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/sprinklerTOP-1152x648.jpg"
-    },
-    {
-      "title": "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks",
-      "link": "https://www.theregister.com/cyber-crime/2026/07/13/german-firm-files-for-insolvency-blames-cybercrims-who-shut-down-production-for-6-weeks/5270524",
-      "summary": "ZEGO-TVZ says the financial fallout from a March cyberattack left shutting its doors as the only option",
-      "published": "Mon, 13 Jul 2026 18:53:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5270569&width=800"
     },
     {
       "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
@@ -274,36 +322,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024"
     },
     {
-      "title": "Astronomers find sugar near the creamy center of the Milky Way (no caramel, though)",
-      "link": "https://www.theregister.com/science/2026/07/13/astronomers-find-sugar-near-the-creamy-center-of-the-milky-way-no-caramel-though/5270593",
-      "summary": "First interstellar monosaccharide suggests some of life's ingredients may be scattered across the galaxy",
-      "published": "Mon, 13 Jul 2026 18:20:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230036&width=800"
-    },
-    {
-      "title": "Philips to replace bricked Hue Bridge Pro devices",
-      "link": "https://www.theregister.com/edge-and-iot/2026/07/13/philips-to-replace-bricked-hue-bridge-pro-devices/5270545",
-      "summary": "Company releases a fresh firmware update. Go on, install it, we dare you...",
-      "published": "Mon, 13 Jul 2026 17:50:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=163851&width=800"
-    },
-    {
       "title": "Tom Cruise is utterly transformed in Digger trailer",
       "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
       "summary": "\"If we can't control the force of nature, at least we can control the narrative.\"",
       "published": "Mon, 13 Jul 2026 17:49:56 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/digger1-1152x648-1783953777.jpg"
-    },
-    {
-      "title": "EU and UK officially blame Russian spies for cyberattack on Poland's power grid",
-      "link": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458",
-      "summary": "Sweeping sanctions and condemnation follow op that could have left half a million without power in the depths of winter",
-      "published": "Mon, 13 Jul 2026 17:39:52 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=225878&width=800"
     },
     {
       "title": "Sam Altman’s space data center trash talk is what most experts already believe",
@@ -338,14 +362,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/05/ViacomCBS-rebrands-to-Paramount.png?w=1200"
     },
     {
-      "title": "SREs to AI agents: Prove yourself before you touch production",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
-      "summary": "SPONSORED FEATURE: 696 experts find co-pilot welcome, autopilot not so much",
-      "published": "Mon, 13 Jul 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5250787&width=800"
-    },
-    {
       "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
       "link": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
       "summary": "The amendment would restrict building codes that promote electrification.",
@@ -376,14 +392,6 @@
       "published": "Mon, 13 Jul 2026 16:31:23 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900"
-    },
-    {
-      "title": "Sticker shock has execs rethinking this whole AI thing",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/sticker-shock-has-execs-rethinking-this-whole-ai-thing-1/5270073",
-      "summary": "This week on The Reg's Kettle podcast, we wonder whether tokenminning is going to bring the industry back down to Earth",
-      "published": "Mon, 13 Jul 2026 16:16:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260052&width=800"
     },
     {
       "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
@@ -434,14 +442,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/data-center-economics-job-labor-construction-ai.jpg?quality=85"
     },
     {
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
-      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-      "summary": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
-      "published": "Mon, 13 Jul 2026 14:19:44 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899"
-    },
-    {
       "title": "SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap",
       "link": "https://futurism.com/space/spacex-stock-all-time-low-competitor-leap",
       "summary": "<p>\"It started to look a lot like a meme stock.\"</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-all-time-low-competitor-leap\">SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -480,6 +480,38 @@
       "published": "Mon, 13 Jul 2026 09:54:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/lawsuit-mayo-clinic-ai-tools-hospital-maya.jpg?quality=85"
+    },
+    {
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic [&#8230;]",
+      "published": "2026-07-14T07:43:29-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The first sunlight reflecting space mirror has been cleared for launch",
+      "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+      "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite in low-Earth orbit later this year, despite concerns over how the technology [&#8230;]",
+      "published": "2026-07-14T07:10:39-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-115103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Let’s build a children’s public internet",
+      "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+      "summary": "An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past year, several countries have started requiring stringent age verification or outright bans for minors. At the end of June in the US, the House of Representatives passed [&#8230;]",
+      "published": "2026-07-14T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data [&#8230;]",
+      "published": "2026-07-14T05:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Microsoft tests Windows Search without all the ads and fluff",
@@ -528,38 +560,6 @@
       "published": "2026-07-13T16:45:40-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get [&#8230;]",
-      "published": "2026-07-13T16:44:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268635_Siri_AI_AKrales_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [&#8230;]",
-      "published": "2026-07-13T16:43:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-      "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
-      "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on Tahoe and disliking all the transparency). [&#8230;]",
-      "published": "2026-07-13T16:43:15-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-13-at-11.41.37-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
-      "link": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
-      "summary": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, and Washington - filed suit on Monday, arguing [&#8230;]",
-      "published": "2026-07-13T14:35:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB385_PARAMOUNT_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
