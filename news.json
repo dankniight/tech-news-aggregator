@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-07-15T19:18:27.366023",
+  "lastUpdated": "2026-07-16T02:55:55.311734",
   "articles": [
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/boxing_gloves_suit-e1650068012177.jpg?resize=1200,800"
+    },
+    {
+      "title": "Amazon Web Services' most vocal customer now runs EC2",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/07/15/aws-ec2-leadership-change-dave-treadwell-replaces-brown/5272154",
+      "summary": "Retail foundation leader Dave Treadwell takes over as senior leader and 19-year vet Dave Brown departs for pastures unknown",
+      "published": "Wed, 15 Jul 2026 22:54:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5272165&width=800"
+    },
+    {
+      "title": "Prominent Haskell defector pilloried by anti-AI purists",
+      "link": "https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124",
+      "summary": "Haskell adherents revisit the language's tongue-in-cheek 'avoid success at all costs' mantra",
+      "published": "Wed, 15 Jul 2026 22:37:46 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5221422&width=800"
+    },
+    {
+      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+      "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+      "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
+      "published": "Wed, 15 Jul 2026 22:36:28 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-1152x648-1784152724.jpeg"
+    },
+    {
+      "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
+      "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
+      "summary": "While an impressive sale, the pen and switch did not break records.",
+      "published": "Wed, 15 Jul 2026 22:10:41 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-071526a-lg-1152x648.jpg"
+    },
+    {
+      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "summary": "The convenience store chain will use StorMagic instead.",
+      "published": "Wed, 15 Jul 2026 21:41:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg"
+    },
+    {
+      "title": "Judge: Trump can’t deport researchers just for working in content moderation",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+      "summary": "Disinformation researchers praise ruling blocking Trump visa denials and deportations.",
+      "published": "Wed, 15 Jul 2026 21:26:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2201944209-1024x648.jpg"
+    },
+    {
+      "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+      "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+      "summary": "Yes, it was, in fact, a Unix system.",
+      "published": "Wed, 15 Jul 2026 21:04:22 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-1152x648.jpg"
+    },
+    {
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+      "published": "Wed, 15 Jul 2026 20:22:52 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/ntsb-tesla-texas.jpg?resize=1200,831"
+    },
+    {
+      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+      "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+      "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+      "published": "Wed, 15 Jul 2026 19:59:48 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg"
+    },
+    {
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+      "published": "Wed, 15 Jul 2026 19:46:54 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623"
+    },
     {
       "title": "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim",
       "link": "https://www.theregister.com/saas/2026/07/15/salesforces-agentforce-isnt-winning-over-clients-keybanc-analysts-claim/5271866",
@@ -50,7 +146,7 @@
       "image_url": "https://image.theregister.com/?imageId=5271891&width=800"
     },
     {
-      "title": "Apple quietly reveals how its Maps ads will differ from Google’s",
+      "title": "Apple bans home services from its upcoming Maps ads",
       "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
       "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
       "published": "Wed, 15 Jul 2026 18:21:22 +0000",
@@ -58,8 +154,8 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/apple-maps-GettyImages-2259515359.jpg?w=1024"
     },
     {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
       "published": "Wed, 15 Jul 2026 18:06:05 +0000",
       "source": "TechCrunch",
@@ -88,6 +184,14 @@
       "published": "Wed, 15 Jul 2026 17:39:54 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674"
+    },
+    {
+      "title": "Evidence Grows That Taco Bell Infected Massive Number of Customers With Explosive Diarrhea",
+      "link": "https://futurism.com/health-medicine/evidence-grows-taco-bell-explosive-diarrhea",
+      "summary": "<p>Live más — on the toilet.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/evidence-grows-taco-bell-explosive-diarrhea\">Evidence Grows That Taco Bell Infected Massive Number of Customers With Explosive Diarrhea</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 15 Jul 2026 17:30:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/evidence-grows-taco-bell-explosive-diarrhea.jpg?quality=85"
     },
     {
       "title": "CISA sounds alarm over trio of exploited SharePoint flaws",
@@ -122,6 +226,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg"
     },
     {
+      "title": "Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming",
+      "link": "https://futurism.com/artificial-intelligence/economists-warning-ai-job-losses",
+      "summary": "<p>The consequences could be devastating.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/economists-warning-ai-job-losses\">Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 15 Jul 2026 16:41:45 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/economists-warning-ai-job-losses.jpg?quality=85"
+    },
+    {
       "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
       "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
       "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
@@ -146,20 +258,20 @@
       "image_url": "https://image.theregister.com/?imageId=229180&width=800"
     },
     {
+      "title": "OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets",
+      "link": "https://futurism.com/artificial-intelligence/openai-deal-kalshi-prediction-markets",
+      "summary": "<p>A match made in hell.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-deal-kalshi-prediction-markets\">OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 15 Jul 2026 15:33:08 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/openai-deal-kalshi-prediction-markets.jpg?quality=85"
+    },
+    {
       "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
       "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
       "summary": "If completed, the acquisition would unite two of the biggest names in digital payments.",
       "published": "Wed, 15 Jul 2026 15:30:26 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2019/02/paypal.jpg?resize=1200,640"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "published": "Wed, 15 Jul 2026 15:29:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800"
     },
     {
       "title": "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
@@ -170,14 +282,6 @@
       "image_url": "https://image.theregister.com/?imageId=250212&width=800"
     },
     {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs&#160;and others.&#160;&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan sits down with Ode’s leaders&#160;Chris Taylor&#160;and&#160;Eddie Siegel,&#160;who founded Fractional AI, [&#8230;]",
-      "published": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
-    },
-    {
       "title": "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised",
       "link": "https://www.theregister.com/security/2026/07/15/microsofts-serial-tormentor-drops-legacyhive-0-day/5271723",
       "summary": "Experts say it’s a useful post-compromise tool, for those with the brain cells required to put it together",
@@ -186,36 +290,12 @@
       "image_url": "https://image.theregister.com/?imageId=5271746&width=800"
     },
     {
-      "title": "Spotify expands parent-managed accounts to users on its free tier",
-      "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
-      "summary": "The feature was previously only available to paid subscribers.",
-      "published": "Wed, 15 Jul 2026 14:42:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024"
-    },
-    {
-      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
-      "link": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
-      "summary": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
-      "published": "Wed, 15 Jul 2026 14:39:52 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1681877521.jpg?resize=1200,800"
-    },
-    {
       "title": "Health Care Workers Furious as NYC Replaces Nurses With AI",
       "link": "https://futurism.com/artificial-intelligence/nyc-replaces-nurses-with-ai",
       "summary": "<p>\"We are outraged about these layoffs because these dedicated nurses are being replaced by AI.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nyc-replaces-nurses-with-ai\">Health Care Workers Furious as NYC Replaces Nurses With AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 15 Jul 2026 14:32:49 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/nyc-replaces-nurses-with-ai.jpg?quality=85"
-    },
-    {
-      "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
-      "link": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
-      "summary": "The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.",
-      "published": "Wed, 15 Jul 2026 14:21:49 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/cash-ransomware-ransom-payments-hackers-getty.jpg?resize=1200,675"
     },
     {
       "title": "AWS sustainability claims don't hold water, lawsuit alleges",
@@ -274,14 +354,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/NHQ20260713_admin_0003large-1152x648.jpg"
     },
     {
-      "title": "Software bloat? This elevator needs an 8GB Core i5",
-      "link": "https://www.theregister.com/offbeat/2026/07/15/software-bloat-this-elevator-needs-an-8gb-core-i5/5270901",
-      "summary": "This elevator is headed for floor Bork",
-      "published": "Wed, 15 Jul 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5270920&width=800"
-    },
-    {
       "title": "How hard is it to build orbital data centers, actually?",
       "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
       "summary": "\"The ISS radiators are expensive and heavy. We're focused on making them cheap and light.\"",
@@ -306,36 +378,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Gus-TRex-Science-Photo-credit_-Matthew-Sherman-3-1152x648.jpg"
     },
     {
-      "title": "OpenMandriva's accused repo wrecker says it wasn't sabotage – it was a message",
-      "link": "https://www.theregister.com/os-platforms/2026/07/15/openmandrivas-accused-repo-wrecker-says-it-wasnt-sabotage-it-was-a-message/5270511",
-      "summary": "Ex-contributor claims he wasn't a rogue admin, hadn't left the project, and never intended to harm the distro",
-      "published": "Wed, 15 Jul 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255807&width=800"
-    },
-    {
       "title": "Astronomers Horrified by Enormous Mirror Satellite That Reflects Sunlight Back Down to Earth at Night",
       "link": "https://futurism.com/space/astronomers-horrified-mirror-satellite-reflects-sunlight",
       "summary": "<p>It's an \"existential threat.\"</p>\n<p>The post <a href=\"https://futurism.com/space/astronomers-horrified-mirror-satellite-reflects-sunlight\">Astronomers Horrified by Enormous Mirror Satellite That Reflects Sunlight Back Down to Earth at Night</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 15 Jul 2026 09:46:42 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/astronomers-horrified-mirror-satellite-reflects-sunlight.jpg?quality=85"
-    },
-    {
-      "title": "The Star Wars cantina scene shows we need a new hope for the agentic web",
-      "link": "https://www.theregister.com/columnists/2026/07/15/the-star-wars-cantina-scene-shows-we-need-a-new-hope-for-the-agentic-web/5270946",
-      "summary": "'We don't serve their kind here' protects today's publishers, but won't help rebels destroy the monetization Death Stars built by Google and Meta",
-      "published": "Wed, 15 Jul 2026 09:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=224835&width=800"
-    },
-    {
-      "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
-      "link": "https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589",
-      "summary": "Gartner thinks we’re headed to a hybrid AI model where you offload stuff to the desktop whenever possible",
-      "published": "Wed, 15 Jul 2026 08:26:38 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252868&width=800"
     },
     {
       "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
@@ -354,38 +402,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-1024x648.jpg"
     },
     {
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-      "published": "Tue, 14 Jul 2026 20:05:53 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg"
-    },
-    {
-      "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
-      "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-      "summary": "Federal officials have not confirmed a source yet—and there may be multiple sources.",
-      "published": "Tue, 14 Jul 2026 19:00:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-1152x648.jpg"
-    },
-    {
-      "title": "US military sent explosive drone boats into combat for the first time",
-      "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
-      "published": "Tue, 14 Jul 2026 18:00:01 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-1152x648.png"
-    },
-    {
-      "title": "These painted e-tattoos could be the future of wearable biosensors",
-      "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
-      "summary": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
-      "published": "Tue, 14 Jul 2026 17:31:58 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/tattooTOP-1152x648.jpg"
-    },
-    {
       "title": "Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims",
       "link": "https://futurism.com/artificial-intelligence/meta-biased-ai-layoffs-workers-labor-lawsuit",
       "summary": "<p>These are some serious allegations.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-biased-ai-layoffs-workers-labor-lawsuit\">Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -394,28 +410,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/meta-biased-ai-layoffs-workers-labor-lawsuit.jpg?quality=85"
     },
     {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-      "published": "Tue, 14 Jul 2026 16:28:14 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
-    },
-    {
       "title": "New Anthropic Ad Implies AI Could Kill Us All",
       "link": "https://futurism.com/artificial-intelligence/anthropic-ad-ai-kill-us-all",
       "summary": "<p>One heck of a marketing strategy.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-ad-ai-kill-us-all\">New Anthropic Ad Implies AI Could Kill Us All</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 14 Jul 2026 15:48:13 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/anthropic-ad-ai-kill-us-all.jpg?quality=85"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
-      "published": "Tue, 14 Jul 2026 15:06:28 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg"
     },
     {
       "title": "New York Becomes First State to Ban AI Data Centers",
@@ -458,28 +458,92 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/people-dying-record-heatwaves.jpg?quality=85"
     },
     {
-      "title": "A Majority of Americans Now Support Seizing Wealth From AI Industry",
-      "link": "https://futurism.com/artificial-intelligence/majority-americans-seize-wealth-ai",
-      "summary": "<p>\"AI sovereign funds are seen as a tool to distribute the gains from the AI industry back to broader society.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/majority-americans-seize-wealth-ai\">A Majority of Americans Now Support Seizing Wealth From AI Industry</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 14 Jul 2026 09:49:21 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/majority-americans-seize-wealth-ai.jpg?quality=85"
+      "title": "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177",
+      "summary": "Thinking Machines' first open weights model is a 975 billion parameter alternative to Chinese LLMs",
+      "published": "Thu, 16 Jul 2026 02:14:41 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5272215&width=800"
     },
     {
-      "title": "LAPD Abandons Flock Contract After Making a Horrifying Discovery",
-      "link": "https://futurism.com/future-society/lapd-abandons-flock-contract-false-alarm",
-      "summary": "<p>\"This contract is not being renewed because of serious concerns around civil liberties and civil rights issues.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/lapd-abandons-flock-contract-false-alarm\">LAPD Abandons Flock Contract After Making a Horrifying Discovery</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 13 Jul 2026 16:48:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/lapd-abandons-flock-contract-false-alarm.jpg?quality=85"
+      "title": "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/15/cadences-aurastack-agent-melds-ai-with-hpc-to-speed-pcb-advanced-packaging-design/5271465",
+      "summary": "One-two punch offers a glimpse of how low-precision AI can complement high-precision simulations",
+      "published": "Thu, 16 Jul 2026 00:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5262971&width=800"
     },
     {
-      "title": "US Companies Are Realizing That Chinese AI Models Are Way Cheaper, Ditch American Ones",
-      "link": "https://futurism.com/artificial-intelligence/us-realizing-chinese-ai-models-way-cheaper",
-      "summary": "<p>\"'Hey, we don't need the best model, we can use the faster, cheaper models.'\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/us-realizing-chinese-ai-models-way-cheaper\">US Companies Are Realizing That Chinese AI Models Are Way Cheaper, Ditch American Ones</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 13 Jul 2026 16:01:46 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/us-realizing-chinese-ai-models-way-cheaper.jpg?quality=85"
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+      "published": "Thu, 16 Jul 2026 00:20:42 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/Greylock-partner-Saam-Motamedi.jpg?resize=1200,675"
+    },
+    {
+      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "link": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits [&#8230;]",
+      "published": "2026-07-15T20:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+      "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+      "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB [&#8230;]",
+      "published": "2026-07-15T18:47:11-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/HP_Omnibook_X_Flip_14_lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a new 13-inch [&#8230;]",
+      "published": "2026-07-15T18:39:40-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+      "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Valve stop [&#8230;]",
+      "published": "2026-07-15T18:16:46-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070039/DSCF9076.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the [&#8230;]",
+      "published": "2026-07-15T17:33:20-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+      "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+      "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national ownership cap rule, which was intended to prevent one [&#8230;]",
+      "published": "2026-07-15T17:30:17-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/FCC-stock-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Roblox is shutting down its video chat service",
+      "link": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
+      "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people on the call in a shared virtual [&#8230;]",
+      "published": "2026-07-15T16:02:26-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/5c0b7b15-9367-f7f0-60f5-77c45d313ece.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]",
+      "published": "2026-07-15T16:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Enshittification",
@@ -496,70 +560,6 @@
       "published": "2026-07-15T14:24:22-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
-      "published": "2026-07-15T13:48:01-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
-      "link": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
-      "summary": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it \"completely false\" and pointing to its available free cash flow as evidence that it has enough runway to operate into next year. But despite [&#8230;]",
-      "published": "2026-07-15T13:17:56-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25703429/2042530165.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
-      "link": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix",
-      "summary": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original release, Netflix has released a new version of the show's first season. The episodes have all been [&#8230;]",
-      "published": "2026-07-15T12:37:08-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.03.25-AM-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
-      "link": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
-      "summary": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey taking a foldable phone off a 3D printer and opening it book-style, but each shot is heavily obscured by lens flares. [&#8230;]",
-      "published": "2026-07-15T12:05:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.56.45-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
-      "published": "2026-07-15T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Daylight saving time is a step closer to becoming permanent in the US",
-      "link": "https://www.theverge.com/policy/965952/daylight-saving-time-permanent-us-house",
-      "summary": "The US is getting closer to observing daylight saving time year-round. On Tuesday, the House advanced the Sunshine Protection Act on a 308 to 117 vote, which would turn clocks one hour ahead permanently, as reported by CBS News. President Donald Trump wrote on Truth Social in May that the bill would save the \"hundreds [&#8230;]",
-      "published": "2026-07-15T11:29:37-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-1249107929.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "JBL&#8217;s Flip 7 speaker is small, versatile, and 40 percent off",
-      "link": "https://www.theverge.com/gadgets/965640/jbl-flip-7-nothing-cmf-buds-pro-2-deal-sale",
-      "summary": "Sure, Bluetooth speakers are awesome to have for picturesque beach trips, camping weekends, and other outdoor adventures. But they’re just as good to have for some sprinkler time in the yard with the kiddo, or for blasting some tunes or a podcast while you make food. No matter the use cases you have in mind, [&#8230;]",
-      "published": "2026-07-15T11:16:53-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VERGE-DEALS-DAILY-IMAGE-28.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy",
-      "link": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability",
-      "summary": "Both 8BitDo and GameSir announced tiny gamepads designed to turn smartphones into Game Boy-inspired handhelds at CES 2026. GameSir released its Pocket Taco months ago, but the longer wait for 8BitDo's FlipPad has been well worth it. While the Pocket Taco may be a better fit for some players and devices, the FlipPad is a [&#8230;]",
-      "published": "2026-07-15T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/8bitdo_flippad1A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
