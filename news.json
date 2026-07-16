@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T02:55:55.311734",
+  "lastUpdated": "2026-07-16T08:20:59.139541",
   "articles": [
     {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -234,14 +234,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/economists-warning-ai-job-losses.jpg?quality=85"
     },
     {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "published": "Wed, 15 Jul 2026 16:20:18 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833"
-    },
-    {
       "title": "OpenAI's first branded hardware is... a light-up keyboard?",
       "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
       "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
@@ -264,14 +256,6 @@
       "published": "Wed, 15 Jul 2026 15:33:08 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/openai-deal-kalshi-prediction-markets.jpg?quality=85"
-    },
-    {
-      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-      "summary": "If completed, the acquisition would unite two of the biggest names in digital payments.",
-      "published": "Wed, 15 Jul 2026 15:30:26 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/02/paypal.jpg?resize=1200,640"
     },
     {
       "title": "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
@@ -298,44 +282,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/nyc-replaces-nurses-with-ai.jpg?quality=85"
     },
     {
-      "title": "AWS sustainability claims don't hold water, lawsuit alleges",
-      "link": "https://www.theregister.com/on-prem/2026/07/15/aws-sustainability-claims-dont-hold-water-lawsuit-alleges/5269723",
-      "summary": "Ex-staffer accuses Amazon's Virginia datacenters of quietly guzzling H20 all year round, despite 'water positive' PR push",
-      "published": "Wed, 15 Jul 2026 14:21:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230800&width=800"
-    },
-    {
-      "title": "EU lets wearables wriggle out of user-replaceable battery rules",
-      "link": "https://www.theregister.com/personal-tech/2026/07/15/eu-lets-wearables-wriggle-out-of-user-replaceable-battery-rules/5271641",
-      "summary": "Miniaturization means a professional's touch is needed",
-      "published": "Wed, 15 Jul 2026 13:05:37 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4094166&width=800"
-    },
-    {
       "title": "Terrifying Video Shows Locomotive Engulfed in Wildfire Flames",
       "link": "https://futurism.com/science-energy/terrifying-video-locomotive-wildfire-flames",
       "summary": "<p>\"Y'all need to hurry up here. Like, seriously, we're encased in flames now.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/terrifying-video-locomotive-wildfire-flames\">Terrifying Video Shows Locomotive Engulfed in Wildfire Flames</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 15 Jul 2026 12:55:08 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/terrifying-video-locomotive-wildfire-flames.jpg?quality=85"
-    },
-    {
-      "title": "A moment of silence, please, for the final release of Debian on x86-32",
-      "link": "https://www.theregister.com/os-platforms/2026/07/15/a-moment-of-silence-please-for-the-final-release-of-debian-on-x86-32/5271198",
-      "summary": "New Debian versions hit FOSSland in the form of 13.6 and 12.15",
-      "published": "Wed, 15 Jul 2026 12:44:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5271268&width=800"
-    },
-    {
-      "title": "EU competition decision hands SAP customers more leverage in contract talks",
-      "link": "https://www.theregister.com/software/2026/07/15/eu-competition-decision-hands-sap-customers-more-leverage-in-contract-talks/5271154",
-      "summary": "Truce over maintenance fees is a bargaining chip for ECC holdouts – just don't expect a stampede to third-party support",
-      "published": "Wed, 15 Jul 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237766&width=800"
     },
     {
       "title": "SpaceX Investors Are Lamenting All the Money They’ve Lost",
@@ -456,6 +408,54 @@
       "published": "Tue, 14 Jul 2026 10:51:13 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/people-dying-record-heatwaves.jpg?quality=85"
+    },
+    {
+      "title": "Law firm insisted on one password to rule them all",
+      "link": "https://www.theregister.com/security/2026/07/16/law-firm-insisted-on-one-password-to-rule-them-all/5269484",
+      "summary": "Using the admin password, you could be anyone and see anything",
+      "published": "Thu, 16 Jul 2026 09:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5269587&width=800"
+    },
+    {
+      "title": "Tech support scam caused massive data breach at Australian airline Qantas",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267",
+      "summary": "It’s possible to leak PII describing 5.7 million people without breaching privacy rules",
+      "published": "Thu, 16 Jul 2026 08:27:47 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=238616&width=800"
+    },
+    {
+      "title": "Even HP resellers thought the price of toner and ink was too high – so HP India facilitated an illegal cartel",
+      "link": "https://www.theregister.com/legal/2026/07/16/even-hp-resellers-thought-the-price-of-toner-and-ink-was-too-high-so-hp-india-facilitated-an-illegal-cartel/5272244",
+      "summary": "Regulator fines PC and printer giant for rigged tender bids and collusion",
+      "published": "Thu, 16 Jul 2026 07:01:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=241058&width=800"
+    },
+    {
+      "title": "Cyberattack threatens utterly critical infrastructure in Japan: KFC",
+      "link": "https://www.theregister.com/security/2026/07/16/cyberattack-threatens-utterly-critical-infrastructure-in-japan-kfc/5272220",
+      "summary": "The Colonel stops taking online orders and may close stores after logistics partner’s systems go down",
+      "published": "Thu, 16 Jul 2026 04:01:01 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5272233&width=800"
+    },
+    {
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Syntetica-from-left-to-right-Louis-Monsigny-Ash-Ward-and-Marco-Bertone.jpg?resize=1200,960"
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg?resize=1200,800"
     },
     {
       "title": "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
