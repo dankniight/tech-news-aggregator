@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:23:03.514522",
+  "lastUpdated": "2026-07-20T14:17:08.458663",
   "articles": [
     {
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
@@ -28,7 +28,7 @@
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "published": "Sun, 19 Jul 2026 19:24:45 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000"
@@ -60,7 +60,7 @@
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
       "published": "Sun, 19 Jul 2026 14:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806"
@@ -186,14 +186,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1821998528.jpg?resize=1200,800"
     },
     {
-      "title": "Java was a three-day hotfix away from dying horribly on stage",
-      "link": "https://www.theregister.com/devops/2026/07/18/java-was-a-three-day-hotfix-away-from-dying-horribly-on-stage/5274590",
-      "summary": "Tim Lindholm, Java's original JVM maintainer, shares with El Reg some of the grungy build details the doc glosses over",
-      "published": "Sat, 18 Jul 2026 15:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5274612&width=800"
-    },
-    {
       "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
       "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
       "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
@@ -226,14 +218,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/striking-workers-hyundai-korea-humanoid-robots-labor.jpg?quality=85"
     },
     {
-      "title": "NextBSD returns to dollop Apple source on FreeBSD",
-      "link": "https://www.theregister.com/os-platforms/2026/07/18/nextbsd-returns-to-dollop-apple-source-on-freebsd/5273788",
-      "summary": "New maintainer revives the project with Darwin components, Gershwin, and Claude Code",
-      "published": "Sat, 18 Jul 2026 09:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5273849&width=800"
-    },
-    {
       "title": "Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn’t Exist",
       "link": "https://futurism.com/artificial-intelligence/meta-exec-describes-facial-recognition-feature",
       "summary": "<p>\"Meta didn't answer several questions about how this will work. How could we? The feature doesn't exist!\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-exec-describes-facial-recognition-feature\">Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn’t Exist</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -258,20 +242,92 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/ai-mcleod-ceo-online-dating-overtone-app.jpg?quality=85"
     },
     {
-      "title": "Data Centers Are Making Electricity Brutally Expensive for the Public",
-      "link": "https://futurism.com/artificial-intelligence/data-centers-electricity-ai-public-utility-rates",
-      "summary": "<p>It's a problem decades in the making.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/data-centers-electricity-ai-public-utility-rates\">Data Centers Are Making Electricity Brutally Expensive for the Public</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 18 Jul 2026 08:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/data-centers-electricity-ai-public-utility-rates.jpg?quality=85"
-    },
-    {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
       "published": "Sat, 18 Jul 2026 04:47:25 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739"
+    },
+    {
+      "title": "Windows Server Update Services buckle under Microsoft's metadata mountain",
+      "link": "https://www.theregister.com/systems/2026/07/20/windows-server-update-services-buckle-under-microsofts-metadata-mountain/5274843",
+      "summary": "Redmond has stabilized new installations, but existing deployments remain stuck in sync purgatory",
+      "published": "Mon, 20 Jul 2026 16:14:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257793&width=800"
+    },
+    {
+      "title": "EU's AI labeling rules take effect next month",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/eus-ai-labeling-rules-take-effect-next-month/5274917",
+      "summary": "Chatbots and agents will have to come clean about who – or what – users are talking to",
+      "published": "Mon, 20 Jul 2026 15:27:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256439&width=800"
+    },
+    {
+      "title": "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/watching-the-world-burn-as-all-the-money-flows-into-a-multitrillion-dollar-magic-8-ball/5274553",
+      "summary": "On this week's episode of The Kettle, we welcome a special guest to discuss how the AI datacenter buildout is setting the world on fire – literally",
+      "published": "Mon, 20 Jul 2026 14:44:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=235826&width=800"
+    },
+    {
+      "title": "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/20/infosec-expert-paidwork-users-data-pwned-after-23m-record-database-dumped-online/5274869",
+      "summary": "HIBP claims leaked info includes bank account numbers, payout histories, and personal details",
+      "published": "Mon, 20 Jul 2026 14:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5263225&width=800"
+    },
+    {
+      "title": "Microsoft rushes out Windows fix for Dell's hot and bothered PCs",
+      "link": "https://www.theregister.com/os-platforms/2026/07/20/microsoft-rushes-out-windows-fix-for-dells-hot-and-bothered-pcs/5274810",
+      "summary": "With a wave of the wand, affected models will go to the Patch Tuesday ball after all",
+      "published": "Mon, 20 Jul 2026 13:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093890&width=800"
+    },
+    {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "summary": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+      "published": "Mon, 20 Jul 2026 12:39:28 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-2219339362.jpg?resize=1200,800"
+    },
+    {
+      "title": "UK's seventh prime minister in a decade says he'll ditch digital ID scheme",
+      "link": "https://www.theregister.com/public-sector/2026/07/20/uks-seventh-prime-minister-in-a-decade-says-hell-ditch-digital-id-scheme/5274794",
+      "summary": "One of Labour's biggest technology projects is headed for the bin as Burnham reshuffles Whitehall's priorities",
+      "published": "Mon, 20 Jul 2026 12:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5269830&width=800"
+    },
+    {
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+      "published": "Mon, 20 Jul 2026 12:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800"
+    },
+    {
+      "title": "Major glitch in Matrix as UK government projects watchdog rates shared services cluster red",
+      "link": "https://www.theregister.com/public-sector/2026/07/20/major-glitch-in-matrix-as-uk-government-projects-watchdog-rates-shared-services-cluster-red/5274368",
+      "summary": "Nine-department ERP overhaul judged unachievable without urgent action",
+      "published": "Mon, 20 Jul 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=228790&width=800"
+    },
+    {
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+      "published": "Mon, 20 Jul 2026 11:20:10 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg"
     },
     {
       "title": "Airbus takes flight from AWS. What happens next is critical",
@@ -288,6 +344,14 @@
       "published": "Mon, 20 Jul 2026 10:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=241212&width=800"
+    },
+    {
+      "title": "Lawsuit Alleges That ChatGPT Encouraged Suicide of Woman Who Walked Into Traffic",
+      "link": "https://futurism.com/artificial-intelligence/lawsuit-chatgpt-encouraged-suicide-woman-traffic",
+      "summary": "<p>\"This is not suicide. This is surrender.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/lawsuit-chatgpt-encouraged-suicide-woman-traffic\">Lawsuit Alleges That ChatGPT Encouraged Suicide of Woman Who Walked Into Traffic</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 20 Jul 2026 09:34:20 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/lawsuit-chatgpt-encouraged-suicide-woman-traffic.jpg?quality=85"
     },
     {
       "title": "High hardware costs see Red Hat offer a two-server edge rig, no mini-PC required",
@@ -330,22 +394,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?resize=1200,900"
     },
     {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "published": "Fri, 17 Jul 2026 22:55:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "published": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024"
-    },
-    {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
       "summary": "The FireSat program can spot wildfires that other satellites miss.",
@@ -354,28 +402,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png"
     },
     {
-      "title": "Mozilla speeds Firefox release schedule to biweekly",
-      "link": "https://www.theregister.com/software/2026/07/17/mozilla-speeds-firefox-release-schedule-to-biweekly/5274423",
-      "summary": "And what to expect in Firefox 153 as the next ESR release gets close",
-      "published": "Fri, 17 Jul 2026 19:40:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5274447&width=800"
-    },
-    {
       "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
       "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
       "summary": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
       "published": "Fri, 17 Jul 2026 19:19:42 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/tranche1_york_launch3-1152x648.jpg"
-    },
-    {
-      "title": "Microsoft cuts OneDrive support for older Windows 10 versions next month",
-      "link": "https://www.theregister.com/os-platforms/2026/07/17/microsoft-cuts-onedrive-support-for-older-windows-10-versions-next-month/5274489",
-      "summary": "22H2 has until 2028, or there's always Windows 11",
-      "published": "Fri, 17 Jul 2026 19:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255234&width=800"
     },
     {
       "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
@@ -392,22 +424,6 @@
       "published": "Fri, 17 Jul 2026 18:45:23 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286083551-1-1024x648.jpg"
-    },
-    {
-      "title": "Billing software error sends billion-dollar AWS estimates",
-      "link": "https://www.theregister.com/off-prem/2026/07/17/billing-software-error-sends-billion-dollar-aws-estimates/5274521",
-      "summary": "Amazon asks users not to panic as it works to fix the bug",
-      "published": "Fri, 17 Jul 2026 18:37:39 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242833&width=800"
-    },
-    {
-      "title": "AI spam filters are getting suckered by old-school text salting",
-      "link": "https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434",
-      "summary": "Turns out decades-old email tricks still work against some LLM-powered email filters",
-      "published": "Fri, 17 Jul 2026 18:15:22 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5268977&width=800"
     },
     {
       "title": "Troubling new details emerge on diabetes ouster controversy",
@@ -442,14 +458,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg"
     },
     {
-      "title": "Torvalds challenged the haters to fork Linux. Someone said 'hold my beer'",
-      "link": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275",
-      "summary": "More a rewrite really, and of a very early version: Linux 0.11 – in Rust",
-      "published": "Fri, 17 Jul 2026 16:02:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261785&width=800"
-    },
-    {
       "title": "Ars is looking for a senior technology reporter, and you might be it!",
       "link": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
       "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
@@ -474,12 +482,36 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-1024x648.jpg"
     },
     {
-      "title": "2026 Lucid Gravity Touring review: A strong act 2",
-      "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
-      "summary": "Quick, comfortable, roomy, and agile for a large electric SUV.",
-      "published": "Fri, 17 Jul 2026 11:00:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/5F3A7900-1152x648.jpg"
+      "title": "Electric air taxis go to war",
+      "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
+      "summary": "Electric aviation is still in its infancy, but manufacturers are already looking beyond mere air taxi trips across cities. Today, one of the leading air taxi startups, San Jose-based Archer Aviation, unveiled a new aircraft it co-developed with defense technology company Anduril - though the platform is designed for both military and commercial uses, the [&#8230;]",
+      "published": "2026-07-20T09:52:21-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halo-Commercial-Variant-Full-Scale.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Avengers: Doomsday’s first trailer puts everyone on high alert",
+      "link": "https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date",
+      "summary": "After months of teasing us with reminders about how large Avengers: Doomsday's cast is going to be, Marvel has finally released a proper trailer for the film. Though Robert. Downey Jr.'s Doctor Doom definitely appears to be causing a lot of the chaos in Doomsday's first trailer, the movie seems like it's going to feature [&#8230;]",
+      "published": "2026-07-20T09:39:19-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Avengers_Doomsday_Trailer_Still_6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AliExpress fined almost $630 million over illegal product sales",
+      "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+      "summary": "AliExpress has been hit with a &#8364;550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn't take effective measures to reduce the dissemination of illegal products, noting the [&#8230;]",
+      "published": "2026-07-20T07:16:32-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814379/STK450_European_Union_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming [&#8230;]",
+      "published": "2026-07-20T06:16:33-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
@@ -508,7 +540,7 @@
     {
       "title": "The FBI reportedly won’t investigate ICE anymore",
       "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-      "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the [&#8230;]",
+      "summary": "According to the The New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in [&#8230;]",
       "published": "2026-07-19T12:42:10-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -528,38 +560,6 @@
       "published": "2026-07-19T11:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Netvue-Birdfy-Lifestyle-Image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "US Marshals arrest the Tate brothers in Miami",
-      "link": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
-      "summary": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the brothers' extradition. The new charges facing Andrew Tate include seven counts of rape, three of sex trafficking, three counts [&#8230;]",
-      "published": "2026-07-19T10:20:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2205618990.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
-      "link": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
-      "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on. The Clapper didn't always work - and even when it did, it [&#8230;]",
-      "published": "2026-07-19T09:28:26-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRH_Clapper_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The future of physical games is not looking great",
-      "link": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started As a kid, I relished trips to [&#8230;]",
-      "published": "2026-07-19T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The grueling, 630-mile road race where the only fuel is sunlight",
-      "link": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
-      "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars themselves, using off-the-shelf parts and 3D printed materials. The winner is the team that accumulates the [&#8230;]",
-      "published": "2026-07-19T07:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6day44.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
