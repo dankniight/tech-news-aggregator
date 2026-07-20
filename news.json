@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T03:35:32.376004",
+  "lastUpdated": "2026-07-20T09:23:03.514522",
   "articles": [
     {
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
@@ -34,6 +34,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000"
     },
     {
+      "title": "Connecting AI agents to outside services explodes the risk radius",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/19/connecting-ai-agents-to-outside-services-explodes-the-risk-radius/5274640",
+      "summary": "Connect all the things and watch what happens",
+      "published": "Sun, 19 Jul 2026 18:05:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=245643&width=800"
+    },
+    {
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
       "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
@@ -64,6 +72,14 @@
       "published": "Sun, 19 Jul 2026 11:19:31 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-1152x648.jpeg"
+    },
+    {
+      "title": "Using AI makes people less likely to admit they don't know something",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+      "summary": "Researchers found confidence increased even as accuracy fell",
+      "published": "Sun, 19 Jul 2026 10:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=234105&width=800"
     },
     {
       "title": "Spotify Doubles Down on AI Slop As It’s Being Flooded With It",
@@ -170,6 +186,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1821998528.jpg?resize=1200,800"
     },
     {
+      "title": "Java was a three-day hotfix away from dying horribly on stage",
+      "link": "https://www.theregister.com/devops/2026/07/18/java-was-a-three-day-hotfix-away-from-dying-horribly-on-stage/5274590",
+      "summary": "Tim Lindholm, Java's original JVM maintainer, shares with El Reg some of the grungy build details the doc glosses over",
+      "published": "Sat, 18 Jul 2026 15:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5274612&width=800"
+    },
+    {
       "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
       "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
       "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
@@ -200,6 +224,14 @@
       "published": "Sat, 18 Jul 2026 10:00:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/striking-workers-hyundai-korea-humanoid-robots-labor.jpg?quality=85"
+    },
+    {
+      "title": "NextBSD returns to dollop Apple source on FreeBSD",
+      "link": "https://www.theregister.com/os-platforms/2026/07/18/nextbsd-returns-to-dollop-apple-source-on-freebsd/5273788",
+      "summary": "New maintainer revives the project with Darwin components, Gershwin, and Claude Code",
+      "published": "Sat, 18 Jul 2026 09:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5273849&width=800"
     },
     {
       "title": "Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn’t Exist",
@@ -242,6 +274,54 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739"
     },
     {
+      "title": "Airbus takes flight from AWS. What happens next is critical",
+      "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "summary": "Which way to the Land of the Free again?",
+      "published": "Mon, 20 Jul 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5274151&width=800"
+    },
+    {
+      "title": "Auditors tell UK government to do the math before banking on £45B AI savings",
+      "link": "https://www.theregister.com/public-sector/2026/07/20/auditors-tell-uk-government-to-do-the-math-before-banking-on-45b-ai-savings/5274194",
+      "summary": "Departments haven't worked out how the technology will reshape staffing, roles, and skills across the public sector",
+      "published": "Mon, 20 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=241212&width=800"
+    },
+    {
+      "title": "High hardware costs see Red Hat offer a two-server edge rig, no mini-PC required",
+      "link": "https://www.theregister.com/systems/2026/07/20/high-hardware-costs-see-red-hat-offer-a-two-server-edge-rig-no-mini-pc-required/5274762",
+      "summary": "Worries about ‘prohibitive cost of powering, maintaining, and deploying a third node’",
+      "published": "Mon, 20 Jul 2026 09:24:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5274785&width=800"
+    },
+    {
+      "title": "Comment in code read 'Dear future me, sorry I wrote this'",
+      "link": "https://www.theregister.com/software/2026/07/20/comment-in-code-read-dear-future-me-sorry-i-wrote-this/5274130",
+      "summary": "Developer was hired to write VB, used C# instead, and thought he mostly made it work",
+      "published": "Mon, 20 Jul 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5274154&width=800"
+    },
+    {
+      "title": "AI ops tools will create console sprawl and break IT more often: Gartner",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/ai-ops-tools-will-create-console-sprawl-and-break-it-more-often-gartner/5274712",
+      "summary": "Yet by 2030, a quarter of the IT ops work you do now will be handled by an unsupervised clanker",
+      "published": "Mon, 20 Jul 2026 05:28:36 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5274734&width=800"
+    },
+    {
+      "title": "Chinese President Xi Jinping wants emergency response systems to keep AI in check",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/chinese-president-xi-jinping-wants-emergency-response-systems-to-keep-ai-in-check/5274687",
+      "summary": "PLUS: Korean e-tailer Coupang's warehouse burns and burns; Australian Uni expels VMware; India's first private rocket flies first time; And more!",
+      "published": "Mon, 20 Jul 2026 02:38:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258591&width=800"
+    },
+    {
       "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
       "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
       "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world&#8217;s most [&#8230;]",
@@ -274,12 +354,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png"
     },
     {
+      "title": "Mozilla speeds Firefox release schedule to biweekly",
+      "link": "https://www.theregister.com/software/2026/07/17/mozilla-speeds-firefox-release-schedule-to-biweekly/5274423",
+      "summary": "And what to expect in Firefox 153 as the next ESR release gets close",
+      "published": "Fri, 17 Jul 2026 19:40:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5274447&width=800"
+    },
+    {
       "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
       "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
       "summary": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
       "published": "Fri, 17 Jul 2026 19:19:42 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/tranche1_york_launch3-1152x648.jpg"
+    },
+    {
+      "title": "Microsoft cuts OneDrive support for older Windows 10 versions next month",
+      "link": "https://www.theregister.com/os-platforms/2026/07/17/microsoft-cuts-onedrive-support-for-older-windows-10-versions-next-month/5274489",
+      "summary": "22H2 has until 2028, or there's always Windows 11",
+      "published": "Fri, 17 Jul 2026 19:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=255234&width=800"
     },
     {
       "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
@@ -296,6 +392,22 @@
       "published": "Fri, 17 Jul 2026 18:45:23 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286083551-1-1024x648.jpg"
+    },
+    {
+      "title": "Billing software error sends billion-dollar AWS estimates",
+      "link": "https://www.theregister.com/off-prem/2026/07/17/billing-software-error-sends-billion-dollar-aws-estimates/5274521",
+      "summary": "Amazon asks users not to panic as it works to fix the bug",
+      "published": "Fri, 17 Jul 2026 18:37:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5242833&width=800"
+    },
+    {
+      "title": "AI spam filters are getting suckered by old-school text salting",
+      "link": "https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434",
+      "summary": "Turns out decades-old email tricks still work against some LLM-powered email filters",
+      "published": "Fri, 17 Jul 2026 18:15:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5268977&width=800"
     },
     {
       "title": "Troubling new details emerge on diabetes ouster controversy",
@@ -328,6 +440,14 @@
       "published": "Fri, 17 Jul 2026 16:10:05 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg"
+    },
+    {
+      "title": "Torvalds challenged the haters to fork Linux. Someone said 'hold my beer'",
+      "link": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275",
+      "summary": "More a rewrite really, and of a very early version: Linux 0.11 – in Rust",
+      "published": "Fri, 17 Jul 2026 16:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261785&width=800"
     },
     {
       "title": "Ars is looking for a senior technology reporter, and you might be it!",
