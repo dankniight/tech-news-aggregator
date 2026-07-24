@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T08:32:56.566859",
+  "lastUpdated": "2026-07-24T13:53:43.151192",
   "articles": [
     {
       "title": "Sales were up at Tesla but so were costs and spending",
@@ -8,14 +8,6 @@
       "published": "Wed, 22 Jul 2026 21:15:19 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering.jpg"
-    },
-    {
-      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-      "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
-      "published": "Wed, 22 Jul 2026 20:36:19 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp"
     },
     {
       "title": "Man Sues OpenAI, Saying ChatGPT Almost Killed Him With Horrendously Dangerous Medical Advice",
@@ -66,12 +58,20 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/flock-axon-alpr-surveillance-privacy.jpg?quality=85&w=2048"
     },
     {
-      "title": "OpenAI Says a Group of Its Models Broke Out of Secure Containment and Hacked Another AI Company",
-      "link": "https://futurism.com/artificial-intelligence/openai-broke-out-containment-hacked-hugging-face",
-      "summary": "<p>We've definitely heard this one before.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-broke-out-containment-hacked-hugging-face\">OpenAI Says a Group of Its Models Broke Out of Secure Containment and Hacked Another AI Company</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 22 Jul 2026 11:01:51 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/openai-broke-out-containment-hacked-hugging-face.jpg?quality=85&w=2048"
+      "title": "AMD and Cerebras join forces against Nvidia’s Groq LPUs",
+      "link": "https://www.theregister.com/systems/2026/07/23/amd-and-cerebras-join-forces-against-nvidias-groq-lpus/5277817",
+      "summary": "The enemy of my enemy is my friend",
+      "published": "Thu, 23 Jul 2026 23:33:45 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=250546&width=800"
+    },
+    {
+      "title": "OpenAI won't let some customers export their chats, but this tool will",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
+      "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
+      "published": "Thu, 23 Jul 2026 22:48:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5277830&width=800"
     },
     {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
@@ -170,7 +170,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800"
     },
     {
-      "title": "Final Coyote vs. Acme trailer drops at SDCC",
+      "title": "Tweety gets the third degree in final Coyote vs. Acme trailer",
       "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
       "summary": "Also, the full trailer for Zach Cregger's <em>Resident Evil</em> features a likable everyman.",
       "published": "Thu, 23 Jul 2026 18:01:46 +0000",
@@ -216,22 +216,6 @@
       "published": "Thu, 23 Jul 2026 16:41:36 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2232385279-1024x648.jpg"
-    },
-    {
-      "title": "Tesla’s robotaxis are moving in reverse",
-      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
-      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
-      "published": "Thu, 23 Jul 2026 16:29:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220716767.jpg?w=1024"
-    },
-    {
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-      "published": "Thu, 23 Jul 2026 16:28:50 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800"
     },
     {
       "title": "Sony's decision to ditch discs was practically inevitable, data shows",
@@ -346,6 +330,142 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/orcasTOP-1152x648.jpg"
     },
     {
+      "title": "SpaceX to try its luck again with Starship Flight 13 after engines and weather say no",
+      "link": "https://www.theregister.com/science/2026/07/24/spacex-to-try-its-luck-again-with-starship-flight-13-after-engines-and-weather-say-no/5278239",
+      "summary": "Replacement Raptors head for liftoff without a static fire test",
+      "published": "Fri, 24 Jul 2026 15:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=226720&width=800"
+    },
+    {
+      "title": "Uncle Sam tells overseas cybercrooks their visas are canceled",
+      "link": "https://www.theregister.com/security/2026/07/24/uncle-sam-tells-overseas-cybercrooks-their-visas-are-canceled/5278212",
+      "summary": "Policy targets online scammers, sextortionists, and potentially their immediate families",
+      "published": "Fri, 24 Jul 2026 14:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=237508&width=800"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "published": "Fri, 24 Jul 2026 13:36:42 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "title": "LG kills McAfee pop-up after Windows boss steps in",
+      "link": "https://www.theregister.com/personal-tech/2026/07/24/lg-kills-mcafee-pop-up-after-windows-boss-steps-in/5278168",
+      "summary": "Advert gets the chop, but the silent app installation mechanism remains untouched",
+      "published": "Fri, 24 Jul 2026 13:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5277792&width=800"
+    },
+    {
+      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "link": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "summary": "Seller is a dedicated Marketplace app for people who list and sell items frequently.",
+      "published": "Fri, 24 Jul 2026 12:47:15 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800"
+    },
+    {
+      "title": "EU telcos ask: Huawei going to afford to replace Chinese equipment?",
+      "link": "https://www.theregister.com/networks/2026/07/24/eu-telcos-ask-huawei-going-to-afford-to-replace-chinese-equipment/5278122",
+      "summary": "Proposed cybersecurity legislation may force a cull of high-risk network technology, costing tens of billions",
+      "published": "Fri, 24 Jul 2026 12:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=242224&width=800"
+    },
+    {
+      "title": "Fujitsu joins £14.9B UK framework despite public sector bid freeze",
+      "link": "https://www.theregister.com/public-sector/2026/07/24/fujitsu-joins-149b-uk-framework-despite-public-sector-bid-freeze/5278144",
+      "summary": "Supplier says the Horizon-era pause only stops it chasing work from new government customers",
+      "published": "Fri, 24 Jul 2026 12:21:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5278204&width=800"
+    },
+    {
+      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+      "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+      "published": "Fri, 24 Jul 2026 11:20:43 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble-1152x648.jpg"
+    },
+    {
+      "title": "Burnham wants Big Ecommerce to bankroll Britain's pubs",
+      "link": "https://www.theregister.com/offbeat/2026/07/24/burnham-wants-big-ecommerce-to-bankroll-britains-pubs/5277991",
+      "summary": "Online marketplaces could find themselves buying the next round as the PM looks to tax ecommerce to save the local",
+      "published": "Fri, 24 Jul 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=239481&width=800"
+    },
+    {
+      "title": "Google meets the neighbors and gets both barrels over its new UK datacenter",
+      "link": "https://www.theregister.com/on-prem/2026/07/24/google-meets-the-neighbors-and-gets-both-barrels-over-its-new-uk-datacenter/5277188",
+      "summary": "The Reg was there as locals aired grievances over poor communication, noise, and light pollution at Waltham Cross facility",
+      "published": "Fri, 24 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5277385&width=800"
+    },
+    {
+      "title": "Google breaks Alibaba’s record for Europe’s largest DMA fine",
+      "link": "https://www.theregister.com/legal/2026/07/24/google-breaks-alibabas-record-for-europes-largest-dma-fine/5278017",
+      "summary": "€890 million slap – just 0.25% of revenue – for making itself the subject of search results, and hiding app store alternatives",
+      "published": "Fri, 24 Jul 2026 09:32:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5234572&width=800"
+    },
+    {
+      "title": "Google’s Profits Look a Little Terrifying Under the Hood",
+      "link": "https://futurism.com/artificial-intelligence/google-ai-profits-finance-bubble-alphabet",
+      "summary": "<p>\"AI investments are redefining what's possible across every part of our business.\" </p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-ai-profits-finance-bubble-alphabet\">Google&#8217;s Profits Look a Little Terrifying Under the Hood</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 24 Jul 2026 08:54:49 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/google-ai-profits-finance-bubble-alphabet.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Support newbie figured out how to avoid all-nighters, and his colleagues hated him for it",
+      "link": "https://www.theregister.com/software/2026/07/24/support-newbie-figured-out-how-to-avoid-all-nighters-and-his-colleagues-hated-him-for-it/5276829",
+      "summary": "Sleep doesn't pay",
+      "published": "Fri, 24 Jul 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=263126&width=800"
+    },
+    {
+      "title": "Intel knows it needs to ‘leapfrog’ ARM and AMD, says CEO Lip-Bu Tan",
+      "link": "https://www.theregister.com/systems/2026/07/24/intel-knows-it-needs-to-leapfrog-arm-and-amd-says-ceo-lip-bu-tan/5277968",
+      "summary": "Chipzilla changes PC biz name to reflect belief edge and robots could be as valuable one day",
+      "published": "Fri, 24 Jul 2026 07:17:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5218918&width=800"
+    },
+    {
+      "title": "Microsoft fiber foul-up cut off Azure California for almost five hours",
+      "link": "https://www.theregister.com/off-prem/2026/07/24/microsoft-fiber-foul-up-cut-off-azure-california-for-almost-five-hours/5277945",
+      "summary": "Maintenance mistake caused immediate issues and took out 27 services",
+      "published": "Fri, 24 Jul 2026 03:24:36 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257741&width=800"
+    },
+    {
+      "title": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be",
+      "link": "https://www.theregister.com/security/2026/07/24/openai-hugging-face-attack-doesnt-mean-agents-are-evil-unless-you-tell-them-to-be/5277881",
+      "summary": "Attack models gonna attack",
+      "published": "Fri, 24 Jul 2026 01:51:28 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=242499&width=800"
+    },
+    {
+      "title": "Researchers replace downloaded macOS apps with evil twins, Apple shrugs",
+      "link": "https://www.theregister.com/security/2026/07/24/researchers-replace-downloaded-macos-apps-with-evil-twins-apple-shrugs/5277858",
+      "summary": "Gatekeeper has one job and it's not doing it for some software",
+      "published": "Fri, 24 Jul 2026 01:24:27 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254208&width=800"
+    },
+    {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
       "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
       "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
@@ -360,6 +480,38 @@
       "published": "Fri, 24 Jul 2026 00:05:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?resize=1200,900"
+    },
+    {
+      "title": "Whack-a-drone",
+      "link": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
+      "summary": "In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a large spiral staircase. Go up, and you'll see a typical coworking space: open tables, healthy snacks, a collection of meeting rooms with [&#8230;]",
+      "published": "2026-07-24T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/FCC_Drone_Ban.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "TikTok&#8217;s protection of minors should not be opt-in, warns EU",
+      "link": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+      "summary": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific issues to address. The Commission suggests that TikTok should adjust the default settings of minors' \"public\" accounts so the [&#8230;]",
+      "published": "2026-07-24T07:40:03-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_2_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Facebook considers giving up and becoming TikTok",
+      "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+      "summary": "Facebook is planning some big changes to try and keep its users from jumping to rival social platforms like TikTok - changes that sound dubiously similar to becoming a TikTok clone. Facebook head Tom Alison announced today that the platform will begin testing a \"reimagined experience\" later this year that will put a subset of [&#8230;]",
+      "published": "2026-07-24T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK040_VRG_Illo_N_Barclay_6_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+      "link": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "summary": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chief, Pavan Davuluri, said that LG has agreed to immediately disable the McAfee pop-up from its LG Monitor App Installer, and pledged that Microsoft will \"keep [&#8230;]",
+      "published": "2026-07-24T05:20:09-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK109_microsoft.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
@@ -408,38 +560,6 @@
       "published": "2026-07-23T13:20:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/corsair-4500x-rs-deal-image-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Tesla’s robotaxi promises are clashing with reality",
-      "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
-      "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised vehicles. But Musk's typical bullishness seemed to be absent from the call, as the occasional trillionaire [&#8230;]",
-      "published": "2026-07-23T13:09:31-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
-      "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
-      "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and larger, more demanding datasets for CPUs and GPUs to crunch through. It otherwise looks and acts just like Geekbench 6, and a Pro license will [&#8230;]",
-      "published": "2026-07-23T13:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Windows-CPU-Dark.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" [&#8230;]",
-      "published": "2026-07-23T13:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
-      "link": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
-      "summary": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Amazon Game Studios, and Luna now combined into one organization, it's aiming at the more casual audience of people [&#8230;]",
-      "published": "2026-07-23T12:39:32-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/prime-video-games-tab.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
