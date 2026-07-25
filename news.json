@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T08:12:13.212484",
+  "lastUpdated": "2026-07-25T13:44:33.641858",
   "articles": [
-    {
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
-      "published": "Thu, 23 Jul 2026 20:47:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B-1152x648.jpg"
-    },
-    {
-      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-      "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-      "summary": "The FDA hasn't said where the cases are or how they're linked.",
-      "published": "Thu, 23 Jul 2026 19:22:36 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-700x648.jpg"
-    },
     {
       "title": "Google’s Immense Greed Is Destroying the Open Web",
       "link": "https://futurism.com/artificial-intelligence/google-greed-destroying-open-web",
@@ -34,36 +18,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/empire-crumbles-elon-musk-mistake-doge.jpg?quality=85&w=2048"
     },
     {
-      "title": "Neill Blomkamp Is Making It Look Like AI Is the Last Resort for Filmmakers With Failing Careers",
-      "link": "https://futurism.com/artificial-intelligence/neil-blomkamp-ai",
-      "summary": "<p>He's gone \"full AI slop mode.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/neil-blomkamp-ai\">Neill Blomkamp Is Making It Look Like AI Is the Last Resort for Filmmakers With Failing Careers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 23 Jul 2026 13:48:24 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/neil-blomkamp-ai.jpg?quality=85&w=2048"
+      "title": "How AI drove Shopify back to clean code",
+      "link": "https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901",
+      "summary": "Turns out, agents just want the same things as humans: easily-readable code, explicit contracts, and helpful feedback",
+      "published": "Sat, 25 Jul 2026 15:06:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5278316&width=800"
     },
     {
-      "title": "Trump Administration Declares Toxic Sewer Sludge Not a Threat to Public Health",
-      "link": "https://futurism.com/science-energy/trump-biosolids-toxic-sewer-sludge-public-health-farmers",
-      "summary": "<p>\"Basically, they're saying: farmers' lives don’t matter.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/trump-biosolids-toxic-sewer-sludge-public-health-farmers\">Trump Administration Declares Toxic Sewer Sludge Not a Threat to Public Health</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 23 Jul 2026 12:52:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/trump-biosolids-toxic-sewer-sludge-public-health-farmers.jpg?quality=85&w=2048"
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "published": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801"
     },
     {
-      "title": "Trump Says Images of the Iranian Elementary School His Lackeys Obliterated Could Be “AI Generated”",
-      "link": "https://futurism.com/artificial-intelligence/trump-images-iran-elementary-school-ai",
-      "summary": "<p>\"I don't think anybody's ever going to be able to say what happened there.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/trump-images-iran-elementary-school-ai\">Trump Says Images of the Iranian Elementary School His Lackeys Obliterated Could Be &#8220;AI Generated&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 23 Jul 2026 11:50:47 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/trump-images-iran-elementary-school-ai.jpg?quality=85&w=2048"
+      "title": "Anti-AI open source has an enemy in common, but almost nothing else",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/25/anti-ai-open-source-has-an-enemy-in-common-but-almost-nothing-else/5278275",
+      "summary": "Building bot-free alternatives may require lefties, libertarians, and culture warriors to share code",
+      "published": "Sat, 25 Jul 2026 12:17:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5240471&width=800"
     },
     {
-      "title": "Tesla Stock in Freefall After Disastrous Earnings Report",
-      "link": "https://futurism.com/advanced-transport/tesla-stock-freefall-disastrous-earnings-report",
-      "summary": "<p>Investors aren't feeling Musk's attempt to reinvent Tesla.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/tesla-stock-freefall-disastrous-earnings-report\">Tesla Stock in Freefall After Disastrous Earnings Report</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 23 Jul 2026 10:44:17 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/tesla-stock-freefall-disastrous-earnings-report.jpg?quality=85&w=2048"
+      "title": "With help from data, art museums are reframing the visitor experience",
+      "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+      "published": "Sat, 25 Jul 2026 11:00:32 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-1152x648.jpg"
+    },
+    {
+      "title": "Big Tech accused of stonewalling European social media researchers",
+      "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+      "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+      "published": "Sat, 25 Jul 2026 10:45:32 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-security-1152x648.jpg"
     },
     {
       "title": "BOFH: This printer engineer knows every trick in the book",
@@ -72,6 +64,38 @@
       "published": "Sat, 25 Jul 2026 09:16:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5278118&width=800"
+    },
+    {
+      "title": "Meta Working on Crushingly Sad AI App That Tells Bedtime Stories to Children, for “Tired” Parents",
+      "link": "https://futurism.com/artificial-intelligence/meta-sad-ai-app-stories-children",
+      "summary": "<p>\"Tired after a long day but want to give your kids a special bedtime story?\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-sad-ai-app-stories-children\">Meta Working on Crushingly Sad AI App That Tells Bedtime Stories to Children, for &#8220;Tired&#8221; Parents</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 25 Jul 2026 09:02:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/meta-sad-ai-app-stories-children.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Incredible Video Shows Chinese Rocket Get Hit by Lightning Mid-Launch",
+      "link": "https://futurism.com/space/chinese-rocket-lightning",
+      "summary": "<p>Zeus was in attendance.</p>\n<p>The post <a href=\"https://futurism.com/space/chinese-rocket-lightning\">Incredible Video Shows Chinese Rocket Get Hit by Lightning Mid-Launch</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 25 Jul 2026 08:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/chinese-rocket-lightning.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "New Parody Site Threatens to Replace CEOs With AI for Tiny Fraction of Their Bloated Salaries",
+      "link": "https://futurism.com/artificial-intelligence/website-overpaid-ai-replace-ceos-executives-labor",
+      "summary": "<p>\"Introducing the world's first Chief Executive Replacement Engine.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/website-overpaid-ai-replace-ceos-executives-labor\">New Parody Site Threatens to Replace CEOs With AI for Tiny Fraction of Their Bloated Salaries</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 25 Jul 2026 07:02:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/website-overpaid-ai-replace-ceos-executives-labor.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Professor Hides White Font in Midterm, Catches Students Using AI in the Stupidest Way Possible",
+      "link": "https://futurism.com/future-society/professor-hides-white-font-ai-cheating",
+      "summary": "<p>\"Thirty-two of my 35 students between two classes failed a portion of their midterm because they all used AI to generate their entire response.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/professor-hides-white-font-ai-cheating\">Professor Hides White Font in Midterm, Catches Students Using AI in the Stupidest Way Possible</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 25 Jul 2026 06:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/professor-hides-white-font-ai-cheating.jpg?quality=85&w=2048"
     },
     {
       "title": "Anthropic debuts Opus 5 at half the price of its Fable sibling",
@@ -338,14 +362,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/computer-science-decline-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "summary": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-      "published": "Fri, 24 Jul 2026 16:11:56 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?resize=1200,800"
-    },
-    {
       "title": "Veterans Affairs signs $1.6B deal for an army of Salesforce AI agents",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/24/veterans-affairs-signs-16b-deal-for-an-army-of-salesforce-ai-agents/5278302",
       "summary": "Makes agreement under nose of Oracle, which gets its own $7 billion defense deal",
@@ -418,28 +434,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-1152x648.jpg"
     },
     {
-      "title": "LG kills McAfee pop-up after Windows boss steps in",
-      "link": "https://www.theregister.com/personal-tech/2026/07/24/lg-kills-mcafee-pop-up-after-windows-boss-steps-in/5278168",
-      "summary": "Advert gets the chop, but the silent app installation mechanism remains untouched",
-      "published": "Fri, 24 Jul 2026 13:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5277792&width=800"
-    },
-    {
       "title": "Investors Laying Groundwork to Profit Massively When Economy Collapses",
       "link": "https://futurism.com/future-society/investors-shorting-economy",
       "summary": "<p>Trouble's brewing.</p>\n<p>The post <a href=\"https://futurism.com/future-society/investors-shorting-economy\">Investors Laying Groundwork to Profit Massively When Economy Collapses</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 24 Jul 2026 13:07:10 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/investors-shorting-economy.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "EU telcos ask: Huawei going to afford to replace Chinese equipment?",
-      "link": "https://www.theregister.com/networks/2026/07/24/eu-telcos-ask-huawei-going-to-afford-to-replace-chinese-equipment/5278122",
-      "summary": "Proposed cybersecurity legislation may force a cull of high-risk network technology, costing tens of billions",
-      "published": "Fri, 24 Jul 2026 12:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=242224&width=800"
     },
     {
       "title": "So Many People Are Smashing Flock’s Cameras That It’s Disguising Them Inside Other Objects",
@@ -480,6 +480,30 @@
       "published": "Fri, 24 Jul 2026 08:54:49 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/google-ai-profits-finance-bubble-alphabet.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Is this e-reader case a gun?",
+      "link": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+      "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a cutout on the side to access its buttons. Though the frame [&#8230;]",
+      "published": "2026-07-25T09:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/3d_gun.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "What Surrounds Us will make you think a lot about circles",
+      "link": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+      "summary": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others. And you traverse a large map that's composed entirely of, you guessed it, a [&#8230;]",
+      "published": "2026-07-25T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_765cecb6ce4a937c4f17d94cc6729212ecb56fa8.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Folding and flipping phones are getting seriously good",
+      "link": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Google Zero and armored cars for rich people, watching a [&#8230;]",
+      "published": "2026-07-25T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Forget expensive sleepbuds. Buy this pillow instead",
@@ -536,30 +560,6 @@
       "published": "2026-07-24T14:10:22-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-pro-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Roku raises streaming hardware prices by up to $50",
-      "link": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
-      "summary": "Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes: Roku is currently [&#8230;]",
-      "published": "2026-07-24T14:07:19-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Roku-Ultra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
-      "link": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-      "summary": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping at once. We also got the first trailer for the series, which is full of Blade Runner staples: a [&#8230;]",
-      "published": "2026-07-24T13:40:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-24-at-1.29.39-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "You can’t ignore Google Zero anymore",
-      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [&#8230;]",
-      "published": "2026-07-24T13:29:48-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
