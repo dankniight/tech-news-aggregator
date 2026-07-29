@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-07-28T19:38:31.052025",
+  "lastUpdated": "2026-07-29T03:11:24.355127",
   "articles": [
+    {
+      "title": "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch",
+      "link": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063",
+      "summary": "With microscopic latencies and otherworldly write endurance, it was perfect for today's AI workloads - but gone before they arrived",
+      "published": "Wed, 29 Jul 2026 01:27:59 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=224753&width=800"
+    },
+    {
+      "title": "MCP gets an enterprise makeover",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/29/mcp-gets-an-enterprise-makeover/5280027",
+      "summary": "Now happier running in a conventional K8s environment, with `an easier-to-live-with lifecycle",
+      "published": "Wed, 29 Jul 2026 01:08:02 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239946&width=800"
+    },
+    {
+      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+      "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+      "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+      "published": "Wed, 29 Jul 2026 01:00:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-1152x648.jpg"
+    },
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "published": "Wed, 29 Jul 2026 00:09:05 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+    },
+    {
+      "title": "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face",
+      "link": "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
+      "summary": "The vendor won't confirm or deny",
+      "published": "Wed, 29 Jul 2026 00:01:53 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=232611&width=800"
+    },
+    {
+      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
+      "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
+      "published": "Tue, 28 Jul 2026 23:26:53 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5279997&width=800"
+    },
+    {
+      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+      "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+      "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+      "published": "Tue, 28 Jul 2026 22:09:00 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/link_arrays_katalyst-1152x648.jpg"
+    },
+    {
+      "title": "War machines can run amok with AI in control",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/war-machines-can-run-amok-with-ai-in-control/5279937",
+      "summary": "Tour of the AI kill chain maps the risks of ubiquitous surveillance and flawed algorithms",
+      "published": "Tue, 28 Jul 2026 21:51:08 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259916&width=800"
+    },
+    {
+      "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
+      "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
+      "summary": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
+      "published": "Tue, 28 Jul 2026 21:49:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163393367-1152x648.jpg"
+    },
+    {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "published": "Tue, 28 Jul 2026 21:36:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+    },
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840"
+    },
+    {
+      "title": "Microsoft and Wiz mind-meld agents catch more than 90% of bugs",
+      "link": "https://www.theregister.com/security/2026/07/28/microsoft-and-wiz-mind-meld-agents-catch-more-than-90-of-bugs/5279914",
+      "summary": "Secret to their success: Using the right model for the right security job",
+      "published": "Tue, 28 Jul 2026 21:21:01 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5279934&width=800"
+    },
+    {
+      "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+      "summary": "eBay sent bloody pig mask and other macabre deliveries to journalists' home.",
+      "published": "Tue, 28 Jul 2026 21:02:15 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/ebay-pig-mask-1152x648-1785271314.jpeg"
+    },
+    {
+      "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+      "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+      "summary": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
+      "published": "Tue, 28 Jul 2026 20:51:45 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-1152x648.jpg"
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "published": "Tue, 28 Jul 2026 20:45:12 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675"
+    },
+    {
+      "title": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
+      "link": "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
+      "summary": "The final condition will shock you! (It won’t. It’s taxes.)",
+      "published": "Tue, 28 Jul 2026 20:43:19 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285796281-1152x648-1785270408.jpg"
+    },
+    {
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
+      "published": "Tue, 28 Jul 2026 20:20:20 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-1152x648.jpg"
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "published": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024"
+    },
     {
       "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
       "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
@@ -10,7 +154,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800"
     },
     {
-      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
       "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
       "published": "Tue, 28 Jul 2026 19:07:31 +0000",
@@ -26,12 +170,44 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?resize=1200,801"
     },
     {
+      "title": "AI is storage’s biggest opportunity - and biggest threat",
+      "link": "https://www.theregister.com/storage/2026/07/28/ai-is-storages-biggest-opportunity-and-biggest-threat/5279607",
+      "summary": "Faster access and more secure recoveries are driving business, but mishaps and attacks can endanger data",
+      "published": "Tue, 28 Jul 2026 18:51:59 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5279521&width=800"
+    },
+    {
+      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+      "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+      "published": "Tue, 28 Jul 2026 18:43:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A350-1000ULR-MSN707-Qantas-First-flight-landing_AI-PHO-0383-08-04-1152x648.jpg"
+    },
+    {
       "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
       "link": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
       "summary": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
       "published": "Tue, 28 Jul 2026 18:35:29 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1133588371-e1736345274842.jpg?resize=1200,734"
+    },
+    {
+      "title": "Judge blocks first state law that would have banned prediction markets",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+      "summary": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+      "published": "Tue, 28 Jul 2026 18:31:13 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg"
+    },
+    {
+      "title": "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
+      "summary": "",
+      "published": "Tue, 28 Jul 2026 18:20:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1684071&width=800"
     },
     {
       "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
@@ -42,12 +218,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722"
     },
     {
+      "title": "DEF CON bans Meta-style 'pervert glasses'",
+      "link": "https://www.theregister.com/security/2026/07/28/def-con-bans-meta-style-pervert-glasses/5279763",
+      "summary": "More organizers prohibit camera-equipped specs, even with prescription lenses",
+      "published": "Tue, 28 Jul 2026 18:05:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261585&width=800"
+    },
+    {
       "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
       "link": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
       "summary": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
       "published": "Tue, 28 Jul 2026 17:57:57 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/hbo-max-vertical-feed.jpg?resize=1200,675"
+    },
+    {
+      "title": "Britain hopes £7.3M will help electric and hydrogen aircraft take off",
+      "link": "https://www.theregister.com/offbeat/2026/07/28/britain-hopes-73m-will-help-electric-and-hydrogen-aircraft-take-off/5279809",
+      "summary": "Government finds some loose change down to chuck at emission-free flight research",
+      "published": "Tue, 28 Jul 2026 17:55:19 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5279882&width=800"
     },
     {
       "title": "Saudi prince buys 5% stake in Lucid Motors",
@@ -58,12 +250,44 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?resize=1200,675"
     },
     {
+      "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
+      "link": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
+      "summary": "VulnCheck says fewer than 2% of AI-assisted vulnerability discoveries have been weaponized, casting doubt on claims frontier models are handing attackers a major advantage",
+      "published": "Tue, 28 Jul 2026 17:26:41 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5259466&width=800"
+    },
+    {
+      "title": "BuzzFeed Lays Off 33 Percent of Remaining Staff After Bizarre Pivot to AI",
+      "link": "https://futurism.com/artificial-intelligence/buzzfeed-layoffs-pivot-ai",
+      "summary": "<p>Embracing AI can't save you from terrible management.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/buzzfeed-layoffs-pivot-ai\">BuzzFeed Lays Off 33 Percent of Remaining Staff After Bizarre Pivot to AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 28 Jul 2026 17:06:15 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/buzzfeed-layoffs-pivot-ai.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
       "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
       "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
       "published": "Tue, 28 Jul 2026 16:16:25 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg"
+    },
+    {
+      "title": "Bank for charities pulls online services over security fears",
+      "link": "https://www.theregister.com/security/2026/07/28/bank-for-charities-pulls-online-services-over-security-fears/5279615",
+      "summary": "Customer funds safe, but 14,000 organizations may have to phone in time-sensitive payments",
+      "published": "Tue, 28 Jul 2026 15:53:13 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5266181&width=800"
+    },
+    {
+      "title": "Deep space dishes dodge devastation from Spanish wildfires",
+      "link": "https://www.theregister.com/science/2026/07/28/deep-space-dishes-dodge-devastation-from-spanish-wildfires/5279547",
+      "summary": "NASA reports some cable damage near Madrid as its antennas and ESA's Cebreros station emerge largely intact",
+      "published": "Tue, 28 Jul 2026 15:43:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5279570&width=800"
     },
     {
       "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
@@ -80,6 +304,14 @@
       "published": "Tue, 28 Jul 2026 15:32:19 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/elon-musk-launches-bank-x-money.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Hugging Face rebuilt a third of its infrastructure after OpenAI agents ran amok",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/openais-agent-siege-forced-significant-rebuild-at-hugging-face/5279577",
+      "summary": "Postmortem offers finer details on the 'unprecedented' attack that's reshaping approaches to security",
+      "published": "Tue, 28 Jul 2026 15:11:11 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5240303&width=800"
     },
     {
       "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
@@ -106,28 +338,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/754202281_1346011513730216_8932365858242166801_n.jpeg?resize=1200,675"
     },
     {
+      "title": "Uncle Sam needs you to fight for 6G leadership and security, lest Beijing get there first",
+      "link": "https://www.theregister.com/networks/2026/07/28/uncle-sam-needs-you-to-fight-for-6g-leadership-and-security-lest-beijing-get-there-first/5279525",
+      "summary": "Washington rallies allies to shape next-generation networks after spending 18 months rattling them",
+      "published": "Tue, 28 Jul 2026 14:49:02 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259566&width=800"
+    },
+    {
       "title": "This New Meta “Advertisement” Is Absolutely Brutal",
       "link": "https://futurism.com/future-society/new-meta-advertisement-brutal-glasses-epstein",
       "summary": "<p>\"Pervert glasses have no place in our society.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/new-meta-advertisement-brutal-glasses-epstein\">This New Meta &#8220;Advertisement&#8221; Is Absolutely Brutal</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 28 Jul 2026 14:24:41 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/new-meta-advertisement-brutal-glasses-epstein.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "published": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Fish-Audio-CoFounders.jpeg?resize=1200,675"
-    },
-    {
-      "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-      "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-      "summary": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
-      "published": "Tue, 28 Jul 2026 13:50:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/apple-upgrade.png?resize=1200,668"
     },
     {
       "title": "As US measles cases rise, biotech firms start developing new treatments",
@@ -144,22 +368,6 @@
       "published": "Tue, 28 Jul 2026 13:29:16 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/sam-altman-power-ai-shorter-work-week.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-      "published": "Tue, 28 Jul 2026 13:19:17 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024"
-    },
-    {
-      "title": "Granola launches an Apple Watch app",
-      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-      "summary": "Granola debuts an Apple Watch app for in-person note taking.",
-      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/@CHARLIEMCKAY-@charliemckay-DSCF6525-1.jpeg?resize=1200,900"
     },
     {
       "title": "El Niño Set to Upend the World Economy",
@@ -218,68 +426,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg"
     },
     {
-      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-      "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-      "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
-      "published": "Mon, 27 Jul 2026 20:32:45 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg"
-    },
-    {
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "summary": "When the first step goes wrong, bad results follow.",
-      "published": "Mon, 27 Jul 2026 20:22:03 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg"
-    },
-    {
-      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-      "published": "Mon, 27 Jul 2026 20:12:42 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg"
-    },
-    {
-      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-      "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-      "published": "Mon, 27 Jul 2026 19:18:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg"
-    },
-    {
-      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-      "published": "Mon, 27 Jul 2026 18:48:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-1152x648.jpg"
-    },
-    {
-      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
-      "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-      "summary": "NASA has not made substantial investments in thermal protection research for decades.",
-      "published": "Mon, 27 Jul 2026 18:34:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-1152x648.png"
-    },
-    {
       "title": "Suspicion Grows About OpenAI’s Tale About Its Rogue Hacker AI",
       "link": "https://futurism.com/artificial-intelligence/openai-rogue-hack-ai-suspicion-chatgpt",
       "summary": "<p>\"Loudly proclaim how dangerous AI is, and investors will hear how powerful it is.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-rogue-hack-ai-suspicion-chatgpt\">Suspicion Grows About OpenAI&#8217;s Tale About Its Rogue Hacker AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 27 Jul 2026 17:47:13 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/openai-rogue-hack-ai-suspicion-chatgpt.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
-      "published": "Mon, 27 Jul 2026 16:58:46 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg"
     },
     {
       "title": "Elon Musk Is Having One of His All-Time Meltdowns",
@@ -290,14 +442,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/elon-musk-all-time-meltdown.jpg?quality=85&w=2048"
     },
     {
-      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
-      "published": "Mon, 27 Jul 2026 15:58:34 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg"
-    },
-    {
       "title": "High School Teacher Arrested for Clapping in Support of Anti-Data Center Activists",
       "link": "https://futurism.com/artificial-intelligence/high-school-teacher-arrested-clapping-data-center-activist",
       "summary": "<p>\"I think we're all in a state of fear because of what this government's doing to us.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/high-school-teacher-arrested-clapping-data-center-activist\">High School Teacher Arrested for Clapping in Support of Anti-Data Center Activists</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -306,28 +450,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/high-school-teacher-arrested-clapping-data-center-activist.jpg?quality=85&w=2048"
     },
     {
-      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-      "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "summary": "Framework's latest modular laptop trades one set of problems for another.",
-      "published": "Mon, 27 Jul 2026 15:02:45 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg"
-    },
-    {
       "title": "SpaceX Stock Hammered After Starship Booster Fails in First Launch Since IPO",
       "link": "https://futurism.com/space/spacex-stock-hammered-starship-booster-failure",
       "summary": "<p>It's not rocket science, it's Wall Street.</p>\n<p>The post <a href=\"https://futurism.com/space/spacex-stock-hammered-starship-booster-failure\">SpaceX Stock Hammered After Starship Booster Fails in First Launch Since IPO</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 27 Jul 2026 14:19:02 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/spacex-stock-hammered-starship-booster-failure.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "What public health professionals can learn from anti-vaccine storytelling",
-      "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
-      "summary": "Sometimes, compelling stories beat medical evidence.",
-      "published": "Mon, 27 Jul 2026 14:01:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/vaccinator-1000x648.jpg"
     },
     {
       "title": "Sam Altman Announces That the Singularity Has Arrived",
@@ -354,12 +482,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/ai-industry-ads-public-backlash.jpg?quality=85&w=2048"
     },
     {
-      "title": "The Type of Orbital Data Centers That Billionaires Want to Launch Into Space Would Wreak Ecological Catastrophe, Scientists Warn",
-      "link": "https://futurism.com/space/orbital-data-centers-billionaires-ecological-catastrophe-petition",
-      "summary": "<p>\"The operation of more than a million data center satellites threatens potentially catastrophic forms and quantities of atmospheric pollution, risking damage to the climate, to the ozone layer, to human health, and to the chemistry of the stratosphere itself.\"</p>\n<p>The post <a href=\"https://futurism.com/space/orbital-data-centers-billionaires-ecological-catastrophe-petition\">The Type of Orbital Data Centers That Billionaires Want to Launch Into Space Would Wreak Ecological Catastrophe, Scientists Warn</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 27 Jul 2026 09:06:06 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/orbital-data-centers-billionaires-ecological-catastrophe-petition.jpg?quality=85&w=2048"
+      "title": "The US is banning foreign robots",
+      "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+      "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited [&#8230;]",
+      "published": "2026-07-28T18:37:53-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281892623.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+      "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+      "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as \"John Doe 1 and John Does 2 through 100.\" The lawsuit also says [&#8230;]",
+      "published": "2026-07-28T17:48:50-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2255276905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The union drive at the Wikimedia Foundation is expanding",
+      "link": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+      "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit has declined to voluntarily recognize their union. \"While the Wikimedia Foundation touts to the public that they [&#8230;]",
+      "published": "2026-07-28T17:11:11-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+      "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a [&#8230;]",
+      "published": "2026-07-28T17:11:11-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25229461/STK252_ebay_stock_CVirginia_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
+      "published": "2026-07-28T15:46:43-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
@@ -400,46 +560,6 @@
       "published": "2026-07-28T14:43:57-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02947_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "New Yorkers will soon need to verify their age to access algorithmic feeds",
-      "link": "https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification",
-      "summary": "New Yorkers who want to see their Instagram or TikTok feed curated by an algorithm, or receive notification after midnight, will soon have to verify their ages to access those features. New York Attorney General Letitia James (D) released a set of final rules on how to implement the SAFE for Kids Act, signed into [&#8230;]",
-      "published": "2026-07-28T14:09:32-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Tile&#8217;s best Bluetooth tracker is down to its lowest price of the year",
-      "link": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
-      "summary": "Apple&#8217;s latest AirTag may seem like the obvious choice if you own an iPhone and are shopping for a Bluetooth tracker, but it&#8217;s not the most affordable option. For families that contain both Android and Apple devices, it might be better to pick up the latest Tile Pro instead. It works well across both platforms, [&#8230;]",
-      "published": "2026-07-28T13:53:51-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/image-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Save $150 on this smart indoor bike trainer that can keep you riding during the off months",
-      "link": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
-      "summary": "While the summer months are great for putting in the miles on your favorite bike, it can be frustrating to have to hang it up when the weather turns. This smart bike trainer turns your road bike into an indoor exercise bike, with Wi-Fi and Bluetooth to connect to your PC, iOS, or Android device, [&#8230;]",
-      "published": "2026-07-28T13:48:03-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Wahoo-Kickr-Core-Casette-deal-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "HBO Max is putting on vertical shorts",
-      "link": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
-      "summary": "Warner Bros. Discovery is bringing a vertical video feed to HBO Max to help you find something new to watch. Streaming platforms like Netflix, Disney Plus, and Peacock already offer TikTok-like vertical video feeds to surface content that might be interesting to users, and now HBO Max will have a similar feed of its own. [&#8230;]",
-      "published": "2026-07-28T11:59:37-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK055_HBOMAX_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "4GB graphics cards are back",
-      "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
-      "summary": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASRock also launched an 8GB version [&#8230;]",
-      "published": "2026-07-28T11:52:04-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
