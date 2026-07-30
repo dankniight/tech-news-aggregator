@@ -1,21 +1,101 @@
 {
-  "lastUpdated": "2026-07-29T19:23:29.210947",
+  "lastUpdated": "2026-07-30T02:43:38.095462",
   "articles": [
     {
-      "title": "Uncle Sam sees the light, offers GlobalFoundries $300M to pursue silicon photonics while taking 1% stake",
-      "link": "https://www.theregister.com/public-sector/2026/07/29/uncle-sam-sees-the-light-offers-globalfoundries-300m-to-pursue-silicon-photonics-while-taking-1-stake/5280620",
-      "summary": "Meanwhile, the other state-backed foundry, Intel, wraps up RAMP-C defense test chip program",
-      "published": "Wed, 29 Jul 2026 21:02:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=231666&width=800"
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "published": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200"
     },
     {
-      "title": "Closed models refuse to help researcher swat Linux bug",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/29/closed-models-refuse-to-help-researcher-swat-linux-bug/5280647",
-      "summary": "\"I'm sorry, Dave. I'm afraid I can't do that\" is an effective sales pitch for open source",
-      "published": "Wed, 29 Jul 2026 20:33:16 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254582&width=800"
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "published": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "published": "Wed, 29 Jul 2026 22:23:12 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2170596427.jpg?w=1024"
+    },
+    {
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "published": "Wed, 29 Jul 2026 22:07:06 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg"
+    },
+    {
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "published": "Wed, 29 Jul 2026 21:16:39 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200"
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "published": "Wed, 29 Jul 2026 21:07:48 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+      "summary": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
+      "published": "Wed, 29 Jul 2026 21:02:12 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1138528725.jpg?resize=1200,800"
+    },
+    {
+      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+      "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+      "summary": "Advertisers agreed to “reset” relationship with X.",
+      "published": "Wed, 29 Jul 2026 20:57:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1229892464-1024x648.jpg"
+    },
+    {
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "published": "Wed, 29 Jul 2026 20:03:42 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-1152x648.jpg"
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "published": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800"
+    },
+    {
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+      "published": "Wed, 29 Jul 2026 19:33:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/banana-cream-pie-1152x648-1785351920.jpg"
+    },
+    {
+      "title": "Customize Ars your way with an Ars Pro subscription",
+      "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+      "published": "Wed, 29 Jul 2026 19:23:27 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ars-subscriber-ball-track-1152x648.jpg"
     },
     {
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -26,15 +106,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Andon-Labs-AI-vending-machine.png?resize=1200,684"
     },
     {
-      "title": "Word worm crawls into Copilot, spreads chaos",
-      "link": "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588",
-      "summary": "Researcher says months of coordination with Microsoft have yet to produce a robust mitigation",
-      "published": "Wed, 29 Jul 2026 18:43:54 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5249823&width=800"
-    },
-    {
-      "title": "Google begins global rollout of age verification API in Google Play",
+      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
       "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
       "summary": "Google's new API relies on parents to set age ranges in Family Link.",
       "published": "Wed, 29 Jul 2026 18:08:22 +0000",
@@ -58,17 +130,9 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ferrari-luce-1.jpeg?resize=1200,1006"
     },
     {
-      "title": "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
-      "link": "https://www.theregister.com/applications/2026/07/29/moscow-slaps-telegram-founder-on-wanted-list-durov-responds-with-one-finger-salute/5280522",
-      "summary": "FSB claims Ukrainian spies use chat platform to recruit Russians for sabotage and arson",
-      "published": "Wed, 29 Jul 2026 17:56:46 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5280606&width=800"
-    },
-    {
       "title": "Waymo robotaxis are starting to return to freeways",
       "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-      "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
+      "summary": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
       "published": "Wed, 29 Jul 2026 17:50:57 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801"
@@ -98,36 +162,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2148806962-1152x648.jpg"
     },
     {
-      "title": "MinIO pitches persistent memory for agents with work to finish",
-      "link": "https://www.theregister.com/storage/2026/07/29/minio-pitches-persistent-memory-for-agents-with-work-to-finish/5280407",
-      "summary": "AIStor keeps context, files, and secrets under customer control so interrupted jobs can pick up where they left off",
-      "published": "Wed, 29 Jul 2026 17:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5280422&width=800"
-    },
-    {
-      "title": "The VMware deadline that could reshape your IT strategy",
-      "link": "https://www.theregister.com/virtualization/2026/07/29/partner-content/5279072",
-      "summary": "PARTNER CONTENT: With vSphere 8 support ending in 2027, IT leaders must navigate tight timelines and costs to modernize on their terms.",
-      "published": "Wed, 29 Jul 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5279909&width=800"
-    },
-    {
       "title": "Google brings its age-assurance technology to Android developers worldwide",
       "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
       "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
       "published": "Wed, 29 Jul 2026 17:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/google-play-store.jpg?resize=1200,800"
-    },
-    {
-      "title": "NASA Swift rescue mission spins into trouble during commissioning",
-      "link": "https://www.theregister.com/science/2026/07/29/nasa-swift-rescue-mission-spins-into-trouble-during-commissioning/5280425",
-      "summary": "Two reaction wheels are out and comms sporadic as controllers work to stabilize LINK",
-      "published": "Wed, 29 Jul 2026 16:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237915&width=800"
     },
     {
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
@@ -138,12 +178,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
     },
     {
-      "title": "Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems",
-      "link": "https://www.theregister.com/security/2026/07/29/iran-linked-cyberav3ngers-suspected-in-attacks-on-minnesota-water-systems/5280357",
-      "summary": "More than 30 facilities disrupted in 'coordinated cyberattack,' though officials have yet to name a culprit",
-      "published": "Wed, 29 Jul 2026 15:49:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=150171&width=800"
+      "title": "Hack “Writers” Fuming After ChatGPT Starts Refusing Prompts to Copy a Specific Author’s Style",
+      "link": "https://futurism.com/artificial-intelligence/hack-writers-fuming-chatgpt-refuse-mimic-author",
+      "summary": "<p>\"I have no idea how to get around this.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/hack-writers-fuming-chatgpt-refuse-mimic-author\">Hack &#8220;Writers&#8221; Fuming After ChatGPT Starts Refusing Prompts to Copy a Specific Author&#8217;s Style</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 29 Jul 2026 15:47:54 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/hack-writers-fuming-chatgpt-refuse-author-style.jpg?quality=85&w=2048"
     },
     {
       "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
@@ -170,36 +210,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Civ7-Steam-Deck-1152x648.jpg"
     },
     {
-      "title": "AI storage boom is keeping Seagate's hard drives spinning",
-      "link": "https://www.theregister.com/storage/2026/07/29/ai-storage-boom-is-keeping-seagates-hard-drives-spinning/5280437",
-      "summary": "Cloud operators have already claimed most of its nearline capacity through 2028",
-      "published": "Wed, 29 Jul 2026 15:17:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5280469&width=800"
-    },
-    {
       "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
       "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
       "summary": "\"I'm beginning to suspect we are not in Jumanji.\"",
       "published": "Wed, 29 Jul 2026 15:16:22 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/jumanji-1152x648.jpg"
-    },
-    {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
-      "published": "Wed, 29 Jul 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Polar-founders.jpg?resize=1200,675"
-    },
-    {
-      "title": "Microsoft faces competition probe over Copilot subscription price hike",
-      "link": "https://www.theregister.com/software/2026/07/29/microsoft-faces-competition-probe-over-copilot-subscription-price-hike/5280474",
-      "summary": "Watchdog asks whether customers were clearly told how to avoid the costlier AI-equipped plans",
-      "published": "Wed, 29 Jul 2026 14:45:52 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5280496&width=800"
     },
     {
       "title": "South Korean Authorities Scrambling to Save Stock Market From AI Bubble",
@@ -210,44 +226,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/south-korea-save-stock-market-ai-bubble.jpg?quality=85&w=2048"
     },
     {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "published": "Wed, 29 Jul 2026 14:41:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/ENCORE-0321a.jpg?resize=1200,800"
-    },
-    {
-      "title": "AI insiders ask Uncle Sam to help slow the race they started",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/29/ai-insiders-ask-uncle-sam-to-help-slow-the-race-they-started/5280323",
-      "summary": "More than 1,200 industry staff sign petition seeking international guardrails for automated research",
-      "published": "Wed, 29 Jul 2026 14:11:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257384&width=800"
-    },
-    {
-      "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-      "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-      "summary": "With the&#160;Light Phone,&#160;Kaiwei Tang&#160;and&#160;Joe Hollier&#160;have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like&#160;Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention activists” pushing back against Big Tech, they think the rest of [&#8230;]",
-      "published": "Wed, 29 Jul 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Directions-Red.webp?resize=1200,802"
-    },
-    {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "summary": "<p>Wait, Amazon has AI models?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova\">Amazon Is Gutting Its AI Division After Sustained Failure</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 29 Jul 2026 13:57:53 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/amazon-gutting-ai-division-failure.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
-      "link": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
-      "summary": "Cloud database upstart wants one virtual machine core to power multiple SQL frontends",
-      "published": "Wed, 29 Jul 2026 13:28:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682034&width=800"
     },
     {
       "title": "What happens when you put AI to work deciphering lost languages?",
@@ -258,44 +242,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/etruscan-1024x648.jpg"
     },
     {
-      "title": "DoorDash is building its own drone delivery business",
-      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-      "summary": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
-      "published": "Wed, 29 Jul 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/doordash-aircraft-nose.jpeg?resize=1200,675"
-    },
-    {
       "title": "The United States Is Rapidly Running Out of Blood",
       "link": "https://futurism.com/health-medicine/united-states-running-out-blood-supply",
       "summary": "<p>Here's how you can help.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/united-states-running-out-blood-supply\">The United States Is Rapidly Running Out of Blood</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 29 Jul 2026 12:49:15 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/united-states-running-out-blood.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Back of the NetApp: Latest exec signing scores $34M compensation package",
-      "link": "https://www.theregister.com/storage/2026/07/29/back-of-the-netapp-latest-exec-signing-scores-34m-compensation-package/5280307",
-      "summary": "Product chief shoots straight to the top of the pay league, out-earning CEO in fiscal '26",
-      "published": "Wed, 29 Jul 2026 12:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=228334&width=800"
-    },
-    {
-      "title": "NHS England rapped over inaccurate Palantir patient data disclosure",
-      "link": "https://www.theregister.com/public-sector/2026/07/29/nhs-england-rapped-over-inaccurate-palantir-patient-data-disclosure/5280233",
-      "summary": "Privacy guardian warns public trust quickly erodes when supplier access comes as a surprise",
-      "published": "Wed, 29 Jul 2026 12:08:34 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4094191&width=800"
-    },
-    {
-      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-      "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
-      "published": "Wed, 29 Jul 2026 12:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/red-mud-fast-metals.jpeg?resize=1200,817"
     },
     {
       "title": "If You AI-Generate Code, Hackers Just Found a Devious Method to Install Malware Directly on Your Computer",
@@ -306,28 +258,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/hackers-cybersecurity-crime-ai-assistant-hallucination.jpg?quality=85&w=2048"
     },
     {
-      "title": "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness",
-      "link": "https://www.theregister.com/offbeat/2026/07/29/ai-digs-through-3700-accounts-of-dreams-and-waking-life-finds-method-in-the-madness/5279775",
-      "summary": "Researchers uncover patterns in how sleeping minds recombine memories, people, and places",
-      "published": "Wed, 29 Jul 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=232487&width=800"
-    },
-    {
       "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
       "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
       "summary": "Deciding what's real on the Internet won't be easy in the future.",
       "published": "Wed, 29 Jul 2026 11:00:39 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg"
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "published": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675"
     },
     {
       "title": "Microsoft CEO Warns That Companies Embracing AI Could Drive Themselves Out of Business",
@@ -360,62 +296,6 @@
       "published": "Wed, 29 Jul 2026 08:54:18 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/residents-furious-seize-destroy-homes-ai-data-centers-georgia.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-      "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-      "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
-      "published": "Wed, 29 Jul 2026 01:00:36 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-1152x648.jpg"
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "published": "Wed, 29 Jul 2026 00:09:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800"
-    },
-    {
-      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-      "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-      "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
-      "published": "Tue, 28 Jul 2026 22:09:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/link_arrays_katalyst-1152x648.jpg"
-    },
-    {
-      "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-      "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-      "summary": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
-      "published": "Tue, 28 Jul 2026 21:49:52 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163393367-1152x648.jpg"
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "published": "Tue, 28 Jul 2026 21:36:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
-    },
-    {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "published": "Tue, 28 Jul 2026 21:29:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840"
-    },
-    {
-      "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-      "summary": "eBay sent bloody pig mask and other macabre deliveries to journalists' home.",
-      "published": "Tue, 28 Jul 2026 21:02:15 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/ebay-pig-mask-1152x648-1785271314.jpeg"
     },
     {
       "title": "BuzzFeed Lays Off 33 Percent of Remaining Staff After Bizarre Pivot to AI",
@@ -474,12 +354,60 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/data-center-noise-pollution-dowagiac-michigan-blasts-homes.jpg?quality=85&w=2048"
     },
     {
-      "title": "It Seems a Lot Like Dead Internet Has Actually Come True",
-      "link": "https://futurism.com/artificial-intelligence/dead-internet-theory-come-true",
-      "summary": "<p>\"Agentic AI activity is driving a lot of the browser activity you're seeing.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/dead-internet-theory-come-true\">It Seems a Lot Like Dead Internet Has Actually Come True</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 28 Jul 2026 08:49:03 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/dead-internet-theory-come-true.jpg?quality=85&w=2048"
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "published": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+      "published": "2026-07-29T18:17:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
+      "published": "2026-07-29T17:48:07-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Qualcomm is raising phone chip prices starting September 1st",
+      "link": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+      "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports. The price hikes were rumored last week [&#8230;]",
+      "published": "2026-07-29T17:41:56-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
+      "published": "2026-07-29T17:06:52-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+      "link": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+      "summary": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled videos to a world I’ve returned to a number of times to [&#8230;]",
+      "published": "2026-07-29T17:02:50-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+      "link": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+      "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, according to Microsoft's fourth-quarter earnings report released on Wednesday. The news comes just weeks after Xbox head Asha Sharma [&#8230;]",
+      "published": "2026-07-29T16:26:48-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "What’s the catch with the Apple Upgrade program?",
@@ -512,54 +440,6 @@
       "published": "2026-07-29T12:42:44-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK461_INTERNET_CHILD_SAFETY_Stock_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Ferrari Luce has at least 500 fans",
-      "link": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
-      "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sell \"just under 500\" Luce units this year, and reached that [&#8230;]",
-      "published": "2026-07-29T11:28:50-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/FERRARI_LUCE_FRONT_3Q_V2_1X1_RGB_WEB_SOCIALS_198d4f59-b20a-454e-87de-59a8184b24fa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
-      "link": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
-      "summary": "A lot of us here at The Verge are fans of Remarkable’s digital note-taking tablets, and right now one of its higher-end options is much cheaper than usual. The Remarkable Paper Pro normally sells for $629 on its own, but Woot is currently offering a refurbished bundle for $449.99 through July 31st. It includes the [&#8230;]",
-      "published": "2026-07-29T11:09:24-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VERGE-DEALS-DAILY-IMAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "DoorDash is going airborne with new drone delivery division",
-      "link": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
-      "summary": "DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration that clears the way for drone delivery in the near future. DoorDash said it has received a Part 135 air carrier certification from the FAA that [&#8230;]",
-      "published": "2026-07-29T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24179030/doordash_drone.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Nothing Ear 3A look great… and sound good enough",
-      "link": "https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review",
-      "summary": "Nothing has had a strong visual identity since the Ear 1 were released in 2021 for $99 and challenged the notion that a highly featured headset requires a high price. The Ear 3A have the same transparent look as Nothing's previous earbuds, with a clear case and stem design accented by a solid-colored body - [&#8230;]",
-      "published": "2026-07-29T08:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
-      "link": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
-      "summary": "Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity, but as the new normal, the default design for foldables going forward. Rumor has it that Apple feels the same way, with a [&#8230;]",
-      "published": "2026-07-29T08:22:03-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268671_Samsung_Galaxy_Z_Fold_8_DPreston_0034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he [&#8230;]",
-      "published": "2026-07-29T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
