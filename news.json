@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-30T02:43:38.095462",
+  "lastUpdated": "2026-07-30T08:34:26.010090",
   "articles": [
+    {
+      "title": "NOAA ditches weather-predicting supercomputers for Google Cloud",
+      "link": "https://www.theregister.com/hpc/2026/07/29/noaa-ditches-weather-predicting-supercomputers-for-google-cloud/5280697",
+      "summary": "Government agency will use Google Cloud H4D VMs to replace HPE Cray machines",
+      "published": "Wed, 29 Jul 2026 23:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280759&width=800"
+    },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
@@ -16,6 +24,14 @@
       "published": "Wed, 29 Jul 2026 22:46:03 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
+    },
+    {
+      "title": "Big vacuum is watching as robo-cleaners put humans behind the wheel",
+      "link": "https://www.theregister.com/offbeat/2026/07/29/big-vacuum-is-watching-as-robo-cleaners-put-humans-behind-the-wheel/5280674",
+      "summary": "Like a Waymo mated with a Roomba",
+      "published": "Wed, 29 Jul 2026 22:44:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280762&width=800"
     },
     {
       "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
@@ -58,12 +74,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1138528725.jpg?resize=1200,800"
     },
     {
+      "title": "Uncle Sam sees the light, offers GlobalFoundries $300M to pursue silicon photonics while taking 1% stake",
+      "link": "https://www.theregister.com/public-sector/2026/07/29/uncle-sam-sees-the-light-offers-globalfoundries-300m-to-pursue-silicon-photonics-while-taking-1-stake/5280620",
+      "summary": "Meanwhile, the other state-backed foundry, Intel, wraps up RAMP-C defense test chip program",
+      "published": "Wed, 29 Jul 2026 21:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=231666&width=800"
+    },
+    {
       "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
       "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
       "summary": "Advertisers agreed to “reset” relationship with X.",
       "published": "Wed, 29 Jul 2026 20:57:35 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1229892464-1024x648.jpg"
+    },
+    {
+      "title": "Closed models refuse to help researcher swat Linux bug",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/29/closed-models-refuse-to-help-researcher-swat-linux-bug/5280647",
+      "summary": "\"I'm sorry, Dave. I'm afraid I can't do that\" is an effective sales pitch for open source",
+      "published": "Wed, 29 Jul 2026 20:33:16 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254582&width=800"
     },
     {
       "title": "Who wins and who loses after US bans foreign robots?",
@@ -74,7 +106,7 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-1152x648.jpg"
     },
     {
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "title": "The Hugging Face break-in explained",
       "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "published": "Wed, 29 Jul 2026 19:44:49 +0000",
@@ -106,6 +138,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Andon-Labs-AI-vending-machine.png?resize=1200,684"
     },
     {
+      "title": "Word worm crawls into Copilot, spreads chaos",
+      "link": "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588",
+      "summary": "Researcher says months of coordination with Microsoft have yet to produce a robust mitigation",
+      "published": "Wed, 29 Jul 2026 18:43:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5249823&width=800"
+    },
+    {
       "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
       "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
       "summary": "Google's new API relies on parents to set age ranges in Family Link.",
@@ -128,6 +168,14 @@
       "published": "Wed, 29 Jul 2026 17:57:45 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ferrari-luce-1.jpeg?resize=1200,1006"
+    },
+    {
+      "title": "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
+      "link": "https://www.theregister.com/applications/2026/07/29/moscow-slaps-telegram-founder-on-wanted-list-durov-responds-with-one-finger-salute/5280522",
+      "summary": "FSB claims Ukrainian spies use chat platform to recruit Russians for sabotage and arson",
+      "published": "Wed, 29 Jul 2026 17:56:46 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280606&width=800"
     },
     {
       "title": "Waymo robotaxis are starting to return to freeways",
@@ -160,6 +208,14 @@
       "published": "Wed, 29 Jul 2026 17:24:41 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2148806962-1152x648.jpg"
+    },
+    {
+      "title": "MinIO pitches persistent memory for agents with work to finish",
+      "link": "https://www.theregister.com/storage/2026/07/29/minio-pitches-persistent-memory-for-agents-with-work-to-finish/5280407",
+      "summary": "AIStor keeps context, files, and secrets under customer control so interrupted jobs can pick up where they left off",
+      "published": "Wed, 29 Jul 2026 17:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280422&width=800"
     },
     {
       "title": "Google brings its age-assurance technology to Android developers worldwide",
@@ -352,6 +408,70 @@
       "published": "Tue, 28 Jul 2026 09:48:09 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/data-center-noise-pollution-dowagiac-michigan-blasts-homes.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Brighton gig screen goes One Step Beyond with an update pop-up",
+      "link": "https://www.theregister.com/offbeat/2026/07/30/brighton-gig-screen-goes-one-step-beyond-with-an-update-pop-up/5279823",
+      "summary": "Install now or remind me later? Neither belongs in the House of Fun",
+      "published": "Thu, 30 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5279834&width=800"
+    },
+    {
+      "title": "Headteacher had the most guessable username-password combo you could imagine",
+      "link": "https://www.theregister.com/security/2026/07/30/headteacher-had-the-most-guessable-username-password-combo-you-could-imagine/5280709",
+      "summary": "Schools often don't prioritize or understand cybersecurity",
+      "published": "Thu, 30 Jul 2026 09:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280739&width=800"
+    },
+    {
+      "title": "Excuses like 'AI did it' don't exist in the eyes of the law",
+      "link": "https://www.theregister.com/legal/2026/07/30/excuses-like-ai-did-it-dont-exist-in-the-eyes-of-the-law/5280767",
+      "summary": "If your AI goes rogue, better have a good lawyer",
+      "published": "Thu, 30 Jul 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=237716&width=800"
+    },
+    {
+      "title": "Veeam adds support for six more hypervisors in case you are up for a new one",
+      "link": "https://www.theregister.com/virtualization/2026/07/30/veeam-adds-support-for-six-more-hypervisors-in-case-you-are-up-for-a-new-one/5280891",
+      "summary": "Yes, this is mostly about VMware migrations",
+      "published": "Thu, 30 Jul 2026 07:59:15 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=255763&width=800"
+    },
+    {
+      "title": "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees",
+      "link": "https://www.theregister.com/science/2026/07/30/curiosity-rover-spots-field-of-giant-honeycomb-on-mars-but-no-giant-space-bees/5280862",
+      "summary": "Posisbly cracked mud, therefore more evidence Red Planet was once less horrible",
+      "published": "Thu, 30 Jul 2026 05:38:49 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280875&width=800"
+    },
+    {
+      "title": "Qualcomm won’t be a big datacenter player anytime soon",
+      "link": "https://www.theregister.com/systems/2026/07/30/qualcomm-wont-be-a-big-datacenter-player-anytime-soon/5280839",
+      "summary": "But AI has come along just in time to cover being dumped by Apple",
+      "published": "Thu, 30 Jul 2026 04:43:56 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5249938&width=800"
+    },
+    {
+      "title": "Cisco 'retires' its Azure Local offering rather than catch up to Microsoft’s changed hardware requirements",
+      "link": "https://www.theregister.com/on-prem/2026/07/30/cisco-retires-its-azure-local-offering-rather-than-catch-up-to-microsofts-changed-hardware-requirements/5280823",
+      "summary": "Redmond now allows only locked-down rigs with joint software and hardware support for its on-prem hyperconverged cloud and Switchzilla won't go there",
+      "published": "Thu, 30 Jul 2026 03:09:58 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280836&width=800"
+    },
+    {
+      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
+      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
+      "summary": "Capex spending? What? Me worry?",
+      "published": "Thu, 30 Jul 2026 01:17:56 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256704&width=800"
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
