@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T03:26:26.373292",
+  "lastUpdated": "2026-07-31T08:55:34.013610",
   "articles": [
     {
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
@@ -402,14 +402,6 @@
       "image_url": "https://image.theregister.com/?imageId=236820&width=800"
     },
     {
-      "title": "MariaDB again faces questions over Galera's open source future",
-      "link": "https://www.theregister.com/databases/2026/07/30/mariadb-again-faces-questions-over-galeras-open-source-future/5280975",
-      "summary": "Support for the MySQL build ends in September as the company develops separate premium replication technology",
-      "published": "Thu, 30 Jul 2026 13:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5281055&width=800"
-    },
-    {
       "title": "LinkedIn Adds Button on Every Post to Report “Seems Like AI Slop,” Which Is Definitely Going to Get a Real Workout",
       "link": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
       "summary": "<p>A button that marks posts as not being AI slop would probably be far more useful.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop\">LinkedIn Adds Button on Every Post to Report &#8220;Seems Like AI Slop,&#8221; Which Is Definitely Going to Get a Real Workout</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -418,28 +410,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/linkedin-adds-button-report-seems-like-ai-slop.jpg?quality=85&w=2048"
     },
     {
-      "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
-      "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
-      "summary": "Opening a booby-trapped message unleashes a browser implant that can survive password changes and device rebuilds",
-      "published": "Thu, 30 Jul 2026 12:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237994&width=800"
-    },
-    {
       "title": "NASA Mars Rover Discovers Field of Mesmerizing Polygons",
       "link": "https://futurism.com/space/nasa-mars-rover-polygons",
       "summary": "<p>\"This sea of polygons took our breath away.\"</p>\n<p>The post <a href=\"https://futurism.com/space/nasa-mars-rover-polygons\">NASA Mars Rover Discovers Field of Mesmerizing Polygons</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 30 Jul 2026 12:15:18 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/nasa-mars-rover-polygons.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "The majority of corporate IT is now off premises for the first time",
-      "link": "https://www.theregister.com/off-prem/2026/07/30/the-majority-of-corporate-it-is-now-off-premises-for-the-first-time/5280554",
-      "summary": "Survey finds more workloads run off-site than at in-house corporate facilities for the first time",
-      "published": "Thu, 30 Jul 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259417&width=800"
     },
     {
       "title": "Cambridge Analytica’s Website Is Now an AI Slop Farm",
@@ -464,6 +440,30 @@
       "published": "Thu, 30 Jul 2026 09:03:12 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/07/schools-pepper-spray-drones.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Airport sign fails to boot, officers already on the scene",
+      "link": "https://www.theregister.com/offbeat/2026/07/31/airport-sign-fails-to-boot-officers-already-on-the-scene/5281066",
+      "summary": "Bork! Bork! That's the sound of the police",
+      "published": "Fri, 31 Jul 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5281088&width=800"
+    },
+    {
+      "title": "Techie lured out of retirement to support software only he remembered",
+      "link": "https://www.theregister.com/software/2026/07/31/techie-lured-out-of-retirement-to-support-software-only-he-remembered/5280245",
+      "summary": "The first job was lucrative and went well, but a pension was preferable to rolling projects",
+      "published": "Fri, 31 Jul 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280269&width=800"
+    },
+    {
+      "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
+      "summary": "Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem",
+      "published": "Fri, 31 Jul 2026 04:19:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5281583&width=800"
     },
     {
       "title": "Amazon's Q2 was great, but the earnings release is packed with baloney",
