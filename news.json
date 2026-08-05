@@ -1,8 +1,136 @@
 {
-  "lastUpdated": "2026-08-04T19:42:21.544187",
+  "lastUpdated": "2026-08-05T02:51:37.401409",
   "articles": [
     {
-      "title": "Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you",
+      "title": "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165",
+      "summary": "Models used social engineering and collaborated among themselves to solve a security challenge",
+      "published": "Wed, 05 Aug 2026 03:55:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=252578&width=800"
+    },
+    {
+      "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
+      "summary": "The House of Zen's new Helios racks, Venice Epycs, may dent Nvidia's dominance — if the bubble doesn't pop first",
+      "published": "Wed, 05 Aug 2026 02:40:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=246863&width=800"
+    },
+    {
+      "title": "Dev proves LLMs will run on anything – even a $10 microcontroller",
+      "link": "https://www.theregister.com/edge-and-iot/2026/08/04/dev-proves-llms-will-run-on-anything-even-a-10-microcontroller/5283088",
+      "summary": "Nearly 10 tok/s and it's mostly coherent — What's not to like?",
+      "published": "Tue, 04 Aug 2026 23:20:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5283115&width=800"
+    },
+    {
+      "title": "OpenAI wants teachers and profs to foist their work off on ChatGPT",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/04/openai-wants-teachers-and-profs-to-foist-their-work-off-on-chatgpt/5283064",
+      "summary": "New plugins for K-12 teachers, university instructors, and college kids? Read the room, guys",
+      "published": "Tue, 04 Aug 2026 23:03:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258459&width=800"
+    },
+    {
+      "title": "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
+      "link": "https://www.theregister.com/devops/2026/08/04/nextjs-163-aims-to-reduce-dreaded-fatal-error-messages/5283036",
+      "summary": "New React framework lowers memory usage by 90%, team claims",
+      "published": "Tue, 04 Aug 2026 22:34:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5259466&width=800"
+    },
+    {
+      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+      "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+      "published": "Tue, 04 Aug 2026 22:30:58 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826"
+    },
+    {
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+      "published": "Tue, 04 Aug 2026 22:24:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/lucid-motors-gravity-11.jpg?resize=1200,800"
+    },
+    {
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+      "published": "Tue, 04 Aug 2026 22:18:30 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1145953370.jpg?resize=1200,802"
+    },
+    {
+      "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+      "summary": "Fire experts warn such markets could incentivize arson.",
+      "published": "Tue, 04 Aug 2026 21:52:31 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-1152x648.jpg"
+    },
+    {
+      "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+      "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+      "published": "Tue, 04 Aug 2026 21:27:05 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-1152x648-1785876893.jpg"
+    },
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "published": "Tue, 04 Aug 2026 21:07:26 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?resize=1200,800"
+    },
+    {
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+      "published": "Tue, 04 Aug 2026 20:36:30 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gwynne-shotwell-spacex.jpg?resize=1200,801"
+    },
+    {
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+      "published": "Tue, 04 Aug 2026 20:34:28 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-1152x648.jpg"
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+      "published": "Tue, 04 Aug 2026 20:26:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/stalkerware-leaked-location-2.jpg?resize=1200,675"
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "published": "Tue, 04 Aug 2026 20:05:26 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576"
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "published": "Tue, 04 Aug 2026 19:48:40 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
       "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
       "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
       "published": "Tue, 04 Aug 2026 19:34:34 +0000",
@@ -32,6 +160,14 @@
       "published": "Tue, 04 Aug 2026 18:47:27 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=258071&width=800"
+    },
+    {
+      "title": "BMW Suddenly Blasts Its Cars’ Internal Screens With Aggressive Advertisements",
+      "link": "https://futurism.com/advanced-transport/bmw-suddenly-blasts-cars-advertisements",
+      "summary": "<p>\"F*ck everything about this.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/bmw-suddenly-blasts-cars-advertisements\">BMW Suddenly Blasts Its Cars&#8217; Internal Screens With Aggressive Advertisements</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 04 Aug 2026 17:49:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/bmw-suddenly-blasts-cars-advertisements.jpg?quality=85&w=2048"
     },
     {
       "title": "Feds get 3 days to patch N-able God mode flaw under active exploit",
@@ -82,6 +218,14 @@
       "image_url": "https://image.theregister.com/?imageId=5282926&width=800"
     },
     {
+      "title": "Parents Horrified as Boomer Mawmaws Gift Children Blatant AI Slop Picture Books",
+      "link": "https://futurism.com/artificial-intelligence/parents-horrified-ai-children-book",
+      "summary": "<p>\"Well-meaning on their end, but f**king yikes.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/parents-horrified-ai-children-book\">Parents Horrified as Boomer Mawmaws Gift Children Blatant AI Slop Picture Books</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 04 Aug 2026 16:49:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/boomers-ai-slop-picturebooks.jpg?quality=85&w=2048"
+    },
+    {
       "title": "AI helps Microsoft bug hunters chase a record $20M payday",
       "link": "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821",
       "summary": "Broader bounty rules added to a swelling volume of machine-assisted vulnerability reports",
@@ -122,28 +266,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024"
     },
     {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-      "published": "Tue, 04 Aug 2026 15:42:35 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2205417979.jpg?w=1024"
-    },
-    {
-      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-      "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-      "summary": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
-      "published": "Tue, 04 Aug 2026 15:38:22 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800"
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
-      "published": "Tue, 04 Aug 2026 15:20:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800"
+      "title": "Business World Stunned That a Restaurant Chain Is Doing Well Without Mindlessly Embracing AI",
+      "link": "https://futurism.com/artificial-intelligence/chilis-restaurant-ai",
+      "summary": "<p>Shocking!</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/chilis-restaurant-ai\">Business World Stunned That a Restaurant Chain Is Doing Well Without Mindlessly Embracing AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 04 Aug 2026 15:50:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/chilis-restaurant-ai.jpg?quality=85&w=2048"
     },
     {
       "title": "Cloud giants pour nearly $600B into capex as AI demand surges",
@@ -162,12 +290,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg"
     },
     {
-      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-      "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-      "summary": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
-      "published": "Tue, 04 Aug 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?resize=1200,800"
+      "title": "Global Warming Is Rapidly Accelerating, New Paper Finds",
+      "link": "https://futurism.com/future-society/global-warming-accelerating-paper",
+      "summary": "<p>\"If the warming rate of the past 10 years continues, it would lead to a long-term exceedance of the 1.5 degree C limit of the Paris Agreement before 2030.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/global-warming-accelerating-paper\">Global Warming Is Rapidly Accelerating, New Paper Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 04 Aug 2026 14:49:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/global-warming-accelerating-paper.jpg?quality=85&w=2048"
     },
     {
       "title": "Startup Unveils Underwater Living Chamber for Human Dwellers",
@@ -176,14 +304,6 @@
       "published": "Tue, 04 Aug 2026 14:49:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/startup-underwater-living-chamber-ocean-research.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Global Warming Is Rapidly Accelerating, New Paper Finds",
-      "link": "https://futurism.com/future-society/global-warming-accelerating-paper",
-      "summary": "<p>\"If the warming rate of the past 10 years continues, it would lead to a long-term exceedance of the 1.5 degree C limit of the Paris Agreement before 2030.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/global-warming-accelerating-paper\">Global Warming Is Rapidly Accelerating, New Paper Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 04 Aug 2026 14:49:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/global-warming-accelerating-paper.jpg?quality=85&w=2048"
     },
     {
       "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
@@ -202,22 +322,6 @@
       "image_url": "https://image.theregister.com/?imageId=262737&width=800"
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "published": "Tue, 04 Aug 2026 14:03:01 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024"
-    },
-    {
-      "title": "Spotify now has over 300M subscribers",
-      "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
-      "summary": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
-      "published": "Tue, 04 Aug 2026 13:52:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024"
-    },
-    {
       "title": "DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever",
       "link": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
       "summary": "<p>\"0/10... Useless for perverts.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses\">DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -234,28 +338,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg"
     },
     {
-      "title": "India moves to give its instant payments network a business model",
-      "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-      "summary": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
-      "published": "Tue, 04 Aug 2026 13:31:17 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1213174164.jpg?resize=1200,800"
-    },
-    {
       "title": "CAF Bank reopens online service but warns of further outages",
       "link": "https://www.theregister.com/security/2026/08/04/caf-bank-reopens-online-service-but-warns-of-further-outages/5282668",
       "summary": "Customers told traffic may be limited at certain times following more than ten days offline",
       "published": "Tue, 04 Aug 2026 13:23:36 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5282693&width=800"
-    },
-    {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-      "published": "Tue, 04 Aug 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Data-center.png?resize=1196,1200"
     },
     {
       "title": "New AI Chatbot Turns Out to Be One Overworked Guy Answering All the Messages by Hand",
@@ -314,46 +402,6 @@
       "image_url": "https://image.theregister.com/?imageId=252595&width=800"
     },
     {
-      "title": "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
-      "link": "https://www.theregister.com/security/2026/08/04/cloudflare-has-mostly-ditched-third-party-security-tools-suggests-not-trying-that-at-home/5282600",
-      "summary": "Automates bug bounty triage with Sonnet for $58 a month, CSO says Mythos would cost $200k",
-      "published": "Tue, 04 Aug 2026 06:50:53 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5282625&width=800"
-    },
-    {
-      "title": "China claims global chip leadership thanks to new legal definition of 'integrated circuits'",
-      "link": "https://www.theregister.com/legal/2026/08/04/china-claims-global-chip-leadership-thanks-to-new-legal-definition-of-integrated-circuits/5282563",
-      "summary": "Beijing's new rules also protect against copying local chip designs",
-      "published": "Tue, 04 Aug 2026 04:05:05 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=239455&width=800"
-    },
-    {
-      "title": "China turns up the heat with open model blitz as US model makers panic",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
-      "summary": "For the first time, Alibaba's Qwen team is letting its 'Max' model out of the API pen; meanwhile, DeepSeek V4-Flash gives new meaning to cheap and cheerful competition",
-      "published": "Tue, 04 Aug 2026 00:40:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=249692&width=800"
-    },
-    {
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-      "published": "Sat, 01 Aug 2026 18:20:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-1152x648.png"
-    },
-    {
-      "title": "Google dev kit spurs first-ever agent-on-agent violence",
-      "link": "https://www.theregister.com/security/2026/08/03/google-dev-kit-spurs-first-ever-agent-on-agent-violence/5282496",
-      "summary": "Poisoned pull requests contain prompt injection that allows one to control another",
-      "published": "Mon, 03 Aug 2026 22:30:37 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5282519&width=800"
-    },
-    {
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
       "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
       "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
@@ -376,14 +424,6 @@
       "published": "Mon, 03 Aug 2026 19:21:16 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg-1152x648.jpg"
-    },
-    {
-      "title": "AI slop pollutes the CVE pipeline with fake vulns",
-      "link": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
-      "summary": "With NIST still buried under its backlog, expect AI-generated bogus reports to continue",
-      "published": "Mon, 03 Aug 2026 19:19:36 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5230118&width=800"
     },
     {
       "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
@@ -434,14 +474,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/tech-bro-ai-toddler-conversations.jpg?quality=85&w=2048"
     },
     {
-      "title": "Trump wants the power to stop the public from suing polluters",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-      "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
-      "published": "Mon, 03 Aug 2026 13:33:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/refinery-1024x648.jpg"
-    },
-    {
       "title": "Mark Zuckerberg’s Wife Shuts Down School for the Disadvantaged",
       "link": "https://futurism.com/future-society/mark-zuckerberg-wife-shuts-down-school-disadvantaged",
       "summary": "<p>Her foundation is pivoting to AI instead.</p>\n<p>The post <a href=\"https://futurism.com/future-society/mark-zuckerberg-wife-shuts-down-school-disadvantaged\">Mark Zuckerberg&#8217;s Wife Shuts Down School for the Disadvantaged</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -450,36 +482,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/mark-zuckerberg-wife-shuts-down-school-disadvantaged.jpg?quality=85&w=2048"
     },
     {
-      "title": "Poll Finds Overwhelming Majority Disgusted by Trump’s Relationship With AI Industry, Saying He’s Using the Tech to Tear Down Democracy",
-      "link": "https://futurism.com/artificial-intelligence/polling-trump-ai-industry-democracy",
-      "summary": "<p>\"These Big AI goliaths think they can buy off our government, our elections, our leaders, and our future and nobody will notice.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/polling-trump-ai-industry-democracy\">Poll Finds Overwhelming Majority Disgusted by Trump&#8217;s Relationship With AI Industry, Saying He&#8217;s Using the Tech to Tear Down Democracy</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 03 Aug 2026 12:30:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/polling-trump-ai-industry-democracy.jpg?quality=85&w=2048"
+      "title": "Don’t screw this up, Marvel",
+      "link": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+      "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a [&#8230;]",
+      "published": "2026-08-04T19:20:56-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/SBND-27223_r.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "America Getting Lesson in Consequences of Trump’s War on Public Health as Rare Disease Outbreaks Ravage the Country",
-      "link": "https://futurism.com/health-medicine/america-consequences-trump-public-health-rare-disease-outbreak-ravaging-usa",
-      "summary": "<p>Feeling healthy yet?</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/america-consequences-trump-public-health-rare-disease-outbreak-ravaging-usa\">America Getting Lesson in Consequences of Trump&#8217;s War on Public Health as Rare Disease Outbreaks Ravage the Country</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 03 Aug 2026 12:00:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/america-lesson-war-public-health-outbreaks.jpg?quality=85&w=2048"
+      "title": "Now you can securely link multiple phones to one Signal account",
+      "link": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether [&#8230;]",
+      "published": "2026-08-04T18:02:46-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK459_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "It Appears That the US Military Accidentally Killed Everybody on Board a Civilian Medevac Flight in New Mexico",
-      "link": "https://futurism.com/science-energy/us-military-gps-jamming-signal-medical-flight",
-      "summary": "<p>\"When those lights go out, man, you know you are in big trouble.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/us-military-gps-jamming-signal-medical-flight\">It Appears That the US Military Accidentally Killed Everybody on Board a Civilian Medevac Flight in New Mexico</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 03 Aug 2026 11:45:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/us-military-gps-jamming-signal-medical-flight.jpg?quality=85&w=2048"
+      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said [&#8230;]",
+      "published": "2026-08-04T16:57:49-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "How headlights got brighter, whiter, and more blinding after dark",
-      "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-      "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
-      "published": "Mon, 03 Aug 2026 11:00:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/FJCG3729-1152x648.jpg"
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
+      "published": "2026-08-04T16:47:55-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "EA is now a private company",
+      "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+      "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 [&#8230;]",
+      "published": "2026-08-04T16:18:14-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ss_34588453e785e37518c3e448c91563c25ea0de95.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
@@ -520,46 +560,6 @@
       "published": "2026-08-04T13:17:14-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BMW-Spider-Man-promotional-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
-      "link": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
-      "summary": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and will come with a 0 percent APR for a limited time. Even if [&#8230;]",
-      "published": "2026-08-04T12:07:02-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23962441/acastro_STK067__02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
-      "link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
-      "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they&#8217;re [&#8230;]",
-      "published": "2026-08-04T12:01:57-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Copy-of-Cal-2-Lifestyle-6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
-      "link": "https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
-      "summary": "After previewing HDR10 Plus Advanced late last year, Samsung's not-Dolby Vision 2 spec will launch globally on Amazon's Prime Video this month. The first TVs announced with support are Samsung's 2026 lineup, which will be able to make use of the extra metadata to deliver more precise HDR that is optimized for what you're watching, [&#8230;]",
-      "published": "2026-08-04T11:43:59-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-hdr10-plus-advanced-prime-video-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [&#8230;]",
-      "published": "2026-08-04T11:33:21-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Asus Chromebook Plus CX34 is at one of its lowest prices",
-      "link": "https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
-      "summary": "The Asus Chromebook Plus CX34 is a dependable laptop that doesn’t cost a fortune, despite being nearly three years old. It’s cheaper than usual right now, and you have a few options in the sub-$400 range. The option with the most storage is currently on sale for $399.99 (about $100 off recent prices) at Amazon. [&#8230;]",
-      "published": "2026-08-04T11:15:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/asuschromebookdeals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
