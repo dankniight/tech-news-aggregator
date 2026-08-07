@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T00:05:31.068832",
+  "lastUpdated": "2026-08-07T07:22:44.437823",
   "articles": [
     {
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -16,14 +16,6 @@
       "published": "Wed, 05 Aug 2026 21:03:18 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg"
-    },
-    {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "published": "Wed, 05 Aug 2026 20:47:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
     },
     {
       "title": "Police Department Not Happy When Every Single One of Its Flock Cameras Gets Stolen",
@@ -80,6 +72,14 @@
       "published": "Thu, 06 Aug 2026 22:43:53 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+    },
+    {
+      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+      "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+      "published": "Thu, 06 Aug 2026 22:20:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-1152x648.jpg"
     },
     {
       "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
@@ -386,28 +386,12 @@
       "image_url": "https://image.theregister.com/?imageId=5219655&width=800"
     },
     {
-      "title": "IT department put sticky notes on the laptops to help employees log in",
-      "link": "https://www.theregister.com/security/2026/08/06/it-department-put-sticky-notes-on-the-laptops-to-help-employees-log-in/5283662",
-      "summary": "Leaving this information exposed allowed someone else to gain access",
-      "published": "Thu, 06 Aug 2026 14:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5283674&width=800"
-    },
-    {
       "title": "Grokipedia Appears to Have Completely Broken and Nobody Noticed",
       "link": "https://futurism.com/future-society/grokipedia-broken-nobody-noticed",
       "summary": "<p>\"As far as we can tell, no entry has changed in more than three months.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/grokipedia-broken-nobody-noticed\">Grokipedia Appears to Have Completely Broken and Nobody Noticed</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 06 Aug 2026 13:54:30 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/grokipedia-broken.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Windows 10 LTSC 2021 has five months before security updates cost extra",
-      "link": "https://www.theregister.com/os-platforms/2026/08/06/windows-10-ltsc-2021-has-five-months-before-security-updates-cost-extra/5283904",
-      "summary": "ESU meter starts running in January, unless you're on the IoT edition",
-      "published": "Thu, 06 Aug 2026 13:03:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5247910&width=800"
     },
     {
       "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
@@ -426,28 +410,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/andreessen-horowitz-chilling-assessment-new-tech.jpg?quality=85&w=2048"
     },
     {
-      "title": "Meta latest to tell world its AI agent wandered out of test pen",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947",
-      "summary": "Another week, another firm explaining why one of its models reached somewhere it wasn't supposed to",
-      "published": "Thu, 06 Aug 2026 12:24:04 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5283960&width=800"
-    },
-    {
       "title": "Gen Z Helicopter Parents Are So Intense That They’re Calling Hiring Managers to Interfere",
       "link": "https://futurism.com/future-society/gen-z-helicopter-parents",
       "summary": "<p>Mom! You're embarrassing me in front of my friends! Er, boss.</p>\n<p>The post <a href=\"https://futurism.com/future-society/gen-z-helicopter-parents\">Gen Z Helicopter Parents Are So Intense That They&#8217;re Calling Hiring Managers to Interfere</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 06 Aug 2026 11:49:13 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/gen-z-helicopter-parents.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "News Corp labels some AI companies 'crass kleptomaniacs'",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/news-corp-labels-some-ai-companies-crass-kleptomaniacs/5283848",
-      "summary": "Pay it for content, like OpenAI and Meta, to become 'principled' and 'honorable'",
-      "published": "Thu, 06 Aug 2026 11:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5283895&width=800"
     },
     {
       "title": "AI isn’t enough to protect social media communities from AI",
@@ -480,6 +448,38 @@
       "published": "Thu, 06 Aug 2026 08:43:30 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/trump-doctor-dinner-parties.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Sysadmin summoned to explain italics – to a user with at least two degrees",
+      "link": "https://www.theregister.com/software/2026/08/07/sysadmin-summoned-to-explain-italics-to-a-user-with-at-least-two-degrees/5283871",
+      "summary": "What an idiot",
+      "published": "Fri, 07 Aug 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5283892&width=800"
+    },
+    {
+      "title": "China launches mysterious probe into security of Palo Alto Networks' products",
+      "link": "https://www.theregister.com/security/2026/08/07/china-launches-mysterious-probe-into-security-of-palo-alto-networks-products/5284453",
+      "summary": "Beijing’s not saying why, which is just what happened when it investigated Micron",
+      "published": "Fri, 07 Aug 2026 06:24:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=222888&width=800"
+    },
+    {
+      "title": "‘Humans will be a rounding error on the internet’ says Cloudflare exec",
+      "link": "https://www.theregister.com/networks/2026/08/07/humans-will-be-a-rounding-error-on-the-internet-says-cloudflare-exec/5284429",
+      "summary": "Machine-generated traffic to surge 1000x in five years, while we meatbags keep clicking away slowly",
+      "published": "Fri, 07 Aug 2026 04:40:23 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5284450&width=800"
+    },
+    {
+      "title": "How the famed USENIX Security conf is managing a flood of papers in the AI era",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/07/how-the-famed-usenix-security-conf-is-managing-a-flood-of-papers-in-the-ai-era/5284374",
+      "summary": "AI usage is evident but isn't yet a serious problem",
+      "published": "Fri, 07 Aug 2026 01:40:23 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5284394&width=800"
     },
     {
       "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
