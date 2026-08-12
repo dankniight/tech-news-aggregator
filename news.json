@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-12T02:19:18.993205",
+  "lastUpdated": "2026-08-12T07:38:37.089475",
   "articles": [
+    {
+      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+      "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "summary": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+      "published": "Wed, 12 Aug 2026 04:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/yulu.jpg?resize=1200,800"
+    },
+    {
+      "title": "India’s central bank wants AI to approve loans that humans would reject",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/indias-central-bank-wants-ai-to-approve-loans-that-humans-would-reject/5286572",
+      "summary": "Regulator hopes for greater financial inclusion, without extra risk or blaming models for bad decisions",
+      "published": "Wed, 12 Aug 2026 03:18:21 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5286595&width=800"
+    },
+    {
+      "title": "Modular's Mojo programming language hits 1.0 milestone",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/modulars-mojo-programming-language-hits-10-milestone/5286545",
+      "summary": "Developers await open source compiler release to dispel uncertainty following Qualcomm acquisition",
+      "published": "Wed, 12 Aug 2026 01:50:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093185&width=800"
+    },
     {
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
       "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
@@ -8,6 +32,30 @@
       "published": "Wed, 12 Aug 2026 00:08:40 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg"
+    },
+    {
+      "title": "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
+      "link": "https://www.theregister.com/security/2026/08/11/signal-adds-an-extra-layer-of-security-to-make-sure-youre-actually-chatting-with-the-right-person/5286461",
+      "summary": "One big caveat, though: You need your contact's phone number",
+      "published": "Tue, 11 Aug 2026 23:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227546&width=800"
+    },
+    {
+      "title": "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one",
+      "link": "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483",
+      "summary": "Sysadmins, welcome to your new norm",
+      "published": "Tue, 11 Aug 2026 23:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1683286&width=800"
+    },
+    {
+      "title": "Give Palantir up to $244m through 2028, says internal Defense Department memo",
+      "link": "https://www.theregister.com/public-sector/2026/08/11/palantir-could-receive-244m-pentagon-no-bid-contract/5286438",
+      "summary": "Draft memo taps AI data analysis biz for help with military production efficiency",
+      "published": "Tue, 11 Aug 2026 23:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094191&width=800"
     },
     {
       "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
@@ -48,6 +96,14 @@
       "published": "Tue, 11 Aug 2026 20:59:52 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg"
+    },
+    {
+      "title": "Together AI embraces the competition with $240M IBM Cloud deal",
+      "link": "https://www.theregister.com/off-prem/2026/08/11/together-ai-embraces-the-competition-with-240m-ibm-cloud-deal/5286400",
+      "summary": "Deal to fund 'large' deployment of Nvidia's last-gen HGX B300 systems launching in Q1 2027",
+      "published": "Tue, 11 Aug 2026 20:51:26 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5286425&width=800"
     },
     {
       "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
@@ -106,12 +162,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/electric-piggy-bank-30k-1152x648.jpg"
     },
     {
+      "title": "DEF CON dingus suspected of trying to take over Delta in-flight Wi-Fi",
+      "link": "https://www.theregister.com/security/2026/08/11/def-con-dingus-suspected-of-trying-to-take-over-delta-in-flight-wi-fi/5286331",
+      "summary": "This is why we can't have nice things, people",
+      "published": "Tue, 11 Aug 2026 18:27:57 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260314&width=800"
+    },
+    {
       "title": "Dude Asks AI Agent to Book Gym Spot, Accidentally Launches Autonomous Cyberattack",
       "link": "https://futurism.com/future-society/ai-agent-accidental-cyberattack-gym-booking",
       "summary": "<p>Now imagine what an actual hacker could do.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-agent-accidental-cyberattack-gym-booking\">Dude Asks AI Agent to Book Gym Spot, Accidentally Launches Autonomous Cyberattack</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 11 Aug 2026 18:01:36 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/ai-agent-accidental-cyberattack-gym-booking.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Intel upsizes stock sale to $20B with spending plans still fuzzy",
+      "link": "https://www.theregister.com/systems/2026/08/11/intel-upsizes-stock-sale-to-20b-with-spending-plans-still-fuzzy/5286313",
+      "summary": "Semiconductor giant says opaquely it will use the proceeds for 'general corporate purposes'",
+      "published": "Tue, 11 Aug 2026 18:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=223005&width=800"
     },
     {
       "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
@@ -152,6 +224,22 @@
       "published": "Tue, 11 Aug 2026 17:41:22 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200"
+    },
+    {
+      "title": "Two wars and a World Cup lead to epic DDoS attacks on publishers",
+      "link": "https://www.theregister.com/security/2026/08/11/two-wars-and-a-world-cup-lead-to-epic-ddos-attacks-on-publishers/5286278",
+      "summary": "Ukraine, Iran, and football inspire geopolitically motivated DDoS attacks, while 1 Tbps traffic jams up 519 percent",
+      "published": "Tue, 11 Aug 2026 17:33:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254502&width=800"
+    },
+    {
+      "title": "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
+      "link": "https://www.theregister.com/cyber-crime/2026/08/11/feds-warn-gunra-ransomware-is-exploiting-known-bugs-to-hit-critical-infrastructure/5286263",
+      "summary": "Newly minted RaaS crew breaks in through using internet-facing kit via known Fortinet flaws, then steals and scrambles data",
+      "published": "Tue, 11 Aug 2026 16:36:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261470&width=800"
     },
     {
       "title": "Doctors Warn That Med Students Are Surrendering Their Brains to Medical AIs That Are Even Worse than Regular Chatbots",
@@ -210,20 +298,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Arcade-Puzzle-Block-Blast-plus_inline.jpg.large_2x.jpg?resize=856,1200"
     },
     {
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-      "published": "Tue, 11 Aug 2026 15:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026.png?w=1200"
-    },
-    {
       "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
       "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
       "summary": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
       "published": "Tue, 11 Aug 2026 15:28:43 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-1152x648.jpg"
+    },
+    {
+      "title": "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands",
+      "link": "https://www.theregister.com/cyber-crime/2026/08/11/cyberattack-on-logistics-giant-ceva-delivers-customer-data-into-the-wrong-hands/5286229",
+      "summary": "Valve, Bol, ING, Ajax, and others affected as pwnage disrupts eight European warehouses",
+      "published": "Tue, 11 Aug 2026 15:24:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=239517&width=800"
     },
     {
       "title": "Man Covers Car in Special Wrap That Breaks Flock Cameras’ Electronic Brains",
@@ -242,6 +330,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/protesters-arrested-protest-openai-washington-dc.jpg?quality=85&w=2048"
     },
     {
+      "title": "Deepfake hiccup unmasks suspected digital certificate fraudster",
+      "link": "https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934",
+      "summary": "Face-swap software blinked for 'barely a second,' giving Spanish cops the break they needed",
+      "published": "Tue, 11 Aug 2026 14:27:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5286216&width=800"
+    },
+    {
+      "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
+      "link": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
+      "summary": "Audit logs found no unexpected visitors, but release verification still needs an update",
+      "published": "Tue, 11 Aug 2026 13:36:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5274447&width=800"
+    },
+    {
       "title": "New surveillance tech links your phone to your license plate",
       "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
       "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
@@ -258,12 +362,28 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/google-update-home-page-ai.jpg?quality=85&w=2048"
     },
     {
+      "title": "Building up the US power grid won't be wasted, even if the AI bubble bursts",
+      "link": "https://www.theregister.com/on-prem/2026/08/11/building-up-the-us-power-grid-wont-be-wasted-even-if-the-ai-bubble-bursts/5285563",
+      "summary": "The bigger risk is underinvestment, claims consulting biz McKinsey",
+      "published": "Tue, 11 Aug 2026 12:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5285618&width=800"
+    },
+    {
       "title": "It’s Official: This Is the Hottest America Has Ever Been",
       "link": "https://futurism.com/science-energy/official-hottest-america-ever-been",
       "summary": "<p>\"If we’re exceeding records from the Dust Bowl, that says that we’re in deep trouble.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/official-hottest-america-ever-been\">It&#8217;s Official: This Is the Hottest America Has Ever Been</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 11 Aug 2026 12:06:17 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/official-hottest-america-ever-been.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Malicious SIMs can shut down phones, steal files, and drag 5G back to 2G",
+      "link": "https://www.theregister.com/security/2026/08/11/malicious-sims-can-shut-down-phones-steal-files-and-drag-5g-back-to-2g/5285482",
+      "summary": "Researchers find standards-compliant functionality can be abused to hijack modems, downgrade connections, and even execute code",
+      "published": "Tue, 11 Aug 2026 11:37:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=229858&width=800"
     },
     {
       "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
