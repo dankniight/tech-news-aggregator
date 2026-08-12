@@ -1,26 +1,122 @@
 {
-  "lastUpdated": "2026-08-11T19:07:07.857690",
+  "lastUpdated": "2026-08-12T02:19:18.993205",
   "articles": [
     {
-      "title": "Google’s Gemini app surges to one billion users",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "published": "Wed, 12 Aug 2026 00:08:40 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg"
+    },
+    {
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "link": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+      "published": "Tue, 11 Aug 2026 22:31:45 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
+    },
+    {
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "published": "Tue, 11 Aug 2026 21:39:58 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2264853771.jpg?w=1024"
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "published": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/accel.jpg?resize=1200,800"
+    },
+    {
+      "title": "Russian drones found near vital European offshore gas site, get blown up",
+      "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+      "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+      "published": "Tue, 11 Aug 2026 21:20:11 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png"
+    },
+    {
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "published": "Tue, 11 Aug 2026 20:59:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg"
+    },
+    {
+      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+      "published": "Tue, 11 Aug 2026 20:27:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg"
+    },
+    {
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+      "published": "Tue, 11 Aug 2026 20:02:02 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/05/Serve-Uber-Eats.jpg?resize=1200,801"
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "summary": "But will Gemini's surge survive slowing model releases?",
+      "published": "Tue, 11 Aug 2026 19:48:12 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg"
+    },
+    {
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "published": "Tue, 11 Aug 2026 19:38:23 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/teenagers-smartphones.jpg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "published": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024"
+    },
+    {
+      "title": "Google’s Gemini app surges to 1 billion users",
       "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
       "published": "Tue, 11 Aug 2026 18:49:12 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
     },
     {
-      "title": "Intel upsizes stock sale to $20B with spending plans still fuzzy",
-      "link": "https://www.theregister.com/systems/2026/08/11/intel-upsizes-stock-sale-to-20b-with-spending-plans-still-fuzzy/5286313",
-      "summary": "Semiconductor giant says opaquely it will use the proceeds for 'general corporate purposes'",
-      "published": "Tue, 11 Aug 2026 18:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=223005&width=800"
+      "title": "Used EV buying guide: The $30,000 edition",
+      "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+      "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
+      "published": "Tue, 11 Aug 2026 18:31:53 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/electric-piggy-bank-30k-1152x648.jpg"
+    },
+    {
+      "title": "Dude Asks AI Agent to Book Gym Spot, Accidentally Launches Autonomous Cyberattack",
+      "link": "https://futurism.com/future-society/ai-agent-accidental-cyberattack-gym-booking",
+      "summary": "<p>Now imagine what an actual hacker could do.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-agent-accidental-cyberattack-gym-booking\">Dude Asks AI Agent to Book Gym Spot, Accidentally Launches Autonomous Cyberattack</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 11 Aug 2026 18:01:36 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/ai-agent-accidental-cyberattack-gym-booking.jpg?quality=85&w=2048"
     },
     {
       "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
       "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
-      "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+      "summary": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
       "published": "Tue, 11 Aug 2026 18:00:14 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2287552371-1024x648.jpg"
@@ -58,20 +154,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200"
     },
     {
-      "title": "Two wars and a World Cup lead to epic DDoS attacks on publishers",
-      "link": "https://www.theregister.com/security/2026/08/11/two-wars-and-a-world-cup-lead-to-epic-ddos-attacks-on-publishers/5286278",
-      "summary": "Ukraine, Iran, and football inspire geopolitically motivated DDoS attacks, while 1 Tbps traffic jams up 519 percent",
-      "published": "Tue, 11 Aug 2026 17:33:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254502&width=800"
-    },
-    {
-      "title": "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
-      "link": "https://www.theregister.com/cyber-crime/2026/08/11/feds-warn-gunra-ransomware-is-exploiting-known-bugs-to-hit-critical-infrastructure/5286263",
-      "summary": "Newly minted RaaS crew breaks in through using internet-facing kit via known Fortinet flaws, then steals and scrambles data",
-      "published": "Tue, 11 Aug 2026 16:36:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261470&width=800"
+      "title": "Doctors Warn That Med Students Are Surrendering Their Brains to Medical AIs That Are Even Worse than Regular Chatbots",
+      "link": "https://futurism.com/artificial-intelligence/doctors-med-students-brains-ai",
+      "summary": "<p>\"Although a doctor who has forgotten how to reason is recoverable, one who never learned how may not be.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/doctors-med-students-brains-ai\">Doctors Warn That Med Students Are Surrendering Their Brains to Medical AIs That Are Even Worse than Regular Chatbots</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 11 Aug 2026 16:26:47 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/doctors-med-students-brains-ai.jpg?quality=85&w=2048"
     },
     {
       "title": "Tracking extreme heat by the hour makes climate change seem even worse",
@@ -114,7 +202,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/delta-wi-fi-sign-plane.jpg?resize=1200,679"
     },
     {
-      "title": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
+      "title": "Block Blast! goes ad-free on Apple Arcade",
       "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
       "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
       "published": "Tue, 11 Aug 2026 15:33:59 +0000",
@@ -138,28 +226,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-1152x648.jpg"
     },
     {
-      "title": "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands",
-      "link": "https://www.theregister.com/cyber-crime/2026/08/11/cyberattack-on-logistics-giant-ceva-delivers-customer-data-into-the-wrong-hands/5286229",
-      "summary": "Valve, Bol, ING, Ajax, and others affected as pwnage disrupts eight European warehouses",
-      "published": "Tue, 11 Aug 2026 15:24:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=239517&width=800"
-    },
-    {
-      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
-      "link": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
-      "summary": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
-      "published": "Tue, 11 Aug 2026 15:23:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/flightaware-sues-kalshi.jpg?resize=1200,800"
-    },
-    {
-      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-      "link": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-      "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
-      "published": "Tue, 11 Aug 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/UNITY-3-kyoto-fusioneering.jpg?resize=1200,675"
+      "title": "Man Covers Car in Special Wrap That Breaks Flock Cameras’ Electronic Brains",
+      "link": "https://futurism.com/artificial-intelligence/man-covers-car-special-wrap-flock-cameras",
+      "summary": "<p>This is genius.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/man-covers-car-special-wrap-flock-cameras\">Man Covers Car in Special Wrap That Breaks Flock Cameras&#8217; Electronic Brains</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 11 Aug 2026 15:21:04 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/man-covers-car-special-wrap-flock-cameras.jpg?quality=85&w=2048"
     },
     {
       "title": "Protesters Arrested After Storming OpenAI Lobbying Office",
@@ -170,52 +242,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/protesters-arrested-protest-openai-washington-dc.jpg?quality=85&w=2048"
     },
     {
-      "title": "Deepfake hiccup unmasks suspected digital certificate fraudster",
-      "link": "https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934",
-      "summary": "Face-swap software blinked for 'barely a second,' giving Spanish cops the break they needed",
-      "published": "Tue, 11 Aug 2026 14:27:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5286216&width=800"
-    },
-    {
-      "title": "Bumble ditches its rule that kept men from making the first move",
-      "link": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
-      "summary": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
-      "published": "Tue, 11 Aug 2026 13:59:26 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Bumble-menmessagefirst.png?w=1200"
-    },
-    {
-      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
-      "link": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
-      "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
-      "published": "Tue, 11 Aug 2026 13:40:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/kim-jong-un-north-korea-tv.jpg?resize=1200,673"
-    },
-    {
-      "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
-      "link": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
-      "summary": "Audit logs found no unexpected visitors, but release verification still needs an update",
-      "published": "Tue, 11 Aug 2026 13:36:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5274447&width=800"
-    },
-    {
       "title": "New surveillance tech links your phone to your license plate",
       "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
       "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
       "published": "Tue, 11 Aug 2026 13:15:24 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
-    },
-    {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "published": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/AI-Personas-Header.jpg?resize=1200,683"
     },
     {
       "title": "Google Just Updated Its Home Page to Replace the “Search” Button With a Bunch of AI",
@@ -226,28 +258,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/google-update-home-page-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "Building up the US power grid won't be wasted, even if the AI bubble bursts",
-      "link": "https://www.theregister.com/on-prem/2026/08/11/building-up-the-us-power-grid-wont-be-wasted-even-if-the-ai-bubble-bursts/5285563",
-      "summary": "The bigger risk is underinvestment, claims consulting biz McKinsey",
-      "published": "Tue, 11 Aug 2026 12:31:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5285618&width=800"
-    },
-    {
       "title": "It’s Official: This Is the Hottest America Has Ever Been",
       "link": "https://futurism.com/science-energy/official-hottest-america-ever-been",
       "summary": "<p>\"If we’re exceeding records from the Dust Bowl, that says that we’re in deep trouble.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/official-hottest-america-ever-been\">It&#8217;s Official: This Is the Hottest America Has Ever Been</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 11 Aug 2026 12:06:17 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/official-hottest-america-ever-been.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Malicious SIMs can shut down phones, steal files, and drag 5G back to 2G",
-      "link": "https://www.theregister.com/security/2026/08/11/malicious-sims-can-shut-down-phones-steal-files-and-drag-5g-back-to-2g/5285482",
-      "summary": "Researchers find standards-compliant functionality can be abused to hijack modems, downgrade connections, and even execute code",
-      "published": "Tue, 11 Aug 2026 11:37:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=229858&width=800"
     },
     {
       "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
@@ -274,14 +290,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/amazon-data-center-largest-pollution-source-texas-usa.jpg?quality=85&w=2048"
     },
     {
-      "title": "Why hybrid clouds break and what to do about it",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/08/11/sponsored-why-hybrid-clouds-break-and-what-to-do-about-it/5283973",
-      "summary": "SPONSORED EXPLAINER: There's nothing wrong with hybrid cloud. It's the one-size-fits-all strategy on top of it that's the problem.",
-      "published": "Tue, 11 Aug 2026 10:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5283978&width=800"
-    },
-    {
       "title": "Homeschool Parents Are Planning Lessons With ChatGPT",
       "link": "https://futurism.com/artificial-intelligence/homeschool-parents-chatpgt-ai-chatbots-lesson-plans-education",
       "summary": "<p>\"So I just make my own curriculum, and sometimes I'll just use, like, ChatGPT.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/homeschool-parents-chatpgt-ai-chatbots-lesson-plans-education\">Homeschool Parents Are Planning Lessons With ChatGPT</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -298,63 +306,7 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/zuckerberg-meta-ceo-superyacht-launchpad-alaska-distress-call.jpg?quality=85&w=2048"
     },
     {
-      "title": "OVH Cloud warns of 87% price hikes to help it cover RAMpocalypse costs",
-      "link": "https://www.theregister.com/off-prem/2026/08/11/ovh-cloud-warns-of-87-price-hikes-to-help-it-cover-rampocalypse-costs/5285867",
-      "summary": "Gaming servers get the steepest rises but sticker shock is also coming to conventional instances running on old and new boxes",
-      "published": "Tue, 11 Aug 2026 07:52:13 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260550&width=800"
-    },
-    {
-      "title": "Japan kind-of completes its sovereign satnav constellation",
-      "link": "https://www.theregister.com/science/2026/08/11/japan-kind-of-completes-its-sovereign-satnav-constellation/5285838",
-      "summary": "H3 rocket gets the job done after losing a bird last year",
-      "published": "Tue, 11 Aug 2026 06:59:40 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=238265&width=800"
-    },
-    {
-      "title": "Alibaba Cloud is using AI to help it use less AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/11/alibaba-cloud-is-using-ai-to-help-it-use-less-ai/5285815",
-      "summary": "Solves tech support tickets faster and more accurately by keeping them away from LLMs",
-      "published": "Tue, 11 Aug 2026 02:48:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259127&width=800"
-    },
-    {
-      "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
-      "summary": "EU rules cited as reason for effort to trace AI output ancestry",
-      "published": "Tue, 11 Aug 2026 02:27:37 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261698&width=800"
-    },
-    {
-      "title": "Volunteers Tracking Lost Dog Baffled When Locals Trash Thermal Imaging Drone",
-      "link": "https://futurism.com/robots-and-machines/animal-dog-rescue-volunteers-drone-trashed-vandalism",
-      "summary": "<p>\"One of the most valuable rescue tools we've ever owned.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/animal-dog-rescue-volunteers-drone-trashed-vandalism\">Volunteers Tracking Lost Dog Baffled When Locals Trash Thermal Imaging Drone</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 09 Aug 2026 16:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/animal-dog-rescue-volunteers-drone-trashed-vandalism.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Hey, big spender – OpenAI has a new SKU just for you",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
-      "summary": "$125 a month? So, how good are those open-weight models getting, again?",
-      "published": "Mon, 10 Aug 2026 23:25:39 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=244264&width=800"
-    },
-    {
-      "title": "DEF CON hackers add new muscle to water utility protection",
-      "link": "https://www.theregister.com/security/2026/08/10/def-con-hackers-add-new-muscle-to-water-utility-protection/5285715",
-      "summary": "Franklin project adds new security providers, employs digital twins and AI",
-      "published": "Mon, 10 Aug 2026 23:08:04 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5285760&width=800"
-    },
-    {
-      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+      "title": "Live now: Ross Scott discusses the Stop Killing Games movement",
       "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
       "summary": "Our discussion takes place live on August 11 at 2:30 pm ET.",
       "published": "Mon, 10 Aug 2026 22:23:43 +0000",
@@ -368,62 +320,6 @@
       "published": "Mon, 10 Aug 2026 22:13:03 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg"
-    },
-    {
-      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-      "link": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-      "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
-      "published": "Mon, 10 Aug 2026 21:42:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg"
-    },
-    {
-      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-      "summary": "A reminder of the perils of digital ownership.",
-      "published": "Mon, 10 Aug 2026 21:26:38 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg"
-    },
-    {
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "published": "Mon, 10 Aug 2026 20:45:52 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg"
-    },
-    {
-      "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
-      "link": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
-      "summary": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.",
-      "published": "Mon, 10 Aug 2026 20:01:15 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-1152x648.jpg"
-    },
-    {
-      "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
-      "link": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
-      "summary": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
-      "published": "Mon, 10 Aug 2026 17:07:47 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-logo-pcb-style-1152x648.jpg"
-    },
-    {
-      "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
-      "link": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
-      "summary": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods.",
-      "published": "Mon, 10 Aug 2026 16:37:08 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-1152x648.jpg"
-    },
-    {
-      "title": "Valve slowly expands SteamOS support on non-Valve hardware",
-      "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
-      "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
-      "published": "Mon, 10 Aug 2026 16:01:04 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-1152x648.jpg"
     },
     {
       "title": "Zuckerberg’s Manifesto About the Glorious Freedoms AI Will Bring Was Completely Contradicted by His Own CTO During a Company Meeting",
@@ -466,20 +362,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/amazon-dirty-trick-build-data-center.jpg?quality=85&w=2048"
     },
     {
-      "title": "Meta Exec Rages Against Employees Asking for More Time Off Because AI Made Them More Efficient",
-      "link": "https://futurism.com/artificial-intelligence/meta-exec-rages-against-employees-more-time-off-ai",
-      "summary": "<p>\"Go to your parents and ask them: hey, like every time I get a chance to talk to my boss, ask me if I can have more days off.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-exec-rages-against-employees-more-time-off-ai\">Meta Exec Rages Against Employees Asking for More Time Off Because AI Made Them More Efficient</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 10 Aug 2026 10:17:30 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/meta-exec-rages-against-employees-more-time-off-ai.jpg?quality=85&w=2048"
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+      "published": "2026-08-11T20:39:26-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Droughts Are Getting So Intense That Ancient Ruins Are Beginning to Surface From Dried Up Rivers",
-      "link": "https://futurism.com/science-energy/european-drought-heat-wave-climate-change-danube-roman-ruins",
-      "summary": "<p>\"For archaeologists, these moments are ​extremely valuable.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/european-drought-heat-wave-climate-change-danube-roman-ruins\">Droughts Are Getting So Intense That Ancient Ruins Are Beginning to Surface From Dried Up Rivers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 10 Aug 2026 08:27:19 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/european-drought-heat-wave-climate-change-danube-roman-ruins.jpg?quality=85&w=2048"
+      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked images revealed that Xbox [&#8230;]",
+      "published": "2026-08-11T18:36:35-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "An FCC filing points to new Sonos headphones coming soon",
+      "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
+      "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A. In addition to [&#8230;]",
+      "published": "2026-08-11T17:23:30-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25475375/DSCF7410.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+      "published": "2026-08-11T15:41:42-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Threads has a VR app now",
+      "link": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+      "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that [&#8230;]",
+      "published": "2026-08-11T15:10:14-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/499619485_1363901821956630_4656091347422593965_n.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Google’s free streaming service now lets you pick shows and movies to watch",
@@ -520,46 +440,6 @@
       "published": "2026-08-11T13:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
-      "published": "2026-08-11T12:19:15-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
-      "published": "2026-08-11T10:45:44-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
-      "published": "2026-08-11T09:27:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
-      "link": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-      "summary": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max is more expensive than last year's $29.99 ES Pro, but still cheaper than Nintendo's Switch 2 [&#8230;]",
-      "published": "2026-08-11T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Bumble now lets men make the first move",
-      "link": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
-      "summary": "Bumble was famously built around exclusively giving women the power to initiate messages in heterosexual matches when it first launched in 2014 - but now the times they are a-changin' for the dating app. Today, Bumble has announced a \"global evolution to its signature conversation experience\": anyone can now send the first message, and the [&#8230;]",
-      "published": "2026-08-11T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24349708/STK144_Bumble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
