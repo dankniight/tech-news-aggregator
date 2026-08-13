@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T02:21:50.736789",
+  "lastUpdated": "2026-08-13T07:40:29.820014",
   "articles": [
     {
       "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
@@ -10,12 +10,12 @@
       "image_url": "https://image.theregister.com/?imageId=5287075&width=800"
     },
     {
-      "title": "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
-      "link": "https://www.theregister.com/databases/2026/08/12/tailscale-says-deeply-buried-16-year-old-sqlite-bug-caused-last-years-outages/5287004",
+      "title": "Deeply buried 16-year-old SQLite bug caused last year's Tailscale outages",
+      "link": "https://www.theregister.com/databases/2026/08/12/deeply-buried-16-year-old-sqlite-bug-caused-last-years-tailscale-outages/5287004",
       "summary": "Think your bugs are a pain to track? WAL-Reset took six months of hunting and development of a new logging tool to identify",
       "published": "Wed, 12 Aug 2026 23:29:09 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=252834&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5287252&width=800"
     },
     {
       "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
@@ -210,14 +210,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-1152x648.jpg"
     },
     {
-      "title": "Sovereign AI overcomes compliance challenges and feeds innovation in public sector and other regulated industries, say HPE and NVIDIA",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/sponsored-sovereign-ai-overcomes-compliance-challenges-and-feeds-innovation-in-public-sector-and-other-regulated-industries-say-hpe-and-nvidia/5285522",
-      "summary": "SPONSORED POST: Sovereign AI is becoming a strategic infrastructure priority, explain HPE's Thierry Pienaar and NVIDIA's Kaushik Shirhatti",
-      "published": "Wed, 12 Aug 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5285535&width=800"
-    },
-    {
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
       "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
@@ -240,14 +232,6 @@
       "published": "Wed, 12 Aug 2026 16:33:43 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
-    },
-    {
-      "title": "Uber Freight keeps on trucking after extortion crew breaks in",
-      "link": "https://www.theregister.com/security/2026/08/12/uber-freight-keeps-on-trucking-after-extortion-crew-breaks-in/5286782",
-      "summary": "Helix claims nearly a million files, while the logistics biz says operations never hit the brakes",
-      "published": "Wed, 12 Aug 2026 16:32:58 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255759&width=800"
     },
     {
       "title": "Tesla wants to build a $10B solar factory in Texas",
@@ -290,14 +274,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800"
     },
     {
-      "title": "Exposed: Woeful security at UK criminal records office that led to sensitive data leak",
-      "link": "https://www.theregister.com/security/2026/08/12/exposed-woeful-security-at-uk-criminal-records-office-that-led-to-sensitive-data-leak/5286736",
-      "summary": "Nobody patched the CMS or read the alerts, and ACRO still cannot tell whether info was exfiltrated",
-      "published": "Wed, 12 Aug 2026 15:40:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5282344&width=800"
-    },
-    {
       "title": "Booksellers suspect AI firms are buying and then destroying rare books",
       "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
       "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
@@ -306,28 +282,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg"
     },
     {
-      "title": "Akira ransomware scum blocked victim's security tools – and broke their own encryptor",
-      "link": "https://www.theregister.com/research/2026/08/12/akira-ransomware-scum-blocked-victims-security-tools-and-broke-their-own-encryptor/5286515",
-      "summary": "Gives a whole new meaning to Safe Mode",
-      "published": "Wed, 12 Aug 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261101&width=800"
-    },
-    {
       "title": "Driver Pulls Up Directly to Firehouse When His Tesla Inexplicably Bursts Into Flames",
       "link": "https://futurism.com/advanced-transport/tesla-driver-firehouse-fire-ev-battery",
       "summary": "<p>Yeah lemme get uhh...</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/tesla-driver-firehouse-fire-ev-battery\">Driver Pulls Up Directly to Firehouse When His Tesla Inexplicably Bursts Into Flames</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 12 Aug 2026 14:54:47 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/tesla-driver-firehouse-fire-ev-battery.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "How Voyager engineers found two more years in a 50-year-old power budget",
-      "link": "https://www.theregister.com/science/2026/08/12/how-voyager-engineers-found-two-more-years-in-a-50-year-old-power-budget/5284906",
-      "summary": "Even two-tenths of a watt matters when your spacecraft launched in 1977",
-      "published": "Wed, 12 Aug 2026 14:02:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=231647&width=800"
     },
     {
       "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
@@ -472,6 +432,46 @@
       "published": "Tue, 11 Aug 2026 12:06:17 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/official-hottest-america-ever-been.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Passwords stored in public Google Doc then showed up in search results",
+      "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
+      "summary": "Developer spotted hostname and credential string lurking in autocomplete",
+      "published": "Thu, 13 Aug 2026 09:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5287048&width=800"
+    },
+    {
+      "title": "Cisco thinks Mythos means instant death for unsupported networking kit",
+      "link": "https://www.theregister.com/networks/2026/08/13/cisco-thinks-mythos-means-instant-death-for-unsupported-networking-kit/5287204",
+      "summary": "CEO says buyers are moving fast and shuffling budgets to replace old boxen",
+      "published": "Thu, 13 Aug 2026 08:28:30 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=233710&width=800"
+    },
+    {
+      "title": "Tencent says it could make instant profits on $53bn hardware splurge by renting it for AI workloads",
+      "link": "https://www.theregister.com/off-prem/2026/08/13/tencent-says-it-could-make-instant-profits-on-53bn-hardware-splurge-by-renting-it-for-ai-workloads/5287181",
+      "summary": "Plans to build models instead because it thinks selling tokens will prove more lucrative in the long term",
+      "published": "Thu, 13 Aug 2026 06:45:21 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=233376&width=800"
+    },
+    {
+      "title": "Chinese Loongson processors have leaky caches, researchers find",
+      "link": "https://www.theregister.com/security/2026/08/13/chinese-loongson-processors-have-leaky-caches-researchers-find/5287137",
+      "summary": "Attackers could extract data, even working from inside a guest VM",
+      "published": "Thu, 13 Aug 2026 04:14:11 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5287158&width=800"
+    },
+    {
+      "title": "OpenAI ad service can bill customers for up to one day after they pause campaigns",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/13/openai-ad-service-can-bill-customers-for-up-to-one-day-after-they-pause-campaigns/5287110",
+      "summary": "ChatGPT Ads, I wish I knew how to quit you",
+      "published": "Thu, 13 Aug 2026 02:28:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259473&width=800"
     },
     {
       "title": "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
