@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T13:20:59.285338",
+  "lastUpdated": "2026-08-13T19:06:45.919991",
   "articles": [
     {
       "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
@@ -8,14 +8,6 @@
       "published": "Wed, 12 Aug 2026 23:45:16 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5287075&width=800"
-    },
-    {
-      "title": "Deeply buried 16-year-old SQLite bug caused last year's Tailscale outages",
-      "link": "https://www.theregister.com/databases/2026/08/12/deeply-buried-16-year-old-sqlite-bug-caused-last-years-tailscale-outages/5287004",
-      "summary": "Think your bugs are a pain to track? WAL-Reset took six months of hunting and development of a new logging tool to identify",
-      "published": "Wed, 12 Aug 2026 23:29:09 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5287252&width=800"
     },
     {
       "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
@@ -42,14 +34,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2014/08/2468396121_7c6c132c8e_b.jpg?w=1000"
     },
     {
-      "title": "Node.js creator liberates Durable Objects from Cloudflare",
-      "link": "https://www.theregister.com/devops/2026/08/12/nodejs-creator-liberates-durable-objects-from-cloudflare-with-celld/5286954",
-      "summary": "Same stateful trick, now with your own infrastructure",
-      "published": "Wed, 12 Aug 2026 22:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5287001&width=800"
-    },
-    {
       "title": "The web’s newest weapon against AI scrapers is a font",
       "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
       "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
@@ -66,14 +50,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
     },
     {
-      "title": "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible",
-      "link": "https://www.theregister.com/security/2026/08/12/spectre-rears-its-ugly-head-again-as-researchers-show-some-risc-v-chips-are-susceptible/5286978",
-      "summary": "Eight years on, we're still paying to hide the future glimpsed during speculative execution",
-      "published": "Wed, 12 Aug 2026 21:42:57 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=253288&width=800"
-    },
-    {
       "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
       "link": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
       "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
@@ -88,14 +64,6 @@
       "published": "Wed, 12 Aug 2026 21:00:30 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg"
-    },
-    {
-      "title": "Nvidia's latest solution to soaring enterprise AI costs is...a router?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/nvidias-latest-solution-for-soaring-enterprise-costs-nemo-switchyard-software-router/5286911",
-      "summary": "NeMo Switchyard brings GPT-5-style model routing to the mainstream",
-      "published": "Wed, 12 Aug 2026 21:00:10 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5286938&width=800"
     },
     {
       "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
@@ -130,68 +98,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg"
     },
     {
-      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-      "summary": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
-      "published": "Wed, 12 Aug 2026 18:34:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/HeaderMobileUpdate_FINAL-1-867x1024-1.png?w=861"
-    },
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "published": "Wed, 12 Aug 2026 18:19:12 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "published": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "published": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407"
-    },
-    {
-      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-      "published": "Wed, 12 Aug 2026 17:15:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/09/Uber-freight_DRONE_STILLS-0035-1.jpg?resize=1200,899"
-    },
-    {
       "title": "Two hydrogen-burning engines powered this car to a new land speed record",
       "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
       "summary": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
       "published": "Wed, 12 Aug 2026 17:01:11 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-1152x648.jpg"
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "published": "Wed, 12 Aug 2026 16:57:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854"
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
-      "published": "Wed, 12 Aug 2026 16:46:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800"
     },
     {
       "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
@@ -202,44 +114,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
     },
     {
-      "title": "Tesla wants to build a $10B solar factory in Texas",
-      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-      "published": "Wed, 12 Aug 2026 16:18:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-142036357.jpg?resize=1200,800"
-    },
-    {
-      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
-      "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
-      "published": "Wed, 12 Aug 2026 16:18:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/FF1-container-1.jpg?resize=1200,783"
-    },
-    {
       "title": "OpenAI’s “Head of Ethics” Suddenly Leaves Company Under Mysterious Circumstances",
       "link": "https://futurism.com/artificial-intelligence/openais-head-of-ethics-leaves-company",
       "summary": "<p>The timing couldn't be worse.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openais-head-of-ethics-leaves-company\">OpenAI&#8217;s &#8220;Head of Ethics&#8221; Suddenly Leaves Company Under Mysterious Circumstances</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 12 Aug 2026 16:08:28 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/openais-head-of-ethics-leaves-company.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "published": "Wed, 12 Aug 2026 16:04:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801"
-    },
-    {
-      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
-      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-      "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
-      "published": "Wed, 12 Aug 2026 15:56:13 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800"
     },
     {
       "title": "Booksellers suspect AI firms are buying and then destroying rare books",
@@ -274,36 +154,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/ice-outfit-agents-electrocution-gloves.jpg?quality=85&w=2048"
     },
     {
-      "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-      "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-      "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
-      "published": "Wed, 12 Aug 2026 13:37:12 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1233188488-1152x648.jpg"
-    },
-    {
-      "title": "Formula E finds a new home on Disney+, ESPN+",
-      "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-      "summary": "The deal starts with the arrival of the GEN4 car and 2026-27 season this December.",
-      "published": "Wed, 12 Aug 2026 13:35:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GEN4-HERO2-2048x2048-1-1152x648.jpg"
-    },
-    {
       "title": "Bernie Sanders Issues Warning to AI CEOs",
       "link": "https://futurism.com/future-society/bernie-sanders-issues-warning-to-ai-ceos",
       "summary": "<p>\"Stop building machines that humans cannot control.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/bernie-sanders-issues-warning-to-ai-ceos\">Bernie Sanders Issues Warning to AI CEOs</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 12 Aug 2026 12:43:26 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/bernie-sanders-warning-ai-industry.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Did poop enable the evolution of complex animals?",
-      "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-      "summary": "In a recent study, evolution gets even messier than usual.",
-      "published": "Wed, 12 Aug 2026 12:34:38 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/figureH-1-1098x648.jpg"
     },
     {
       "title": "Protests Against Data Centers Are Now Threatening $130 Billion of Big Tech’s Crucial Investments",
@@ -338,52 +194,116 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/google-hr-resume-applicants-deepmind-ai-hiring.jpg?quality=85&w=2048"
     },
     {
-      "title": "Farmer Horrified as AI Gives Bad Advice That Kills 25 Acres of Crops",
-      "link": "https://futurism.com/science-energy/farmer-horrified-ai-advice-agriculture-crops-sesame",
-      "summary": "<p>Tragic.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/farmer-horrified-ai-advice-agriculture-crops-sesame\">Farmer Horrified as AI Gives Bad Advice That Kills 25 Acres of Crops</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 12 Aug 2026 08:45:14 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/farmer-horrified-ai-advice-agriculture-crops-sesame.jpg?quality=85&w=2048"
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "published": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600"
     },
     {
-      "title": "Dude Asks AI Agent to Book Gym Spot, Accidentally Launches Autonomous Cyberattack",
-      "link": "https://futurism.com/future-society/ai-agent-accidental-cyberattack-gym-booking",
-      "summary": "<p>Now imagine what an actual hacker could do.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-agent-accidental-cyberattack-gym-booking\">Dude Asks AI Agent to Book Gym Spot, Accidentally Launches Autonomous Cyberattack</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Aug 2026 18:01:36 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/ai-agent-accidental-cyberattack-gym-booking.jpg?quality=85&w=2048"
+      "title": "This JCB doesn't dig – it does 406 mph",
+      "link": "https://www.theregister.com/offbeat/2026/08/13/this-jcb-doesnt-dig-it-does-406-mph/5287395",
+      "summary": "Pair of reworked production-based engines carry the Hydromax into the record books",
+      "published": "Thu, 13 Aug 2026 17:41:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5287416&width=800"
     },
     {
-      "title": "Doctors Warn That Med Students Are Surrendering Their Brains to Medical AIs That Are Even Worse than Regular Chatbots",
-      "link": "https://futurism.com/artificial-intelligence/doctors-med-students-brains-ai",
-      "summary": "<p>\"Although a doctor who has forgotten how to reason is recoverable, one who never learned how may not be.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/doctors-med-students-brains-ai\">Doctors Warn That Med Students Are Surrendering Their Brains to Medical AIs That Are Even Worse than Regular Chatbots</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Aug 2026 16:26:47 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/doctors-med-students-brains-ai.jpg?quality=85&w=2048"
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "published": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675"
     },
     {
-      "title": "Man Covers Car in Special Wrap That Breaks Flock Cameras’ Electronic Brains",
-      "link": "https://futurism.com/artificial-intelligence/man-covers-car-special-wrap-flock-cameras",
-      "summary": "<p>This is genius.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/man-covers-car-special-wrap-flock-cameras\">Man Covers Car in Special Wrap That Breaks Flock Cameras&#8217; Electronic Brains</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Aug 2026 15:21:04 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/man-covers-car-special-wrap-flock-cameras.jpg?quality=85&w=2048"
+      "title": "Trump wants to grant private cyber firms a license to hack back",
+      "link": "https://www.theregister.com/security/2026/08/13/trump-wants-to-grant-private-cyber-firms-a-license-to-hack-back/5287420",
+      "summary": "Contractors could surveil and disrupt foreign criminal networks, provided they follow strict rules and put up $1M",
+      "published": "Thu, 13 Aug 2026 17:04:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261339&width=800"
     },
     {
-      "title": "Protesters Arrested After Storming OpenAI Lobbying Office",
-      "link": "https://futurism.com/artificial-intelligence/protesters-arrested-protest-openai-washington-dc",
-      "summary": "<p>\"My friends chose to risk arrest to bring the fight to OpenAI.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/protesters-arrested-protest-openai-washington-dc\">Protesters Arrested After Storming OpenAI Lobbying Office</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Aug 2026 14:28:50 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/protesters-arrested-protest-openai-washington-dc.jpg?quality=85&w=2048"
+      "title": "The backup Microsoft never promised you",
+      "link": "https://www.theregister.com/security/2026/08/13/sponsored-the-backup-microsoft-never-promised-you/5284957",
+      "summary": "SPONSORED FEATURE: Your M365 and Azure data might not be as safe as you think from ransomware; time for a reality check",
+      "published": "Thu, 13 Aug 2026 17:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5284959&width=800"
     },
     {
-      "title": "Google Just Updated Its Home Page to Replace the “Search” Button With a Bunch of AI",
-      "link": "https://futurism.com/artificial-intelligence/google-update-home-page-ai",
-      "summary": "<p>In search of lost button.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-update-home-page-ai\">Google Just Updated Its Home Page to Replace the &#8220;Search&#8221; Button With a Bunch of AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 11 Aug 2026 12:56:47 -0400",
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "published": "Thu, 13 Aug 2026 16:37:53 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Covered-Ford-Fathom_UEV-Production-System.jpg?resize=1200,800"
+    },
+    {
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675"
+    },
+    {
+      "title": "Instagram introduces a redesigned wordmark",
+      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
+      "published": "Thu, 13 Aug 2026 15:46:02 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/instagram-new-wordmark-august-2026.jpeg?w=1080"
+    },
+    {
+      "title": "Mystery attacker spent a year raiding Salesforce and ServiceNow portals",
+      "link": "https://www.theregister.com/cyber-crime/2026/08/13/mystery-attacker-spent-a-year-raiding-salesforce-and-servicenow-portals/5287368",
+      "summary": "Custom tools harvested whatever over-permissioned guest accounts would surrender",
+      "published": "Thu, 13 Aug 2026 15:32:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094178&width=800"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "published": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675"
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "published": "Thu, 13 Aug 2026 15:08:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800"
+    },
+    {
+      "title": "Who really needs a cocktail robot?",
+      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "published": "Thu, 13 Aug 2026 15:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/bartesian-margarita-17.jpg?resize=1200,800"
+    },
+    {
+      "title": "Giant Oil Tanker Runs Aground in Marine Nature Preserve, Spills Nonstop for Weeks",
+      "link": "https://futurism.com/science-energy/giant-oil-tanker-leaking-oil-oman-nature-preserve",
+      "summary": "<p>\"A nightmare scenario is there's no adequate response to keep the worst ‌from happening.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/giant-oil-tanker-leaking-oil-oman-nature-preserve\">Giant Oil Tanker Runs Aground in Marine Nature Preserve, Spills Nonstop for Weeks</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 13 Aug 2026 14:53:20 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/google-update-home-page-ai.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/giant-oil-tanker-leaking-oil-oman-nature-preserve.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "published": "Thu, 13 Aug 2026 14:34:43 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800"
     },
     {
       "title": "Ryanair adds Google to its dual-cloud flight plan",
@@ -394,12 +314,68 @@
       "image_url": "https://image.theregister.com/?imageId=5273664&width=800"
     },
     {
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+      "published": "Thu, 13 Aug 2026 14:09:05 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1050765184.jpg?resize=1200,800"
+    },
+    {
+      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+      "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+      "summary": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
+      "published": "Thu, 13 Aug 2026 14:00:57 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/260701_BRANDON-DELA-CRUZ_MY27-ESKER-R1_1441_final-1152x648.jpg"
+    },
+    {
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+      "published": "Thu, 13 Aug 2026 13:58:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
+    },
+    {
+      "title": "Insane Dad Boasts About Using AI to Construct a “Truman Show” Style False Reality For His Son To Play In",
+      "link": "https://futurism.com/artificial-intelligence/dad-uses-ai-fake-reality-kid-play-in",
+      "summary": "<p>\"This is dystopian and incredibly depressing.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/dad-uses-ai-fake-reality-kid-play-in\">Insane Dad Boasts About Using AI to Construct a &#8220;Truman Show&#8221; Style False Reality For His Son To Play In</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 13 Aug 2026 13:52:01 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/dad-uses-ai-fake-reality-kid-play-in.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+      "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+      "summary": "Let's shield the astronauts instead of the spacecraft.",
+      "published": "Thu, 13 Aug 2026 13:48:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacevest-1152x648.jpg"
+    },
+    {
       "title": "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
       "link": "https://www.theregister.com/security/2026/08/13/aws-key-exposed-in-javascript-may-have-lit-way-to-beacons-charity-data/5287303",
       "summary": "CRM provider confirms customer database was copied and probably downloaded in readable form",
       "published": "Thu, 13 Aug 2026 13:34:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=1681829&width=800"
+    },
+    {
+      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+      "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
+      "published": "Thu, 13 Aug 2026 13:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Schneider-Wang-Disrupt-Stage-2026.png?w=1200"
+    },
+    {
+      "title": "College Kids Are Using AI Agents to “Take” Entire Online Classes for Them by Logging Directly Into the Course Management Software",
+      "link": "https://futurism.com/artificial-intelligence/college-kids-ai-agents-cheat-online-courses",
+      "summary": "<p>\"Am I just interacting with bots here?\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/college-kids-ai-agents-cheat-online-courses\">College Kids Are Using AI Agents to &#8220;Take&#8221; Entire Online Classes for Them by Logging Directly Into the Course Management Software</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 13 Aug 2026 12:46:49 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/college-kids-ai-agents-cheat-online-courses.jpg?quality=85&w=2048"
     },
     {
       "title": "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
@@ -410,6 +386,14 @@
       "image_url": "https://image.theregister.com/?imageId=251692&width=800"
     },
     {
+      "title": "Facebook Is Filling With Viral AI-Generated Silver Foxes Wooing Women by Ranting About How Terrible Men Are",
+      "link": "https://futurism.com/artificial-intelligence/ai-generated-silver-foxes-facebook",
+      "summary": "<p>\"We live in a generation where women have to become the man, because the men are busy acting like the princess...\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-generated-silver-foxes-facebook\">Facebook Is Filling With Viral AI-Generated Silver Foxes Wooing Women by Ranting About How Terrible Men Are</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 13 Aug 2026 11:52:36 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/ai-generated-silver-foxes-facebook.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Everything is better with pickles... except Windows",
       "link": "https://www.theregister.com/offbeat/2026/08/13/everything-is-better-with-pickles-except-windows/5284978",
       "summary": "Operating system indigestion pops up over chicken sandwich ad",
@@ -418,12 +402,28 @@
       "image_url": "https://image.theregister.com/?imageId=5284998&width=800"
     },
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
       "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
       "summary": "The mark flags anything Claude processed, even human writing it only edited.",
       "published": "Thu, 13 Aug 2026 11:10:18 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg"
+    },
+    {
+      "title": "Phoebe Gates Took Secret Stanford Course on Controlling Society, Used It to Recruit for Her Startup That’s Now Facing Accusations",
+      "link": "https://futurism.com/future-society/phoebe-gates-secret-stanford-course",
+      "summary": "<p>\"How to essentially hack any kind of power structure or bureaucratic structure and get what they want in a system of people.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/phoebe-gates-secret-stanford-course\">Phoebe Gates Took Secret Stanford Course on Controlling Society, Used It to Recruit for Her Startup That&#8217;s Now Facing Accusations</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 13 Aug 2026 10:54:55 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/phoebe-gates-linked-secret-stanford-class-controlling-society.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Organisms Living Inside Psychopaths Could Be Driving Bad Behavior, Scientists Claim",
+      "link": "https://futurism.com/health-medicine/psychopaths-microbiome",
+      "summary": "<p>\"To our knowledge, this is the first study to explore this association.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/psychopaths-microbiome\">Organisms Living Inside Psychopaths Could Be Driving Bad Behavior, Scientists Claim</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 13 Aug 2026 09:55:38 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/psychopath-organisms-inside-driving-behavior.jpg?quality=85&w=2048"
     },
     {
       "title": "Passwords stored in public Google Doc then showed up in search results",
@@ -482,84 +482,84 @@
       "image_url": "https://image.theregister.com/?imageId=5287107&width=800"
     },
     {
-      "title": "Nintendo’s next Fire Emblem has a bold new structure",
-      "link": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
-      "summary": "Nintendo's first Fire Emblem game for the Switch 2 is structured in an ambitious way. Unlike the well-loved Three Houses, a strategy game that tasked you with pledging allegiance to a specific faction and seeing their story all the way to the end, the new Fortune's Weave lets you swap between four heroes and their [&#8230;]",
-      "published": "2026-08-13T09:00:00-04:00",
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. [&#8230;]",
+      "published": "2026-08-13T14:56:13-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NintendoSwitch2_FEFW_Scrn_14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318432/akrales_220309_4977_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Flock CEO: ‘We got this one wrong’",
-      "link": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
-      "summary": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's changed his mind on what responsibility Flock bears for how law enforcement uses [&#8230;]",
-      "published": "2026-08-13T09:00:00-04:00",
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But [&#8230;]",
+      "published": "2026-08-13T14:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268689_Robot_Lawnmower_JTuohy_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-      "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-      "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might be something of a cringefest. [&#8230;]",
-      "published": "2026-08-12T17:30:00-04:00",
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature [&#8230;]",
+      "published": "2026-08-13T14:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
-      "link": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
-      "summary": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legends on the rounded [&#8230;]",
-      "published": "2026-08-12T17:21:09-04:00",
+      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+      "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a [&#8230;]",
+      "published": "2026-08-13T12:38:15-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/8bitdo-mechanical-keyboard-buttons-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1786633272694.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
-      "link": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
-      "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will [&#8230;]",
-      "published": "2026-08-12T17:07:17-04:00",
+      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+      "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+      "summary": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers [&#8230;]",
+      "published": "2026-08-13T12:23:18-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/petlibro-granary.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Covered-Ford-Fathom_Vehicle-Carrier.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The next big indie game publisher is taking some exciting swings",
-      "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
-      "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's publishing the next game from Telling Lies and [&#8230;]",
-      "published": "2026-08-12T15:30:00-04:00",
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like [&#8230;]",
+      "published": "2026-08-13T12:10:06-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/KP-Pregonition-Keyart-16x9-1920px.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-      "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
-      "summary": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 18e and a new iPhone Air [&#8230;]",
-      "published": "2026-08-12T15:27:47-04:00",
+      "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+      "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New [&#8230;]",
+      "published": "2026-08-13T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/GSX_DSC_0455.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-      "summary": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold starts at $1,899. The watch comes [&#8230;]",
-      "published": "2026-08-12T13:47:54-04:00",
+      "title": "Suno is trying to look more like a real music production tool",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
+      "published": "2026-08-13T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Matte-Black-on-Stands.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-      "published": "2026-08-12T13:29:10-04:00",
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to [&#8230;]",
+      "published": "2026-08-13T11:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-      "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-      "summary": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance. The [&#8230;]",
-      "published": "2026-08-12T13:00:00-04:00",
+      "title": "This is Instagram&#8217;s new logo",
+      "link": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
+      "summary": "Instagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally says \"Instagzam,\" right? \"The wordmark at the top of the app hasn't changed in 10 years, [&#8230;]",
+      "published": "2026-08-13T11:00:38-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-green-back.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Instagram-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
