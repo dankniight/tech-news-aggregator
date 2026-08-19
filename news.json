@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-08-19T06:51:07.112450",
+  "lastUpdated": "2026-08-19T12:54:54.224192",
   "articles": [
+    {
+      "title": "Postgres pioneer credits Oracle with helping his database take over the world",
+      "link": "https://www.theregister.com/databases/2026/08/19/postgres-pioneer-credits-oracle-with-helping-his-database-take-over-the-world/5289087",
+      "summary": "Big Red's acquisition of MySQL sent users running toward the open source alternative, says Michael Stonebraker",
+      "published": "Wed, 19 Aug 2026 14:37:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=170448&width=800"
+    },
+    {
+      "title": "GitHub blames 8-hour outage on autoscaling fail and VS Code retry storm",
+      "link": "https://www.theregister.com/saas/2026/08/19/github-blames-8-hour-outage-on-autoscaling-fail-and-vs-code-retry-storm/5289547",
+      "summary": "Load balancers buckled after a monitoring blind spot allowed traffic to spiral",
+      "published": "Wed, 19 Aug 2026 13:40:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=243768&width=800"
+    },
+    {
+      "title": "Scotland's AI Growth Zone gets a wee £300M power-up",
+      "link": "https://www.theregister.com/on-prem/2026/08/19/scotlands-ai-growth-zone-gets-a-wee-300m-power-up/5289042",
+      "summary": "DataVita secures funding to expand datacenter capacity, while Dell brings some desks",
+      "published": "Wed, 19 Aug 2026 13:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5289080&width=800"
+    },
+    {
+      "title": "SAP consultant job ads overshoot final offers by up to 12%, recruiter claims",
+      "link": "https://www.theregister.com/software/2026/08/19/sap-consultant-job-ads-overshoot-final-offers-by-up-to-12-recruiter-claims/5289467",
+      "summary": "Both sides apparently start high then price in the inevitable haggle",
+      "published": "Wed, 19 Aug 2026 12:10:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=255122&width=800"
+    },
+    {
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "summary": "It's the data, stupid.",
+      "published": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200"
+    },
+    {
+      "title": "You can Venmo your college tuition, for some reason",
+      "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+      "summary": "Kids these days don't know how good they have it.",
+      "published": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800"
+    },
+    {
+      "title": "Raspberry Pi gets jiggy with batch CM5 provisioning",
+      "link": "https://www.theregister.com/edge-and-iot/2026/08/19/raspberry-pi-gets-jiggy-with-batch-cm5-provisioning/5289499",
+      "summary": "Clamp, flash, repeat – no separate IO board or host computer required",
+      "published": "Wed, 19 Aug 2026 11:42:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5289525&width=800"
+    },
+    {
+      "title": "UK taxman discovers low code doesn't mean low cost with £657M awards",
+      "link": "https://www.theregister.com/public-sector/2026/08/19/uk-taxman-discovers-low-code-doesnt-mean-low-cost-with-657m-awards/5288634",
+      "summary": "Those legacy systems won't fix themselves",
+      "published": "Wed, 19 Aug 2026 10:44:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5288694&width=800"
+    },
+    {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "published": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772"
+    },
+    {
+      "title": "Teachers Warn That Students Are Losing the Ability to Think as They Lean on AI for Everything",
+      "link": "https://futurism.com/future-society/students-lose-ability-think-ai",
+      "summary": "<p>\"If writing is thinking, then any part of the struggle that is outsourced to technology amounts to relinquishing some freedom to perceive.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/students-lose-ability-think-ai\">Teachers Warn That Students Are Losing the Ability to Think as They Lean on AI for Everything</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 19 Aug 2026 08:49:05 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/students-lose-ability-think-ai.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "NASA estimates the size of the hole SpaceX made in the moon",
+      "link": "https://www.theregister.com/offbeat/2026/08/19/nasa-estimates-the-size-of-the-hole-spacex-made-in-the-moon/5289425",
+      "summary": "As the latest Starship finds its way to an obscure part of Australia, for observations",
+      "published": "Wed, 19 Aug 2026 08:15:40 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5289450&width=800"
+    },
     {
       "title": "Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues",
       "link": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
@@ -98,9 +186,9 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg"
     },
     {
-      "title": "Meta and Google mobile apps gorge on user data: Study",
-      "link": "https://www.theregister.com/personal-tech/2026/08/18/meta-and-google-mobile-apps-gorge-on-user-data-study/5289171",
-      "summary": "Zuck's empire declares triple the appetite of Apple or Microsoft, while Google packs the leaderboard, dev survey shows",
+      "title": "Study finds Meta and Google mobile apps gorge on user data",
+      "link": "https://www.theregister.com/personal-tech/2026/08/18/study-finds-meta-and-google-mobile-apps-gorge-on-user-data/5289171",
+      "summary": "Zuck's empire declares triple the appetite of Apple or Microsoft, while Google packs the leaderboard, survey shows",
       "published": "Tue, 18 Aug 2026 18:01:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5240624&width=800"
@@ -186,14 +274,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000"
     },
     {
-      "title": "Tim King, AmigaDOS royalty, dies aged 70",
-      "link": "https://www.theregister.com/software/2026/08/18/tim-king-amigados-royalty-dies-aged-70/5289101",
-      "summary": "Parallel computing pioneer went on to found early British ISP UK Online",
-      "published": "Tue, 18 Aug 2026 16:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254902&width=800"
-    },
-    {
       "title": "Fairphone's latest repairable phone is finally available in the US for $650",
       "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
       "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
@@ -234,14 +314,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2205537583.jpg?resize=1200,800"
     },
     {
-      "title": "Microsoft finally fixing File Explorer and the Context Menu",
-      "link": "https://www.theregister.com/os-platforms/2026/08/18/microsoft-finally-fixing-file-explorer-and-the-context-menu/5289121",
-      "summary": "Time to flex that Windows 10 muscle memory",
-      "published": "Tue, 18 Aug 2026 15:17:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257334&width=800"
-    },
-    {
       "title": "X-rays add new twist to narwhal's spiral tusk",
       "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
       "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
@@ -250,28 +322,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/narwhalTOP-1152x648.jpg"
     },
     {
-      "title": "Copilot tricked into telling reseachers how to hack itself",
-      "link": "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857",
-      "summary": "How to social engineer an AI's reasoning engine",
-      "published": "Tue, 18 Aug 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5288896&width=800"
-    },
-    {
       "title": "Journalist Alarmed When His Tesla Running FSD Tries to Veer Off Highway and Plunge Into a Ditch",
       "link": "https://futurism.com/future-society/journalist-tesla-fsd-serve-highway",
       "summary": "<p>\"My girlfriend, sitting in the passenger seat, screamed in fear.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/journalist-tesla-fsd-serve-highway\">Journalist Alarmed When His Tesla Running FSD Tries to Veer Off Highway and Plunge Into a Ditch</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 18 Aug 2026 14:57:14 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/journalist-tesla-fsd-serve-highway.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Government Teams users face another ******* month of filtered captions",
-      "link": "https://www.theregister.com/software/2026/08/18/government-teams-users-face-another-month-of-filtered-captions/5288985",
-      "summary": "Officials must wait a little longer before Live Captions tells it like it is",
-      "published": "Tue, 18 Aug 2026 14:05:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254894&width=800"
     },
     {
       "title": "Department of Homeland Security Seeking Humanoid Robots to Patrol Southern Border",
@@ -290,38 +346,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/anthro-energy-electrolyte.jpg?resize=1200,675"
     },
     {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "published": "Tue, 18 Aug 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750"
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675"
-    },
-    {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "published": "Tue, 18 Aug 2026 13:45:40 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800"
-    },
-    {
-      "title": "Passport out-of-control at French airport",
-      "link": "https://www.theregister.com/os-platforms/2026/08/18/passport-out-of-control-at-french-airport/5288697",
-      "summary": "Papers please. Windows is watching",
-      "published": "Tue, 18 Aug 2026 13:20:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5288708&width=800"
-    },
-    {
       "title": "In New Low, Flock CEO Insists His AI-Surveillance Cameras Could Have Solved the Nancy Guthrie Case",
       "link": "https://futurism.com/future-society/flock-ceo-new-low-alpr-nancy-guthrie-tucson-arizona",
       "summary": "<p>\"There's no doubt in my mind.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/flock-ceo-new-low-alpr-nancy-guthrie-tucson-arizona\">In New Low, Flock CEO Insists His AI-Surveillance Cameras Could Have Solved the Nancy Guthrie Case</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -338,28 +362,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
     },
     {
-      "title": "Sponsor gives KDE Plasma 6.6 the LTS treatment",
-      "link": "https://www.theregister.com/software/2026/08/18/sponsor-gives-kde-plasma-66-the-lts-treatment/5288531",
-      "summary": "Kubuntu 26.04 gets three years of fixes for the desktop, frameworks, and apps",
-      "published": "Tue, 18 Aug 2026 12:34:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5288646&width=800"
-    },
-    {
       "title": "If You Thought Pervert Glasses Were Bad, Wait Till You See Apple’s Leaked AirPods",
       "link": "https://futurism.com/future-society/apple-leaked-airpods-privacy",
       "summary": "<p>\"You're the Flock camera now.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/apple-leaked-airpods-privacy\">If You Thought Pervert Glasses Were Bad, Wait Till You See Apple&#8217;s Leaked AirPods</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 18 Aug 2026 12:11:18 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/apple-leaked-airpods-privacy.png?quality=85"
-    },
-    {
-      "title": "UK puts Google AI on the flight path to fewer contrails",
-      "link": "https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516",
-      "summary": "Trial will test whether small route and altitude tweaks can reduce aviation's warming impact",
-      "published": "Tue, 18 Aug 2026 11:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5288528&width=800"
     },
     {
       "title": "Hospitals Are Getting So Hot That Surgeries Are Getting Canceled and Staff Are Fainting",
@@ -400,14 +408,6 @@
       "published": "Tue, 18 Aug 2026 04:00:40 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1152x648.jpg"
-    },
-    {
-      "title": "There’s Pretty Much No Good Way to Fight an Electric Vehicle Fire, New Study Finds",
-      "link": "https://futurism.com/advanced-transport/electric-vehicle-fire-thermal-runaway-water",
-      "summary": "<p>\"Applying copious amounts of water to the battery enclosure is wasteful and will not stop thermal runaway.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/electric-vehicle-fire-thermal-runaway-water\">There&#8217;s Pretty Much No Good Way to Fight an Electric Vehicle Fire, New Study Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 16 Aug 2026 14:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/electric-vehicle-fire-thermal-runaway-water.jpg?quality=85&w=2048"
     },
     {
       "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
@@ -482,6 +482,54 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&w=2048"
     },
     {
+      "title": "Amazon seemingly leaked Jason Statham’s entire Mutiny movie",
+      "link": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
+      "summary": "Jason Statham's upcoming film Mutiny is set to hit theaters on August 21st, but it can already be streamed in full on the US version of Amazon's Prime Video service. My colleague Dominic Preston was able to verify that all 1 hour and 35 minutes of the movie is available to watch on Amazon's streaming [&#8230;]",
+      "published": "2026-08-19T08:32:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Amazon-Prime-Video-Mutiny-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nvidia’s new financial strategy does not compute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
+      "published": "2026-08-19T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The women’s soccer league trying to fix fantasy sports",
+      "link": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
+      "summary": "Most fantasy sports leagues suffer the same problem: retention. Leagues play out over monthslong seasons, require regular attention, and can punish players severely for missing even a single week. I've started Fantasy Premier League (FPL) multiple times, but never finished a season. That's a problem for any fantasy league, but especially so for a new [&#8230;]",
+      "published": "2026-08-19T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/wsl-fantasy-football.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+      "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+      "summary": "Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to the current footprint. Prime Air deliveries will soon be launched in the Chicago, Illinois; Syracuse, New York; Cleveland, Ohio; Atlanta, Georgia; and Boise, Idaho [&#8230;]",
+      "published": "2026-08-19T07:53:27-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2287919551.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The everyday tech I use to track my corgi",
+      "link": "https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking",
+      "summary": "The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your pet. I attach it to my corgi Jelly's collar via a matching silicone holder. Have I ever once [&#8230;]",
+      "published": "2026-08-19T07:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_CORGI_TRAKCER.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Framework gave its 12-inch laptop some hardware upgrades",
+      "link": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
+      "summary": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for the Framework Laptop 12 now starts at $699 - $100 less than the previous version when it launched last year. Preorders are open now, with the first [&#8230;]",
+      "published": "2026-08-19T06:14:26-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Framework-Laptop-12-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
       "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
       "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. This [&#8230;]",
@@ -512,54 +560,6 @@
       "published": "2026-08-18T13:47:04-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-      "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-      "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that offer \"lifelike sound across the entire audible spectrum,\" Sony says. [&#8230;]",
-      "published": "2026-08-18T13:18:57-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple squashes EU beef with new App Store rules",
-      "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
-      "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a single set of business terms, and digital transactions for apps distributed [&#8230;]",
-      "published": "2026-08-18T12:48:26-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_G-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-      "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
-      "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Information, Tesla is planning a public launch of the Cybercab in [&#8230;]",
-      "published": "2026-08-18T12:26:29-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Peacock is raising prices by up to $3",
-      "link": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-      "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getting the biggest hike, jumping from [&#8230;]",
-      "published": "2026-08-18T10:11:39-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002656/acastro_STK105_peacock_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
-      "link": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
-      "summary": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew attention to its habit of disappearing nearly completed movies in order to cash in on [&#8230;]",
-      "published": "2026-08-18T09:35:35-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CVA-Still-8.jpg?quality=90&#038;strip=all&#038;crop=0,13.543332248264,100,72.120003255208"
-    },
-    {
-      "title": "Comcast is turning millions of its routers into motion detectors",
-      "link": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
-      "summary": "Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature on compatible Xfinity routers at no extra cost. Announced as part of its new Xfinity Shield service, WiFi [&#8230;]",
-      "published": "2026-08-18T09:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/XFN_Lifestyle_DEC25_008_HR_260318.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
