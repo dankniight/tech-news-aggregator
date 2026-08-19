@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-08-18T18:43:03.192144",
+  "lastUpdated": "2026-08-19T01:34:11.412563",
   "articles": [
+    {
+      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+      "link": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+      "summary": "Next-gen systems double per-chip performance while cramming 3x as many into a rack",
+      "published": "Wed, 19 Aug 2026 02:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5289328&width=800"
+    },
+    {
+      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+      "summary": "Expanded multistage chain of thought monitoring makes frontier model work more expensive",
+      "published": "Wed, 19 Aug 2026 01:36:36 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260353&width=800"
+    },
+    {
+      "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+      "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+      "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
+      "published": "Tue, 18 Aug 2026 22:32:46 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-1152x648.jpg"
+    },
+    {
+      "title": "Expired credit cards revived by researchers to make unauthorized payments",
+      "link": "https://www.theregister.com/security/2026/08/18/expired-credit-cards-revived-by-researchers-to-make-unauthorized-payments/5289229",
+      "summary": "Gaps in expiry checks could let dead plastic make purchases again",
+      "published": "Tue, 18 Aug 2026 22:20:28 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243747&width=800"
+    },
+    {
+      "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+      "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
+      "published": "Tue, 18 Aug 2026 22:18:13 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.13.55-PM-1152x648.png"
+    },
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800"
+    },
+    {
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "published": "Tue, 18 Aug 2026 20:36:20 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675"
+    },
+    {
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "published": "Tue, 18 Aug 2026 20:03:56 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
+    },
+    {
+      "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+      "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+      "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+      "published": "Tue, 18 Aug 2026 19:01:09 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ship40_2-1152x648-1787078981.jpg"
+    },
+    {
+      "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+      "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+      "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+      "published": "Tue, 18 Aug 2026 18:11:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg"
+    },
+    {
+      "title": "Meta and Google mobile apps gorge on user data: Study",
+      "link": "https://www.theregister.com/personal-tech/2026/08/18/meta-and-google-mobile-apps-gorge-on-user-data-study/5289171",
+      "summary": "Zuck's empire declares triple the appetite of Apple or Microsoft, while Google packs the leaderboard, dev survey shows",
+      "published": "Tue, 18 Aug 2026 18:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5240624&width=800"
+    },
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -60,7 +148,7 @@
     {
       "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
       "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+      "summary": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
       "published": "Tue, 18 Aug 2026 16:39:05 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/xfinity-1232480636.jpg?w=1024"
@@ -154,6 +242,14 @@
       "image_url": "https://image.theregister.com/?imageId=5288896&width=800"
     },
     {
+      "title": "Journalist Alarmed When His Tesla Running FSD Tries to Veer Off Highway and Plunge Into a Ditch",
+      "link": "https://futurism.com/future-society/journalist-tesla-fsd-serve-highway",
+      "summary": "<p>\"My girlfriend, sitting in the passenger seat, screamed in fear.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/journalist-tesla-fsd-serve-highway\">Journalist Alarmed When His Tesla Running FSD Tries to Veer Off Highway and Plunge Into a Ditch</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 18 Aug 2026 14:57:14 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/journalist-tesla-fsd-serve-highway.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Government Teams users face another ******* month of filtered captions",
       "link": "https://www.theregister.com/software/2026/08/18/government-teams-users-face-another-month-of-filtered-captions/5288985",
       "summary": "Officials must wait a little longer before Live Captions tells it like it is",
@@ -202,14 +298,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800"
     },
     {
-      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
-      "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
-      "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
-      "published": "Tue, 18 Aug 2026 13:28:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/PXL_20240909_184838058.PORTRAIT.jpg?resize=1200,900"
-    },
-    {
       "title": "Passport out-of-control at French airport",
       "link": "https://www.theregister.com/os-platforms/2026/08/18/passport-out-of-control-at-french-airport/5288697",
       "summary": "Papers please. Windows is watching",
@@ -232,14 +320,6 @@
       "published": "Tue, 18 Aug 2026 13:00:04 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-    },
-    {
-      "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
-      "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
-      "published": "Tue, 18 Aug 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800"
     },
     {
       "title": "Sponsor gives KDE Plasma 6.6 the LTS treatment",
@@ -290,14 +370,6 @@
       "image_url": "https://image.theregister.com/?imageId=5288899&width=800"
     },
     {
-      "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-      "summary": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V.",
-      "published": "Tue, 18 Aug 2026 11:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800"
-    },
-    {
       "title": "UK's tech talent pipeline shrinks as overseas worker visa applications fall 7%",
       "link": "https://www.theregister.com/cxo/2026/08/18/uks-tech-talent-pipeline-shrinks-as-overseas-worker-visa-applications-fall-7/5288476",
       "summary": "Third consecutive annual decline adds to concerns about shortages of specialist skills",
@@ -322,22 +394,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/expert-witness-chatgpt-logs-court.jpg?quality=85&w=2048"
     },
     {
-      "title": "Google buys crashed airline Spirit’s data at auction, because AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "summary": "$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP",
-      "published": "Tue, 18 Aug 2026 08:43:06 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5273664&width=800"
-    },
-    {
-      "title": "Microsoft MVP creates site to remind you of all the brands Redmond replaced",
-      "link": "https://www.theregister.com/software/2026/08/18/microsoft-mvp-creates-site-to-remind-you-of-all-the-brands-redmond-replaced/5288937",
-      "summary": "If you’re still talking about ‘DirSync’ or ‘Active Directory’ instead of ‘Entra’, and need to explain why, this is the site for you",
-      "published": "Tue, 18 Aug 2026 07:20:18 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1619823&width=800"
-    },
-    {
       "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
       "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
       "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
@@ -346,36 +402,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1152x648.jpg"
     },
     {
-      "title": "Xen Project gets serious about safety in push to possibly partition robot brains",
-      "link": "https://www.theregister.com/virtualization/2026/08/18/xen-project-gets-serious-about-safety-in-push-to-possibly-partition-robot-brains/5288914",
-      "summary": "Boeing quietly joins FOSS hypervisor crew, as AMD and Renesas lead new effort to comply with formal standards",
-      "published": "Tue, 18 Aug 2026 03:59:37 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=231000&width=800"
-    },
-    {
       "title": "There’s Pretty Much No Good Way to Fight an Electric Vehicle Fire, New Study Finds",
       "link": "https://futurism.com/advanced-transport/electric-vehicle-fire-thermal-runaway-water",
       "summary": "<p>\"Applying copious amounts of water to the battery enclosure is wasteful and will not stop thermal runaway.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/electric-vehicle-fire-thermal-runaway-water\">There&#8217;s Pretty Much No Good Way to Fight an Electric Vehicle Fire, New Study Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Sun, 16 Aug 2026 14:01:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/electric-vehicle-fire-thermal-runaway-water.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Experts Warn That AI Slop Is Corrupting Kids’ Brains",
-      "link": "https://futurism.com/artificial-intelligence/experts-gnet-ai-fruit-slop-corrupting-violence-extremism",
-      "summary": "<p>\"Violence-based AI slops reinforce a fascination with violence for violence's sake.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/experts-gnet-ai-fruit-slop-corrupting-violence-extremism\">Experts Warn That AI Slop Is Corrupting Kids&#8217; Brains</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 16 Aug 2026 13:02:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/experts-gnet-ai-fruit-slop-corrupting-violence-extremism.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Almost nobody pays attention to web standards anymore",
-      "link": "https://www.theregister.com/devops/2026/08/17/almost-nobody-pays-attention-to-web-standards-anymore/5288782",
-      "summary": "Screen readers suffer as nearly 90% of top websites tested contain HTML spec violations",
-      "published": "Mon, 17 Aug 2026 23:35:01 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5288829&width=800"
     },
     {
       "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
@@ -392,38 +424,6 @@
       "published": "Mon, 17 Aug 2026 21:18:49 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg"
-    },
-    {
-      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-      "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-      "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
-      "published": "Mon, 17 Aug 2026 20:23:09 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_1550-1-1152x648.jpg"
-    },
-    {
-      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-      "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-      "summary": "\"Network effect\" can run in reverse.",
-      "published": "Mon, 17 Aug 2026 20:14:23 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
-    },
-    {
-      "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-      "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-      "published": "Mon, 17 Aug 2026 20:00:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg"
-    },
-    {
-      "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-      "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-      "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
-      "published": "Mon, 17 Aug 2026 18:43:51 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Granary_2-PC-LP-04-3-880x648.webp"
     },
     {
       "title": "AI Billionaires Are So Greedy That They’re Supercharging Sales of Yachts and Private Jets",
@@ -482,12 +482,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&w=2048"
     },
     {
+      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+      "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+      "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. This [&#8230;]",
+      "published": "2026-08-18T16:01:01-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Steelseries-Arctis-Nova-3P-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+      "published": "2026-08-18T15:48:26-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371"
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+      "published": "2026-08-18T15:28:30-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
       "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
       "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency [&#8230;]",
       "published": "2026-08-18T13:47:04-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
@@ -536,30 +560,6 @@
       "published": "2026-08-18T09:30:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/XFN_Lifestyle_DEC25_008_HR_260318.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "ABC sues the FCC over Trump and Carr&#8217;s campaign of threats",
-      "link": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
-      "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company Disney accuse the FCC of \"punishing ABC for its speech\" by threatening its broadcast licenses. It's the latest [&#8230;]",
-      "published": "2026-08-18T09:27:43-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Image-Cath-Virginia-_-The-Verge-Getty-Images.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
-      "link": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
-      "summary": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pok&#233;mon. The new collection goes a little harder than Fujifilm's Pok&#233;mon collaboration from five years ago with the introduction of Polaroid film printed with various characters around the frames, including Pikachu and Snorlax. [&#8230;]",
-      "published": "2026-08-18T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/polaroid1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
-      "published": "2026-08-18T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
