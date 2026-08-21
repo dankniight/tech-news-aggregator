@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T01:37:54.824304",
+  "lastUpdated": "2026-08-21T06:53:43.166189",
   "articles": [
     {
       "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
@@ -114,6 +114,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675"
     },
     {
+      "title": "Go updates may delight diehard gophers but displease AI overlords",
+      "link": "https://www.theregister.com/devops/2026/08/20/go-updates-may-delight-diehard-gophers-but-displease-ai-overlords/5290643",
+      "summary": "v 1.27 expands generics to support methods",
+      "published": "Thu, 20 Aug 2026 23:14:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5290671&width=800"
+    },
+    {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
@@ -136,6 +144,22 @@
       "published": "Thu, 20 Aug 2026 22:00:11 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg"
+    },
+    {
+      "title": "OpenAI chases Anthropic's biz customers with zero data retention pledge",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/20/openai-chases-anthropics-biz-customers-with-zero-data-retention-pledge/5290609",
+      "summary": "With Private Safety Processing, AI biz promises discreet, automated prompt surveillance",
+      "published": "Thu, 20 Aug 2026 21:59:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5290632&width=800"
+    },
+    {
+      "title": "Waymo has designed a robocar chip to stay ahead of Tesla",
+      "link": "https://www.theregister.com/edge-and-iot/2026/08/20/waymo-has-designed-a-robocar-chip-to-stay-ahead-of-tesla/5290592",
+      "summary": "5 nm ML accelerators promise 1,000+ TOPS, ultra-low latency",
+      "published": "Thu, 20 Aug 2026 21:41:58 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227785&width=800"
     },
     {
       "title": "Europe cancels planned upgrades for Ariane 6 rocket",
@@ -186,6 +210,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2243536353.jpg?w=1024"
     },
     {
+      "title": "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
+      "link": "https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560",
+      "summary": "Follow the money",
+      "published": "Thu, 20 Aug 2026 19:30:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239008&width=800"
+    },
+    {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
       "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
@@ -210,12 +242,36 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/image004.png?resize=1200,835"
     },
     {
+      "title": "Microsoft gives Task Manager another task: Watching AI workloads",
+      "link": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
+      "summary": "Per-process NPU metrics arrive as one more venerable Windows utility risks feature bloat",
+      "published": "Thu, 20 Aug 2026 18:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5290518&width=800"
+    },
+    {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "published": "Thu, 20 Aug 2026 18:20:35 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200"
+    },
+    {
+      "title": "US claims 15 of the world's top 20 hyperscale datacenter locations",
+      "link": "https://www.theregister.com/off-prem/2026/08/20/us-claims-15-of-the-worlds-top-20-hyperscale-datacenter-locations/5290436",
+      "summary": "Northern Virginia alone accounts for nearly 12% of global capacity, though new builds are shifting inland",
+      "published": "Thu, 20 Aug 2026 18:12:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261440&width=800"
+    },
+    {
+      "title": "Researcher tricks Apple’s Find My into sharing location data with Linux",
+      "link": "https://www.theregister.com/security/2026/08/20/researcher-tricks-apples-find-my-into-sharing-location-data-with-linux/5290496",
+      "summary": "Clever protocol wrangling gets iBiz-only people tracking working on a non-iGadget",
+      "published": "Thu, 20 Aug 2026 18:10:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5290528&width=800"
     },
     {
       "title": "Grok keeps sending gibberish responses to users",
@@ -234,6 +290,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/54887557417_966f146916_k.jpg?resize=1200,800"
     },
     {
+      "title": "Slack Code taps into collective vibe, puts AI agents into the group chat",
+      "link": "https://www.theregister.com/saas/2026/08/20/slack-code-taps-into-collective-vibe-puts-ai-agents-into-the-group-chat/5290413",
+      "summary": "Developers can now invite the whole team along for their quality time with the coding bot",
+      "published": "Thu, 20 Aug 2026 17:23:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=248129&width=800"
+    },
+    {
       "title": "Roblox must make changes after failing to block adults creeping on kids",
       "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
       "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
@@ -248,6 +312,14 @@
       "published": "Thu, 20 Aug 2026 17:06:40 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/google-ai-racist.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Thunderbird to flap twice as fast from September",
+      "link": "https://www.theregister.com/software/2026/08/20/thunderbird-to-flap-twice-as-fast-from-september/5290393",
+      "summary": "Email client follows Firefox onto two-week release treadmill",
+      "published": "Thu, 20 Aug 2026 17:03:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5290483&width=800"
     },
     {
       "title": "The Economy Is So Bad That People Are Using Klarna for Rent and Utilities",
@@ -346,6 +418,54 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg"
     },
     {
+      "title": "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
+      "link": "https://www.theregister.com/software/2026/08/21/developer-given-missionimpossible-fixing-rubbish-code-that-could-crash-a-city-simply-chose-not-to-accept-it/5290120",
+      "summary": "After imagining explosions, blackouts, and daring escapes, this techie decided the best thing to do was just not doing the job",
+      "published": "Fri, 21 Aug 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=253830&width=800"
+    },
+    {
+      "title": "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
+      "link": "https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838",
+      "summary": "Secure Workload Software has five nasty flaws and even SaaS users have updates to install",
+      "published": "Fri, 21 Aug 2026 07:33:08 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5290859&width=800"
+    },
+    {
+      "title": "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
+      "link": "https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815",
+      "summary": "Cloudy AI is Chinese giant’s ‘most certain’ path to growth as e-commerce slows",
+      "published": "Fri, 21 Aug 2026 06:38:53 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259127&width=800"
+    },
+    {
+      "title": "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation",
+      "link": "https://www.theregister.com/legal/2026/08/21/supermicro-fired-staff-after-probe-into-25-billion-gpus-to-china-smuggling-operation/5290791",
+      "summary": "Policies and code of conduct breached",
+      "published": "Fri, 21 Aug 2026 04:39:56 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5290804&width=800"
+    },
+    {
+      "title": "Russian snoops add OAuth abuse to targeted phishing campaigns",
+      "link": "https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706",
+      "summary": "Don't click on that State Department meeting invite",
+      "published": "Fri, 21 Aug 2026 02:19:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=253184&width=800"
+    },
+    {
+      "title": "Google tethers Antigravity to enterprise controls amid AI shakeup",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/21/google-tethers-antigravity-to-enterprise-controls-amid-ai-shakeup/5290730",
+      "summary": "Corporate customers can look forward to easier management of agents in Google Cloud",
+      "published": "Fri, 21 Aug 2026 01:47:16 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=248218&width=800"
+    },
+    {
       "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
       "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
       "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
@@ -360,6 +480,14 @@
       "published": "Fri, 21 Aug 2026 00:13:44 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957"
+    },
+    {
+      "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
+      "link": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
+      "summary": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta looks a lot chunkier than competing controllers. But what really sets it apart is [&#8230;]",
+      "published": "2026-08-20T22:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/genki_manta1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
@@ -432,14 +560,6 @@
       "published": "2026-08-20T11:30:34-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-      "link": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-      "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of [&#8230;]",
-      "published": "2026-08-20T11:08:38-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lgb6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
