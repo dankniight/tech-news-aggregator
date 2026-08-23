@@ -1,13 +1,37 @@
 {
-  "lastUpdated": "2026-08-23T12:48:46.396210",
+  "lastUpdated": "2026-08-23T18:35:24.095680",
   "articles": [
     {
-      "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-      "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-      "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
-      "published": "Thu, 20 Aug 2026 22:00:11 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg"
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "Sun, 23 Aug 2026 16:03:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675"
+    },
+    {
+      "title": "How Cursor beat Git's scalability shortcomings",
+      "link": "https://www.theregister.com/devops/2026/08/23/how-cursor-beat-gits-scalability-shortcomings/5291421",
+      "summary": "S3 keeps the source of truth while local NVMe repositories do the latency-sensitive work",
+      "published": "Sun, 23 Aug 2026 15:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5291465&width=800"
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749"
     },
     {
       "title": "An ultra-rare piece of Microsoft history could be hiding on your shelf",
@@ -18,12 +42,60 @@
       "image_url": "https://image.theregister.com/?imageId=1682578&width=800"
     },
     {
+      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+      "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "published": "Sun, 23 Aug 2026 14:30:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg"
+    },
+    {
+      "title": "Dating App Cofounder Bails After Scandal Over Using Fake AI-Generated Influencers",
+      "link": "https://futurism.com/artificial-intelligence/dating-app-cofounder-bails-scandal-fake-ai-influencers",
+      "summary": "<p>The app was found to be a \"psyop.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/dating-app-cofounder-bails-scandal-fake-ai-influencers\">Dating App Cofounder Bails After Scandal Over Using Fake AI-Generated Influencers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 23 Aug 2026 13:06:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/dating-app-ceo-scandal-ai-singles.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Tech CEO’s Ridiculous Excuse Falls Apart in Court, Sentenced to Prison",
+      "link": "https://futurism.com/future-society/tech-ceo-excuse-prison-hunsicker-fraud",
+      "summary": "<p>Suspicious investors had reported her after making a strange discovery.</p>\n<p>The post <a href=\"https://futurism.com/future-society/tech-ceo-excuse-prison-hunsicker-fraud\">Tech CEO&#8217;s Ridiculous Excuse Falls Apart in Court, Sentenced to Prison</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 23 Aug 2026 12:07:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/tech-ceo-excuse-prison-hunsicker-fraud.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Employers Are Hiring Recent Grads and Then Saying “Oops, Never Mind”",
+      "link": "https://futurism.com/future-society/employers-hiring-recent-grads-never-mind",
+      "summary": "<p>\"It's totally out of control.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/employers-hiring-recent-grads-never-mind\">Employers Are Hiring Recent Grads and Then Saying &#8220;Oops, Never Mind&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 23 Aug 2026 11:06:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/employers-hiring-recent-grads-never-mind.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Volcanoes that made history",
       "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
       "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
       "published": "Sun, 23 Aug 2026 11:02:54 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg"
+    },
+    {
+      "title": "Data Centers Are Sucking Up So Many Construction Workers That There Isn’t Anybody Left to Build Houses, Expert Says",
+      "link": "https://futurism.com/artificial-intelligence/data-centers-construction-worker-labor-housing-market",
+      "summary": "<p>\"Many of those people that were in housing are going to these data centers.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/data-centers-construction-worker-labor-housing-market\">Data Centers Are Sucking Up So Many Construction Workers That There Isn&#8217;t Anybody Left to Build Houses, Expert Says</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 23 Aug 2026 10:05:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/data-centers-construction-worker-labor-housing-market.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Amazon Delivery Drone Drops Package Directly Into Customer’s Swimming Pool",
+      "link": "https://futurism.com/robots-and-machines/amazon-drone-package-pool",
+      "summary": "<p>\"Oh s***!\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/amazon-drone-package-pool\">Amazon Delivery Drone Drops Package Directly Into Customer&#8217;s Swimming Pool</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 23 Aug 2026 09:04:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/amazon-drone-package-pool.jpg?quality=85&w=2048"
     },
     {
       "title": "“Biblical Levels of Insider Trading”: New Prediction Market Monetizes Anything in Livestreams",
@@ -218,22 +290,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/results-high-school-students-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "Government Spending on Mass Transit Would Be Incredible for Small Towns, Study Finds",
-      "link": "https://futurism.com/advanced-transport/government-spending-mass-transit-us-cities-small-towns-research",
-      "summary": "<p>New York isn't the only city that could have incredible transit.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/government-spending-mass-transit-us-cities-small-towns-research\">Government Spending on Mass Transit Would Be Incredible for Small Towns, Study Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 22 Aug 2026 07:02:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/government-spending-mass-transit-us-cities-small-towns-research.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Devious New Font Turns AI Scrapers Into Mincemeat",
-      "link": "https://futurism.com/artificial-intelligence/devious-new-font-turns-ai-scrapers-into-mincemeat",
-      "summary": "<p>The font makes \"the text itself polluted, harder, and more expensive to collect without permission.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/devious-new-font-turns-ai-scrapers-into-mincemeat\">Devious New Font Turns AI Scrapers Into Mincemeat</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 22 Aug 2026 06:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/devious-new-font-turns-ai-scrapers-into-mincemeat.jpg?quality=85&w=2048"
-    },
-    {
       "title": "AWS Security makes an inscrutable choice",
       "link": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
       "summary": "Quarantining leaked credentials is not good enough",
@@ -306,36 +362,12 @@
       "image_url": "https://image.theregister.com/?imageId=233661&width=800"
     },
     {
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "published": "Fri, 21 Aug 2026 22:10:01 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799"
-    },
-    {
-      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-      "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-      "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-      "published": "Fri, 21 Aug 2026 20:58:07 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/Apple-Vision-Pro-global-availability-e1718041644616.jpg?resize=1200,676"
-    },
-    {
       "title": "Thunder + fiber-optic cabling used for seismic imaging",
       "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
       "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
       "published": "Fri, 21 Aug 2026 20:26:46 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg"
-    },
-    {
-      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-      "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-      "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-      "published": "Fri, 21 Aug 2026 20:25:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800"
     },
     {
       "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
@@ -394,14 +426,6 @@
       "image_url": "https://image.theregister.com/?imageId=235319&width=800"
     },
     {
-      "title": "This Has to Be the Most Amazing Robot Death We’ve Ever Seen",
-      "link": "https://futurism.com/robots-and-machines/most-amazing-robot-death-ever",
-      "summary": "<p>Ever blow out your back so hard that you split in half?</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/most-amazing-robot-death-ever\">This Has to Be the Most Amazing Robot Death We’ve Ever Seen</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 21 Aug 2026 17:05:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/most-amazing-robot-death-ever.jpg?quality=85&w=2048"
-    },
-    {
       "title": "Hackers poison popular Rust crates to steal developers' credentials",
       "link": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
       "summary": "Malicious updates turned routine builds into a delivery system for infostealer malware",
@@ -426,36 +450,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2278328918-1024x648.jpg"
     },
     {
-      "title": "Grand Jury Declines to Indict Man Caught on Camera Destroying Flock Pole",
-      "link": "https://futurism.com/future-society/grand-jury-ohio-flock-alpr-surveillance-felony-legal",
-      "summary": "<p>\"Any good prosecutor can get a grand jury to indict a ham sandwich.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/grand-jury-ohio-flock-alpr-surveillance-felony-legal\">Grand Jury Declines to Indict Man Caught on Camera Destroying Flock Pole</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 21 Aug 2026 16:11:16 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/grand-jury-ohio-flock-alpr-surveillance-felony-legal.jpg?quality=85&w=2048"
-    },
-    {
       "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
       "link": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
       "summary": "Mercury Research blames costly memory and scarce GPUs for 20% processor shipment slide",
       "published": "Fri, 21 Aug 2026 16:05:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=4094116&width=800"
-    },
-    {
-      "title": "'We let you down': GitHub pledges to scale up before developers give up",
-      "link": "https://www.theregister.com/devops/2026/08/21/we-let-you-down-github-pledges-to-scale-up-before-developers-give-up/5291031",
-      "summary": "CTO promises architectural overhaul following second outage of the month",
-      "published": "Fri, 21 Aug 2026 15:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682264&width=800"
-    },
-    {
-      "title": "The AI Industry Has Fumbled Its Public Image So Badly That It’s Incredible",
-      "link": "https://futurism.com/future-society/ai-industry-fumbled-public-image",
-      "summary": "<p>The majority of young adults in the US say they're \"more concerned than excited\" about AI.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-industry-fumbled-public-image\">The AI Industry Has Fumbled Its Public Image So Badly That It&#8217;s Incredible</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 21 Aug 2026 15:03:28 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/Untitled-1.ai-industry-fumbled-public-image.jpg?quality=85&w=2048"
     },
     {
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -480,6 +480,14 @@
       "published": "Fri, 21 Aug 2026 11:00:36 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg"
+    },
+    {
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We [&#8230;]",
+      "published": "2026-08-23T11:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Grand Theft Auto VI exists in its own universe",
@@ -552,14 +560,6 @@
       "published": "2026-08-21T17:25:50-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-      "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-      "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a statement to [&#8230;]",
-      "published": "2026-08-21T15:44:55-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258038_M5_Vision_Pro_AKrales_0256.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
