@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-25T01:34:04.278368",
+  "lastUpdated": "2026-08-25T06:55:01.403776",
   "articles": [
+    {
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+      "published": "Tue, 25 Aug 2026 03:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800"
+    },
+    {
+      "title": "IBM announces chip that natively executes Arm and Z instructions concurrently",
+      "link": "https://www.theregister.com/systems/2026/08/25/ibm-announces-chip-that-natively-executes-arm-and-z-instructions-concurrently/5292059",
+      "summary": "Cunning plan to expand the amount of software that runs on mainframes is also an admission ISVs are focusing their energies elsewhere",
+      "published": "Tue, 25 Aug 2026 03:27:30 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292064&width=800"
+    },
+    {
+      "title": "Microsoft AI watermarks in Paint and Photos are linked to user IDs, researcher finds",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/microsoft-ai-watermarks-in-paint-and-photos-are-linked-to-user-ids-researcher-finds/5292034",
+      "summary": "Privacy? Not if you use hosted AI services",
+      "published": "Tue, 25 Aug 2026 02:10:51 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261247&width=800"
+    },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
@@ -104,6 +128,22 @@
       "published": "Sat, 22 Aug 2026 11:08:53 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-626466246-1152x648.jpg"
+    },
+    {
+      "title": "You don't want this Sleepwalker backdoor on your Windows machine",
+      "link": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
+      "summary": "Its own command language, 23 instructions - signs point to 'well-resourced operation rather than an opportunistic one'",
+      "published": "Mon, 24 Aug 2026 23:39:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292027&width=800"
+    },
+    {
+      "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
+      "link": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015",
+      "summary": "Glassbox dev admits he had some help from Claude to build locally running tool",
+      "published": "Mon, 24 Aug 2026 23:07:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254347&width=800"
     },
     {
       "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
@@ -346,14 +386,6 @@
       "image_url": "https://image.theregister.com/?imageId=5235702&width=800"
     },
     {
-      "title": "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
-      "link": "https://www.theregister.com/systems/2026/08/24/chipmakers-laughing-all-the-way-to-the-vault-as-memory-prices-go-stratospheric/5291690",
-      "summary": "Gartner reckons $1.6 trillion year is just the start, and don't expect a bust anytime soon",
-      "published": "Mon, 24 Aug 2026 15:40:03 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1673877&width=800"
-    },
-    {
       "title": "The Ocean Hasn’t Been This Hot in 125,000 Years, Alarmed Researcher Suggests",
       "link": "https://futurism.com/science-energy/ocean-hot-125000-years-alarmed-researcher",
       "summary": "<p>\"The record is another clear signal of an ocean under growing stress.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/ocean-hot-125000-years-alarmed-researcher\">The Ocean Hasn&#8217;t Been This Hot in 125,000 Years, Alarmed Researcher Suggests</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -368,14 +400,6 @@
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849"
-    },
-    {
-      "title": "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
-      "link": "https://www.theregister.com/applications/2026/08/24/i-picked-task-manager-to-see-how-ready-ai-is-for-primetime-or-if-it-would-just-degrade-to-slop-og-dev-talks-to-the-reg/5291639",
-      "summary": "Original author of legendary 1996 system utility tries to answer the question: 'How would I do it today?'",
-      "published": "Mon, 24 Aug 2026 15:03:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5291651&width=800"
     },
     {
       "title": "OpenAI is building AI agents for everything. Will everyone use them?",
@@ -394,14 +418,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867.jpg"
     },
     {
-      "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
-      "link": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
-      "summary": "Sawtooth waves you can't hear still mess with your Bluetooth. Firefox and Brave say they've got you covered",
-      "published": "Mon, 24 Aug 2026 14:32:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257881&width=800"
-    },
-    {
       "title": "Clueless AI CEOs Still Baffled Why Everybody’s So Mad About AI All the Time",
       "link": "https://futurism.com/artificial-intelligence/ai-ceos-public-mad-outrage",
       "summary": "<p>\"It is surprising that the discourse from many developing AI is so filled with doom.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-ceos-public-mad-outrage\">Clueless AI CEOs Still Baffled Why Everybody’s So Mad About AI All the Time</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -418,28 +434,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?resize=1200,632"
     },
     {
-      "title": "US datacenters tripled their water footprint in 10 years",
-      "link": "https://www.theregister.com/on-prem/2026/08/24/us-datacenters-tripled-their-water-footprint-in-10-years/5291564",
-      "summary": "... and those are figures from the start of the AI boom. It can only be worse now. Silo-ed reporting isn't helping",
-      "published": "Mon, 24 Aug 2026 14:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4094013&width=800"
-    },
-    {
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
       "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800"
-    },
-    {
-      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-      "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
-      "published": "Mon, 24 Aug 2026 13:45:15 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?resize=1200,801"
     },
     {
       "title": "Scientists Turn Plastic Waste Into Edible Cookies Because That’s the Future We Deserve",
