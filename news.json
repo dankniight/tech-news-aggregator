@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-08-26T06:55:54.915754",
+  "lastUpdated": "2026-08-26T13:00:04.752926",
   "articles": [
+    {
+      "title": "SpaceX plans to plant $100B Starbase on Louisiana coast",
+      "link": "https://www.theregister.com/offbeat/2026/08/26/spacex-plans-to-plant-100b-starbase-on-louisiana-coast/5292520",
+      "summary": "Plans to break ground in 2027, produce own propellent, power in 'self-sustaining' spaceport. All before Starship ships v1.0 orbit",
+      "published": "Wed, 26 Aug 2026 13:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292566&width=800"
+    },
+    {
+      "title": "Nigel Farage wants to scrap 'suffocating' UK GDPR",
+      "link": "https://www.theregister.com/public-sector/2026/08/26/nigel-farage-wants-to-scrap-suffocating-uk-gdpr/5292540",
+      "summary": "Reform UK's leader proposes 'light-touch' alternative, although rival politicians say plans are sparsely detailed and inconsistent with reality",
+      "published": "Wed, 26 Aug 2026 13:06:40 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=223526&width=800"
+    },
+    {
+      "title": "Arga is building a better way to train enterprise AI agents",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "published": "Wed, 26 Aug 2026 12:55:28 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200"
+    },
+    {
+      "title": "UK supermarket scales go 404 on shoppers",
+      "link": "https://www.theregister.com/offbeat/2026/08/26/uk-supermarket-scales-go-404-on-shoppers/5292088",
+      "summary": "Tesco produce not found? But beware the forbidden scales...",
+      "published": "Wed, 26 Aug 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292093&width=800"
+    },
+    {
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "published": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751"
+    },
+    {
+      "title": "Debian polls its developers on whether to burn the bots, tame the bots, or let 'em loose",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+      "summary": "Eight-way ballot on AI code puts the distro's fractious democracy through its paces",
+      "published": "Wed, 26 Aug 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292279&width=800"
+    },
+    {
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "published": "Wed, 26 Aug 2026 11:10:49 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg"
+    },
+    {
+      "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+      "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+      "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
+      "published": "Wed, 26 Aug 2026 11:00:12 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_2090-1152x648.jpg"
+    },
+    {
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "published": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800"
+    },
+    {
+      "title": "Sopra Steria's £370M Capita spat heads for 2028 courtroom showdown",
+      "link": "https://www.theregister.com/public-sector/2026/08/26/sopra-sterias-370m-capita-spat-heads-for-2028-courtroom-showdown/5292234",
+      "summary": "French SI still crying foul over shared services contract, alleges bid was 42% under DWP's own cost model",
+      "published": "Wed, 26 Aug 2026 10:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227883&width=800"
+    },
     {
       "title": "India’s crewed space program will fly this year, after missing 2022 and 2025 targets",
       "link": "https://www.theregister.com/science/2026/08/26/indias-crewed-space-program-will-fly-this-year-after-missing-2022-and-2025-targets/5292478",
@@ -8,6 +88,14 @@
       "published": "Wed, 26 Aug 2026 07:22:43 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5292483&width=800"
+    },
+    {
+      "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+      "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+      "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
+      "published": "Wed, 26 Aug 2026 07:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/venture-platform-vc.jpg?resize=1200,778"
     },
     {
       "title": "Self-hosted email is in steep decline, Microsoft and Google are taking over",
@@ -218,30 +306,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-1152x648.jpg"
     },
     {
-      "title": "Slop factory bans Russians for using slop factory to create slop",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297",
-      "summary": "OpenAI wants you to thank it for keeping a permanent record of all your discussions with its bots",
-      "published": "Tue, 25 Aug 2026 17:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=253985&width=800"
-    },
-    {
-      "title": "US convicts ex-Philips engineer for exposing X-ray secrets to competitor",
-      "link": "https://www.theregister.com/legal/2026/08/25/us-convicts-ex-philips-engineer-for-exposing-x-ray-secrets-to-competitor/5292291",
-      "summary": "Dutch electronics giant saw right through ex-engineer’s plot, albeit over a year after it all unravelled",
-      "published": "Tue, 25 Aug 2026 16:43:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261844&width=800"
-    },
-    {
-      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-      "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-      "summary": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
-      "published": "Tue, 25 Aug 2026 16:35:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Life-style-UI-tag.png?resize=1200,800"
-    },
-    {
       "title": "Lab supply companies have been selling antibodies using manipulated images",
       "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
       "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
@@ -258,44 +322,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/quest1-1152x648.png"
     },
     {
-      "title": "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
-      "link": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052",
-      "summary": "128 chips, 1.7 exaFLOPS, and 27 TB of HBM give Altman and crew a leg up over Blackwell, and maybe even Rubin",
-      "published": "Tue, 25 Aug 2026 16:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5292307&width=800"
-    },
-    {
       "title": "Elon Musk Just Said Something About AI That’s Literally Incomprehensible",
       "link": "https://futurism.com/artificial-intelligence/elon-musk-ai-incomprehensible",
       "summary": "<p>Sure, man.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/elon-musk-ai-incomprehensible\">Elon Musk Just Said Something About AI That&#8217;s Literally Incomprehensible</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 25 Aug 2026 15:48:44 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/elon-musk-ai-incomprehensible.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "That fake Grand Theft Auto VI demo is actually just malware",
-      "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-      "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
-      "published": "Tue, 25 Aug 2026 15:48:38 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/grand-theft-auto-2213757731.jpg?resize=1200,800"
-    },
-    {
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-      "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
-      "published": "Tue, 25 Aug 2026 15:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-end.jpeg?resize=1200,800"
-    },
-    {
-      "title": "Windows XP was released to manufacturing a quarter of a century ago",
-      "link": "https://www.theregister.com/offbeat/2026/08/25/windows-xp-was-released-to-manufacturing-a-quarter-of-a-century-ago/5292240",
-      "summary": "So incredibly stable, govt branches, banks, and dentist offices still haven't figured out how to close it",
-      "published": "Tue, 25 Aug 2026 15:27:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=240382&width=800"
     },
     {
       "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
@@ -306,28 +338,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-1024x648.jpg"
     },
     {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "summary": "Lica co-founders are going to work on Gamma's new research team.",
-      "published": "Tue, 25 Aug 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960"
-    },
-    {
       "title": "Massive Black Market for Unapproved and Potentially Dangerous Obesity Drug Alarms Doctors",
       "link": "https://futurism.com/health-medicine/massive-black-market-obesity-drugs-glp1s-retatrutide",
       "summary": "<p>\"Promising isn't the same as proven.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/massive-black-market-obesity-drugs-glp1s-retatrutide\">Massive Black Market for Unapproved and Potentially Dangerous Obesity Drug Alarms Doctors</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 25 Aug 2026 14:54:54 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/massive-black-market-obesity-drugs-glp1s-retatrutide.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "SiFive pushes development server to take RISC-V into the datacenter",
-      "link": "https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136",
-      "summary": "Rack-mount system intended for software porting, workload optimization, to bring open standard to the bitbarn",
-      "published": "Tue, 25 Aug 2026 14:13:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=246385&width=800"
     },
     {
       "title": "Harvard Professor Warns That AI Execs Are Pushing World Toward Factory Farming of Humans",
@@ -410,22 +426,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-1152x648.jpg"
     },
     {
-      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-      "summary": "Monitor vendors are playing with fire.",
-      "published": "Mon, 24 Aug 2026 20:17:41 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg"
-    },
-    {
-      "title": "GM vehicles under federal scrutiny after hundreds of reports",
-      "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-      "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
-      "published": "Mon, 24 Aug 2026 19:42:50 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Lyriq-V015_v4-1152x648.jpg"
-    },
-    {
       "title": "Trump Says You’re a Rube If You Don’t Want a Data Center in Your Backyard",
       "link": "https://futurism.com/artificial-intelligence/donald-trump-data-center-rube-interview",
       "summary": "<p>\"Frankly, communities that don't take a data center are making a mistake.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/donald-trump-data-center-rube-interview\">Trump Says You&#8217;re a Rube If You Don&#8217;t Want a Data Center in Your Backyard</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -482,6 +482,46 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/trump-admin-slaughtering-wild-horses.jpg?quality=85&w=2048"
     },
     {
+      "title": "Ring says its new encryption limits what it can give police",
+      "link": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
+      "summary": "Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional end-to-end encryption. TAKE limits when and why Amazon's cloud can access those videos, while still providing features like smart alerts for [&#8230;]",
+      "published": "2026-08-26T08:55:45-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/236648_Ring_Battery_Doorbell_Plus_JTuohy_0012.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
+      "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
+      "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not long after Rockstar posted, the source of the leaks posted another video clip of the game, this time showing the Jason character pulling off the series' trademark [&#8230;]",
+      "published": "2026-08-26T08:04:15-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
+      "link": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
+      "summary": "Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's accessory. But over the past few years, it's felt like Bose has rested on that reputation, as other companies have caught up. Sony and [&#8230;]",
+      "published": "2026-08-26T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268702_Bose_QuietComfort_Headphones_Gen_2_review_JHIGGINS_716A9403.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking [&#8230;]",
+      "published": "2026-08-26T07:07:40-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
+      "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+      "summary": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand, laptop stand, side table, lounge chair, and multi-functional toolbox, with standout products like a stool, cushion, [&#8230;]",
+      "published": "2026-08-26T06:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
       "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
       "summary": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more RAM and [&#8230;]",
@@ -520,46 +560,6 @@
       "published": "2026-08-25T14:52:53-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268500_Dreame_NEXT_2026_KMcClellan_0065.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
-      "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
-      "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Series X25 limited edition console it announced in June at E3. That includes [&#8230;]",
-      "published": "2026-08-25T14:16:29-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xbox-25th-anniversary-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-      "link": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
-      "summary": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker — is currently discounted to $79.99 at Amazon, a pretty great discount from its usual $129 price tag. [&#8230;]",
-      "published": "2026-08-25T13:39:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bose-Soundlink-Micro-Gen2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-      "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-      "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, including Gears of War: E-Day, Capcom’s upcoming [&#8230;]",
-      "published": "2026-08-25T13:20:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-      "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-      "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on Tuesday. An example shared by Instagram shows [&#8230;]",
-      "published": "2026-08-25T13:12:31-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-      "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-      "summary": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match your wallpaper \"while Nothing's predominantly monochrome character [&#8230;]",
-      "published": "2026-08-25T12:58:53-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
