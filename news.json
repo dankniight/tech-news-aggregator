@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-26T01:38:25.552373",
+  "lastUpdated": "2026-08-26T06:55:54.915754",
   "articles": [
+    {
+      "title": "India’s crewed space program will fly this year, after missing 2022 and 2025 targets",
+      "link": "https://www.theregister.com/science/2026/08/26/indias-crewed-space-program-will-fly-this-year-after-missing-2022-and-2025-targets/5292478",
+      "summary": "A space station by 2035 is ISRO’s new mission",
+      "published": "Wed, 26 Aug 2026 07:22:43 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292483&width=800"
+    },
+    {
+      "title": "Self-hosted email is in steep decline, Microsoft and Google are taking over",
+      "link": "https://www.theregister.com/software/2026/08/26/self-hosted-email-is-in-steep-decline-microsoft-and-google-are-taking-over/5292471",
+      "summary": "Oh great, Big Tech is now in prime position to decide which messages get through",
+      "published": "Wed, 26 Aug 2026 04:40:14 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1681267&width=800"
+    },
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "published": "Wed, 26 Aug 2026 03:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675"
+    },
     {
       "title": "Now Perplexity is trying to get into the local AI action",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
@@ -26,9 +50,9 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849"
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
       "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
       "published": "Wed, 26 Aug 2026 00:06:20 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800"
@@ -298,14 +322,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/massive-black-market-obesity-drugs-glp1s-retatrutide.jpg?quality=85&w=2048"
     },
     {
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-      "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-      "published": "Tue, 25 Aug 2026 14:46:32 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675"
-    },
-    {
       "title": "SiFive pushes development server to take RISC-V into the datacenter",
       "link": "https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136",
       "summary": "Rack-mount system intended for software porting, workload optimization, to bring open standard to the bitbarn",
@@ -322,14 +338,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/harvard-professor-ai-factory-farming-humans.jpg?quality=85&w=2048"
     },
     {
-      "title": "Microsoft breaks WPF printing with .NET update",
-      "link": "https://www.theregister.com/os-platforms/2026/08/25/microsoft-breaks-wpf-printing-with-net-update/5292116",
-      "summary": "Summer in Redmond, Winter for everyone else",
-      "published": "Tue, 25 Aug 2026 13:27:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5244931&width=800"
-    },
-    {
       "title": "Apple's new desktop computers are designed specifically for local AI development",
       "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
       "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
@@ -344,14 +352,6 @@
       "published": "Tue, 25 Aug 2026 12:54:10 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/90-percent-execs-ai-didnt-help-productivity-layoffs.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "CISA slaps its tightest three-day patching deadline on perfect-10 Oracle flaw",
-      "link": "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107",
-      "summary": "Disclosed in January and honeypots buzzed soon after, CISA says it’s finally time for the USG to plug the gap",
-      "published": "Tue, 25 Aug 2026 12:43:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682641&width=800"
     },
     {
       "title": "China Recalls Nearly Three Million Teslas Over Unsafe Door Handles",
