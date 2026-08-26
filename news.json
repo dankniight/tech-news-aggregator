@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-08-25T18:44:31.971615",
+  "lastUpdated": "2026-08-26T01:38:25.552373",
   "articles": [
+    {
+      "title": "Now Perplexity is trying to get into the local AI action",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
+      "summary": "Amid talk of an Nvidia deal, the AI search biz is looking beyond the cloud",
+      "published": "Wed, 26 Aug 2026 01:39:23 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261759&width=800"
+    },
+    {
+      "title": "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough",
+      "link": "https://www.theregister.com/hpc/2026/08/25/intel-diamond-rapids-xeon-7-cpu-deep-dive/5292427",
+      "summary": "Delayed, flawed, yet still beautiful",
+      "published": "Wed, 26 Aug 2026 00:54:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292446&width=800"
+    },
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "published": "Wed, 26 Aug 2026 00:40:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849"
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "published": "Wed, 26 Aug 2026 00:06:20 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800"
+    },
+    {
+      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+      "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+      "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+      "published": "Tue, 25 Aug 2026 22:21:06 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-1152x648.jpg"
+    },
+    {
+      "title": "Apple defies memory shortage with new Mac minis",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/apple-defies-memory-shortage-with-new-mac-minis/5292406",
+      "summary": "The cost of memory makes this an expensive ML meal",
+      "published": "Tue, 25 Aug 2026 22:18:19 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292415&width=800"
+    },
+    {
+      "title": "Claude and Cowork now share what they know about you",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412",
+      "summary": "Shared memory is live, with no option to separate it between services, Anthropic tells us; Claude Code stays apart for now",
+      "published": "Tue, 25 Aug 2026 21:54:32 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=222766&width=800"
+    },
+    {
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+      "published": "Tue, 25 Aug 2026 20:59:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg"
+    },
+    {
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+      "published": "Tue, 25 Aug 2026 20:44:12 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675"
+    },
+    {
+      "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
+      "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
+      "published": "Tue, 25 Aug 2026 19:44:49 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=234929&width=800"
+    },
+    {
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
+      "published": "Tue, 25 Aug 2026 19:22:52 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801"
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "published": "Tue, 25 Aug 2026 19:03:47 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152"
+    },
+    {
+      "title": "Preserving glow-in-the-dark art and fashion for future generations",
+      "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+      "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+      "published": "Tue, 25 Aug 2026 18:59:12 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glowindark3-1152x648.jpg"
+    },
     {
       "title": "EPA to drop requirement for public notice of polluting datacenters",
       "link": "https://www.theregister.com/on-prem/2026/08/25/epa-to-drop-requirement-for-public-notice-of-polluting-datacenters/5292341",
@@ -8,6 +112,14 @@
       "published": "Tue, 25 Aug 2026 18:40:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5292360&width=800"
+    },
+    {
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "summary": "It's currently only appearing on Pixels running Android 17.",
+      "published": "Tue, 25 Aug 2026 18:32:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motion-Assist-Pixel-11-1152x648.jpg"
     },
     {
       "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
@@ -130,6 +242,14 @@
       "image_url": "https://image.theregister.com/?imageId=5292307&width=800"
     },
     {
+      "title": "Elon Musk Just Said Something About AI That’s Literally Incomprehensible",
+      "link": "https://futurism.com/artificial-intelligence/elon-musk-ai-incomprehensible",
+      "summary": "<p>Sure, man.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/elon-musk-ai-incomprehensible\">Elon Musk Just Said Something About AI That&#8217;s Literally Incomprehensible</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 25 Aug 2026 15:48:44 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/elon-musk-ai-incomprehensible.jpg?quality=85&w=2048"
+    },
+    {
       "title": "That fake Grand Theft Auto VI demo is actually just malware",
       "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
       "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
@@ -170,6 +290,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960"
     },
     {
+      "title": "Massive Black Market for Unapproved and Potentially Dangerous Obesity Drug Alarms Doctors",
+      "link": "https://futurism.com/health-medicine/massive-black-market-obesity-drugs-glp1s-retatrutide",
+      "summary": "<p>\"Promising isn't the same as proven.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/massive-black-market-obesity-drugs-glp1s-retatrutide\">Massive Black Market for Unapproved and Potentially Dangerous Obesity Drug Alarms Doctors</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 25 Aug 2026 14:54:54 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/massive-black-market-obesity-drugs-glp1s-retatrutide.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
       "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
       "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
@@ -178,44 +306,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675"
     },
     {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "published": "Tue, 25 Aug 2026 14:22:04 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900"
-    },
-    {
       "title": "SiFive pushes development server to take RISC-V into the datacenter",
       "link": "https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136",
       "summary": "Rack-mount system intended for software porting, workload optimization, to bring open standard to the bitbarn",
       "published": "Tue, 25 Aug 2026 14:13:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=246385&width=800"
-    },
-    {
-      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-      "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-      "summary": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
-      "published": "Tue, 25 Aug 2026 14:10:36 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675"
-    },
-    {
-      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-      "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-      "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
-      "published": "Tue, 25 Aug 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800"
-    },
-    {
-      "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
-      "link": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
-      "summary": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.",
-      "published": "Tue, 25 Aug 2026 13:55:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_2x.jpg?resize=1200,800"
     },
     {
       "title": "Harvard Professor Warns That AI Execs Are Pushing World Toward Factory Farming of Humans",
@@ -242,14 +338,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg"
     },
     {
-      "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
-      "link": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
-      "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
-      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/lolla-2-comments-ticket-negotiation.png?resize=1200,825"
-    },
-    {
       "title": "90 Percent of Execs Say Oops, AI Didn’t Help Productivity, So Layoffs Will Continue",
       "link": "https://futurism.com/artificial-intelligence/90-percent-execs-ai-didnt-help-productivity-layoffs",
       "summary": "<p>It's a race to the bottom.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/90-percent-execs-ai-didnt-help-productivity-layoffs\">90 Percent of Execs Say Oops, AI Didn&#8217;t Help Productivity, So Layoffs Will Continue</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -274,44 +362,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/china-recalls-three-million-teslas-unsafe-door-handles.jpg?quality=85&w=2048"
     },
     {
-      "title": "Ukraine unveils native jet-powered drone interceptor",
-      "link": "https://www.theregister.com/offbeat/2026/08/25/ukraine-unveils-native-jet-powered-drone-interceptor/5292081",
-      "summary": "Fast and lightweight unmanned aircraft is designed for easy deployment and fits in a pickup truck",
-      "published": "Tue, 25 Aug 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5292103&width=800"
-    },
-    {
-      "title": "Crooks push Mac malware through fake OpenAI Codex ads",
-      "link": "https://www.theregister.com/security/2026/08/25/crooks-push-mac-malware-through-fake-openai-codex-ads/5291899",
-      "summary": "Sponsored search results lead developers straight into a ClickFix malware trap",
-      "published": "Tue, 25 Aug 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=251976&width=800"
-    },
-    {
       "title": "Feds Investigating Wall Street Bro After His AI Hedge Fund Imploded Spectacularly",
       "link": "https://futurism.com/future-society/sec-investigation-ai-fund-imploded",
       "summary": "<p>He's in trouble.</p>\n<p>The post <a href=\"https://futurism.com/future-society/sec-investigation-ai-fund-imploded\">Feds Investigating Wall Street Bro After His AI Hedge Fund Imploded Spectacularly</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 25 Aug 2026 10:52:03 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/sec-investigation-ai-fund-imploded.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "HMRC dangles £500M carrot for National Insurance system revamp",
-      "link": "https://www.theregister.com/software/2026/08/25/hmrc-dangles-500m-carrot-for-national-insurance-system-revamp/5291869",
-      "summary": "Taxman wants to drag creaky NPS into agile era",
-      "published": "Tue, 25 Aug 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=209285&width=800"
-    },
-    {
-      "title": "What is virtualization modernization?",
-      "link": "https://www.theregister.com/virtualization/2026/08/25/sponsored-what-is-virtualization-modernization/5290459",
-      "summary": "SPONSORED EXPLAINER: Why you should take a long-term approach to rethinking your virtualization portfolio",
-      "published": "Tue, 25 Aug 2026 10:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5290473&width=800"
     },
     {
       "title": "Even Babies Are Still Way Better at Learning Than AI Models",
@@ -322,36 +378,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/babies-learning-better-ai-models.jpg?quality=85&w=2048"
     },
     {
-      "title": "Australia’s record industry won’t chart tunes recorded in the key of AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/australias-record-industry-wont-chart-tunes-recorded-in-the-key-of-ai/5292074",
-      "summary": "This is basically a riff on ‘You wouldn’t steal a car’ and means only the human league can have a hit",
-      "published": "Tue, 25 Aug 2026 09:15:43 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=135655&width=800"
-    },
-    {
       "title": "Nobody Wants Anthropic’s Best AI Model Anymore Now That There Are Way Cheaper Alternatives",
       "link": "https://futurism.com/artificial-intelligence/nobody-wants-anthropics-best-ai-cheaper-alternatives",
       "summary": "<p>Who needs pricey models?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nobody-wants-anthropics-best-ai-cheaper-alternatives\">Nobody Wants Anthropic’s Best AI Model Anymore Now That There Are Way Cheaper Alternatives</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 25 Aug 2026 08:46:46 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/anthropic-best-model-way-cheaper.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Dating App Cofounder Bails After Scandal Over Using Fake AI-Generated Influencers",
-      "link": "https://futurism.com/artificial-intelligence/dating-app-cofounder-bails-scandal-fake-ai-influencers",
-      "summary": "<p>The app was found to be a \"psyop.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/dating-app-cofounder-bails-scandal-fake-ai-influencers\">Dating App Cofounder Bails After Scandal Over Using Fake AI-Generated Influencers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 23 Aug 2026 13:06:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/dating-app-ceo-scandal-ai-singles.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Tech CEO’s Ridiculous Excuse Falls Apart in Court, Sentenced to Prison",
-      "link": "https://futurism.com/future-society/tech-ceo-excuse-prison-hunsicker-fraud",
-      "summary": "<p>Suspicious investors had reported her after making a strange discovery.</p>\n<p>The post <a href=\"https://futurism.com/future-society/tech-ceo-excuse-prison-hunsicker-fraud\">Tech CEO&#8217;s Ridiculous Excuse Falls Apart in Court, Sentenced to Prison</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 23 Aug 2026 12:07:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/tech-ceo-excuse-prison-hunsicker-fraud.jpg?quality=85&w=2048"
     },
     {
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -394,44 +426,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Lyriq-V015_v4-1152x648.jpg"
     },
     {
-      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-      "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-      "published": "Mon, 24 Aug 2026 19:19:21 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
-    },
-    {
-      "title": "Buyer beware: Those mummified remains might carry toxic spores",
-      "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-      "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
-      "published": "Mon, 24 Aug 2026 16:59:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/curse7-1152x648.jpg"
-    },
-    {
       "title": "Trump Says You’re a Rube If You Don’t Want a Data Center in Your Backyard",
       "link": "https://futurism.com/artificial-intelligence/donald-trump-data-center-rube-interview",
       "summary": "<p>\"Frankly, communities that don't take a data center are making a mistake.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/donald-trump-data-center-rube-interview\">Trump Says You&#8217;re a Rube If You Don&#8217;t Want a Data Center in Your Backyard</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 24 Aug 2026 16:52:11 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/donald-trump-data-center-rube-interview.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-      "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-      "published": "Mon, 24 Aug 2026 16:41:45 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
-    },
-    {
-      "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
-      "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-      "summary": "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix.",
-      "published": "Mon, 24 Aug 2026 16:02:54 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291183505-1152x648.jpg"
     },
     {
       "title": "The Ocean Hasn’t Been This Hot in 125,000 Years, Alarmed Researcher Suggests",
@@ -482,6 +482,46 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/trump-admin-slaughtering-wild-horses.jpg?quality=85&w=2048"
     },
     {
+      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+      "summary": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more RAM and [&#8230;]",
+      "published": "2026-08-25T18:20:17-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Trump is upping the price of Big Tech’s favorite visa",
+      "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+      "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be [&#8230;]",
+      "published": "2026-08-25T17:45:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "At just $8, you owe it to yourself to grab Inscryption",
+      "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+      "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions of the secret-packed deckbuilder for [&#8230;]",
+      "published": "2026-08-25T16:38:37-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The Witcher 3 is getting a remaster",
+      "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+      "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two [&#8230;]",
+      "published": "2026-08-25T16:24:24-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/3-2.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Dreame’s dream of a rocket-powered car is dead",
+      "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+      "summary": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division called \"Project Starry Sky\" once employed over 1,000 people, but now only a handful legal and HR staffers remain, charged with [&#8230;]",
+      "published": "2026-08-25T14:52:53-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268500_Dreame_NEXT_2026_KMcClellan_0065.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
       "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
       "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Series X25 limited edition console it announced in June at E3. That includes [&#8230;]",
@@ -500,7 +540,7 @@
     {
       "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
       "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-      "summary": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already have some idea of what to expect, including looks at Final Fantasy VII Revelation, [&#8230;]",
+      "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, including Gears of War: E-Day, Capcom’s upcoming [&#8230;]",
       "published": "2026-08-25T13:20:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -520,46 +560,6 @@
       "published": "2026-08-25T12:58:53-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "GeForce Now is getting support for the Steam Controller",
-      "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-      "summary": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If you're using GeForce Now on Windows or [&#8230;]",
-      "published": "2026-08-25T12:47:15-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Polestar claims it was blindsided by sales ban",
-      "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-      "summary": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August 18th letter sent to dealers and obtained by The Verge, Polestar said it doesn't have a clear answer [&#8230;]",
-      "published": "2026-08-25T12:14:45-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283439943.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
-      "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the description matches an archived [&#8230;]",
-      "published": "2026-08-25T10:25:52-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/polishing-cloth.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "summary": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
-      "published": "2026-08-25T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Where to preorder the updated Mac Mini and Mac Studio",
-      "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
-      "summary": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The Mac Mini starts at $899, $300 more than the [&#8230;]",
-      "published": "2026-08-25T09:02:18-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
