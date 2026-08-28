@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T22:03:07.761339",
+  "lastUpdated": "2026-08-28T10:44:00.990535",
   "articles": [
     {
       "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
@@ -8,22 +8,6 @@
       "published": "Wed, 26 Aug 2026 22:13:15 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-1152x648-1754745307.jpg"
-    },
-    {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
-      "published": "Wed, 26 Aug 2026 21:25:27 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg"
-    },
-    {
-      "title": "New Twitter launches, says Musk's X gave up the name",
-      "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
-      "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
-      "published": "Wed, 26 Aug 2026 20:49:04 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/twitter-1152x648-1787776300.jpg"
     },
     {
       "title": "Freak Landslide Completely Swallows Entire Mountain Village",
@@ -82,6 +66,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/microsoft-spreadsheet-leak-reveals-salary-engineers.jpg?quality=85&w=2048"
     },
     {
+      "title": "CRPx0 hacking service for dummies claims victim count more than quintupled",
+      "link": "https://www.theregister.com/cyber-crime/2026/08/27/crpx0-hacking-service-for-dummies-claims-victim-count-more-than-quintupled/5293097",
+      "summary": "It's 'built to be operated by a human with no technical background'",
+      "published": "Thu, 27 Aug 2026 23:24:27 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293114&width=800"
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200"
+    },
+    {
       "title": "Cyborg cockroaches may soon deliver life-saving drugs to disaster victims",
       "link": "https://www.theregister.com/offbeat/2026/08/27/cyborg-cockroaches-may-soon-deliver-life-saving-drugs-to-disaster-victims/5293081",
       "summary": "Just what you want crawling through the rubble to rescue you: A swarm of remote-controlled cockroaches with syringe-shooting guns strapped to their backs",
@@ -98,6 +98,14 @@
       "image_url": "https://image.theregister.com/?imageId=5292279&width=800"
     },
     {
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "summary": "Standardized driver interface  aims to let devices talk to AI and each other.",
+      "published": "Thu, 27 Aug 2026 22:15:43 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png"
+    },
+    {
       "title": "AI girlfriend review site's secrets were exposed to the world for three weeks",
       "link": "https://www.theregister.com/security/2026/08/27/ai-girlfriend-review-sites-secrets-were-exposed-to-the-world-for-three-weeks/5293064",
       "summary": "Even testing and staging sites need protection from prying eyes",
@@ -112,6 +120,14 @@
       "published": "Thu, 27 Aug 2026 21:07:58 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5293078&width=800"
+    },
+    {
+      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+      "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+      "published": "Thu, 27 Aug 2026 20:52:31 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-1024x648.jpg"
     },
     {
       "title": "Rivian’s CFO is leaving the company",
@@ -186,17 +202,9 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2281424431-1024x648.jpg"
     },
     {
-      "title": "Hugging Face offers $399 robot duck to help you quack the AI code",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/27/hugging-face-offers-399-robot-duck-to-help-you-quack-the-ai-code/5293011",
-      "summary": "Microduck from Pollen Robotics runs on open source software, is just 25cm tall, and is ready to play out of the box",
-      "published": "Thu, 27 Aug 2026 18:25:07 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293032&width=800"
-    },
-    {
-      "title": "NYC’s Most Famous Nightclub Announces Stance On Smart Glasses: Even Try To Bring Them In, You’re Banned Forever",
+      "title": "NYC’s Buzziest Nightclub Announces Stance On Smart Glasses: Even Try To Bring Them In, You’re Banned Forever",
       "link": "https://futurism.com/artificial-intelligence/nyc-basement-smart-glasses",
-      "summary": "<p>\"This should be policy at every club.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nyc-basement-smart-glasses\">NYC&#8217;s Most Famous Nightclub Announces Stance On Smart Glasses: Even Try To Bring Them In, You’re Banned Forever</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"This should be policy at every club.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nyc-basement-smart-glasses\">NYC&#8217;s Buzziest Nightclub Announces Stance On Smart Glasses: Even Try To Bring Them In, You’re Banned Forever</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 27 Aug 2026 18:01:47 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/nyc-basement-smart-glasses.png?quality=85"
@@ -226,28 +234,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-082626aa-lg-1152x648.jpg"
     },
     {
-      "title": "ATF responds to 'major' cybersecurity incident after ransomware gang's claims",
-      "link": "https://www.theregister.com/security/2026/08/27/atf-responds-to-major-cybersecurity-incident-after-ransomware-gangs-claims/5292990",
-      "summary": "US Justice Department investigating the breach",
-      "published": "Thu, 27 Aug 2026 17:25:52 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5292998&width=800"
-    },
-    {
       "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
       "link": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
       "summary": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
       "published": "Thu, 27 Aug 2026 17:05:45 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Pokemon_Fitbit_Air.png?w=1200"
-    },
-    {
-      "title": "Schrödinger's backup: not actually recovered until you try to restore IT",
-      "link": "https://www.theregister.com/security/2026/08/27/sponsored-schroedingers-backup-not-actually-recovered-until-you-try-to-restore-it/5286772",
-      "summary": "SPONSORED FEATURE: Verify and survive: your backup isn't real 'til you test it",
-      "published": "Thu, 27 Aug 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5286774&width=800"
     },
     {
       "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
@@ -266,14 +258,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Hoomanely-Executives_Harshal-Hinger-COO_Sai-Supriya-Sharath-CEO_Vipin-Ravindran-CTO.jpeg?resize=1200,800"
     },
     {
-      "title": "Nitter might be no more, but Twitter is back (sort of)",
-      "link": "https://www.theregister.com/personal-tech/2026/08/27/nitter-might-be-no-more-but-twitter-is-back-sort-of/5292949",
-      "summary": "Twitter.now aims to fill the bird-shaped hole left by X. For a fee",
-      "published": "Thu, 27 Aug 2026 16:37:34 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5241136&width=800"
-    },
-    {
       "title": "RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn",
       "link": "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/",
       "summary": "Kennedy and his allies have a history of downplaying vaccine-preventable deaths.",
@@ -288,14 +272,6 @@
       "published": "Thu, 27 Aug 2026 16:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800"
-    },
-    {
-      "title": "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'",
-      "link": "https://www.theregister.com/software/2026/08/27/salesforce-boasts-50-of-bookings-were-from-customers-refilling-the-tank-they-consume-flex-credits-they-want-more/5292927",
-      "summary": "As SaaS giant gets a boost from Claudeforce, users might want to know how their AI use will be monetized",
-      "published": "Thu, 27 Aug 2026 15:56:54 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5292961&width=800"
     },
     {
       "title": "Why did 1,000 world citizens bury their underpants?",
@@ -322,52 +298,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/meta-kill-switch-pervert-glasses.jpg?quality=85&w=2048"
     },
     {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "published": "Thu, 27 Aug 2026 14:56:52 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?resize=1200,750"
-    },
-    {
       "title": "Panic passes Trump tariff refunds back to the Playdate customers who paid them",
       "link": "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
       "summary": "\"It just felt like the right thing to do.\"",
       "published": "Thu, 27 Aug 2026 14:53:17 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/playdate-1152x648.jpeg"
-    },
-    {
-      "title": "Cybercrooks jet off with Manchester Airports Group customer data",
-      "link": "https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943",
-      "summary": "UK’s largest airport operator believes 8.7 million customers affected",
-      "published": "Thu, 27 Aug 2026 14:52:36 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5228864&width=800"
-    },
-    {
-      "title": "Hold up, there’s a new Twitter in town",
-      "link": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
-      "summary": "Former Twitter trademark counsel Stephen Coates said in a LinkedIn post that the company is not trying to re-create Twitter.",
-      "published": "Thu, 27 Aug 2026 14:40:22 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-5.40.14-PM.jpg?w=938"
-    },
-    {
-      "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
-      "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
-      "summary": "Test drivers for Waymo and Zoox sustained more than two dozen injuries in 2024 and 2025 from hard braking or other sudden movements made by the autonomous vehicles, according to a TechCrunch review of data submitted to OSHA.",
-      "published": "Thu, 27 Aug 2026 14:36:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633"
-    },
-    {
-      "title": "HP has a solution to expensive AI tokens: Buy a more expensive PC",
-      "link": "https://www.theregister.com/personal-tech/2026/08/27/hp-has-a-solution-to-expensive-ai-tokens-buy-a-more-expensive-pc/5292922",
-      "summary": "Rising cloud AI costs are pushing workloads onto pricier PCs – which just happen to be better for PC maker's margins",
-      "published": "Thu, 27 Aug 2026 14:23:19 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5248544&width=800"
     },
     {
       "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
@@ -394,28 +330,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
     },
     {
-      "title": "Microsoft slaps a fresh coat of AI paint on the Microsoft 365 Roadmap",
-      "link": "https://www.theregister.com/software/2026/08/27/microsoft-slaps-a-fresh-coat-of-ai-paint-on-the-microsoft-365-roadmap/5292865",
-      "summary": "AI at Work roadmap is the new name for upcoming Microsoft 365 capabilities",
-      "published": "Thu, 27 Aug 2026 13:43:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=133415&width=800"
-    },
-    {
       "title": "Meta Forced to Make Massive Changes Limiting How Minors Can Use Instagram and Facebook",
       "link": "https://futurism.com/artificial-intelligence/meta-massive-changes-limiting-minors-instagram-facebook",
       "summary": "<p>\"The relief we are getting in this settlement is very meaningful and well beyond what any court has ordered or is likely to order.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-massive-changes-limiting-minors-instagram-facebook\">Meta Forced to Make Massive Changes Limiting How Minors Can Use Instagram and Facebook</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 27 Aug 2026 13:40:52 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/meta-massive-changes-limiting-minors-instagram-facebook.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Nuisance-call blocker fined £190k for being a nuisance caller",
-      "link": "https://www.theregister.com/security/2026/08/27/nuisance-call-blocker-fined-190k-for-being-a-nuisance-caller/5292888",
-      "summary": "Elderly Aids made 758,000 unwanted calls a year selling gear to stop unwanted calls",
-      "published": "Thu, 27 Aug 2026 13:04:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230946&width=800"
     },
     {
       "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
@@ -432,14 +352,6 @@
       "published": "Thu, 27 Aug 2026 12:40:59 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/leopold-aschenbrenner-ai-investor-buy-galaxies.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Want to lead Whitehall's AI strategy? AI experience is not essential",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/27/want-to-lead-whitehalls-ai-strategy-ai-experience-is-not-essential/5292894",
-      "summary": "Track record is merely desirable for the person tasked with shaping UK.gov's skills blueprint for 550,000 civil servants",
-      "published": "Thu, 27 Aug 2026 12:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5240076&width=800"
     },
     {
       "title": "Police Chief Brags That His Officers Have Been Using Electro-Shock Gloves for Years",
@@ -480,6 +392,118 @@
       "published": "Thu, 27 Aug 2026 08:44:36 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/jailed-tate-brothers-make-humiliating-confession.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/28/microsofts-virtual-intern-teams-facilitator-will-be-late-for-the-meeting/5293045",
+      "summary": "Teams question detection bot postpones debut, will get 2-month extension to practice interrupting you",
+      "published": "Fri, 28 Aug 2026 12:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5287779&width=800"
+    },
+    {
+      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
+      "link": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
+      "summary": "And as for getting US government to help – uncontrolled AI is not as dangerous as AI under the control of the technically clueless",
+      "published": "Fri, 28 Aug 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292864&width=800"
+    },
+    {
+      "title": "Big Tech market power will cause UK to lose AI race, think tank warns",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/28/big-tech-market-power-will-cause-uk-to-lose-ai-race-think-tank-warns/5292918",
+      "summary": "Britain's market watchdog criticized for not creating the conditions for competition to thrive",
+      "published": "Fri, 28 Aug 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5282519&width=800"
+    },
+    {
+      "title": "BOFH: Schrödinger's petty cash puts us in a very awkward superposition",
+      "link": "https://www.theregister.com/bofh/2026/08/28/bofh-schroedingers-petty-cash-puts-us-in-a-very-awkward-superposition/5289510",
+      "summary": "Why oh why are the accountants stricter than the IRS and HMRC put together?",
+      "published": "Fri, 28 Aug 2026 10:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5252203&width=800"
+    },
+    {
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+      "published": "Fri, 28 Aug 2026 09:33:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948"
+    },
+    {
+      "title": "Exec couldn’t identify a photocopier, which made for a fax-inating tech support call",
+      "link": "https://www.theregister.com/personal-tech/2026/08/28/exec-couldnt-identify-a-photocopier-which-made-for-a-fax-inating-tech-support-call/5292838",
+      "summary": "One retro numeric keypad looks much like any other to some users",
+      "published": "Fri, 28 Aug 2026 08:37:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=245345&width=800"
+    },
+    {
+      "title": "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood",
+      "link": "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168",
+      "summary": "The fix is either an unvalidated and unofficial emergency patch or taking the server offline",
+      "published": "Fri, 28 Aug 2026 07:29:53 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293173&width=800"
+    },
+    {
+      "title": "Australian cops cuff alleged TeamPCP masterminds",
+      "link": "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157",
+      "summary": "Alleged crew behind the Shai-Hulud worm and other supply chain attacks nabbed with help from the FBI",
+      "published": "Fri, 28 Aug 2026 05:33:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293164&width=800"
+    },
+    {
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking throughout the night.",
+      "published": "Fri, 28 Aug 2026 02:02:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Keith-Rabois.jpg?w=1024"
+    },
+    {
+      "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
+      "summary": "Say you're trying to enrich Uranium and your centrifuges broke - soon it will be easy to connect an AI to figure out why",
+      "published": "Fri, 28 Aug 2026 01:22:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293144&width=800"
+    },
+    {
+      "title": "Nvidia and Cerebras are selling performance their customers will (probably) never see",
+      "link": "https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117",
+      "summary": "Touting batch 1 token generation is a bit like boasting about the top speed of your car",
+      "published": "Fri, 28 Aug 2026 00:57:43 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=251642&width=800"
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+      "published": "2026-08-27T23:14:06-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+      "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able [&#8230;]",
+      "published": "2026-08-27T21:05:18-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The biggest video game of all time looks like a movie",
+      "link": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+      "summary": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige crime drama than any video game trailer that [&#8230;]",
+      "published": "2026-08-27T19:20:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
@@ -536,30 +560,6 @@
       "published": "2026-08-27T12:15:52-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-      "link": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-      "summary": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED [&#8230;]",
-      "published": "2026-08-27T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sony-Bravia-6-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=22.8,23.10036094314,54.8,50.799231237988"
-    },
-    {
-      "title": "Americans are cheering for vigilantes who take down Flock cameras",
-      "link": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
-      "summary": "Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. The spontaneous and decentralized nature of the vigilante protests is also what makes them difficult to suppress. There isn't a uniform method of disruption; people have done everything from unplugging, smashing, stealing, and spray-painting the [&#8230;]",
-      "published": "2026-08-27T11:49:47-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
-      "link": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
-      "summary": "The latest special-edition of Google's Fitbit Air is inspired by the Pok&#233;mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pok&#233;mon card pretty closely. The special-edition is available to preorder now for $129 and starts shipping September [&#8230;]",
-      "published": "2026-08-27T10:58:33-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/pokemon-sleep-fitbit-air-hero.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
