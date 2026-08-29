@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T06:31:17.686786",
+  "lastUpdated": "2026-08-29T16:30:01.555812",
   "articles": [
     {
       "title": "Anthropic's new hardware standard lets AI agents control the physical world",
@@ -34,68 +34,116 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg"
     },
     {
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
-      "published": "Thu, 27 Aug 2026 18:57:08 +0000",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "published": "Sat, 29 Aug 2026 16:10:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717"
+    },
+    {
+      "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+      "link": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+      "summary": "A lot of datacenter networks are run by absolute clowns. Not Amazon's",
+      "published": "Sat, 29 Aug 2026 15:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293383&width=800"
+    },
+    {
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+      "published": "Sat, 29 Aug 2026 14:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "published": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800"
+    },
+    {
+      "title": "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
+      "link": "https://www.theregister.com/offbeat/2026/08/29/startup-bags-7m-to-build-drone-interceptor-in-a-backpack-systems/5293176",
+      "summary": "Spike drone defense system is designed to be carried in a rucksack or mounted on top of a vehicle",
+      "published": "Sat, 29 Aug 2026 12:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293180&width=800"
+    },
+    {
+      "title": "The Transcripts of OpenAI Models Plotting Together to Commit an Actual Crime Is Pretty Chilling",
+      "link": "https://futurism.com/artificial-intelligence/chain-of-thought-reasoning-openai-models-hugging-face",
+      "summary": "<p>\"This is wild, multi-agent coordination, clearly infrastructure hacking. We should not.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/chain-of-thought-reasoning-openai-models-hugging-face\">The Transcripts of OpenAI Models Plotting Together to Commit an Actual Crime Is Pretty Chilling</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 29 Aug 2026 12:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/chain-of-thought-reasoning-openai-models-hugging-face.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "A Scientist Was Presenting His Vibe-Coded New Work When One of His Colleagues Pointed Out Something Extremely Embarrassing",
+      "link": "https://futurism.com/artificial-intelligence/scientist-horrified-vibe-coded-work-conference-wrong",
+      "summary": "<p> \"It was subtle, but it was very wrong, and everything downstream of it was also wrong, and I had shared the whole thing in a room full of people who trusted me.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/scientist-horrified-vibe-coded-work-conference-wrong\">A Scientist Was Presenting His Vibe-Coded New Work When One of His Colleagues Pointed Out Something Extremely Embarrassing</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 29 Aug 2026 11:03:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/scientist-horrified-vibe-coded-work-conference-wrong.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+      "published": "Sat, 29 Aug 2026 10:50:31 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2281424431-1024x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg"
     },
     {
-      "title": "NYC’s Buzziest Nightclub Announces Stance On Smart Glasses: Even Try To Bring Them In, You’re Banned Forever",
-      "link": "https://futurism.com/artificial-intelligence/nyc-basement-smart-glasses",
-      "summary": "<p>\"This should be policy at every club.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nyc-basement-smart-glasses\">NYC&#8217;s Buzziest Nightclub Announces Stance On Smart Glasses: Even Try To Bring Them In, You’re Banned Forever</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 27 Aug 2026 18:01:47 -0400",
+      "title": "Former Lyft Drivers Now Doing Menial Tasks for Their Waymo Overlords",
+      "link": "https://futurism.com/advanced-transport/former-lyft-drivers-menial-tasks-waymo",
+      "summary": "<p>They're along for the ride.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/former-lyft-drivers-menial-tasks-waymo\">Former Lyft Drivers Now Doing Menial Tasks for Their Waymo Overlords</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 29 Aug 2026 10:02:00 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/nyc-basement-smart-glasses.png?quality=85"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/former-lyft-drivers-menial-tasks-waymo.jpg?quality=85&w=2048"
     },
     {
-      "title": "Meta Working on “Kill Switch” in Face of Overwhelming Disgust With Its “Pervert Glasses”",
-      "link": "https://futurism.com/future-society/meta-kill-switch-pervert-glasses",
-      "summary": "<p>Could this really fix the problem?</p>\n<p>The post <a href=\"https://futurism.com/future-society/meta-kill-switch-pervert-glasses\">Meta Working on &#8220;Kill Switch&#8221; in Face of Overwhelming Disgust With Its &#8220;Pervert Glasses&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 27 Aug 2026 14:56:55 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/meta-kill-switch-pervert-glasses.jpg?quality=85&w=2048"
+      "title": "Xbox respawns IKEA furniture with gaming range",
+      "link": "https://www.theregister.com/offbeat/2026/08/29/xbox-respawns-ikea-furniture-with-gaming-range/5292911",
+      "summary": "At last, somewhere comfy to sit while your PlayStation 5 game loads",
+      "published": "Sat, 29 Aug 2026 09:28:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292935&width=800"
     },
     {
-      "title": "Meta Forced to Make Massive Changes Limiting How Minors Can Use Instagram and Facebook",
-      "link": "https://futurism.com/artificial-intelligence/meta-massive-changes-limiting-minors-instagram-facebook",
-      "summary": "<p>\"The relief we are getting in this settlement is very meaningful and well beyond what any court has ordered or is likely to order.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-massive-changes-limiting-minors-instagram-facebook\">Meta Forced to Make Massive Changes Limiting How Minors Can Use Instagram and Facebook</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 27 Aug 2026 13:40:52 -0400",
+      "title": "Scientists Gave 12-Year-Olds Access to an AI Tutor and You Probably Already Know What They Did With It",
+      "link": "https://futurism.com/future-society/12-year-olds-access-ai-tutor-ignored",
+      "summary": "<p>\"The issue is that most students don’t use it that way.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/12-year-olds-access-ai-tutor-ignored\">Scientists Gave 12-Year-Olds Access to an AI Tutor and You Probably Already Know What They Did With It</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 29 Aug 2026 09:02:00 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/meta-massive-changes-limiting-minors-instagram-facebook.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/12-year-olds-access-ai-tutor-ignored.jpg?quality=85&w=2048"
     },
     {
-      "title": "Least Delusional AI Investor Said He’s Saving Money to Buy Entire Galaxies, Ignoring the Pesky Speed of Light",
-      "link": "https://futurism.com/future-society/leopold-aschenbrenner-ai-investor-buy-galaxies",
-      "summary": "<p>Riiight.</p>\n<p>The post <a href=\"https://futurism.com/future-society/leopold-aschenbrenner-ai-investor-buy-galaxies\">Least Delusional AI Investor Said He&#8217;s Saving Money to Buy Entire Galaxies, Ignoring the Pesky Speed of Light</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 27 Aug 2026 12:40:59 -0400",
+      "title": "If Corporations Are People, They Should Be Subject to the Death Penalty",
+      "link": "https://futurism.com/future-society/corporations-personhood-legal-court-death-penalty",
+      "summary": "<p>\"The life of a corporation is indeed less than that of the humblest citizen.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/corporations-personhood-legal-court-death-penalty\">If Corporations Are People, They Should Be Subject to the Death Penalty</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 29 Aug 2026 08:01:00 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/leopold-aschenbrenner-ai-investor-buy-galaxies.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/corporations-personhood-legal-court-death-penalty.jpg?quality=85&w=2048"
     },
     {
-      "title": "Police Chief Brags That His Officers Have Been Using Electro-Shock Gloves for Years",
-      "link": "https://futurism.com/robots-and-machines/police-chief-brags-arizona-electro-shock-gloves",
-      "summary": "<p>\"Trying to get them to comply now becomes less of a struggle.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/police-chief-brags-arizona-electro-shock-gloves\">Police Chief Brags That His Officers Have Been Using Electro-Shock Gloves for Years</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 27 Aug 2026 11:45:33 -0400",
+      "title": "Scientists Baffled by Bizarre “Anomaly” Deep Beneath the Surface of Mars",
+      "link": "https://futurism.com/space/thermal-anomaly-beneath-surface-mars",
+      "summary": "<p>\"Scientists usually assume that the interiors of planetary bodies are generally spherically symmetric, but this is not necessarily true.\"</p>\n<p>The post <a href=\"https://futurism.com/space/thermal-anomaly-beneath-surface-mars\">Scientists Baffled by Bizarre &#8220;Anomaly&#8221; Deep Beneath the Surface of Mars</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 29 Aug 2026 07:02:00 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/police-chief-brags-arizona-electro-shock-gloves.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/thermal-anomaly-beneath-surface-mars.jpg?quality=85&w=2048"
     },
     {
-      "title": "Police Use Surveillance Cameras to Narc On Guy Who Found $30 on the Ground",
-      "link": "https://futurism.com/future-society/police-surveillance-man-money-ground",
-      "summary": "<p>Whatever happened to \"finders keepers\"?</p>\n<p>The post <a href=\"https://futurism.com/future-society/police-surveillance-man-money-ground\">Police Use Surveillance Cameras to Narc On Guy Who Found $30 on the Ground</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 27 Aug 2026 10:58:12 -0400",
+      "title": "Mom Who Travels For Work Builds AI Clone of Herself to Keep Her Teenage Son Company",
+      "link": "https://futurism.com/artificial-intelligence/mom-travels-ai-clone-for-son",
+      "summary": "<p>Closer than ever.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mom-travels-ai-clone-for-son\">Mom Who Travels For Work Builds AI Clone of Herself to Keep Her Teenage Son Company</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 29 Aug 2026 06:01:00 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/police-surveillance-man-money-ground.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Streamers Now Going Live With Grizzly Bears, Which Will Surely End Well and Not Like in “Grizzly Man”",
-      "link": "https://futurism.com/science-energy/live-streamers-bear-grizzly-man-clout",
-      "summary": "<p>\"You got that bro?\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/live-streamers-bear-grizzly-man-clout\">Streamers Now Going Live With Grizzly Bears, Which Will Surely End Well and Not Like in &#8220;Grizzly Man&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 27 Aug 2026 09:55:14 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/live-streamers-bear-grizzly-man-clout.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/mom-travels-ai-clone-for-son.jpg?quality=85&w=2048"
     },
     {
       "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
@@ -370,14 +418,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800"
     },
     {
-      "title": "Industry that built the problem offers to sell you the solution",
-      "link": "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207",
-      "summary": "100+ tech giants warn AI attacks are coming, skip the part where they pay for defenses",
-      "published": "Fri, 28 Aug 2026 13:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682740&width=800"
-    },
-    {
       "title": "Data Shows That Mark Zuckerberg Is the Anti-Dolly Parton: Instead of Being Loved by Everybody Across the Political Spectrum, Pretty Much Everybody Despises Him, Regardless of Their Beliefs",
       "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-anti-dolly-parton",
       "summary": "<p>The contrast is incredible.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mark-zuckerberg-anti-dolly-parton\">Data Shows That Mark Zuckerberg Is the Anti-Dolly Parton: Instead of Being Loved by Everybody Across the Political Spectrum, Pretty Much Everybody Despises Him, Regardless of Their Beliefs</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -392,30 +432,6 @@
       "published": "Fri, 28 Aug 2026 12:46:12 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
-    },
-    {
-      "title": "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/28/microsofts-virtual-intern-teams-facilitator-will-be-late-for-the-meeting/5293045",
-      "summary": "Teams question detection bot postpones debut, will get 2-month extension to practice interrupting you",
-      "published": "Fri, 28 Aug 2026 12:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5287779&width=800"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "published": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
-    },
-    {
-      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-      "link": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
-      "summary": "And as for getting US government to help – uncontrolled AI is not as dangerous as AI under the control of the technically clueless",
-      "published": "Fri, 28 Aug 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5292864&width=800"
     },
     {
       "title": "Russia Now Using Fully AI-Controlled Drones to Kill Ukrainian Civilians, Powered by Nvidia Chips",
@@ -458,14 +474,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/nasa-powerful-new-space-telescope-spy-satellite.jpg?quality=85&w=2048"
     },
     {
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-      "published": "Fri, 28 Aug 2026 09:33:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948"
-    },
-    {
       "title": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly",
       "link": "https://futurism.com/artificial-intelligence/mark-zuckerberg-secret-plan-replace-meta-staff-ai",
       "summary": "<p>The company's AI efforts are in shambles.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mark-zuckerberg-secret-plan-replace-meta-staff-ai\">Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -474,12 +482,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/mark-zuckerberg-secret-plan-replace-meta-staff-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking throughout the night.",
-      "published": "Fri, 28 Aug 2026 02:02:44 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Keith-Rabois.jpg?w=1024"
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text [&#8230;]",
+      "published": "2026-08-29T12:01:13-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268605_BYOK_TOBrien_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "link": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "summary": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, [&#8230;]",
+      "published": "2026-08-29T11:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+      "summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola [&#8230;]",
+      "published": "2026-08-29T09:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+      "published": "2026-08-29T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479"
     },
     {
       "title": "Google further buries search results under AI mode",
@@ -528,38 +560,6 @@
       "published": "2026-08-28T11:26:19-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST_0828_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-      "link": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
-      "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's [&#8230;]",
-      "published": "2026-08-28T09:47:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
-      "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
-      "summary": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is extreme. Its multiversal premise, [&#8230;]",
-      "published": "2026-08-28T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Dark_Mater_Photo_020101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
-      "published": "2026-08-27T23:14:06-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-      "link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able [&#8230;]",
-      "published": "2026-08-27T21:05:18-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
