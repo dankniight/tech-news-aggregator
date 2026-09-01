@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-09-01T04:26:48.650796",
+  "lastUpdated": "2026-09-01T11:23:56.603340",
   "articles": [
+    {
+      "title": "Windows 11 misses the pointer while Defender cries wolf",
+      "link": "https://www.theregister.com/os-platforms/2026/09/01/windows-11-misses-the-pointer-while-defender-cries-wolf/5293602",
+      "summary": "August 27 update reportedly scrambles cursor customizations as bogus antivirus alerts spread",
+      "published": "Tue, 01 Sep 2026 13:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=263007&width=800"
+    },
+    {
+      "title": "Insider: Red Hat is capping devs' bot budgets",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/insider-red-hat-is-capping-devs-bot-budgets/5292620",
+      "summary": "And no sharing your allowance! What do you think we are, communists?",
+      "published": "Tue, 01 Sep 2026 12:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093590&width=800"
+    },
+    {
+      "title": "AWS: DuckDB will provide 'connective tissue' across the data estate",
+      "link": "https://www.theregister.com/databases/2026/09/01/aws-duckdb-will-provide-connective-tissue-across-the-data-estate/5293304",
+      "summary": "Dutch in-process OLAP systems set to be the 'SDK for data' as developers scale systems, cloud giant claims after DuckLab acquisition",
+      "published": "Tue, 01 Sep 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=132821&width=800"
+    },
+    {
+      "title": "Next bus to Altrincham delayed by Windows Defender",
+      "link": "https://www.theregister.com/offbeat/2026/09/01/next-bus-to-altrincham-delayed-by-windows-defender/5293289",
+      "summary": "Or possibly \"AI\", it's hard to tell behind the firewall warning",
+      "published": "Tue, 01 Sep 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293293&width=800"
+    },
+    {
+      "title": "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
+      "link": "https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201",
+      "summary": "Hacking education to thrive in the AI world is the first and best step in keeping control",
+      "published": "Tue, 01 Sep 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=154258&width=800"
+    },
+    {
+      "title": "If space data centers feel far-fetched, why not interstellar travel?",
+      "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+      "summary": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+      "published": "Tue, 01 Sep 2026 10:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Philip_AC_vertical-e1788214270919.jpeg?w=913"
+    },
+    {
+      "title": "If hardware price squeezes make you sad, VMware says it will all end in tiers",
+      "link": "https://www.theregister.com/virtualization/2026/09/01/if-hardware-price-squeezes-make-you-sad-vmware-says-it-will-all-end-in-tiers/5293575",
+      "summary": "Virtzilla finding more ways to pull data out of DRAM to enable ‘densification’ and dodge the RAMpocalypse",
+      "published": "Tue, 01 Sep 2026 07:06:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293582&width=800"
+    },
+    {
+      "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+      "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+      "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+      "published": "Tue, 01 Sep 2026 05:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/yuma-energy.jpg?resize=1200,800"
+    },
     {
       "title": "AI adoption at work is broad but shallow",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
@@ -40,14 +104,6 @@
       "published": "Tue, 01 Sep 2026 00:10:38 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=259951&width=800"
-    },
-    {
-      "title": "Debian votes to let contributors code with AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
-      "summary": "Disclosure optional, quality mandatory",
-      "published": "Sun, 30 Aug 2026 23:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238005&width=800"
     },
     {
       "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
@@ -104,14 +160,6 @@
       "published": "Sun, 30 Aug 2026 11:03:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/building-trade-workers-unions-data-center-politicians.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Turns out Brits would quite like their private messages to stay private",
-      "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "summary": "Polling finds two-thirds don't trust this government, or any future one, with access to their encrypted chats",
-      "published": "Sun, 30 Aug 2026 10:34:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255047&width=800"
     },
     {
       "title": "Tesla “Ambassador” Melts Down Over “Horrible” Robotaxi Ride, Says He Had to Call an Uber After Total Self-Driving Failure",
@@ -322,14 +370,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg"
     },
     {
-      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-      "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "summary": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-      "published": "Mon, 31 Aug 2026 18:10:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/mckesson-2236133684.jpg?resize=1200,800"
-    },
-    {
       "title": "Anthropic cracks down on hijacked user accounts mining AI tokens",
       "link": "https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461",
       "summary": "Commodity malware steals authenticated sessions, letting thieves freeload on victims' paid usage",
@@ -344,14 +384,6 @@
       "published": "Mon, 31 Aug 2026 17:16:38 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/billionaire-coinbase-ceo-charity.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-      "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-      "summary": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
-      "published": "Mon, 31 Aug 2026 17:14:44 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/ryan-breslow-bolt.jpg?resize=1200,800"
     },
     {
       "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
@@ -392,14 +424,6 @@
       "published": "Mon, 31 Aug 2026 15:13:22 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/sony-warner-new-lawsuit-anthropic-dario-amodei.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "From watches to passwords on paper, everything that's old is new again",
-      "link": "https://www.theregister.com/offbeat/2026/08/31/from-watches-to-passwords-on-paper-everything-thats-old-is-new-again/5293348",
-      "summary": "This week on the Kettle, we reminisce about the good old days of Windows on XP's 25th anniversary, how new-old Casio watches could reshape the smartwatch market, and why passwords might be better on paper",
-      "published": "Mon, 31 Aug 2026 14:33:42 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=240382&width=800"
     },
     {
       "title": "Google Maps Rival Surges In Popularity After It Refuses to Rename Lake Ontario",
@@ -450,14 +474,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png"
     },
     {
-      "title": "Energy biz SSE smacked around in court by a guy and AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391",
-      "summary": "Company's three year pursuit of debt from non-existent address ended by Oxford judge",
-      "published": "Mon, 31 Aug 2026 09:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=223356&width=800"
-    },
-    {
       "title": "Spotify and YouTube Profiles of Legendary Jazz Musicians Hijacked by AI Waifu Spam",
       "link": "https://futurism.com/artificial-intelligence/spotify-youtube-music-jazz-musicians-ai-waifu-spam",
       "summary": "<p>Beyond parody.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/spotify-youtube-music-jazz-musicians-ai-waifu-spam\">Spotify and YouTube Profiles of Legendary Jazz Musicians Hijacked by AI Waifu Spam</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -466,20 +482,28 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/spotify-youtube-music-jazz-musicians-ai-waifu-spam.jpg?quality=85&w=2048"
     },
     {
-      "title": "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
-      "link": "https://www.theregister.com/virtualization/2026/08/31/the-balkanization-of-virtualization-will-de-throne-vmware-which-doesnt-mind-a-bit/5292488",
-      "summary": "The real fight is who wins the most AI and K8s workloads",
-      "published": "Mon, 31 Aug 2026 09:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=243286&width=800"
+      "title": "TP-Link’s first Wi-Fi 8 router is almost here",
+      "link": "https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability",
+      "summary": "The Wi-Fi 8 standard is far from finalized, but TP-Link is almost ready to release its first hardware targeting the next-gen spec. It unveiled the Archer 8 Ultra tri-band router and Deco 8 Ultra mesh system at IFA 2026, which utilize the upcoming IEEE 802.11bn standard to \"address the connectivity problems people actually notice\" instead [&#8230;]",
+      "published": "2026-09-01T06:18:36-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Archer_8_Ultra_Deco_8_Ultra_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up",
-      "link": "https://www.theregister.com/networks/2026/08/31/who-me-techie-with-three-months-experience-was-sent-in-as-the-cisco-expert-and-proceeded-to-blow-everything-up/5293185",
-      "summary": "The real mistake here was probably sending someone so young to do the job",
-      "published": "Mon, 31 Aug 2026 08:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293388&width=800"
+      "title": "John Ternus is now the CEO of Apple",
+      "link": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
+      "summary": "For the first time since 2011, one of the world's most valuable companies has a new leader, as today marks John Ternus' first day as Apple's CEO. He's replacing Tim Cook, who will continue on as the executive chairman on Apple's board and departed with a letter to employees that remarked, \"This place is proof [&#8230;]",
+      "published": "2026-09-01T06:04:02-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287315497.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Dyson made a camera-equipped toothbrush that flosses for you",
+      "link": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
+      "summary": "Dyson is once again expanding its line of personal care products with a device that focuses on your teeth instead of your hair. As the name implies, the $499 CameraJet is the first electric toothbrush to incorporate a camera into the brush head. Available starting today in ceramic blue or ceramic pink color options, it [&#8230;]",
+      "published": "2026-09-01T05:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/dyson1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The Google TV Streamer now costs $50 more",
@@ -536,30 +560,6 @@
       "published": "2026-08-31T12:54:07-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1173663853.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Markiplier is now GoPro’s biggest shareholder",
-      "link": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
-      "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to make filmmaking more accessible,\" following the release of his [&#8230;]",
-      "published": "2026-08-31T12:38:10-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2250452457.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
-      "link": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
-      "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. We'll have [&#8230;]",
-      "published": "2026-08-31T12:30:45-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-08-at-1.01.41PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
-      "published": "2026-08-31T11:34:58-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
