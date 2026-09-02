@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-09-01T20:49:37.601064",
+  "lastUpdated": "2026-09-02T03:49:57.424421",
   "articles": [
+    {
+      "title": "Tape still isn’t dead, but shipments slipped by 16 exabytes in 2025",
+      "link": "https://www.theregister.com/storage/2026/09/02/tape-still-isnt-dead-but-shipments-slipped-by-16-exabytes-in-2025/5293813",
+      "summary": "LTO program is confident this is a glitch, not terminal unspooling",
+      "published": "Wed, 02 Sep 2026 03:34:45 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261646&width=800"
+    },
+    {
+      "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795",
+      "summary": "23-year-old botnet down",
+      "published": "Wed, 02 Sep 2026 01:54:07 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=247072&width=800"
+    },
+    {
+      "title": "Anthropic promises zero data retention – but customers must check it worked",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/anthropic-promises-zero-data-retention-but-customers-must-check-it-worked/5293789",
+      "summary": "More compliance-friendly stance could boost appeal of Fable",
+      "published": "Wed, 02 Sep 2026 01:37:46 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293799&width=800"
+    },
+    {
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+      "published": "Tue, 01 Sep 2026 23:59:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633"
+    },
+    {
+      "title": "Another Artifactory CVE under attack by AI agents or humans",
+      "link": "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
+      "summary": "Unauthenticated intruders can mint admin tokens, and exposed servers are already being hit",
+      "published": "Tue, 01 Sep 2026 23:07:13 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230216&width=800"
+    },
+    {
+      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+      "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+      "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
+      "published": "Tue, 01 Sep 2026 23:01:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg"
+    },
+    {
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "published": "Tue, 01 Sep 2026 23:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/JioHotstar-Brand-Identity-Horizontal-1.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks",
+      "link": "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
+      "summary": "The model provider gave METR the credits for free. An actual customer would not have been so lucky",
+      "published": "Tue, 01 Sep 2026 22:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293753&width=800"
+    },
+    {
+      "title": "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads",
+      "link": "https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
+      "summary": "Baked-in Firefox ad blocking on iOS begins rolling out slowly today, and is off by default",
+      "published": "Tue, 01 Sep 2026 22:17:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260206&width=800"
+    },
+    {
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "published": "Tue, 01 Sep 2026 22:13:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/apple-maps-lake-america.png?w=1108"
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
+      "summary": "Security ... this time it will be different",
+      "published": "Tue, 01 Sep 2026 21:27:23 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293744&width=800"
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "published": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "published": "Tue, 01 Sep 2026 20:53:05 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200"
+    },
     {
       "title": "X says attackers are targeting user accounts after the launch of X Money",
       "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
@@ -34,6 +146,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Josh-Kushner.jpg?resize=1200,817"
     },
     {
+      "title": "Research roundup: 7 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+      "summary": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
+      "published": "Tue, 01 Sep 2026 19:06:10 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg"
+    },
+    {
       "title": "ReactOS 0.4.16 serves '90s Windows nostalgia with fewer bugs",
       "link": "https://www.theregister.com/os-platforms/2026/09/01/reactos-0416-serves-90s-windows-nostalgia-with-fewer-bugs/5293694",
       "summary": "30 years on, it's still alpha, but 0.4.16 brings plenty of bug fixes and quality-of-life improvements - just in time for Windows XP's 25th anniversary",
@@ -42,7 +162,7 @@
       "image_url": "https://image.theregister.com/?imageId=5293722&width=800"
     },
     {
-      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+      "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
       "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
       "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
       "published": "Tue, 01 Sep 2026 18:21:16 +0000",
@@ -138,60 +258,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/researchers-alarmed-gps-self-driving-cars.jpg?quality=85&w=2048"
     },
     {
-      "title": "GoPro to be acquired for $285M, will remain a public company",
-      "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-      "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
-      "published": "Tue, 01 Sep 2026 15:57:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/13-h13-lens-cover-gcm-50-1920-375.webp?resize=1200,899"
-    },
-    {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "published": "Tue, 01 Sep 2026 15:51:55 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/update-me-when.jpeg?resize=1200,675"
-    },
-    {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "published": "Tue, 01 Sep 2026 15:45:51 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798"
-    },
-    {
       "title": "ESA's Cluster quartet prepares for its final Tango",
       "link": "https://www.theregister.com/science/2026/09/01/esas-cluster-quartet-prepares-for-its-final-tango/5293619",
       "summary": "Two-year mission bows out after 26 thanks to some heroic engineering",
       "published": "Tue, 01 Sep 2026 15:32:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=260336&width=800"
-    },
-    {
-      "title": "Microsoft 365 outage drags on, but things are improving",
-      "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-      "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
-      "published": "Tue, 01 Sep 2026 15:23:15 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748-e1697104507888.jpg?resize=1200,676"
-    },
-    {
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-      "published": "Tue, 01 Sep 2026 15:10:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.png?resize=1200,801"
-    },
-    {
-      "title": "Florida and Texas move to block Flock cameras over privacy concerns",
-      "link": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
-      "summary": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
-      "published": "Tue, 01 Sep 2026 15:00:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/pigeon-flock-2289958923.jpg?resize=1200,800"
     },
     {
       "title": "It turns out that Orion's much-maligned heat shield performed really well",
@@ -266,22 +338,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/employees-loath-ai-workplace-bosses-glassdoor.jpg?quality=85&w=2048"
     },
     {
-      "title": "AWS: DuckDB will provide 'connective tissue' across the data estate",
-      "link": "https://www.theregister.com/databases/2026/09/01/aws-duckdb-will-provide-connective-tissue-across-the-data-estate/5293304",
-      "summary": "Dutch in-process OLAP systems set to be the 'SDK for data' as developers scale systems, cloud giant claims after DuckLab acquisition",
-      "published": "Tue, 01 Sep 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=132821&width=800"
-    },
-    {
-      "title": "Next bus to Altrincham delayed by Windows Defender",
-      "link": "https://www.theregister.com/offbeat/2026/09/01/next-bus-to-altrincham-delayed-by-windows-defender/5293289",
-      "summary": "Or possibly \"AI\", it's hard to tell behind the firewall warning",
-      "published": "Tue, 01 Sep 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293293&width=800"
-    },
-    {
       "title": "Gal Godot Starring in Heavily AI-Generated Movie About the Glories of Bitcoin",
       "link": "https://futurism.com/artificial-intelligence/gal-godot-ai-movie-bitcoin",
       "summary": "<p>\"You’re going to work with it or be out of the game completely,\" she said.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/gal-godot-ai-movie-bitcoin\">Gal Godot Starring in Heavily AI-Generated Movie About the Glories of Bitcoin</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -296,14 +352,6 @@
       "published": "Tue, 01 Sep 2026 11:00:35 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/photo-2-1152x648.jpg"
-    },
-    {
-      "title": "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
-      "link": "https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201",
-      "summary": "Hacking education to thrive in the AI world is the first and best step in keeping control",
-      "published": "Tue, 01 Sep 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=154258&width=800"
     },
     {
       "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
@@ -328,38 +376,6 @@
       "published": "Tue, 01 Sep 2026 09:05:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/airline-defends-decision-passenger-jets-stadium.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "If hardware price squeezes make you sad, VMware says it will all end in tiers",
-      "link": "https://www.theregister.com/virtualization/2026/09/01/if-hardware-price-squeezes-make-you-sad-vmware-says-it-will-all-end-in-tiers/5293575",
-      "summary": "Virtzilla finding more ways to pull data out of DRAM to enable ‘densification’ and dodge the RAMpocalypse",
-      "published": "Tue, 01 Sep 2026 07:06:48 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293582&width=800"
-    },
-    {
-      "title": "AI adoption at work is broad but shallow",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
-      "summary": "GenAI now reaches 80% of occupations, but in most of those fewer than half of workers use it",
-      "published": "Tue, 01 Sep 2026 01:43:37 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293556&width=800"
-    },
-    {
-      "title": "Nvidia is building an IP licensing empire on the back of NVLink",
-      "link": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
-      "summary": "Even when you think you're not buying Nvidia, you might still be buying Nvidia",
-      "published": "Tue, 01 Sep 2026 00:54:24 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=262815&width=800"
-    },
-    {
-      "title": "Healthcare cyberattacks hit pacemakers and millions of patient records",
-      "link": "https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537",
-      "summary": "McKesson admits breach as ShinyHunters demands $55.2M",
-      "published": "Tue, 01 Sep 2026 00:10:38 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259951&width=800"
     },
     {
       "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
@@ -434,22 +450,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/billionaire-coinbase-ceo-charity.jpg?quality=85&w=2048"
     },
     {
-      "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
-      "link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
-      "summary": "Finding reveals an overlooked way that water can damage surfaces.",
-      "published": "Mon, 31 Aug 2026 17:11:48 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1856868830-1152x648.jpg"
-    },
-    {
-      "title": "Think twice before installing this device promising free movies",
-      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
-      "published": "Mon, 31 Aug 2026 16:33:38 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp"
-    },
-    {
       "title": "The Music Industry’s New Lawsuit Against Anthropic Should Have Dario Amodei Shivering With Fear",
       "link": "https://futurism.com/artificial-intelligence/sony-warner-new-lawsuit-anthropic-dario-amodei",
       "summary": "<p>This time, there's precedent.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sony-warner-new-lawsuit-anthropic-dario-amodei\">The Music Industry&#8217;s New Lawsuit Against Anthropic Should Have Dario Amodei Shivering With Fear</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -480,6 +480,38 @@
       "published": "Mon, 31 Aug 2026 10:40:42 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/alarming-ai-humans-more-robotic.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+      "published": "2026-09-01T18:50:29-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+      "published": "2026-09-01T18:01:36-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows \"Lake Ontario\" [&#8230;]",
+      "published": "2026-09-01T17:22:56-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-maps-lake-america.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "link": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+      "summary": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V processor, 16GB of LPDDR5X memory, and a 512GB SSD. The IPS touchscreen [&#8230;]",
+      "published": "2026-09-01T16:54:08-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lenovo-Yoga-7i-2in1-breakout-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
@@ -528,38 +560,6 @@
       "published": "2026-09-01T14:19:26-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google Find Hub will soon help you locate things without a tracker",
-      "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-      "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as [&#8230;]",
-      "published": "2026-09-01T14:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Homey just made the smart home controller I hoped Apple would build",
-      "link": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
-      "summary": "Smart homes have gotten really good at making things really complicated. Turning on a light can involve multiple steps, compared to just flipping a switch. Homey, the Dutch-based smart home platform owned by LG, thinks it has a solution. This week it launched the Homey Portal, a touchscreen smart home controller that looks very promising, [&#8230;]",
-      "published": "2026-09-01T13:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Homey-Portal--Home.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
-      "link": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
-      "summary": "If you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy, the best deal we’ve seen since the phone launched last month. The phone impressed us with its rear triple camera setup, excellent battery life, and [&#8230;]",
-      "published": "2026-09-01T12:48:45-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Galaxy-Z-Fold-8-Ultra-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "GoPro has been acquired and is getting into &#8216;defense, government, robotics and aerospace&#8217;",
-      "link": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
-      "summary": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later. Now, almost the entire company has been bought by Starman Holding for $285 million in cash, which [&#8230;]",
-      "published": "2026-09-01T12:46:08-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
