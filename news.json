@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-09-03T10:57:00.680927",
+  "lastUpdated": "2026-09-03T16:08:43.283888",
   "articles": [
-    {
-      "title": "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade",
-      "link": "https://www.theregister.com/virtualization/2026/09/02/vmware-swings-its-focus-back-to-low-end-server-virt-promises-vsphere-standard-upgrade/5294083",
-      "summary": "Found the time to focus and ‘corrected’ incentives that saw sales drive users to full private clouds",
-      "published": "Wed, 02 Sep 2026 23:49:26 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=247020&width=800"
-    },
-    {
-      "title": "Claude Mythos only model to complete full cyber kill chain, experts say",
-      "link": "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
-      "summary": "Cyber Weapon Index finds AI attacks 'imminent'",
-      "published": "Wed, 02 Sep 2026 23:31:31 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294088&width=800"
-    },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -34,36 +18,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
     },
     {
-      "title": "Microsoft devs rejoice: Union types coming to C# in November",
-      "link": "https://www.theregister.com/devops/2026/09/02/microsoft-devs-rejoice-union-types-coming-to-c-in-november/5294056",
-      "summary": "The unsafe keyword will do more heavy lifting, while union types unify disparate forms of data",
-      "published": "Wed, 02 Sep 2026 22:37:35 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294068&width=800"
-    },
-    {
-      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
-      "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
-      "summary": "Even the best model gets fungus identification right just 65% of the time - talk about a false friend",
-      "published": "Wed, 02 Sep 2026 22:34:41 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=241049&width=800"
-    },
-    {
       "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
       "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
       "published": "Wed, 02 Sep 2026 22:24:09 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200"
-    },
-    {
-      "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
-      "summary": "AI model scores well, runs fast, and doesn't cost too much (yet)",
-      "published": "Wed, 02 Sep 2026 21:59:26 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=248218&width=800"
     },
     {
       "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
@@ -90,14 +50,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png"
     },
     {
-      "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit",
-      "link": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
-      "summary": "Adding insult to injury",
-      "published": "Wed, 02 Sep 2026 20:28:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294046&width=800"
-    },
-    {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
       "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
@@ -112,14 +64,6 @@
       "published": "Wed, 02 Sep 2026 20:12:41 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891"
-    },
-    {
-      "title": "Infosec pros say we're not ready to lose control of AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/infosec-pros-say-were-not-ready-to-lose-control-of-ai/5294001",
-      "summary": "Nearly two-thirds of US national security pros surveyed believe AI risks, and government posture toward them, are unacceptable",
-      "published": "Wed, 02 Sep 2026 19:56:49 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5281583&width=800"
     },
     {
       "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
@@ -178,30 +122,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675"
     },
     {
-      "title": "X shifts US creator payouts from Stripe to X Money",
-      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-      "published": "Wed, 02 Sep 2026 17:12:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607"
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-      "published": "Wed, 02 Sep 2026 17:09:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024"
-    },
-    {
-      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-      "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
-      "published": "Wed, 02 Sep 2026 16:54:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675"
-    },
-    {
       "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
       "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
       "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
@@ -216,30 +136,6 @@
       "published": "Wed, 02 Sep 2026 16:06:48 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/grand-theft-auto-release-workplace-productivity.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "published": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
-    },
-    {
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "published": "Wed, 02 Sep 2026 16:01:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800"
-    },
-    {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "published": "Wed, 02 Sep 2026 15:01:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900"
     },
     {
       "title": "“Nightmare”: Children’s Petting Zoo Horrified to Realize Its Adorable Animals Are Carrying Rabies",
@@ -394,28 +290,92 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/man-ai-trick-women-nfl-fbi.jpg?quality=85&w=2048"
     },
     {
-      "title": "Employees Absolutely Loath AI in the Workplace, Survey Finds",
-      "link": "https://futurism.com/artificial-intelligence/employees-loath-ai-workplace-bosses-glassdoor",
-      "summary": "<p>\"It's not just about the fear being replaced by AI.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/employees-loath-ai-workplace-bosses-glassdoor\">Employees Absolutely Loath AI in the Workplace, Survey Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 01 Sep 2026 12:03:39 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/employees-loath-ai-workplace-bosses-glassdoor.jpg?quality=85&w=2048"
+      "title": "Drowning in CVEs and thirsty for answers? Try CTEM",
+      "link": "https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906",
+      "summary": "Boards want to know if they're less exposed than last quarter. Patching metrics aren't the solution",
+      "published": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293920&width=800"
     },
     {
-      "title": "Gal Godot Starring in Heavily AI-Generated Movie About the Glories of Bitcoin",
-      "link": "https://futurism.com/artificial-intelligence/gal-godot-ai-movie-bitcoin",
-      "summary": "<p>\"You’re going to work with it or be out of the game completely,\" she said.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/gal-godot-ai-movie-bitcoin\">Gal Godot Starring in Heavily AI-Generated Movie About the Glories of Bitcoin</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 01 Sep 2026 11:01:57 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/gal-godot-ai-movie-bitcoin.jpg?quality=85&w=2048"
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "summary": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully",
+      "published": "Thu, 03 Sep 2026 16:44:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294241&width=800"
     },
     {
-      "title": "Nvidia’s “Slop Tracing” Feature That Uses AI to Yassify Video Games Leaked, and the Results Are Even More Horrifying Than Anyone Thought Possible",
-      "link": "https://futurism.com/artificial-intelligence/nvidia-slop-tracing-leak",
-      "summary": "<p>Embarrassing.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nvidia-slop-tracing-leak\">Nvidia&#8217;s &#8220;Slop Tracing&#8221; Feature That Uses AI to Yassify Video Games Leaked, and the Results Are Even More Horrifying Than Anyone Thought Possible</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 01 Sep 2026 09:55:21 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/nvidia-slop-tracing-leak.jpg?quality=85&w=2048"
+      "title": "Google launches AI voice features in Gmail, Docs and Keep",
+      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "summary": "Users can search for emails or draft documents using the new conversational feature",
+      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Haiku OS rises / Beta 6 sails open web / Virtual winds fly fast",
+      "link": "https://www.theregister.com/os-platforms/2026/09/03/haiku-os-rises-/-beta-6-sails-open-web-/-virtual-winds-fly-fast/5294184",
+      "summary": "A real alternative to running some kind of FOSS Unix clone",
+      "published": "Thu, 03 Sep 2026 15:46:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294198&width=800"
+    },
+    {
+      "title": "Nvidia buys Hugging Face for $12.9B, promises not to squeeze too hard",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/nvidia-buys-hugging-face-for-129b-promises-not-to-squeeze-too-hard/5294208",
+      "summary": "GPU giant pledges to keep the model hub open to the entire AI ecosystem",
+      "published": "Thu, 03 Sep 2026 15:03:13 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=252462&width=800"
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675"
+    },
+    {
+      "title": "Cybercrooks trawl Fishbrain to net password hashes",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/03/cybercrooks-trawl-fishbrain-to-net-password-hashes/5294158",
+      "summary": "Armed with password hashes and salts, attackers could already be kraken those creds",
+      "published": "Thu, 03 Sep 2026 14:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093857&width=800"
+    },
+    {
+      "title": "'Uber rapture' leaves passengers and drivers behind in Nigeria and Uganda",
+      "link": "https://www.theregister.com/offbeat/2026/09/03/uber-rapture-leaves-passengers-and-drivers-behind-in-nigeria-and-uganda/5294152",
+      "summary": "No time for a fare-thee-well as app hails a ride out of two more markets",
+      "published": "Thu, 03 Sep 2026 14:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=253463&width=800"
+    },
+    {
+      "title": "Windows 11 update sends some desktops into an unwanted goth phase",
+      "link": "https://www.theregister.com/os-platforms/2026/09/03/windows-11-update-sends-some-desktops-into-an-unwanted-goth-phase/5294142",
+      "summary": "Hello darkness, my old friend... I've trusted Redmond once again",
+      "published": "Thu, 03 Sep 2026 13:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261311&width=800"
+    },
+    {
+      "title": "Volunteer at TechCrunch Founder Summit in Boston",
+      "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+      "summary": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get [&#8230;]",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/54571034038_4825307406_k.jpg?resize=1200,800"
+    },
+    {
+      "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+      "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "summary": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795"
     },
     {
       "title": "Which came first, Windows 95's taskbar or NeXT's Dock? Neither",
@@ -424,6 +384,22 @@
       "published": "Thu, 03 Sep 2026 12:45:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=225582&width=800"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "published": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+      "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+      "published": "Thu, 03 Sep 2026 12:12:56 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900"
     },
     {
       "title": "Spurs boots VMware, cites 85% licensing saving",
@@ -442,6 +418,14 @@
       "image_url": "https://image.theregister.com/?imageId=227673&width=800"
     },
     {
+      "title": "Hackers Are Selling Stolen Scans of 153 Million US and Canadian Drivers Licenses, Which Very Likely Include Yours",
+      "link": "https://futurism.com/future-society/hackers-selling-stolen-scans-americans-drivers-licenses",
+      "summary": "<p>\"We have been continuously exfiltrating new data for over a year into our private database.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/hackers-selling-stolen-scans-americans-drivers-licenses\">Hackers Are Selling Stolen Scans of 153 Million US and Canadian Drivers Licenses, Which Very Likely Include Yours</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 03 Sep 2026 10:52:24 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/hackers-selling-stolen-scans-americans-drivers-licenses.jpg?quality=85&w=2048"
+    },
+    {
       "title": "British wind power to drive Maersk container ship",
       "link": "https://www.theregister.com/offbeat/2026/09/03/british-wind-power-to-drive-maersk-container-ship/5293962",
       "summary": "Rotor sails claimed to deliver fuel and emissions savings of 21%",
@@ -458,12 +442,28 @@
       "image_url": "https://image.theregister.com/?imageId=5287909&width=800"
     },
     {
+      "title": "As the Rest of the Economy Crumbles, the Amount of Money Flooding Into Data Centers Is Simply Astounding",
+      "link": "https://futurism.com/future-society/us-economy-data-centers-ai-spending-pwc-finances",
+      "summary": "<p>\"An enormous amount of funding is required to meet mounting compute needs.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/us-economy-data-centers-ai-spending-pwc-finances\">As the Rest of the Economy Crumbles, the Amount of Money Flooding Into Data Centers Is Simply Astounding</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 03 Sep 2026 09:52:21 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/us-economy-data-centers-ai-spending-pwc-finances.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Terminated employee cost company hundreds of thousands of dollars because nobody revoked access",
       "link": "https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763",
       "summary": "They had more access than the average Joe, and IT didn't track what needed to be cut off",
       "published": "Thu, 03 Sep 2026 09:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5292773&width=800"
+    },
+    {
+      "title": "Tesla Driver Killed After Self-Driving Mode Stops in the Middle of a Highway",
+      "link": "https://futurism.com/advanced-transport/tesla-driver-killed-after-self-driving-mode-stops-in-the-middle-of-a-highway",
+      "summary": "<p>Grim.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/tesla-driver-killed-after-self-driving-mode-stops-in-the-middle-of-a-highway\">Tesla Driver Killed After Self-Driving Mode Stops in the Middle of a Highway</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 03 Sep 2026 08:49:08 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/tesla-driver-killed-after-self-driving-mode-stops-in-the-middle-of-a-highway.jpg?quality=85&w=2048"
     },
     {
       "title": "To keep the AI hacking genie bottled up, try one-way networks",
@@ -482,84 +482,84 @@
       "image_url": "https://image.theregister.com/?imageId=252997&width=800"
     },
     {
-      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-      "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-      "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has previously reported [&#8230;]",
-      "published": "2026-09-03T04:59:09-04:00",
+      "title": "I held the first truly bezel-free phone",
+      "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+      "summary": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, progress just stopped. The bezel shrunk down until it was a millimeter or [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
-      "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
-      "summary": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inches when placed just 7.5 inches from the [&#8230;]",
-      "published": "2026-09-03T04:30:00-04:00",
+      "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
+      "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
+      "summary": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Man-Cave.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Belkin’s first trackers come ready to attach to your gear.",
-      "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
-      "summary": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers from AirTags and Google's recently announced Pixel Tag is that you [&#8230;]",
-      "published": "2026-09-03T04:00:00-04:00",
+      "title": "The Moto Watch Ultra is a return to Wear OS",
+      "link": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
+      "summary": "Just a few months after getting back into the smartwatch game, Motorola is targeting the premium end of the market with the first Moto Watch Ultra. It comes with some upgrades from the recent Moto Watch - most obviously the jump to Wear OS - but lacks the outdoorsy features that would make it a [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkintracker3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/moto-watch-ultra-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-      "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-      "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion [&#8230;]",
-      "published": "2026-09-03T04:00:00-04:00",
+      "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
+      "link": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
+      "summary": "Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip options due out in October and November, respectively. Intel versions (likely Wildcat Lake) are set [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_IdeaPad_Vibe_IFA_2026_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
-      "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
-      "summary": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in. It also embeds lots of hippie shit. If I'm understanding things [&#8230;]",
-      "published": "2026-09-03T03:30:00-04:00",
+      "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
+      "link": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
+      "summary": "Lenovo is announcing a new concept laptop for IFA 2026 that uses solid-state cooling instead of traditional fans, making it incredibly thin and super light. The 14-inch Project AeroBlade concept laptop is less than 10mm thick and weighs under 1.8 pounds / 830g. For reference, recent ThinkPad X1 Carbons are around 14mm at their thickest [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sleep-Speaker-Lifestyle-1.png?quality=90&#038;strip=all&#038;crop=39.94453125,11.561111111111,60.05546875,88.438888888889"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Ultra_Concept_Frore_IFA_2026_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
-      "link": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
-      "summary": "After introducing the Thus processing chip in April and releasing it with the Liberty 5 Pro series earbuds, Soundcore is bringing it to more audio products. The Thus chip is behind the best call quality I've ever heard from a pair of earbuds or headphones, virtually eliminating ambient sounds from the speaker's environment. At IFA [&#8230;]",
-      "published": "2026-09-03T03:30:00-04:00",
+      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+      "link": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+      "summary": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October. You'll be able to buy [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/soundcore-space-2-pro-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anker announces its first over-the-counter hearing aids",
-      "link": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
-      "summary": "In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent company for Eargo and Lexie Hearing - two major OTC manufacturers in the US - decided to end US operations and exit [&#8230;]",
-      "published": "2026-09-03T03:30:00-04:00",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/anker-otc-hearing-aid-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anker’s new printer works directly on fabrics",
-      "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
-      "summary": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new [&#8230;]",
-      "published": "2026-09-03T03:30:00-04:00",
+      "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
+      "link": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
+      "summary": "Lenovo's latest rollable concept, announced at IFA 2026, is the ThinkBook Project Swan: a business laptop with a screen that expands horizontally from 14 to 17 inches. Rollable screens are nothing new for Lenovo. The company has shown off several concepts and even launched a real one last year (and it was pretty great). But [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ankerprinter1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Swan_14-17_Rollable_Concept_IFA_2026_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
-      "link": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in Berlin this week, including [&#8230;]",
-      "published": "2026-09-03T03:30:00-04:00",
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down [&#8230;]",
+      "published": "2026-09-03T12:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module",
-      "link": "https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module",
-      "summary": "Philips Hue is finally adding wall panels into its smart lighting portfolio. But instead of developing its own, it's partnered with longtime rival Nanoleaf, the company that invented the smart modular wall panel category. Starting today, September 3rd, if you own Nanoleaf Hexagon, Triangle, or Mini Triangle wall panels, you can integrate them into your [&#8230;]",
-      "published": "2026-09-03T03:30:00-04:00",
+      "title": "The best tech and gadgets announced at IFA so far",
+      "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including [&#8230;]",
+      "published": "2026-09-03T11:37:59-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9184.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFAtop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
