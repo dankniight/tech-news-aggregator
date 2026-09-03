@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T03:49:24.334551",
+  "lastUpdated": "2026-09-03T10:57:00.680927",
   "articles": [
     {
       "title": "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade",
@@ -162,28 +162,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg"
     },
     {
-      "title": "SonicWall's SMA1000 boxes under active attack again",
-      "link": "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969",
-      "summary": "Miscreants use chained zero days to pwn boxen as third-party SOCs say further attacks 'almost certain'",
-      "published": "Wed, 02 Sep 2026 18:05:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5239796&width=800"
-    },
-    {
       "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
       "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
       "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
       "published": "Wed, 02 Sep 2026 17:58:33 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg"
-    },
-    {
-      "title": "Microsoft will stop finishing your sentences in Word and Outlook",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/microsoft-will-stop-finishing-your-sentences-in-word-and-outlook/5293860",
-      "summary": "Predictive text remains available, but users will have to invite it into their workflow",
-      "published": "Wed, 02 Sep 2026 17:31:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=246713&width=800"
     },
     {
       "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
@@ -210,14 +194,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024"
     },
     {
-      "title": "NASA's Swift shortens orbital lifetime for the sake of science",
-      "link": "https://www.theregister.com/science/2026/09/02/nasas-swift-shortens-orbital-lifetime-for-the-sake-of-science/5293911",
-      "summary": "Instruments reactivated for a final hurrah before reentry",
-      "published": "Wed, 02 Sep 2026 17:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237915&width=800"
-    },
-    {
       "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
       "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
       "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
@@ -226,28 +202,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675"
     },
     {
-      "title": "Firefox and Thunderbird hit the fortnightly release treadmill",
-      "link": "https://www.theregister.com/software/2026/09/02/firefox-and-thunderbird-hit-the-fortnightly-release-treadmill/5293953",
-      "summary": "Don't disable automatic updates if the pace is too much – that's what ESR is for",
-      "published": "Wed, 02 Sep 2026 16:53:46 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293976&width=800"
-    },
-    {
       "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
       "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
       "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
       "published": "Wed, 02 Sep 2026 16:30:11 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
-    },
-    {
-      "title": "Legacy Lenovo login opens 5,000 Dropbox accounts to attackers",
-      "link": "https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924",
-      "summary": "Cloud storage biz severs old integration and urges victims to reset credentials",
-      "published": "Wed, 02 Sep 2026 16:25:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293949&width=800"
     },
     {
       "title": "Bosses Concerned That GTA 6 Release Will Cause Massive Drop in Productivity",
@@ -272,22 +232,6 @@
       "published": "Wed, 02 Sep 2026 16:01:48 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800"
-    },
-    {
-      "title": "Offshoots of cancelled TrueNAS Core upgrade to FreeBSD 15",
-      "link": "https://www.theregister.com/storage/2026/09/02/offshoots-of-cancelled-truenas-core-upgrade-to-freebsd-15/5293725",
-      "summary": "Exeunt zVault stage right; enter FreeCORE and BSDnas",
-      "published": "Wed, 02 Sep 2026 15:49:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255854&width=800"
-    },
-    {
-      "title": "Anthropic hires architect of UK AI policy as MPs warn of 'clear conflict of interest'",
-      "link": "https://www.theregister.com/public-sector/2026/09/02/anthropic-hires-architect-of-uk-ai-policy-as-mps-warn-of-clear-conflict-of-interest/5293903",
-      "summary": "Matt Clifford plans to keep role as ARIA chair while leading the LLM maker's dealings with governments outside North America",
-      "published": "Wed, 02 Sep 2026 15:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5254625&width=800"
     },
     {
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
@@ -474,6 +418,62 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/nvidia-slop-tracing-leak.jpg?quality=85&w=2048"
     },
     {
+      "title": "Which came first, Windows 95's taskbar or NeXT's Dock? Neither",
+      "link": "https://www.theregister.com/os-platforms/2026/09/03/which-came-first-windows-95s-taskbar-or-nexts-dock-neither/5293715",
+      "summary": "Reg hack accidentally rattles Microsoft folks' cages… again",
+      "published": "Thu, 03 Sep 2026 12:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=225582&width=800"
+    },
+    {
+      "title": "Spurs boots VMware, cites 85% licensing saving",
+      "link": "https://www.theregister.com/on-prem/2026/09/03/spurs-boots-vmware-cites-85-licensing-saving/5294139",
+      "summary": "Part of wider infrastructure replacement upgrade project with HPE",
+      "published": "Thu, 03 Sep 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=255440&width=800"
+    },
+    {
+      "title": "UK's Online Safety Act has made 'absolutely no difference,' kids say",
+      "link": "https://www.theregister.com/security/2026/09/03/uks-online-safety-act-has-made-absolutely-no-difference-kids-say/5293893",
+      "summary": "Children's Commissioner also furious with Ofcom over a string of failures",
+      "published": "Thu, 03 Sep 2026 11:14:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227673&width=800"
+    },
+    {
+      "title": "British wind power to drive Maersk container ship",
+      "link": "https://www.theregister.com/offbeat/2026/09/03/british-wind-power-to-drive-maersk-container-ship/5293962",
+      "summary": "Rotor sails claimed to deliver fuel and emissions savings of 21%",
+      "published": "Thu, 03 Sep 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293966&width=800"
+    },
+    {
+      "title": "Your VMware renewal invoice ate your AI budget – what now?",
+      "link": "https://www.theregister.com/virtualization/2026/09/03/sponsored-your-vmware-renewal-invoice-ate-your-ai-budget-what-now/5287907",
+      "summary": "SPONSORED POST: A free event with Nutanix on Oct 7 can win some of it back",
+      "published": "Thu, 03 Sep 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5287909&width=800"
+    },
+    {
+      "title": "Terminated employee cost company hundreds of thousands of dollars because nobody revoked access",
+      "link": "https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763",
+      "summary": "They had more access than the average Joe, and IT didn't track what needed to be cut off",
+      "published": "Thu, 03 Sep 2026 09:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292773&width=800"
+    },
+    {
+      "title": "To keep the AI hacking genie bottled up, try one-way networks",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121",
+      "summary": "Sandboxes, permissions, and VMs aren't enough to keep frontier models at bay. \"Data diodes\" might do the job",
+      "published": "Thu, 03 Sep 2026 08:33:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=234105&width=800"
+    },
+    {
       "title": "Zuck's Muse to Spark joy with open weights release 'soon'",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/02/zucks-muse-to-spark-joy-with-open-weights-release-soon/5294093",
       "summary": "While you wait, Meta says it’s taught the model to stop wasting tokens and ask for help a bit more often",
@@ -482,84 +482,84 @@
       "image_url": "https://image.theregister.com/?imageId=252997&width=800"
     },
     {
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. [&#8230;]",
-      "published": "2026-09-02T19:00:00-04:00",
+      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+      "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+      "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has previously reported [&#8230;]",
+      "published": "2026-09-03T04:59:09-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
-      "published": "2026-09-02T16:11:40-04:00",
+      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+      "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+      "summary": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inches when placed just 7.5 inches from the [&#8230;]",
+      "published": "2026-09-03T04:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Man-Cave.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "summary": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to equipment for camping and hiking and more. The sale [&#8230;]",
-      "published": "2026-09-02T14:56:59-04:00",
+      "title": "Belkin’s first trackers come ready to attach to your gear.",
+      "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+      "summary": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers from AirTags and Google's recently announced Pixel Tag is that you [&#8230;]",
+      "published": "2026-09-03T04:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Garmin-InReach-Mini-3-Lifestyle-Press-Image.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkintracker3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "1Password wades into a right-wing mess after funding a Linux project",
-      "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-      "summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular password manager is now a \"distinguished corporate patron\" of Omacom, the [&#8230;]",
-      "published": "2026-09-02T14:48:14-04:00",
+      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+      "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+      "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion [&#8230;]",
+      "published": "2026-09-03T04:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2245678912.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkin1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
-      "published": "2026-09-02T13:52:56-04:00",
+      "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+      "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+      "summary": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in. It also embeds lots of hippie shit. If I'm understanding things [&#8230;]",
+      "published": "2026-09-03T03:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sleep-Speaker-Lifestyle-1.png?quality=90&#038;strip=all&#038;crop=39.94453125,11.561111111111,60.05546875,88.438888888889"
     },
     {
-      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-      "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-      "summary": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes familiar designs are the way [&#8230;]",
-      "published": "2026-09-02T13:01:08-04:00",
+      "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
+      "link": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+      "summary": "After introducing the Thus processing chip in April and releasing it with the Liberty 5 Pro series earbuds, Soundcore is bringing it to more audio products. The Thus chip is behind the best call quality I've ever heard from a pair of earbuds or headphones, virtually eliminating ambient sounds from the speaker's environment. At IFA [&#8230;]",
+      "published": "2026-09-03T03:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/RANGE-ROVER-ELECTRIC-FRONT-3-4-02_09_26_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/soundcore-space-2-pro-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including [&#8230;]",
-      "published": "2026-09-02T12:43:50-04:00",
+      "title": "Anker announces its first over-the-counter hearing aids",
+      "link": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+      "summary": "In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent company for Eargo and Lexie Hearing - two major OTC manufacturers in the US - decided to end US operations and exit [&#8230;]",
+      "published": "2026-09-03T03:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/anker-otc-hearing-aid-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
-      "published": "2026-09-02T12:40:50-04:00",
+      "title": "Anker’s new printer works directly on fabrics",
+      "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+      "summary": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new [&#8230;]",
+      "published": "2026-09-03T03:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ankerprinter1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [&#8230;]",
-      "published": "2026-09-02T12:12:25-04:00",
+      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "link": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in Berlin this week, including [&#8230;]",
+      "published": "2026-09-03T03:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew [&#8230;]",
-      "published": "2026-09-02T11:47:03-04:00",
+      "title": "Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module",
+      "link": "https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module",
+      "summary": "Philips Hue is finally adding wall panels into its smart lighting portfolio. But instead of developing its own, it's partnered with longtime rival Nanoleaf, the company that invented the smart modular wall panel category. Starting today, September 3rd, if you own Nanoleaf Hexagon, Triangle, or Mini Triangle wall panels, you can integrate them into your [&#8230;]",
+      "published": "2026-09-03T03:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9184.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
