@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-09-02T20:49:23.995472",
+  "lastUpdated": "2026-09-03T03:49:24.334551",
   "articles": [
+    {
+      "title": "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade",
+      "link": "https://www.theregister.com/virtualization/2026/09/02/vmware-swings-its-focus-back-to-low-end-server-virt-promises-vsphere-standard-upgrade/5294083",
+      "summary": "Found the time to focus and ‘corrected’ incentives that saw sales drive users to full private clouds",
+      "published": "Wed, 02 Sep 2026 23:49:26 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=247020&width=800"
+    },
+    {
+      "title": "Claude Mythos only model to complete full cyber kill chain, experts say",
+      "link": "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
+      "summary": "Cyber Weapon Index finds AI attacks 'imminent'",
+      "published": "Wed, 02 Sep 2026 23:31:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294088&width=800"
+    },
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "published": "Wed, 02 Sep 2026 23:01:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675"
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "published": "Wed, 02 Sep 2026 22:44:56 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
+    },
+    {
+      "title": "Microsoft devs rejoice: Union types coming to C# in November",
+      "link": "https://www.theregister.com/devops/2026/09/02/microsoft-devs-rejoice-union-types-coming-to-c-in-november/5294056",
+      "summary": "The unsafe keyword will do more heavy lifting, while union types unify disparate forms of data",
+      "published": "Wed, 02 Sep 2026 22:37:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294068&width=800"
+    },
+    {
+      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
+      "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
+      "summary": "Even the best model gets fungus identification right just 65% of the time - talk about a false friend",
+      "published": "Wed, 02 Sep 2026 22:34:41 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=241049&width=800"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200"
+    },
+    {
+      "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
+      "summary": "AI model scores well, runs fast, and doesn't cost too much (yet)",
+      "published": "Wed, 02 Sep 2026 21:59:26 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=248218&width=800"
+    },
+    {
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "published": "Wed, 02 Sep 2026 21:38:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
+    },
+    {
+      "title": "Spending deal comes with a bonus: Blocking political control of grants",
+      "link": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+      "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+      "published": "Wed, 02 Sep 2026 21:20:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg"
+    },
+    {
+      "title": "I rented a car, and within hours, my driver's license was for sale",
+      "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "published": "Wed, 02 Sep 2026 20:32:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png"
+    },
+    {
+      "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit",
+      "link": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
+      "summary": "Adding insult to injury",
+      "published": "Wed, 02 Sep 2026 20:28:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294046&width=800"
+    },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
       "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
@@ -10,12 +106,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
     },
     {
-      "title": "MapQuest is now the No. 1 U.S. app after bucking Trump’s ‘Lake America’ renaming",
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
       "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
       "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
       "published": "Wed, 02 Sep 2026 20:12:41 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891"
+    },
+    {
+      "title": "Infosec pros say we're not ready to lose control of AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/infosec-pros-say-were-not-ready-to-lose-control-of-ai/5294001",
+      "summary": "Nearly two-thirds of US national security pros surveyed believe AI risks, and government posture toward them, are unacceptable",
+      "published": "Wed, 02 Sep 2026 19:56:49 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5281583&width=800"
+    },
+    {
+      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+      "link": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+      "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+      "published": "Wed, 02 Sep 2026 19:54:27 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/robocall-blocking-1152x648-1788376254.jpg"
     },
     {
       "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
@@ -186,22 +298,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900"
     },
     {
-      "title": "Next-gen AI networks may hinge on the telephone switchboard's return",
-      "link": "https://www.theregister.com/networks/2026/09/02/nvidia-joins-investment-into-ipronics-to-build-out-optical-circuit-switching-ocs-tech/5293764",
-      "summary": "Photonics startups like iPronics are raking in hundreds of millions in funding to make optical circuit switches faster, denser, and cheaper",
-      "published": "Wed, 02 Sep 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5293775&width=800"
-    },
-    {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "published": "Wed, 02 Sep 2026 14:56:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/alexa-shopping-ai-hero-lm.jpg?resize=1200,675"
-    },
-    {
       "title": "“Nightmare”: Children’s Petting Zoo Horrified to Realize Its Adorable Animals Are Carrying Rabies",
       "link": "https://futurism.com/future-society/nightmare-petting-zoo-rabies",
       "summary": "<p>\"Reality set in as to how serious this situation was, and I panicked.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/nightmare-petting-zoo-rabies\">&#8220;Nightmare&#8221;: Children&#8217;s Petting Zoo Horrified to Realize Its Adorable Animals Are Carrying Rabies</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -218,60 +314,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090126a-lg-1152x648.jpg"
     },
     {
-      "title": "Microsoft update disarms Outlook and Teams on Arm PCs",
-      "link": "https://www.theregister.com/os-platforms/2026/09/02/microsoft-update-disarms-outlook-and-teams-on-arm-pcs/5293849",
-      "summary": "Installing an AI gaming package offers relief while custom cursors suffer a separate reset",
-      "published": "Wed, 02 Sep 2026 14:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683353&width=800"
-    },
-    {
       "title": "Kalshi Just Issued Its First-Ever Lifetime Ban to the Funniest Person You Can Possibly Imagine",
       "link": "https://futurism.com/future-society/kalshi-first-lifetime-ban-george-santos",
       "summary": "<p>We did it, guys. We caught the career fraudster!</p>\n<p>The post <a href=\"https://futurism.com/future-society/kalshi-first-lifetime-ban-george-santos\">Kalshi Just Issued Its First-Ever Lifetime Ban to the Funniest Person You Can Possibly Imagine</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 02 Sep 2026 14:20:05 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/kalshi-first-lifetime-ban-george-santos_839787.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "published": "Wed, 02 Sep 2026 14:03:57 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800"
-    },
-    {
-      "title": "A cloud engineer walked into a bar and – no joke – ended up having to migrate a datacenter",
-      "link": "https://www.theregister.com/virtualization/2026/09/02/a-cloud-engineer-walked-into-a-bar-and-no-joke-ended-up-having-to-migrate-a-datacenter/5293835",
-      "summary": "The budget was minimal, FedEx was the bottleneck, and DNS was of course the source of trouble",
-      "published": "Wed, 02 Sep 2026 14:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255335&width=800"
-    },
-    {
-      "title": "London Tube closes the 5G gap with streets above",
-      "link": "https://www.theregister.com/networks/2026/09/02/london-tube-closes-the-5g-gap-with-streets-above/5293878",
-      "summary": "Mobile signal below ground beats the citywide average, Ookla says",
-      "published": "Wed, 02 Sep 2026 13:19:30 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=249452&width=800"
-    },
-    {
-      "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
-      "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-      "summary": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
-      "published": "Wed, 02 Sep 2026 13:11:47 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761"
-    },
-    {
-      "title": "Adobe is making its tools available in Slack",
-      "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-      "summary": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-      "published": "Wed, 02 Sep 2026 13:09:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526"
     },
     {
       "title": "The Army just used a 20-kilowatt laser to take out three drones",
@@ -290,22 +338,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/entire-island-appears-disappears.jpg?quality=85&w=2048"
     },
     {
-      "title": "UK goes shopping for homegrown AI with £100M procurement scheme",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/uk-goes-shopping-for-homegrown-ai-with-100m-procurement-scheme/5293680",
-      "summary": "Startups invited to tackle NHS, defense, compute, and agent security challenges while Whitehall's own adoption remains patchy",
-      "published": "Wed, 02 Sep 2026 12:51:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=232880&width=800"
-    },
-    {
-      "title": "Northern Ireland adds £15M to Fujitsu education deal without competition",
-      "link": "https://www.theregister.com/public-sector/2026/09/02/northern-ireland-adds-15m-to-fujitsu-education-deal-without-competition/5293648",
-      "summary": "Japanese supplier remains in place despite scrutiny over its Horizon role",
-      "published": "Wed, 02 Sep 2026 12:17:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=227651&width=800"
-    },
-    {
       "title": "Anthropic Deliberately Trained an Extremely Misaligned, Reward-Seeking AI and It Did Some REALLY Bad Things",
       "link": "https://futurism.com/artificial-intelligence/anthropic-trained-misaligned-reward-seeking-ai",
       "summary": "<p>It did not enjoy being contained... at all.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-trained-misaligned-reward-seeking-ai\">Anthropic Deliberately Trained an Extremely Misaligned, Reward-Seeking AI and It Did Some REALLY Bad Things</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -314,28 +346,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-trained-misaligned-reward-seeking-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "UK cyber bill targets AI users, not the vendors building it",
-      "link": "https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
-      "summary": "Ministers reject proposed red lines and emergency shutdown powers, pointing instead to voluntary safeguards",
-      "published": "Wed, 02 Sep 2026 11:44:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=248400&width=800"
-    },
-    {
       "title": "Is Russia's rival to Starlink failing? Here's what we know.",
       "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
       "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
       "published": "Wed, 02 Sep 2026 11:15:23 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-1152x648-1788302694.jpg"
-    },
-    {
-      "title": "UK digital ID may be dead, but its legacy IT problem lives on",
-      "link": "https://www.theregister.com/public-sector/2026/09/02/uk-digital-id-may-be-dead-but-its-legacy-it-problem-lives-on/5293677",
-      "summary": "Spending watchdog says fragmented data and inconsistent standards would constrain any future attempt",
-      "published": "Wed, 02 Sep 2026 11:03:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=150224&width=800"
     },
     {
       "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
@@ -402,36 +418,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
     },
     {
-      "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
-      "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
-      "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
-      "published": "Tue, 01 Sep 2026 17:51:17 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-logo-1152x648-1788283693.jpg"
-    },
-    {
-      "title": "This is what a supercar was like a century ago",
-      "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-      "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
-      "published": "Tue, 01 Sep 2026 17:34:16 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/1926-Bentley-Super-Sports-8-1152x648.jpg"
-    },
-    {
       "title": "Researchers Alarmed as GPS Readings Suddenly Veer Off by 33 Feet, Enough to Crash Self-Driving Cars",
       "link": "https://futurism.com/space/researchers-alarmed-gps-self-driving-cars",
       "summary": "<p>Here's what happened.</p>\n<p>The post <a href=\"https://futurism.com/space/researchers-alarmed-gps-self-driving-cars\">Researchers Alarmed as GPS Readings Suddenly Veer Off by 33 Feet, Enough to Crash Self-Driving Cars</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 01 Sep 2026 16:09:15 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/researchers-alarmed-gps-self-driving-cars.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "It turns out that Orion's much-maligned heat shield performed really well",
-      "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-      "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
-      "published": "Tue, 01 Sep 2026 14:46:28 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/heat-shield-nasa-1152x648.jpg"
     },
     {
       "title": "Flock Is in Major Trouble",
@@ -482,6 +474,22 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/nvidia-slop-tracing-leak.jpg?quality=85&w=2048"
     },
     {
+      "title": "Zuck's Muse to Spark joy with open weights release 'soon'",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/zucks-muse-to-spark-joy-with-open-weights-release-soon/5294093",
+      "summary": "While you wait, Meta says it’s taught the model to stop wasting tokens and ask for help a bit more often",
+      "published": "Thu, 03 Sep 2026 00:31:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=252997&width=800"
+    },
+    {
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. [&#8230;]",
+      "published": "2026-09-02T19:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
       "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
       "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
@@ -527,7 +535,7 @@
       "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including [&#8230;]",
       "published": "2026-09-02T12:43:50-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
@@ -552,14 +560,6 @@
       "published": "2026-09-02T11:47:03-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google dodges another breakup attempt",
-      "link": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-      "summary": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would adopt most of the behavioral changes proposed by the parties, with some modifications. But those won't [&#8230;]",
-      "published": "2026-09-02T11:42:17-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
