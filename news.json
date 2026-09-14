@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T04:15:43.837972",
+  "lastUpdated": "2026-09-14T12:18:53.740626",
   "articles": [
     {
       "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
@@ -290,6 +290,62 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/werner-herzog-demolishes-talentless-hacks-who-use-ai-to-imitate-other-filmmakers.jpg?quality=85&w=2048"
     },
     {
+      "title": "Revolut falls for fake government requests, hands over customer data",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/14/revolut-falls-for-fake-government-requests-hands-over-customer-data/5296118",
+      "summary": "Passports, selfies, transaction histories exposed as self-proclaimed culprits demand 10,000 Bitcoin",
+      "published": "Mon, 14 Sep 2026 13:26:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5296125&width=800"
+    },
+    {
+      "title": "CPython eases Rust requirements as assimilation continues",
+      "link": "https://www.theregister.com/devops/2026/09/14/cpython-eases-rust-requirements-as-assimilation-continues/5296010",
+      "summary": "By making Rust opt-in, the Python builders hope to enjoy Rust bennies without the backlash that roiled the Linux kernel keepers",
+      "published": "Mon, 14 Sep 2026 12:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5296064&width=800"
+    },
+    {
+      "title": "The myth of killer AI is a self-serving attempt at regulatory capture",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/the-myth-of-killer-ai-is-a-self-serving-attempt-at-regulatory-capture/5295978",
+      "summary": "Skynet is coming soon, and also there's this Nigerian prince with a $20 million fortune who wants to give it to you",
+      "published": "Mon, 14 Sep 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258931&width=800"
+    },
+    {
+      "title": "UK.gov begins killing off passwords for 23 million users",
+      "link": "https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088",
+      "summary": "Passkeys promise fewer phishing headaches – and £600 a day off Whitehall's SMS bill",
+      "published": "Mon, 14 Sep 2026 11:16:11 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1681829&width=800"
+    },
+    {
+      "title": "Europe's right-to-repair rules are broken, not beaten",
+      "link": "https://www.theregister.com/columnists/2026/09/14/europes-right-to-repair-rules-are-broken-not-beaten/5295763",
+      "summary": "Patchy compliance is an argument for stronger enforcement, not abandoning the project",
+      "published": "Mon, 14 Sep 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=213223&width=800"
+    },
+    {
+      "title": "Who, Me? Tech team stood and laughed at colleague who pressed the wrong off button",
+      "link": "https://www.theregister.com/systems/2026/09/14/who-me-tech-team-stood-and-laughed-at-colleague-who-pressed-the-wrong-off-button/5295749",
+      "summary": "Ticklish situation solved with a lie about emergency maintenance",
+      "published": "Mon, 14 Sep 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295754&width=800"
+    },
+    {
+      "title": "AI and its main promoters are not enterprise-ready, says Gartner",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
+      "summary": "Model-makers move too fast and don’t care when they break things",
+      "published": "Mon, 14 Sep 2026 07:11:19 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256908&width=800"
+    },
+    {
       "title": "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
       "summary": "Amodei, Altman, Nadella and Musk agree on how government can tame the monster they created",
@@ -362,28 +418,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg"
     },
     {
-      "title": "More JFrog Artifactory bugs under attack, and all 3 have patches",
-      "link": "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943",
-      "summary": "If you're waiting for a sign to upgrade to a fixed version: this is it",
-      "published": "Fri, 11 Sep 2026 19:43:30 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295963&width=800"
-    },
-    {
       "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
       "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
       "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
       "published": "Fri, 11 Sep 2026 19:34:09 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
-    },
-    {
-      "title": "Mars astronauts could live in houses made of yeast and jello, say scientists",
-      "link": "https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931",
-      "summary": "Low-energy 3D printing could turn Martian dirt into sturdy structures",
-      "published": "Fri, 11 Sep 2026 18:50:01 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295940&width=800"
     },
     {
       "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
@@ -402,52 +442,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png"
     },
     {
-      "title": "Disembodied fruit fly brain joins the crypto speculation swarm",
-      "link": "https://www.theregister.com/offbeat/2026/09/11/disembodied-fruit-fly-brain-joins-the-crypto-speculation-swarm/5295914",
-      "summary": "Coinbase engineer gives simulated insect $100 and lets its neurons make the trades",
-      "published": "Fri, 11 Sep 2026 18:03:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295918&width=800"
-    },
-    {
-      "title": "AT&T store worker gets 16 months inside for SIM-swap side hustle",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/11/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/5295898",
-      "summary": "Phone shop staffer claimed he was paid less than $4k for in his part attacks leading to combined intended losses of $600,000",
-      "published": "Fri, 11 Sep 2026 17:16:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=225095&width=800"
-    },
-    {
-      "title": "Higher prices can't crimp server sales as AI drives demand",
-      "link": "https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827",
-      "summary": "Shipments rise with enterprise and government buyers joining the hyperscaler spending spree",
-      "published": "Fri, 11 Sep 2026 16:27:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=256253&width=800"
-    },
-    {
       "title": "NASA moving at warp speed to set up US Space Academy",
       "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
       "summary": "NASA asks US states to show them the money.",
       "published": "Fri, 11 Sep 2026 16:20:43 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648-1789141845.jpg"
-    },
-    {
-      "title": "Britain's technology brief is now everyone's job and nobody's responsibility",
-      "link": "https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849",
-      "summary": "Whitehall has scattered science, AI, and digital government across a thicket of competing ministerial portfolios",
-      "published": "Fri, 11 Sep 2026 15:12:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1684464&width=800"
-    },
-    {
-      "title": "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841",
-      "summary": "Swapping legal work for malware development ended in extradition and a guilty plea",
-      "published": "Fri, 11 Sep 2026 14:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5239008&width=800"
     },
     {
       "title": "Claude users found ways around safeguards for bioweapons research",
@@ -480,6 +480,14 @@
       "published": "Fri, 11 Sep 2026 11:00:44 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/54036895665_60be19debd_4k-1152x648.jpg"
+    },
+    {
+      "title": "What happens after a town de-Flocks",
+      "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+      "summary": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon. [&#8230;]",
+      "published": "2026-09-14T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292619444.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -552,14 +560,6 @@
       "published": "2026-09-12T17:16:28-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, [&#8230;]",
-      "published": "2026-09-12T16:08:09-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STC2026_GalleryIMG_0008_PT6120_rgba.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
