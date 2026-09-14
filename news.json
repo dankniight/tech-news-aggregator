@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-13T20:33:21.195748",
+  "lastUpdated": "2026-09-14T04:15:43.837972",
   "articles": [
+    {
+      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+      "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "published": "Sun, 13 Sep 2026 21:56:52 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg"
+    },
+    {
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "published": "Sun, 13 Sep 2026 21:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800"
+    },
+    {
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "published": "Sun, 13 Sep 2026 20:49:38 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024"
+    },
     {
       "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
       "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
@@ -266,6 +290,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/werner-herzog-demolishes-talentless-hacks-who-use-ai-to-imitate-other-filmmakers.jpg?quality=85&w=2048"
     },
     {
+      "title": "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+      "summary": "Amodei, Altman, Nadella and Musk agree on how government can tame the monster they created",
+      "published": "Mon, 14 Sep 2026 03:15:16 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262625&width=800"
+    },
+    {
       "title": "AI more likely to kill animals if it saves fuel or money",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
       "summary": "Machine learning models still have a lot to learn about the value of life",
@@ -320,22 +352,6 @@
       "published": "Fri, 11 Sep 2026 20:59:47 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "published": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "published": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800"
     },
     {
       "title": "Trump's forced coal plant extensions thrown out by judge",
@@ -434,14 +450,6 @@
       "image_url": "https://image.theregister.com/?imageId=5239008&width=800"
     },
     {
-      "title": "EU's Cyber Resilience Act starts the 24-hour vulnerability clock",
-      "link": "https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821",
-      "summary": "Manufacturers must now disclose actively exploited flaws and severe security incidents through ENISA's new reporting platform",
-      "published": "Fri, 11 Sep 2026 13:34:41 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=224872&width=800"
-    },
-    {
       "title": "Claude users found ways around safeguards for bioweapons research",
       "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
       "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
@@ -472,14 +480,6 @@
       "published": "Fri, 11 Sep 2026 11:00:44 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/54036895665_60be19debd_4k-1152x648.jpg"
-    },
-    {
-      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-      "link": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-      "summary": "\"We felt like now is the time to pour gas on that fire.\"",
-      "published": "Fri, 11 Sep 2026 11:00:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv-1152x648.jpg"
     },
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
