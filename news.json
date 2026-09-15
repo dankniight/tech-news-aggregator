@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-09-15T04:15:27.996861",
+  "lastUpdated": "2026-09-15T11:25:59.643725",
   "articles": [
+    {
+      "title": "Give Xfce a Mac or Unity-style makeover",
+      "link": "https://www.theregister.com/software/2026/09/15/give-xfce-a-mac-or-unity-style-makeover/5295937",
+      "summary": "The existing layouts are fun, but there's much more we can do",
+      "published": "Tue, 15 Sep 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295973&width=800"
+    },
+    {
+      "title": "Open weights are not open source: Why AI's favorite label is under dispute",
+      "link": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
+      "summary": "Downloading a model is increasingly easy. Understanding how it was made, or changing a system at its root, is another matter",
+      "published": "Tue, 15 Sep 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295478&width=800"
+    },
+    {
+      "title": "How Everpure plans to stop AI from starving without data",
+      "link": "https://www.theregister.com/ai-ml/2026/09/15/sponsored-how-everpure-plans-to-stop-ai-from-starving-without-data/5295812",
+      "summary": "SPONSORED FEATURE: The vendor's AI solutions are dedicated to increasing GPU utilization and avoiding costly GPUs doing nothing while waiting for data",
+      "published": "Tue, 15 Sep 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295589&width=800"
+    },
+    {
+      "title": "Most people who quit M365 for Google do it out of spite, but there’s no ROI in that",
+      "link": "https://www.theregister.com/saas/2026/09/15/most-people-who-quit-m365-for-google-do-it-out-of-spite-but-theres-no-roi-in-that/5296460",
+      "summary": "Nor are you likely to save much by making the move, says Gartner",
+      "published": "Tue, 15 Sep 2026 09:23:34 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1621996&width=800"
+    },
+    {
+      "title": "Apple iPhone Duo makes developers think in folds",
+      "link": "https://www.theregister.com/devops/2026/09/15/apple-iphone-duo-makes-developers-think-in-folds/5296415",
+      "summary": "Cupertino's $2,000 foldable gives devs more screen, and more UI state to manage",
+      "published": "Tue, 15 Sep 2026 07:55:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5296422&width=800"
+    },
+    {
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+      "published": "Tue, 15 Sep 2026 07:00:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_new_Volvo_XC60_and_the_Volvo_XC90_DuoAngle01_HERO-1152x648.jpg"
+    },
+    {
+      "title": "The latest AI doomsayer is China’s intelligence boss",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
+      "summary": "Beijing’s response is to ‘firmly grasp technological sovereignty’ and broad regulations",
+      "published": "Tue, 15 Sep 2026 06:56:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260439&width=800"
+    },
+    {
+      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+      "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
+      "published": "Tue, 15 Sep 2026 03:47:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/9718607-1152x648.jpg"
+    },
+    {
+      "title": "COBOL dev won .Net hackathon with help from AI – and their CIO loves it",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438",
+      "summary": "Australia Taxation Office sees footling with Copilot as a way to develop ‘muscles’ for real AI work",
+      "published": "Tue, 15 Sep 2026 03:47:17 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262941&width=800"
+    },
     {
       "title": "Microsoft drafts feel-good AI model guidelines and wants your input",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/15/microsoft-drafts-feel-good-ai-model-guidelines-and-wants-your-input/5296431",
@@ -24,14 +96,6 @@
       "published": "Tue, 15 Sep 2026 00:43:01 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5296419&width=800"
-    },
-    {
-      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-      "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
-      "published": "Sun, 13 Sep 2026 21:56:52 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg"
     },
     {
       "title": "Amazon Deploying AI Tech That Forces Actors’ Mouths to Match Dubbed Dialogue",
@@ -250,14 +314,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225167357-1024x648.jpg"
     },
     {
-      "title": "Cyberattack sends International Meteor Organization crashing back to Earth",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/14/cyberattack-sends-international-meteor-organization-crashing-back-to-earth/5296282",
-      "summary": "Attack dealt a 'critical blow' to aging infrastructure, with several weeks of disruption expected",
-      "published": "Mon, 14 Sep 2026 18:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=229617&width=800"
-    },
-    {
       "title": "Chinese Government Dismisses Tech Billionaire Calls for an AI Slowdown as “Fear-Mongering”",
       "link": "https://futurism.com/future-society/china-beijing-dismisses-tech-billionaires-ai-slowdown-fearmongering",
       "summary": "<p>\"All parties should jointly promote the open and inclusive development of AI for good and for all.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/china-beijing-dismisses-tech-billionaires-ai-slowdown-fearmongering\">Chinese Government Dismisses Tech Billionaire Calls for an AI Slowdown as &#8220;Fear-Mongering&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -272,14 +328,6 @@
       "published": "Mon, 14 Sep 2026 17:41:20 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800"
-    },
-    {
-      "title": "Rocket Lab calls foul on Blue Origin's $700M Mars comms contract",
-      "link": "https://www.theregister.com/science/2026/09/14/rocket-lab-calls-foul-on-blue-origins-700m-mars-comms-contract/5296173",
-      "summary": "Bezos' biz gets familiar paperwork from unfamiliar quarters as rival challenges NASA award",
-      "published": "Mon, 14 Sep 2026 17:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5235702&width=800"
     },
     {
       "title": "Prehistoric builders transported Devil's Arrows 11 miles",
@@ -322,14 +370,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900"
     },
     {
-      "title": "Perfect-10 GitLab bug under attack days after patch lands",
-      "link": "https://www.theregister.com/security/2026/09/14/perfect-10-gitlab-bug-under-attack-days-after-patch-lands/5296176",
-      "summary": "CISA confirms active exploitation as watchTowr spots miscreants probing internet-facing servers",
-      "published": "Mon, 14 Sep 2026 16:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5279434&width=800"
-    },
-    {
       "title": "\"Offensively cheap\": Solar power is looking up",
       "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
       "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
@@ -370,14 +410,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_New_Volvo_XC40_Studio_Front_34-1152x648.jpg"
     },
     {
-      "title": "Teravolt looks to cannibalize older industries to meet AI power demand",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/teravolt-looks-to-cannibalize-older-industries-to-meet-ai-power-demand/5296014",
-      "summary": "Bitcoin farms, aluminum smelters, and other old infra is more lucrative to repurpose as a datacenter",
-      "published": "Mon, 14 Sep 2026 15:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5296082&width=800"
-    },
-    {
       "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
       "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
       "summary": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
@@ -392,14 +424,6 @@
       "published": "Mon, 14 Sep 2026 15:28:25 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/winner-elon-musk-ai-odyssey-contest.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-      "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-      "summary": "Redmond's quality drive takes another detour through the known issues list",
-      "published": "Mon, 14 Sep 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259053&width=800"
     },
     {
       "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
@@ -424,30 +448,6 @@
       "published": "Mon, 14 Sep 2026 14:39:10 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-claude-profit-ai-safety-development-finances.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
-      "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
-      "summary": "Formula 1’s latest venue might be fun to drive, but the race was processional and dull.",
-      "published": "Mon, 14 Sep 2026 14:32:35 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295049430-1152x648.jpg"
-    },
-    {
-      "title": "Huawei pitches near-packaged optics as co-packaged costs bite",
-      "link": "https://www.theregister.com/networks/2026/09/14/huawei-pitches-near-packaged-optics-as-co-packaged-costs-bite/5296164",
-      "summary": "7.2 Tbps module arrives ahead of standards, with promises of fewer repair headaches",
-      "published": "Mon, 14 Sep 2026 14:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5296169&width=800"
-    },
-    {
-      "title": "MPs and peers tell UK to stop winging it on AI regulation",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/mps-and-peers-tell-uk-to-stop-winging-it-on-ai-regulation/5296108",
-      "summary": "Rights committee demands watchdog with teeth as patchwork safeguards leave victims hunting for remedies",
-      "published": "Mon, 14 Sep 2026 14:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=224202&width=800"
     },
     {
       "title": "Bernie Sanders Proposes Banning Superintelligent AI and Imprisoning Developers for 20 Years",
@@ -480,6 +480,30 @@
       "published": "Mon, 14 Sep 2026 10:26:13 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/trump-blundering-ai-slowdown-threaten-future.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "GM updates its trucks’ native software to coexist with CarPlay",
+      "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+      "summary": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is notable given GM's previously stated hostility to phone mirroring [&#8230;]",
+      "published": "2026-09-15T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Chevrolet_Silverado_HighCountry_AP1_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+      "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+      "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers. The September patch Tuesday affected folder shares on Hyper-V-based [&#8230;]",
+      "published": "2026-09-15T04:54:48-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+      "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+      "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker revealed the updated PHEV versions of its popular [&#8230;]",
+      "published": "2026-09-15T03:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_new_Volvo_XC60_and_the_Volvo_XC90_DuoAngle01_HERO.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
@@ -536,30 +560,6 @@
       "published": "2026-09-14T15:48:06-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-      "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-      "summary": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 26th at 8:59 PM PT. Nintendo games [&#8230;]",
-      "published": "2026-09-14T15:30:58-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "TIFF 2026: The latest movie reviews from Toronto",
-      "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
-      "summary": "If you want an idea of what&#8217;s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for instance, included the [&#8230;]",
-      "published": "2026-09-14T13:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "macOS 27 is available now",
-      "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
-      "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final big update for Intel-based Macs last year with macOS Tahoe. Siri AI is arguably [&#8230;]",
-      "published": "2026-09-14T13:10:13-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
