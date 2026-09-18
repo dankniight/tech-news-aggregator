@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T21:08:18.229242",
+  "lastUpdated": "2026-09-18T04:02:01.714596",
   "articles": [
     {
       "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
@@ -170,12 +170,68 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/ai-destroying-humanity-cause-stocks-skyrocket.jpg?quality=85&w=2048"
     },
     {
-      "title": "AI Really Is Eviscerating Entry-Level Jobs, New Data Shows",
-      "link": "https://futurism.com/artificial-intelligence/ai-eviscerating-entry-level-jobs-data-labor-nyc",
-      "summary": "<p>\"Entry-level postings have fallen off a cliff and the first rung of the ladder in tech is under pressure.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-eviscerating-entry-level-jobs-data-labor-nyc\">AI Really Is Eviscerating Entry-Level Jobs, New Data Shows</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 16 Sep 2026 10:48:59 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/ai-eviscerating-entry-level-jobs.jpg?quality=85&w=2048"
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800"
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "published": "Thu, 17 Sep 2026 23:08:24 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676"
+    },
+    {
+      "title": "Huawei's next-gen Ascend NPUs could become China's best option",
+      "link": "https://www.theregister.com/systems/2026/09/17/huaweis-next-gen-ascend-npus-could-become-chinas-best-option/5297320",
+      "summary": "960DT is set to arrive early, boasting performance far exceeding anything the West could offer the Middle Kingdom",
+      "published": "Thu, 17 Sep 2026 23:07:51 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261217&width=800"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "published": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "published": "Thu, 17 Sep 2026 22:14:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802"
+    },
+    {
+      "title": "DoE seeking fault-tolerant quantum computer ... by 2028",
+      "link": "https://www.theregister.com/hpc/2026/09/17/doe-seeking-fault-tolerant-quantum-computer-by-2028/5297311",
+      "summary": "Entrants get $250K upfront to deliver a demo within a year, which sounds totally feasible given quantum computing's track record",
+      "published": "Thu, 17 Sep 2026 22:09:45 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=104971&width=800"
+    },
+    {
+      "title": "Researchers find way to listen in on headphones from afar",
+      "link": "https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303",
+      "summary": "Eve's dropping in on Alice and Bob",
+      "published": "Thu, 17 Sep 2026 21:36:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297307&width=800"
     },
     {
       "title": "The fix for rogue AI agents could be more AI",
@@ -242,6 +298,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800"
     },
     {
+      "title": "Microsoft Director Privately Admitted AI Was the “Largest Theft of Labor in Human History,” Unsealed Court Documents Show",
+      "link": "https://futurism.com/future-society/microsoft-admitted-ai-theft-labor-human-history-court-lawsuit",
+      "summary": "<p>That's one way to put it.</p>\n<p>The post <a href=\"https://futurism.com/future-society/microsoft-admitted-ai-theft-labor-human-history-court-lawsuit\">Microsoft Director Privately Admitted AI Was the &#8220;Largest Theft of Labor in Human History,&#8221; Unsealed Court Documents Show</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 17 Sep 2026 17:46:08 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/microsoft-admitted-ai-theft-labor-human-history-court-lawsuit.jpg?quality=85&w=2048"
+    },
+    {
       "title": "London property manager breach may have exposed bank details and lockbox codes",
       "link": "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
       "summary": "City Relay says intruders accessed its Metabase Cloud instance twice and extracted customer data",
@@ -290,14 +354,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/spacex-manager-arrested-stabbing-pool-tesla.jpg?quality=85&w=2048"
     },
     {
-      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
-      "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
-      "summary": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
-      "published": "Thu, 17 Sep 2026 16:34:36 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/54901701957_d1611118cd_c-e1789663445605.jpg?w=599"
-    },
-    {
       "title": "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/17/grassroots-coalition-asks-politicians-to-choose-voters-over-big-ais-140m-machine/5297186",
       "summary": "QuitGPT-led pledge targets Leading the Future's push for lighter regulation ahead of the midterms",
@@ -306,28 +362,12 @@
       "image_url": "https://image.theregister.com/?imageId=263123&width=800"
     },
     {
-      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-      "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-      "summary": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
-      "published": "Thu, 17 Sep 2026 16:09:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?resize=1200,675"
-    },
-    {
       "title": "Bumbling Cybercab Gets Trapped in Hotel Parking Lot, Drops off Passenger Right Where He Started",
       "link": "https://futurism.com/advanced-transport/cybercab-trapped-hotel-lot",
       "summary": "<p>\"This technology is nowhere close to being ready for large scale deployment.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/cybercab-trapped-hotel-lot\">Bumbling Cybercab Gets Trapped in Hotel Parking Lot, Drops off Passenger Right Where He Started</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 17 Sep 2026 15:56:48 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/cybercab-trapped-hotel-lot.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Roku’s new Labs hub brings experimental apps to the big screen",
-      "link": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
-      "summary": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
-      "published": "Thu, 17 Sep 2026 15:50:29 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Roku-Labs_High-Res.png?resize=1200,772"
     },
     {
       "title": "Microsoft patch gives domain-joined Windows PCs trust issues",
@@ -346,28 +386,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/influencers-using-meta-ai-glasses-film-content-public-cruelty_5dee85.jpg?quality=85&w=2048"
     },
     {
-      "title": "Last call: Disrupt volunteer application closes soon",
-      "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-      "summary": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
-      "published": "Thu, 17 Sep 2026 15:02:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?resize=1200,800"
-    },
-    {
       "title": "AI model watermarking changes agent behavior",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
       "summary": "Lasso Security sees differences in tool handling and model refusals",
       "published": "Thu, 17 Sep 2026 15:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5294391&width=800"
-    },
-    {
-      "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
-      "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-      "summary": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
-      "published": "Thu, 17 Sep 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/smart-oven-tovala.png?w=1200"
     },
     {
       "title": "Cisco drops another exploited zero-day, this time a perfect 10",
@@ -394,14 +418,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/openai-admits-ai-agents-performed-terrifying-actions.jpg?quality=85&w=2048"
     },
     {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "published": "Thu, 17 Sep 2026 14:06:14 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?resize=1200,900"
-    },
-    {
       "title": "Test environment let anyone access live customer data",
       "link": "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977",
       "summary": "Even a temporary staging server needs to be locked down.",
@@ -416,14 +432,6 @@
       "published": "Thu, 17 Sep 2026 13:25:01 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/iran-drone-strikes-data-centers-deleting-customer-data.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Omarchy gains $18.5M in backing, fresh converts – and fierce critics",
-      "link": "https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780",
-      "summary": "DHH's Arch-based desktop becomes the latest front in FOSS's culture wars",
-      "published": "Thu, 17 Sep 2026 12:44:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1624985&width=800"
     },
     {
       "title": "Cult of Anthropic Insiders Rumored to Be Worshipping Claude as a God",
@@ -442,22 +450,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/openai-workers-read-private-chats.jpg?quality=85&w=2048"
     },
     {
-      "title": "Ofcom discovers issuing Online Safety Act fines is easier than collecting them",
-      "link": "https://www.theregister.com/security/2026/09/17/ofcom-discovers-issuing-online-safety-act-fines-is-easier-than-collecting-them/5297110",
-      "summary": "Platforms comply just enough to avoid being blocked, leaving the regulator chasing debt",
-      "published": "Thu, 17 Sep 2026 12:08:04 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5254826&width=800"
-    },
-    {
-      "title": "Government Digital Service move 'grinds gears' in UK's e-government",
-      "link": "https://www.theregister.com/public-sector/2026/09/17/government-digital-service-move-grinds-gears-in-uks-e-government/5296784",
-      "summary": "As team responsible for tech strategy shunted to third department in three years, experts fear exodus of talent",
-      "published": "Thu, 17 Sep 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=241212&width=800"
-    },
-    {
       "title": "How Three Brothers Built an AI Slop Empire by Buying Legitimate News Sites and Turning Them Into Zombie Content Farms That They Say Get 50 Million Page Views per Month",
       "link": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
       "summary": "<p>Brown Brothers Media is the biggest media company you've never heard of — powered by AI, fake writers, and plagiarism. When we started asking questions, it started deleting massive amounts of content.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire\">How Three Brothers Built an AI Slop Empire by Buying Legitimate News Sites and Turning Them Into Zombie Content Farms That They Say Get 50 Million Page Views per Month</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -466,20 +458,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/brown-brothers-media-ai-slop-empire.png?quality=85&w=2048"
     },
     {
-      "title": "Judge orders Microsoft to spill internal docs and scour execs' comms in secondhand licensing case",
-      "link": "https://www.theregister.com/legal/2026/09/17/judge-orders-microsoft-to-spill-internal-docs-and-scour-execs-comms-in-secondhand-licensing-case/5296820",
-      "summary": "Yes, the 'Secondhand Software Presentation' does sound like it might be an adverse document...",
-      "published": "Thu, 17 Sep 2026 10:30:00 +0200",
+      "title": "Marvell pushes GlobalFoundries to light up wafer production",
+      "link": "https://www.theregister.com/systems/2026/09/18/marvell-pushes-globalfoundries-to-light-up-wafer-production/5297340",
+      "summary": "It might be the next trillion-dollar company, but it'll need some help on the supply side to do it",
+      "published": "Fri, 18 Sep 2026 01:16:53 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=263174&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5263102&width=800"
     },
     {
-      "title": "Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers",
-      "link": "https://www.theregister.com/systems/2026/09/17/fujitsu-ready-to-sell-its-custom-monaka-arm-chip-maybe-to-rival-server-makers/5297025",
-      "summary": "Clouds, the sovereign-sensitive, and the inferencing-interested are also about to get sales calls",
-      "published": "Thu, 17 Sep 2026 08:20:33 +0200",
+      "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
+      "link": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
+      "summary": "Plugin4Shell attack affects all the major coding agents, researchers say",
+      "published": "Fri, 18 Sep 2026 00:42:29 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5297033&width=800"
+      "image_url": "https://image.theregister.com/?imageId=5297339&width=800"
+    },
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "published": "Fri, 18 Sep 2026 00:02:36 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says [&#8230;]",
+      "published": "2026-09-17T22:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -552,14 +560,6 @@
       "published": "2026-09-17T10:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-17-at-9.24.23-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
-      "link": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-      "summary": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also joined by a new cheaper alternative called [&#8230;]",
-      "published": "2026-09-17T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bose1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
