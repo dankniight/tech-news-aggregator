@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T20:20:01.354301",
+  "lastUpdated": "2026-09-20T04:17:57.834194",
   "articles": [
     {
       "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
@@ -42,7 +42,15 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg"
     },
     {
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "published": "Sat, 19 Sep 2026 19:57:47 +0000",
@@ -64,6 +72,22 @@
       "published": "Sat, 19 Sep 2026 17:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800"
+    },
+    {
+      "title": "Agentic security is the billion-dollar challenge for some clever startup to solve",
+      "link": "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
+      "summary": "High time to stop kicking the security can down the road, investor tells The Reg",
+      "published": "Sat, 19 Sep 2026 16:25:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297576&width=800"
+    },
+    {
+      "title": "AI boom could leave an e-waste trail that wraps 6 times around Earth",
+      "link": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
+      "summary": "Report says estimates focused on GPUs miss the mountains of power, cooling, and networking gear destined for scrap",
+      "published": "Sat, 19 Sep 2026 15:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=237024&width=800"
     },
     {
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
@@ -146,6 +170,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png"
     },
     {
+      "title": "Firefox 156 arrives with a forest of forks in its wake",
+      "link": "https://www.theregister.com/software/2026/09/19/firefox-156-arrives-with-a-forest-of-forks-in-its-wake/5297194",
+      "summary": "From Waterfox to LibreWolf and Pale Moon, there's a browser for almost every Mozilla dissenter",
+      "published": "Sat, 19 Sep 2026 09:28:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093944&width=800"
+    },
+    {
       "title": "MIT Report Finds That AI Is Leading to “Cognitive Surrender” Among Students",
       "link": "https://futurism.com/future-society/mit-report-ai-cognitive-surrender-students",
       "summary": "<p>It's a disaster in the making.</p>\n<p>The post <a href=\"https://futurism.com/future-society/mit-report-ai-cognitive-surrender-students\">MIT Report Finds That AI Is Leading to &#8220;Cognitive Surrender&#8221; Among Students</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -202,6 +234,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672"
     },
     {
+      "title": "Anthropic decides to support OpenAI's markdown instructions spec",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
+      "summary": "Devs cheer relief from compatibility headache",
+      "published": "Fri, 18 Sep 2026 23:33:16 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297598&width=800"
+    },
+    {
       "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
@@ -226,12 +266,44 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000"
     },
     {
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "summary": "The Rust compiler remains unperturbed by the antics of the LLM",
+      "published": "Fri, 18 Sep 2026 23:11:05 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297581&width=800"
+    },
+    {
+      "title": "Virginia governor wakes up to fact datacenters have become political cancer",
+      "link": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
+      "summary": "Executive order puts the kibosh on NDAs, limits permitting, and calls for stiffer environmental protections",
+      "published": "Fri, 18 Sep 2026 22:16:57 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5269875&width=800"
+    },
+    {
+      "title": "Compsci grads facing recession-like job prospects thanks to AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+      "summary": "Slinging coffee and waiting tables ain't just for liberal arts grads any more, say Census Bureau economists",
+      "published": "Fri, 18 Sep 2026 21:48:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=233361&width=800"
+    },
+    {
       "title": "Anthropic’s first embedded evaluator is … Accenture?",
       "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
       "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
       "published": "Fri, 18 Sep 2026 21:44:33 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024"
+    },
+    {
+      "title": "Claude Code revamps projects so you can work and pay in parallel",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/claude-code-revamps-projects-so-you-can-work-and-pay-in-parallel/5297532",
+      "summary": "Running multiple Claude sessions at once means less waiting around to hit your usage limit",
+      "published": "Fri, 18 Sep 2026 21:15:39 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297536&width=800"
     },
     {
       "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
@@ -250,20 +322,36 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v2.jpg?resize=1200,800"
     },
     {
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-      "published": "Fri, 18 Sep 2026 20:24:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
-    },
-    {
       "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
       "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
       "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
       "published": "Fri, 18 Sep 2026 19:20:50 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg"
+    },
+    {
+      "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+      "link": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
+      "summary": "Agentic exploits for the win (again)",
+      "published": "Fri, 18 Sep 2026 19:16:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297523&width=800"
+    },
+    {
+      "title": "North Korea's fake job interviews infected 30,000 devices",
+      "link": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+      "summary": "WaterPlum recruiters used bogus coding tests to backdoor jobseekers and raid more than 7,000 crypto wallets",
+      "published": "Fri, 18 Sep 2026 18:53:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=234163&width=800"
+    },
+    {
+      "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
+      "summary": "AI, fake uniforms, and mock offices help crooks sell the con",
+      "published": "Fri, 18 Sep 2026 18:19:27 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297516&width=800"
     },
     {
       "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
@@ -290,6 +378,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/us-military-intelligence-wwiii-ai-chatbot-hallucinated-nuclear-weapons-china.jpg?quality=85&w=2048"
     },
     {
+      "title": "Admins, you've been warned: The clock is ticking on Edge's IE Mode",
+      "link": "https://www.theregister.com/software/2026/09/18/admins-youve-been-warned-the-clock-is-ticking-on-edges-ie-mode/5297408",
+      "summary": "Legacy web apps have guaranteed shelter only through 2029, and Redmond warns modernization can take years",
+      "published": "Fri, 18 Sep 2026 17:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=244550&width=800"
+    },
+    {
       "title": "US government website used Chinese model the FBI called \"malicious\"",
       "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
       "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
@@ -306,12 +402,36 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/crowd-cheers-rfk-government-investigate-chemtrails.jpg?quality=85&w=2048"
     },
     {
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "summary": "Akademy talk imagines Plasma assembling itself around a personal model of each user",
+      "published": "Fri, 18 Sep 2026 16:25:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297398&width=800"
+    },
+    {
       "title": "Here’s Every Known Publication Owned by Brown Brothers Media, Which Buys News Sites and Turns Them Into AI-Powered Content Mills",
       "link": "https://futurism.com/artificial-intelligence/every-brown-brothers-media-publication",
       "summary": "<p>Here's a list of every site we've linked to the Brown Brothers Media empire.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/every-brown-brothers-media-publication\">Here&#8217;s Every Known Publication Owned by Brown Brothers Media, Which Buys News Sites and Turns Them Into AI-Powered Content Mills</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 18 Sep 2026 15:24:27 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/every-known-brown-brothers-media-publication.png?quality=85&w=2048"
+    },
+    {
+      "title": "Microsoft fixes the fix that broke Excel paste – partly",
+      "link": "https://www.theregister.com/software/2026/09/18/microsoft-fixes-the-fix-that-broke-excel-paste-partly/5297467",
+      "summary": "Hotfix covers only Excel 2016 and may still come unstuck around conditional formatting",
+      "published": "Fri, 18 Sep 2026 15:22:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=244387&width=800"
+    },
+    {
+      "title": "The ideal database for AI agents doesn't exist yet, says Percona CEO",
+      "link": "https://www.theregister.com/databases/2026/09/18/the-ideal-database-for-ai-agents-doesnt-exist-yet-says-percona-ceo/5296906",
+      "summary": "Iterative workloads caught vendors off guard, but requirements for a clean-slate solution remain unclear",
+      "published": "Fri, 18 Sep 2026 14:34:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5296909&width=800"
     },
     {
       "title": "So Many Women Are Miscarrying in Detention Centers That ICE Has Lost Count",
@@ -360,6 +480,14 @@
       "published": "Fri, 18 Sep 2026 11:00:11 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_pillars-1152x648.jpg"
+    },
+    {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
+      "published": "2026-09-19T16:44:40-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Trump treads further on free speech with new journalist bans",
@@ -432,14 +560,6 @@
       "published": "2026-09-18T14:29:17-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently [&#8230;]",
-      "published": "2026-09-18T14:27:04-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
