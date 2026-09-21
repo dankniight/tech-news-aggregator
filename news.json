@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T04:15:31.177519",
+  "lastUpdated": "2026-09-21T12:26:30.805358",
   "articles": [
     {
       "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
@@ -330,44 +330,92 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/microsoft-executive-doom-loop.jpg?quality=85&w=2048"
     },
     {
+      "title": "American datacenters might be getting dirtier, but at least they'll be efficient",
+      "link": "https://www.theregister.com/systems/2026/09/21/american-datacenters-might-be-getting-dirtier-but-at-least-theyll-be-efficient/5297526",
+      "summary": "US power emissions restrictions are being wiped out, but hey – datacenters running Nvidia kit are getting better at extracting ever bit of compute they can from a megawatt, for what it's worth",
+      "published": "Mon, 21 Sep 2026 13:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5270351&width=800"
+    },
+    {
+      "title": "Rustaceans warned of job interviews with a malicious payload",
+      "link": "https://www.theregister.com/security/2026/09/21/rustaceans-warned-of-job-interviews-with-a-malicious-payload/5297690",
+      "summary": "Attackers are courting crate owners with plausible company profiles and booby-trapped recruitment calls",
+      "published": "Mon, 21 Sep 2026 12:33:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5226389&width=800"
+    },
+    {
+      "title": "It's raining, the transport isn't working, and now an Android app wants to walk out in solidarity",
+      "link": "https://www.theregister.com/offbeat/2026/09/21/its-raining-the-transport-isnt-working-and-now-an-android-app-wants-to-walk-out-in-solidarity/5297494",
+      "summary": "Please release me, let me close...",
+      "published": "Mon, 21 Sep 2026 11:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297498&width=800"
+    },
+    {
+      "title": "Salesforce wants to charge for AI outcomes, but first it needs to figure out how",
+      "link": "https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402",
+      "summary": "Seats, Flex Credits, and all-you-can-eat contracts make for an 'anxiety-filled architecture'",
+      "published": "Mon, 21 Sep 2026 11:07:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1683935&width=800"
+    },
+    {
+      "title": "Your cloud survived everything except the real world",
+      "link": "https://www.theregister.com/columnists/2026/09/21/your-cloud-survived-everything-except-the-real-world/5297423",
+      "summary": "War damage, air traffic chaos, and a storage shortage expose the cost of treating resilience as someone else's problem",
+      "published": "Mon, 21 Sep 2026 10:03:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297434&width=800"
+    },
+    {
+      "title": "VMware has quietly walked back its SmartNIC ambitions",
+      "link": "https://www.theregister.com/virtualization/2026/09/21/vmware-has-quietly-walked-back-its-smartnic-ambitions/5297654",
+      "summary": "Virtzilla’s bet on hyperscale hardware going mainstream didn’t excite customers, but may live on",
+      "published": "Mon, 21 Sep 2026 09:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=247020&width=800"
+    },
+    {
+      "title": "Boss bought cheap 'printer' from a catalog and was left without a leg to stand on",
+      "link": "https://www.theregister.com/personal-tech/2026/09/21/boss-bought-cheap-printer-from-a-catalog-and-was-left-without-a-leg-to-stand-on-1/5297373",
+      "summary": "Attempt to prove procurement prowess ended up gathering dust",
+      "published": "Mon, 21 Sep 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259304&width=800"
+    },
+    {
+      "title": "Failed networking vendor Cambium set to turn off its cloudy management portal",
+      "link": "https://www.theregister.com/networks/2026/09/21/failed-networking-vendor-cambium-set-to-turn-off-its-cloudy-management-portal/5297647",
+      "summary": "Quits enterprise networking hardware business, tells users to install on-prem software ASAP",
+      "published": "Mon, 21 Sep 2026 07:17:02 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=236480&width=800"
+    },
+    {
+      "title": "Google joins the ‘Oops, our agents hacked someone’ club after partner’s internet access error",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/21/google-joins-the-oops-our-agents-hacked-someone-club-after-partners-internet-access-error/5297640",
+      "summary": "Kept it secret for months - even after OpenAI 'fessed up",
+      "published": "Mon, 21 Sep 2026 05:50:54 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=234324&width=800"
+    },
+    {
+      "title": "Chinese memory-maker CXMT claims DRAM production breakthrough",
+      "link": "https://www.theregister.com/systems/2026/09/21/chinese-memory-maker-cxmt-claims-dram-production-breakthrough/5297633",
+      "summary": "PLUS: Toyota's robot hiring spree; China's CDNs struggle; India to charge for some UPI payments; and more!",
+      "published": "Mon, 21 Sep 2026 04:10:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254458&width=800"
+    },
+    {
       "title": "Anthropic decides to support OpenAI's markdown instructions spec",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
       "summary": "Devs cheer relief from compatibility headache",
       "published": "Fri, 18 Sep 2026 23:33:16 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5297598&width=800"
-    },
-    {
-      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "summary": "The Rust compiler remains unperturbed by the antics of the LLM",
-      "published": "Fri, 18 Sep 2026 23:11:05 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5297581&width=800"
-    },
-    {
-      "title": "Virginia governor wakes up to fact datacenters have become political cancer",
-      "link": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
-      "summary": "Executive order puts the kibosh on NDAs, limits permitting, and calls for stiffer environmental protections",
-      "published": "Fri, 18 Sep 2026 22:16:57 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5269875&width=800"
-    },
-    {
-      "title": "Compsci grads facing recession-like job prospects thanks to AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
-      "summary": "Slinging coffee and waiting tables ain't just for liberal arts grads any more, say Census Bureau economists",
-      "published": "Fri, 18 Sep 2026 21:48:22 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=233361&width=800"
-    },
-    {
-      "title": "Claude Code revamps projects so you can work and pay in parallel",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/claude-code-revamps-projects-so-you-can-work-and-pay-in-parallel/5297532",
-      "summary": "Running multiple Claude sessions at once means less waiting around to hit your usage limit",
-      "published": "Fri, 18 Sep 2026 21:15:39 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5297536&width=800"
     },
     {
       "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
@@ -386,30 +434,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg"
     },
     {
-      "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
-      "link": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
-      "summary": "Agentic exploits for the win (again)",
-      "published": "Fri, 18 Sep 2026 19:16:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5297523&width=800"
-    },
-    {
-      "title": "North Korea's fake job interviews infected 30,000 devices",
-      "link": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
-      "summary": "WaterPlum recruiters used bogus coding tests to backdoor jobseekers and raid more than 7,000 crypto wallets",
-      "published": "Fri, 18 Sep 2026 18:53:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=234163&width=800"
-    },
-    {
-      "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
-      "summary": "AI, fake uniforms, and mock offices help crooks sell the con",
-      "published": "Fri, 18 Sep 2026 18:19:27 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5297516&width=800"
-    },
-    {
       "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
       "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
       "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
@@ -426,36 +450,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-1152x648.jpg"
     },
     {
-      "title": "Admins, you've been warned: The clock is ticking on Edge's IE Mode",
-      "link": "https://www.theregister.com/software/2026/09/18/admins-youve-been-warned-the-clock-is-ticking-on-edges-ie-mode/5297408",
-      "summary": "Legacy web apps have guaranteed shelter only through 2029, and Redmond warns modernization can take years",
-      "published": "Fri, 18 Sep 2026 17:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=244550&width=800"
-    },
-    {
       "title": "US government website used Chinese model the FBI called \"malicious\"",
       "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
       "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
       "published": "Fri, 18 Sep 2026 17:28:50 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg"
-    },
-    {
-      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "summary": "Akademy talk imagines Plasma assembling itself around a personal model of each user",
-      "published": "Fri, 18 Sep 2026 16:25:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5297398&width=800"
-    },
-    {
-      "title": "Microsoft fixes the fix that broke Excel paste – partly",
-      "link": "https://www.theregister.com/software/2026/09/18/microsoft-fixes-the-fix-that-broke-excel-paste-partly/5297467",
-      "summary": "Hotfix covers only Excel 2016 and may still come unstuck around conditional formatting",
-      "published": "Fri, 18 Sep 2026 15:22:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=244387&width=800"
     },
     {
       "title": "Meet the winner of Nikon's Small World in Motion video contest",
@@ -482,6 +482,30 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_pillars-1152x648.jpg"
     },
     {
+      "title": "Teardown details the iPhone 18 Pro’s mechanical camera",
+      "link": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
+      "summary": "iFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of. The adjustable mechanical iris opens and closes magnetically, controlling how much light should pass through to the sensor, featuring six leaf-like overlapping blades [&#8230;]",
+      "published": "2026-09-21T06:57:27-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ifixit-iphone-18-pro-teardown-main-camera.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
+      "published": "2026-09-21T06:18:06-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+      "published": "2026-09-21T05:21:47-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "No Dogs in Space is back to feed your need for obsessive music history",
       "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
       "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. [&#8230;]",
@@ -490,7 +514,7 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
       "published": "2026-09-20T14:50:18-04:00",
@@ -536,30 +560,6 @@
       "published": "2026-09-20T08:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRH_TI84_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
-      "published": "2026-09-20T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "All roads lead to cable",
-      "link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Before Netflix fully committed to [&#8230;]",
-      "published": "2026-09-20T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
-      "published": "2026-09-19T16:44:40-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
