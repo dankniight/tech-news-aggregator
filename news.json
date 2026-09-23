@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-09-23T16:30:58.957126",
+  "lastUpdated": "2026-09-23T21:19:09.411958",
   "articles": [
+    {
+      "title": "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/23/mop-the-slop-from-your-linkedin-feed-with-a-new-open-source-chrome-extension/5298679",
+      "summary": "Jev-powered Slop Mop demonstrates another great use case for probabilistic, non-chatty AI model",
+      "published": "Wed, 23 Sep 2026 22:23:13 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5292734&width=800"
+    },
+    {
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+      "published": "Wed, 23 Sep 2026 20:35:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024"
+    },
+    {
+      "title": "Europe's fastest supercomputer is finally getting its domestic silicon infusion",
+      "link": "https://www.theregister.com/systems/2026/09/23/europes-fastest-supercomputer-is-finally-getting-its-domestic-silicon-infusion/5298665",
+      "summary": "Bull, the system builder behind JUPITER, takes delivery of SiPearl's long-awaited Rhea1 CPUs",
+      "published": "Wed, 23 Sep 2026 20:32:13 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5259576&width=800"
+    },
+    {
+      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+      "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
+      "published": "Wed, 23 Sep 2026 20:28:42 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Andurils-fire-retardant-balls-explode-on-fire-target-1152x648.jpg"
+    },
+    {
+      "title": "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
+      "link": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659",
+      "summary": "Good news: there's a patch. Bad news: both CISA and F5 warn that it's under active exploitation",
+      "published": "Wed, 23 Sep 2026 20:09:28 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260240&width=800"
+    },
+    {
+      "title": "Discord age verification rolls out today with changes spurred by user backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
+      "summary": "Discord will try to automatically estimate ages, require verification when it can't.",
+      "published": "Wed, 23 Sep 2026 20:05:13 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2195918304-1152x648-1749154130.jpg"
+    },
+    {
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "published": "Wed, 23 Sep 2026 19:35:53 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/made-on-youtube-2026.png"
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "published": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800"
+    },
+    {
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+      "published": "Wed, 23 Sep 2026 19:05:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=1194"
+    },
+    {
+      "title": "Discordians now subject to whims of new age verification technology",
+      "link": "https://www.theregister.com/offbeat/2026/09/23/discordians-now-subject-to-whims-of-new-age-verification-technology/5298641",
+      "summary": "Discord users asked to prove they’re adults get less intrusive options",
+      "published": "Wed, 23 Sep 2026 18:59:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5223573&width=800"
+    },
+    {
+      "title": "Contrary to some reports, you don't have two brains",
+      "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+      "summary": "A bad press release makes a good excuse to look at how developmental biology works.",
+      "published": "Wed, 23 Sep 2026 18:47:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2230128500-1152x648.jpg"
+    },
+    {
+      "title": "Robot dog ran a marathon on one charge and lived to publish the paper",
+      "link": "https://www.theregister.com/offbeat/2026/09/23/robot-dog-ran-a-marathon-on-one-charge-and-lived-to-publish-the-paper/5298648",
+      "summary": "Two years later, creators explain how lightweight hardware and reinforcement learning helped it go the distance",
+      "published": "Wed, 23 Sep 2026 18:33:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=160593&width=800"
+    },
+    {
+      "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
+      "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
+      "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
+      "published": "Wed, 23 Sep 2026 18:26:50 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/raygunn1-1152x648.jpg"
+    },
+    {
+      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+      "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+      "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
+      "published": "Wed, 23 Sep 2026 18:06:27 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675"
+    },
+    {
+      "title": "An Epyc trip to Venice: Everything we do and don't know about AMD's 256-core monster chip",
+      "link": "https://www.theregister.com/systems/2026/09/23/an-epyc-trip-to-venice-everything-we-do-and-dont-know-about-amds-256-core-monster-chip/5298614",
+      "summary": "16 channels of DDR5, 5 GHz clock speeds, and support for CXL 3.1 memory god boxes? What's not to like?",
+      "published": "Wed, 23 Sep 2026 17:51:11 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298634&width=800"
+    },
+    {
+      "title": "The old cybersecurity model is breaking",
+      "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&#160;even seeing companies like&#160;Instinct&#160;and&#160;Simile&#160;bring in nine-figure checks and valuations that&#160;wouldn&#8217;t&#160;have made sense a [&#8230;]",
+      "published": "Wed, 23 Sep 2026 17:44:02 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750"
+    },
+    {
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "summary": "\"So absurd and embarrassing ...\"",
+      "published": "Wed, 23 Sep 2026 17:39:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Samsung-Bespoke-AI-3-Door-Refrigerator-AutoView-950x534-1-1152x648-1790182604.jpg"
+    },
+    {
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "summary": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
+      "published": "Wed, 23 Sep 2026 17:28:38 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-highlander-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+      "link": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+      "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+      "published": "Wed, 23 Sep 2026 17:10:58 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/BillNelsonHappy-CROPPED-1152x648.jpeg"
+    },
+    {
+      "title": "Thoughts return to forbidden RAM upgrades as Raspberry Pi OS gets fresh lick of paint",
+      "link": "https://www.theregister.com/systems/2026/09/23/thoughts-return-to-forbidden-ram-upgrades-as-raspberry-pi-os-gets-fresh-lick-of-paint/5298600",
+      "summary": "New dock and app launcher arrive while soaring memory prices revive scrutiny of a two-year-old firmware restriction",
+      "published": "Wed, 23 Sep 2026 17:09:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=234467&width=800"
+    },
+    {
+      "title": "Academic publisher Elsevier hit by LAPSUS$ redirect attack",
+      "link": "https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
+      "summary": "Customers got crime crew's calling card instead of access to journals",
+      "published": "Wed, 23 Sep 2026 17:08:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5241973&width=800"
+    },
+    {
+      "title": "Closing the observability gap for the AI-ready enterprise",
+      "link": "https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
+      "summary": "SPONSORED FEATURE: Why AI-driven operations need a data-rich view of the network",
+      "published": "Wed, 23 Sep 2026 17:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298357&width=800"
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "published": "Wed, 23 Sep 2026 16:49:58 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2016/02/worried.jpg?resize=1200,900"
+    },
+    {
+      "title": "Software Update Turns Samsung’s “AI Fridges” Into Useless Bricks",
+      "link": "https://futurism.com/artificial-intelligence/software-update-samsung-ai-fridges-useless-bricks",
+      "summary": "<p>Wait, why did fridges need AI in the first place?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/software-update-samsung-ai-fridges-useless-bricks\">Software Update Turns Samsung&#8217;s &#8220;AI Fridges&#8221; Into Useless Bricks</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 23 Sep 2026 16:31:16 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/software-update-samsung-ai-fridges-useless-bricks.jpg?quality=85&w=2048"
+    },
     {
       "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
       "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
@@ -10,12 +210,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/youtube-communities.jpeg?resize=1200,649"
     },
     {
+      "title": "The more Americans hear about datacenters, the less they like them",
+      "link": "https://www.theregister.com/on-prem/2026/09/23/the-more-americans-hear-about-datacenters-the-less-they-like-them/5298588",
+      "summary": "Pew finds growing concern over their effects on energy bills, the environment, and nearby communities",
+      "published": "Wed, 23 Sep 2026 16:01:04 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=225317&width=800"
+    },
+    {
       "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
       "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
       "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
       "published": "Wed, 23 Sep 2026 15:46:57 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.07.17-AM.png?resize=1200,664"
+    },
+    {
+      "title": "It Turns Out That Meta’s Muse AI Has an Amazingly Dirty Secret",
+      "link": "https://futurism.com/artificial-intelligence/meta-muse-ai-dirty-secret",
+      "summary": "<p>\"This has potential for so much negative PR.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-muse-ai-dirty-secret\">It Turns Out That Meta&#8217;s Muse AI Has an Amazingly Dirty Secret</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 23 Sep 2026 15:24:35 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-muse-ai-dirty-secret.jpg?quality=85&w=2048"
     },
     {
       "title": "YouTube Music gets more conversational with new AI features",
@@ -32,6 +248,14 @@
       "published": "Wed, 23 Sep 2026 14:45:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Eight-Sleep-feat.jpg?resize=1200,675"
+    },
+    {
+      "title": "A 1980s PDP-11 is still running Unix – and now you can watch",
+      "link": "https://www.theregister.com/offbeat/2026/09/23/a-1980s-pdp-11-is-still-running-unix-and-now-you-can-watch-1/5298072",
+      "summary": "Yeah, you'd like that, wouldn't you?",
+      "published": "Wed, 23 Sep 2026 14:40:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298093&width=800"
     },
     {
       "title": "YouTube releases new AI features for creators within its Studio app",
@@ -58,38 +282,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Event-Made-On-Logo-Creator-Graphic-White.jpg?resize=1200,675"
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800"
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675"
-    },
-    {
-      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-      "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-      "summary": "YouTube's AI feature can now help you compare products as you shop.",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Ask-YouTube-Title-Card.jpg?resize=1200,675"
-    },
-    {
-      "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-      "link": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-      "summary": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.",
-      "published": "Wed, 23 Sep 2026 14:21:41 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/elizabeth-holmes-sentence-1.jpg?resize=1200,800"
-    },
-    {
       "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
       "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
       "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
@@ -98,12 +290,20 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1572803728-1152x648.jpg"
     },
     {
-      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
-      "published": "Wed, 23 Sep 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/Networking_disrupt.png?resize=1200,800"
+      "title": "Former Google Exec Warns That AI Could Be Causing Terrible Harm to Minors, Even Worse Than Social Media",
+      "link": "https://futurism.com/artificial-intelligence/former-google-exec-ai-harm-minors",
+      "summary": "<p>\"We find ourselves in a really terrible ​situation in terms of what AI is doing to kids.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/former-google-exec-ai-harm-minors\">Former Google Exec Warns That AI Could Be Causing Terrible Harm to Minors, Even Worse Than Social Media</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 23 Sep 2026 14:05:06 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/former-google-exec-ai-harm-minors.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "British regulator takes a hard look at Pornhub's Apple-powered age checks",
+      "link": "https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558",
+      "summary": "Regulator wants to know whether parent Aylo did its homework before reopening the door to UK iPhone users",
+      "published": "Wed, 23 Sep 2026 13:53:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5220278&width=800"
     },
     {
       "title": "America gave up its rare earth edge. China took full advantage.",
@@ -114,28 +314,36 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/mpmaterials-1152x648-1790170607.jpg"
     },
     {
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Taste-Profile_Blog-header.png?resize=1200,458"
+      "title": "Southern Water taps fiber network to sniff out leaky pipes",
+      "link": "https://www.theregister.com/networks/2026/09/23/southern-water-taps-fiber-network-to-sniff-out-leaky-pipes/5298527",
+      "summary": "Another utility sees the light in putting existing telecoms infrastructure to work",
+      "published": "Wed, 23 Sep 2026 13:29:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5263102&width=800"
     },
     {
-      "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-      "link": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
-      "summary": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them.",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/linkedin-getty.jpg?w=1200"
+      "title": "Stanford University Caught Using AI to Create Fake Black Student on Banners Hung Around Campus",
+      "link": "https://futurism.com/artificial-intelligence/stanford-ai-fake-black-student",
+      "summary": "<p>\"I love this school, but I don't love when they do things like this.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/stanford-ai-fake-black-student\">Stanford University Caught Using AI to Create Fake Black Student on Banners Hung Around Campus</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 23 Sep 2026 12:46:23 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/stanford-ai-fake-black-student.jpg?quality=85&w=2048"
     },
     {
-      "title": "PitPro’s first tire-changing robot goes live in Canada",
-      "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
-      "summary": "The startup says its automated system can change four tires in under 15 minutes.",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/PitProImage1.jpg?resize=1200,675"
+      "title": "Swedish celebs campaign for public rudeness ... to prevent cyber scams",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/23/swedish-celebs-campaign-for-public-rudeness-to-prevent-cyber-scams-1/5298333",
+      "summary": "The campaign follows a highly profitable year for crooks targeting the over-60s",
+      "published": "Wed, 23 Sep 2026 12:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5280606&width=800"
+    },
+    {
+      "title": "Whisky merchant Master of Malt confirms customer data spilt",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/23/whisky-merchant-master-of-malt-confirms-customer-data-spilt/5298377",
+      "summary": "Attackers had four days to drink in names, addresses, emails and phone numbers",
+      "published": "Wed, 23 Sep 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298381&width=800"
     },
     {
       "title": "AI Community Linked to Disturbing Culture of Sexual Assault",
@@ -226,30 +434,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
     },
     {
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-      "published": "Tue, 22 Sep 2026 19:28:23 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg"
-    },
-    {
-      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-      "published": "Tue, 22 Sep 2026 19:08:58 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Premiere-Android-1-1152x648.jpg"
-    },
-    {
-      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-      "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-      "published": "Tue, 22 Sep 2026 17:30:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/residentevilTOP-1152x648.jpg"
-    },
-    {
       "title": "Trump Says No Need to Regulate AI, Since That Strategy Is Working Fine for Climate Change",
       "link": "https://futurism.com/future-society/trump-regulate-ai-deregulation-climate-change-united-nations",
       "summary": "<p>\"Welcome to the new world of super intelligence.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/trump-regulate-ai-deregulation-climate-change-united-nations\">Trump Says No Need to Regulate AI, Since That Strategy Is Working Fine for Climate Change</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -258,44 +442,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/trump-regulate-ai-deregulation-climate-change-united-nations.jpg?quality=85&w=2048"
     },
     {
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "published": "Tue, 22 Sep 2026 17:06:16 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg"
-    },
-    {
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "summary": "The English hospitals recovered patient care data only.",
-      "published": "Tue, 22 Sep 2026 16:55:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg"
-    },
-    {
-      "title": "Effort begins to fill the void left by terminated US climate report",
-      "link": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-      "summary": "First paper added to community collection is a roadmap for research.",
-      "published": "Tue, 22 Sep 2026 16:26:30 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-154344707-1024x648.jpg"
-    },
-    {
       "title": "Former Air Traffic Controller Terrified New AI System Will Hallucinate and Cause Catastrophe",
       "link": "https://futurism.com/advanced-transport/air-traffic-control-terrified-ai-smart-system-hallucination-catastrophe",
       "summary": "<p>\"One word: hallucination.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/air-traffic-control-terrified-ai-smart-system-hallucination-catastrophe\">Former Air Traffic Controller Terrified New AI System Will Hallucinate and Cause Catastrophe</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 22 Sep 2026 16:16:41 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/air-traffic-control-terrified-ai-smart-system-hallucination-catastrophe.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
-      "link": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
-      "summary": "Activision gets <em>Halo</em>, Obsidian becomes part of Bethesda, and more internal shake-ups.",
-      "published": "Tue, 22 Sep 2026 15:30:53 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg"
     },
     {
       "title": "Tesla Instructs Firefighters to Call Two Separate Support Hotlines in the Event of a Robotaxi Accident",
@@ -330,36 +482,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/donald-trump-un-super-intelligence.jpg?quality=85&w=2048"
     },
     {
-      "title": "Is There a Secret Reason for the Industry-Wide AI Slowdown?",
-      "link": "https://futurism.com/artificial-intelligence/secret-reason-ai-slowdown",
-      "summary": "<p>Genuine concern or safety theater?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/secret-reason-ai-slowdown\">Is There a Secret Reason for the Industry-Wide AI Slowdown?</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 22 Sep 2026 11:06:51 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/secret-reason-ai-slowdown.jpg?quality=85&w=2048"
+      "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+      "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last [&#8230;]",
+      "published": "2026-09-23T16:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Laptop-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Meta’s New Muse AI Agent May Be the Creepiest Ever Released",
-      "link": "https://futurism.com/artificial-intelligence/meta-muse-ai-agent-creepy",
-      "summary": "<p>Careful what you share with Muse.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-muse-ai-agent-creepy\">Meta&#8217;s New Muse AI Agent May Be the Creepiest Ever Released</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 22 Sep 2026 10:03:11 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-muse-ai-agent-creepy.jpg?quality=85&w=2048"
+      "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+      "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
+      "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the Surface app. \"Its [&#8230;]",
+      "published": "2026-09-23T16:30:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Mouse-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Wild New Website Lets You Shoot “Less Lethal” Ammunition From Gun Turrets in a Firing Range",
-      "link": "https://futurism.com/artificial-intelligence/website-shoot-gun-turrets-firing-range",
-      "summary": "<p>What could possibly go wrong?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/website-shoot-gun-turrets-firing-range\">Wild New Website Lets You Shoot &#8220;Less Lethal&#8221; Ammunition From Gun Turrets in a Firing Range</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 22 Sep 2026 09:03:46 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/deranged-website-shoot-gun-turrets-firing-range.jpg?quality=85&w=2048"
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
+      "published": "2026-09-23T15:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04272_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Meta Now Banning Ads That Promote Feminism",
-      "link": "https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism",
-      "summary": "<p>\"We have given social media unlimited power and every day we can see how dangerous this is.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism\">Meta Now Banning Ads That Promote Feminism</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 21 Sep 2026 17:23:44 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-banning-ads-virginia-woolf-facebook-instagram-feminism.jpg?quality=85&w=2048"
+      "title": "Data centers are black boxes, but California wants to change that",
+      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
+      "published": "2026-09-23T14:22:57-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
+      "published": "2026-09-23T14:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
@@ -386,9 +546,9 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy",
+      "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
       "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
-      "summary": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic achievements, which according to data in the app will appear once a player completes all the achievements in a game. Mythic achievements appear on screen with a unique unlock sound, [&#8230;]",
+      "summary": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a game. Mythic Achievements appear on screen with a unique unlock sound, [&#8230;]",
       "published": "2026-09-23T11:45:11-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -400,46 +560,6 @@
       "published": "2026-09-23T11:01:50-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/thevergedealsautomaticfeeder.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "This $199 GPS sports watch is repairable, modular, and open-source",
-      "link": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
-      "summary": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up to 10 days of battery life, similar to the Garmin Forerunner 70 or [&#8230;]",
-      "published": "2026-09-23T11:01:16-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/UNA-takes-on-Apple-and-Garmin-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube [&#8230;]",
-      "published": "2026-09-23T10:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Discord will now automatically estimate your age",
-      "link": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
-      "summary": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically assign users to an estimated age group based on \"multiple account signals,\" with account restrictions placed on users believed to [&#8230;]",
-      "published": "2026-09-23T10:27:49-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25531732/STK062_DISCORD_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "McDonald’s is testing ads on its drive-thru menus",
-      "link": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
-      "summary": "McDonald's is putting ads on its drive-thru menu as part of a \"limited\" pilot at company-owned restaurants, according to a report from Bloomberg. Drive-thru locations included in the test will show ads from other brands on digital menu boards after a customer places their order, which they'll see while they wait for their meal. In [&#8230;]",
-      "published": "2026-09-23T09:52:39-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2197151240.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Nobody does it like Remedy",
-      "link": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
-      "summary": "Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City. It's a game that lets you flip, twist, and fly through the air, while exploring settings that look ripped out of Inception. [&#8230;]",
-      "published": "2026-09-23T09:45:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/CTRL_R_Launch_4K_Media_02.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
