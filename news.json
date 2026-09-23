@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-09-22T21:04:39.058783",
+  "lastUpdated": "2026-09-23T04:08:33.459271",
   "articles": [
+    {
+      "title": "Discord’s age verification era is upon us, despite community backlash",
+      "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "summary": "According to Discord, 90% of users will not have to verify their age.",
+      "published": "Wed, 23 Sep 2026 03:31:12 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800"
+    },
+    {
+      "title": "Frontier AI keeps racing despite calls to slow down",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
+      "summary": "Anthropic and OpenAI debut Opus 5.5 and GPT-6 Sol and Luna",
+      "published": "Wed, 23 Sep 2026 02:02:47 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298454&width=800"
+    },
+    {
+      "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+      "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+      "summary": "'first' publicly documented Windows implant to use LLMs for C2",
+      "published": "Tue, 22 Sep 2026 23:33:29 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298442&width=800"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800"
+    },
+    {
+      "title": "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
+      "summary": "Not that there's anything wrong with it",
+      "published": "Tue, 22 Sep 2026 22:43:17 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298428&width=800"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "published": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686"
+    },
+    {
+      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "published": "Tue, 22 Sep 2026 21:42:14 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2280570746-1152x648.jpg"
+    },
+    {
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "published": "Tue, 22 Sep 2026 21:25:18 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-1152x648-1790110487.jpg"
+    },
+    {
+      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+      "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+      "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+      "published": "Tue, 22 Sep 2026 20:38:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg"
+    },
     {
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
       "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
@@ -8,6 +80,14 @@
       "published": "Tue, 22 Sep 2026 20:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675"
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
     },
     {
       "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
@@ -24,6 +104,14 @@
       "published": "Tue, 22 Sep 2026 19:27:57 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927"
+    },
+    {
+      "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
+      "link": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
+      "summary": "This time it's personal",
+      "published": "Tue, 22 Sep 2026 19:24:13 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298402&width=800"
     },
     {
       "title": "ABBYY gives old-school OCR a job in the AI pipeline",
@@ -112,6 +200,14 @@
       "published": "Tue, 22 Sep 2026 17:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=230068&width=800"
+    },
+    {
+      "title": "Trump Says No Need to Regulate AI, Since That Strategy Is Working Fine for Climate Change",
+      "link": "https://futurism.com/future-society/trump-regulate-ai-deregulation-climate-change-united-nations",
+      "summary": "<p>\"Welcome to the new world of super intelligence.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/trump-regulate-ai-deregulation-climate-change-united-nations\">Trump Says No Need to Regulate AI, Since That Strategy Is Working Fine for Climate Change</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 22 Sep 2026 17:12:17 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/trump-regulate-ai-deregulation-climate-change-united-nations.jpg?quality=85&w=2048"
     },
     {
       "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
@@ -250,14 +346,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295851553-1152x648.jpg"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "published": "Tue, 22 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200"
-    },
-    {
       "title": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
       "link": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
       "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
@@ -266,28 +354,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-783442-1152x648-1790082142.jpg"
     },
     {
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-      "published": "Tue, 22 Sep 2026 14:15:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/54885180072_e211a254ca_k.jpg?resize=1200,800"
-    },
-    {
       "title": "Civo plots 40 edge datacenters to power Britain's sovereign AI",
       "link": "https://www.theregister.com/off-prem/2026/09/22/civo-plots-40-edge-datacenters-to-power-britains-sovereign-ai/5298141",
       "summary": "First site is due in Hertfordshire next March, with Nvidia's Vera Rubin systems and a longer-term 1 GW ambition",
       "published": "Tue, 22 Sep 2026 14:13:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=1684059&width=800"
-    },
-    {
-      "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-      "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-      "summary": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
-      "published": "Tue, 22 Sep 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
     },
     {
       "title": "Robin Williams’ Daughter Horrified by People Creating AI Conspiracy Videos of Her Dad Long After His Death",
@@ -314,14 +386,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/toothbrush-1152x648.jpg"
     },
     {
-      "title": "NHS Trust IT blunder overwrites 11 years of maternity records",
-      "link": "https://www.theregister.com/databases/2026/09/22/nhs-trust-it-blunder-overwrites-11-years-of-maternity-records/5298130",
-      "summary": "Human error sent reused instructions at the wrong database, taking historical access logs with it",
-      "published": "Tue, 22 Sep 2026 12:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=223620&width=800"
-    },
-    {
       "title": "DraftKings Is Using AI to Identify Problem Gamblers and Get Them Hooked",
       "link": "https://futurism.com/artificial-intelligence/draftkings-ai-problem-gamblers",
       "summary": "<p>\"The best investment would be a problem gambler.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/draftkings-ai-problem-gamblers\">DraftKings Is Using AI to Identify Problem Gamblers and Get Them Hooked</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -330,28 +394,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/draftkings-ai-problem-gamblers.jpg?quality=85&w=2048"
     },
     {
-      "title": "Longtime SUSE staff asked if they'd opt for 'voluntary separation'",
-      "link": "https://www.theregister.com/software/2026/09/22/longtime-suse-staff-asked-if-theyd-opt-for-voluntary-separation/5297457",
-      "summary": "Other changes also afoot as employees unionize and the distro itself sees modifications",
-      "published": "Tue, 22 Sep 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=256309&width=800"
-    },
-    {
       "title": "Trump Addresses United Nations to Declare That the United States Is Now Calling Artificial Intelligence “Super Intelligence” in “All Official Documents”",
       "link": "https://futurism.com/artificial-intelligence/donald-trump-un-super-intelligence",
       "summary": "<p>\"Many people think that the words 'Artificial Intelligence' are inaccurate,\" Trump mused.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/donald-trump-un-super-intelligence\">Trump Addresses United Nations to Declare That the United States Is Now Calling Artificial Intelligence &#8220;Super Intelligence&#8221; in &#8220;All Official Documents&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 22 Sep 2026 11:35:46 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/donald-trump-un-super-intelligence.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Commodore's forgotten Amiga Unix gets a modern revival",
-      "link": "https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805",
-      "summary": "Amix gains newer CPU support and a package manager as Open Look joins the retro comeback",
-      "published": "Tue, 22 Sep 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=234956&width=800"
     },
     {
       "title": "Is There a Secret Reason for the Industry-Wide AI Slowdown?",
@@ -370,14 +418,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/55530373924_3ff4eff49b_6k-1152x648.jpg"
     },
     {
-      "title": "GOV.UK founder warns AI gold rush could leave Britain locked in",
-      "link": "https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828",
-      "summary": "Mike Bracken says the dash to adopt sovereign AI risks giving more control to a handful of tech suppliers",
-      "published": "Tue, 22 Sep 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5297885&width=800"
-    },
-    {
       "title": "Meta’s New Muse AI Agent May Be the Creepiest Ever Released",
       "link": "https://futurism.com/artificial-intelligence/meta-muse-ai-agent-creepy",
       "summary": "<p>Careful what you share with Muse.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-muse-ai-agent-creepy\">Meta&#8217;s New Muse AI Agent May Be the Creepiest Ever Released</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -394,44 +434,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/deranged-website-shoot-gun-turrets-firing-range.jpg?quality=85&w=2048"
     },
     {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "published": "Mon, 21 Sep 2026 22:24:38 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
-    },
-    {
-      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-      "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
-      "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
-      "published": "Mon, 21 Sep 2026 21:07:05 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-1152x648.jpg"
-    },
-    {
-      "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
-      "link": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
-      "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
-      "published": "Mon, 21 Sep 2026 20:55:36 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/WhatsApp_Image_2026-09-21_at_21.24.15-1152x648.jpeg"
-    },
-    {
       "title": "Meta Now Banning Ads That Promote Feminism",
       "link": "https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism",
       "summary": "<p>\"We have given social media unlimited power and every day we can see how dangerous this is.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-banning-ads-virginia-woolf-facebook-instagram-feminism\">Meta Now Banning Ads That Promote Feminism</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Mon, 21 Sep 2026 17:23:44 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-banning-ads-virginia-woolf-facebook-instagram-feminism.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "published": "Mon, 21 Sep 2026 16:57:26 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
     },
     {
       "title": "Hundreds of Flights Grounded Across the Eastern Seaboard as Government Rolls Out AI Air Traffic Control System",
@@ -474,12 +482,20 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/bloomberg-ai-industry-finances-wobbly-house-of-cards.jpg?quality=85&w=2048"
     },
     {
-      "title": "Nvidia CEO Promises Not to Kill Everybody Before 2030",
-      "link": "https://futurism.com/artificial-intelligence/nvidia-ceo-promises-kill-everybody-2030",
-      "summary": "<p>\"There is zero chance chance that's going to be the end of the world.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nvidia-ceo-promises-kill-everybody-2030\">Nvidia CEO Promises Not to Kill Everybody Before 2030</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 21 Sep 2026 10:36:41 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/nvidia-ceo-promises-kill-everybody-2030.jpg?quality=85&w=2048"
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
+      "published": "2026-09-22T20:17:17-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Paramount will need to release way more movies to make this merger work",
+      "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in [&#8230;]",
+      "published": "2026-09-22T18:26:07-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB385_PARAMOUNT_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
@@ -544,22 +560,6 @@
       "published": "2026-09-22T13:43:50-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13102391/1032340378.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple is reportedly working on a Whoop-like fitness tracker",
-      "link": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
-      "summary": "Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\" The device is in an early stage of development and likely wouldn't arrive before [&#8230;]",
-      "published": "2026-09-22T13:04:52-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/257818_Whoop_5_AKrales_0109.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
-      "published": "2026-09-22T12:34:08-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
