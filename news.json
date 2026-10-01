@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-09-30T22:03:05.294951",
+  "lastUpdated": "2026-10-01T05:07:54.916729",
   "articles": [
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+    },
+    {
+      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+      "link": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+      "summary": "US model makers can train on web data - but distilling theirs is a 'national security risk'",
+      "published": "Wed, 30 Sep 2026 23:36:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5300289&width=800"
+    },
+    {
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+      "published": "Wed, 30 Sep 2026 23:08:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297936328.jpg?w=1024"
+    },
+    {
+      "title": "Hot Dog! America's new chatbot is packed with wieners",
+      "link": "https://www.theregister.com/public-sector/2026/09/30/hot-dog-americas-new-chatbot-is-packed-with-wieners/5300292",
+      "summary": "Just ask America.gov and you'll receive a favorite July 4th food.",
+      "published": "Wed, 30 Sep 2026 23:07:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5300297&width=800"
+    },
     {
       "title": "YouTube lunatic designed and 3D printed a working mechanical calculator",
       "link": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
@@ -18,12 +50,44 @@
       "image_url": "https://image.theregister.com/?imageId=261217&width=800"
     },
     {
+      "title": "Dinosaur-killing impact crater might have been teeming with life",
+      "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+      "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+      "published": "Wed, 30 Sep 2026 21:54:12 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1042124682-1152x648.jpg"
+    },
+    {
+      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+      "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
+      "published": "Wed, 30 Sep 2026 21:37:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2257300982-1152x648.jpg"
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "summary": "Reminder: The \"border exemption\" to your rights is real.",
+      "published": "Wed, 30 Sep 2026 21:19:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg"
+    },
+    {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
       "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
       "published": "Wed, 30 Sep 2026 21:07:40 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800"
+    },
+    {
+      "title": "A local network of implants uses your body as the wiring",
+      "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+      "summary": "It's possible to send electrical signals right through human tissues.",
+      "published": "Wed, 30 Sep 2026 21:06:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1531989233-1152x648.jpg"
     },
     {
       "title": "Peter Norvig says all aboard for AI coding",
@@ -34,9 +98,17 @@
       "image_url": "https://image.theregister.com/?imageId=5300259&width=800"
     },
     {
-      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "published": "Wed, 30 Sep 2026 20:44:48 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+    },
+    {
+      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
       "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+      "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
       "published": "Wed, 30 Sep 2026 20:39:09 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2019/01/facebook-research-vpn-project-atlas.jpg?resize=1200,675"
@@ -136,6 +208,14 @@
       "published": "Wed, 30 Sep 2026 19:00:57 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800"
+    },
+    {
+      "title": "Here’s the Email You Get When an OpenAI Model Hacks Your Organization",
+      "link": "https://futurism.com/artificial-intelligence/email-openai-model-hacks-your-organization",
+      "summary": "<p>OpenAI will wish you the \"best\" after hacking into your company.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/email-openai-model-hacks-your-organization\">Here&#8217;s the Email You Get When an OpenAI Model Hacks Your Organization</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 30 Sep 2026 18:47:53 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/email-openai-model-hacks-organization.jpg?quality=85&w=2048"
     },
     {
       "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
@@ -266,36 +346,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800"
     },
     {
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-      "published": "Wed, 30 Sep 2026 15:56:28 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686"
-    },
-    {
       "title": "Google figures out how to watermark AI-designed proteins",
       "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
       "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
       "published": "Wed, 30 Sep 2026 15:54:52 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg"
-    },
-    {
-      "title": "Firefox 157: Could bold new look be just what Mozilla needs?*",
-      "link": "https://www.theregister.com/software/2026/09/30/firefox-157-could-bold-new-look-be-just-what-mozilla-needs/5300059",
-      "summary": "Yet another new version of Firefox, with a significant reskin",
-      "published": "Wed, 30 Sep 2026 15:44:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5300082&width=800"
-    },
-    {
-      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-      "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-      "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-      "published": "Wed, 30 Sep 2026 15:26:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/harbinger-fedex-electric-delivery-truck-series-c-funding-scaled-1.jpg?resize=1200,800"
     },
     {
       "title": "The PS5 hacking scene just took a big leap forward",
@@ -314,68 +370,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/new-jersey-flood-shark.jpg?quality=85&w=2048"
     },
     {
-      "title": "Discord gives more advertisers more tools to target its users",
-      "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
-      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
-      "published": "Wed, 30 Sep 2026 15:01:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1244881649-1024x648.jpg"
-    },
-    {
-      "title": "What butterfly wings have in common with barbershop poles",
-      "link": "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
-      "summary": "Wing patterns, flight dynamics create \"motion dazzle\" effect, make it harder to gauge speed, direction.",
-      "published": "Wed, 30 Sep 2026 15:00:56 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/butterfly1-1152x648.jpg"
-    },
-    {
-      "title": "7 in 10 enterprises expected to abandon vendor-built agentic AI by 2028",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021",
-      "summary": "Build it, bill it, bin it as forward-deployed engineering leaves customers dependent on outside expertise",
-      "published": "Wed, 30 Sep 2026 14:58:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5239850&width=800"
-    },
-    {
-      "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
-      "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
-      "summary": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
-      "published": "Wed, 30 Sep 2026 14:42:58 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/P90657631_highRes_the-new-bmw-3-series-1152x648.jpg"
-    },
-    {
-      "title": "Apple makes the AirPods 5 slightly less hostile to repair",
-      "link": "https://www.theregister.com/personal-tech/2026/09/30/apple-makes-the-airpods-5-slightly-less-hostile-to-repair/5300042",
-      "summary": "Replaceable earbud batteries lift iFixit score from zero to a dizzying two out of ten",
-      "published": "Wed, 30 Sep 2026 14:13:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5300048&width=800"
-    },
-    {
-      "title": "OpenAI delays IPO over AI safety concerns",
-      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
-      "published": "Wed, 30 Sep 2026 14:06:15 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sam-altman-1-1152x648.jpg"
-    },
-    {
       "title": "People Who Drink Their Own Pee Are Obsessed With AI, Using It to Reassure Themselves That It’s a Miraculous Cure-All",
       "link": "https://futurism.com/artificial-intelligence/urine-therapy-ai",
       "summary": "<p>The power of AI.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/urine-therapy-ai\">People Who Drink Their Own Pee Are Obsessed With AI, Using It to Reassure Themselves That It&#8217;s a Miraculous Cure-All</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 30 Sep 2026 13:48:54 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/urine-therapy-ai.png?quality=85"
-    },
-    {
-      "title": "Drunk Van Halen fan called Microsoft support and demanded to speak to Gates",
-      "link": "https://www.theregister.com/offbeat/2026/09/30/drunk-van-halen-fan-called-microsoft-support-and-demanded-to-speak-to-gates/5300002",
-      "summary": "A broken Java applet had one FrontPage user ready for an Eruption",
-      "published": "Wed, 30 Sep 2026 13:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5300029&width=800"
     },
     {
       "title": "New OpenAI Product Fails Spectacularly During Live On-Stage Demo",
@@ -400,14 +400,6 @@
       "published": "Wed, 30 Sep 2026 11:19:26 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/donald-trump-press-media-ai-safety-hoax-billionaires_453ad1.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-      "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-      "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-      "published": "Wed, 30 Sep 2026 11:15:14 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg"
     },
     {
       "title": "That Company That Buys Struggling News Sites and Turns Them Into AI-Powered Content Mills Has Halted Publishing After a Futurism Investigation",
@@ -474,12 +466,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/spacex-investors-figure-out-stock-failed.jpg?quality=85&w=2048"
     },
     {
-      "title": "Horrifying Research Finds What Happens to 12-Year-Olds Who Get Smart Phones",
-      "link": "https://futurism.com/health-medicine/horryfing-research-12-year-old-smartphones",
-      "summary": "<p>Think twice before letting a tween go wild with a smartphone, maybe.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/horryfing-research-12-year-old-smartphones\">Horrifying Research Finds What Happens to 12-Year-Olds Who Get Smart Phones</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 29 Sep 2026 09:49:06 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/horryfing-research-12-year-old-smartphones.jpg?quality=85&w=2048"
+      "title": "RAM supply set to worsen, says Micron, as CEO celebrates ‘much higher’ prices",
+      "link": "https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346",
+      "summary": "Posts huge leaps in revenue, profit, and margin, with more to come",
+      "published": "Thu, 01 Oct 2026 04:37:55 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5261989&width=800"
+    },
+    {
+      "title": "Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services",
+      "link": "https://www.theregister.com/off-prem/2026/10/01/azure-maintenance-mess-disrupted-hybrid-clouds-vpns-cloudy-vmware-services/5300333",
+      "summary": "Microsoft broke its own cloud but isn’t sure how",
+      "published": "Thu, 01 Oct 2026 01:54:57 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5243181&width=800"
+    },
+    {
+      "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+      "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+      "summary": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other [&#8230;]",
+      "published": "2026-09-30T22:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vivo-x-fold-6-09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much [&#8230;]",
+      "published": "2026-09-30T20:23:45-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The new and huger Paramount has a new co-CEO",
+      "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+      "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, creative vision and direction, including its [&#8230;]",
+      "published": "2026-09-30T19:08:49-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279296662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
@@ -536,30 +560,6 @@
       "published": "2026-09-30T13:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23891834/VRG_Illo_K_Radtke_226084_Poop_Emoji.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Asus won’t say how it escaped the US router ban",
-      "link": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
-      "summary": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in the United States.\" As of September 9th, Asus now [&#8230;]",
-      "published": "2026-09-30T12:44:20-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/4023838/vs09-02_1250cxs.0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
-      "link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-      "summary": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox entirely, and then reported earlier this month that both execs have \"more recently supported Sharma's plans to overhaul the [&#8230;]",
-      "published": "2026-09-30T12:24:30-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-      "link": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-      "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers [&#8230;]",
-      "published": "2026-09-30T12:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/halide.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
