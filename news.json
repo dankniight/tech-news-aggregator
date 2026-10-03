@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T22:00:16.493836",
+  "lastUpdated": "2026-10-03T04:40:34.291389",
   "articles": [
     {
       "title": "Venus' mysterious haze is actually cosmic dust",
@@ -8,22 +8,6 @@
       "published": "Thu, 01 Oct 2026 22:27:04 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x510.jpeg"
-    },
-    {
-      "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-      "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-      "summary": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
-      "published": "Thu, 01 Oct 2026 22:07:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg"
-    },
-    {
-      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-      "summary": "It has been a bad month for federal government cybersecurity.",
-      "published": "Thu, 01 Oct 2026 20:28:45 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
     },
     {
       "title": "The AI Industry Has a Major Problem: Most People Aren’t Freaks Who Want an AI Agent Running Their Whole Life",
@@ -66,6 +50,30 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/old-tweets-appear-anthropic-employee-quit.jpg?quality=85&w=2048"
     },
     {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "summary": "The proposed legislation would extend to all automotica license plate readers.",
+      "published": "Sat, 03 Oct 2026 00:21:57 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+    },
+    {
       "title": "Google hearts Apple's Swift so much it's pumping out server-side support",
       "link": "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921",
       "summary": "After a decade of false starts, Swift is showing backend appeal",
@@ -80,6 +88,14 @@
       "published": "Fri, 02 Oct 2026 21:30:56 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=4093879&width=800"
+    },
+    {
+      "title": "Someone got Doom in an SQL database",
+      "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "published": "Fri, 02 Oct 2026 21:19:05 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png"
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -384,22 +400,6 @@
       "published": "Fri, 02 Oct 2026 13:43:35 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5300787&width=800"
-    },
-    {
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-      "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-      "published": "Fri, 02 Oct 2026 13:39:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1246103921.jpg?resize=1200,789"
-    },
-    {
-      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-      "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-      "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-      "published": "Fri, 02 Oct 2026 13:23:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/faulkner-1825451690.jpg?resize=1200,800"
     },
     {
       "title": "Once a $35 computer, the 2 GB Raspberry Pi 4 now costs $67.50",
