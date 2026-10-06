@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-05T23:54:23.129479",
+  "lastUpdated": "2026-10-06T05:43:51.684877",
   "articles": [
+    {
+      "title": "Security researcher claims they found KVM guest-host escape flaw",
+      "link": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+      "summary": "Firecracker MicroVMs, which started at AWS, seem to be the problem",
+      "published": "Tue, 06 Oct 2026 04:06:20 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254942&width=800"
+    },
+    {
+      "title": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
+      "link": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
+      "summary": "Part of a bigger play for smarter power infra",
+      "published": "Tue, 06 Oct 2026 00:48:15 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5298032&width=800"
+    },
     {
       "title": "Amazon Warns Local Communities to Stop Defying Its Massive AI Data Centers",
       "link": "https://futurism.com/artificial-intelligence/amazon-local-communities-stop-defying-ai-data-centers",
@@ -74,14 +90,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/ai-is-creating-doom-loops-all-over-the-economy.jpg?quality=85&w=2048"
     },
     {
-      "title": "Facebook Is Letting Accounts Commit Stolen Valor Using AI Slop of Troops in Warzones",
-      "link": "https://futurism.com/artificial-intelligence/facebook-content-farms-stolen-valor-ai-slop-troops-war",
-      "summary": "<p>\"My mother won't just lose a soldier — she'll lose the boy she raised. If you still support our veterans, hit that follow button.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/facebook-content-farms-stolen-valor-ai-slop-troops-war\">Facebook Is Letting Accounts Commit Stolen Valor Using AI Slop of Troops in Warzones</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 04 Oct 2026 10:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/facebook-content-farms-stolen-valor-ai-slop-troops-war.jpg?quality=85&w=2048"
-    },
-    {
       "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
       "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
       "summary": "\"...we were making history.\"",
@@ -96,6 +104,14 @@
       "published": "Sat, 03 Oct 2026 11:15:33 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg"
+    },
+    {
+      "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports",
+      "link": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232",
+      "summary": "The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service",
+      "published": "Mon, 05 Oct 2026 23:18:48 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259122&width=800"
     },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -128,6 +144,14 @@
       "published": "Mon, 05 Oct 2026 21:24:19 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=256031&width=800"
+    },
+    {
+      "title": "Anthropic Reports User to the Police",
+      "link": "https://futurism.com/artificial-intelligence/anthropic-claude-ai-chatbot-police-violence-safety",
+      "summary": "<p>Watch what you tell Claude.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-claude-ai-chatbot-police-violence-safety\">Anthropic Reports User to the Police</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 05 Oct 2026 20:52:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/anthropic-claude-ai-chatbot-police-violence-safety.jpg?quality=85&w=2048"
     },
     {
       "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
@@ -432,30 +456,6 @@
       "published": "Mon, 05 Oct 2026 12:36:59 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/sam-altman-world-suffer-glories-ai.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double",
-      "link": "https://www.theregister.com/os-platforms/2026/10/05/windows-11-market-share-creeps-upwards-as-cost-of-staying-on-windows-10-set-to-double/5300870",
-      "summary": "How badly do you want that Win10 device to keep getting security updates?",
-      "published": "Mon, 05 Oct 2026 12:24:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=258425&width=800"
-    },
-    {
-      "title": "BT buys TalkTalk out of administration to keep 2.5M customers connected",
-      "link": "https://www.theregister.com/networks/2026/10/05/bt-buys-talktalk-out-of-administration-to-keep-25m-customers-connected/5301066",
-      "summary": "Rescue carries an estimated £400M cash impact as Virgin Media declares move 'a stitchup'",
-      "published": "Mon, 05 Oct 2026 11:52:34 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=224821&width=800"
-    },
-    {
-      "title": "Legacy sign-on service comes back to bite school software provider Bromcom",
-      "link": "https://www.theregister.com/security/2026/10/05/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
-      "summary": "Intruders retrieved email addresses from superseded tech kept running for an internal system",
-      "published": "Mon, 05 Oct 2026 11:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5251523&width=800"
     },
     {
       "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
