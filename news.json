@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-10-07T05:15:01.997840",
+  "lastUpdated": "2026-10-07T12:59:29.867107",
   "articles": [
+    {
+      "title": "Nine in 10 VMware customers eye the exit as licensing bills bite",
+      "link": "https://www.theregister.com/virtualization/2026/10/07/nine-in-10-vmware-customers-eye-the-exit-as-licensing-bills-bite/5301591",
+      "summary": "Rimini Street-sponsored survey finds 48% have no plans to move workloads to Broadcom's preferred subscription platform",
+      "published": "Wed, 07 Oct 2026 14:24:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=263300&width=800"
+    },
+    {
+      "title": "Dutch tax office ditches Microsoft 365 cloud for on-premises alternative",
+      "link": "https://www.theregister.com/on-prem/2026/10/07/dutch-tax-office-ditches-microsoft-365-cloud-for-on-premises-alternative/5301603",
+      "summary": "Email and calendars move in-house in 2027, with European open source tools to follow",
+      "published": "Wed, 07 Oct 2026 13:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301623&width=800"
+    },
+    {
+      "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
+      "link": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
+      "summary": "Tens of thousands more victims and more ransomware groups getting in on the act",
+      "published": "Wed, 07 Oct 2026 12:52:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256583&width=800"
+    },
+    {
+      "title": "Rails originator roasted over Rust boosterism",
+      "link": "https://www.theregister.com/devops/2026/10/07/rails-originator-roasted-over-rust-boosterism/5301494",
+      "summary": "David Heinemeier Hansson's agent-coded bakeoff produced curious results",
+      "published": "Wed, 07 Oct 2026 10:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301517&width=800"
+    },
+    {
+      "title": "COSMIC shuts the door on AI code as GNOME debates letting bug reports in",
+      "link": "https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141",
+      "summary": "System76 demands human-written contributions, while a rival desktop developer argues bot-found flaws are too valuable to ignore",
+      "published": "Wed, 07 Oct 2026 10:09:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=237408&width=800"
+    },
+    {
+      "title": "From reactive to proactive: How endpoint monitoring is fixing broken meeting rooms",
+      "link": "https://www.theregister.com/on-prem/2026/10/07/sponsored-from-reactive-to-proactive-how-endpoint-monitoring-is-fixing-broken-meeting-rooms/5287777",
+      "summary": "SPONSORED FEATURE: Cloud-based telemetry is turning meeting rooms into managed endpoints, letting IT teams anticipate failures rather than scramble once users complain",
+      "published": "Wed, 07 Oct 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5287779&width=800"
+    },
+    {
+      "title": "Rogue AI Agents Have Gone Too Far Now That They’ve Infiltrated Wikipedia",
+      "link": "https://futurism.com/artificial-intelligence/rogue-ai-agents-wikipedia",
+      "summary": "<p>Is nothing sacred?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/rogue-ai-agents-wikipedia\">Rogue AI Agents Have Gone Too Far Now That They&#8217;ve Infiltrated Wikipedia</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 07 Oct 2026 08:44:37 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/rogue-ai-agents-wikipedia_d4d880.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "published": "Wed, 07 Oct 2026 07:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024"
+    },
+    {
+      "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
+      "link": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
+      "summary": "'Complete security paradigm refresh' needed for the AI era",
+      "published": "Wed, 07 Oct 2026 05:56:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260291&width=800"
+    },
+    {
+      "title": "OpenAI’s “ChatGPT for Teens” Is an “Unsafe” Mess, Testing Finds",
+      "link": "https://futurism.com/artificial-intelligence/openai-chatgpt-for-teens-report",
+      "summary": "<p>\"It is incumbent for OpenAI to earn the trust of parents and to show them, not just tell them, that this product is safe for teens to use.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-chatgpt-for-teens-report\">OpenAI&#8217;s &#8220;ChatGPT for Teens&#8221; Is an &#8220;Unsafe&#8221; Mess, Testing Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-chatgpt-for-teens-report.jpg?quality=85&w=2048"
+    },
     {
       "title": "Microsoft defines its Azure instance lifecycle, without any info about timing",
       "link": "https://www.theregister.com/off-prem/2026/10/07/microsoft-defines-its-azure-instance-lifecycle-without-any-info-about-timing/5301526",
@@ -194,14 +274,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/jiohotstar.jpg?resize=1200,800"
     },
     {
-      "title": "Microsoft extends the Outlook naughty step with two more file types",
-      "link": "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
-      "summary": "You didn't really want to be sending around .msix and .msixbundle files, did you?",
-      "published": "Tue, 06 Oct 2026 17:06:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5277792&width=800"
-    },
-    {
       "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
       "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
       "summary": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
@@ -258,14 +330,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/footage-ai-job-interviewer-berserk.jpg?quality=85&w=2048"
     },
     {
-      "title": "Classic Outlook clings to stale search results as Microsoft works on a fix",
-      "link": "https://www.theregister.com/software/2026/10/06/classic-outlook-clings-to-stale-search-results-as-microsoft-works-on-a-fix/5301313",
-      "summary": "Moved messages linger and throw errors when clicked, leaving Windows Desktop Search as the workaround",
-      "published": "Tue, 06 Oct 2026 16:10:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5237731&width=800"
-    },
-    {
       "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
       "link": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
       "summary": "\"The administrator's directive is a coherent and necessary vision for the future.\"",
@@ -298,22 +362,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Pebble-Flow-01-a-l1022800-1152x648.jpg"
     },
     {
-      "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-      "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-      "summary": "Wajo's Fo agent can hire humans to complete a task.",
-      "published": "Tue, 06 Oct 2026 15:15:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/3-1.jpeg?resize=1200,675"
-    },
-    {
-      "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
-      "summary": "Run the CLI in autopilot mode and take your chances",
-      "published": "Tue, 06 Oct 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5243747&width=800"
-    },
-    {
       "title": "Meta’s Muse Is Spying on All Your Friends and Family",
       "link": "https://futurism.com/future-society/meta-muse-surveillance-privacy-friends-family",
       "summary": "<p>\"They're trying to know you like a friend, which is honestly pretty creepy.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/meta-muse-surveillance-privacy-friends-family\">Meta&#8217;s Muse Is Spying on All Your Friends and Family</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -330,22 +378,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/teenage-stranded-mountain-ai-instructions.jpg?quality=85&w=2048"
     },
     {
-      "title": "Asos app delivers a data leak threat instead of fast fashion",
-      "link": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
-      "summary": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
-      "published": "Tue, 06 Oct 2026 13:51:36 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5263225&width=800"
-    },
-    {
-      "title": "Denmark's ID register spills more people's details than the country has residents",
-      "link": "https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
-      "summary": "Abuse of private firm's access exposed 8.8M records, including those of people who had died or moved abroad",
-      "published": "Tue, 06 Oct 2026 13:46:48 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5301327&width=800"
-    },
-    {
       "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
       "link": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
       "summary": "Oil companies say federal law should block state climate deception claims.",
@@ -360,14 +392,6 @@
       "published": "Tue, 06 Oct 2026 13:07:45 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-shut-down-interviewer-suicide-sam-altman.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Atos lands £350M beat keeping Met Police applications running",
-      "link": "https://www.theregister.com/public-sector/2026/10/06/atos-lands-350m-beat-keeping-met-police-applications-running/5301310",
-      "summary": "Six-year deal covers management and security, with options to add cloud and digital workplace services",
-      "published": "Tue, 06 Oct 2026 12:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=236993&width=800"
     },
     {
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -392,14 +416,6 @@
       "published": "Tue, 06 Oct 2026 12:00:31 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
-    },
-    {
-      "title": "Legacy sign-on service comes back to bite school software provider Bromcom",
-      "link": "https://www.theregister.com/security/2026/10/06/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
-      "summary": "Intruders retrieved email addresses from superseded tech kept running for an internal system",
-      "published": "Tue, 06 Oct 2026 11:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5251523&width=800"
     },
     {
       "title": "Court Finds That Using Copyrighted Material as AI Training Data Is Not Fair Use",
@@ -466,20 +482,68 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/the-brutality-of-lethal-injection-is-unfathomable.jpg?quality=85&w=2048"
     },
     {
-      "title": "Particularly Weak-Minded Americans Are Asking ChatGPT Which Candidate to Vote For, Which Sounds a Bit Like AI Is Just Voting Now Via Meat Proxies",
-      "link": "https://futurism.com/future-society/voters-chatgpt-midterm-candidate",
-      "summary": "<p>\"Whatever you lean towards, it will speak positively about it.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/voters-chatgpt-midterm-candidate\">Particularly Weak-Minded Americans Are Asking ChatGPT Which Candidate to Vote For, Which Sounds a Bit Like AI Is Just Voting Now Via Meat Proxies</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 05 Oct 2026 14:16:48 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/voters-chatgpt-midterm-candidate.jpg?quality=85&w=2048"
+      "title": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+      "link": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
+      "summary": "Google has detailed an update bringing a slew of new features to its Pixel Buds 2A and Pro 2, which the company says are rolling out now. The new features were first teased in August. The biggest update is Pixel Watch-powered sleep detection, rolling out to both pairs of earbuds. If you're wearing a Pixel [&#8230;]",
+      "published": "2026-10-07T08:01:22-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25640459/DSC_0133.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Sam Altman Says the World Is Going to Have to Suffer for the Glories of AI",
-      "link": "https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai",
-      "summary": "<p>The \"world should accept some bad things happening for the benefits of this technology.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai\">Sam Altman Says the World Is Going to Have to Suffer for the Glories of AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 05 Oct 2026 12:36:59 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/sam-altman-world-suffer-glories-ai.jpg?quality=85&w=2048"
+      "title": "AI could upend food delivery",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
+      "published": "2026-10-07T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268795_Can_AI_reform_overpriced_food_delivery__CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+      "link": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
+      "summary": "Two weeks ago, journalists in the San Francisco Bay Area got to try two hot new wearables that weigh only around 100 grams: the just-revealed Meta VR Glasses, and the long-awaited transparent Google XR glasses built in partnership with Xreal. It turns out they're going head-to-head. Xreal has just opened Aura pre-orders starting at $1,279, [&#8230;]",
+      "published": "2026-10-07T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Google now lets you make games with AI",
+      "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+      "summary": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to creation\" and doesn't require coding experience. \"With Playground's [&#8230;]",
+      "published": "2026-10-07T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-06-at-7.19.24-PM-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
+      "link": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+      "summary": "Day two of Amazon’s Prime Big Deal Days event is here, and the sale will end at 3AM ET on Thursday, October 8th. While a few of the best deals from yesterday have already ended, many are still happening, with fresh discounts emerging to make the last day of the sale just as worthy of [&#8230;]",
+      "published": "2026-10-07T07:26:22-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_DAY_2_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Samsung Wallet now unlocks some GM cars",
+      "link": "https://www.theverge.com/transportation/1006585/samsung-wallet-now-unlocks-some-gm-cars",
+      "summary": "Users of some Samsung devices in the US and Canada can now lock, unlock, and start select GM vehicles using a digital key stored in their Samsung Wallet. Support will start on select 2026 and 2027 Cadillac EVs, including the 2025-2027 Lyriq, 2026-2027 Optic, and 2027 Vistiq. GM says more models will be supported by [&#8230;]",
+      "published": "2026-10-07T07:25:33-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsung-digital-keys.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Jaguar’s Type 01 EV looks just like its divisive concept car",
+      "link": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
+      "summary": "The Type 01, Jaguar's most important and divisive car in years, has arrived. The production follow-up to the polarising Type 00 concept, Jaguar says the electric, four-door grand tourer is its most powerful road car ever. Even though the Type 00's design chief was reportedly fired earlier this year, most of its aesthetic has carried [&#8230;]",
+      "published": "2026-10-07T06:03:46-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/SILVER_FRONT_7-8_261007092507.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [&#8230;]",
+      "published": "2026-10-07T05:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
@@ -490,76 +554,12 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
+      "title": "Xbox has secured GTA 6 streaming rights",
       "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for the exclusive game [&#8230;]",
+      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for game streaming rights [&#8230;]",
       "published": "2026-10-06T18:12:27-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The best robot vacuum and mop deals during October Prime Day",
-      "link": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
-      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite models are [&#8230;]",
-      "published": "2026-10-06T18:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6007-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources [&#8230;]",
-      "published": "2026-10-06T17:39:53-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
-      "link": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
-      "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos online calling on Maniscalco to carry on Raw Comedy's legacy by highlighting newer comedians on his [&#8230;]",
-      "published": "2026-10-06T17:10:13-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2258553481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
-      "link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
-      "summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the Powerwall 2 and Powerwall [&#8230;]",
-      "published": "2026-10-06T16:37:54-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Powershare-Hero-Desktop-US-PR.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s power-hungry data centers crave nuclear energy",
-      "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue [&#8230;]",
-      "published": "2026-10-06T16:32:10-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
-      "link": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
-      "summary": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed), and its aluminum design is a millimeter thinner — [&#8230;]",
-      "published": "2026-10-06T16:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-      "link": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
-      "summary": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, but other retailers are often matching or beating Amazon’s prices, and we’ll continue [&#8230;]",
-      "published": "2026-10-06T15:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
-      "link": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
-      "summary": "Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they could be updates to the PlayStation Portal, which might mean we're getting the OLED screen rumored earlier this year. The two devices, which are [&#8230;]",
-      "published": "2026-10-06T15:12:26-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25184511/111323_PlayStation_Portal_ADiBenedetto_0013.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
