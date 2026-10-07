@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-06T22:31:45.540377",
+  "lastUpdated": "2026-10-07T05:15:01.997840",
   "articles": [
+    {
+      "title": "Microsoft defines its Azure instance lifecycle, without any info about timing",
+      "link": "https://www.theregister.com/off-prem/2026/10/07/microsoft-defines-its-azure-instance-lifecycle-without-any-info-about-timing/5301526",
+      "summary": "Redmond explains how VMs die, but not when you can expect that to happen",
+      "published": "Wed, 07 Oct 2026 04:22:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5291633&width=800"
+    },
+    {
+      "title": "Anthropic reconfigures its cool kids security program",
+      "link": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+      "summary": "Company's Project Glasswing and Cyber Verification Program metamorphose into triple tier threat hunting club",
+      "published": "Wed, 07 Oct 2026 01:29:27 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5225031&width=800"
+    },
+    {
+      "title": "Google teams with nuclear power giant to give reactors a tune-up",
+      "link": "https://www.theregister.com/systems/2026/10/07/google-teams-with-nuclear-power-giant-to-give-reactors-a-tune-up/5301498",
+      "summary": "Upgraded turbines, generators, and digital controls are expected to unlock an addition 890MW of capacity",
+      "published": "Wed, 07 Oct 2026 01:08:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=258297&width=800"
+    },
     {
       "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
@@ -8,6 +32,30 @@
       "published": "Tue, 06 Oct 2026 23:11:38 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5301479&width=800"
+    },
+    {
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+      "published": "Tue, 06 Oct 2026 22:55:39 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Amazon-fast-delivery.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+      "published": "Tue, 06 Oct 2026 22:53:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927"
+    },
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "published": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800"
     },
     {
       "title": "Permanent daylight saving time could be a public health time bomb",
@@ -274,30 +322,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/meta-muse-surveillance-privacy-friends-family.jpg?quality=85&w=2048"
     },
     {
-      "title": "Bluesky wants to give you your own domain on the open web",
-      "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
-      "summary": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
-      "published": "Tue, 06 Oct 2026 14:41:52 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024"
-    },
-    {
-      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
-      "link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-      "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
-      "published": "Tue, 06 Oct 2026 14:37:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg?resize=1200,800"
-    },
-    {
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
-    },
-    {
       "title": "Teenage AI Meat Proxy Stranded on “Widowmaker” Mountain After Following AI Instructions",
       "link": "https://futurism.com/artificial-intelligence/teenage-stranded-mountain-ai-instructions",
       "summary": "<p>\"Claude has never been in that specific area, has never been on that route, and has never been in the outdoors.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/teenage-stranded-mountain-ai-instructions\">Teenage AI Meat Proxy Stranded on &#8220;Widowmaker&#8221; Mountain After Following AI Instructions</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -386,14 +410,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/court-finds-copyrighted-material-training-data-fair-use.jpg?quality=85&w=2048"
     },
     {
-      "title": "KPMG tells staff facing the axe: Here's £100, now zip it",
-      "link": "https://www.theregister.com/channel/2026/10/06/kpmg-tells-staff-facing-the-axe-heres-100-now-zip-it/5301093",
-      "summary": "Staff in AI, Cyber, SAP and Testing told the consultation is over, with notices due Friday",
-      "published": "Tue, 06 Oct 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5301105&width=800"
-    },
-    {
       "title": "As the Planet Burns, Massive Climate Lawsuit Against Oil Companies Goes to the Supreme Court",
       "link": "https://futurism.com/science-energy/planet-burns-climate-lawsuit-oil-companies-supreme-court",
       "summary": "<p>This is one to watch.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/planet-burns-climate-lawsuit-oil-companies-supreme-court\">As the Planet Burns, Massive Climate Lawsuit Against Oil Companies Goes to the Supreme Court</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -402,28 +418,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/planet-burns-climate-lawsuit-oil-companies-supreme-court.jpg?quality=85&w=2048"
     },
     {
-      "title": "Only the finest Swedish Bork will do for Stockholm station",
-      "link": "https://www.theregister.com/offbeat/2026/10/06/only-the-finest-swedish-bork-will-do-for-stockholm-station/5301196",
-      "summary": "No, this is not GRUB of the meatball variety",
-      "published": "Tue, 06 Oct 2026 09:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5301200&width=800"
-    },
-    {
       "title": "Parents Are AI-Generating Pictures of Their Kids Instead of Paying for School Photos",
       "link": "https://futurism.com/artificial-intelligence/parents-ai-school-photos-chatgpt",
       "summary": "<p>\"ChatGPT for the win.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/parents-ai-school-photos-chatgpt\">Parents Are AI-Generating Pictures of Their Kids Instead of Paying for School Photos</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 06 Oct 2026 08:45:24 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/parents-ai-school-photos-chatgpt.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "OpenAI rolls out weak sauce watermarking for AI text",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257",
-      "summary": "Compliance, we've heard of it",
-      "published": "Tue, 06 Oct 2026 08:02:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260353&width=800"
     },
     {
       "title": "Anthropic Reports User to the Police",
@@ -482,9 +482,17 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/sam-altman-world-suffer-glories-ai.jpg?quality=85&w=2048"
     },
     {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+      "published": "2026-10-06T19:26:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Xbox has secured exclusive GTA 6 streaming rights",
       "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Xbox has managed to land a deal for the exclusive game streaming rights for Grand Theft [&#8230;]",
+      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for the exclusive game [&#8230;]",
       "published": "2026-10-06T18:12:27-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -552,14 +560,6 @@
       "published": "2026-10-06T15:12:26-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25184511/111323_PlayStation_Portal_ADiBenedetto_0013.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Alexa can’t control the aux input on Amazon Echo speakers anymore",
-      "link": "https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands",
-      "summary": "If you've been using an older Amazon Echo device as a speaker through its 3.5mm aux input, Alexa voice commands to play or pause from line in may stop working. Ars Technica points to this Reddit poster claiming they received a message from Amazon about the change, which the company has confirmed. According to Amazon [&#8230;]",
-      "published": "2026-10-06T15:03:56-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21977839/dseifert_201020_4247_0003.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
