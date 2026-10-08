@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-10-07T22:55:27.789406",
+  "lastUpdated": "2026-10-08T05:25:03.671139",
   "articles": [
+    {
+      "title": "Microsoft is about to let Copilot loose on your file system",
+      "link": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763",
+      "summary": "But don't worry, it's totally safe because the agents and models will (probably) be running locally. Routers never break right?",
+      "published": "Wed, 07 Oct 2026 23:54:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301770&width=800"
+    },
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "published": "Wed, 07 Oct 2026 23:36:57 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857"
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "published": "Wed, 07 Oct 2026 22:59:16 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024"
+    },
+    {
+      "title": "OpenAI dots inspire open source imitators amid technical difficulties",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/07/openai-dots-inspire-open-source-imitators-amid-technical-difficulties/5301734",
+      "summary": "Persistent agents appeal to AI companies, but demand isn't obvious",
+      "published": "Wed, 07 Oct 2026 22:45:05 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301746&width=800"
+    },
+    {
+      "title": "Argonne scientists create chatty X-ray microscope that zooms in where you tell it to",
+      "link": "https://www.theregister.com/science/2026/10/07/argonne-scientists-create-chatty-x-ray-microscope-that-zooms-in-where-you-tell-it-to/5301737",
+      "summary": "Talking to an X-ray nanoprobe beamline is far better than talking to a toaster, we assume",
+      "published": "Wed, 07 Oct 2026 22:23:26 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301743&width=800"
+    },
+    {
+      "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
+      "link": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722",
+      "summary": "Poverty-spec model starts at $2,599 with 24 GB of RAM and 512GB of storage with 128 GB models topping $5,899",
+      "published": "Wed, 07 Oct 2026 21:57:45 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301731&width=800"
+    },
+    {
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "published": "Wed, 07 Oct 2026 21:56:42 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp"
+    },
+    {
+      "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
+      "link": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
+      "summary": "Trusted brand impersonation without the usual browser certificate warnings spells trouble",
+      "published": "Wed, 07 Oct 2026 21:38:06 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=255227&width=800"
+    },
     {
       "title": "Browser-in-browser attacks use fake Meta Muse Ad lure to steal credentials",
       "link": "https://www.theregister.com/research/2026/10/07/browser-in-browser-attacks-use-fake-meta-muse-ad-lure-to-steal-credentials/5301505",
@@ -234,22 +298,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
     },
     {
-      "title": "Google experiments with an AI-powered gaming platform",
-      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "published": "Wed, 07 Oct 2026 14:36:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142"
-    },
-    {
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "published": "Wed, 07 Oct 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800"
-    },
-    {
       "title": "Nine in 10 VMware customers eye the exit as licensing bills bite",
       "link": "https://www.theregister.com/virtualization/2026/10/07/nine-in-10-vmware-customers-eye-the-exit-as-licensing-bills-bite/5301591",
       "summary": "Rimini Street-sponsored survey finds 48% have no plans to move workloads to Broadcom's preferred subscription platform",
@@ -290,14 +338,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545-1152x648.jpg"
     },
     {
-      "title": "Dutch tax office ditches Microsoft 365 cloud for on-premises alternative",
-      "link": "https://www.theregister.com/on-prem/2026/10/07/dutch-tax-office-ditches-microsoft-365-cloud-for-on-premises-alternative/5301603",
-      "summary": "Email and calendars move in-house in 2027, with European open source tools to follow",
-      "published": "Wed, 07 Oct 2026 13:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5301623&width=800"
-    },
-    {
       "title": "Review: Fine, let's talk about Digger",
       "link": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
       "summary": "Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.",
@@ -312,14 +352,6 @@
       "published": "Wed, 07 Oct 2026 12:54:19 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/amazon-detailed-records-customers-insulting.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
-      "link": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
-      "summary": "Tens of thousands more victims and more ransomware groups getting in on the act",
-      "published": "Wed, 07 Oct 2026 12:52:09 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=256583&width=800"
     },
     {
       "title": "Man Says He Was Mortified When His AI Agent Posted His Bank Balances and Exactly What He’s Spending His Money on in a Slack Work Channel",
@@ -346,36 +378,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lisa-2arms-gws-red2-1152x648.webp"
     },
     {
-      "title": "Rails originator roasted over Rust boosterism",
-      "link": "https://www.theregister.com/devops/2026/10/07/rails-originator-roasted-over-rust-boosterism/5301494",
-      "summary": "David Heinemeier Hansson's agent-coded bakeoff produced curious results",
-      "published": "Wed, 07 Oct 2026 10:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5301517&width=800"
-    },
-    {
       "title": "Retired Air Force Colonel Warns Americans That It’s Dangerous to Live Near Data Centers Because You Could Be Targeted or Killed",
       "link": "https://futurism.com/artificial-intelligence/retired-air-force-colonel-dangerous-live-near-data-centers",
       "summary": "<p>\"This is not science fiction.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/retired-air-force-colonel-dangerous-live-near-data-centers\">Retired Air Force Colonel Warns Americans That It&#8217;s Dangerous to Live Near Data Centers Because You Could Be Targeted or Killed</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 07 Oct 2026 10:09:52 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/retired-air-force-colonel-dangerous-live-near-data-centers.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "COSMIC shuts the door on AI code as GNOME debates letting bug reports in",
-      "link": "https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141",
-      "summary": "System76 demands human-written contributions, while a rival desktop developer argues bot-found flaws are too valuable to ignore",
-      "published": "Wed, 07 Oct 2026 10:09:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=237408&width=800"
-    },
-    {
-      "title": "From reactive to proactive: How endpoint monitoring is fixing broken meeting rooms",
-      "link": "https://www.theregister.com/on-prem/2026/10/07/sponsored-from-reactive-to-proactive-how-endpoint-monitoring-is-fixing-broken-meeting-rooms/5287777",
-      "summary": "SPONSORED FEATURE: Cloud-based telemetry is turning meeting rooms into managed endpoints, letting IT teams anticipate failures rather than scramble once users complain",
-      "published": "Wed, 07 Oct 2026 10:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5287779&width=800"
     },
     {
       "title": "Rogue AI Agents Have Gone Too Far Now That They’ve Infiltrated Wikipedia",
@@ -386,14 +394,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/rogue-ai-agents-wikipedia_d4d880.jpg?quality=85&w=2048"
     },
     {
-      "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
-      "link": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
-      "summary": "'Complete security paradigm refresh' needed for the AI era",
-      "published": "Wed, 07 Oct 2026 05:56:25 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260291&width=800"
-    },
-    {
       "title": "OpenAI’s “ChatGPT for Teens” Is an “Unsafe” Mess, Testing Finds",
       "link": "https://futurism.com/artificial-intelligence/openai-chatgpt-for-teens-report",
       "summary": "<p>\"It is incumbent for OpenAI to earn the trust of parents and to show them, not just tell them, that this product is safe for teens to use.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-chatgpt-for-teens-report\">OpenAI&#8217;s &#8220;ChatGPT for Teens&#8221; Is an &#8220;Unsafe&#8221; Mess, Testing Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -402,36 +402,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-chatgpt-for-teens-report.jpg?quality=85&w=2048"
     },
     {
-      "title": "Microsoft defines its Azure instance lifecycle, without any info about timing",
-      "link": "https://www.theregister.com/off-prem/2026/10/07/microsoft-defines-its-azure-instance-lifecycle-without-any-info-about-timing/5301526",
-      "summary": "Redmond explains how VMs die, but not when you can expect that to happen",
-      "published": "Wed, 07 Oct 2026 04:22:09 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5291633&width=800"
-    },
-    {
       "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
       "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
       "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
       "published": "Tue, 06 Oct 2026 21:31:10 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Drone-strikes-on-grain-cargo-ships-near-Odesa-1152x648.jpg"
-    },
-    {
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-      "published": "Tue, 06 Oct 2026 20:50:32 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
-    },
-    {
-      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-      "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-      "summary": "A combined service could lead to higher prices.",
-      "published": "Tue, 06 Oct 2026 20:32:12 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298278370-1024x648.jpg"
     },
     {
       "title": "Footage of AI Job Interviewer Going Berserk Is Genuinely Terrifying",
@@ -480,6 +456,30 @@
       "published": "Tue, 06 Oct 2026 10:58:51 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/court-finds-copyrighted-material-training-data-fair-use.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831",
+      "summary": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference",
+      "published": "Thu, 08 Oct 2026 04:29:55 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=241830&width=800"
+    },
+    {
+      "title": "Singapore’s central bank wants all FinTech AI use cases subject to independent review",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+      "summary": "Failures of third-party services no excuse for island nation’s financial sector",
+      "published": "Thu, 08 Oct 2026 02:53:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301805&width=800"
+    },
+    {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "published": "Thu, 08 Oct 2026 00:00:24 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png"
     },
     {
       "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
