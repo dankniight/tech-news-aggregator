@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T05:28:24.336947",
+  "lastUpdated": "2026-10-09T12:53:46.784289",
   "articles": [
     {
       "title": "Finland Orders Google to Suspend New Data Centers After Contractors Pave Over Protected Forests",
@@ -10,9 +10,9 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/finland-google-data-centers-forests-environment.jpg?quality=85&w=2048"
     },
     {
-      "title": "Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven",
+      "title": "Meta Took More Than 48 Hours to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven",
       "link": "https://futurism.com/artificial-intelligence/meta-ai-generated-videos-graphic-child-abuse",
-      "summary": "<p>Meta is making it clear: it doesn't care about AI-generated child abuse videos on its platforms.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-ai-generated-videos-graphic-child-abuse\">Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>Meta is making it clear: it doesn't care about AI-generated child abuse videos on its platforms.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-ai-generated-videos-graphic-child-abuse\">Meta Took More Than 48 Hours to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 07 Oct 2026 15:01:05 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/meta-ai-generated-videos-graphic-child-abuse_fde5c7.jpg?quality=85&w=2048"
@@ -42,12 +42,20 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/ai-agent-posted-bank-balances-spending-slack.jpg?quality=85&w=2048"
     },
     {
-      "title": "New AI Can Figure Out What You’re Thinking About From a Brain Scan",
-      "link": "https://futurism.com/health-medicine/new-ai-thinking-about-brain-scan",
-      "summary": "<p>Close your eyes, and let the AI ransack the inner sanctum of your gray matter.</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/new-ai-thinking-about-brain-scan\">New AI Can Figure Out What You&#8217;re Thinking About From a Brain Scan</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 07 Oct 2026 11:13:10 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/new-ai-thinking-about-brain-scan.jpg?quality=85&w=2048"
+      "title": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide",
+      "link": "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107",
+      "summary": "Infecting devices from 2021 until the FBI stepped in",
+      "published": "Thu, 08 Oct 2026 23:59:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5288224&width=800"
+    },
+    {
+      "title": "Nvidia found $1B under the couch to help secure American scientific computing dominance",
+      "link": "https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110",
+      "summary": "Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers",
+      "published": "Thu, 08 Oct 2026 23:44:03 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259022&width=800"
     },
     {
       "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
@@ -56,6 +64,22 @@
       "published": "Thu, 08 Oct 2026 22:33:59 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024"
+    },
+    {
+      "title": "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086",
+      "summary": "The Chocolate Factory proposes a single universal agent for work",
+      "published": "Thu, 08 Oct 2026 22:16:27 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=248218&width=800"
+    },
+    {
+      "title": "NASA taps DoE to help it build nuclear space reactors",
+      "link": "https://www.theregister.com/offbeat/2026/10/08/nasa-taps-doe-to-help-it-build-nuclear-space-reactors/5302096",
+      "summary": "Space agency claims steady progress on lunar reactor plans, but offers little evidence to back it up",
+      "published": "Thu, 08 Oct 2026 22:15:01 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5302102&width=800"
     },
     {
       "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
@@ -258,14 +282,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000-1152x648.png"
     },
     {
-      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-      "link": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
-      "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
-      "published": "Thu, 08 Oct 2026 15:12:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800"
-    },
-    {
       "title": "Patriots Quarterback Drake Maye Is a Moon Landing Truther, Prompting Response From NASA",
       "link": "https://futurism.com/future-society/patriots-quarterback-drake-maye-moon-landing-truther",
       "summary": "<p>\"I just know I’m a little bit skeptical.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/patriots-quarterback-drake-maye-moon-landing-truther\">Patriots Quarterback Drake Maye Is a Moon Landing Truther, Prompting Response From NASA</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -314,14 +330,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg"
     },
     {
-      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-      "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-      "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
-      "published": "Thu, 08 Oct 2026 11:00:14 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/blanche-kalshi-sports-1152x648-1791305860.jpg"
-    },
-    {
       "title": "Taylor Swift Applies for Top Level Domains That End in .Taylorswift",
       "link": "https://futurism.com/artificial-intelligence/taylor-swift-applies-top-level-domain-sites-dot-taylor-swift",
       "summary": "<p>The fight against copycats keeps escalating.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/taylor-swift-applies-top-level-domain-sites-dot-taylor-swift\">Taylor Swift Applies for Top Level Domains That End in .Taylorswift</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -354,12 +362,140 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-teens-chatgpt-suicide-hours.jpg?quality=85&w=2048"
     },
     {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "published": "Thu, 08 Oct 2026 00:00:24 +0000",
+      "title": "US Navy bets another $150M on fighter drone that skips the runway",
+      "link": "https://www.theregister.com/offbeat/2026/10/09/us-navy-bets-another-150m-on-fighter-drone-that-skips-the-runway/5302237",
+      "summary": "Shield AI matches the funding as autonomous X-BAT heads toward flight testing later this year",
+      "published": "Fri, 09 Oct 2026 14:44:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=144930&width=800"
+    },
+    {
+      "title": "Citrix gives NetScaler admins another critical reason to patch",
+      "link": "https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212",
+      "summary": "No word on exploitation status, but a 9.5 severity score suggests time is of the essence",
+      "published": "Fri, 09 Oct 2026 13:43:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5302230&width=800"
+    },
+    {
+      "title": "Anthropic asks users to stop being mean to Claude",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "summary": "New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference",
+      "published": "Fri, 09 Oct 2026 12:42:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5297782&width=800"
+    },
+    {
+      "title": "Xona’s commercial GPS alternative is about to go live",
+      "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+      "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Copy-of-0I7A3288.jpg?resize=1200,800"
+    },
+    {
+      "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041",
+      "summary": "Vegalabs says $21,168 in unused Azure credits expired as separate Marketplace charges piled up",
+      "published": "Fri, 09 Oct 2026 11:46:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=228755&width=800"
+    },
+    {
+      "title": "BOFH: Smells like team spirit",
+      "link": "https://www.theregister.com/bofh/2026/10/09/bofh-smells-like-team-spirit/5301871",
+      "summary": "In which BOFH and PFY meet 1990s heroes who know how to deal with Bosses",
+      "published": "Fri, 09 Oct 2026 11:04:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301957&width=800"
+    },
+    {
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+      "published": "Fri, 09 Oct 2026 11:00:57 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1152x648-1776275319.jpg"
+    },
+    {
+      "title": "Volkswagen's replacement for the ID.4 crossover is here",
+      "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+      "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+      "published": "Fri, 09 Oct 2026 10:00:59 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DB2026AU00895-1152x648.jpg"
+    },
+    {
+      "title": "Whose roadmap is your software estate running on?",
+      "link": "https://www.theregister.com/software/2026/10/09/sponsored-whose-roadmap-is-your-software-estate-running-on/5301111",
+      "summary": "SPONSORED POST: Vendor roadmaps set the pace of change in most enterprise software estates. Origina argues the business should.",
+      "published": "Fri, 09 Oct 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5301113&width=800"
+    },
+    {
+      "title": "Rejecting a promotion sent field service tech into support hell",
+      "link": "https://www.theregister.com/systems/2026/10/09/rejecting-a-promotion-sent-field-service-tech-into-support-hell/5301300",
+      "summary": "Chap who took the job left a trail of wreckage – and invaluable case studies – in his incompetent wake",
+      "published": "Fri, 09 Oct 2026 09:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227602&width=800"
+    },
+    {
+      "title": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure",
+      "link": "https://futurism.com/future-society/ai-financial-bubble-openai-billions-failure",
+      "summary": "<p>A $20 billion setback.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-financial-bubble-openai-billions-failure\">AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 09 Oct 2026 08:14:04 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/ai-financial-bubble-openai-billions-failure.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes",
+      "link": "https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148",
+      "summary": "Octocats claim 35x write improvement",
+      "published": "Fri, 09 Oct 2026 08:03:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1682042&width=800"
+    },
+    {
+      "title": "India’s tech giants shrug off changes to USA’s skilled visa program",
+      "link": "https://www.theregister.com/legal/2026/10/09/indias-tech-giants-shrug-off-changes-to-usas-skilled-visa-program/5302154",
+      "summary": "As Microsoft denies alleged ‘fraud and abuse’ that sparked the tweaks",
+      "published": "Fri, 09 Oct 2026 05:17:29 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=255530&width=800"
+    },
+    {
+      "title": "Ukrainian drone attack takes out Russian datacenter",
+      "link": "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137",
+      "summary": "Putin this cloud region back into operation might not be possible, says Yandex",
+      "published": "Fri, 09 Oct 2026 02:08:52 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261294&width=800"
+    },
+    {
+      "title": "AI company moves to defend critical infrastructure and open-source projects from AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128",
+      "summary": "Anthropic says for the next two years, attackers will have the advantage",
+      "published": "Fri, 09 Oct 2026 01:57:40 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5302132&width=800"
+    },
+    {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was [&#8230;]",
+      "published": "2026-10-09T05:48:26-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with [&#8230;]",
+      "published": "2026-10-09T03:14:32-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "US plans livestream of execution by firing squad",
@@ -424,22 +560,6 @@
       "published": "2026-10-08T15:30:21-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowssearch.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Paramount is making a Cyberpunk 2077 film",
-      "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
-      "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is known for producing the Transformers films, [&#8230;]",
-      "published": "2026-10-08T15:14:03-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business",
-      "link": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
-      "summary": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an interview with The Independent, Cook says [&#8230;]",
-      "published": "2026-10-08T14:48:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
