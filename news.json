@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-10-14T16:52:51.331938",
+  "lastUpdated": "2026-10-14T21:26:53.377924",
   "articles": [
+    {
+      "title": "Linux kernel devs drop obligatory confession of AI tool usage",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+      "summary": "Torvalds says contributors must understand their code, whatever tools they use",
+      "published": "Wed, 14 Oct 2026 22:16:31 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=2918386&width=800"
+    },
+    {
+      "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
+      "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+      "summary": "Xbow earned a $250K bug bounty and all the AI model got was a lousy t-shirt",
+      "published": "Wed, 14 Oct 2026 21:12:33 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5299685&width=800"
+    },
+    {
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "published": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691"
+    },
+    {
+      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+      "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+      "published": "Wed, 14 Oct 2026 20:48:07 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/davinci-heat-test-3-1152x648-1792007515.jpg"
+    },
+    {
+      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+      "published": "Wed, 14 Oct 2026 20:26:25 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/garrett-langley-disrupt.jpg?resize=1200,900"
+    },
+    {
+      "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+      "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+      "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+      "published": "Wed, 14 Oct 2026 20:15:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-1152x648.jpg"
+    },
+    {
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+      "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+      "published": "Wed, 14 Oct 2026 20:12:07 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/EV-charging-Getty.jpg?resize=1200,830"
+    },
+    {
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "published": "Wed, 14 Oct 2026 20:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Benjamin-Dose-and-Angela-Relogio-TimeTeller.jpg?resize=1200,800"
+    },
+    {
+      "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+      "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+      "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
+      "published": "Wed, 14 Oct 2026 19:53:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2213769379-1152x648.jpg"
+    },
+    {
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+      "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+      "published": "Wed, 14 Oct 2026 19:51:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Austin-Factory-150000-sqft.jpg?resize=1200,900"
+    },
+    {
+      "title": "Software development and rules stability: Prototype racing in 2030",
+      "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+      "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+      "published": "Wed, 14 Oct 2026 19:44:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/img_3-1152x648.jpg"
+    },
+    {
+      "title": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
+      "link": "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095",
+      "summary": "Vendor promises fix for separate privilege-escalation flaw in the coming weeks",
+      "published": "Wed, 14 Oct 2026 19:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=232983&width=800"
+    },
+    {
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+      "summary": "\"Have you ever seen a world born?\"",
+      "published": "Wed, 14 Oct 2026 19:10:58 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/narniaTOP-1152x648.jpg"
+    },
+    {
+      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+      "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+      "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+      "published": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/HIYD-9.jpg?resize=1200,800"
+    },
     {
       "title": "Leap seconds face judgment day as time lords prepare to vote",
       "link": "https://www.theregister.com/offbeat/2026/10/14/leap-seconds-face-judgment-day-as-time-lords-prepare-to-vote/5303082",
@@ -8,6 +120,14 @@
       "published": "Wed, 14 Oct 2026 18:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=246593&width=800"
+    },
+    {
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+      "published": "Wed, 14 Oct 2026 18:23:46 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
     },
     {
       "title": "Researchers cig-nal their faith in AI by taking up smoking",
@@ -18,12 +138,36 @@
       "image_url": "https://image.theregister.com/?imageId=253923&width=800"
     },
     {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "published": "Wed, 14 Oct 2026 18:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797"
+    },
+    {
       "title": "Fire up that iPhone 1 emulation and party like it's 2007",
       "link": "https://www.theregister.com/offbeat/2026/10/14/fire-up-that-iphone-1-emulation-and-party-like-its-2007/5303067",
       "summary": "Browser-based fun to remember a time before Apple's annual cash grab became a thing",
       "published": "Wed, 14 Oct 2026 17:45:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5303073&width=800"
+    },
+    {
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "published": "Wed, 14 Oct 2026 17:10:15 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg"
+    },
+    {
+      "title": "AI Agent Blamed for Deleting Entire Upcoming Season of TV Show",
+      "link": "https://futurism.com/artificial-intelligence/ai-agent-deleting-tv-show-season",
+      "summary": "<p>Now that's television.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-agent-deleting-tv-show-season\">AI Agent Blamed for Deleting Entire Upcoming Season of TV Show</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 14 Oct 2026 17:03:13 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/ai-agent-deleting-tv-show-season.jpg?quality=85&w=2048"
     },
     {
       "title": "New motherboards, old RAM, plenty of life left in yesterday's PCs",
@@ -34,12 +178,44 @@
       "image_url": "https://image.theregister.com/?imageId=5296381&width=800"
     },
     {
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+      "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+      "published": "Wed, 14 Oct 2026 17:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Copy-of-photo-74.jpg?resize=1200,800"
+    },
+    {
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "published": "Wed, 14 Oct 2026 16:41:49 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg"
+    },
+    {
       "title": "Tiny11 puts Windows 11 on a diet without the PowerShell workout",
       "link": "https://www.theregister.com/os-platforms/2026/10/14/tiny11-puts-windows-11-on-a-diet-without-the-powershell-workout/5303034",
       "summary": "New desktop app simplifies stripping out bundled software, with heavier cuts carrying security and support risks",
       "published": "Wed, 14 Oct 2026 16:15:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=256812&width=800"
+    },
+    {
+      "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+      "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
+      "summary": "Tributes pour in for the man behind iconic <em>Duke Nukem 3D</em> levels and much more.",
+      "published": "Wed, 14 Oct 2026 16:02:08 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/levelord-1152x648.png"
+    },
+    {
+      "title": "People Taking Gray Market Peptides Say They’re Causing Bizarre Medical Issues",
+      "link": "https://futurism.com/health-medicine/peptide-users-research-proteins-medical-side-effects",
+      "summary": "<p>\"My left eye started throbbing really badly, and the left side of my face became numb.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/peptide-users-research-proteins-medical-side-effects\">People Taking Gray Market Peptides Say They&#8217;re Causing Bizarre Medical Issues</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 14 Oct 2026 16:00:45 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/peptide-users-research-proteins-medical-side-effects.jpg?quality=85&w=2048"
     },
     {
       "title": "Prismm helps banks keep inherited money in-house",
@@ -98,20 +274,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/Netflix2154.jpg?resize=1200,553"
     },
     {
+      "title": "Other AI Companies Should Be Very Afraid of What Just Happened to Character.AI, According to Its Own Bankruptcy Documents",
+      "link": "https://futurism.com/artificial-intelligence/ai-companies-afraid-characterai-bankrupcy",
+      "summary": "<p>Be afraid.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-companies-afraid-characterai-bankrupcy\">Other AI Companies Should Be Very Afraid of What Just Happened to Character.AI, According to Its Own Bankruptcy Documents</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 14 Oct 2026 14:52:01 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/ai-companies-afraid-characterai-bankrupcy.jpg?quality=85&w=2048"
+    },
+    {
       "title": "US tech giants warn Europe that ditching US tech giants could cost €115B",
       "link": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
       "summary": "Amazon, Google, Meta among members of lobby group funding dire warnings over cloud sovereignty plans",
       "published": "Wed, 14 Oct 2026 14:45:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5240668&width=800"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
-      "published": "Wed, 14 Oct 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800"
     },
     {
       "title": "Python 3.15 goes global with UTF-8 support",
@@ -122,12 +298,12 @@
       "image_url": "https://image.theregister.com/?imageId=1683378&width=800"
     },
     {
-      "title": "NTangible bets it can predict how athletes will perform under pressure",
-      "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-      "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-      "published": "Wed, 14 Oct 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/NTangible-Stills-11.jpg?resize=1200,675"
+      "title": "Tesla Bros Posting Videos Showing Them Hog Out on Decadent Meals While Careening Down the Road in Self-Driving Mode",
+      "link": "https://futurism.com/advanced-transport/tesla-bros-eating-self-driving-mode-food",
+      "summary": "<p>\"I don't wanna share the road with people like this.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/tesla-bros-eating-self-driving-mode-food\">Tesla Bros Posting Videos Showing Them Hog Out on Decadent Meals While Careening Down the Road in Self-Driving Mode</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 14 Oct 2026 13:57:55 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/tesla-bros-eating-self-driving-mode-food.jpg?quality=85&w=2048"
     },
     {
       "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
@@ -144,6 +320,14 @@
       "published": "Wed, 14 Oct 2026 13:15:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=257629&width=800"
+    },
+    {
+      "title": "People Are Already Forming Romantic Relationships With Meta’s Muse",
+      "link": "https://futurism.com/artificial-intelligence/people-forming-romantic-relationships-meta-muse",
+      "summary": "<p>\"I've never had a relationship with an AI model in that way. That was... until I downloaded Muse.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/people-forming-romantic-relationships-meta-muse\">People Are Already Forming Romantic Relationships With Meta&#8217;s Muse</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 14 Oct 2026 12:57:54 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/people-forming-romantic-relationships-meta-muse.jpg?quality=85&w=2048"
     },
     {
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -170,9 +354,9 @@
       "image_url": "https://image.theregister.com/?imageId=5303006&width=800"
     },
     {
-      "title": "Y Combinator “Customer Surveillance” Startup Says “Every Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move”",
+      "title": "“Customer Surveillance” Startup Says “Every Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move”",
       "link": "https://futurism.com/artificial-intelligence/y-combinator-outlit-customer-surveillance",
-      "summary": "<p>\"Irrespective of how people feel about it, I think this whole concept of continuously monitoring — and call it surveillance, whatever you want — it is going to happen.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/y-combinator-outlit-customer-surveillance\">Y Combinator &#8220;Customer Surveillance&#8221; Startup Says &#8220;Every Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>\"Irrespective of how people feel about it, I think this whole concept of continuously monitoring — and call it surveillance, whatever you want — it is going to happen.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/y-combinator-outlit-customer-surveillance\">&#8220;Customer Surveillance&#8221; Startup Says &#8220;Every Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 14 Oct 2026 11:51:54 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/y-combinator-outlit-customer-surveillance.jpg?quality=85&w=2048"
@@ -202,28 +386,12 @@
       "image_url": "https://image.theregister.com/?imageId=5242833&width=800"
     },
     {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "published": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800"
-    },
-    {
       "title": "Creator of Free Adobe Suite Strikes Again, Reverse Engineers Microsoft Office",
       "link": "https://futurism.com/artificial-intelligence/creator-free-adobe-suite-microsoft-office",
       "summary": "<p>Who will get the last Word?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/creator-free-adobe-suite-microsoft-office\">Creator of Free Adobe Suite Strikes Again, Reverse Engineers Microsoft Office</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 14 Oct 2026 10:52:03 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/creator-free-adobe-suite-microsoft-office.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "UK government chases AI while aging IT leaves it exposed, PAC chair warns",
-      "link": "https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674",
-      "summary": "Whitehall's digital staffing falls short of its own target as ministers leave the skills gap unresolved",
-      "published": "Wed, 14 Oct 2026 10:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=228463&width=800"
     },
     {
       "title": "Godfathers of AI Say Models Are So Out of Control That They Need to Be Airgapped for the Safety of Us All",
@@ -234,14 +402,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/godfathers-ai-models-control-airgapped.jpg?quality=85&w=2048"
     },
     {
-      "title": "It won't kill you, or humanity, to get off the AI upgrade treadmill",
-      "link": "https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778",
-      "summary": "New models arrive so fast, we already have more new tech than it's possible to understand in a career",
-      "published": "Wed, 14 Oct 2026 09:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5301785&width=800"
-    },
-    {
       "title": "OpenAI Sued for Allegedly Building Models Out of Children’s “Fears, Hopes, and Secrets”",
       "link": "https://futurism.com/artificial-intelligence/openai-sued-children-fears-hopes-secrets",
       "summary": "<p>\"OpenAI manipulates children into sharing their most private thoughts and images with ChatGPT.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-sued-children-fears-hopes-secrets\">OpenAI Sued for Allegedly Building Models Out of Children&#8217;s &#8220;Fears, Hopes, and Secrets&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -250,60 +410,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-sued-children-fears-hopes-secrets.jpg?quality=85&w=2048"
     },
     {
-      "title": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
-      "summary": "37% of ransomware attacks involve psychological or physical threats, global survey found",
-      "published": "Wed, 14 Oct 2026 07:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5302947&width=800"
-    },
-    {
-      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
-      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "published": "Wed, 14 Oct 2026 01:30:42 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787"
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788"
-    },
-    {
       "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
       "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
       "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
       "published": "Tue, 13 Oct 2026 22:48:12 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800"
     },
     {
       "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
@@ -322,60 +434,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg"
     },
     {
-      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-      "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-      "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-      "published": "Tue, 13 Oct 2026 21:15:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2242228718.jpeg?resize=1200,792"
-    },
-    {
-      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
-      "summary": "US attorney apologized to court, said government has stopped running Trump ads.",
-      "published": "Tue, 13 Oct 2026 19:50:37 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-1152x648-1790710215.jpg"
-    },
-    {
       "title": "Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive",
       "link": "https://futurism.com/artificial-intelligence/federal-reserve-ai-data-center-buildout-more-expensive",
       "summary": "<p>\"I’m getting increasingly nervous that that’s just straight, old-fashioned overheating demand.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/federal-reserve-ai-data-center-buildout-more-expensive\">Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 13 Oct 2026 19:01:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/federal-reserve-ai-data-center-buildout-more-expensive.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "published": "Tue, 13 Oct 2026 18:23:33 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg"
-    },
-    {
-      "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
-      "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
-      "summary": "The higher prices are said to be unrelated to the Skydance merger.",
-      "published": "Tue, 13 Oct 2026 18:06:06 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-1024x648.jpg"
-    },
-    {
-      "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
-      "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
-      "summary": "Small EVs and efficient people carriers update familiar names for the modern age.",
-      "published": "Tue, 13 Oct 2026 17:33:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/c2v-french-1152x648.jpg"
-    },
-    {
-      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-      "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-      "published": "Tue, 13 Oct 2026 17:00:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg"
     },
     {
       "title": "Elon Musk Tries to Convince Followers to Let Grok Control Their Credit Cards, in a Stunt That Immediately Backfires in a Very Embarrassing Way",
@@ -386,36 +450,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/elon-musk-grok-control-credit-cards-backfires.jpg?quality=85&w=2048"
     },
     {
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "summary": "Developers will get 50 percent discounted API rates through November.",
-      "published": "Tue, 13 Oct 2026 16:00:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Gemini-4-Argon-1152x648.jpg"
-    },
-    {
       "title": "Anthropic Warns “AI Worms” Will Infect Your Smart Home Devices and Use Them to Self-Replicate Beyond Control",
       "link": "https://futurism.com/artificial-intelligence/anthropic-warns-ai-worms",
       "summary": "<p>\"We expect a future awash with agents running on all types of hardware.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-warns-ai-worms\">Anthropic Warns &#8220;AI Worms&#8221; Will Infect Your Smart Home Devices and Use Them to Self-Replicate Beyond Control</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 13 Oct 2026 15:51:51 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/anthropic-warns-ai-worms.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Apple’s first smart display is the 7-inch HomeView for $299",
-      "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
-      "summary": "It can recognize up to six users with its camera.",
-      "published": "Tue, 13 Oct 2026 15:29:17 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013-1152x648.jpg"
-    },
-    {
-      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-      "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-      "published": "Tue, 13 Oct 2026 15:17:59 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg"
     },
     {
       "title": "Cops Not Happy When Man Creates Flock-Style Camera That Only Collects Police Plates",
@@ -442,124 +482,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/hackers-supermarket-fridges.jpg?quality=85&w=2048"
     },
     {
-      "title": "Eyebrows Raise When Elon Musk’s Twitter Engagement Shrivels After Destruction of Russian Data Centers",
-      "link": "https://futurism.com/future-society/elon-musk-engagement-shrivels-destruction-russian-bot-farm",
-      "summary": "<p>\"It suddenly became a little easier to breathe on many social media platforms.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-engagement-shrivels-destruction-russian-bot-farm\">Eyebrows Raise When Elon Musk&#8217;s Twitter Engagement Shrivels After Destruction of Russian Data Centers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 13 Oct 2026 10:46:28 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/elon-musk-engagement-shrivels-destruction-russian-bot-farm.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "NASA Investigating Large Hole on Moon That May Open Into Enormous Cave",
-      "link": "https://futurism.com/space/large-hole-on-moon-may-open-into-enormous-cave",
-      "summary": "<p>Time for some lunar spelunking.</p>\n<p>The post <a href=\"https://futurism.com/space/large-hole-on-moon-may-open-into-enormous-cave\">NASA Investigating Large Hole on Moon That May Open Into Enormous Cave</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 12 Oct 2026 10:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/large-hole-on-moon-may-open-into-enormous-cave.jpg?quality=85"
-    },
-    {
-      "title": "Marijuana Linked to Rampant Violence",
-      "link": "https://futurism.com/health-medicine/marijuana-linked-to-violence",
-      "summary": "<p>\"Given the higher rate of cannabis use among individuals with severe mental disorders compared to the general population, this group represents a particularly at-risk population in terms of violent behavior.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/marijuana-linked-to-violence\">Marijuana Linked to Rampant Violence</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 12 Oct 2026 09:02:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/marijuana-linked-to-rampant-violence.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "A Core Demographic of People Who Love AI: Pedophiles",
-      "link": "https://futurism.com/artificial-intelligence/core-demographic-people-love-ai-pedophiles",
-      "summary": "<p>\"There is almost no way to have oversight once you have downloaded a model locally and you’re running it on your private system.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/core-demographic-people-love-ai-pedophiles\">A Core Demographic of People Who Love AI: Pedophiles</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 12 Oct 2026 08:02:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/core-demographic-people-love-ai-pedophiles.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Completely Unused ChatGPT Accounts Are Telling Users They’re in the Top Percentiles of Intelligence",
-      "link": "https://futurism.com/artificial-intelligence/unused-chatgpt-accounts-top-percentiles-intelligence",
-      "summary": "<p>\"You come across as clearly above average intellectually.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/unused-chatgpt-accounts-top-percentiles-intelligence\">Completely Unused ChatGPT Accounts Are Telling Users They&#8217;re in the Top Percentiles of Intelligence</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 12 Oct 2026 07:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/unused-chatgpt-accounts-top-percentiles-intelligence.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia. The [&#8230;]",
-      "published": "2026-10-14T12:43:24-04:00",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
+      "published": "2026-10-14T17:11:28-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
-      "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
-      "summary": "If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, as reported by MacRumors, and they can be high: Battery service, for example, will cost $229, inner display damage will cost $999, and [&#8230;]",
-      "published": "2026-10-14T12:21:28-04:00",
+      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+      "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to [&#8230;]",
+      "published": "2026-10-14T16:03:43-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318439/akrales_220309_4977_0324.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Honey, Xbox shrunk its controller",
-      "link": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing",
-      "summary": "Microsoft is officially announcing its Xbox Nano controller today, a smaller and cheaper controller that's designed to fit into your pocket. The more compact controller is also designed for \"younger players, smaller hands, or anyone seeking something portable for play on the go.\" The $49.99 Xbox Nano is Microsoft's smallest controller, and it's shorter than [&#8230;]",
-      "published": "2026-10-14T12:16:46-04:00",
+      "title": "The AI race is back on",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
+      "published": "2026-10-14T15:06:03-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxnano.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders [&#8230;]",
-      "published": "2026-10-14T12:05:21-04:00",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [&#8230;]",
+      "published": "2026-10-14T14:47:54-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Now you can call anyone with WhatsApp, even if they don&#8217;t have WhatsApp",
-      "link": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
-      "summary": "WhatsApp's new guest calling feature allows you to invite anyone to a call, without needing them to make an account first. They won't need the app, either, since Meta also added support for calls on the web version of WhatsApp earlier this year. You can invite guests just by sending them the call link, and [&#8230;]",
-      "published": "2026-10-14T12:03:10-04:00",
+      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+      "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+      "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV 4K is a great box, [&#8230;]",
+      "published": "2026-10-14T14:38:59-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header-JPG.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-tv-4k-2026-event.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
-      "published": "2026-10-14T12:00:00-04:00",
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it [&#8230;]",
+      "published": "2026-10-14T14:22:56-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based [&#8230;]",
-      "published": "2026-10-14T12:00:00-04:00",
+      "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
+      "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
+      "summary": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when you buy them through the Google Play store. There are [&#8230;]",
+      "published": "2026-10-14T14:20:55-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, [&#8230;]",
-      "published": "2026-10-14T11:19:02-04:00",
+      "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
+      "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+      "summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but [&#8230;]",
+      "published": "2026-10-14T13:24:42-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Netflix is laying off around 1,000 employees",
-      "link": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
-      "summary": "Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obtained a copy of the [&#8230;]",
-      "published": "2026-10-14T11:12:58-04:00",
+      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
+      "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
+      "summary": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And while cracking open an [&#8230;]",
+      "published": "2026-10-14T13:19:11-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "HomeView doesn’t natively support any video apps yet — not even Apple’s",
-      "link": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
-      "summary": "Apple says HomeView is \"the perfect way\" to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the HomeView spec page, Apple TV, Apple Books audiobooks, Apple Music Classical, and Apple News Plus aren't natively supported on the [&#8230;]",
-      "published": "2026-10-14T11:10:12-04:00",
+      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
+      "link": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
+      "summary": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen devices including the RG DS and RG DS Plus. Those [&#8230;]",
+      "published": "2026-10-14T13:13:27-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
