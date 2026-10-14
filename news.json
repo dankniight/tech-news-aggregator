@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-10-13T22:27:35.075122",
+  "lastUpdated": "2026-10-14T04:17:21.298891",
   "articles": [
+    {
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "published": "Wed, 14 Oct 2026 01:30:42 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787"
+    },
+    {
+      "title": "Anthropic reinvents source control as Claude floods the world with code",
+      "link": "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943",
+      "summary": "When continuous integration gits you down, there's always an AI-tuned monorepo",
+      "published": "Wed, 14 Oct 2026 00:37:04 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5302950&width=800"
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788"
+    },
+    {
+      "title": "CISA director touts private partnerships after agency killed many",
+      "link": "https://www.theregister.com/public-sector/2026/10/13/cisa-director-touts-private-partnerships-after-agency-killed-many/5302920",
+      "summary": "Nick Andersen wants to work with private industry on security, but the Trump admin has taken an axe to such efforts.",
+      "published": "Tue, 13 Oct 2026 22:57:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=240641&width=800"
+    },
+    {
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+      "published": "Tue, 13 Oct 2026 22:48:12 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg"
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+      "summary": "Geordie's tests recorded 155 activity traces and multiple subagents after dot was given read-only permissions",
+      "published": "Tue, 13 Oct 2026 22:20:25 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5302917&width=800"
+    },
     {
       "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
       "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
@@ -80,6 +152,14 @@
       "published": "Tue, 13 Oct 2026 19:18:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=229902&width=800"
+    },
+    {
+      "title": "Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive",
+      "link": "https://futurism.com/artificial-intelligence/federal-reserve-ai-data-center-buildout-more-expensive",
+      "summary": "<p>\"I’m getting increasingly nervous that that’s just straight, old-fashioned overheating demand.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/federal-reserve-ai-data-center-buildout-more-expensive\">Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 13 Oct 2026 19:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/federal-reserve-ai-data-center-buildout-more-expensive.jpg?quality=85&w=2048"
     },
     {
       "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
@@ -162,44 +242,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/c2v-french-1152x648.jpg"
     },
     {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "published": "Tue, 13 Oct 2026 17:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
-    },
-    {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "published": "Tue, 13 Oct 2026 17:18:25 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815"
-    },
-    {
       "title": "Google wants to host your personal vibe-coded apps in the Play Store",
       "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
       "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
       "published": "Tue, 13 Oct 2026 17:00:39 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg"
-    },
-    {
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-      "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1370995239.jpeg?resize=1200,800"
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675"
     },
     {
       "title": "Microsoft celebrates end of Office 2021 LTSC with MS 365 outage",
@@ -216,14 +264,6 @@
       "published": "Tue, 13 Oct 2026 16:48:30 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/elon-musk-grok-control-credit-cards-backfires.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800"
     },
     {
       "title": "NetBSD may have found a new role: The AI-free FOSS OS",
@@ -346,36 +386,12 @@
       "image_url": "https://image.theregister.com/?imageId=5302758&width=800"
     },
     {
-      "title": "UK Cabinet Office takes £7.8M hit to kill off recruitment system",
-      "link": "https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635",
-      "summary": "Department told to ditch it to get back in line with Shared Services Strategy, plus faces £8.9M fine for IR35 shambles",
-      "published": "Tue, 13 Oct 2026 11:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=167196&width=800"
-    },
-    {
       "title": "Eyebrows Raise When Elon Musk’s Twitter Engagement Shrivels After Destruction of Russian Data Centers",
       "link": "https://futurism.com/future-society/elon-musk-engagement-shrivels-destruction-russian-bot-farm",
       "summary": "<p>\"It suddenly became a little easier to breathe on many social media platforms.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-engagement-shrivels-destruction-russian-bot-farm\">Eyebrows Raise When Elon Musk&#8217;s Twitter Engagement Shrivels After Destruction of Russian Data Centers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 13 Oct 2026 10:46:28 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/elon-musk-engagement-shrivels-destruction-russian-bot-farm.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Intel optimizes IPv6 networking into nothingness, say users",
-      "link": "https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622",
-      "summary": "Customers report connectivity strangeness in the Intel Connectivity Performance Suite",
-      "published": "Tue, 13 Oct 2026 10:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5244266&width=800"
-    },
-    {
-      "title": "Home Office asylum AI flunks one in five accuracy checks",
-      "link": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
-      "summary": "Ministers promised faster decisions, but campaigners say the technology is making mistakes while asylum processing times are getting worse",
-      "published": "Tue, 13 Oct 2026 09:31:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5251800&width=800"
     },
     {
       "title": "The AI Data Center Boom Is Causing a Gigantic Spike in Smog-Spewing Gas Power Plants",
@@ -410,14 +426,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/data-center-spending-ai-bubble-construction.jpg?quality=85&w=2048"
     },
     {
-      "title": "Crypto Gurus Concerned AI Is Poised to Crack Blockchain Math, Allowing Hackers to Steal Funds With Impunity",
-      "link": "https://futurism.com/future-society/crypto-gurus-concerned-ai-crack-wallets",
-      "summary": "<p>\"Calmly begin planning for 'bunker mode.'\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/crypto-gurus-concerned-ai-crack-wallets\">Crypto Gurus Concerned AI Is Poised to Crack Blockchain Math, Allowing Hackers to Steal Funds With Impunity</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 11 Oct 2026 09:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/crypto-gurus-concerned-ai-crack-wallets.jpg?quality=85&w=2048"
-    },
-    {
       "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
       "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
       "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
@@ -440,14 +448,6 @@
       "published": "Mon, 12 Oct 2026 20:26:14 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg"
-    },
-    {
-      "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-      "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
-      "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
-      "published": "Mon, 12 Oct 2026 18:46:43 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg"
     },
     {
       "title": "NASA Investigating Large Hole on Moon That May Open Into Enormous Cave",
