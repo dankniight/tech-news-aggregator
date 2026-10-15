@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-14T21:26:53.377924",
+  "lastUpdated": "2026-10-15T03:59:50.319419",
   "articles": [
+    {
+      "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
+      "link": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
+      "summary": "Both Switchzilla and CISA sound the alarm",
+      "published": "Wed, 14 Oct 2026 23:40:29 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094206&width=800"
+    },
+    {
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "published": "Wed, 14 Oct 2026 23:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864"
+    },
+    {
+      "title": "Chaos ensues when AI interviewer meets AI interviewee",
+      "link": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+      "summary": "Things got weird, but there's a lesson to be learned: Don't trust a bot to negotiate for you",
+      "published": "Wed, 14 Oct 2026 22:53:37 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5303153&width=800"
+    },
     {
       "title": "Linux kernel devs drop obligatory confession of AI tool usage",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
@@ -10,12 +34,60 @@
       "image_url": "https://image.theregister.com/?imageId=2918386&width=800"
     },
     {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "published": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933"
+    },
+    {
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "published": "Wed, 14 Oct 2026 21:48:20 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800"
+    },
+    {
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "published": "Wed, 14 Oct 2026 21:35:09 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
+    },
+    {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "published": "Wed, 14 Oct 2026 21:30:33 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800"
+    },
+    {
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "published": "Wed, 14 Oct 2026 21:15:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png"
+    },
+    {
       "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
       "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
       "summary": "Xbow earned a $250K bug bounty and all the AI model got was a lousy t-shirt",
       "published": "Wed, 14 Oct 2026 21:12:33 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5299685&width=800"
+    },
+    {
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "published": "Wed, 14 Oct 2026 21:03:11 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg"
     },
     {
       "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
@@ -138,14 +210,6 @@
       "image_url": "https://image.theregister.com/?imageId=253923&width=800"
     },
     {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "published": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797"
-    },
-    {
       "title": "Fire up that iPhone 1 emulation and party like it's 2007",
       "link": "https://www.theregister.com/offbeat/2026/10/14/fire-up-that-iphone-1-emulation-and-party-like-its-2007/5303067",
       "summary": "Browser-based fun to remember a time before Apple's annual cash grab became a thing",
@@ -176,14 +240,6 @@
       "published": "Wed, 14 Oct 2026 17:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5296381&width=800"
-    },
-    {
-      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-      "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
-      "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
-      "published": "Wed, 14 Oct 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Copy-of-photo-74.jpg?resize=1200,800"
     },
     {
       "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
@@ -218,60 +274,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/peptide-users-research-proteins-medical-side-effects.jpg?quality=85&w=2048"
     },
     {
-      "title": "Prismm helps banks keep inherited money in-house",
-      "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-      "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
-      "published": "Wed, 14 Oct 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633"
-    },
-    {
       "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
       "link": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
       "summary": "If you thought 1.6 Tbps was fast, just wait, Cisco's USFP targets 12.8 Tbps in a single optical pluggable",
       "published": "Wed, 14 Oct 2026 15:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5263102&width=800"
-    },
-    {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "published": "Wed, 14 Oct 2026 15:16:04 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067"
-    },
-    {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "published": "Wed, 14 Oct 2026 15:13:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800"
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "published": "Wed, 14 Oct 2026 15:08:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675"
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "published": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200"
-    },
-    {
-      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
-      "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
-      "summary": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
-      "published": "Wed, 14 Oct 2026 14:55:47 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/Netflix2154.jpg?resize=1200,553"
     },
     {
       "title": "Other AI Companies Should Be Very Afraid of What Just Happened to Character.AI, According to Its Own Bankruptcy Documents",
@@ -346,14 +354,6 @@
       "image_url": "https://image.theregister.com/?imageId=5299052&width=800"
     },
     {
-      "title": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
-      "link": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
-      "summary": "FBI alleges covert recorder was plugged into a TV, with a second device later discovered in the employee's bag",
-      "published": "Wed, 14 Oct 2026 11:55:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5303006&width=800"
-    },
-    {
       "title": "“Customer Surveillance” Startup Says “Every Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move”",
       "link": "https://futurism.com/artificial-intelligence/y-combinator-outlit-customer-surveillance",
       "summary": "<p>\"Irrespective of how people feel about it, I think this whole concept of continuously monitoring — and call it surveillance, whatever you want — it is going to happen.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/y-combinator-outlit-customer-surveillance\">&#8220;Customer Surveillance&#8221; Startup Says &#8220;Every Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -378,14 +378,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg"
     },
     {
-      "title": "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue",
-      "link": "https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856",
-      "summary": "Analyst predicts 80% of neoclouds will disappear as standalone businesses by 2030",
-      "published": "Wed, 14 Oct 2026 11:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242833&width=800"
-    },
-    {
       "title": "Creator of Free Adobe Suite Strikes Again, Reverse Engineers Microsoft Office",
       "link": "https://futurism.com/artificial-intelligence/creator-free-adobe-suite-microsoft-office",
       "summary": "<p>Who will get the last Word?</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/creator-free-adobe-suite-microsoft-office\">Creator of Free Adobe Suite Strikes Again, Reverse Engineers Microsoft Office</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -408,30 +400,6 @@
       "published": "Wed, 14 Oct 2026 09:04:16 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-sued-children-fears-hopes-secrets.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-      "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
-      "published": "Tue, 13 Oct 2026 22:48:12 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg"
-    },
-    {
-      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-      "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
-      "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
-      "published": "Tue, 13 Oct 2026 21:55:49 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg"
-    },
-    {
-      "title": "Topgolf saved over $11.3 million after leaving VMware",
-      "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
-      "published": "Tue, 13 Oct 2026 21:33:43 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg"
     },
     {
       "title": "Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive",
@@ -482,6 +450,54 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/hackers-supermarket-fridges.jpg?quality=85&w=2048"
     },
     {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
+    },
+    {
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+      "published": "Thu, 15 Oct 2026 00:49:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024"
+    },
+    {
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "published": "Thu, 15 Oct 2026 00:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798"
+    },
+    {
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
+      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843"
+    },
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [&#8230;]",
+      "published": "2026-10-14T18:53:31-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The best feature of Apple’s HomeView might be its simplicity",
+      "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at [&#8230;]",
+      "published": "2026-10-14T18:00:02-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6079.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
       "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
@@ -503,7 +519,7 @@
       "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
       "published": "2026-10-14T15:06:03-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
@@ -544,22 +560,6 @@
       "published": "2026-10-14T13:24:42-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
-      "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
-      "summary": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And while cracking open an [&#8230;]",
-      "published": "2026-10-14T13:19:11-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
-      "link": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
-      "summary": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen devices including the RG DS and RG DS Plus. Those [&#8230;]",
-      "published": "2026-10-14T13:13:27-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
