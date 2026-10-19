@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-18T20:22:18.297238",
+  "lastUpdated": "2026-10-19T04:01:44.262029",
   "articles": [
+    {
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "published": "Sun, 18 Oct 2026 21:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799"
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024"
+    },
     {
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
       "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
@@ -106,7 +122,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
     },
     {
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
       "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
       "published": "Sat, 17 Oct 2026 20:55:52 +0000",
@@ -258,6 +274,22 @@
       "image_url": "https://image.theregister.com/?imageId=5303708&width=800"
     },
     {
+      "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+      "link": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+      "summary": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+      "published": "Mon, 19 Oct 2026 02:33:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5265166&width=800"
+    },
+    {
+      "title": "Time Lords kill leap seconds, before they become the new Y2K bug",
+      "link": "https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711",
+      "summary": "Cite difficulty of updating IoT devices as major reason to stop adding time",
+      "published": "Mon, 19 Oct 2026 01:01:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1684142&width=800"
+    },
+    {
       "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
       "link": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621",
       "summary": "El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16",
@@ -394,44 +426,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675"
     },
     {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "published": "Fri, 16 Oct 2026 16:01:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
-    },
-    {
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800"
-    },
-    {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
       "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
       "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
       "published": "Fri, 16 Oct 2026 15:41:00 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg"
-    },
-    {
-      "title": "Attack on BAE-managed system disrupts US bankruptcy courts",
-      "link": "https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487",
-      "summary": "Legal eagles still plodding along with some operations, but paper and e-notices delayed until further notice",
-      "published": "Fri, 16 Oct 2026 15:29:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257239&width=800"
-    },
-    {
-      "title": "British watchdog seeks tougher terms around Microsoft's dominance of business software",
-      "link": "https://www.theregister.com/software/2026/10/16/british-watchdog-seeks-tougher-terms-around-microsofts-dominance-of-business-software/5303520",
-      "summary": "Another reason for Donald Trump to hate British regulation",
-      "published": "Fri, 16 Oct 2026 14:44:16 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5303558&width=800"
     },
     {
       "title": "Polymarket saw $600 million in election trades after the elections were over",
@@ -480,6 +480,14 @@
       "published": "Fri, 16 Oct 2026 10:00:54 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render-1152x648.png"
+    },
+    {
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he [&#8230;]",
+      "published": "2026-10-18T18:20:53-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
@@ -552,14 +560,6 @@
       "published": "2026-10-18T08:00:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "TikTok bans Musk documentary account",
-      "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent. Bleecker Street has [&#8230;]",
-      "published": "2026-10-17T15:32:23-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
