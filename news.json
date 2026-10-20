@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-19T22:09:39.402253",
+  "lastUpdated": "2026-10-20T04:15:11.648193",
   "articles": [
+    {
+      "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
+      "link": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
+      "summary": "Single sign-on to help address imminent threats to life, critical infrastructure, or kids",
+      "published": "Tue, 20 Oct 2026 02:11:27 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304041&width=800"
+    },
+    {
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "published": "Tue, 20 Oct 2026 02:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?resize=1200,800"
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "published": "Tue, 20 Oct 2026 01:27:03 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900"
+    },
+    {
+      "title": "DeepSeek deep-sixed at all US federal civilian agencies",
+      "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+      "summary": "Order disallowing use of Chinese AI service is unhelpfully vague and broad",
+      "published": "Tue, 20 Oct 2026 00:11:10 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304014&width=800"
+    },
     {
       "title": "Anthropic gives outside AI watchdog “employee-like” access",
       "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
@@ -66,17 +98,33 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/enterprise-ai-spending-generate-slop-cutting-back.jpg?quality=85&w=2048"
     },
     {
-      "title": "Science says your boss should talk less in meetings",
-      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-      "published": "Sat, 17 Oct 2026 11:15:11 +0000",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900"
+    },
+    {
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
+      "published": "Mon, 19 Oct 2026 22:44:26 +0000",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg"
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg"
     },
     {
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
       "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "published": "Mon, 19 Oct 2026 22:04:28 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
@@ -148,7 +196,7 @@
     {
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "published": "Mon, 19 Oct 2026 19:28:34 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612"
@@ -362,22 +410,6 @@
       "image_url": "https://image.theregister.com/?imageId=1682463&width=800"
     },
     {
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
-      "published": "Mon, 19 Oct 2026 12:56:14 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675"
-    },
-    {
-      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-      "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
-      "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
-      "published": "Mon, 19 Oct 2026 12:42:55 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198697259.jpg?resize=1200,800"
-    },
-    {
       "title": "Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It’s Poised to Kill More Than 50 People",
       "link": "https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk",
       "summary": "<p>\"These are sensible policies we believe Congress should act on.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk\">Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It&#8217;s Poised to Kill More Than 50 People</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -392,14 +424,6 @@
       "published": "Mon, 19 Oct 2026 12:33:34 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DIY-VR-header-1152x648.jpg"
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
     },
     {
       "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
@@ -450,22 +474,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/glp-1-apps-sobbing-ai-women.png?quality=85"
     },
     {
-      "title": "Museum exhibit reveals the intricate workings of a knackered Dell",
-      "link": "https://www.theregister.com/offbeat/2026/10/19/museum-exhibit-reveals-the-intricate-workings-of-a-knackered-dell/5303250",
-      "summary": "When it should have been weaving tales of the Jacquard loom",
-      "published": "Mon, 19 Oct 2026 10:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5303256&width=800"
-    },
-    {
-      "title": "Microsoft’s second-hand licensing appeal gets the brush-off",
-      "link": "https://www.theregister.com/legal/2026/10/19/microsofts-second-hand-licensing-appeal-gets-the-brush-off/5303718",
-      "summary": "Court of Appeal refuses Redmond permission to take ValueLicensing fight to the Supreme Court, with a 'Known Adverse Document' still to come",
-      "published": "Mon, 19 Oct 2026 09:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5303768&width=800"
-    },
-    {
       "title": "The Average Man Is Such a BSer About AI That He’ll Claim to Know About an AI Executive Who Doesn’t Even Exist",
       "link": "https://futurism.com/artificial-intelligence/average-man-bser-fake-ai-executive",
       "summary": "<p>Men caught hallucinating.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/average-man-bser-fake-ai-executive\">The Average Man Is Such a BSer About AI That He&#8217;ll Claim to Know About an AI Executive Who Doesn&#8217;t Even Exist</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -474,12 +482,20 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/average-man-bser-fake-ai-executive.jpg?quality=85&w=2048"
     },
     {
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-      "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-      "published": "Mon, 19 Oct 2026 07:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800"
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across [&#8230;]",
+      "published": "2026-10-20T00:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+      "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+      "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in America\" sometime next year. Musk had thanked Trump Account booster Brad Gerstner for \"helping enable this,\" and Trump appeared [&#8230;]",
+      "published": "2026-10-19T18:30:42-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_L.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The fossil fuel comeback is here",
@@ -544,22 +560,6 @@
       "published": "2026-10-19T10:30:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
-      "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
-      "summary": "Deutsche Telekom, Orange, Telef&#243;nica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure while a separate, unannounced satellite partner provides the satellite constellation: The joint initiative by Deutsche [&#8230;]",
-      "published": "2026-10-19T10:24:42-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-      "link": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-      "summary": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX and [&#8230;]",
-      "published": "2026-10-19T10:20:11-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
