@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-10-21T11:27:53.702532",
+  "lastUpdated": "2026-10-21T16:55:13.483058",
   "articles": [
+    {
+      "title": "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine",
+      "link": "https://www.theregister.com/os-platforms/2026/10/21/openbsd-80-beefs-up-virtual-machines-and-gets-a-taste-of-wine/5304430",
+      "summary": "Proposed port brings 64-bit Windows apps within reach",
+      "published": "Wed, 21 Oct 2026 15:45:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=246374&width=800"
+    },
+    {
+      "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+      "link": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+      "summary": "Websites down as precaution as exploits have already been published",
+      "published": "Wed, 21 Oct 2026 15:08:51 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=263315&width=800"
+    },
+    {
+      "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+      "summary": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
+      "published": "Wed, 21 Oct 2026 15:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304476&width=800"
+    },
+    {
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "published": "Wed, 21 Oct 2026 14:03:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797"
+    },
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "published": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900"
+    },
+    {
+      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+      "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "published": "Wed, 21 Oct 2026 13:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1418464846.jpg?resize=1200,774"
+    },
+    {
+      "title": "OneDrive gives Macs a million things to keep in sync",
+      "link": "https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442",
+      "summary": "October preview raises supported limit from 300,000 items, with general availability penciled in for June 2027",
+      "published": "Wed, 21 Oct 2026 13:27:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260377&width=800"
+    },
+    {
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "published": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800"
+    },
+    {
+      "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+      "summary": "Maintainers reckon a quarter of incoming pull requests are slop, rising to 31% on larger projects",
+      "published": "Wed, 21 Oct 2026 12:43:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094141&width=800"
+    },
+    {
+      "title": "11-Foot Chunk of Chinese Rocket Crashes Down in Minnesota Cornfield",
+      "link": "https://futurism.com/space/chinese-rocket-chunk-minnesota-corn-field",
+      "summary": "<p>Now that's something for a corn maze!</p>\n<p>The post <a href=\"https://futurism.com/space/chinese-rocket-chunk-minnesota-corn-field\">11-Foot Chunk of Chinese Rocket Crashes Down in Minnesota Cornfield</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Oct 2026 12:03:03 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/chinese-rocket-chunk-minnesota-corn-field.jpg?quality=85"
+    },
+    {
+      "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
+      "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+      "summary": "Consider this the wake-up call",
+      "published": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259070&width=800"
+    },
+    {
+      "title": "Nvidia <span class=\"t42\">picks OpenShell to </span>tame AI gents",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+      "summary": "Give your agents freedom to do useful work by locking them down",
+      "published": "Wed, 21 Oct 2026 11:30:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=249195&width=800"
+    },
+    {
+      "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
+      "link": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
+      "summary": "GPUzilla boasts modular bit barns could speed up deployments from six months to just two weeks",
+      "published": "Wed, 21 Oct 2026 11:30:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=240698&width=800"
+    },
+    {
+      "title": "EU wants Booking.com to check out of its scam problem",
+      "link": "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413",
+      "summary": "Commission opens DSA probe into fake listings and phishing on the platform, says its fraud defenses 'absolutely substandard'",
+      "published": "Wed, 21 Oct 2026 11:10:55 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304420&width=800"
+    },
+    {
+      "title": "Startup Deploys AI-Engineered Virus on Human Patient",
+      "link": "https://futurism.com/health-medicine/startup-human-patient-ai-engineered-virus",
+      "summary": "<p>\"If it works, that's incredible.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/startup-human-patient-ai-engineered-virus\">Startup Deploys AI-Engineered Virus on Human Patient</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Oct 2026 11:03:26 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/startup-human-patient-ai-engineered-virus.jpg?quality=85&w=2048"
+    },
     {
       "title": "Java crashes the departure board at Tyne and Wear Metro",
       "link": "https://www.theregister.com/offbeat/2026/10/21/java-crashes-the-departure-board-at-tyne-and-wear-metro/5304106",
@@ -8,6 +128,14 @@
       "published": "Wed, 21 Oct 2026 10:43:00 +0000",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5304110&width=800"
+    },
+    {
+      "title": "Maybe Vibe Coding Should Be Called “Cuck Coding” Because You Just Sit in a Chair and Watch",
+      "link": "https://futurism.com/artificial-intelligence/vibe-coding-cuck-coding",
+      "summary": "<p>Hey, front row seats!</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/vibe-coding-cuck-coding\">Maybe Vibe Coding Should Be Called &#8220;Cuck Coding&#8221; Because You Just Sit in a Chair and Watch</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Oct 2026 10:02:38 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/vibe-coding-cuck-coding_690627.jpg?quality=85&w=2048"
     },
     {
       "title": "The spec is the new code, so brush up on your prose, says Kaseya CTO",
@@ -18,12 +146,28 @@
       "image_url": "https://image.theregister.com/?imageId=5304006&width=800"
     },
     {
+      "title": "Grotesque Engagement Farmers Are Using AI to Manipulate Real Arrest Footage So That Cops Grope Women",
+      "link": "https://futurism.com/artificial-intelligence/tiktok-ai-deepfakes-cops-groping-women",
+      "summary": "<p>\"It's important to remember that these videos feature real people — both police officers and citizens — who are being depicted doing things that never happened.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/tiktok-ai-deepfakes-cops-groping-women\">Grotesque Engagement Farmers Are Using AI to Manipulate Real Arrest Footage So That Cops Grope Women</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Oct 2026 09:28:56 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/tiktok-ai-deepfakes-cops-groping-women.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Happiness is the next AI KPI if Oxford boffins have their way",
       "link": "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
       "summary": "Researchers say public subsidies for AI should be repaid in wellbeing, not just economic growth",
       "published": "Wed, 21 Oct 2026 09:15:00 +0000",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=262812&width=800"
+    },
+    {
+      "title": "Elon Musk’s Growing Death Toll: “What He Put Into the Woodchipper Were Children”",
+      "link": "https://futurism.com/future-society/elon-musk-woodchipper-children",
+      "summary": "<p>\"500,000 children died.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-woodchipper-children\">Elon Musk&#8217;s Growing Death Toll: &#8220;What He Put Into the Woodchipper Were Children&#8221;</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 21 Oct 2026 08:58:27 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/elon-musk-woodchipper-children.jpg?quality=85&w=2048"
     },
     {
       "title": "MPs urge UK government to play venture capitalist with taxpayer-funded tech",
@@ -90,14 +234,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-1152x648.jpg"
     },
     {
-      "title": "Auto tech startup claims it traced hack attempt back to rival's IP address",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
-      "summary": "IQ.Lvbs implies that rival Comma.ai isn't playing fair",
-      "published": "Tue, 20 Oct 2026 22:00:46 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5304292&width=800"
-    },
-    {
       "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
       "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
       "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
@@ -128,14 +264,6 @@
       "published": "Tue, 20 Oct 2026 20:40:41 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200"
-    },
-    {
-      "title": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
-      "link": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
-      "summary": "And other fun facts about how Zuckercorp aims to keep a million GPUs running long enough to train a model",
-      "published": "Tue, 20 Oct 2026 20:39:42 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5304288&width=800"
     },
     {
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -266,76 +394,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
     },
     {
-      "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
-      "summary": "Unit 42 investigates network compromises across numerous industries",
-      "published": "Tue, 20 Oct 2026 17:33:26 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5304250&width=800"
-    },
-    {
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "published": "Tue, 20 Oct 2026 17:12:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
-    },
-    {
-      "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
-      "link": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
-      "summary": "From October 26, only high and critical cases stay private as project seeks help sharing the workload",
-      "published": "Tue, 20 Oct 2026 16:30:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=258345&width=800"
-    },
-    {
       "title": "Meta’s Muse AI Agent Caught Leaking Users’ Intimate Personal Information",
       "link": "https://futurism.com/future-society/meta-muse-ai-agent-sharing-private-data",
       "summary": "<p>\"We would have guessed that gathering these would take real effort. It took one query.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/meta-muse-ai-agent-sharing-private-data\">Meta&#8217;s Muse AI Agent Caught Leaking Users&#8217; Intimate Personal Information</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 20 Oct 2026 16:25:34 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/meta-muse-ai-agent-sharing-private-data.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
-    },
-    {
-      "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149",
-      "summary": "Microsoft keeps 'Ask Copilot' as dedicated actions disappear between mid-November and early December",
-      "published": "Tue, 20 Oct 2026 16:04:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1619823&width=800"
-    },
-    {
-      "title": "Streaming guide JustWatch becomes a streamer itself",
-      "link": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-      "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-      "published": "Tue, 20 Oct 2026 16:01:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Multi_device_mock.png?resize=1200,675"
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800"
-    },
-    {
-      "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
-      "link": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
-      "summary": "CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin",
-      "published": "Tue, 20 Oct 2026 15:30:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5304155&width=800"
     },
     {
       "title": "Major Data Center Developer Rents Floating Prison Barge to House Contract Construction Workers",
@@ -346,36 +410,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/data-center-nscale-norway-prison-barge-workers.jpg?quality=85&w=2048"
     },
     {
-      "title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
-      "summary": "<span class=\"font-weight-bold m-font-weight-bold\">SPONSORED FEATURE:</span> Nutanix says running VMs and containers within the same operating environment shouldn’t be a brake on AI ambitions",
-      "published": "Tue, 20 Oct 2026 15:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5303864&width=800"
-    },
-    {
       "title": "Polestar tries to quantify what it’s like to drive a performance car",
       "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
       "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
       "published": "Tue, 20 Oct 2026 14:53:07 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg"
-    },
-    {
-      "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
-      "link": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
-      "summary": "Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place",
-      "published": "Tue, 20 Oct 2026 14:43:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255776&width=800"
-    },
-    {
-      "title": "HPE to launch AI straight to the Moon",
-      "link": "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
-      "summary": "Mystery silicon and mirrored SSDs set to touch down before year's end",
-      "published": "Tue, 20 Oct 2026 14:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5303988&width=800"
     },
     {
       "title": "Trump’s Department of Homeland Security Secretly Ordered Cybersecurity Operatives to Acquire a Voting Machine and Hack It",
@@ -442,124 +482,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/truth-social-stock-userbase_4ef55c.jpg?quality=85&w=2048"
     },
     {
-      "title": "IMF Warns That AI Bubble Could Take Down the Entire World Economy",
-      "link": "https://futurism.com/future-society/imf-ai-bubble-world-economy",
-      "summary": "<p>Prepare for the gravy train to go off the rails.</p>\n<p>The post <a href=\"https://futurism.com/future-society/imf-ai-bubble-world-economy\">IMF Warns That AI Bubble Could Take Down the Entire World Economy</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 19 Oct 2026 14:59:16 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/imf-ai-bubble-world-economy.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "78-Year-Old Woman Hauled Off In Handcuffs After Blocking Delivery Robot",
-      "link": "https://futurism.com/robots-and-machines/78-year-old-arrested-protesting-delivery-robot",
-      "summary": "<p>\"It's my First Amendment right to publicly demonstrate on a sidewalk to protest against delivery robots.\"</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/78-year-old-arrested-protesting-delivery-robot\">78-Year-Old Woman Hauled Off In Handcuffs After Blocking Delivery Robot</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 19 Oct 2026 13:57:28 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/78-year-old-arrested-protesting-delivery-robot.jpg?quality=85"
-    },
-    {
-      "title": "Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It’s Poised to Kill More Than 50 People",
-      "link": "https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk",
-      "summary": "<p>\"These are sensible policies we believe Congress should act on.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk\">Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It&#8217;s Poised to Kill More Than 50 People</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 19 Oct 2026 12:36:08 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/anthropic-regulation-government-ai-harm-risk.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Explosive Document Claims That AI Is Not What We Think",
-      "link": "https://futurism.com/artificial-intelligence/explosive-document-ai-not-what-we-think",
-      "summary": "<p>Industry figures praised it as a \"major moment in scientific history.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/explosive-document-ai-not-what-we-think\">Explosive Document Claims That AI Is Not What We Think</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 19 Oct 2026 11:36:49 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/explosive-document-ai-not-what-we-think.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "GLP-1 Apps Are Using Sobbing AI-Generated Women To Market Their Products",
-      "link": "https://futurism.com/artificial-intelligence/glp-1-apps-sobbing-ai-women",
-      "summary": "<p>\"I hid my GLP-1 from my sister for 6 months... she just sent me this.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/glp-1-apps-sobbing-ai-women\">GLP-1 Apps Are Using Sobbing AI-Generated Women To Market Their Products</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 19 Oct 2026 10:18:12 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/glp-1-apps-sobbing-ai-women.png?quality=85"
-    },
-    {
-      "title": "YouTube might be testing hiding the dislike button",
-      "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, [&#8230;]",
-      "published": "2026-10-20T20:00:56-04:00",
+      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+      "link": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
+      "summary": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of \"remastered\" workouts and some new ones are available in the new app starting today, [&#8230;]",
+      "published": "2026-10-21T12:05:51-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
-      "published": "2026-10-20T19:04:19-04:00",
+      "title": "Apple Music has a new logo",
+      "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+      "summary": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound composed by British producer Fred Again [&#8230;]",
+      "published": "2026-10-21T11:48:12-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-      "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members [&#8230;]",
-      "published": "2026-10-20T18:20:11-04:00",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [&#8230;]",
+      "published": "2026-10-21T11:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
-      "published": "2026-10-20T18:11:34-04:00",
+      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
+      "link": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
+      "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you’re interested in hearing about one with gaming chops, Samsung’s 27-inch Odyssey G80HF seems like one of the best [&#8230;]",
+      "published": "2026-10-21T10:47:14-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsung5k.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also [&#8230;]",
-      "published": "2026-10-20T17:30:24-04:00",
+      "title": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
+      "link": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
+      "summary": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estimates extending into next year. \"On Friday morning, our teams look forward &#8203;to welcoming customers at Apple Stores to [&#8230;]",
+      "published": "2026-10-21T10:22:59-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a [&#8230;]",
-      "published": "2026-10-20T17:02:53-04:00",
+      "title": "Blink brings 4K to its low-cost security camera lineup",
+      "link": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+      "summary": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property compared to Blink's current Mini 2K, Mini 2K Plus, and Outdoor 2K Plus offerings, with a variety of different specializations to best [&#8230;]",
+      "published": "2026-10-21T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Blink-security-camera-lineup.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
-      "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to [&#8230;]",
-      "published": "2026-10-20T16:52:07-04:00",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
+      "published": "2026-10-21T09:57:43-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923972/acastro_STK072_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practice art, [&#8230;]",
-      "published": "2026-10-20T16:32:09-04:00",
+      "title": "Now Serato DJ works on your iPhone",
+      "link": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
+      "summary": "Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs in a playlist. This is the first time most of the features of its [&#8230;]",
+      "published": "2026-10-21T09:51:31-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DJ-for-iOS-iPhone-Handheld-1920x1080-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "SpaceX says big AI growth fueled revenue jump",
-      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 [&#8230;]",
-      "published": "2026-10-20T16:26:58-04:00",
+      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
+      "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. \"Using DirectX 12, [&#8230;]",
+      "published": "2026-10-21T09:09:26-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are [&#8230;]",
-      "published": "2026-10-20T16:26:04-04:00",
+      "title": "I reviewed the iPhone Duo, ask me anything",
+      "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+      "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your questions about it. The Duo represents [&#8230;]",
+      "published": "2026-10-21T08:15:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oura1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
