@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-10-21T04:02:44.147483",
+  "lastUpdated": "2026-10-21T11:27:53.702532",
   "articles": [
+    {
+      "title": "Java crashes the departure board at Tyne and Wear Metro",
+      "link": "https://www.theregister.com/offbeat/2026/10/21/java-crashes-the-departure-board-at-tyne-and-wear-metro/5304106",
+      "summary": "Train times remain on show as an elderly Windows dialog demands attention",
+      "published": "Wed, 21 Oct 2026 10:43:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304110&width=800"
+    },
+    {
+      "title": "The spec is the new code, so brush up on your prose, says Kaseya CTO",
+      "link": "https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002",
+      "summary": "Domain expertise and clear writing will matter more than syntax, and yes, that means documentation",
+      "published": "Wed, 21 Oct 2026 10:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304006&width=800"
+    },
+    {
+      "title": "Happiness is the next AI KPI if Oxford boffins have their way",
+      "link": "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
+      "summary": "Researchers say public subsidies for AI should be repaid in wellbeing, not just economic growth",
+      "published": "Wed, 21 Oct 2026 09:15:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262812&width=800"
+    },
+    {
+      "title": "MPs urge UK government to play venture capitalist with taxpayer-funded tech",
+      "link": "https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212",
+      "summary": "Watchdog says Whitehall is too timid about taking stakes in British startups, leaving taxpayers at risk of missing out when they strike gold",
+      "published": "Wed, 21 Oct 2026 08:30:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5282252&width=800"
+    },
+    {
+      "title": "Nervous ISPs replace Chrome as strange consumers of DNS resources",
+      "link": "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344",
+      "summary": "Some network operators like to wear belts <span class=\"italic m-italic\">and</span> suspenders to keep their services up",
+      "published": "Wed, 21 Oct 2026 03:16:37 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261129&width=800"
+    },
     {
       "title": "PHP warns it plans to release 2 emergency patches imminently",
       "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
@@ -12,7 +52,7 @@
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
@@ -36,7 +76,7 @@
     {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "published": "Tue, 20 Oct 2026 22:24:02 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789"
@@ -84,7 +124,7 @@
     {
       "title": "SpaceX’s AI business is beating expectations",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "published": "Tue, 20 Oct 2026 20:40:41 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200"
@@ -346,30 +386,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/trump-homeland-security-voting-machine-hacking.jpg?quality=85&w=2048"
     },
     {
-      "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
-      "summary": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children",
-      "published": "Tue, 20 Oct 2026 13:35:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294336&width=800"
-    },
-    {
-      "title": "Google Cloud says a 'power event' caused today's outage",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
-      "summary": "Fells London zone, taking banks, parcel firm and property sites with it – and recovery is 'tentatively' due by 1300 UTC",
-      "published": "Tue, 20 Oct 2026 12:49:56 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=253305&width=800"
-    },
-    {
-      "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
-      "link": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
-      "summary": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft",
-      "published": "Tue, 20 Oct 2026 12:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5265729&width=800"
-    },
-    {
       "title": "Experts Warn of Humans Becoming Empty Vessels Controlled by AI",
       "link": "https://futurism.com/artificial-intelligence/ai-humans-empty-vessels",
       "summary": "<p>Being lulled into our slowly unfolding doom.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-humans-empty-vessels\">Experts Warn of Humans Becoming Empty Vessels Controlled by AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -378,28 +394,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/ai-humans-empty-vessels.jpg?quality=85&w=2048"
     },
     {
-      "title": "Microsoft admits that Always On VPN problems were not fixed in the October Security Update",
-      "link": "https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063",
-      "summary": "Let they who are without sin throw a stone and miss the greenhouse entirely",
-      "published": "Tue, 20 Oct 2026 11:30:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5304073&width=800"
-    },
-    {
       "title": "We Regret to Inform You That “GatGPT” Is Exactly What It Sounds Like",
       "link": "https://futurism.com/artificial-intelligence/gatgpt-ai-gun",
       "summary": "<p>Custom vibe-coded guns for all.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/gatgpt-ai-gun\">We Regret to Inform You That &#8220;GatGPT&#8221; Is Exactly What It Sounds Like</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 20 Oct 2026 11:08:56 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/gatgpt-ai-gun.png?quality=85"
-    },
-    {
-      "title": "Whitehall shuts the front door on digital ID but leaves the back open",
-      "link": "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100",
-      "summary": "Ministers may have scrapped the national scheme, but One Login, digital wallets and 80-plus planned credentials are still very much alive",
-      "published": "Tue, 20 Oct 2026 10:45:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5235229&width=800"
     },
     {
       "title": "Google’s DeepMind Quietly Hiring Nuclear Physicists",
