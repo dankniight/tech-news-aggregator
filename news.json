@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T04:04:04.520807",
+  "lastUpdated": "2026-10-22T11:28:07.555292",
   "articles": [
     {
       "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
@@ -76,7 +76,7 @@
     {
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "published": "Wed, 21 Oct 2026 21:14:19 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
@@ -266,36 +266,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg"
     },
     {
-      "title": "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine",
-      "link": "https://www.theregister.com/os-platforms/2026/10/21/openbsd-80-beefs-up-virtual-machines-and-gets-a-taste-of-wine/5304430",
-      "summary": "Proposed port brings 64-bit Windows apps within reach",
-      "published": "Wed, 21 Oct 2026 15:45:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=246374&width=800"
-    },
-    {
       "title": "The $15 billion ad-powered AI startup your doctor may already be using",
       "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
       "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
       "published": "Wed, 21 Oct 2026 15:14:07 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg"
-    },
-    {
-      "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
-      "link": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
-      "summary": "Websites down as precaution as exploits have already been published",
-      "published": "Wed, 21 Oct 2026 15:08:51 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=263315&width=800"
-    },
-    {
-      "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
-      "summary": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
-      "published": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5304476&width=800"
     },
     {
       "title": "Why Did Polymarket Think It Was a Good Idea to Allow Bets on the Fates of the Cornell 7?",
@@ -314,14 +290,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/halleys-comet-earth-debris.jpg?quality=85&w=2048"
     },
     {
-      "title": "OneDrive gives Macs a million things to keep in sync",
-      "link": "https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442",
-      "summary": "October preview raises supported limit from 300,000 items, with general availability penciled in for June 2027",
-      "published": "Wed, 21 Oct 2026 13:27:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260377&width=800"
-    },
-    {
       "title": "Random Ohio Town Turns Into Scene From ‘Silent Hill’ After Massive Chemical Leak",
       "link": "https://futurism.com/science-energy/toledo-ohio-chemical-leak-explosion",
       "summary": "<p>\"I can't see out my window.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/toledo-ohio-chemical-leak-explosion\">Random Ohio Town Turns Into Scene From &#8216;Silent Hill&#8217; After Massive Chemical Leak</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -330,28 +298,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/toledo-ohio-chemical-leak-explosion.jpg?quality=85&w=2048"
     },
     {
-      "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
-      "summary": "Maintainers reckon a quarter of incoming pull requests are slop, rising to 31% on larger projects",
-      "published": "Wed, 21 Oct 2026 12:43:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4094141&width=800"
-    },
-    {
       "title": "11-Foot Chunk of Chinese Rocket Crashes Down in Minnesota Cornfield",
       "link": "https://futurism.com/space/chinese-rocket-chunk-minnesota-corn-field",
       "summary": "<p>Now that's something for a corn maze!</p>\n<p>The post <a href=\"https://futurism.com/space/chinese-rocket-chunk-minnesota-corn-field\">11-Foot Chunk of Chinese Rocket Crashes Down in Minnesota Cornfield</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 21 Oct 2026 12:03:03 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/chinese-rocket-chunk-minnesota-corn-field.jpg?quality=85"
-    },
-    {
-      "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
-      "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
-      "summary": "Consider this the wake-up call",
-      "published": "Wed, 21 Oct 2026 12:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259070&width=800"
     },
     {
       "title": "Review: Carrie is a triumphant remix with one major flaw",
@@ -458,6 +410,54 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/google-deepmind-nuclear-physicists-weapon-ai-lab.jpg?quality=85&w=2048"
     },
     {
+      "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
+      "link": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
+      "summary": "Misaligned incentives led to an intractable argument",
+      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304595&width=800"
+    },
+    {
+      "title": "UK government hasn't the foggiest how much it's spending on digital transformation",
+      "link": "https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662",
+      "summary": "Years of promises, but officials unable to put a figure on investment",
+      "published": "Thu, 22 Oct 2026 09:15:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5281055&width=800"
+    },
+    {
+      "title": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366",
+      "summary": "They might earn more than $200k but who do they work for? Tech buyers need to put some checks in place on FDEs",
+      "published": "Thu, 22 Oct 2026 08:30:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304386&width=800"
+    },
+    {
+      "title": "Why the immediate future of liquid cooling is hybrid",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795",
+      "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> AI is driving liquid cooling adoption, but hybrid architectures will help operators balance density, flexibility, and operational realities",
+      "published": "Thu, 22 Oct 2026 08:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5303797&width=800"
+    },
+    {
+      "title": "Certification authority eMudhra defends its laughably weak private keys",
+      "link": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
+      "summary": "Says it passed audits and made just a minor mystery error",
+      "published": "Thu, 22 Oct 2026 06:38:14 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=188286&width=800"
+    },
+    {
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "90 percent of the performance at ten percent of the price, in just two or three racks, is hard to beat",
+      "published": "Thu, 22 Oct 2026 04:26:39 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4091853&width=800"
+    },
+    {
       "title": "Philippine government suspends top tech official for alleged misconduct",
       "link": "https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633",
       "summary": "Founder of offshore software development firm investigated for possibly giving his former outfit government contracts",
@@ -480,6 +480,14 @@
       "published": "Thu, 22 Oct 2026 00:17:54 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675"
+    },
+    {
+      "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]",
+      "published": "2026-10-22T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "YouTube says it isn’t testing hiding the dislike button",
@@ -552,14 +560,6 @@
       "published": "2026-10-21T16:15:00-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete tasks that require significant effort or [&#8230;]",
-      "published": "2026-10-21T15:54:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
