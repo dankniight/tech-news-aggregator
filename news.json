@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T04:05:19.573165",
+  "lastUpdated": "2026-10-26T12:34:22.050823",
   "articles": [
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -258,6 +258,70 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/meta-board-zuckerberg-ai-spending-compensation.jpg?quality=85&w=2048"
     },
     {
+      "title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
+      "link": "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
+      "summary": "SRAM-like bandwidth, DRAM-like density, and NAND-like manufacturing: Z2RAM makes big promises, but the road ahead is arduous and littered with the ruins of failed memory vendors",
+      "published": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=225048&width=800"
+    },
+    {
+      "title": "iFixit dismantles Apple's Duo: 'You'd better baby that screen'",
+      "link": "https://www.theregister.com/personal-tech/2026/10/26/ifixit-dismantles-apples-duo-youd-better-baby-that-screen/5305296",
+      "summary": "Battery replacement gets the thumbs up, but it all hinges on dust. A conventional phone might be better bet for home repairers",
+      "published": "Mon, 26 Oct 2026 11:43:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5305299&width=800"
+    },
+    {
+      "title": "Britain bets big on AI to defend against the threats AI is helping create",
+      "link": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
+      "summary": "Whitehall wants agents guarding critical infrastructure as part of a wider £600M spending spree",
+      "published": "Mon, 26 Oct 2026 11:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5267881&width=800"
+    },
+    {
+      "title": "Euro open source specialist proposes LLM gateway to ease token bills",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
+      "summary": "Aiven hopes to do for LLMs what it does for databases",
+      "published": "Mon, 26 Oct 2026 10:15:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5242717&width=800"
+    },
+    {
+      "title": "PHP2Shell is a warning shot for vulnerability disclosure",
+      "link": "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918",
+      "summary": "Keeping secrets is difficult in an open world, but we've done it before and must do it again",
+      "published": "Mon, 26 Oct 2026 09:38:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1621607&width=800"
+    },
+    {
+      "title": "'Let's just shove a bigger fan in there and see what happens'",
+      "link": "https://www.theregister.com/systems/2026/10/26/lets-just-shove-a-bigger-fan-in-there-and-see-what-happens/5304654",
+      "summary": "Techies tiptoed around server to keep it working as company sank",
+      "published": "Mon, 26 Oct 2026 06:30:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5304659&width=800"
+    },
+    {
+      "title": "Tesco replacing VMware with Proxmox in its stores and on the edge",
+      "link": "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+      "summary": "Advertises for someone to ‘own cost-effective alternative virtualisation platform’",
+      "published": "Mon, 26 Oct 2026 05:24:02 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260306&width=800"
+    },
+    {
+      "title": "Work to protect DNS from quantum decryption attacks is speeding up",
+      "link": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+      "summary": "PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers",
+      "published": "Mon, 26 Oct 2026 04:08:23 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=238312&width=800"
+    },
+    {
       "title": "The best apps for tracking your reading and discovering new books",
       "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
       "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
@@ -330,14 +394,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png"
     },
     {
-      "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
-      "summary": "Monitoring was only partial and was easily bypassed",
-      "published": "Fri, 23 Oct 2026 19:14:57 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305204&width=800"
-    },
-    {
       "title": "Crows can evaluate visual info twice as fast as mammals",
       "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
       "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
@@ -378,14 +434,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg"
     },
     {
-      "title": "AI models describe humans as a bunch of amoral sheep",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
-      "summary": "Ask LLMs for their most controversial take on humanity, and it turns out they have little nice to say about us, as one AI experiment found",
-      "published": "Fri, 23 Oct 2026 16:26:13 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305178&width=800"
-    },
-    {
       "title": "Wolves Descend on Finnish Villages After Google Hacked Down 1,300 Acres of Habitat to Make Room for AI Data Centers",
       "link": "https://futurism.com/future-society/wolves-finland-google-ai-data-centers",
       "summary": "<p>\"We had wolves coming into the village because all the wild animals moved out of the forest.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/wolves-finland-google-ai-data-centers\">Wolves Descend on Finnish Villages After Google Hacked Down 1,300 Acres of Habitat to Make Room for AI Data Centers</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -394,36 +442,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/wolves-finland-google-ai-data-centers.jpg?quality=85&w=2048"
     },
     {
-      "title": "Michigan prof creates Python-like Jac language for AI agents",
-      "link": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
-      "summary": "Stop burning $165K on AI rewrites; Jac is meant to \"gobble up\" your polyglot stack",
-      "published": "Fri, 23 Oct 2026 15:46:19 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305120&width=800"
-    },
-    {
-      "title": "Arc browser on its way out as makers suggest an alternative",
-      "link": "https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114",
-      "summary": "No new accounts from now, and the end will come in December",
-      "published": "Fri, 23 Oct 2026 15:22:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=258531&width=800"
-    },
-    {
       "title": "Man Dies After Being Mowed Down by Self-Driving Tesla, Police Say",
       "link": "https://futurism.com/advanced-transport/man-dies-tesla-self-driving",
       "summary": "<p>Grim.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/man-dies-tesla-self-driving\">Man Dies After Being Mowed Down by Self-Driving Tesla, Police Say</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 23 Oct 2026 14:52:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/man-dies-tesla-self-driving.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "SparkyOS: Lightweight general-purpose Arch, on a pendrive",
-      "link": "https://www.theregister.com/os-platforms/2026/10/23/sparkyos-lightweight-general-purpose-arch-on-a-pendrive/5304984",
-      "summary": "Interesting new project from the minds behind SparkyLinux",
-      "published": "Fri, 23 Oct 2026 14:35:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305105&width=800"
     },
     {
       "title": "Palmer Luckey Says He’s Breeding Genetically Enhanced Dogs for the Military",
@@ -442,30 +466,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg"
     },
     {
-      "title": "PubKeep picks up where Microsoft Publisher signs off",
-      "link": "https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978",
-      "summary": "$99 replacement opens old .pub files on Windows and macOS, without a subscription",
-      "published": "Fri, 23 Oct 2026 13:34:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242280&width=800"
-    },
-    {
-      "title": "Musk disputes NASA safety panel's lunar launch estimates",
-      "link": "https://www.theregister.com/science/2026/10/23/musk-disputes-nasa-safety-panels-lunar-launch-estimates/5304961",
-      "summary": "Watchdog also warns retiring Falcon and Dragon could leave US access to orbit short of a backup",
-      "published": "Fri, 23 Oct 2026 12:29:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1684260&width=800"
-    },
-    {
-      "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-      "link": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-      "summary": "Kernel maintainers stop asking who used AI, as long as the code is good",
-      "published": "Fri, 23 Oct 2026 11:31:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5226908&width=800"
-    },
-    {
       "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
       "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
       "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
@@ -480,6 +480,14 @@
       "published": "Fri, 23 Oct 2026 11:15:03 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp"
+    },
+    {
+      "title": "The city that fought Flock",
+      "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+      "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a [&#8230;]",
+      "published": "2026-10-26T06:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
@@ -552,14 +560,6 @@
       "published": "2026-10-24T17:29:12-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [&#8230;]",
-      "published": "2026-10-24T14:32:21-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
