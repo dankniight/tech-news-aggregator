@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-28T04:56:11.627081",
+  "lastUpdated": "2026-10-28T12:26:51.374763",
   "articles": [
+    {
+      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+      "published": "Wed, 28 Oct 2026 11:00:49 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg"
+    },
+    {
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "published": "Wed, 28 Oct 2026 05:20:32 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800"
+    },
     {
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -130,36 +146,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
     },
     {
-      "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
-      "summary": "Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs",
-      "published": "Tue, 27 Oct 2026 20:20:27 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093906&width=800"
-    },
-    {
       "title": "Google begins certifying Registered App Stores for Android, but not in the US",
       "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
       "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
       "published": "Tue, 27 Oct 2026 19:32:07 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg"
-    },
-    {
-      "title": "Anthropic now lets Claude users jump out of plane without parachute",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
-      "summary": "Meet CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS",
-      "published": "Tue, 27 Oct 2026 19:29:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=240909&width=800"
-    },
-    {
-      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
-      "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
-      "summary": "One critical, three high-severity EPICS bugs could disrupt research experiments",
-      "published": "Tue, 27 Oct 2026 19:11:02 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305858&width=800"
     },
     {
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -186,36 +178,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg"
     },
     {
-      "title": "Apple takes powerful M6 chip to the MacBook Pro, iMac",
-      "link": "https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797",
-      "summary": "6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors",
-      "published": "Tue, 27 Oct 2026 17:47:07 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305802&width=800"
-    },
-    {
-      "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
-      "link": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
-      "summary": "Noyb files five complaints in four member states over alleged tracking of workers on Scale AI's Outlier platform",
-      "published": "Tue, 27 Oct 2026 17:29:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305785&width=800"
-    },
-    {
       "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
       "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
       "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
       "published": "Tue, 27 Oct 2026 17:08:08 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
-    },
-    {
-      "title": "ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux",
-      "link": "https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710",
-      "summary": "Classic Platinum or lickable Mavericks-era Aqua – it's your choice",
-      "published": "Tue, 27 Oct 2026 17:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305716&width=800"
     },
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -234,28 +202,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg"
     },
     {
-      "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
-      "summary": "University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases",
-      "published": "Tue, 27 Oct 2026 16:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238831&width=800"
-    },
-    {
       "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
       "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
       "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
       "published": "Tue, 27 Oct 2026 16:00:22 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png"
-    },
-    {
-      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year",
-      "link": "https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737",
-      "summary": "Revenue up, operating profit up, 30 million paid Copilot seats locked in, 88 DCs added, $43.8 billion returned to shareholders",
-      "published": "Tue, 27 Oct 2026 15:51:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=256704&width=800"
     },
     {
       "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
@@ -282,22 +234,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800"
     },
     {
-      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-      "published": "Tue, 27 Oct 2026 14:51:33 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675"
-    },
-    {
-      "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
-      "summary": "Both critical PHP flaws land on the agency’s exploited list as infosec pros confirm hackers are getting working shells",
-      "published": "Tue, 27 Oct 2026 14:45:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305685&width=800"
-    },
-    {
       "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
       "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
       "summary": "I <em>respect</em> Apple's first crack at a foldable phone, but I'm not sure I <em>like</em> it.",
@@ -314,44 +250,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg"
     },
     {
-      "title": "A whopping 3% of boardroom execs spy productivity and costs savings from AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675",
-      "summary": "A load more are spending more than they expected and forecast to shell out even more in 2027",
-      "published": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305717&width=800"
-    },
-    {
       "title": "Solar Panels Are Now Producing So Much Power That They’re Leaving Nuclear Plants in the Dust",
       "link": "https://futurism.com/science-energy/solar-panels-electricity-energy-nuclear-power",
       "summary": "<p>\"Solar is now the engine of the power transition.\"</p>\n<p>The post <a href=\"https://futurism.com/science-energy/solar-panels-electricity-energy-nuclear-power\">Solar Panels Are Now Producing So Much Power That They&#8217;re Leaving Nuclear Plants in the Dust</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 27 Oct 2026 13:52:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/solar-panels-electricity-energy-nuclear-power.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "summary": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
-      "published": "Tue, 27 Oct 2026 13:32:35 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg"
-    },
-    {
-      "title": "Apple's foldable phone has a crease in its reputation",
-      "link": "https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669",
-      "summary": "Admits a 'small number' of iPhone Duos have display problems, and no, you're not folding it wrong.",
-      "published": "Tue, 27 Oct 2026 13:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295384&width=800"
-    },
-    {
-      "title": "When file infrastructure becomes the bottleneck",
-      "link": "https://www.theregister.com/storage/2026/10/27/sponsored-when-file-infrastructure-becomes-the-bottleneck/5305523",
-      "summary": "Legacy NAS, VPNs, and file-sync workflows leave hidden costs in their wake. Is the way your organization manages files still fit for purpose?",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305527&width=800"
     },
     {
       "title": "Epic Games Discovers That It Doesn’t Like AI When People Use It to Rip Off Its Own Products",
@@ -362,36 +266,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/epic-games-suddenly-anti-ai-hurt.jpg?quality=85&w=2048"
     },
     {
-      "title": "Microsoft releases out-of-band Windows fixes with certificate updates",
-      "link": "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637",
-      "summary": "Did you hear the one about eMudhra and the power of 4? Time to get connected to certificate trust list updates",
-      "published": "Tue, 27 Oct 2026 12:30:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5302230&width=800"
-    },
-    {
-      "title": "Attack on email hosting provider for German far right party AfD exposed 345k accounts",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660",
-      "summary": "Alternative für Deutschland swats away scandals as reporters swarm leaked email tranche",
-      "published": "Tue, 27 Oct 2026 11:49:30 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261340&width=800"
-    },
-    {
       "title": "Company That Sold “Endless Cruises” Suspends Operations as Fuel Costs Spike, Kicks Residents Off Ship",
       "link": "https://futurism.com/future-society/endless-cruise-suddenly-ends",
       "summary": "<p>A promise of a life at sea comes to a sudden end.</p>\n<p>The post <a href=\"https://futurism.com/future-society/endless-cruise-suddenly-ends\">Company That Sold &#8220;Endless Cruises&#8221; Suspends Operations as Fuel Costs Spike, Kicks Residents Off Ship</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 27 Oct 2026 11:48:35 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/endless-cruise-suddenly-ends.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups",
-      "link": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
-      "summary": "Investigation finds businesses dominated govt meetings while communities were left out of decisions about AI Growth Zones",
-      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5305665&width=800"
     },
     {
       "title": "It Appears That the AI Bubble Has Just Burst in China",
@@ -482,84 +362,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/man-cracks-open-fortune-cookie-disgusted-by-what-he-finds-inside.jpg?quality=85&w=2048"
     },
     {
-      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-      "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]",
-      "published": "2026-10-27T18:55:05-04:00",
+      "title": "Everything announced at Amazon&#8217;s October 2026 hardware launch",
+      "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+      "summary": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is screens: devices with big, beautiful ones, and those that lack them entirely. There&#8217;s the [&#8230;]",
+      "published": "2026-10-28T08:20:40-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Show_16_JTuohy_0046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
-      "published": "2026-10-27T16:48:58-04:00",
+      "title": "Amazon&#8217;s new Echo line is here: the 6 biggest updates",
+      "link": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+      "summary": "Amazon has just taken the wraps off a bunch of new devices as part of a string of fall announcements. Today's news focuses largely on new Echo speakers, with a few new smart home gadgets sprinkled in. Here's a roundup of all of the updates Amazon revealed on Wednesday. Echo Show 16 adds a larger [&#8230;]",
+      "published": "2026-10-28T08:08:15-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_studio_camera_JTuohy_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
-      "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-      "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" however Ukrainian officials have denied that happened, or that it [&#8230;]",
-      "published": "2026-10-27T15:24:06-04:00",
+      "title": "Voters in Texas agree: They hate data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. [&#8230;]",
+      "published": "2026-10-28T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Trump is making it easier for fossil fuel companies to leak methane",
-      "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-      "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's the primary component of [&#8230;]",
-      "published": "2026-10-27T14:25:13-04:00",
+      "title": "Amazon’s first digital picture frame lets you add voice notes to photos",
+      "link": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
+      "summary": "Amazon's screen-equipped smart speakers have long been able to display your family's photos, but its new Alexa Photo Frame is purpose-built for that task. It's designed to compete with other digital picture frames from companies like Aura, and Amazon's incorporates a smart speaker with access to Alexa Plus' capabilities through voice commands. However, unlike the [&#8230;]",
+      "published": "2026-10-28T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK466_ELECTION_2024_CVirginia_F.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alexaframe1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
-      "published": "2026-10-27T13:30:00-04:00",
+      "title": "How a grocery merger could expand a surveillance network",
+      "link": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
+      "summary": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns that a merger could decrease competition and increase prices, the American Economic Liberties Project (AELP), which advocates for competition policy reforms, says that [&#8230;]",
+      "published": "2026-10-28T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22487786/Kroger_Delivery_x_Drone_Express_05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, [&#8230;]",
-      "published": "2026-10-27T13:00:00-04:00",
+      "title": "Amazon’s new Echo Studio speaker has a camera",
+      "link": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub",
+      "summary": "Amazon is giving its premium smart speaker a camera. The new Echo Studio with Home Camera, announced today as part of Amazon's big blast of announcements, has a built-in camera for monitoring a room while you're away, showing things to Alexa, and, soon, to use with video calls on Fire TV devices. It's an iteration [&#8230;]",
+      "published": "2026-10-28T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
-      "published": "2026-10-27T12:51:22-04:00",
+      "title": "Our first look at Amazon’s big new Echo Show 16",
+      "link": "https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles",
+      "summary": "Amazon's latest Echo Show smart display is big, gorgeous, and eye-wateringly expensive. Announced today, the Echo Show 16 costs $499.99 (wall mount included) and is available to preorder now. There's a Nanomatte display option for $569.99, plus a $100 preorder discount ahead of its release later this year. After spending time with the device at [&#8230;]",
+      "published": "2026-10-28T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0186.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Meta’s $25 billion legal loss just put blood in the water",
-      "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-      "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 [&#8230;]",
-      "published": "2026-10-27T12:44:40-04:00",
+      "title": "Spending time with the Echo Time — a smart clock that senses you sleeping",
+      "link": "https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on",
+      "summary": "Amazon just announced its newest smart alarm clock - the Echo Time. The baseball-sized smart speaker with a screen, the Time looks like an Echo Dot with Clock and an Echo Spot had a much bigger baby. It features a 3.2-inch touchscreen that prominently displays your choice of a huge selection of clockfaces and includes [&#8230;]",
+      "published": "2026-10-28T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0142.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
-      "published": "2026-10-27T12:14:18-04:00",
+      "title": "Amazon’s Alexa Home Map is getting a smarter 3D redesign",
+      "link": "https://www.theverge.com/tech/1020392/amazon-alexa-home-view-3d-update-external-view",
+      "summary": "Amazon's smart home map interface that shows you where all your connected devices are has been overhauled with new graphics, features, and dynamic effects. The new Alexa Home Map is now an interactive 3D view of not just everything that's inside your property, but outside of it too - using compatible Ring cameras to provide [&#8230;]",
+      "published": "2026-10-28T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Show_16_JTuohy_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-      "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox, and more sliding into home [&#8230;]",
-      "published": "2026-10-27T12:02:43-04:00",
+      "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+      "link": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+      "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta discussed a \"Whisper strategy\" to \"turn academics against Haidt,\" a thought leader [&#8230;]",
+      "published": "2026-10-28T07:30:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
