@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-01T21:52:10.321858",
+  "lastUpdated": "2026-11-02T05:19:25.792480",
   "articles": [
+    {
+      "title": "Linus Torvalds says Linux kernel is out of ‘stabilization phase’ and using ‘much healthier model’ for AI contributions",
+      "link": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+      "summary": "Yet machine-made patches ‘often get rewritten’",
+      "published": "Sun, 01 Nov 2026 23:11:41 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5306857&width=800"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "published": "Sun, 01 Nov 2026 21:55:23 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
     {
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
@@ -52,7 +68,7 @@
     {
       "title": "Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time",
       "link": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths",
-      "summary": "<p>There's simply no way something like this wouldn't get abused almost immediately.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths\">Microsoft Patents an AI That Can Literally Put Words in People&#8217;s Mouths in Real Time</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "summary": "<p>Talk about a new kind of filter.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths\">Microsoft Patents an AI That Can Literally Put Words in People&#8217;s Mouths in Real Time</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Sun, 01 Nov 2026 12:09:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/microsoft-patents-ai-words-in-peoples-mouths.jpg?quality=85&w=2048"
@@ -298,14 +314,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799"
     },
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
-    },
-    {
       "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
       "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
       "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
@@ -314,12 +322,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg"
     },
     {
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "published": "Fri, 30 Oct 2026 23:21:23 +0000",
+      "title": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
+      "link": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+      "summary": "Wants more local AI, without Big Tech getting open access to everything",
+      "published": "Mon, 02 Nov 2026 04:39:50 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259659&width=800"
+    },
+    {
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "published": "Mon, 02 Nov 2026 04:23:48 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/newspaper-stack_GettyImages648942926.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Google says Asian advertisers spending less due to Europe's customs changes",
+      "link": "https://www.theregister.com/legal/2026/11/02/google-says-asian-advertisers-spending-less-due-to-europes-customs-changes/5306860",
+      "summary": "PLUS: Brake pedals break on Huawei-made cars; North Korea named as source of Binance hack; and more!",
+      "published": "Mon, 02 Nov 2026 01:02:26 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5306869&width=800"
     },
     {
       "title": "Flesh-eating screwworms spread to third state and are attacking pets",
@@ -450,36 +474,20 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg"
     },
     {
-      "title": "Voyager 1 gives controllers the silent treatment",
-      "link": "https://www.theregister.com/science/2026/10/30/voyager-1-gives-controllers-the-silent-treatment/5306637",
-      "summary": "Whew! Only kidding, here I am",
-      "published": "Fri, 30 Oct 2026 15:30:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5306667&width=800"
-    },
-    {
-      "title": "AlpineBSD announced – an AI-free FOSS OS",
-      "link": "https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589",
-      "summary": "Combining the NetBSD kernel with the Alpine Linux userland",
-      "published": "Fri, 30 Oct 2026 14:45:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5306598&width=800"
-    },
-    {
-      "title": "NASA ponders a Hubble servicing mission or a controlled deorbit",
-      "link": "https://www.theregister.com/science/2026/10/30/nasa-ponders-a-hubble-servicing-mission-or-a-controlled-deorbit/5306622",
-      "summary": "Agency only looking for information, but reentry countdown ticking for veteran space telescope",
-      "published": "Fri, 30 Oct 2026 14:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=225671&width=800"
-    },
-    {
       "title": "GM to pay $220 million after selling customer Smart Driver data",
       "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
       "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
       "published": "Fri, 30 Oct 2026 13:53:20 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg"
+    },
+    {
+      "title": "Jackery made its portable power stations even smaller",
+      "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. [&#8230;]",
+      "published": "2026-11-02T00:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "NASA hopes the commercial space industry can help save Hubble",
@@ -552,14 +560,6 @@
       "published": "2026-10-31T17:06:58-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Keyboards of The Verge",
-      "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from [&#8230;]",
-      "published": "2026-10-31T15:30:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
