@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T23:28:23.919391",
+  "lastUpdated": "2026-11-06T05:53:12.503382",
   "articles": [
-    {
-      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "summary": "And what that could mean for physical Switch game costs.",
-      "published": "Wed, 04 Nov 2026 22:47:51 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg"
-    },
-    {
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "published": "Wed, 04 Nov 2026 22:26:49 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg"
-    },
     {
       "title": "Hakeem Jeffries Is Bankrolled by the Most Controversial Tech Companies in Existence",
       "link": "https://futurism.com/future-society/hakeem-jeffries-donors-corporate-controversial-tech-companies",
@@ -66,12 +50,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/green-energy-soaring-world-midterms.jpg?quality=85&w=2048"
     },
     {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "published": "Thu, 05 Nov 2026 23:09:36 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
+    },
+    {
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "published": "Thu, 05 Nov 2026 22:49:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg"
+    },
+    {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
       "published": "Thu, 05 Nov 2026 22:40:55 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675"
+    },
+    {
+      "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+      "link": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+      "summary": "No documented attacks against American supermarkets…yet",
+      "published": "Thu, 05 Nov 2026 22:37:06 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5303687&width=800"
+    },
+    {
+      "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
+      "summary": "The cloud giant refits its agentic dev tools for agent orchestration",
+      "published": "Thu, 05 Nov 2026 22:09:20 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5307975&width=800"
     },
     {
       "title": "Sony revives the original Walkman headphones, adds USB-C",
@@ -306,22 +322,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024"
     },
     {
-      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-      "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-      "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-      "published": "Thu, 05 Nov 2026 15:40:34 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675"
-    },
-    {
-      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-      "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-      "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
-      "published": "Thu, 05 Nov 2026 15:33:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?resize=1200,819"
-    },
-    {
       "title": "Memory makers mint megabucks while buyers beg for mercy",
       "link": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
       "summary": "DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing",
@@ -386,14 +386,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/kids-hooked-ai-worse-mental-health.jpg?quality=85&w=2048"
     },
     {
-      "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
-      "summary": "No gang has claimed the attack on incredible neighborhood resource yet",
-      "published": "Thu, 05 Nov 2026 12:10:15 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1684482&width=800"
-    },
-    {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
       "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
       "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
@@ -418,28 +410,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/buzzfeed-stock-free-fall-pivot-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "Norway's aid agency pwned and all users' data is stolen",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
-      "summary": "Norad said it cannot be sure that the details of those in 'conflict areas and authoritarian states' are safe or not",
-      "published": "Thu, 05 Nov 2026 11:19:16 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=260104&width=800"
-    },
-    {
       "title": "It Turns Out Binance’s $6 Billion Hack Happened Because Its Employees Were Vibe Coding",
       "link": "https://futurism.com/future-society/binance-heist-vibe-code-ai",
       "summary": "<p>This crew is good.</p>\n<p>The post <a href=\"https://futurism.com/future-society/binance-heist-vibe-code-ai\">It Turns Out Binance&#8217;s $6 Billion Hack Happened Because Its Employees Were Vibe Coding</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 05 Nov 2026 10:31:13 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/binance-heist-vibe-coding-employee-ai.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "SAP promises to open out data flows in both directions",
-      "link": "https://www.theregister.com/software/2026/11/05/sap-promises-to-open-out-data-flows-in-both-directions/5307495",
-      "summary": "New commitment to Apache Iceberg and expanded Databricks partnership point to battle ahead over context layer",
-      "published": "Thu, 05 Nov 2026 10:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093655&width=800"
     },
     {
       "title": "Tech Industry in Denial That the Midterms Show Everyone Hates Them",
@@ -450,14 +426,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/tech-industry-denial-hates.jpg?quality=85&w=2048"
     },
     {
-      "title": "Royal London plans IT outsourcing shake-up as staff brace for redundancies",
-      "link": "https://www.theregister.com/on-prem/2026/11/05/royal-london-plans-it-outsourcing-shake-up-as-staff-brace-for-redundancies/5307481",
-      "summary": "IBM deal could see tech jobs shipped to India, with cuts expected before Christmas",
-      "published": "Thu, 05 Nov 2026 09:30:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5301760&width=800"
-    },
-    {
       "title": "Google Staffers Say They’re Being Silenced From Telling the Public the Truth About AI",
       "link": "https://futurism.com/artificial-intelligence/google-deepmind-workers-silenced-censorship-ai",
       "summary": "<p>\"The reason is to basically intimidate people.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/google-deepmind-workers-silenced-censorship-ai\">Google Staffers Say They&#8217;re Being Silenced From Telling the Public the Truth About AI</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -466,20 +434,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/google-staffers-silenced-truth-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
-      "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
-      "summary": "The spirit of AMG is alive via three axial flux electric motors.",
-      "published": "Thu, 05 Nov 2026 09:00:13 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg"
-    },
-    {
       "title": "Elon Musk Deletes Smug Election Posts After They Backfire and His Businesses Tank by $120 Billion",
       "link": "https://futurism.com/future-society/elon-musk-election-backfire-loses-billions",
       "summary": "<p>You almost have to feel bad for the guy.</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-election-backfire-loses-billions\">Elon Musk Deletes Smug Election Posts After They Backfire and His Businesses Tank by $120 Billion</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 05 Nov 2026 08:32:51 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/elon-musk-election-posts-backfire.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "AI agents are a ‘bane’ for some website operators, says Cloudflare",
+      "link": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+      "summary": "CEO says sovereigns probably exploited PHP2SHELL ages ago, and suggests containers are dead",
+      "published": "Fri, 06 Nov 2026 04:25:14 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=239494&width=800"
+    },
+    {
+      "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
+      "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+      "summary": "CERT-IN warns of ‘significant escalation’ in AI-powered attacks, some after victims tried to improve defences",
+      "published": "Fri, 06 Nov 2026 01:17:40 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5308010&width=800"
+    },
+    {
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "summary": "\"This is going to be a game-changer.\"",
+      "published": "Fri, 06 Nov 2026 00:17:06 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp"
+    },
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "published": "Fri, 06 Nov 2026 00:07:18 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800"
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "published": "Fri, 06 Nov 2026 00:01:38 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
+      "published": "2026-11-05T19:37:56-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
+      "published": "2026-11-05T19:06:12-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included [&#8230;]",
+      "published": "2026-11-05T18:45:10-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-3.41.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,92.583676239766"
+    },
+    {
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
+      "published": "2026-11-05T18:17:10-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Perplexity launches its own take on AI agents for work",
@@ -528,38 +560,6 @@
       "published": "2026-11-05T14:03:04-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "EA is bringing 25 classic PC games to Steam",
-      "link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-      "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life updates to support modern systems and controls and improve performance, according to EA. The [&#8230;]",
-      "published": "2026-11-05T13:30:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ROAD_RASH.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Claude AI can plug directly into your bank account",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
-      "published": "2026-11-05T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
-      "published": "2026-11-05T12:51:52-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Ember’s smallest self-heating mug is on sale for just $33",
-      "link": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
-      "summary": "We’ve been fans of Ember’s temperature-controlled mugs for years, though given the price tag, we admit that they’re somewhat of a luxury purchase. Thankfully, if you&#8217;ve been looking for a more affordable option, Woot is selling the Ember Cup in black for $32.99 ($67 off) with a 90-day warranty through November 7th. You can potentially [&#8230;]",
-      "published": "2026-11-05T12:34:23-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embercupsixouncewithtea_c325e7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
