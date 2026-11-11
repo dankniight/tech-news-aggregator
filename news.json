@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-11-11T05:31:16.777422",
+  "lastUpdated": "2026-11-11T13:52:11.420520",
   "articles": [
+    {
+      "title": "Google gooses Python AI performance by... removing Python",
+      "link": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+      "summary": "Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts",
+      "published": "Wed, 11 Nov 2026 11:30:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1682491&width=800"
+    },
+    {
+      "title": "Linux joins Heathrow's grounded fleet of information screens",
+      "link": "https://www.theregister.com/offbeat/2026/11/11/linux-joins-heathrows-grounded-fleet-of-information-screens/5308738",
+      "summary": "Anything Windows can bork, the penguin can bork sideways",
+      "published": "Wed, 11 Nov 2026 10:44:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5308754&width=800"
+    },
+    {
+      "title": "AMD: Where we're going we don't need (as much) DRAM",
+      "link": "https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953",
+      "summary": "The House of Zen's Mext team promises smarter SWAP through the power of, you'll never guess: AI",
+      "published": "Wed, 11 Nov 2026 09:59:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5259665&width=800"
+    },
+    {
+      "title": "UK's 'buy British' tech ambitions hit reality as less than £1 in £6 stays at home",
+      "link": "https://www.theregister.com/public-sector/2026/11/11/uks-buy-british-tech-ambitions-hit-reality-as-less-than-1-in-6-stays-at-home/5308814",
+      "summary": "Whitehall's biggest IT suppliers are overwhelmingly foreign, and Uncle Sam is making a killing",
+      "published": "Wed, 11 Nov 2026 09:15:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5282252&width=800"
+    },
+    {
+      "title": "The Only Thing Driving Truth Social’s Revenue Will Make You Close Your Eyes and Wish for Better Days",
+      "link": "https://futurism.com/future-society/what-is-driving-truth-social-revenue",
+      "summary": "<p>We can't believe people are paying for this.</p>\n<p>The post <a href=\"https://futurism.com/future-society/what-is-driving-truth-social-revenue\">The Only Thing Driving Truth Social&#8217;s Revenue Will Make You Close Your Eyes and Wish for Better Days</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 11 Nov 2026 08:28:06 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/truth-social-revenue-trump-posts.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "published": "Wed, 11 Nov 2026 07:30:51 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800"
+    },
+    {
+      "title": "OpenAI builds a kill switch for its research models",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+      "summary": "How much damage can a rogue agent do in 35 seconds? Asking cos that’s how long it might take to shut one down",
+      "published": "Wed, 11 Nov 2026 05:20:56 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=228453&width=800"
+    },
+    {
+      "title": "Australia may make knowingly selling unsafe AI a crime",
+      "link": "https://www.theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999",
+      "summary": "New regulator will require modelmakers to test and allow inspection, but not much more",
+      "published": "Wed, 11 Nov 2026 02:14:13 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5293744&width=800"
+    },
     {
       "title": "X launches its own clipping feature to spur influencer engagement",
       "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
@@ -242,36 +306,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg"
     },
     {
-      "title": "AMD winds up Zen 6 cores for faster clock speeds",
-      "link": "https://www.theregister.com/systems/2026/11/10/amd-winds-up-zen-6-cores-for-faster-clock-speeds/5308603",
-      "summary": "Chips boast up to 256 cores, clocks up to 5.3 GHz, and IPC gains of 20 to 31 percent, just not all on the same SKU",
-      "published": "Tue, 10 Nov 2026 17:20:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5308611&width=800"
-    },
-    {
-      "title": "AMD's Epyc X-chips are back after a three-year hiatus",
-      "link": "https://www.theregister.com/systems/2026/11/10/amds-epyc-x-chips-are-back-after-a-three-year-hiatus/5308269",
-      "summary": "Venice-X promises big speedup for EDA and HPC workloads",
-      "published": "Tue, 10 Nov 2026 17:10:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=250546&width=800"
-    },
-    {
       "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
       "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "published": "Tue, 10 Nov 2026 17:04:19 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
-    },
-    {
-      "title": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin",
-      "link": "https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523",
-      "summary": "Cores, clocks, memory, and interconnects all perfectly balanced for a singular mission: keeping instinct fed.",
-      "published": "Tue, 10 Nov 2026 17:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=161325&width=800"
     },
     {
       "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
@@ -298,14 +338,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg"
     },
     {
-      "title": "Trump taps Palantir security chief to run battered US cyber defense agency",
-      "link": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
-      "summary": "Michael LoSapio could inherit a depleted workforce and a political headache or two, courtesy of his current employer",
-      "published": "Tue, 10 Nov 2026 16:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5219759&width=800"
-    },
-    {
       "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
       "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
       "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
@@ -314,28 +346,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-TV-ASL-Sign-Language-interpretation.jpg?resize=1200,800"
     },
     {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "published": "Tue, 10 Nov 2026 15:54:08 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
-    },
-    {
       "title": "Trump Says It’s Fine for a CEO to Cheat on His Wife With an Alleged Spy",
       "link": "https://futurism.com/artificial-intelligence/trump-defends-huang-cheating-spy",
       "summary": "<p>Now there's a morally upstanding character witness.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/trump-defends-huang-cheating-spy\">Trump Says It’s Fine for a CEO to Cheat on His Wife With an Alleged Spy</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 10 Nov 2026 15:53:40 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/trump-ceo-cheat-wife-spy.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Fireworks AI gets burned twice as customer data exposure widens",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
-      "summary": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
-      "published": "Tue, 10 Nov 2026 15:28:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5308749&width=800"
     },
     {
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -352,14 +368,6 @@
       "published": "Tue, 10 Nov 2026 14:53:05 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg"
-    },
-    {
-      "title": "Another contract extension for Fujitsu on the Post Office's Horizon",
-      "link": "https://www.theregister.com/public-sector/2026/11/10/another-contract-extension-for-fujitsu-on-the-post-offices-horizon/5308793",
-      "summary": "Just a few more months until Accenture takes over running scandal-hit Horizon system",
-      "published": "Tue, 10 Nov 2026 14:45:11 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=228064&width=800"
     },
     {
       "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
@@ -474,12 +482,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/trump-threatened-top-ai-lab.jpg?quality=85&w=2048"
     },
     {
-      "title": "North Korea Is Allegedly Using Elon Musk and Cartoon-Themed Meme Coins to Launder the Billions in Crypto It Stole From Binance",
-      "link": "https://futurism.com/future-society/north-korea-meme-coins-launder-crypto-binance",
-      "summary": "<p>Finally: the perfect use for meme coins.</p>\n<p>The post <a href=\"https://futurism.com/future-society/north-korea-meme-coins-launder-crypto-binance\">North Korea Is Allegedly Using Elon Musk and Cartoon-Themed Meme Coins to Launder the Billions in Crypto It Stole From Binance</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 09 Nov 2026 13:24:45 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/north-korea-meme-crypto.jpg?quality=85&w=2048"
+      "title": "Streaming is still trying to be TikTok",
+      "link": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time [&#8230;]",
+      "published": "2026-11-11T08:30:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be [&#8230;]",
+      "published": "2026-11-11T08:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Not everyone is loving their new iPhone Duo",
+      "link": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make [&#8230;]",
+      "published": "2026-11-11T08:00:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, [&#8230;]",
+      "published": "2026-11-11T07:30:00-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Apple is killing its Support Community forum next week",
+      "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November [&#8230;]",
+      "published": "2026-11-11T07:19:10-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
@@ -520,46 +560,6 @@
       "published": "2026-11-10T14:40:52-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Starlink Mini 2 adds a swappable battery",
-      "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes [&#8230;]",
-      "published": "2026-11-10T14:19:12-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes [&#8230;]",
-      "published": "2026-11-10T14:04:05-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag [&#8230;]",
-      "published": "2026-11-10T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "link": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight [&#8230;]",
-      "published": "2026-11-10T14:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "One of our favorite multi-filament 3D printers is $100 off",
-      "link": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
-      "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 off the list price [&#8230;]",
-      "published": "2026-11-10T13:42:03-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
