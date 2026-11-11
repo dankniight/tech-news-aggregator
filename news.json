@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-11-10T23:01:04.178009",
+  "lastUpdated": "2026-11-11T05:31:16.777422",
   "articles": [
+    {
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "published": "Wed, 11 Nov 2026 01:02:13 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675"
+    },
+    {
+      "title": "Anthropic tiptoes into MS Office territory",
+      "link": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+      "summary": "Sheets, Whiteboards, and Data artifact types bring Claude closer to a productivity suite",
+      "published": "Tue, 10 Nov 2026 23:45:26 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5308992&width=800"
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "published": "Tue, 10 Nov 2026 23:30:56 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg"
+    },
+    {
+      "title": "Ye olde server consolidation has made Cisco push top-of-rack switching to 100G",
+      "link": "https://www.theregister.com/networks/2026/11/10/ye-olde-server-consolidation-has-made-cisco-push-top-of-rack-switching-to-100g/5308970",
+      "summary": "Newer server processors pack more cores into fewer boxes, creating a need for network speed",
+      "published": "Tue, 10 Nov 2026 23:25:37 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5308975&width=800"
+    },
+    {
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "published": "Tue, 10 Nov 2026 23:02:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg"
+    },
+    {
+      "title": "VMware floats new standard to make sure apps don’t break in hybrid K8s environments",
+      "link": "https://www.theregister.com/virtualization/2026/11/10/vmware-floats-new-standard-to-make-sure-apps-dont-break-in-hybrid-k8s-environments/5308956",
+      "summary": "Virtzilla also taking on KubeVirt by sharing VM API with the CNCF",
+      "published": "Tue, 10 Nov 2026 22:52:56 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256634&width=800"
+    },
+    {
+      "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+      "link": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
+      "summary": "Microsoft admins wail and gnash their teeth",
+      "published": "Tue, 10 Nov 2026 22:37:01 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5308965&width=800"
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "published": "Tue, 10 Nov 2026 22:35:01 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg"
+    },
     {
       "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
       "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
@@ -8,6 +72,14 @@
       "published": "Tue, 10 Nov 2026 21:55:26 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg"
+    },
+    {
+      "title": "Ring robots ready to patrol paranoids’ pads",
+      "link": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+      "summary": "Amazon calls its home security drone and business patrol bot 'proactive protection'",
+      "published": "Tue, 10 Nov 2026 21:45:45 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5308936&width=800"
     },
     {
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -258,14 +330,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/trump-ceo-cheat-wife-spy.jpg?quality=85&w=2048"
     },
     {
-      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-      "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-      "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
-      "published": "Tue, 10 Nov 2026 15:45:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675"
-    },
-    {
       "title": "Fireworks AI gets burned twice as customer data exposure widens",
       "link": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
       "summary": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
@@ -314,36 +378,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/nvidia-shut-down-government-investigation-chip-smuggling.jpg?quality=85&w=2048"
     },
     {
-      "title": "Polestar has a new look with its Formula 2030 concept",
-      "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
-      "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
-      "published": "Tue, 10 Nov 2026 14:22:02 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg"
-    },
-    {
-      "title": "Stanford's century-long AI study admits it's already out of date",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/stanfords-century-long-ai-study-admits-its-already-out-of-date/5308574",
-      "summary": "Five-year review charts upheaval in work, science, and public life – with little consensus on who's in control",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5308673&width=800"
-    },
-    {
       "title": "Democrats Preparing Crackdown on Prediction Markets",
       "link": "https://futurism.com/future-society/democrats-regulation-crackdown-prediction-markets",
       "summary": "<p>\"Now is the time for long-overdue legislative action.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/democrats-regulation-crackdown-prediction-markets\">Democrats Preparing Crackdown on Prediction Markets</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 10 Nov 2026 13:53:32 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/democrats-crackdown-prediction-markets.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8",
-      "link": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732",
-      "summary": "Another Chrome memory bug gets squashed, but not before attackers got their hands on it",
-      "published": "Tue, 10 Nov 2026 13:28:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5308741&width=800"
     },
     {
       "title": "The Company That Published Fake Journalists in Sports Illustrated is Collapsing Dramatically After Massive AI Rebrand",
@@ -354,52 +394,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/company-fake-sports-illustrated-ai-collapsed.jpg?quality=85&w=2048"
     },
     {
-      "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
-      "summary": "BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on",
-      "published": "Tue, 10 Nov 2026 13:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5303385&width=800"
-    },
-    {
       "title": "Man Sues Kalshi After Losing Over $300,000 Gambling on Platform",
       "link": "https://futurism.com/future-society/man-sues-kalshi-losing-gambling",
       "summary": "<p>He narrowly missed the boat for his chance to get a refund.</p>\n<p>The post <a href=\"https://futurism.com/future-society/man-sues-kalshi-losing-gambling\">Man Sues Kalshi After Losing Over $300,000 Gambling on Platform</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 10 Nov 2026 12:50:08 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/man-sues-kalshi-losing-gambling.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Smart meters to cost the UK billions: 2G switch-off means replacing 12-13 million",
-      "link": "https://www.theregister.com/networks/2026/11/10/smart-meters-to-cost-the-uk-billions-2g-switch-off-means-replacing-12-13-million/5308728",
-      "summary": "Sunset of legacy cellphone tech means forced upgrade for many millions of smart energy meter users",
-      "published": "Tue, 10 Nov 2026 12:38:51 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=233199&width=800"
-    },
-    {
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "published": "Tue, 10 Nov 2026 12:15:32 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg"
-    },
-    {
-      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-      "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
-      "published": "Tue, 10 Nov 2026 12:00:21 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648-1794321189.jpeg"
-    },
-    {
-      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
-      "summary": "Post-quantum handshake and Triple Ratchet get a formal security check",
-      "published": "Tue, 10 Nov 2026 12:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5308629&width=800"
     },
     {
       "title": "Energy Drinks Loaded With Bizarre Chemicals Are Causing Heart Attacks in Healthy Young People",
@@ -482,6 +482,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/north-korea-meme-crypto.jpg?quality=85&w=2048"
     },
     {
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [&#8230;]",
+      "published": "2026-11-10T19:34:24-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
       "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
       "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [&#8230;]",
@@ -552,14 +560,6 @@
       "published": "2026-11-10T13:42:03-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You [&#8230;]",
-      "published": "2026-11-10T13:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
