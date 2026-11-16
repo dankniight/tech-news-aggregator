@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-15T22:38:53.661390",
+  "lastUpdated": "2026-11-16T05:43:32.622336",
   "articles": [
+    {
+      "title": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
+      "link": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
+      "summary": "PLUS: SEGA Japan suffers outage and data leak; India bans dead battery exports; Alibaba chip unit to float; and more",
+      "published": "Sun, 15 Nov 2026 23:46:01 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=252018&width=800"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800"
+    },
+    {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "published": "Sun, 15 Nov 2026 23:11:54 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg"
+    },
     {
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
@@ -250,6 +274,22 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg"
     },
     {
+      "title": "Amazon loses first batch of broadband satellites launched on custom rocket",
+      "link": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000",
+      "summary": "United Launch Alliance’s Vulcan LEO didn’t reach orbit",
+      "published": "Mon, 16 Nov 2026 01:32:57 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5310005&width=800"
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800"
+    },
+    {
       "title": "FAA has lifted its third-ever nationwide ground stop",
       "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
       "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
@@ -266,14 +306,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925"
     },
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
-    },
-    {
       "title": "FAA blames ground stop on faulty copper wiring",
       "link": "https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912",
       "summary": "Safety reasons and unspecified communications issue cited",
@@ -288,14 +320,6 @@
       "published": "Fri, 13 Nov 2026 21:59:01 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg"
-    },
-    {
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "published": "Fri, 13 Nov 2026 21:44:38 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800"
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
@@ -434,14 +458,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/tenant-beat-down-landlord-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-      "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-      "published": "Fri, 13 Nov 2026 14:45:04 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg"
-    },
-    {
       "title": "Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world",
       "link": "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
       "summary": "In the aftermath of Jensen Huang's resignation, not only may the AI bubble pop, but the world economy is in some peril",
@@ -458,28 +474,20 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/ai-found-ancient-maya-site-not.jpg?quality=85&w=2048"
     },
     {
-      "title": "Oh my Word! Microsoft retires compatibility options, because who needs layouts to stay put",
-      "link": "https://www.theregister.com/applications/2026/11/13/oh-my-word-microsoft-retires-compatibility-options-because-who-needs-layouts-to-stay-put/5309664",
-      "summary": "Admins with archives of ancient files brace for the wave of tickets from confused users",
-      "published": "Fri, 13 Nov 2026 14:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5309698&width=800"
-    },
-    {
-      "title": "Quantum Systems drones back in the air after malware scare",
-      "link": "https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658",
-      "summary": "Germany's Bundeswehr lifted precautionary grounding after malicious update reportedly reached military servers",
-      "published": "Fri, 13 Nov 2026 13:14:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=246156&width=800"
-    },
-    {
       "title": "Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance",
       "link": "https://futurism.com/future-society/palantir-ceo-warns-mass-surveillance",
       "summary": "<p>You mean the mass surveillance that we already have?</p>\n<p>The post <a href=\"https://futurism.com/future-society/palantir-ceo-warns-mass-surveillance\">Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 13 Nov 2026 13:01:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/palantir-ceo-wealth-tax-mass-surveillance.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+      "published": "2026-11-15T20:26:56-05:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
@@ -552,14 +560,6 @@
       "published": "2026-11-15T08:57:30-05:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "An overview of Jensen Huang’s messy days",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
-      "published": "2026-11-15T08:00:00-05:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
