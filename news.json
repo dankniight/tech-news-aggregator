@@ -1,6 +1,294 @@
 {
-  "lastUpdated": "2026-11-17T15:44:18.297846",
+  "lastUpdated": "2026-11-18T00:46:34.978410",
   "articles": [
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "published": "Wed, 18 Nov 2026 00:27:29 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "published": "Wed, 18 Nov 2026 00:16:50 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776"
+    },
+    {
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "published": "Wed, 18 Nov 2026 00:01:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Tom-Wehmeier-Atomico.jpg?resize=1200,800"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "published": "Tue, 17 Nov 2026 23:37:48 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
+    },
+    {
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "published": "Tue, 17 Nov 2026 23:09:09 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "published": "Tue, 17 Nov 2026 23:04:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+    },
+    {
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "published": "Tue, 17 Nov 2026 22:44:46 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg"
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "published": "Tue, 17 Nov 2026 22:42:27 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+    },
+    {
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "published": "Tue, 17 Nov 2026 22:32:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "published": "Tue, 17 Nov 2026 21:48:07 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+    },
+    {
+      "title": "Satya sorry for SaaS-y SNAFU - look over there, more AI!",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594",
+      "summary": "At Ignite, the Windows-Azure giant is all about Copilot",
+      "published": "Tue, 17 Nov 2026 21:44:58 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5250857&width=800"
+    },
+    {
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "published": "Tue, 17 Nov 2026 21:34:50 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675"
+    },
+    {
+      "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
+      "link": "https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585",
+      "summary": "But the new chairman shot that idea down on the company's earnings call",
+      "published": "Tue, 17 Nov 2026 21:15:42 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=222354&width=800"
+    },
+    {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "published": "Tue, 17 Nov 2026 20:32:55 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg"
+    },
+    {
+      "title": "Python parallel debugging comes to HPC thanks to TotalView upgrade",
+      "link": "https://www.theregister.com/devops/2026/11/17/python-parallel-debugging-comes-to-hpc-thanks-to-totalview-upgrade/5310564",
+      "summary": "TotalView has supported C/C++ and Fortran. With the latest quarterly release, it supports Python as well",
+      "published": "Tue, 17 Nov 2026 20:14:31 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5310582&width=800"
+    },
+    {
+      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+      "link": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
+      "summary": "If you design a test to find misalignment, you will find misalignment",
+      "published": "Tue, 17 Nov 2026 19:52:57 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=223243&width=800"
+    },
+    {
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+      "published": "Tue, 17 Nov 2026 19:49:41 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801"
+    },
+    {
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "summary": "Studio head Heather Hazen is among those departing.",
+      "published": "Tue, 17 Nov 2026 19:45:25 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg"
+    },
+    {
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "published": "Tue, 17 Nov 2026 19:32:11 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "published": "Tue, 17 Nov 2026 19:02:20 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+    },
+    {
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+      "published": "Tue, 17 Nov 2026 18:55:40 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780"
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "published": "Tue, 17 Nov 2026 18:48:23 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800"
+    },
+    {
+      "title": "America's hyperscale bit barns draw as much power as entire states",
+      "link": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471",
+      "summary": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+      "published": "Tue, 17 Nov 2026 18:29:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=241444&width=800"
+    },
+    {
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "published": "Tue, 17 Nov 2026 18:26:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg"
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "published": "Tue, 17 Nov 2026 18:13:34 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg"
+    },
+    {
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/attachment-1.jpeg?resize=1200,730"
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "published": "Tue, 17 Nov 2026 18:04:16 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Pedestal-Cofounders-Photo-November-2026.jpg?resize=1200,800"
+    },
+    {
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "published": "Tue, 17 Nov 2026 18:00:51 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg"
+    },
+    {
+      "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+      "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+      "summary": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more",
+      "published": "Tue, 17 Nov 2026 17:45:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=2918386&width=800"
+    },
+    {
+      "title": "Crypto Bros Are Getting Bludgeoned by a Lead Pipe",
+      "link": "https://futurism.com/future-society/crypto-bros-selloff-prices-blockchain-lead-pipe",
+      "summary": "<p>They're in deep trouble.</p>\n<p>The post <a href=\"https://futurism.com/future-society/crypto-bros-selloff-prices-blockchain-lead-pipe\">Crypto Bros Are Getting Bludgeoned by a Lead Pipe</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 17 Nov 2026 17:21:38 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/crypto-bros-bludgeoned.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "SAP's cloud migration chief is migrating to Ionos as CEO",
+      "link": "https://www.theregister.com/software/2026/11/17/saps-cloud-migration-chief-is-migrating-to-ionos-as-ceo/5310530",
+      "summary": "After more than two decades in Walldorf, Thomas Saueressig takes reins at hosting provider in April",
+      "published": "Tue, 17 Nov 2026 17:13:28 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262729&width=800"
+    },
+    {
+      "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
+      "summary": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to",
+      "published": "Tue, 17 Nov 2026 17:00:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=248218&width=800"
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "published": "Tue, 17 Nov 2026 16:50:10 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
+    },
+    {
+      "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers",
+      "link": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
+      "summary": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
+      "published": "Tue, 17 Nov 2026 16:15:00 +0000",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5310468&width=800"
+    },
+    {
+      "title": "Microsoft’s Mega Outage Reportedly Caused 15 Hotel Guests to Be Poisoned",
+      "link": "https://futurism.com/future-society/microsoft-mega-outage-chlorine-poisoning",
+      "summary": "<p>Horrifying.</p>\n<p>The post <a href=\"https://futurism.com/future-society/microsoft-mega-outage-chlorine-poisoning\">Microsoft&#8217;s Mega Outage Reportedly Caused 15 Hotel Guests to Be Poisoned</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 17 Nov 2026 15:48:20 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/microsoft-outage-poisoned-hotel.jpg?quality=85&w=2048"
+    },
     {
       "title": "House Democrats promise a US return to global climate talks",
       "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
@@ -26,22 +314,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg"
     },
     {
-      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-      "link": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
-      "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
-      "published": "Tue, 17 Nov 2026 15:07:06 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800"
-    },
-    {
-      "title": "Meta launches Direct, a standalone messaging app for Instagram",
-      "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-      "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
-      "published": "Tue, 17 Nov 2026 15:01:46 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-9.43.05-AM.png?resize=1200,657"
-    },
-    {
       "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
       "link": "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
       "summary": "Standing committee will oversee export compliance following allegations its GPUs were diverted to China",
@@ -50,28 +322,12 @@
       "image_url": "https://image.theregister.com/?imageId=242719&width=800"
     },
     {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can [&#8230;]",
-      "published": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-12.32.41-PM.jpg?w=942"
-    },
-    {
-      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-      "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-      "summary": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos.",
-      "published": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?resize=1200,800"
-    },
-    {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
-      "published": "Tue, 17 Nov 2026 14:50:58 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800"
+      "title": "AI-Powered “Safe Roleplay” Plushie for Kids Pulled From Shelves After It’s Caught Talking About Things Too Disturbing to Put in This Headline",
+      "link": "https://futurism.com/artificial-intelligence/ai-plushie-roleplay-kids-disturbing",
+      "summary": "<p>Nothing is off the table for AI toys, including graphic descriptions of mass killings.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-plushie-roleplay-kids-disturbing\">AI-Powered &#8220;Safe Roleplay&#8221; Plushie for Kids Pulled From Shelves After It&#8217;s Caught Talking About Things Too Disturbing to Put in This Headline</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 17 Nov 2026 14:58:44 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/ai-plushie-roleplay-kids-disturbing.jpg?quality=85&w=2048"
     },
     {
       "title": "Website owners thumb their noses at EU privacy rules, researcher finds",
@@ -80,22 +336,6 @@
       "published": "Tue, 17 Nov 2026 14:30:00 +0000",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5310274&width=800"
-    },
-    {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
-      "published": "Tue, 17 Nov 2026 14:26:46 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
-    },
-    {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-      "published": "Tue, 17 Nov 2026 14:05:30 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2087335475.jpg?resize=1200,799"
     },
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -114,36 +354,12 @@
       "image_url": "https://image.theregister.com/?imageId=5310455&width=800"
     },
     {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-      "published": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
-    },
-    {
-      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-      "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-      "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
-      "published": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_1826.jpg?resize=862,1200"
-    },
-    {
-      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
-      "link": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
-      "summary": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken.\"",
-      "published": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/SLICING-CHICKEN.jpg?resize=1200,800"
-    },
-    {
-      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-      "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-      "published": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/OLD-ClockwiseTV.png?resize=1200,675"
+      "title": "iPhones Suddenly Lose Functionality as Apple Suffers Major Outage",
+      "link": "https://futurism.com/future-society/apple-iphone-services-suffers-major-outage",
+      "summary": "<p>First Outlook, now this?</p>\n<p>The post <a href=\"https://futurism.com/future-society/apple-iphone-services-suffers-major-outage\">iPhones Suddenly Lose Functionality as Apple Suffers Major Outage</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 17 Nov 2026 13:56:24 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/iphones-suddenly-lose-functionality-as-apple-suffers-major-outage.jpg?quality=85&w=2048"
     },
     {
       "title": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
@@ -154,6 +370,14 @@
       "image_url": "https://image.theregister.com/?imageId=257960&width=800"
     },
     {
+      "title": "Nvidia Stock Is Sinking Like a Stone",
+      "link": "https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone",
+      "summary": "<p>The economy's fate is riding on its success.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone\">Nvidia Stock Is Sinking Like a Stone</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 17 Nov 2026 13:03:43 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/nvidia-stock-sinking-stone.jpg?quality=85&w=2048"
+    },
+    {
       "title": "AI toys are on the naughty list again this year",
       "link": "https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261",
       "summary": "Last year's offenders mostly cleaned up their acts, but a new batch is just as ready to talk sex, drugs, and where to find the knives with your kids",
@@ -162,12 +386,12 @@
       "image_url": "https://image.theregister.com/?imageId=5310286&width=800"
     },
     {
-      "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
-      "link": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
-      "summary": "Amazon shunts some real estate off its books, a move Omdia analyst says may be about economics, as AI buildout weighs on hyperscaler finances",
-      "published": "Tue, 17 Nov 2026 12:31:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261440&width=800"
+      "title": "Absolutely Everything Is Getting Hacked",
+      "link": "https://futurism.com/future-society/absolutely-everything-is-getting-hacked",
+      "summary": "<p>We're in the midst of sweeping cybersecurity attacks.</p>\n<p>The post <a href=\"https://futurism.com/future-society/absolutely-everything-is-getting-hacked\">Absolutely Everything Is Getting Hacked</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 17 Nov 2026 12:26:38 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/everybody-getting-hacked.jpg?quality=85&w=2048"
     },
     {
       "title": "Artist brings old Space Shuttle tank back to life",
@@ -178,20 +402,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-1152x648.jpg"
     },
     {
-      "title": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'",
-      "link": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405",
-      "summary": "Market research company brings in external specialists to grok cause and scope",
-      "published": "Tue, 17 Nov 2026 11:44:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5269572&width=800"
-    },
-    {
-      "title": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits",
-      "link": "https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385",
-      "summary": "Whitehall talks up supplier diversification after Redmond's 18-hour outage",
-      "published": "Tue, 17 Nov 2026 11:09:31 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5282252&width=800"
+      "title": "The NSA’s Internal Computer System for Sharing Highly Classified Information Just Went Down",
+      "link": "https://futurism.com/future-society/nsa-internal-computer-system-down",
+      "summary": "<p>What is happening?!</p>\n<p>The post <a href=\"https://futurism.com/future-society/nsa-internal-computer-system-down\">The NSA&#8217;s Internal Computer System for Sharing Highly Classified Information Just Went Down</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 17 Nov 2026 11:27:02 -0500",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/nsa-internal-computer-system-down.jpg?quality=85&w=2048"
     },
     {
       "title": "Homeland Security Head Says Huge Outages Are Linked to AI",
@@ -202,36 +418,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/homeland-security-head-outages-linked-ai.jpg?quality=85&w=2048"
     },
     {
-      "title": "MPs ask what the break clause was for as Palantir wins two more years in the NHS",
-      "link": "https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348",
-      "summary": "Ministers promise fresh procurement, but critics warn extension gives US supplier more time to dig in",
-      "published": "Tue, 17 Nov 2026 10:15:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5252686&width=800"
-    },
-    {
-      "title": "PostgreSQL patches 52 security holes, sends version 14 into retirement",
-      "link": "https://www.theregister.com/databases/2026/11/17/postgresql-patches-52-security-holes-sends-version-14-into-retirement/5310108",
-      "summary": "Some fixes need more than installation, while the next major release is due November 19",
-      "published": "Tue, 17 Nov 2026 09:30:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=263315&width=800"
-    },
-    {
       "title": "This Star System Is So Strange that Astronomers Couldn’t Recreate How it Formed In Hundreds of Thousands of Simulations",
       "link": "https://futurism.com/space/star-system-strange-simulations",
       "summary": "<p>At the center of the mystery: a \"supermassive neutron star.\"</p>\n<p>The post <a href=\"https://futurism.com/space/star-system-strange-simulations\">This Star System Is So Strange that Astronomers Couldn’t Recreate How it Formed In Hundreds of Thousands of Simulations</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Tue, 17 Nov 2026 09:28:00 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/star-system-strange-recreate-formed.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "The future of datacenters depends on behind-the-meter energy generation",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/partner-content-the-future-of-datacenters-depends-on-behind-the-meter-energy-generation/5307526",
-      "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> Hyperscalers and colos have distinct power strategies, but for both, securing flexible, fast power relies on self-generated solutions",
-      "published": "Tue, 17 Nov 2026 09:00:00 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5307530&width=800"
     },
     {
       "title": "Eric Trump’s Robot Soldier Startup Fails to Pay Employees After CEO Bought a $4.6 Mansion With Company Funds",
@@ -242,156 +434,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/eric-trump-robot-ceo-mansion.jpg?quality=85&w=2048"
     },
     {
-      "title": "Japan's Fugaku supercomputer has decidedly un-super security",
-      "link": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
-      "summary": "Attackers try logging in to Earth’s ninth most powerful machine after status page hack exposed credentials",
-      "published": "Tue, 17 Nov 2026 05:27:04 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5310340&width=800"
-    },
-    {
-      "title": "350 tech jobs hammered as TCS takes over work at iconic Australian retailer",
-      "link": "https://www.theregister.com/channel/2026/11/17/350-tech-jobs-hammered-as-tcs-takes-over-work-at-iconic-australian-retailer/5310324",
-      "summary": "Bunnings Warehouse needs a technology model its current employees somehow can’t deliver",
-      "published": "Tue, 17 Nov 2026 03:51:20 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5310329&width=800"
-    },
-    {
-      "title": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
-      "link": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
-      "summary": "Commerce dept runing criminal investigation into Nvidia-linked Megaspeed",
-      "published": "Tue, 17 Nov 2026 00:55:39 +0000",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259879&width=800"
-    },
-    {
-      "title": "Author Says the Hundreds of Full-Length Romance Novels She Publishes Every Year Are Very High Quality in Spite of AI Usage",
-      "link": "https://futurism.com/artificial-intelligence/author-hundreds-romance-novels-ai",
-      "summary": "<p>\"I can now draft the whole book in one sequence.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/author-hundreds-romance-novels-ai\">Author Says the Hundreds of Full-Length Romance Novels She Publishes Every Year Are Very High Quality in Spite of AI Usage</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 15 Nov 2026 10:01:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/author-hundreds-romance-novels-quality-ai.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Grim Simulation Shows What Earth Would Be Like if Life Never Existed",
-      "link": "https://futurism.com/science-energy/simulation-earth-without-life",
-      "summary": "<p>The Earth does just fine without us.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/simulation-earth-without-life\">Grim Simulation Shows What Earth Would Be Like if Life Never Existed</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 15 Nov 2026 09:01:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/simulation-earth-life-never-existed.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds",
-      "link": "https://futurism.com/future-society/hormone-therapy-transgender-care-research",
-      "summary": "<p>\"These decisions should be reserved for the doctor's office, and not with the politicians.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/hormone-therapy-transgender-care-research\">People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sun, 15 Nov 2026 08:02:00 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/hormone-therapy-lower-regret-rate.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "published": "Mon, 16 Nov 2026 23:32:32 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
-    },
-    {
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
       "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
       "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
       "published": "Mon, 16 Nov 2026 22:58:27 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg"
-    },
-    {
-      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-      "published": "Mon, 16 Nov 2026 22:12:31 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800"
-    },
-    {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "published": "Mon, 16 Nov 2026 22:03:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800"
-    },
-    {
-      "title": "Three small failures combined to take down Microsoft 365",
-      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-      "published": "Mon, 16 Nov 2026 21:56:39 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg"
-    },
-    {
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "published": "Mon, 16 Nov 2026 21:01:02 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800"
-    },
-    {
-      "title": "Hyperscale data centers use 2% of US electricity",
-      "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-      "published": "Mon, 16 Nov 2026 20:52:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg"
-    },
-    {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "published": "Mon, 16 Nov 2026 20:37:47 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg"
-    },
-    {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "summary": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
-      "published": "Mon, 16 Nov 2026 20:27:58 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg"
-    },
-    {
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "published": "Mon, 16 Nov 2026 19:54:21 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg"
-    },
-    {
-      "title": "When will humans actually fly on Starship?",
-      "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "published": "Mon, 16 Nov 2026 19:46:08 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg"
-    },
-    {
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "link": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-      "published": "Mon, 16 Nov 2026 19:36:25 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg"
-    },
-    {
-      "title": "US moves to cut China’s remote access to AI chips",
-      "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
-      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg"
     },
     {
       "title": "Elon Musk Loses Mind Over SNL Sketch About Him",
@@ -408,14 +456,6 @@
       "published": "Mon, 16 Nov 2026 16:57:25 -0500",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/openai-board-member-dead-enslaved.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-      "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "summary": "International authorities will announce US lost its elimination status Tuesday.",
-      "published": "Mon, 16 Nov 2026 16:39:29 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg"
     },
     {
       "title": "Economists Horrified by What AI Industry Has Done to Global Economy",
@@ -442,124 +482,84 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/star-system-emitting-signal-eight-minutes.jpg?quality=85&w=2048"
     },
     {
-      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-      "published": "Mon, 16 Nov 2026 14:06:16 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg"
-    },
-    {
-      "title": "Jensen Huang Was Allegedly Making Graphics Cards Hard to Obtain on Purpose to Boost Profits",
-      "link": "https://futurism.com/artificial-intelligence/jensen-huang-graphics-cards-artificial-scarcity",
-      "summary": "<p>The company was facing an \"avalanche\" of AI chip parts — but prices spiked anyway.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/jensen-huang-graphics-cards-artificial-scarcity\">Jensen Huang Was Allegedly Making Graphics Cards Hard to Obtain on Purpose to Boost Profits</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 16 Nov 2026 12:59:35 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/jensen-huang-graphics-cards-artificial-scarcity.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Jensen Huang Is Trying to Seize Back Control of Nvidia",
-      "link": "https://futurism.com/artificial-intelligence/jensen-huang-trying-return-nvidia-jpg",
-      "summary": "<p>The saga continues.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/jensen-huang-trying-return-nvidia-jpg\">Jensen Huang Is Trying to Seize Back Control of Nvidia</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 16 Nov 2026 12:29:55 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/jensen-huang-control-nvidia.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Instagram’s Algorithm Is Promoting Antisemitic Content, Report Finds",
-      "link": "https://futurism.com/artificial-intelligence/instagram-algorithm-antisemitic-content",
-      "summary": "<p>When we typed \"Jews\" into the search bar, Instagram recommended the phrase \"jews controll [sic] everything.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/instagram-algorithm-antisemitic-content\">Instagram&#8217;s Algorithm Is Promoting Antisemitic Content, Report Finds</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 16 Nov 2026 12:01:07 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/instagram-algorithm-antisemitic-content.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Transportation Secretary Unable to Explain Why Air Traffic Control Systems Were Updated in the Middle of a Busy Travel Day Instead of Late at Night",
-      "link": "https://futurism.com/advanced-transport/transportation-secretary-explain-air-traffic-control-systems",
-      "summary": "<p>Air traffic controllers say we're not getting the real story.</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/transportation-secretary-explain-air-traffic-control-systems\">Transportation Secretary Unable to Explain Why Air Traffic Control Systems Were Updated in the Middle of a Busy Travel Day Instead of Late at Night</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Mon, 16 Nov 2026 10:30:41 -0500",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/11/transportation-secretary-explain-air-traffic-control-systems.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Kalshi moves into a new kind of gambling: the stock market",
-      "link": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
-      "summary": "Kalshi is getting ready to offer stock trading on its platform, according to reports from The Wall Street Journal and CNBC. The company reportedly plans to use its acquisition of broker FB Securities to launch equities and exchange-traded funds \"within the next two months,\" pitting the prediction market against rivals like Robinhood. The rumored expansion [&#8230;]",
-      "published": "2026-11-17T10:35:32-05:00",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked [&#8230;]",
+      "published": "2026-11-17T18:41:18-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
-      "link": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
-      "summary": "The first season of Netflix's 3 Body Problem series ended with the remaining members of the Oxford Five disillusioned at the idea of humanity being utterly unprepared to deal with the San-Ti's arrival on Earth. But in the first trailer for the show's upcoming second season, it looks like the world's greatest minds have been [&#8230;]",
-      "published": "2026-11-17T10:04:20-05:00",
+      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silicon Valley and the World conference today, Bezos [&#8230;]",
+      "published": "2026-11-17T17:38:41-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/3bp2_6052_0540.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "This E Ink photo frame can double as your family’s digital dashboard",
-      "link": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
-      "summary": "Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that's also well suited for showing artwork and photos. It's not the company's first color E Ink device, but instead of being limited to just [&#8230;]",
-      "published": "2026-11-17T09:49:21-05:00",
+      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice [&#8230;]",
+      "published": "2026-11-17T17:32:50-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/frame1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
-      "link": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
-      "summary": "Radio and TV broadcasts will be interrupted for about one minute at 2:20PM ET today while FEMA and the FCC test the country's Emergency Alert System. Unlike recent communications outages, this is a planned interruption that FEMA is required to run every three years. FEMA says today's test includes radio and television broadcasters, cable systems, [&#8230;]",
-      "published": "2026-11-17T09:28:24-05:00",
+      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the [&#8230;]",
+      "published": "2026-11-17T17:25:41-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303603602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
-      "link": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
-      "summary": "Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn&#8217;t mean the streaming device isn&#8217;t still good value. In fact, it&#8217;s an even more attractive option now that it&#8217;s dropped to $29.99 ($40 off) at [&#8230;]",
-      "published": "2026-11-17T09:25:07-05:00",
+      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "link": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation [&#8230;]",
+      "published": "2026-11-17T17:05:05-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Windows 11 actually runs better on 8GB of RAM now",
-      "link": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
-      "summary": "As recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this year, 8GB is once again typical for a starting configuration. The MacBook Neo got away with it, but Windows laptops, including [&#8230;]",
-      "published": "2026-11-17T09:00:00-05:00",
+      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is [&#8230;]",
+      "published": "2026-11-17T16:46:20-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Disney Plus and Hulu’s fully unified app arrives next month",
-      "link": "https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026",
-      "summary": "Disney Plus and Hulu will officially become one app next month. As part of its earnings report released on Tuesday, Disney announced that bundle subscribers \"will have a fully unified experience\" on Disney Plus with access to Hulu's live TV service and premium streaming add-ons in December. A unified Disney Plus and Hulu app has [&#8230;]",
-      "published": "2026-11-17T08:46:02-05:00",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+      "published": "2026-11-17T16:40:59-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954700/acastro_STK080_disneyPlus_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
-      "link": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
-      "summary": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned. The rollout comes after Uber and Zipline first announced their tie-up, including an investment in Zipline by Uber, back [&#8230;]",
-      "published": "2026-11-17T08:00:00-05:00",
+      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
+      "link": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+      "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air technology. While previously the level of [&#8230;]",
+      "published": "2026-11-17T16:38:08-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The Verge Best of 2026",
-      "link": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
-      "summary": "Hundreds of gadgets pass across our desks each year. Some leave their mark and get a full review or make it to the top of a buying guide. It's harder than it sounds to narrow down our favorites. Instead of simply picking products that scored highly, or only those that made it into our buying [&#8230;]",
-      "published": "2026-11-17T08:00:00-05:00",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+      "published": "2026-11-17T16:00:55-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BestofLede_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
-      "published": "2026-11-16T18:35:58-05:00",
+      "title": "Instagram is helping creators crack down on copycat videos",
+      "link": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+      "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and [&#8230;]",
+      "published": "2026-11-17T15:46:31-05:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
